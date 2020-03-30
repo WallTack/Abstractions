@@ -1,0 +1,525 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>dogma</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">dogma</span> <span class="exp">a doctrine or code of beliefs accepted as authoritative</span> <span class="quot">"he believed all the Marxist dogma"</span></li><li><span class="tSpeech">n</span> <span class="term">dogma</span> <span class="exp">a religious doctrine that is proclaimed as true without proof</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Dogma</span> <span class="exp">A doctrinal notion asserted without regard to evidence or truth; an arbitrary dictum.</span> </li><li><span class="term">Dogma</span> <span class="exp">A formally stated and authoritatively settled doctrine; a definite, established, and authoritative tenet.</span> </li><li><span class="term">Dogma</span> <span class="exp">That which is held as an opinion; a tenet; a doctrine.</span> <span class="wuQuot">"The obscure and loose dogmas of early antiquity."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">dogma</span> <span class="exp">A settled opinion; a principle, maxim, or tenet held as being firmly established.</span> </li><li><span class="tSpeech">n</span> <span class="term">dogma</span> <span class="exp">A principle or doctrine propounded or received on authority, as opposed to one based on experience or demonstration; specifically, an authoritative religious doctrine.</span> </li><li><span class="tSpeech">n</span> <span class="term">dogma</span> <span class="exp">Authoritative teaching or doctrine; a system of established principles or tenets, especially religious ones; specifically, the whole body or system of Christian doctrine, as accepted either by the church at large or by any branch of it.</span> </li><li><span class="tSpeech">n</span> <span class="term">dogma</span> <span class="exp">In the Kantian philosophy, a directly synthetical proposition based on concepts of the understanding. It is distinguished from an analytical judgment, from a fact of experience, from a mathematical proposition, and from an indirectly synthetical apodeictic proposition, such as the law of sufficient reason. Synonyms Precept, Tenet, etc. See doctrine.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Dogma</span> <span class="exp"><span class="itl">dog′ma</span> a settled opinion: a principle or tenet: a doctrine laid down with authority</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Lyon Phelps</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William Lyon Phelps">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The Gateway to Christianity is not through an intricate labyrinth of dogma, but by a simple belief in the person of Christ.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Abraham Rotstein</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Abraham Rotstein">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every dogma has its day.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gilbert K. Chesterton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Gilbert%20K.%20Chesterton.jpg" alt="Gilbert%20K.%20Chesterton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We call a man a bigot or a slave of dogma because he is a thinker who has thought thoroughly and to a definite end.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alexander Herzen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Alexander%20Herzen.jpg" alt="Alexander%20Herzen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You can no more bridle passions with logic than you can justify them in the law courts. Passions are facts and not dogmas.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bumper Sticker</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bumper Sticker">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“My karma ran over my dogma.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">dogma</span>, Gr. <span class="wUgrk">do`gma</span> <span class="wUpluf">pl.</span> <span class="wUgrk">do`gmata</span>, fr. <span class="wUgrk">dokei^n</span> to think, seem, appear; akin to L. <span class="wUets">decet</span>, it is becoming. Cf. <span class="wUer">Decent</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr., 'an opinion,' from <i>dokein</i>, to think, allied to L. <i>decet</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It has apparently no dogmas and no sacred book.
+					</div>
+					<div class="uAuthor">
+						"The Empire of the East" by <span>H. B. Montgomery</span>					</div>
+										<div class="usage">
+						The English dogma never reached her: the language was too foreign.
+					</div>
+					<div class="uAuthor">
+						"The Rainbow" by <span>D. H. (David Herbert) Lawrence</span>					</div>
+										<div class="usage">
+						First would come an account of some dogma as understood by the vulgar.
+					</div>
+					<div class="uAuthor">
+						"The Life of Sir James Fitzjames Stephen, Bart., K.C.S.I." by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						No dogmas nail your faith; and what remains But say so, like the honest man you are?
+					</div>
+					<div class="uAuthor">
+						"Browning's England" by <span>Helen Archibald Clarke</span>					</div>
+										<div class="usage">
+						They are contrary to our holy religion, and to the dogmas of our schools.
+					</div>
+					<div class="uAuthor">
+						"The Phantom World" by <span>Augustin Calmet</span>					</div>
+										<div class="usage">
+						For forms and ceremonies that have no fruit in action are not marks of a living truth, but of a dead dogma.
+					</div>
+					<div class="uAuthor">
+						"The Soul of a People" by <span>H. Fielding</span>					</div>
+										<div class="usage">
+						Some of his dogmas were so out of fashion that he felt them a trifle shabby even for village wear.
+					</div>
+					<div class="uAuthor">
+						"In a Little Town" by <span>Rupert Hughes</span>					</div>
+										<div class="usage">
+						The latter should be based on natural human altruism only, and not artificially misled by dogma.
+					</div>
+					<div class="uAuthor">
+						"The Sexual Question" by <span>August Forel</span>					</div>
+										<div class="usage">
+						The second dogma, the second condition of hope is that the voluntary actions of men originate in their opinions.
+					</div>
+					<div class="uAuthor">
+						"Shelley, Godwin and Their Circle" by <span>H. N. Brailsford</span>					</div>
+										<div class="usage">
+						Without these three, religion as dogma becomes impossible.
+					</div>
+					<div class="uAuthor">
+						"The Religious Sentiment" by <span>Daniel G. Brinton</span>					</div>
+										<div class="usage">
+						Let the ghastly old dogma be defied.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						Without dogma there is no theology.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						I do not believe that it is "just as well" to spread any dogma that stultifies reason and ignores common-sense.
+					</div>
+					<div class="uAuthor">
+						"Men, Women, and Gods" by <span>Helen H. Gardener</span>					</div>
+										<div class="usage">
+						Do not, I pray you, soil the minds of your children with this dogma.
+					</div>
+					<div class="uAuthor">
+						"The Ghosts" by <span>Robert G. Ingersoll</span>					</div>
+										<div class="usage">
+						Having no substantive existence, no reality in fact, they were to be ignored in Christological dogma.
+					</div>
+					<div class="uAuthor">
+						"Monophysitism Past and Present" by <span>A. A. Luce</span>					</div>
+										<div class="usage">
+						We gain no dogma, at least no safe dogma, but we gain much more.
+					</div>
+					<div class="uAuthor">
+						"Five Stages of Greek Religion" by <span>Gilbert Murray</span>					</div>
+										<div class="usage">
+						There arose a number of religious sects which opposed the subordination to dogma, and returned to the teachings of the Bible for authority.
+					</div>
+					<div class="uAuthor">
+						"History of Human Society" by <span>Frank W. Blackmar</span>					</div>
+										<div class="usage">
+						Thus the dogma of the Trinity is thoroughly founded upon the holy Scriptures.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. III" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						The "dogma" or "dogmas" of heretics are frequently mentioned by orthodox writers.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 8, Slice 6" by <span>Various</span>					</div>
+										<div class="usage">
+						It is charged generally against Unitarians that they have no positive dogma.
+					</div>
+					<div class="uAuthor">
+						"The Religious Life of London" by <span>J. Ewing Ritchie</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							But dogma new with dogma old<br>
+Clashes to soothe the spirit's grief,<br>
+And offer to the unconsoled<br>
+Polyglot Babel of Belief!
+							<div class="poet">"The Door Of Humility" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							Though Reason claim omniscient worth<br>
+And lush her dogmas thrive:<br>
+Our present home is more than earth,<br>
+Our senses more than five.
+							<div class="poet">"Dominions Of The Boundary" by <span>Bernard O Dowd</span></div>
+						</div>
+											<div class="poemQuote">
+							a secular faith: he compares its dogmas<br>
+with his, and decides whether<br>
+he would like to see more of us. (Spotless rooms<br>
+where nothing's left lying about
+							<div class="poet">"The Common Life" by <span>W H Auden</span></div>
+						</div>
+											<div class="poemQuote">
+							And out of all thy woe there came to me<br>
+This miracle of dogma, like a cry:<br>
+"No law but freedom for the vagrant bee--<br>
+No love but summer for the butterfly."
+							<div class="poet">"To C. 33" by <span>Charles Hamilton Musgrove</span></div>
+						</div>
+											<div class="poemQuote">
+							What though commandment, dogma, rite,<br>
+One after one, shall perish quite,<br>
+The Poet still will keep<br>
+The Sanctuary's lamp alight,<br>
+And, in the body's deepest night,<br>
+Forbid the soul to sleep.
+							<div class="poet">"Poet’s Corner" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							The Spirit says unto the churches,<br>
+"So many the feet that have trod<br>
+The road leading up into knowledge,<br>
+The steep narrow path has grown broad;<br>
+And the curtain held down by old dogmas<br>
+Is lifted by God."
+							<div class="poet">"He That Hath Ears" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In the past few years, some spectacular works have raised doubts about many long-standing dogmas in the stem-cell world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(02)07650-X" target="_blank" rel="external nofollow">thelancet.com</a>
+					</div>
+										<div class="usage">
+						More evidence, as if any were needed, of the widening gap between populist anti-tax dogma and reality-based policy making in Virginia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.roanoke.com/editorials/wb/308449" target="_blank" rel="external nofollow">roanoke.com</a>
+					</div>
+										<div class="usage">
+						Or take the Internet, which is shredding hard-won dogmas about individual property and ownership created during capitalism's three or four centuries.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/opinion/editorialopinion/article/1243014--paul-ryan-re-ignites-old-collectivism-vs-individualism-debate" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						Poll-time dogma and lung power.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commonwealmagazine.org/blog/?p=14942" target="_blank" rel="external nofollow">commonwealmagazine.org</a>
+					</div>
+										<div class="usage">
+						You won't likely spot Salma Hayek, the femme-fatale actress who portrayed a muse in Kevin Smith's heady religious spoof Dogma, at this year's ninth annual Musefest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://syracusenewtimes.com/newyork/article-2205-musing-my-religion.html" target="_blank" rel="external nofollow">syracusenewtimes.com</a>
+					</div>
+										<div class="usage">
+						"Beware of Dogma" billboard of the Freedom From Religion Foundation (Photo credit: Wikipedia).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/peterjreilly/2012/10/09/jill-stein-lining-up-with-freedom-from-religion-foundation-on-parsonage-exclusion/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						They thought rational and tolerant thought would eventually wipe out religious dogma.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wbez.org/episode-segments/when-faiths-collide-pluralism-twenty-first-century" target="_blank" rel="external nofollow">wbez.org</a>
+					</div>
+										<div class="usage">
+						The United Nations has a policy against all dogma.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thevalleychronicle.com/local-news/community/item/2198-clergy-corner-the-maze-of-relativism" target="_blank" rel="external nofollow">thevalleychronicle.com</a>
+					</div>
+										<div class="usage">
+						Dogma is a specific set of beliefs or standards held to based on a decision adherent with the stated belief.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thevalleychronicle.com/local-news/community/item/2198-clergy-corner-the-maze-of-relativism" target="_blank" rel="external nofollow">thevalleychronicle.com</a>
+					</div>
+										<div class="usage">
+						An entertaining passage in the book, Six Thousand Years of Bread by H. E Jacobs, cites the polarizing dogma between wheat bread lovers and rye bread lovers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://modernbaking.bakery-net.com/formulas/rheinish-brot-rye-bread-all-palates" target="_blank" rel="external nofollow">modernbaking.bakery-net.com</a>
+					</div>
+										<div class="usage">
+						Legacy of greatness being squandered with divisive political dogma.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tcpalm.com/news/2012/jul/01/michael-goforth-legacy-of-greatness-being-with/" target="_blank" rel="external nofollow">tcpalm.com</a>
+					</div>
+										<div class="usage">
+						 Atheists believe that rationality and critical thinking serve humanity better than blind faith and religious dogma.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.economist.com/node/8049474" target="_blank" rel="external nofollow">economist.com</a>
+					</div>
+										<div class="usage">
+						Student Film Delves Into Religious Dogma.
+					</div>
+					<div class="uAuthor">
+						<a href="https://woub.org/2012/04/10/dark-devotion-student-film-delves-religious-dogma" target="_blank" rel="external nofollow">woub.org</a>
+					</div>
+										<div class="usage">
+						Don't let party dogma frame our discourse .
+					</div>
+					<div class="uAuthor">
+						<a href="http://buffalonews.com/apps/pbcs.dll/article?AID=/20121022/OPINION/121029972/1119" target="_blank" rel="external nofollow">buffalonews.com</a>
+					</div>
+										<div class="usage">
+						New screens from Dragon 's Dogma released.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eastbayri.com/news/new-screens-from-dragons-dogma-released/" target="_blank" rel="external nofollow">eastbayri.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The uncritical acceptance of this viewpoint has turned it into a scientiﬁc dogma or prejudice rather than a description of what actually occurs. 
+					</div>
+					<div class="uAuthor">
+						From Knowledge, Knowability and the Search for Objective Randomness to a New Vision of Complexity
+					</div>
+										<div class="usage">
+						The ﬁrst of these was what might be described as the autocentric principle, which underlay the pre Copernican dogma to the effect that as terrestrial observers we occupy a privileged position at the center of the universe. 
+					</div>
+					<div class="uAuthor">
+						Anthropic principle in cosmology
+					</div>
+										<div class="usage">
+						Pitowsky, “Two Dogmas about Quantum Mechanics,” in Many Worlds? Everett, Quantum Theory, and Reality, edited by S. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Conditioning, the Reflection Principle, and Quantum Decoherence
+					</div>
+										<div class="usage">
+						Speciﬁcally, we show that there are several undesirable effects if one deviates from our dogma. 
+					</div>
+					<div class="uAuthor">
+						A New Look at Composition of Authenticated Byzantine Generals
+					</div>
+										<div class="usage">
+						This provides further evidence as to why our dogma is the right framework to study the composition of ABG protocols. 
+					</div>
+					<div class="uAuthor">
+						A New Look at Composition of Authenticated Byzantine Generals
+					</div>
+										<div class="usage">
+						Rescuing the prevailing dogma would require a suitable sequence of laboratory experiments, or, at the very least, plausible computer simulations. 
+					</div>
+					<div class="uAuthor">
+						A review of Johnjoe McFadden's book ``Quantum Evolution''
+					</div>
+										<div class="usage">
+						The ﬁrst steps, as described by the Dogma of molecular biology, are genes (and DNA sequence in general), their transcripts and proteins. 
+					</div>
+					<div class="uAuthor">
+						Quality assessment for short oligonucleotide microarray data
+					</div>
+										<div class="usage">
+						According to the central dogma of molecular biology the production of proteins is controlled by DNA (for simplicity, the exceptions to this rule are omitted here). 
+					</div>
+					<div class="uAuthor">
+						Quality assessment for short oligonucleotide microarray data
+					</div>
+										<div class="usage">
+						It is not clear if the dogma of free will could make these problems seriously worse. 
+					</div>
+					<div class="uAuthor">
+						Around the gap between sociophysics and sociology
+					</div>
+										<div class="usage">
+						This paradigm became a dogma over centuries. 
+					</div>
+					<div class="uAuthor">
+						Singularity Resolution in Loop Quantum Cosmology: A Brief Overview
+					</div>
+										<div class="usage">
+						We now have a new paradigm, a new dogma: In the Beginning there was the Big Bang. 
+					</div>
+					<div class="uAuthor">
+						Singularity Resolution in Loop Quantum Cosmology: A Brief Overview
+					</div>
+										<div class="usage">
+						This is analogous to ﬁnancial markets, where standard dogma asserts that wealth reallocation due to proﬁtable vs. unproﬁtable trading will result in a market that is eﬃcient in the sense that all excess proﬁt-making potential has been removed. 
+					</div>
+					<div class="uAuthor">
+						The Reality Game
+					</div>
+										<div class="usage">
+						Touchy matter, good for protestant faith but not for the dogmas from Trent concilium. 
+					</div>
+					<div class="uAuthor">
+						Dream of a Christmas lecture
+					</div>
+										<div class="usage">
+						Although brain may be the most complex system in the nature, still several general observations (dogmas) can be stated. 
+					</div>
+					<div class="uAuthor">
+						Coherence in a coupled network: Implication for brain function
+					</div>
+										<div class="usage">
+						Its presence in the science classroom blurs the distinction between real science and arbitrary dogma and “makes students stupid” by leaving them less able to distinguish reasonable ideas from unreasonable ones – a skill that is surely one of the main goals of teaching science in the ﬁrst place. 
+					</div>
+					<div class="uAuthor">
+						Intelligent Design in the Physics Classroom?
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a religious doctrine that is proclaimed as true without proof"><a href="tenet.html">tenet</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="church%20doctrine.html">church doctrine</a>, <a href="creed.html">creed</a>, <a href="doctrine.html">doctrine</a>, <a href="gospel.html">gospel</a>, <a href="ism.html">ism</a>, <a href="philosophical%20system.html">philosophical system</a>, <a href="philosophy.html">philosophy</a>, <a href="religious%20doctrine.html">religious doctrine</a>, <a href="school%20of%20thought.html">school of thought</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="article%20of%20faith.html">article of faith</a>, <a href="credendum.html">credendum</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="dogmatic.html">dogmatic</a>, <a href="dogmatical.html">dogmatical</a>, <a href="dogmatize.html">dogmatize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Anythingarian.html">Anythingarian</a>, <a href="Buddha.html">Buddha</a>, <a href="catena.html">catena</a>, <a href="doctrine.html">doctrine</a>, <a href="document.html">document</a>, <a href="dogmatic.html">dogmatic</a>, <a href="dogmatical.html">dogmatical</a>, <a href="dogmatise.html">dogmatise</a>, <a href="dogmatist.html">dogmatist</a>, <a href="dogmatize.html">dogmatize</a>, <a href="Dogmatology.html">Dogmatology</a>, <a href="free-thinking.html">free-thinking</a>, <a href="Giovanni%20Maria%20Mastai-Ferretti.html">Giovanni Maria Mastai-Ferretti</a>, <a href="Giovanni%20Mastai-Ferretti.html">Giovanni Mastai-Ferretti</a>, <a href="Greek%20Church.html">Greek Church</a>, <a href="heretic.html">heretic</a>, <a href="Immaculate%20Conception.html">Immaculate Conception</a>, <a href="Immaculate%20Conception%20of%20the%20Virgin%20Mary.html">Immaculate Conception of the Virgin Mary</a>, <a href="Infallibilist.html">Infallibilist</a>, <a href="infallibility.html">infallibility</a>, <a href="Jansenism.html">Jansenism</a>, <a href="latitudinarian.html">latitudinarian</a>, <a href="misbeliever.html">misbeliever</a>, <a href="modernism.html">modernism</a>, <a href="Old%20Catholics.html">Old Catholics</a>, <a href="papal%20infallibility.html">papal infallibility</a>, <a href="Physiocrat.html">Physiocrat</a>, <a href="Pius%20IX.html">Pius IX</a>, <a href="polemic.html">polemic</a>, <a href="recant.html">recant</a>, <a href="religious%20outcast.html">religious outcast</a>, <a href="Russian%20Church.html">Russian Church</a>, <a href="Russian%20Orthodox%20Church.html">Russian Orthodox Church</a>, <a href="sentence.html">sentence</a>, <a href="Shinto.html">Shinto</a>, <a href="Shintoism.html">Shintoism</a>, <a href="tenet.html">tenet</a>, <a href="Tractarianism.html">Tractarianism</a>, <a href="undogmatic.html">undogmatic</a>, <a href="undogmatical.html">undogmatical</a>, <a href="Vatican%20Council.html">Vatican Council</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					sogma, eogma, fogma, cogma, xogma, sogma, digma, dkgma, dlgma, dpgma, dofma, dotma, dohma, dobma, dovma, dogna, dogja, dogka, dogmq, dogmw, dogms, dogmz
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

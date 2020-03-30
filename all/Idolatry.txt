@@ -1,0 +1,440 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>idolatry</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">idolatry</span> <span class="exp">the worship of idols; the worship of images that are not God</span> </li><li><span class="tSpeech">n</span> <span class="term">idolatry</span> <span class="exp">religious zeal; the willingness to serve God</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Idolatry</span> <span class="exp">Excessive attachment or veneration for anything; respect or love which borders on adoration.</span> </li><li><span class="term">Idolatry</span> <span class="exp">The worship of idols, images, or anything which is not God; the worship of false gods.</span> <span class="wuQuot">"His eye surveyed the dark idolatries Of alienated Judah."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">idolatry</span> <span class="exp">The worship of idols or images; more generally, the paying of divine honors to any created object; the ascription of divine power to natural agencies Idolatry exists in a variety of forms, as</span> </li><li><span class="tSpeech">n</span> <span class="term">idolatry</span> <span class="exp">Immoderate veneration or love for any person or thing; admiration bordering on adoration.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Idolatry</span> <span class="exp">the worship of an image held to be the abode of a superhuman personality: excessive love</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mary Baker Eddy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mary%20Baker%20Eddy.jpg" alt="Mary%20Baker%20Eddy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Is civilization only a higher form of idolatry, that man should bow down to a flesh-brush, to flannels, to baths, diet, exercise, and air?”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ann Oakley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Ann Oakley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Families are nothing other than the idolatry of duty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Selden</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Selden.jpg" alt="John%20Selden">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Idolatry is in a man's own thought, not in the opinion of another.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“'Tis mad idolatry To make the service greater than the god.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William B. Ullathorne</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William B. Ullathorne">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Whatever a man seeks, honors, or exalts more than God, this is the god of his idolatry.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Wordsworth</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Wordsworth.jpg" alt="William%20Wordsworth">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Rapine, avarice, expense, This is idolatry; and these we adore; Plain living and high thinking are no more.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">idolâtrie</span>, LL. <span class="wUets">idolatria</span>, L. <span class="wUets">idololatria</span>, Fr. Gr. ;  idol +  service
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>idolâtre</i>, corr. of L.,—Gr. <i>eidōlolatrēs</i>—<i>eidōlon</i>, idol, <i>latreuein</i>, to worship.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						His spirit had been stirred in him when he saw the city wholly given to idolatry.
+					</div>
+					<div class="uAuthor">
+						"The Biography of Robert Murray M'Cheyne" by <span>Andrew A. Bonar</span>					</div>
+										<div class="usage">
+						Some, however, attached to the ancient idolatry, refused to abandon it.
+					</div>
+					<div class="uAuthor">
+						"The Empire of Russia" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						It seemed as if the whole realm were given up to idolatry and dissipation.
+					</div>
+					<div class="uAuthor">
+						"Traditions of Lancashire, Volume 1 (of 2)" by <span>John Roby</span>					</div>
+										<div class="usage">
+						Mahomet demanded that they should abjure idolatry, and worship the one true God openly and fearlessly.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Volume 4" by <span>Various</span>					</div>
+										<div class="usage">
+						As they are pagans, and lukewarm even in idolatry, it will be easy to make Christians of them.
+					</div>
+					<div class="uAuthor">
+						"The Philippine Islands, 1493-1898: Volume XIV., 1606-1609" by <span>Various</span>					</div>
+										<div class="usage">
+						The Arabians had a corrupt form of idolatry which came from the Persians, and worshipped not one, but a great many gods.
+					</div>
+					<div class="uAuthor">
+						"The Great Round World And What Is Going On In It, Vol. 1, No. 22, April 8, 1897" by <span>Various</span>					</div>
+										<div class="usage">
+						In its higher forms, it becomes polytheism, idolatry and defective philosophy.
+					</div>
+					<div class="uAuthor">
+						"The Religions of Japan" by <span>William Elliot Griffis</span>					</div>
+										<div class="usage">
+						Practical idolatry required a rougher method of disenchantment.
+					</div>
+					<div class="uAuthor">
+						"The Reign of Henry the Eighth, Volume 1 (of 3)" by <span>James Anthony Froude</span>					</div>
+										<div class="usage">
+						Montaigue and others have proved that it is not idolatry to have recourse to the prayers of the Apostles and Martyrs.
+					</div>
+					<div class="uAuthor">
+						"The Life of the Truly Eminent and Learned Hugo Grotius" by <span>Jean Lévesque de Burigny</span>					</div>
+										<div class="usage">
+						They idolize this Wilford, and I dare say he is worthy of their idolatry.
+					</div>
+					<div class="uAuthor">
+						"Family Pride" by <span>Mary J. Holmes</span>					</div>
+										<div class="usage">
+						It was forgetfulness of God, idolatry!
+					</div>
+					<div class="uAuthor">
+						"History of the Negro Race in America From 1619 to 1880. Vol 1" by <span>George W. Williams</span>					</div>
+										<div class="usage">
+						The people of his time were falling into idolatry.
+					</div>
+					<div class="uAuthor">
+						"The Bible Period by Period" by <span>Josiah Blake Tidwell</span>					</div>
+										<div class="usage">
+						Transubstantiation they deny, and the worship of the host they regard as idolatry.
+					</div>
+					<div class="uAuthor">
+						"The Age of Erasmus" by <span>P. S. Allen</span>					</div>
+										<div class="usage">
+						In the early nature-worship idolatry had been allowed; but the Iranic system pronounced against it from the first.
+					</div>
+					<div class="uAuthor">
+						"The Seven Great Monarchies Of The Ancient Eastern World, Vol 3. (of 7): Media" by <span>George Rawlinson</span>					</div>
+										<div class="usage">
+						With the idolatry thus introduced, another came soon to be joined.
+					</div>
+					<div class="uAuthor">
+						"The Seven Great Monarchies Of The Ancient Eastern World, Vol 5. (of 7): Persia" by <span>George Rawlinson</span>					</div>
+										<div class="usage">
+						Everywhere, except perhaps in his own province of Persia Proper, he found idolatry established.
+					</div>
+					<div class="uAuthor">
+						"The Seven Great Monarchies Of The Ancient Eastern World, Vol 7. (of 7): The Sassanian or New Persian Empire" by <span>George Rawlinson</span>					</div>
+										<div class="usage">
+						The most seductive forms of idolatry would be met everywhere and there would be great danger of yielding to it.
+					</div>
+					<div class="uAuthor">
+						"The Bible Book by Book" by <span>Josiah Blake Tidwell</span>					</div>
+										<div class="usage">
+						Let us drop this idolatry.
+					</div>
+					<div class="uAuthor">
+						"Essays" by <span>Ralph Waldo Emerson</span>					</div>
+										<div class="usage">
+						Give up this idolatry of fashion or give up heaven.
+					</div>
+					<div class="uAuthor">
+						"The Wedding Ring" by <span>T. De Witt Talmage</span>					</div>
+										<div class="usage">
+						That to believe the real presence in the host, is a shocking union of both blasphemy and idolatry.
+					</div>
+					<div class="uAuthor">
+						"Fox's Book of Martyrs" by <span>John Foxe</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"From vile idolatry<br>
+Preserve my worship clean;<br>
+I am the Lord, who set thee free<br>
+From slavery and sin.
+							<div class="poet">"Psalm 81" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							To own a God, who does not speak to men,<br>
+Is first to own, and then disown again;<br>
+Of all idolatry the total sum<br>
+Is having gods, that are both deaf and dumb.
+							<div class="poet">"Epigram VI." by <span>John Byrom</span></div>
+						</div>
+											<div class="poemQuote">
+							I'm thinking alone of a fair young bride,<br>
+The light of a home of love and pride;<br>
+How the glance of her husband's watchful eye<br>
+Turned to his star of idolatry.
+							<div class="poet">"I’m Sitting Alone" by <span>Mary Baker Eddy</span></div>
+						</div>
+											<div class="poemQuote">
+							Feels not such awful wonder as I felt<br>
+When first my smitten eyes beat full on thee,<br>
+And all night long before thy feet I knelt<br>
+Till thou wert wearied of Idolatry.
+							<div class="poet">"Quia Multum Amavi" by <span>Oscar Wilde</span></div>
+						</div>
+											<div class="poemQuote">
+							Love, nor time, nor mood, can fashion--<br>
+Love?--Idolatry's the word<br>
+To speak the broadest, deepest passion,<br>
+Ever woman's heart hath stirred!<br>
+Vain to still the mind's desires,<br>
+Which consume like hidden fires!
+							<div class="poet">"The Deserted Bride" by <span>George Pope Morris</span></div>
+						</div>
+											<div class="poemQuote">
+							Yet by the light of Christian lore<br>
+'Tis blind Idolatry no more,<br>
+But a sweet help and pattern of true love,<br>
+Showing how best the soul may cling<br>
+To her immortal Spouse and King,<br>
+How He should rule, and she with full desire approve.
+							<div class="poet">"Sexegesima Sunday" by <span>John Keble</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A cynical, coldly calculated political effort is underway to convert Sept 11 into a day of leftist celebration and statist idolatry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://spectator.org/archives/2009/08/24/obamas-plan-to-desecrate-911" target="_blank" rel="external nofollow">spectator.org</a>
+					</div>
+										<div class="usage">
+						Otherwise his colleague Ben Jonson would never have bothered to say, after Shakespeare's death, that he loved the man as well as anybody, "this side idolatry".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/2010-03-09/theater/equivocation-and-the-tempest-show-a-weak-will-the-miracle-worker-works-no-wonders/" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						Pastor's Corner: What is idolatry .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.times-herald.com/religion/20120929pastor-corner-ausbun-MOS" target="_blank" rel="external nofollow">times-herald.com</a>
+					</div>
+										<div class="usage">
+						 Idolatry is the worship of a physical object, anything that comes before God.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.times-herald.com/printerFriendly/20120929pastor-corner-ausbun-MOS" target="_blank" rel="external nofollow">times-herald.com</a>
+					</div>
+										<div class="usage">
+						Beware the Idolatry of Numbers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/politics/archive/2009/08/beware-the-idolatry-of-numbers/23090/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						Ansar Dine, the Islamist group that controls Mali's north, destroyed historic tombs and damaged a mosque this weekend, saying the religious landmarks constitute idolatry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/terrorism-security/2012/0702/Mali-Islamists-vow-to-destroy-every-mausoleum-in-Timbuktu" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						For the postrock zealot, whether it be profane concerns or secular idolatry, there is no room for frivolity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/music/0707,various,75774,22.html" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						But the familiar image of Abraham as the discoverer of the true God and the uncompromising opponent of idolatry isn't found in Genesis or anywhere else in the Hebrew Bible .
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052970203630604578072933131218850.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Lost in bizarre pop idolatry with artist Mike Kelley.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfbg.com/2008/01/23/video-mutants-booby-call" target="_blank" rel="external nofollow">sfbg.com</a>
+					</div>
+										<div class="usage">
+						"She is trying to rip off Christian idolatry to shore up her talentless, mundane and boring performances," says the president of the Catholic League.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/news/lady-gagas-judas-upsets-religious-179188" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						For 30 years, wine critic Robert Parker has cut his own path through pretense, praise, idolatry and criticism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.naplesnews.com/news/2007/jan/25/wine_festival_lone_wolf/?wine_festival" target="_blank" rel="external nofollow">naplesnews.com</a>
+					</div>
+										<div class="usage">
+						Beauty has Pride of Place, A Remedy to Idolatry, What is " Rupture ", and much more.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ncregister.com/daily-news/beauty-has-pride-of-place-a-remedy-to-idolatry-what-is-rupture-and-much-mor" target="_blank" rel="external nofollow">ncregister.com</a>
+					</div>
+										<div class="usage">
+						Idolatry has done George Washington a disservice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/articles/news/national/2008/06/27/how-george-washingtons-savvy-won-the-day.html" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						Scratch the surface of war-bruised Afghanistan—every tribe and nation's stomping ground—and you unearth precious works of art condemned as idolatry, traces of forbidden melodies, sensuous relics of a buried civilization.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/book/The-Wasted-Vigil-by-Nadeem-Aslam?cat_id=" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the worship of idols; the worship of images that are not God"><a href="idol%20worship.html">idol worship</a>, </div><div class="synGroup" title="religious zeal; the willingness to serve God"><a href="devotion.html">devotion</a>, <a href="veneration.html">veneration</a>, <a href="cultism.html">cultism</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="worship.html">worship</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bible-worship.html">bible-worship</a>, <a href="anthropolatry.html">anthropolatry</a>, <a href="bibliolatry.html">bibliolatry</a>, <a href="grammatolatry.html">grammatolatry</a>, <a href="gynaeolatry.html">gynaeolatry</a>, <a href="gyneolatry.html">gyneolatry</a>, <a href="iconolatry.html">iconolatry</a>, <a href="lordolatry.html">lordolatry</a>, <a href="miracle-worship.html">miracle-worship</a>, <a href="place-worship.html">place-worship</a>, <a href="symbol-worship.html">symbol-worship</a>, <a href="symbolatry.html">symbolatry</a>, <a href="symbololatry.html">symbololatry</a>, <a href="thaumatolatry.html">thaumatolatry</a>, <a href="topolatry.html">topolatry</a>, <a href="verbolatry.html">verbolatry</a>, <a href="woman-worship.html">woman-worship</a>, <a href="word-worship.html">word-worship</a>, <a href="worship%20of%20man.html">worship of man</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="idolater.html">idolater</a>, <a href="idolatrous.html">idolatrous</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Baalism.html">Baalism</a>, <a href="Brahmo-somaj.html">Brahmo-somaj</a>, <a href="Canonical%20sins.html">Canonical sins</a>, <a href="Epistle%20of%20Jeremiah.html">Epistle of Jeremiah</a>, <a href="Ethnicism.html">Ethnicism</a>, <a href="Ezekias.html">Ezekias</a>, <a href="fornication.html">fornication</a>, <a href="heathen.html">heathen</a>, <a href="heathenism.html">heathenism</a>, <a href="Hezekiah.html">Hezekiah</a>, <a href="iconolatry.html">iconolatry</a>, <a href="Idolatrize.html">Idolatrize</a>, <a href="idolatrous.html">idolatrous</a>, <a href="idolize.html">idolize</a>, <a href="Idolographical.html">Idolographical</a>, <a href="Image%20worship.html">Image worship</a>, <a href="Image-worship.html">Image-worship</a>, <a href="Letter%20of%20Jeremiah.html">Letter of Jeremiah</a>, <a href="Mawmetry.html">Mawmetry</a>, <a href="Novatian.html">Novatian</a>, <a href="Sabianism.html">Sabianism</a>, <a href="whoredom.html">whoredom</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					udolatry, jdolatry, kdolatry, odolatry, isolatry, ieolatry, ifolatry, icolatry, ixolatry, isolatry, idilatry, idklatry, idllatry, idplatry, idokatry, idooatry, idopatry, idolqtry, idolwtry, idolstry, idolztry, idolarry, idolafry, idolagry, idolayry, idolatey, idolatdy, idolatfy, idolatty, idolatrt, idolatrg, idolatrh, idolatru
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

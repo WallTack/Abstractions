@@ -1,0 +1,530 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>motivation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">motivation</span> <span class="exp">the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior</span> <span class="quot">"we did not understand his motivation","he acted with the best of motives"</span></li><li><span class="tSpeech">n</span> <span class="term">motivation</span> <span class="exp">the act of motivating; providing incentive</span> </li><li><span class="tSpeech">n</span> <span class="term">motivation</span> <span class="exp">the condition of being motivated</span> <span class="quot">"his motivation was at a high level"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Gerald Ford was the only President to have two women attempt to assassinate him. Both attempts were in California in September of 1975. The first attempt was September 6, 1975, by Lynette Fromme who thought she could impress Charles Manson by killing the President. The next attempt was by Sara Jane Moore on September 22, 1975. Her motive was simply that she was bored. John Tyler, joined the Confederacy twenty years later and became the only President named a sworn enemy of the United States.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">motivation</span> <span class="exp">The act or manner of motivating; the act or process of furnishing with an incentive or inducement to action.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+																		
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Taylor Coleridge</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Taylor%20Coleridge.jpg" alt="Samuel%20Taylor%20Coleridge">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No one does anything from a single motive.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Peter Davies</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Peter Davies">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Motivation is like food for the brain. You cannot get enough in one sitting. It needs continual and regular top up s.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mike Ditka</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Mike Ditka">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The ones who want to achieve and win championships motivate themselves.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Peter F. Drucker</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Peter%20F.%20Drucker.jpg" alt="Peter%20F.%20Drucker">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We know nothing about motivation. All we can do is write books about it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dwight D. Eisenhower</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Dwight%20D.%20Eisenhower.jpg" alt="Dwight%20D.%20Eisenhower">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Motivation is the art of getting people to do what you want them to do because they want to do it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Wolfgang Von Goethe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Wolfgang%20Von%20Goethe.jpg" alt="Johann%20Wolfgang%20Von%20Goethe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Who is sure of their own motives can in confidence advance or retreat.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						A motive to which I have just alluded.
+					</div>
+					<div class="uAuthor">
+						"The Last Penny and Other Stories" by <span>T. S. Arthur</span>					</div>
+										<div class="usage">
+						Now, I do not care what motives influence others.
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<div class="usage">
+						They have motive power, but no directing power.
+					</div>
+					<div class="uAuthor">
+						"Expositions of Holy Scripture" by <span>Alexander Maclaren</span>					</div>
+										<div class="usage">
+						Of motives, we are concerned with practical motives only, not those which are purely speculative.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books--Volume 14--Philosophy and Economics" by <span>Various</span>					</div>
+										<div class="usage">
+						He felt, too, as though he had a new motive in his life.
+					</div>
+					<div class="uAuthor">
+						"The Day of Judgment" by <span>Joseph Hocking</span>					</div>
+										<div class="usage">
+						There is probably no beast which has a larger share of natural courage and of independent motive.
+					</div>
+					<div class="uAuthor">
+						"Domesticated Animals" by <span>Nathaniel Southgate Shaler</span>					</div>
+										<div class="usage">
+						I appreciate your motives.
+					</div>
+					<div class="uAuthor">
+						"The Kingdom Round the Corner" by <span>Coningsby Dawson</span>					</div>
+										<div class="usage">
+						He confesses frankly that the strength of the Irish is with him a strong motive for listening to their claims.
+					</div>
+					<div class="uAuthor">
+						"The English Utilitarians, Volume II (of 3)" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						The motive, where would be the motive?
+					</div>
+					<div class="uAuthor">
+						"The Silver Butterfly" by <span>Mrs. Wilson Woodrow</span>					</div>
+										<div class="usage">
+						Would ten battles, would a campaign, would ten campaigns lost, furnish the justifying motive?
+					</div>
+					<div class="uAuthor">
+						"The Posthumous Works of Thomas De Quincey, Vol. II (2 vols)" by <span>Thomas De Quincey</span>					</div>
+										<div class="usage">
+						This new relation with God gives men a new motive.
+					</div>
+					<div class="uAuthor">
+						"God's Plan with Men" by <span>T. T. (Thomas Theodore) Martin</span>					</div>
+										<div class="usage">
+						Yet there are few fields in which, through the stress of moral motives, greater changes have been effected.
+					</div>
+					<div class="uAuthor">
+						"The Map of Life" by <span>William Edward Hartpole Lecky</span>					</div>
+										<div class="usage">
+						It enlarged at once my views and my heart, and I had higher and stronger motives to exertion.
+					</div>
+					<div class="uAuthor">
+						"The Ladies Book of Useful Information" by <span>Anonymous</span>					</div>
+										<div class="usage">
+						But what can be his motive for attempting to take your life?
+					</div>
+					<div class="uAuthor">
+						"The Guerilla Chief" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Should he clench his argument by supplying the motive?
+					</div>
+					<div class="uAuthor">
+						"The Squire's Daughter" by <span>Silas K(itto) Hocking</span>					</div>
+										<div class="usage">
+						Far different is the remaining motive of the poem.
+					</div>
+					<div class="uAuthor">
+						"Renaissance in Italy: Italian Literature" by <span>John Addington Symonds</span>					</div>
+										<div class="usage">
+						There are many motives that may be adduced to make it seem less terrifying than it now is to many people.
+					</div>
+					<div class="uAuthor">
+						"Psychotherapy" by <span>James J. Walsh</span>					</div>
+										<div class="usage">
+						English pluck has been a motive power which has helped to place the English-speaking race in the forefront of the world's history.
+					</div>
+					<div class="uAuthor">
+						"Richard III: His Life &amp; Character" by <span>Clements R. Markham</span>					</div>
+										<div class="usage">
+						He reprimands her for having mercenary motives, and makes an eloquent plea for the equality of men.
+					</div>
+					<div class="uAuthor">
+						"Dramatic Technique" by <span>George Pierce Baker</span>					</div>
+										<div class="usage">
+						The lower motives for work shall all be done away, and the one satisfying motive shall abide.
+					</div>
+					<div class="uAuthor">
+						"The Bible and Life" by <span>Edwin Holt Hughes</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							'Twas a new motive from their homes to day<br>
+That drew an eager wondering people out,<br>
+Like those who from Mount Zion took their way,<br>
+From Judah and the regions round about
+							<div class="poet">"Baptism In Lake Aluumette" by <span>Nora Pembroke</span></div>
+						</div>
+											<div class="poemQuote">
+							If all the good deeds that we do<br>
+From honest motives pure and true<br>
+Shall there recorded be,<br>
+Known unto God and angels too,<br>
+Is it not sad they are so few<br>
+And wrought so charily?
+							<div class="poet">"If." by <span>Hattie Howard</span></div>
+						</div>
+											<div class="poemQuote">
+							We feel them near us, and spread out the scroll<br>
+Of hearts whose feelings they were wont to share,<br>
+That they may read the constancy of soul<br>
+And all the high pure motives written there.
+							<div class="poet">"The Last Pale Flowers" by <span>Lydia Jane Wheeler Peirson</span></div>
+						</div>
+											<div class="poemQuote">
+							But ever since the world began,<br>
+Howe'er well meant his motives are,<br>
+The man who slays his fellow man<br>
+Is never really popular,<br>
+Whether he sins from love of crime,<br>
+Or merely just to pass the time.
+							<div class="poet">"The Cat" by <span>Harry Graham</span></div>
+						</div>
+											<div class="poemQuote">
+							To such his pent-up love o'erflows;<br>
+With such his soul's seclusion ends;<br>
+For each the other's nature knows,<br>
+And every motive comprehends;<br>
+So perfectly do both agree,<br>
+So close their bond of sympathy!
+							<div class="poet">"My Bores" by <span>John Lawson Stoddard</span></div>
+						</div>
+											<div class="poemQuote">
+							How, when, and where, we'll not relate,<br>
+Only a real fact we state.<br>
+Aldworth held thirty pounds a year<br>
+During the life of Carpenter:<br>
+He'd every motive to shun strife--<br>
+Aldworth should try to save his life.
+							<div class="poet">"The Cuckold" by <span>William Hutton</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The Conspirator ' has an ulterior motive.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.willistonobserver.com/this-weeks-popcorn-%E2%80%98the-conspirator%E2%80%99/" target="_blank" rel="external nofollow">willistonobserver.com</a>
+					</div>
+										<div class="usage">
+						Re- Energizing Your Self-Storage Staff: Methods of Coaching and Motivation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.insideselfstorage.com/articles/2012/09/reenergizing-your-selfstorage-staff-methods-of-coaching-and-motivation.aspx?pg=2" target="_blank" rel="external nofollow">insideselfstorage.com</a>
+					</div>
+										<div class="usage">
+						Barack Obamas re-electionmade possible by a strong African American, Latino, and female voteliberates the president to return to the central questions of equal opportunity that first motivated him to seek public office.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/answer-sheet/post/obamas-act-ii-the-issue-he-cant-ignore/2012/11/08/36e69820-298b-11e2-aaa5-ac786110c486_blog.html?wprss=rss_answer-sheet" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						"It's a big motivating effect for a lot of kids, being able to come to school with new shoes and new pants and shirts and stuff and it seems to be having a big impact in the classroom.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wdef.com/content/news/goldenappleaward/gaa2011-2012/story/Josh-Yother-Teaches-to-Give-All-Students-an-Equal/B4HxYVjpv0CKJeatJzlFLQ.cspx" target="_blank" rel="external nofollow">wdef.com</a>
+					</div>
+										<div class="usage">
+						The Minnesota House sponsor of the failed marriage amendment proposal said the campaign against the measure was "wrong-minded" and erroneously implied supporters were motivated by bigotry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://minnesota.publicradio.org/display/web/2012/11/09/politics/gottwalt-campaign-against-marriage-amendment-wrong-minded--erroneous/" target="_blank" rel="external nofollow">minnesota.publicradio.org</a>
+					</div>
+										<div class="usage">
+						It takes more than a piece of the rock to motivate employees.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.inc.com/magazine/19830701/9949.html" target="_blank" rel="external nofollow">inc.com</a>
+					</div>
+										<div class="usage">
+						Gators' Dominique Easley watches 2011 film every night for motivation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.orlandosentinel.com/sports/college/gators/os-florida-gators-news-1024-20121023,0,1320903.story" target="_blank" rel="external nofollow">orlandosentinel.com</a>
+					</div>
+										<div class="usage">
+						Motivations Ministries is helping a local family faced with tragedy through praise and worship.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxcharlotte.com/rising/Motivations-Ministries-170679036.html" target="_blank" rel="external nofollow">foxcharlotte.com</a>
+					</div>
+										<div class="usage">
+						Study points to well-being as fitness motivator.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiatribune.com/news/2012/jul/01/study-points-to-well-being-as-fitness-motivator/" target="_blank" rel="external nofollow">columbiatribune.com</a>
+					</div>
+										<div class="usage">
+						From our smallest towns to our largest cities and institutions, the example of Americans serving others has inspired and motivated me.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ncmahq.org/NewsPublications/CMNewsDetail.cfm?itemnumber=12030" target="_blank" rel="external nofollow">ncmahq.org</a>
+					</div>
+										<div class="usage">
+						Halle Berry's hair is still platinum, and Hugh Jackman is still super-serious, as Patrick Stewart and Ian McKellen resume their mutant-motivated bickering.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/life/movies/reviews/2003-05-01-x2_x.htm" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						John Boe presents a wide variety of motivational and sales-oriented keynotes and seminar programs for sales meetings and conventions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://rismedia.com/2011-04-07/the-power-of-belief-and-expectation/" target="_blank" rel="external nofollow">rismedia.com</a>
+					</div>
+										<div class="usage">
+						During sentencing, Judge Peter Zahra said Peters' motivation was extortion .
+					</div>
+					<div class="uAuthor">
+						<a href="http://netiquette@cnn.com/2012/11/20/world/asia/australia-collar-bomb-sentencing/index.html?hpt=hp_t2" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Three secrets to inspire, motivate, enlighten.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.blackenterprise.com/small-business/take-hold-of-your-business-success/" target="_blank" rel="external nofollow">blackenterprise.com</a>
+					</div>
+										<div class="usage">
+						Anders Behring Breivik was motivated by anti-Muslim fearmongering.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nydailynews.com/opinion/expose-islamophobia-industry-article-1.1109263" target="_blank" rel="external nofollow">nydailynews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						If the motive of X is ﬁnite dimensional then the motive of Y is also ﬁnite dimensional. 
+					</div>
+					<div class="uAuthor">
+						Murre's conjectures and explicit Chow--Kuenneth projectors for some varieties
+					</div>
+										<div class="usage">
+						With notations and assumptions as in Lemma 3.2, the motive of Z is ﬁnite dimensional if the motive of Y is ﬁnite dimensional. 
+					</div>
+					<div class="uAuthor">
+						Murre's conjectures and explicit Chow--Kuenneth projectors for some varieties
+					</div>
+										<div class="usage">
+						One of the operations appearing in the theorem is deﬁned in terms of symmetric power functors in the categories of relative Tate motives and another one in terms of the motivic reduced power operations introduced in . 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						The fact that the Rost motive is a direct summand of the motive of a νn−1 variety and at the same time has a description in terms of Tate motives over the embedded simplicial scheme Xa deﬁned by the symbol puts strong restrictions on the motivic cohomology of Xa . 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						We show in Section 5 that any embedded simplicial scheme X which has a non-trivial motivic cohomology class of certain bidegree and such that the corresponding class of varieties contains a νn -variety deﬁnes a generalized Rost motive. 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						This motive is constructed from the Tate motives over X and we use the motivic degree theorem of the previous section to prove that it is a direct summand of the motive of any νn -variety over X . 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						Generalized Rost motives unify two previously known families of motives - the Rost motives for l = 2 discussed above and the motives of cyclic ﬁeld extensions of prime degree. 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						The generalized Rost motives correspond to motivic cohomology classes which have νn -splitting varieties in the same way as the motives of the cyclic ﬁeld extensions correspond to the motivic cohomology classes in H 1,1 (k , Z/l). 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						Observe ﬁrst that since motivic cohomology respect local equivalences and any pointed simplicial sheaf is locally equivalent to a pointed smooth simplicial scheme, operations φi extend canonically to operations on the motivic cohomology of pointed simplicial sheaves. 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						Proof: The Kunnet homomorphism is an isomorphism for all spaces whose motives are direct sums of Tate motives. 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						Since the category of Tate motives is closed under tensor products and direct summands the symmetric power of a Tate motive is a Tate motive. 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						Up to the shift of the bidegree by (2N − 2d, N − d), the motivic cohomology of (T hX (V )/T N ) ∧ X+ coincide as the module over the motivic cohomology of X with the motivic cohomology of cone(τX ) such that ˜πX corresponds to the pull-back of ˜t. 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						The motive Ml−1 is called the generalized Rost motive deﬁned by X and δ . 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						For the proof of these results it will be convenient to consider our motives as relative Tate motives over X . 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<div class="usage">
+						For l = 2 we have b = d and the group H 1,0 ( ˜X , Z/2) is zero from the long exact sequence relating the motivic cohomology of ˜X and the motivic cohomology of X . 
+					</div>
+					<div class="uAuthor">
+						On motivic cohomology with Z/l coefficients
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior"><a href="motive.html">motive</a>, <a href="need.html">need</a>, </div><div class="synGroup" title="the act of motivating; providing incentive"><a href="motivating.html">motivating</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="act.html">act</a>, <a href="condition.html">condition</a>, <a href="deed.html">deed</a>, <a href="human%20action.html">human action</a>, <a href="human%20activity.html">human activity</a>, <a href="psychological%20feature.html">psychological feature</a>, <a href="status.html">status</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ethical%20motive.html">ethical motive</a>, <a href="ethics.html">ethics</a>, <a href="impulse.html">impulse</a>, <a href="irrational%20motive.html">irrational motive</a>, <a href="life.html">life</a>, <a href="mental%20energy.html">mental energy</a>, <a href="morality.html">morality</a>, <a href="morals.html">morals</a>, <a href="psychic%20energy.html">psychic energy</a>, <a href="rational%20motive.html">rational motive</a>, <a href="urge.html">urge</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="motivate.html">motivate</a>, <a href="motivational.html">motivational</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="amygdala.html">amygdala</a>, <a href="amygdaloid%20nucleus.html">amygdaloid nucleus</a>, <a href="conscience.html">conscience</a>, <a href="corpus%20amygdaloideum.html">corpus amygdaloideum</a>, <a href="drive.html">drive</a>, <a href="ethical%20motive.html">ethical motive</a>, <a href="ethics.html">ethics</a>, <a href="hippocampus.html">hippocampus</a>, <a href="inspired.html">inspired</a>, <a href="irrational%20impulse.html">irrational impulse</a>, <a href="irrational%20motive.html">irrational motive</a>, <a href="Konstantin%20Sergeevich%20Alekseev.html">Konstantin Sergeevich Alekseev</a>, <a href="Konstantin%20Sergeyevich%20Stanislavsky.html">Konstantin Sergeyevich Stanislavsky</a>, <a href="Konstantin%20Stanislavsky.html">Konstantin Stanislavsky</a>, <a href="Montessori%20Method.html">Montessori Method</a>, <a href="moral%20sense.html">moral sense</a>, <a href="morality.html">morality</a>, <a href="morals.html">morals</a>, <a href="motivational.html">motivational</a>, <a href="motive.html">motive</a>, <a href="motiveless.html">motiveless</a>, <a href="neoclassicism.html">neoclassicism</a>, <a href="psychoanalysis.html">psychoanalysis</a>, <a href="psychodynamics.html">psychodynamics</a>, <a href="rationalisation.html">rationalisation</a>, <a href="rationalization.html">rationalization</a>, <a href="scruples.html">scruples</a>, <a href="sense%20of%20right%20and%20wrong.html">sense of right and wrong</a>, <a href="Stanislavsky.html">Stanislavsky</a>, <a href="unmotivated.html">unmotivated</a>, <a href="unprovoked.html">unprovoked</a>, <a href="wanton.html">wanton</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					notivation, jotivation, kotivation, mitivation, mktivation, mltivation, mptivation, morivation, mofivation, mogivation, moyivation, motuvation, motjvation, motkvation, motovation, motication, motifation, motigation, motibation, motivqtion, motivwtion, motivstion, motivztion, motivarion, motivafion, motivagion, motivayion, motivatuon, motivatjon, motivatkon, motivatoon, motivatiin, motivatikn, motivatiln, motivatipn, motivatiob, motivatioh, motivatioj, motivatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

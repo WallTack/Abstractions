@@ -1,0 +1,533 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>infancy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">infancy</span> <span class="exp">the earliest state of immaturity</span> </li><li><span class="tSpeech">n</span> <span class="term">infancy</span> <span class="exp">the early stage of growth or development</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Infancy</span> <span class="exp">The first age of anything; the beginning or early period of existence; as, the <span class="wUex">infancy</span> of an art.</span> <span class="wuQuot">"The infancy and the grandeur of Rome."</span></li><li><span class="term">Infancy</span> <span class="exp"><span class="wuFld">(Law)</span> The state or condition of one under age, or under the age of twenty-one years; nonage; minority.</span> </li><li><span class="term">Infancy</span> <span class="exp">The state or period of being an infant; the first part of life; early childhood.</span> <span class="wuQuot">"The babe yet lies in smiling infancy ."</span><span class="wuQuot">"Their love in early infancy began."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">infancy</span> <span class="exp">Inability to speak distinctly; want of utterance; verbal hesitation.</span> </li><li><span class="tSpeech">n</span> <span class="term">infancy</span> <span class="exp">The state of being an infant; the earliest period of life, in formal classification reckoned as extending to the seventh year, but commonly or popularly as including only about two years, or the time of teething, after which childhood begins.</span> </li><li><span class="tSpeech">n</span> <span class="term">infancy</span> <span class="exp">In common law, the period of a person's life from birth to the age of majority or legal capacity, at the end of the twenty-first year; nonage; minority.</span> </li><li><span class="tSpeech">n</span> <span class="term">infancy</span> <span class="exp">Figuratively, that period in the history, existence, or development of a thing which corresponds to the earliest years of childhood; the first age, beginning, or early period: as, the infancy of the world; the infancy of an institution or an art.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Infancy</span> <span class="exp">the state or time of being an infant: childhood: the beginning of anything:</span> </li><li><span class="tSpeech">n</span> <span class="term">Infancy</span> <span class="exp">(<span class="itl">Milt.</span>) want of distinct utterance</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">A. P. Gouthey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="A. P. Gouthey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If life were measured by accomplishments, most of us would die in infancy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Infancy conforms to nobody: all conform to it, so that one babe commonly makes four or five out of the adults who prattle and play to it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mary Wollstonecraft</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Mary Wollstonecraft">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Taught from infancy that beauty is woman's scepter, the mind shapes itself to the body, and roaming round its gilt cage, only seeks to adorn its prison.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ambrose Bierce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ambrose%20Bierce.jpg" alt="Ambrose%20Bierce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Heaven lies about us in our infancy and the world begins lying about us pretty soon afterward.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Wordsworth</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Wordsworth.jpg" alt="William%20Wordsworth">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Heaven lies about us in our infancy! Shades of the prison-house begin to close upon the growing boy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Art Linkletter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Art Linkletter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The four stages of life are infancy, childhood, adolescence, and obsolescence.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">infantia</span>,: cf. F. <span class="wUets">enfance</span>,. See <span class="wUer">Infant</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>infans</i>, <i>-antis</i>—<i>in</i>, not, <i>fans</i>, <i>pr.p.</i> of <i>fāri</i>, to speak; Gr. <i>phēmi</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The extent and value of this trade to Minnesota, which was then in its infancy, can easily be judged by a brief statement of its growth.
+					</div>
+					<div class="uAuthor">
+						"The History of Minnesota and Tales of the Frontier" by <span>Charles E. Flandrau</span>					</div>
+										<div class="usage">
+						THE INFANCY OF CHRIST.
+					</div>
+					<div class="uAuthor">
+						"The New Testament" by <span>Various</span>					</div>
+										<div class="usage">
+						The oldest child, a boy, died in infancy.
+					</div>
+					<div class="uAuthor">
+						"Autobiography of Frank G. Allen, Minister of the Gospel" by <span>Frank G. Allen</span>					</div>
+										<div class="usage">
+						Most frequent in second year of infancy.
+					</div>
+					<div class="uAuthor">
+						"A Son of Hagar" by <span>Sir Hall Caine</span>					</div>
+										<div class="usage">
+						Infancy, is perhaps, the finest and most perfect illustration of simplicity.
+					</div>
+					<div class="uAuthor">
+						"Sketches of the Fair Sex, in All Parts of the World" by <span>Anonymous</span>					</div>
+										<div class="usage">
+						The ten thousand and one chances for contracting disease of the anus and rectum do not cease with the period of infancy.
+					</div>
+					<div class="uAuthor">
+						"Intestinal Ills" by <span>Alcinous Burton Jamison</span>					</div>
+										<div class="usage">
+						He lost his father and mother in his infancy, and was very much neglected by those who had the charge of his education.
+					</div>
+					<div class="uAuthor">
+						"Great Men and Famous Women. Vol. 3 of 8" by <span>Various</span>					</div>
+										<div class="usage">
+						No mother could nurse a child more tenderly in its infancy, than Thomas did his tree.
+					</div>
+					<div class="uAuthor">
+						"The Looking-Glass for the Mind" by <span>M. Berquin</span>					</div>
+										<div class="usage">
+						The fertilizer industry of the United States is yet in its infancy and is likely to have a large growth.
+					</div>
+					<div class="uAuthor">
+						"The Economic Aspect of Geology" by <span>C. K. Leith</span>					</div>
+										<div class="usage">
+						As is natural in extreme infancy, it is liquid and there is not much of it.
+					</div>
+					<div class="uAuthor">
+						"The Glow-Worm and Other Beetles" by <span>Jean Henri Fabre</span>					</div>
+										<div class="usage">
+						This purpose, formed in infancy and poverty, grew stronger as his intellect expanded and as his fortune rose.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<div class="usage">
+						Little girls in their infancy are devoted and dedicated by their own mothers to the temples.
+					</div>
+					<div class="uAuthor">
+						"India, Its Life and Thought" by <span>John P. Jones</span>					</div>
+										<div class="usage">
+						She had been under his guardianship since her infancy; who she was no one knew but the General himself.
+					</div>
+					<div class="uAuthor">
+						"The Cryptogram" by <span>James De Mille</span>					</div>
+										<div class="usage">
+						The study of volitional traits and of temperament is still in its infancy.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						He had an attack of small-pox during his infancy, which left a permanent weakness of eyesight.
+					</div>
+					<div class="uAuthor">
+						"The Life of Sir James Fitzjames Stephen, Bart., K.C.S.I." by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						It is content, in its infancy, to thrive in silence.
+					</div>
+					<div class="uAuthor">
+						"Leading Articles on Various Subjects" by <span>Hugh Miller</span>					</div>
+										<div class="usage">
+						She debated for a moment, whether to meet the proffer and then with the impulsiveness of infancy leaned toward him.
+					</div>
+					<div class="uAuthor">
+						"A Waif of the Mountains" by <span>Edward S. Ellis</span>					</div>
+										<div class="usage">
+						They are fed on lies from their infancy.
+					</div>
+					<div class="uAuthor">
+						"Ireland as It Is" by <span>Robert John Buckley (AKA R.J.B.)</span>					</div>
+										<div class="usage">
+						The revelation was written for plain men in the infancy of the world.
+					</div>
+					<div class="uAuthor">
+						"The Origin of the World According to Revelation and Science" by <span>John William Dawson</span>					</div>
+										<div class="usage">
+						Of his two sons, one died in infancy and the other became insane.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 5, Slice 2" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"Our Gods are kind and still deem fit<br>
+As in old days, with those to lie,<br>
+Whose silent hearths are yet unlit<br>
+By the soft light of infancy.
+							<div class="poet">"Yasmini" by <span>Laurence Hope</span></div>
+						</div>
+											<div class="poemQuote">
+							O God! who veil'st the future o'er,<br>
+Through whose thick darkness none can see,<br>
+Protect, preserve, redeem, restore<br>
+The innocence of infancy.
+							<div class="poet">"The Innocence of Infancy" by <span>John Bowring</span></div>
+						</div>
+											<div class="poemQuote">
+							He told her of his cruel fate,<br>
+Condemn'd along to rove,<br>
+From infancy to man's estate,<br>
+Though courted by the fair and great,<br>
+Yet never once to love.
+							<div class="poet">"Myrtilla" by <span>Washington Allston</span></div>
+						</div>
+											<div class="poemQuote">
+							Most tangible of all the gods that be,<br>
+O Santa Claus-- our own since Infancy!<br>
+As first we scampered to thee-- now, as then,<br>
+Take us as children to thy heart again.
+							<div class="poet">"To Santa Claus" by <span>James Whitcomb Riley</span></div>
+						</div>
+											<div class="poemQuote">
+							Ho! Santa Claus-- our own since Infancy--<br>
+Most tangible of all the gods that be--!<br>
+As first we scampered to thee-- now, as then,<br>
+Take us as children to thy heart again.
+							<div class="poet">"To Santa Claus" by <span>James Whitcomb Riley</span></div>
+						</div>
+											<div class="poemQuote">
+							And loveliest of her line. The tear of joy,<br>
+The early love of song, the sigh that broke<br>
+From her young lip, the best beloved employ;<br>
+What womanhood disclosed, in infancy bespoke
+							<div class="poet">"Description Of Egla" by <span>Maria Gowen Brooks</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The only giant panda born at the National Zoo to survive beyond infancy, Tai Shan is out of quarantine in China and is now on public display.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/gallery/2010/01/28/GA2010012803592.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Chronic malnutrition during infancy, marked by stunting , has been associated with poor cognitive function.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(02)07744-9/fulltext" target="_blank" rel="external nofollow">thelancet.com</a>
+					</div>
+										<div class="usage">
+						NEW YORK – It was a night in early November during the infancy of the Cold War when the anti-communist dissidents were hustled through a garden and across a gully to a vehicle on a dark, deserted road in Budapest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/us/2010/07/29/ap-impact-archives-uncloak-pond-secret-intelligence-group-predating-cia/" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						AmStar 14 is in its infancy, but the building has been a part of the Dallas movie theater landscape since 1995.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/entertainment/movies/headlines/20120830-amstar-14-review-see-a-movie-in-seats-that-jolt-and-vibrate.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						The constant-speed approach to AC motors made a lot of sense when energy was cheap and drives technology was in its infancy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chemicalprocessing.com/articles/2005/489.html" target="_blank" rel="external nofollow">chemicalprocessing.com</a>
+					</div>
+										<div class="usage">
+						'She's my hero,' adoptive mom says of Spring Lake girl who survived raccoon attack in infancy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/health/index.ssf/2012/08/shes_my_hero_adoptive_mom_says.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						Ryan says that now that the group is out of its infancy, they are beginning to see the fruits of their labor as some of their earliest members are reaching adult hood.
+					</div>
+					<div class="uAuthor">
+						<a href="http://107jamz.com/young-men-in-transition-helps-lake-charles-kids-transition-into-adulthood/" target="_blank" rel="external nofollow">107jamz.com</a>
+					</div>
+										<div class="usage">
+						TCM's 'Moguls &amp; Movie Stars' looks back at when Hollywood's studio system was in its infancy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://variety.com/article/VR1118041042.html" target="_blank" rel="external nofollow">variety.com</a>
+					</div>
+										<div class="usage">
+						The Vatican on Tuesday presented "The Infancy Narratives," the last part in Pope Benedict 's trilogy on the life of Jesus.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/49899721/ns/us_news/" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						The full study, "Training Attentional Control in Infancy," is published in the journal Current Biology.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/life/archive/2011/09/study-of-the-day-the-infant-brain-can-be-trained-to-concentrate/244538/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						That's a startling number considering the Randall Lineback was one of the most-popular all-purpose cows in New England during this country's infancy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.clickondetroit.com/news/To-save-this-endangered-cow-breed-eat-it/-/1719418/17733988/-/dpp8vv/-/index.html" target="_blank" rel="external nofollow">clickondetroit.com</a>
+					</div>
+										<div class="usage">
+						From infancy, we are conditioned to believe that perfection is the Holy Grail.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.northstarpubs.com/articles/prb/encourage-dont-discourage" target="_blank" rel="external nofollow">northstarpubs.com</a>
+					</div>
+										<div class="usage">
+						However, methods to index large volumes of RDF data are still in their infancy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://aaai.org/Library/AAAI/2007/aaai07-232.php" target="_blank" rel="external nofollow">aaai.org</a>
+					</div>
+										<div class="usage">
+						Nurseries grow up as colors, furnishings look past infancy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/nov/8/cover-story-nurseries-grow-up-as-colors-furnishing/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Former Apple CEO Steve Jobs saw the company through its infancy, its early tremors of doubt, and its wild bouts of success.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Business/2011/0826/Steve-Jobs-One-of-the-greatest-business-leaders/Henry-Ford-vision" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The theoretical study of line proﬁles in CWBs is in its infancy, although some unexpected results have already been obtained. 
+					</div>
+					<div class="uAuthor">
+						X-ray and radio emission from colliding stellar winds
+					</div>
+										<div class="usage">
+						Figure 4 and Figure 5 depict the time variation of the surface brightness in the observed 3.6 µm and 450 µm bands of a SMG at redshift 2, from its infancy in its pre-merger phase to its ﬁnal stage as an elliptical galaxy. 
+					</div>
+					<div class="uAuthor">
+						Simulating Merging Galaxies: The Infrared View
+					</div>
+										<div class="usage">
+						Lattice calculations of the spectral functions are still in their infancy. 
+					</div>
+					<div class="uAuthor">
+						Phases of QCD: Summary of the Rutgers Long Range Plan Town Meeting
+					</div>
+										<div class="usage">
+						Observations are inconclusive and theory is only in its infancy (Schneider et al. 2004; Nozawa et al. 2003, and references therein). 
+					</div>
+					<div class="uAuthor">
+						Evolution of interstellar dust and stardust in the solar neighbourhood
+					</div>
+										<div class="usage">
+						Since the study of nongeometric backgrounds is still in many ways in its infancy, there are many possible pro jects. 
+					</div>
+					<div class="uAuthor">
+						Lectures on Nongeometric Flux Compactifications
+					</div>
+										<div class="usage">
+						This test is somehow in its infancy but it is very promising. 
+					</div>
+					<div class="uAuthor">
+						Geometrical constraints on dark energy models
+					</div>
+										<div class="usage">
+						Though major advances have been made, the understanding of Population III and very low metallicity stars is still in its infancy, and many important questions remain unanswered. 
+					</div>
+					<div class="uAuthor">
+						First Stars III Conference Summary
+					</div>
+										<div class="usage">
+						While the dynamics of fuzzballs is in its infancy, we can make some simple observations and conjectures relevant to such questions. 
+					</div>
+					<div class="uAuthor">
+						What Exactly is the Information Paradox?
+					</div>
+										<div class="usage">
+						Theories of LSS in these modiﬁed gravity models are still in their infancy. 
+					</div>
+					<div class="uAuthor">
+						Tests of Gravity from Imaging and Spectroscopic Surveys
+					</div>
+										<div class="usage">
+						Numerical simulations which provide nonlinear matter power spectra in MG theories are in their infancy but the ﬁrst attempts are encouraging, as shown by for the f (R) models and [40, 41] for the DGP model. 
+					</div>
+					<div class="uAuthor">
+						Tests of Gravity from Imaging and Spectroscopic Surveys
+					</div>
+										<div class="usage">
+						Despite its importance it is still in its infancy and many pressing questions are essentially unexplored. 
+					</div>
+					<div class="uAuthor">
+						Compact binary mergers: an astrophysical perspective
+					</div>
+										<div class="usage">
+						Graphene studies are still in their infancy, and it is too early to guess which of its unusual features will be more useful for applications. 
+					</div>
+					<div class="uAuthor">
+						Electronic properties of mesoscopic graphene structures: charge confinement and control of spin and charge transport
+					</div>
+										<div class="usage">
+						Formulations of the evolution equations in alternative theories of gravity are in their infancy [151, 152] and the numerical exploration of BH binaries in alternative theories of gravity has just started [153]. 
+					</div>
+					<div class="uAuthor">
+						Numerical simulations of black-hole binaries and gravitational wave emission
+					</div>
+										<div class="usage">
+						Explorations of the stability of general higher-dimensional BHs are in their infancy. 
+					</div>
+					<div class="uAuthor">
+						Numerical simulations of black-hole binaries and gravitational wave emission
+					</div>
+										<div class="usage">
+						This means that the GW predictions in the MHD explosions are also still in their infancy. 
+					</div>
+					<div class="uAuthor">
+						Multiple physical elements to determine the gravitational-wave signatures of core-collapse supernovae
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the earliest state of immaturity"><a href="babyhood.html">babyhood</a>, </div><div class="synGroup" title="the early stage of growth or development"><a href="babyhood.html">babyhood</a>, <a href="early%20childhood.html">early childhood</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="immatureness.html">immatureness</a>, <a href="immaturity.html">immaturity</a>, <a href="time%20of%20life.html">time of life</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="infant.html">infant</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="age.html">age</a>, <a href="Anabaptist.html">Anabaptist</a>, <a href="autolysis.html">autolysis</a>, <a href="babyhood.html">babyhood</a>, <a href="boy.html">boy</a>, <a href="breed.html">breed</a>, <a href="changeling.html">changeling</a>, <a href="child.html">child</a>, <a href="childhood.html">childhood</a>, <a href="christen.html">christen</a>, <a href="cradle.html">cradle</a>, <a href="Cradling.html">Cradling</a>, <a href="elder.html">elder</a>, <a href="encephalocele.html">encephalocele</a>, <a href="Epiphany.html">Epiphany</a>, <a href="flathead.html">flathead</a>, <a href="gender%20identity.html">gender identity</a>, <a href="generation.html">generation</a>, <a href="gospel.html">gospel</a>, <a href="gyrus.html">gyrus</a>, <a href="hydrocephalus.html">hydrocephalus</a>, <a href="incapacity.html">incapacity</a>, <a href="Incunabula.html">Incunabula</a>, <a href="Incunabulum.html">Incunabulum</a>, <a href="indebted.html">indebted</a>, <a href="infant.html">infant</a>, <a href="Infanthood.html">Infanthood</a>, <a href="infantile.html">infantile</a>, <a href="Infantine.html">Infantine</a>, <a href="maid.html">maid</a>, <a href="name.html">name</a>, <a href="nativity.html">nativity</a>, <a href="nonage.html">nonage</a>, <a href="nurse.html">nurse</a>, <a href="Postsphenoid.html">Postsphenoid</a>, <a href="puerility.html">puerility</a>, <a href="Red-gum.html">Red-gum</a>, <a href="short.html">short</a>, <a href="sphinx.html">sphinx</a>, <a href="status.html">status</a>, <a href="Supramaxillary.html">Supramaxillary</a>, <a href="swaddle.html">swaddle</a>, <a href="To%20be%20in%20leading%20strings.html">To be in leading strings</a>, <a href="weight.html">weight</a>, <a href="youth.html">youth</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					unfancy, jnfancy, knfancy, onfancy, ibfancy, ihfancy, ijfancy, imfancy, indancy, inrancy, ingancy, invancy, incancy, infqncy, infwncy, infsncy, infzncy, infabcy, infahcy, infajcy, infamcy, infanxy, infandy, infanfy, infanvy, infanct, infancg, infanch, infancu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

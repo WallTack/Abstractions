@@ -1,0 +1,539 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>anarchy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">anarchy</span> <span class="exp">a state of lawlessness and disorder (usually resulting from a failure of government)</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Anarchy</span> <span class="exp">Absence of government; the state of society where there is no law or supreme power; a state of lawlessness; political confusion.</span> <span class="wuQuot">"Spread anarchy and terror all around."</span></li><li><span class="term">Anarchy</span> <span class="exp">Hence, confusion or disorder, in general.</span> <span class="wuQuot">"There being then . . . an anarchy , as I may term it, in authors and their rekoning of years."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">anarchy</span> <span class="exp">Absence or insufficiency of government; a state of society in which there is no capable supreme power, and in which the several functions of the state are performed badly or not at all; social and political confusion.</span> </li><li><span class="tSpeech">n</span> <span class="term">anarchy</span> <span class="exp">Specifically A social theory which regards the union of order with the absence of all direct government of man by man as the political ideal; absolute individual liberty. The most noted expounder of this theory was Pierre Joseph Prondhon (1809–1865), whose views have been adopted, with various modifications, by many agitators.</span> </li><li><span class="tSpeech">n</span> <span class="term">anarchy</span> <span class="exp">Confusion in general. Synonyms Anarchy, Chaos. Anarchy is an absence of government; chaos is an absence of order.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Anarchy</span> <span class="exp"><span class="itl">an′ark-i</span> the want of government in a state: political confusion: conflict of opinion</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Butler Yeats</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Butler%20Yeats.jpg" alt="William%20Butler%20Yeats">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Mere anarchy is loosed upon the world, the blood-dimmed tide is loosed, and everywhere the ceremony of innocence is drowned.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Earl Riney</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Earl Riney">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Freedom without obligation is anarchy. Freedom without obligation is democracy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Better the rule of One, whom all obey, than to let clamorous demagogues betray our freedom with the kiss of anarchy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert De Niro</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert De Niro">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is a certain combination of anarchy and discipline in the way I work.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Ward Beecher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Ward%20Beecher.jpg" alt="Henry%20Ward%20Beecher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The worst thing in the world next to anarchy, is government.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no chance, and no anarchy, in the universe. All is system and gradation. Every god is there sitting in his sphere.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Gr. : cf. F. <span class="wUets">anarchie</span>,. See <span class="wUer">Anarch</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr. <i>a</i>, <i>an</i>, neg., <i>archē</i>, government.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						To resist it is anarchy.
+					</div>
+					<div class="uAuthor">
+						"Our American Holidays: Lincoln's Birthday" by <span>Various</span>					</div>
+										<div class="usage">
+						Piracy without and bloodshed and anarchy within form the staple of the records.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Barbary Corsairs" by <span>Stanley Lane-Poole</span>					</div>
+										<div class="usage">
+						Many unhealthy symptoms told of a profound moral anarchy weighing on a weakened and irresolute society.
+					</div>
+					<div class="uAuthor">
+						"The Oriental Religions in Roman Paganism" by <span>Franz Cumont</span>					</div>
+										<div class="usage">
+						We are up against Bolshevism, which means anarchy pure and simple.
+					</div>
+					<div class="uAuthor">
+						"The History of the American Expedition Fighting the Bolsheviki" by <span>Joel R. Moore</span>					</div>
+										<div class="usage">
+						Anarchy in the Colonies.
+					</div>
+					<div class="uAuthor">
+						"History of the United States, Volume 2 (of 6)" by <span>E. Benjamin Andrews</span>					</div>
+										<div class="usage">
+						Den vill Anarchy reign subreme ofer de gabitalist vampire!
+					</div>
+					<div class="uAuthor">
+						"Tin-Types Taken in the Streets of New York" by <span>Lemuel Ely  Quigg</span>					</div>
+										<div class="usage">
+						The Southern confederacy is the organized protest of anarchy against law.
+					</div>
+					<div class="uAuthor">
+						"The Continental Monthly, Vol. 5, No. 5, May, 1864" by <span>Various</span>					</div>
+										<div class="usage">
+						THE BEGINNINGS OF ANARCHY.
+					</div>
+					<div class="uAuthor">
+						"The Origins of Contemporary France, Complete Linked Table of Contents to the Six Volumes" by <span>Hippolyte A. Taine</span>					</div>
+										<div class="usage">
+						The natural growth of wealth and a patient good government had gradually put an end to all social anarchy.
+					</div>
+					<div class="uAuthor">
+						"History of the English People, Volume V (of 8)" by <span>John Richard Green</span>					</div>
+										<div class="usage">
+						John Smith, the colony must soon have perished through anarchy.
+					</div>
+					<div class="uAuthor">
+						"Daniel Boone" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						Government had become despotism tempered by anarchy and assassination.
+					</div>
+					<div class="uAuthor">
+						"The New World of Islam" by <span>Lothrop Stoddard</span>					</div>
+										<div class="usage">
+						In the revolution, the destruction of this ritual produced social anarchy.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						It was murder for murder, anarchy for anarchy, evasion for evasion, in this portion of the frontier.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Outlaw" by <span>Emerson Hough</span>					</div>
+										<div class="usage">
+						It is significant of the utter anarchy then prevailing that nobody was punished for the disgraceful fiasco.
+					</div>
+					<div class="uAuthor">
+						"The Life of Napoleon Bonaparte" by <span>William Milligan Sloane</span>					</div>
+										<div class="usage">
+						But he was a great statesman, and aimed to suppress anarchy and preserve law.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						Democratic license develops into sheer anarchy.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books--Volume 14--Philosophy and Economics" by <span>Various</span>					</div>
+										<div class="usage">
+						It is not anarchy to have a picnic; but it is anarchy to lose all memory of mealtimes.
+					</div>
+					<div class="uAuthor">
+						"Eugenics and Other Evils" by <span>G. K. Chesterton</span>					</div>
+										<div class="usage">
+						The history of Russia during the century after the Mongol conquest is one of shame and anarchy.
+					</div>
+					<div class="uAuthor">
+						"Historic Tales, Vol. 8 (of 15)" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						No sooner did Emerson take pen in hand than his anarchy was subdued.
+					</div>
+					<div class="uAuthor">
+						"American Sketches" by <span>Charles Whibley</span>					</div>
+										<div class="usage">
+						The French Revolution was now advancing with rapid strides, accompanied by anarchy, violence, and bloodshed.
+					</div>
+					<div class="uAuthor">
+						"Louis Philippe" by <span>John S. C. (John Stevens Cabot) Abbott</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Not in the dark, wild tide of War,<br>
+Which rose so high, and rolled so far,<br>
+Sweeping from sea to sea<br>
+In awful anarchy:--
+							<div class="poet">"Abraham Lincoln: An Horatian Ode" by <span>Richard Henry Stoddard</span></div>
+						</div>
+											<div class="poemQuote">
+							No....horrid contrast! on that scene<br>
+The murderer reared his poniard keen;<br>
+There proudly stalked with hideous mien<br>
+The blood-stained sons of anarchy.
+							<div class="poet">"Lines On The Place De La Concorde At Paris," by <span>Amelia Opie</span></div>
+						</div>
+											<div class="poemQuote">
+							No….horrid contrast! on that scene<br>
+The murderer reared his poniard keen;<br>
+There proudly stalked with hideous mien<br>
+The blood-stained sons of anarchy.
+							<div class="poet">"On the Place de la Concorde" by <span>Amelia Opie</span></div>
+						</div>
+											<div class="poemQuote">
+							FAREWEL , sweet shelter of the vernal grove,<br>
+For lo! sad Autumn, desolating pow'r!<br>
+Along the vales thy faded beauties rove,<br>
+And spread wild anarchy from bow'r to bow'r.
+							<div class="poet">"Ode  To Autumn" by <span>Emma Lyon</span></div>
+						</div>
+											<div class="poemQuote">
+							spite,<br>
+To mischief turn the pleasures of the night;<br>
+Anger abuses, Malice loudly rails,<br>
+Revenge awakes, and Anarchy prevails;<br>
+Till wine, that raised the tempest, makes its 
+							<div class="poet">"The Borough.  Letter X: Clubs And Social Meetings" by <span>George Crabbe</span></div>
+						</div>
+											<div class="poemQuote">
+							Nay, Reason, shocked at anarchy,<br>
+Demands an author and an aim,<br>
+Seeks ever for the master-key<br>
+To solve the mystery,--Whence came<br>
+This starlit sea of Evermore,<br>
+Without a shore?
+							<div class="poet">"Life's Trilogy" by <span>John Lawson Stoddard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Segal, at least, we have seen in 'Married with Children' and 'Sons of Anarchy' as a physical person, but Billy West.
+					</div>
+					<div class="uAuthor">
+						<a href="http://92moose.fm/futurama-voice-actors-together/" target="_blank" rel="external nofollow">92moose.fm</a>
+					</div>
+										<div class="usage">
+						That jaw -dropping 'Sons of Anarchy' cameo, and (groan) more 'Dance Moms': TV Talk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/movies/index.ssf/2012/10/that_jaw-dropping_sons_of_anar.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						The plane was carrying various members of the press as she traveled on her 777 tour, but as the journalists struggled to get any time with the Barbadian starlet, the flight descended into anarchy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wgci.com/pages/morningriotblog.html?article=10585784" target="_blank" rel="external nofollow">wgci.com</a>
+					</div>
+										<div class="usage">
+						'Sons of Anarchy's' Theo Rossi: ' Juice Knows That the Dominoes Are Coming Down'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://hollywoodreporter.com/live-feed/sons-anarchys-theo-rossi-juice-390057" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						'Sons of Anarchy' Actor Books ' Justified ' Gig (Exclusive).
+					</div>
+					<div class="uAuthor">
+						<a href="http://hollywoodreporter.com/live-feed/justified-lamonica-garrett-guest-star-387770" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						A Sons of Anarchy actor is jumping to another FX drama.
+					</div>
+					<div class="uAuthor">
+						<a href="http://hollywoodreporter.com/live-feed/justified-lamonica-garrett-guest-star-387770" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						Sons of Anarchy 'Orca Shrugged' Review: Blackmail, Black Latex and Bad Aim.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/entertainment/tv/index.ssf/2012/10/sons_of_anarchy_orca_shrugged.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						'Sons of Anarchy' Is Hamlet in Black Leather .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rollingstone.com/movies/news/sons-of-anarchy-is-hamlet-in-black-leather-20121113" target="_blank" rel="external nofollow">rollingstone.com</a>
+					</div>
+										<div class="usage">
+						'Sons of Anarchy' stretches episode length .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.variety.com/article/VR1118062663.html?cmpid=RSS%7CNews%7CLatestNews" target="_blank" rel="external nofollow">variety.com</a>
+					</div>
+										<div class="usage">
+						"Sons of Anarchy" ran five 90-minute episodes during its fifth season.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.variety.com/article/VR1118062663.html?cmpid=RSS%7CNews%7CLatestNews" target="_blank" rel="external nofollow">variety.com</a>
+					</div>
+										<div class="usage">
+						Anarchy, chaos behind Colorado civil unions bill may have long-lasting effects.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.denverpost.com/politics/ci_20720187/colorado-civil-union-anarchy-longlasting-effects" target="_blank" rel="external nofollow">denverpost.com</a>
+					</div>
+										<div class="usage">
+						Golden Globe TV snubs include ' Mad Men,' 'Sons of Anarchy'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mercurynews.com/entertainment/ci_22184241/golden-globe-tv-snubs-include-mad-men-sons" target="_blank" rel="external nofollow">mercurynews.com</a>
+					</div>
+										<div class="usage">
+						There would be anarchy without it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://onlineathens.com/opinion/2012-04-30/yarbrough-getting-lesson-majesty-law" target="_blank" rel="external nofollow">onlineathens.com</a>
+					</div>
+										<div class="usage">
+						Dead 'Sons of Anarchy' actor 'was on a destructive path,' show creator says.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cleveland.com/people/index.ssf/2012/09/dead_sons_of_anarchy_actor_was.html" target="_blank" rel="external nofollow">cleveland.com</a>
+					</div>
+										<div class="usage">
+						In the 1980's, rebellious teenagers used to scrawl an "A" for anarchy on high school walls in hopes of inciting chaos and revolution.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2001/06/13/nyregion/at-murrow-high-a-feeling-of-freedom-prevails.html?pagewanted=all&amp;src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						They considered the unilateral sum-distance model and proved a bound of max {1, O(√α) } on the price of anarchy in general, and an O(1) bound for α 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						They showed an O(√α) bound for 1 ď α ă n2 on the price of anarchy. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						Moscibroda, Schmid, and Wattenhofer [MSW06] in 2006 studied the price of anarchy in a variation of the sum-distance model where the distance between two vertices is generalized, that is, it may be given by any metric. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						Halevi and Mansour [HM07] in 2007 studied the price of anarchy in the sum-distance model under the generalization that each player has a list of “friends”, that is, a list of other vertices and she is only interested in her distance to those. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						They proved structural properties and bounds on the price of anarchy. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						They considered existence of equilibria and proved bounds on the price of anarchy and stability. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						Baumann and Stiller [BS08] in 2008 considered the price of anarchy in the symmetric connections model. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						Demaine et al. [DHMZ09] in 2009 studied the price of anarchy in a cooperative variant of the sum-distance model. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						We give an upper bound on the price of anarchy for a general adversary. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						If the number of edges in each equilibrium is O(n) and moreover α = Ω(n), then the price of anarchy is O(1). 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						The main goal of Section 8 and Section 9 is to show a bound of O(1) on the price of anarchy for ULF and restricted to two special adversaries, which are chosen to mark extreme cases. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						The following simple remark later will help establishing concrete bounds on the price of anarchy. 7.2 Remark. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						All our statements on upper bounds on the price of anarchy are restricted to those combinations of n and α for which equilibria exist for the respective adversary. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						In order to bound the price of anarchy, we are left with bounding the disconnection cost. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<div class="usage">
+						A bound on the diameter of the bridge tree holding for all NE will hence yield a bound on the price of anarchy. 
+					</div>
+					<div class="uAuthor">
+						The Price of Anarchy for Network Formation in an Adversary Model
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a state of lawlessness and disorder (usually resulting from a failure of government)"><a href="lawlessness.html">lawlessness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="disorder.html">disorder</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="nihilism.html">nihilism</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="anarchical.html">anarchical</a>, <a href="anarchist.html">anarchist</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Amorphism.html">Amorphism</a>, <a href="AN.html">AN</a>, <a href="Anarch.html">Anarch</a>, <a href="anarchic.html">anarchic</a>, <a href="anarchical.html">anarchical</a>, <a href="anarchism.html">anarchism</a>, <a href="anarchist.html">anarchist</a>, <a href="Anarchize.html">Anarchize</a>, <a href="chaos.html">chaos</a>, <a href="civil.html">civil</a>, <a href="Club%20law.html">Club law</a>, <a href="flag.html">flag</a>, <a href="Privative.html">Privative</a>, <a href="Unlaw.html">Unlaw</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qnarchy, wnarchy, snarchy, znarchy, abarchy, aharchy, ajarchy, amarchy, anqrchy, anwrchy, ansrchy, anzrchy, anaechy, anadchy, anafchy, anatchy, anarxhy, anardhy, anarfhy, anarvhy, anarcgy, anarcyy, anarcjy, anarcny, anarcby, anarcht, anarchg, anarchh, anarchu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

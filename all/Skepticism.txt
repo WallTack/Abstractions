@@ -1,0 +1,506 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>skepticism</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">skepticism</span> <span class="exp">doubt about the truth of something</span> </li><li><span class="tSpeech">n</span> <span class="term">skepticism</span> <span class="exp">the disbelief in any claims of ultimate knowledge</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										When potatoes were first introduced to Europe, people were skeptical and only ate the leaves, which made them sick. They would then throw away the rest, including the actual spud.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Skepticism</span> <span class="exp"><span class="wuFld">(Theol)</span> A doubting of the truth of revelation, or a denial of the divine origin of the Christian religion, or of the being, perfections, or truth of God.</span> <span class="wuQuot">"Let no . . . secret skepticism lead any one to doubt whether this blessed prospect will be realized."</span></li><li><span class="term">Skepticism</span> <span class="exp">An undecided, inquiring state of mind; doubt; uncertainty.</span> <span class="wuQuot">"That momentary amazement, and irresolution, and confusion, which is the result of skepticism ."</span></li><li><span class="term">Skepticism</span> <span class="exp"><span class="wuFld">(Metaph)</span> The doctrine that no fact or principle can be certainly known; the tenet that all knowledge is uncertain; Pyrrohonism; universal doubt; the position that no fact or truth, however worthy of confidence, can be established on philosophical grounds; critical investigation or inquiry, as opposed to the positive assumption or assertion of certain principles.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">skepticism</span> <span class="exp">The entertaining of mistrust, doubt, or disbelief; especially, the reasoning of one who doubts the possibility of knowledge of reality; the systematic doubt which characterizes a philosophical skeptic; specifically, doubt or disbelief of the fundamental doctrines of the Christian religion.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Morris Bender</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Morris Bender">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A skeptic is a person who, when he sees the handwriting on the wall, claims it is a forgery.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edwin Hubbel Chapin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edwin%20Hubbel%20Chapin.jpg" alt="Edwin%20Hubbel%20Chapin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Skepticism has never founded empires, established principles, or changed the world's heart. The great doers in history have always been people of faith.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Skepticism is unbelief in cause and effect.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Frost</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Robert%20Frost.jpg" alt="Robert%20Frost">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Skepticism, is that anything more than we used to mean when we said, Well, what have we here?”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Jean Nathan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Jean%20Nathan.jpg" alt="George%20Jean%20Nathan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The path of sound credence is through the thick forest of skepticism.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Friedrich Nietzsche</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Friedrich%20Nietzsche.jpg" alt="Friedrich%20Nietzsche">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Great intellects are skeptical.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">scepticisme</span>, 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						For the most part, such skeptics lacked.
+					</div>
+					<div class="uAuthor">
+						"The Covered Wagon" by <span>Emerson Hough</span>					</div>
+										<div class="usage">
+						They are daily more skeptical of promises.
+					</div>
+					<div class="uAuthor">
+						"The White Morning" by <span>Gertrude Atherton</span>					</div>
+										<div class="usage">
+						The accents of her candor rebuked his skepticism.
+					</div>
+					<div class="uAuthor">
+						"The Fortieth Door" by <span>Mary Hastings Bradley</span>					</div>
+										<div class="usage">
+						Philip looked a bit skeptical when I said it moves.
+					</div>
+					<div class="uAuthor">
+						"The Library of Work and Play: Gardening and Farming." by <span>Ellen Eddy Shaw</span>					</div>
+										<div class="usage">
+						In fact, I have always been skeptical of them, and they rather bore me.
+					</div>
+					<div class="uAuthor">
+						"Studies in the Psychology of Sex, Volume 2 (of 6)" by <span>Havelock Ellis</span>					</div>
+										<div class="usage">
+						One can hardly blame him if he sometimes grow skeptic or acid about the profession of letters.
+					</div>
+					<div class="uAuthor">
+						"Shandygaff" by <span>Christopher Morley</span>					</div>
+										<div class="usage">
+						For the educated minority, especially, the inevitable reaction is to complete skepticism, to apparent irreligion.
+					</div>
+					<div class="uAuthor">
+						"Evolution Of The Japanese, Social And Psychic" by <span>Sidney L. Gulick</span>					</div>
+										<div class="usage">
+						She entangled herself in the acute skepticism of Bayle.
+					</div>
+					<div class="uAuthor">
+						"Brave Men and Women" by <span>O.E. Fuller</span>					</div>
+										<div class="usage">
+						To convince a skeptic she displayed her leg to show how well it had succeeded in taking on flesh.
+					</div>
+					<div class="uAuthor">
+						"The Sunny Side of Diplomatic Life, 1875-1912" by <span>Lillie DeHegermann-Lindencrone</span>					</div>
+										<div class="usage">
+						Oftentimes the public is skeptical and many honest and thorough experts are scandalized.
+					</div>
+					<div class="uAuthor">
+						"Disputed Handwriting" by <span>Jerome B. Lavay</span>					</div>
+										<div class="usage">
+						He had rather stand charged with the imbecility of skepticism than with untruth.
+					</div>
+					<div class="uAuthor">
+						"An English Grammar" by <span>W. M. Baskervill and J. W. Sewell</span>					</div>
+										<div class="usage">
+						But neither am I a skeptic.
+					</div>
+					<div class="uAuthor">
+						"The Necromancers" by <span>Robert Hugh Benson</span>					</div>
+										<div class="usage">
+						Chip was openly skeptical regarding Bert's offer to run.
+					</div>
+					<div class="uAuthor">
+						"Bert Wilson in the Rockies" by <span>J. W. Duffield</span>					</div>
+										<div class="usage">
+						To be a skeptic, is to lack the motives necessary to establish a judgment.
+					</div>
+					<div class="uAuthor">
+						"Superstition In All Ages (1732)" by <span>Jean Meslier</span>					</div>
+										<div class="usage">
+						Dick was quick to seize the olive branch, though rather skeptical with regard to what it could really mean.
+					</div>
+					<div class="uAuthor">
+						"Dick the Bank Boy" by <span>Frank V. Webster</span>					</div>
+										<div class="usage">
+						King Skeptic hears it with a sneer, and digs up history to show that things of that sort never chanced, and never could, and never will.
+					</div>
+					<div class="uAuthor">
+						"Rippling Rhymes" by <span>Walt Mason</span>					</div>
+										<div class="usage">
+						Such a skeptical after-attitude can seriously interfere with the success of the treatment.
+					</div>
+					<div class="uAuthor">
+						"Psychotherapy" by <span>Hugo Münsterberg</span>					</div>
+										<div class="usage">
+						Later, I read with astonishment that Montaigne was an unbeliever, a skeptic, almost a cynic.
+					</div>
+					<div class="uAuthor">
+						"Confessions of a Book-Lover" by <span>Maurice Francis Egan</span>					</div>
+										<div class="usage">
+						Educated reflection and skepticism can disturb this spontaneous relation.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						A skeptic once said that the whole Bible turns upon Jesus.
+					</div>
+					<div class="uAuthor">
+						"The Bible and Life" by <span>Edwin Holt Hughes</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"And thou, in these wild, troubled days,<br>
+Misjudged alike in blame and praise,<br>
+Unsought and undeserved the same<br>
+The skeptic's praise, the bigot's blame;—
+							<div class="poet">"The Chapel of the Hermits" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							I smiled with skeptic mocking where they told me you were dead,<br>
+You of the airy laughter and lightly twinkling feet;<br>
+"They tell a dream that haunted a chill gray dawn," I said,<br>
+"Death could not touch or claim a thing so vivid and so sweet!" 
+							<div class="poet">"Realization" by <span>Lucy Maud Montgomery</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We were a little skeptical from the start.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ohio.com/news/top-stories/does-it-work-test-results-for-stylesnaps-ravi-instant-wine-chiller-myzone-headphones-wuggle-pets-toastess-cordless-warming-tray-1.246474" target="_blank" rel="external nofollow">ohio.com</a>
+					</div>
+										<div class="usage">
+						Being a skeptic of California American Water's proposed desalination plant isn't a bad way to make a living.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.montereycountyweekly.com/news/2012/oct/11/choppy-waters/" target="_blank" rel="external nofollow">montereycountyweekly.com</a>
+					</div>
+										<div class="usage">
+						Nothing has happened since to prove the skeptics wrong.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sgvtribune.com/opinions/ci_22029006/our-view-chug-back-states-bullet-train" target="_blank" rel="external nofollow">sgvtribune.com</a>
+					</div>
+										<div class="usage">
+						So when Nike asked me to review its new FuelBand, I was a little skeptical and a little nervous.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/business/technology/headlines/20120614-nike-fuelband-keeps-exercise-motivation-close-at-hand.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						The falling unemployment numbers released on Friday has skeptics aflutter on Twitter.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kcrw.com/news/programs/lr/lr121005jobs_taxes_and_debat" target="_blank" rel="external nofollow">kcrw.com</a>
+					</div>
+										<div class="usage">
+						Climate change skeptics cannot deny science.
+					</div>
+					<div class="uAuthor">
+						<a href="http://somdnews.com/article/20121109/OPINION/711099963/1084/climate-change-skeptics-cannot-deny-science&amp;template=southernMaryland" target="_blank" rel="external nofollow">somdnews.com</a>
+					</div>
+										<div class="usage">
+						But I'm skeptical about no-reservations places with.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/entertainment/food/horse_horse_my_kingdom_for_horse_pZyPS70VnfVLlok6RxQoJO" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						Investors aren't the only ones skeptical that Facebook can capitalize on mobile users.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/connieguglielmo/2012/09/25/facebook-facing-investor-skepticism-over-mobile-also-dinged-by-developers/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						The 2008 International Conference on Climate Change, a gathering in Times Square of skeptics on global warming.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/02/16/science/earth/in-heartland-institute-leak-a-plan-to-discredit-climate-teaching.html?_r=1" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Tonight, there will be a Skeptics of Tucson meeting and we'll be discussing the end of the world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://tucsoncitizen.com/freethought-arizona/2012/11/12/the-end-its-getting-closer-skeptical/" target="_blank" rel="external nofollow">tucsoncitizen.com</a>
+					</div>
+										<div class="usage">
+						The studies remain controversial, with some scientists skeptical about the links that can be drawn.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/politics/food_dyes_favor_fades_as_possible_links_to_hyperactivity_emerge/2011/03/24/AFmAhoYB_story.html?wprss=rss_homepage" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						This Montgomery County curfew skeptic says it's not too late to be a good parent.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/local/curfew-is-ill-conceived-we-need-policing-of-criminals-and-parenting-of-kids/2011/07/28/gIQAtm9zfI_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						When I first heard about Paducah Improv , I was skeptical.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.paducahsun.com/pages/full_story_free/push?article-Improvisation+is+not+always+all+fun+and+games%20&amp;id=19659764&amp;instance=features_current" target="_blank" rel="external nofollow">paducahsun.com</a>
+					</div>
+										<div class="usage">
+						For Iran, WikiLeaks cables validate its skepticism of Obama's sincerity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Middle-East/2010/1130/For-Iran-WikiLeaks-cables-validate-its-skepticism-of-Obama-s-sincerity/(page)/3" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						How To Read a Medical Study ( Skeptically ).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/imagepages/2008/09/30/health/30study.graphic.ready.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The directly skeptical approach seeks to obtain a notion of skeptically accepted path and conclusion, but without detouring through extensions. 
+					</div>
+					<div class="uAuthor">
+						Remarks on Inheritance Systems
+					</div>
+										<div class="usage">
+						One might be skeptical about the generation of the curvature perturbation at the end, if it is realized just by adding free scalar ﬁelds to the model. 
+					</div>
+					<div class="uAuthor">
+						Free light fields can change the predictions of hybrid inflation
+					</div>
+										<div class="usage">
+						While this is an important check of rooted simulations, it will not convince a skeptic, since one does not obtain a physical understanding of the observed behavior. 
+					</div>
+					<div class="uAuthor">
+						Rooted staggered fermions: good, bad or ugly?
+					</div>
+										<div class="usage">
+						Initially, there did not seem to be a need to bring in the Segal categories from this point of view, but further investigation led to skepticism that his functor had the necessary adjoint to give a Quillen equivalence. 
+					</div>
+					<div class="uAuthor">
+						A survey of (\infty, 1)-categories
+					</div>
+										<div class="usage">
+						The method used by Parisi to solve the SK model is far from mathematical rigor, to say the less, and it took time to convince the skeptics that it does give the correct result. 
+					</div>
+					<div class="uAuthor">
+						Some aspects of infinite range models of spin glasses: theory and numerical simulations
+					</div>
+										<div class="usage">
+						Despite scientific skepticism, these theories met every experimental and logical test their critics could devise. 
+					</div>
+					<div class="uAuthor">
+						The emergence of the physical world from information processing
+					</div>
+										<div class="usage">
+						In the last year, as observed by Geim , the initial skepticism with respect to graphene applications was gradually evaporating and graphene has rapidly changed its status from newcomer to star. 
+					</div>
+					<div class="uAuthor">
+						Graphene tests of Klein phenomena
+					</div>
+										<div class="usage">
+						While the interpretation of molecular emission in these conditions warrants skepticism (§2.4, Garc´ıa-Burillo et al. 2012), the highest inferred surface density also corresponds to the densest parts of cluster forming clumps and the theoretical threshold of 1 gm cm−2 for eﬃcient formation of massive stars (§4.3). 
+					</div>
+					<div class="uAuthor">
+						Star Formation in the Milky Way and Nearby Galaxies
+					</div>
+										<div class="usage">
+						We have attempted to inject a dose of skepticism about some well-accepted truisms and to highlight important questions where even the observations do not present a completely consistent picture. 
+					</div>
+					<div class="uAuthor">
+						Star Formation in the Milky Way and Nearby Galaxies
+					</div>
+										<div class="usage">
+						So, by the end of this long review, I do remain skeptical about the innovation (for frequentist theory) brought by adopting the perspective of conﬁdence distributions. 
+					</div>
+					<div class="uAuthor">
+						Comments on "Confidence distribution, the frequentist distribution estimator of a parameter --- a review" by Min-ge Xie and Kesar Singh
+					</div>
+										<div class="usage">
+						In practice, we are skeptical that our knowledge of population genetic history will be suﬃciently accurate to make this feasible, but simulations may be useful in guiding the setting of approximate signiﬁcance levels. 
+					</div>
+					<div class="uAuthor">
+						Robust identification of local adaptation from allele frequencies
+					</div>
+										<div class="usage">
+						In astrophysics however these ideas have been considered with skepticism and sometimes even with opposition. 
+					</div>
+					<div class="uAuthor">
+						FACTS AND IDEAS IN MODERN COSMOLOGY
+					</div>
+										<div class="usage">
+						Skeptics often ask why one is so interested in supersymmetry, and ask at one point one will give up on it. I hope these lectures have made clear that supersymmetry is of interest from many points of view: the hierarchy problem, dark matter, string theory, and more. 
+					</div>
+					<div class="uAuthor">
+						Supersymmetry Phenomenology With a Broad Brush
+					</div>
+										<div class="usage">
+						On the other hand, as compelling as this set of ideas may sometimes seem, we should all be skeptics. 
+					</div>
+					<div class="uAuthor">
+						Supersymmetry Phenomenology With a Broad Brush
+					</div>
+										<div class="usage">
+						Many approaches deserve to be tried, and skepticism about any and all of them must be kept in the forefront. 
+					</div>
+					<div class="uAuthor">
+						CP and B Physics: Progress and Prospects
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="doubt about the truth of something"><a href="mental%20rejection.html">mental rejection</a>, </div><div class="synGroup" title="the disbelief in any claims of ultimate knowledge"><a href="scepticism.html">scepticism</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="disbelief.html">disbelief</a>, <a href="doubt.html">doubt</a>, <a href="doubtfulness.html">doubtfulness</a>, <a href="dubiety.html">dubiety</a>, <a href="dubiousness.html">dubiousness</a>, <a href="incertitude.html">incertitude</a>, <a href="unbelief.html">unbelief</a>, <a href="uncertainty.html">uncertainty</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="incredulous.html">incredulous</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absolute.html">absolute</a>, <a href="Aufkl%C3%A4rung.html">Aufklärung</a>, <a href="disbelief.html">disbelief</a>, <a href="eclectic.html">eclectic</a>, <a href="encyclopedism.html">encyclopedism</a>, <a href="encyclopedist.html">encyclopedist</a>, <a href="Humian.html">Humian</a>, <a href="incredulity.html">incredulity</a>, <a href="indeed.html">indeed</a>, <a href="negativeness.html">negativeness</a>, <a href="negativism.html">negativism</a>, <a href="negativity.html">negativity</a>, <a href="Pyrrhonic.html">Pyrrhonic</a>, <a href="Pyrrhonism.html">Pyrrhonism</a>, <a href="Sadduceeism.html">Sadduceeism</a>, <a href="Scepsis.html">Scepsis</a>, <a href="sceptic.html">sceptic</a>, <a href="sceptical.html">sceptical</a>, <a href="scepticism.html">scepticism</a>, <a href="skeptic.html">skeptic</a>, <a href="skeptical.html">skeptical</a>, <a href="skeptically.html">skeptically</a>, <a href="superstition.html">superstition</a>, <a href="unbelief.html">unbelief</a>, <a href="Voltairianism.html">Voltairianism</a>, <a href="Voltairism.html">Voltairism</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					akepticism, wkepticism, dkepticism, xkepticism, zkepticism, akepticism, sjepticism, siepticism, slepticism, smepticism, skwpticism, skspticism, skdpticism, skrpticism, skeoticism, skelticism, skepricism, skepficism, skepgicism, skepyicism, skeptucism, skeptjcism, skeptkcism, skeptocism, skeptixism, skeptidism, skeptifism, skeptivism, skepticusm, skepticjsm, skepticksm, skepticosm, skepticiam, skepticiwm, skepticidm, skepticixm, skepticizm, skepticiam, skepticisn, skepticisj, skepticisk
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,551 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>childhood</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">childhood</span> <span class="exp">the state of a child between infancy and adolescence</span> </li><li><span class="tSpeech">n</span> <span class="term">childhood</span> <span class="exp">the time of person's life when they are a child</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Kermit the Frog was named after Kermit Scott, a childhood friend of creator Jim Henson, who became a professor of philosophy at Purdue University									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Childhood</span> <span class="exp">Children, taken collectively.</span> <span class="wuQuot">"The well-governed childhood of this realm."</span></li><li><span class="term">Childhood</span> <span class="exp">The commencement; the first period.</span> <span class="wuQuot">"The childhood of our joy."</span></li><li><span class="term">Childhood</span> <span class="exp">The state of being a child; the time in which persons are children; the condition or time from infancy to puberty.</span> <span class="wuQuot">"I have walked before you from my childhood ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">childhood</span> <span class="exp">The state of being a child, or the time during which a person is termed a child; the time from birth to puberty; in a more restricted sense, the state or time from infancy to boyhood or girlhood; the period during which constant maternal care continues to be needed.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Childhood</span> <span class="exp">state of being a child: the time of one's being a child</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Pindar</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Pindar">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A graceful and honorable old age is the childhood of immortality.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Graham Greene</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Graham%20Greene.jpg" alt="Graham%20Greene">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is always one moment in childhood when the door opens and lets the future in.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Golding</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William Golding">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Childhood is a disease -- a sickness that you grow out of.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alice Meynell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Alice Meynell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Let a man turn to his own childhood -- no further -- if he will renew his sense of remoteness, and of the mystery of change.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edna St. Vincent Millay</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edna%20St.%20Vincent%20Millay.jpg" alt="Edna%20St.%20Vincent%20Millay">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Childhood is the kingdom where nobody dies. Nobody that matters, that is.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Milton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Milton.jpg" alt="John%20Milton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The childhood shows the man, as morning shows the day.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					AS. <span class="wUets">cildhād</span>,; <span class="wUets">cild</span>, child + <span class="wUets">-hād</span>,. See <span class="wUer">Child</span>, and <span class="wUer">-hood</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					A.S. <i>cild</i>, pl. <i>cild</i>, later <i>cildru</i>, <i>-ra</i>. The Ger. equivalent word is <i>kind</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In childhood and youth it is a matter of great moment.
+					</div>
+					<div class="uAuthor">
+						"Aims and Aids for Girls and Young Women" by <span>George Sumner Weaver</span>					</div>
+										<div class="usage">
+						In such cases it is probable that the trait is not hereditary, but due to some influence in pre-natal life or childhood.
+					</div>
+					<div class="uAuthor">
+						"The Good Housekeeping Marriage Book" by <span>Various</span>					</div>
+										<div class="usage">
+						I never read a fairy story in my childhood.
+					</div>
+					<div class="uAuthor">
+						"Adventures in the Arts" by <span>Marsden Hartley</span>					</div>
+										<div class="usage">
+						Almost in a day she passed from childhood to budding womanhood.
+					</div>
+					<div class="uAuthor">
+						"Pushing to the Front" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						Many adults that suffer from deafness maintain that they never had any trouble in childhood.
+					</div>
+					<div class="uAuthor">
+						"Civics and Health" by <span>William H. Allen</span>					</div>
+										<div class="usage">
+						Some children have a nasal discharge during all of their childhood.
+					</div>
+					<div class="uAuthor">
+						"The Eugenic Marriage, Volume IV. (of IV.)" by <span>Grant Hague</span>					</div>
+										<div class="usage">
+						Control is exerted externally upon the individual from early childhood.
+					</div>
+					<div class="uAuthor">
+						"Society" by <span>Henry Kalloch Rowe</span>					</div>
+										<div class="usage">
+						Miss Helen Louise Gilson is a native of Boston, but removed in childhood to Chelsea, Massachusetts, where she now resides.
+					</div>
+					<div class="uAuthor">
+						"Woman's Work in the Civil War" by <span>Linus Pierpont Brockett</span>					</div>
+										<div class="usage">
+						She had never before been able to stand so completely apart from the surroundings of her childhood.
+					</div>
+					<div class="uAuthor">
+						"The Daughters of Danaus" by <span>Mona Caird</span>					</div>
+										<div class="usage">
+						From childhood she had nourished short hopes and straightened thoughts.
+					</div>
+					<div class="uAuthor">
+						"The Best Short Stories of 1920" by <span>Various</span>					</div>
+										<div class="usage">
+						Her cheek had the soft peachy hue of girlhood; nay, of very childhood.
+					</div>
+					<div class="uAuthor">
+						"Olive A Novel" by <span>Dinah Maria Craik, (AKA Dinah Maria Mulock)</span>					</div>
+										<div class="usage">
+						Her heart bled for them, her childhood's companions.
+					</div>
+					<div class="uAuthor">
+						"Old Rail Fence Corners" by <span>Various</span>					</div>
+										<div class="usage">
+						Looking back on childhood's days the thing that recurs most often is the mystery which used to fill both life and world.
+					</div>
+					<div class="uAuthor">
+						"My Reminiscences" by <span>Rabindranath Tagore</span>					</div>
+										<div class="usage">
+						Having from early childhood felt the restraints of religious training, Oswald yielded to the sweet solemnity of the hour.
+					</div>
+					<div class="uAuthor">
+						"Oswald Langdon" by <span>Carson Jay Lee</span>					</div>
+										<div class="usage">
+						My earliest recollections of parents, friends, and the home of my childhood are clouded with its wrongs.
+					</div>
+					<div class="uAuthor">
+						"Masterpieces of Negro Eloquence" by <span>Various</span>					</div>
+										<div class="usage">
+						Roger and Charley, hand in hand, trailed up the street in the haphazard manner of childhood.
+					</div>
+					<div class="uAuthor">
+						"The Forbidden Trail" by <span>Honoré Willsie</span>					</div>
+										<div class="usage">
+						From my earliest childhood it had been my ideal of manly elegance.
+					</div>
+					<div class="uAuthor">
+						"A Daughter of the Middle Border" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						On this account our minds, with the merciless logic of childhood, gradually discounted the threatened calamities.
+					</div>
+					<div class="uAuthor">
+						"A Labrador Doctor" by <span>Wilfred Thomason Grenfell</span>					</div>
+										<div class="usage">
+						The way I look at it, a man can't be in his second childhood without he's had his first childhood; and I was cheated plum' out of mine.
+					</div>
+					<div class="uAuthor">
+						"From Place to Place" by <span>Irvin S. Cobb</span>					</div>
+										<div class="usage">
+						Congreve passed his childhood and youth in Ireland.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							I can recall the day<br>
+When childhood died.<br>
+I had grown thin and tall<br>
+And eager-eyed.
+							<div class="poet">"When Childhood Died" by <span>John Freeman</span></div>
+						</div>
+											<div class="poemQuote">
+							The Gael cannot tell,<br>
+In the uprooted wildwood<br>
+And the red ridgy dell,<br>
+The old nurse of his childhood:
+							<div class="poet">"The Downfall Of The Gael" by <span>Samuel Ferguson</span></div>
+						</div>
+											<div class="poemQuote">
+							I love my mother, the wildwood,<br>
+I sleep upon her breast;<br>
+A day or two of childhood,<br>
+And then I sink to rest.
+							<div class="poet">"Death Of The Flower" by <span>Abram Joseph Ryan</span></div>
+						</div>
+											<div class="poemQuote">
+							Happier for their pity's sake<br>
+Make their sports and plays,<br>
+And from lips of childhood take<br>
+Thy perfected praise!
+							<div class="poet">"Hymn Of The Children" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							Even as the cold<br>
+Keen winter grows not old;<br>
+As childhood is so fresh, foreseen,<br>
+And spring in the familiar green;
+							<div class="poet">"Unto Us A Son Is Given" by <span>Alice Meynell</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh the enemas of childhood,<br>
+reeking of outhouses and shame!<br>
+Yet you rock me in your arms<br>
+and whisper my nickname.
+							<div class="poet">"Cripples And Other Stories" by <span>Anne Sexton</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Tennis helped Ned Eames thrive during his childhood – now he uses it to help Boston kids improve their reading skills and stay in school.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Making-a-difference/2011/0912/Ned-Eames-uses-tennis-to-boost-inner-city-reading-skills-and-graduation-rates" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						The Ralph Mcllvaine Early Childhood Center, 11 E Walnut St, Magnolia will host a Passport to Kindergarten program on Wednesday, Aug 15.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.doverpost.com/article/20120814/NEWS/308149996/1011/ENTERTAINMENTLIFE" target="_blank" rel="external nofollow">doverpost.com</a>
+					</div>
+										<div class="usage">
+						Childhood Eczema – Signs, Symptoms &amp; Treatment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://myfox8.com/2012/08/27/house-call-childhood-eczema-signs-symptoms-treatment/" target="_blank" rel="external nofollow">myfox8.com</a>
+					</div>
+										<div class="usage">
+						Exposure to household chemical in utero increases risk of childhood eczema .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/health/2012/06/26/exposure-to-household-chemical-in-utero-increases-risk-childhood-eczema/?intcmp=related" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Mind your P's and Q's: A resource to inform parents and teachers about the qualities of a strong early childhood educational program .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nysut.org/cps/rde/xchg/nysut/hs.xsl/research_16523.htm" target="_blank" rel="external nofollow">nysut.org</a>
+					</div>
+										<div class="usage">
+						NYSUT Statewide Early Childhood Committee.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nysut.org/cps/rde/xchg/nysut/hs.xsl/research_16523.htm" target="_blank" rel="external nofollow">nysut.org</a>
+					</div>
+										<div class="usage">
+						Bernanke says Childhood Eduction is `Key' to Growth.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-07-24/bernanke-says-childhood-eduction-is-key-to-growth" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						Federal Reserve Chairman Ben S Bernanke said early childhood education is "crucial" and that effective schooling supports the economy by reducing poverty, boosting wages and increasing job satisfaction.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-07-24/bernanke-says-childhood-eduction-is-key-to-growth" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						"Marvelous," said Sonia Sieff, when asked about her childhood with the late Jeanloup Sieff, her father and one of France's great fashion photographers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/thecut/2012/09/18-vintage-fashion-images-by-jeanloup-sieff.html" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						 Eleanor Roosevelt struggled to overcome an unhappy childhood, betrayal in her marriage, a controlling mother-in-law, and gripping depressions -- all the while staying true to her passion for social justice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wgbh/americanexperience/features/biography/eleanor-anderson/?flavour=mobile" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						But give me a minute to swallow my childhood trauma, and I'll raise a grateful toast to the element that lights up intestines.
+					</div>
+					<div class="uAuthor">
+						<a href="http://pubs.acs.org/cen/80th/barium.html" target="_blank" rel="external nofollow">pubs.acs.org</a>
+					</div>
+										<div class="usage">
+						Truman Capote, a childhood friend, took this photo of To Kill a Mockingbird author Harper Lee.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/life/books/news/2010-07-08-mockingbird08_CV_N.htm" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Former Spokanite Kevin Sampsell pieced together his memoir the same way he pieced together his childhood porn collection.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.inlander.com/spokane/article-8971-enraged-prostrates.html" target="_blank" rel="external nofollow">inlander.com</a>
+					</div>
+										<div class="usage">
+						Christina, a mother of two, shares her parenting experiences as Sheila, an Early Childhood Education Program Coordinator, weighs in as expert.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.norwichbulletin.com/bulletin_blogs/freud_and_playdoh_blog/x2111199165/The-wonderment-of-why-and-the-ensuing-brain-freeze" target="_blank" rel="external nofollow">norwichbulletin.com</a>
+					</div>
+										<div class="usage">
+						His mother, Beth Wade, tells of an incident in his childhood that she feels best represents her son.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.barnstablepatriot.com/home2/index.php?option=com_content&amp;task=view&amp;id=6195" target="_blank" rel="external nofollow">barnstablepatriot.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The mortality not only of humans increases roughly exponentially with age (Gompertz law) if childhood diseases are overcome. 
+					</div>
+					<div class="uAuthor">
+						Social Effects in Simple Computer Model of Ageing
+					</div>
+										<div class="usage">
+						Brian’s childhood was a relatively normal existence, except for his paralyzing fear of kindergarten at the age of 5 years. 
+					</div>
+					<div class="uAuthor">
+						Variational Principles in General Relativity
+					</div>
+										<div class="usage">
+						Using this method, Voight and colleagues ﬁnd strong evidence for recent selection among Europeans in the lactase gene LCT, which is important for metabolism of lactose beyond early childhood. 
+					</div>
+					<div class="uAuthor">
+						The transmission sense of information
+					</div>
+										<div class="usage">
+						Schuz J, Ahlbom A (2008) Exposure to electromagnetic ﬁelds and the risk of childhood leukemia: a review. 
+					</div>
+					<div class="uAuthor">
+						No alignment of cattle along geomagnetic field lines found
+					</div>
+										<div class="usage">
+						Growth of logical thinking from childhood to adolescence: an essay on the construction of formal operational structures. 
+					</div>
+					<div class="uAuthor">
+						Lessons From the Physics-Education Reform Effort
+					</div>
+										<div class="usage">
+						In our childhood, this was known to be impossible, even in 1-d. 
+					</div>
+					<div class="uAuthor">
+						Astrophysics in 2006
+					</div>
+										<div class="usage">
+						Reﬁnements then should explain the mortality minimum at childhood, and also the difference between male and female mortalities except for very old people. 
+					</div>
+					<div class="uAuthor">
+						The Penna Model of Biological Aging
+					</div>
+										<div class="usage">
+						Cuzick and Edwards (1990) considered the spatial locations of 62 cases of childhood leukemia in the North Humberside region of the UK, between the years 1974 to 1982 (inclusive). A sample of 143 controls are selected using the completely randomized design from the same region. 
+					</div>
+					<div class="uAuthor">
+						New Tests of Spatial Segregation Based on Nearest Neighbor Contingency Tables
+					</div>
+										<div class="usage">
+						Figure 16: Second-order analysis of North Humberside childhood leukemia data: Function plotted is Diggle’s modiﬁed bivariate K -function bD(t) = bK11(t) − bK22 (t) with i = 1 for controls and i = 2 for leukemia cases. 
+					</div>
+					<div class="uAuthor">
+						New Tests of Spatial Segregation Based on Nearest Neighbor Contingency Tables
+					</div>
+										<div class="usage">
+						Cuzick and Edwards (1990) considered the spatial locations of 62 cases of childhood leukemia in the North Humberside region of the UK between the years 1974 to 1982 (inclusive). A sample of 143 controls are selected using the completely randomized design from the same region. 
+					</div>
+					<div class="uAuthor">
+						Class-Specific Tests of Spatial Segregation Based on Nearest Neighbor Contingency Tables
+					</div>
+										<div class="usage">
+						Figure 8: The scatter plot of the locations of controls (circles ◦) and childhood leukemia cases (triangles △) in North Humberside, UK. 
+					</div>
+					<div class="uAuthor">
+						Class-Specific Tests of Spatial Segregation Based on Nearest Neighbor Contingency Tables
+					</div>
+										<div class="usage">
+						Figure 9: Second-order analysis of North Humberside childhood leukemia data: Function plotted is Diggle’s modiﬁed bivariate K -function bD(t) = bK11 (t) − bK22 (t) with i = 1 for controls and i = 2 for leukemia cases. 
+					</div>
+					<div class="uAuthor">
+						Class-Specific Tests of Spatial Segregation Based on Nearest Neighbor Contingency Tables
+					</div>
+										<div class="usage">
+						Clinical outcomes of hemispherectomy for epilepsy in childhood and adolescence. 
+					</div>
+					<div class="uAuthor">
+						Establishing, versus Maintaining, Brain Function: A Neuro-computational Model of Cortical Reorganization after Injury to the Immature Brain
+					</div>
+										<div class="usage">
+						The development of executive function in childhood. In: Nelson CA, Luciana M, editors. 
+					</div>
+					<div class="uAuthor">
+						Establishing, versus Maintaining, Brain Function: A Neuro-computational Model of Cortical Reorganization after Injury to the Immature Brain
+					</div>
+										<div class="usage">
+						Khatab, K. and Fahrmeir, L. (2009) Analysis of Childhood Morbidity with Geoadditive Probit and Latent Variable Model: A Case Study for Egypt, American Journal of Tropical Medicine and Hygiene, 81, 1, 116-128. 
+					</div>
+					<div class="uAuthor">
+						Spatial Discrete Choice and Spatial Limited Dependent Variable Models: a review with an emphasis on the use in Regional Health Economics
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the state of a child between infancy and adolescence"><a href="puerility.html">puerility</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="immatureness.html">immatureness</a>, <a href="immaturity.html">immaturity</a>, <a href="time%20of%20life.html">time of life</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="boyhood.html">boyhood</a>, <a href="girlhood.html">girlhood</a>, <a href="maidenhood.html">maidenhood</a>, <a href="maidhood.html">maidhood</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="child.html">child</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adolescence.html">adolescence</a>, <a href="adolescent.html">adolescent</a>, <a href="adult%20tooth.html">adult tooth</a>, <a href="anal%20personality.html">anal personality</a>, <a href="anal%20retentive%20personality.html">anal retentive personality</a>, <a href="boyhood.html">boyhood</a>, <a href="branched%20chain%20ketoaciduria.html">branched chain ketoaciduria</a>, <a href="castrato.html">castrato</a>, <a href="Charcot-Marie-Tooth%20disease.html">Charcot-Marie-Tooth disease</a>, <a href="child.html">child</a>, <a href="childish.html">childish</a>, <a href="childlike.html">childlike</a>, <a href="colonel.html">colonel</a>, <a href="comfort%20food.html">comfort food</a>, <a href="dependence.html">dependence</a>, <a href="dependent.html">dependent</a>, <a href="dotage.html">dotage</a>, <a href="dotard.html">dotard</a>, <a href="DPT%20vaccine.html">DPT vaccine</a>, <a href="Elizabeth%20Taylor.html">Elizabeth Taylor</a>, <a href="From.html">From</a>, <a href="From%20a%20child.html">From a child</a>, <a href="girlhood.html">girlhood</a>, <a href="hereditary%20cerebellar%20ataxia.html">hereditary cerebellar ataxia</a>, <a href="hereditary%20motor%20and%20sensory%20neuropathy.html">hereditary motor and sensory neuropathy</a>, <a href="hood.html">hood</a>, <a href="imago.html">imago</a>, <a href="infancy.html">infancy</a>, <a href="infantile%20amaurotic%20idiocy.html">infantile amaurotic idiocy</a>, <a href="infantile%20autism.html">infantile autism</a>, <a href="innocence.html">innocence</a>, <a href="language.html">language</a>, <a href="limb-girdle%20muscular%20dystrophy.html">limb-girdle muscular dystrophy</a>, <a href="lisp.html">lisp</a>, <a href="maidenhood.html">maidenhood</a>, <a href="maidhood.html">maidhood</a>, <a href="maple%20syrup%20urine%20disease.html">maple syrup urine disease</a>, <a href="measles.html">measles</a>, <a href="Montessori%20Method.html">Montessori Method</a>, <a href="native%20language.html">native language</a>, <a href="native%20speaker.html">native speaker</a>, <a href="oblate.html">oblate</a>, <a href="Of%20a%20Child.html">Of a Child</a>, <a href="oral%20personality.html">oral personality</a>, <a href="permanent%20tooth.html">permanent tooth</a>, <a href="prepossession.html">prepossession</a>, <a href="puerility.html">puerility</a>, <a href="rachitis.html">rachitis</a>, <a href="remember.html">remember</a>, <a href="rickets.html">rickets</a>, <a href="Sachs%20disease.html">Sachs disease</a>, <a href="screen%20memory.html">screen memory</a>, <a href="Spartan.html">Spartan</a>, <a href="Spasmodic%20croup.html">Spasmodic croup</a>, <a href="strawberry%20haemangioma.html">strawberry haemangioma</a>, <a href="strawberry%20hemangioma.html">strawberry hemangioma</a>, <a href="Tay-Sachs.html">Tay-Sachs</a>, <a href="Tay-Sachs%20disease.html">Tay-Sachs disease</a>, <a href="Taylor.html">Taylor</a>, <a href="tetany.html">tetany</a>, <a href="varicella.html">varicella</a>, <a href="Werdnig-Hoffman%20disease.html">Werdnig-Hoffman disease</a>, <a href="xeroderma%20pigmentosum.html">xeroderma pigmentosum</a>, <a href="youth.html">youth</a>, <a href="%E2%80%96Tabes%20mesenterica.html">‖Tabes mesenterica</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xhildhood, dhildhood, fhildhood, vhildhood, cgildhood, cyildhood, cjildhood, cnildhood, cbildhood, chuldhood, chjldhood, chkldhood, choldhood, chikdhood, chiodhood, chipdhood, chilshood, chilehood, chilfhood, chilchood, chilxhood, chilshood, childgood, childyood, childjood, childnood, childbood, childhiod, childhkod, childhlod, childhpod, childhoid, childhokd, childhold, childhopd, childhoos, childhooe, childhoof, childhooc, childhoox, childhoos
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

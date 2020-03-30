@@ -1,0 +1,580 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>pleasure</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">sexual gratification</span> <span class="quot">"he took his pleasure of her"</span></li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">an activity that affords enjoyment</span> <span class="quot">"he puts duty before pleasure"</span></li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">a formal expression</span> <span class="quot">"he serves at the pleasure of the President"</span></li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">something or someone that provides a source of happiness</span> <span class="quot">"a joy to behold","the pleasure of his company","the new car is a delight"</span></li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">a fundamental feeling that is hard to define but that people desire to experience</span> <span class="quot">"he was tingling with pleasure"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The Roman emperor Domitian took great pleasure in being secluded in his room for hours and catching flies and stabbing them with pens									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Pleasure</span> <span class="exp">Amusement; sport; diversion; self-indulgence; frivolous or dissipating enjoyment; hence, sensual gratification; -- opposed to <span class="wUex">labor</span>
+            <span class="wUex">service</span>
+            <span class="wUex">duty</span>
+            <span class="wUex">self-denial</span>, etc.</span> <span class="wuQuot">"Not sunk in carnal pleasure ."</span><span class="wuQuot">"He that loveth pleasure shall be a poor man."</span><span class="wuQuot">"Lovers of pleasures more than lovers of God."</span></li><li><span class="term">Pleasure</span> <span class="exp">That which pleases; a favor; a gratification.</span> <span class="wuQuot">"Festus, willing to do the Jews a pleasure"</span></li><li><span class="term">Pleasure</span> <span class="exp">The gratification of the senses or of the mind; agreeable sensations or emotions; the excitement, relish, or happiness produced by the expectation or the enjoyment of something good, delightful, or satisfying; -- opposed to <span class="wUant">pain</span>
+            <span class="wUant">sorrow</span>, etc.</span> <span class="wuQuot">"At thy right hand there are pleasures for evermore."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Pleasure</span> <span class="exp">To give or afford pleasure to; to please; to gratify.</span> <span class="wuQuot">"Rolled] his hoop to pleasure Edith."</span></li><li><span class="tSpeech">v. i</span> <span class="term">Pleasure</span> <span class="exp">To take pleasure; to seek pursue pleasure; as, to go <span class="wUex">pleasuring</span>
+         .</span> </li><li><span class="term">Pleasure</span> <span class="exp">What the will dictates or prefers as gratifying or satisfying; hence, will; choice; wish; purpose.</span> <span class="wuQuot">"He will do his pleasure on Babylon."</span><span class="wuQuot">"Use your pleasure ; if your love do not presuade you to come, let not my letter."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Humans and dolphins are the only species that have sex for pleasure
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">That character of a feeling by virtue of which it gratifies the sentient being that experiences it, so that there is an impulse to its continuance or renewal. As being a character of a mere feeling, pleasure is distinguished from happiness, which is a general state of consciousness arising from such an adaptation of circumstances to desires as to produce a prevalent sense of satisfaction. According to hedonistic writers, happiness consists in an excess of pleasure over pain. Pleasure is measured by its intensity, its duration, the freedom from consequent pain, the number of persons whom it affects, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">Sensual gratification; indulgeuce of the appetites.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">That which pleases or gratifies the senses or the mind; that which is delightful or beautiful.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">A favor; gratification.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">Will; desire; preference, or whatever one chooses, desires, or wills: as, it is my pleasure to remain.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">Synonyms Joy, Delight, etc. (see gladness), satisfaction, comfort, solace.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">Self-indulgence; luxury, sensuality, voluptuousness.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasure</span> <span class="exp">Kindness.</span> </li><li><span class="term">pleasure</span> <span class="exp">To give pleasure to; please; gratify.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Hedenophobic means fear of pleasure.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Pleasure</span> <span class="exp"><span class="itl">(plezh′ūr)</span> agreeable emotions: gratification of the senses or of the mind: what the will prefers: purpose: command: approbation</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Christopher Marlowe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Christopher%20Marlowe.jpg" alt="Christopher%20Marlowe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Come live with me, and be my love, and we will all the pleasures prove.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aphra Behn</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Aphra Behn">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Love ceases to be a pleasure, when it ceases to be a secret.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Italo Calvino</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Italo%20Calvino.jpg" alt="Italo%20Calvino">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In love, as in gluttony, pleasure is a matter of the utmost precision.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alfred Mercier</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Alfred Mercier">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What we learn with pleasure we never forget.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is the only sensual pleasure without vice.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jane Austen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jane%20Austen.jpg" alt="Jane%20Austen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Why not seize the pleasure at once? How often is happiness destroyed by preparation, foolish preparation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">plaisir</span>, originally an infinitive. See <span class="wUer">Please</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>plaisir</i> (Fr. <i>plaire</i>)—L. <i>placēre</i>, to please.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						There are certain days when one feels less pleasure than others in exposing one's self to a bullet or a sword-thrust.
+					</div>
+					<div class="uAuthor">
+						"The Vicomte de Bragelonne" by <span>Alexandre Dumas</span>					</div>
+										<div class="usage">
+						Sixth and seventh days, pleasure in moderately bright daylight (3, 4).
+					</div>
+					<div class="uAuthor">
+						"The Mind of the Child, Part II" by <span>W. Preyer</span>					</div>
+										<div class="usage">
+						A strange sort of unearthly pain mixes with the intense pleasure.
+					</div>
+					<div class="uAuthor">
+						"The Young Duke" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						Queen Victoria, from the very first, took great pleasure in filing the correspondence addressed to her.
+					</div>
+					<div class="uAuthor">
+						"The Letters of Queen Victoria, Volume 1 (of 3), 1837-1843)" by <span>Queen Victoria</span>					</div>
+										<div class="usage">
+						You will sleep better, think clearer; you will learn to enjoy mental pleasures more than material pleasures.
+					</div>
+					<div class="uAuthor">
+						"Evening Round Up" by <span>William Crosbie Hunter</span>					</div>
+										<div class="usage">
+						There was nothing but pleasure in her mind.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old Detroit" by <span>Amanda Minnie Douglas</span>					</div>
+										<div class="usage">
+						All this promises no pleasure; rather the very opposite.
+					</div>
+					<div class="uAuthor">
+						"The Home" by <span>Fredrika Bremer</span>					</div>
+										<div class="usage">
+						She gave a sigh of pleasure as she turned it over.
+					</div>
+					<div class="uAuthor">
+						"Christie Redfern's Troubles" by <span>Margaret Robertson</span>					</div>
+										<div class="usage">
+						His pleasure in the pleasure of his sister was intense.
+					</div>
+					<div class="uAuthor">
+						"Shenac's Work at Home" by <span>Margaret Murray Robertson</span>					</div>
+										<div class="usage">
+						But in a short time she became more familiar, and accompanied me every day, her countenance exhibiting visible pleasure.
+					</div>
+					<div class="uAuthor">
+						"The Works of Guy de Maupassant, Vol. 1 (of 8)" by <span>Guy   de Maupassant</span>					</div>
+										<div class="usage">
+						Pain turns into pleasure; and pleasure turns into pain.
+					</div>
+					<div class="uAuthor">
+						"The Complex Vision" by <span>John Cowper Powys</span>					</div>
+										<div class="usage">
+						It was Magdalena's first compliment, and she thrilled with pleasure.
+					</div>
+					<div class="uAuthor">
+						"The Californians" by <span>Gertrude Franklin Horn Atherton</span>					</div>
+										<div class="usage">
+						If you would like to see the rooms, Miss Tallowax, I shall have pleasure in showing you the way.
+					</div>
+					<div class="uAuthor">
+						"Is He Popenjoy?" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						I will take it with pleasure, and you may be sure Rachel will appreciate your goodness.
+					</div>
+					<div class="uAuthor">
+						"Daughters of the Revolution and Their Times" by <span>Charles Carleton Coffin</span>					</div>
+										<div class="usage">
+						Then rising, he took down from the shelf Akenside's Pleasures of Imagination.
+					</div>
+					<div class="uAuthor">
+						"Coelebs In Search of a Wife" by <span>Hannah More</span>					</div>
+										<div class="usage">
+						He had seemed to want her to have the pleasure of this evening's gaiety.
+					</div>
+					<div class="uAuthor">
+						"Shadows of Flames" by <span>Amelie Rives</span>					</div>
+										<div class="usage">
+						I'd prefer your leaving the queen to divulge her secrets at her own pleasure.
+					</div>
+					<div class="uAuthor">
+						"On the Heights" by <span>Berthold Auerbach</span>					</div>
+										<div class="usage">
+						Even if there had been anything delicate it would not have been pleasurable.
+					</div>
+					<div class="uAuthor">
+						"Geography and Plays" by <span>Gertrude Stein</span>					</div>
+										<div class="usage">
+						A physical pleasure is a pleasure to the body only now.
+					</div>
+					<div class="uAuthor">
+						"A Critical History of Greek Philosophy" by <span>W. T. Stace</span>					</div>
+										<div class="usage">
+						Nobody could find pleasure in meeting a hungry wolf, or in having his blood sucked by a vampire.
+					</div>
+					<div class="uAuthor">
+						"The Progressionists, and Angela." by <span>Conrad von Bolanden</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Sad were their days on earth,<br>
+Mid hate and scorn;<br>
+A life of pleasure's dearth,<br>
+A death forlorn. 
+							<div class="poet">"The 'Athletes Of The Universe'" by <span>Samuel John Stone</span></div>
+						</div>
+											<div class="poemQuote">
+							Pleasures such as shall pursue<br>
+Me immortalized, and you;<br>
+And fresh joys, as never too<br>
+Have ending.
+							<div class="poet">"The White Island:or Place Of The Blest" by <span>Robert Herrick</span></div>
+						</div>
+											<div class="poemQuote">
+							All the sky is scarlet<br>
+Flaming on the azure.<br>
+O, there's fire in Heaven<br>
+My heart aches with pleasure.
+							<div class="poet">"Winter Sunset" by <span>Katharine Tynan</span></div>
+						</div>
+											<div class="poemQuote">
+							Are its palaces and pleasures<br>
+Fantasies that fade?<br>
+And the glory of its treasures<br>
+Shadow of a shade?
+							<div class="poet">"Speculation" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							Conscience is the treasure<br>
+Lock'd within his breast,--<br>
+What were all the rest<br>
+To that inner pleasure?
+							<div class="poet">"The Sense Of Right" by <span>Martin Farquhar Tupper </span></div>
+						</div>
+											<div class="poemQuote">
+							Feet with feet are meeting,<br>
+Bent on pleasure's way;<br>
+Souls to souls give greeting<br>
+Warm on Christmas day.
+							<div class="poet">"A Christmas Chant" by <span>Abram Joseph Ryan</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Getty ImagesIt's a genuine pleasure to enjoy baseball novels that are able to create their own world of incredible.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/espn/page2/story/_/page/caple-111219_page_turner/jim-caple-page-turner-looks-popularity-baseball-fiction-writing" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						In 2011, I had the pleasure of seeing hundreds of bands perform live.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nbcsandiego.com/blogs/sounddiego/Got-Milk-Carton-Kids.html" target="_blank" rel="external nofollow">nbcsandiego.com</a>
+					</div>
+										<div class="usage">
+						A WITTY CELEBRANT OF AN AGE OF PLEASURE.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1988/02/14/arts/art-view-a-witty-celebrant-of-an-age-of-pleasure.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Tony Romo and Candice Crawford presumably met by mixing business with pleasure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nydailynews.com/gossip/2009/09/02/2009-09-02_tony_romo_dating_chace_crawfords_young_sister_candice_crawford.html" target="_blank" rel="external nofollow">nydailynews.com</a>
+					</div>
+										<div class="usage">
+						Life's guilty pleasures usually thrive during tough economic times.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/05/AR2008090503487.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Shark attacks kayak off Pleasure Point.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/kgo/video?id=8372087" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						Working with the new MXL.006 is a pleasure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.emusician.com/news/0766/mxl-introduces-usb-large-diaphragm-condenser-mic/135807" target="_blank" rel="external nofollow">emusician.com</a>
+					</div>
+										<div class="usage">
+						Its honesty, candor and arrangment into three-line stanzas make it a pleasure to read.
+					</div>
+					<div class="uAuthor">
+						<a href="http://rockrivertimes.com/2009/11/04/literary-hook-%E2%80%98iwrite%E2%80%99-a-writer-shares-her-connectedness-to-her-work/" target="_blank" rel="external nofollow">rockrivertimes.com</a>
+					</div>
+										<div class="usage">
+						Helen Oyeyemi's latest, "Mr. Fox," is one of those works, and it is -- largely -- a pleasure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cleveland.com/books/index.ssf/2012/01/helen_oyeyemis_mr_fox_is_a_str.html" target="_blank" rel="external nofollow">cleveland.com</a>
+					</div>
+										<div class="usage">
+						 Countless pleasures from the Far East.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.planetjh.com/restaurants/Article.aspx?ArticleID=108583" target="_blank" rel="external nofollow">planetjh.com</a>
+					</div>
+										<div class="usage">
+						Of all the sessions I've had the pleasure of hosting at KDHX, this one may be my favorite.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kdhx.org/play/radio-shows/feel-like-going-home/106-chatham-county-line-recorded-live-at-kdhx-and-on-flgh-this-wednesday-morning" target="_blank" rel="external nofollow">kdhx.org</a>
+					</div>
+										<div class="usage">
+						The McDonald's on Pleasure Island is a very popular spot for locals and tourists alike.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wwaytv3.com/2011/06/29/first-3-carolina-beach-mcdonalds-workers-say-coworker-has-tb" target="_blank" rel="external nofollow">wwaytv3.com</a>
+					</div>
+										<div class="usage">
+						Value, pleasure and choice in the ventral prefrontal cortex.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cell.com/neuron/abstract/S0896-6273(04)00612-9" target="_blank" rel="external nofollow">cell.com</a>
+					</div>
+										<div class="usage">
+						Simple pleasures often catch us unawares.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/lifestyle/taste/170355516.html" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						Guilty Pleasure Fair Food Comes to Gourmet Ranch.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.seattlepi.com/digitaljoystick/" target="_blank" rel="external nofollow">blog.seattlepi.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Examples of items from Protocol 2 (Pleasure vs. 
+					</div>
+					<div class="uAuthor">
+						Curiosity and Pleasure
+					</div>
+										<div class="usage">
+						This example illustrates that Table 1 gives relevant data for testing our hypothesis about correlation between curiosity and pleasure. 
+					</div>
+					<div class="uAuthor">
+						Curiosity and Pleasure
+					</div>
+										<div class="usage">
+						In reality both tables show comparable correlation between curiosity and pleasure, lead to the same conclusion and this discussion becomes irrelevant. 
+					</div>
+					<div class="uAuthor">
+						Curiosity and Pleasure
+					</div>
+										<div class="usage">
+						It is significant to note that only one correlation in each matrix is significant, that is the correlation between rating on curiosity and on pleasure of learning. 
+					</div>
+					<div class="uAuthor">
+						Curiosity and Pleasure
+					</div>
+										<div class="usage">
+						Curiosity, may be added as a correlate with pleasure. 
+					</div>
+					<div class="uAuthor">
+						Curiosity and Pleasure
+					</div>
+										<div class="usage">
+						Amherst NY: Prometheus Books. Kubovy, M. (1999) Pleasures of the mind. 
+					</div>
+					<div class="uAuthor">
+						Curiosity and Pleasure
+					</div>
+										<div class="usage">
+						Curiosity and the pleasures of learning: Wanting and liking new information. 
+					</div>
+					<div class="uAuthor">
+						Curiosity and Pleasure
+					</div>
+										<div class="usage">
+						Acknowledgements It is a pleasure to thank L. 
+					</div>
+					<div class="uAuthor">
+						Random Time-Dependent Quantum Walks
+					</div>
+										<div class="usage">
+						It is a pleasure to thank Ueli Maurer and Yannick Seurin for their insightful feedback. 
+					</div>
+					<div class="uAuthor">
+						Equivalence of the Random Oracle Model and the Ideal Cipher Model, Revisited
+					</div>
+										<div class="usage">
+						The last step above involves a combinatorial identity and we leave the pleasure of proving it to the reader; a generalization of this identity appears as Problem B2 of the 1987 Putnam competition see . 
+					</div>
+					<div class="uAuthor">
+						Random multiplicative functions in short intervals
+					</div>
+										<div class="usage">
+						It is a pleasure to thank Kevin Grosvenor, Charles Melby-Thompson, Cenke Xu and Patrick Zulkowski for enjoyable collaborations on the topics discussed in this paper. 
+					</div>
+					<div class="uAuthor">
+						General Covariance in Gravity at a Lifshitz Point
+					</div>
+										<div class="usage">
+						This is also a pleasure to thank for its hospitality the Newton Institute where part of this work has been done (2011 Discrete Analysis programme). 
+					</div>
+					<div class="uAuthor">
+						Combinatorial optimization over two random point sets
+					</div>
+										<div class="usage">
+						It is a pleasure to thank Mira Shamis for bringing Proposition 2.2 to our attention. 
+					</div>
+					<div class="uAuthor">
+						Resonant delocalization for random Schr\"odinger operators on tree graphs
+					</div>
+										<div class="usage">
+						It is a pleasure to thank Burkhard Külshammer for various helpful discussions on the topic. 
+					</div>
+					<div class="uAuthor">
+						Source Algebras of Blocks, Sources of Simple Modules, and a Conjecture of Feit
+					</div>
+										<div class="usage">
+						Finally, it is a special pleasure to thank the referee for his/her useful suggestions and for pointing out several inaccurracies in a ﬁrst version of the paper. 
+					</div>
+					<div class="uAuthor">
+						Young's seminormal form and simple modules for $S_n$ in characteristic $p$
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a fundamental feeling that is hard to define but that people desire to experience"><a href="pleasance.html">pleasance</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="pain.html">pain</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="activity.html">activity</a>, <a href="choice.html">choice</a>, <a href="feeling.html">feeling</a>, <a href="pick.html">pick</a>, <a href="positive%20stimulus.html">positive stimulus</a>, <a href="selection.html">selection</a>, <a href="sex.html">sex</a>, <a href="sex%20activity.html">sex activity</a>, <a href="sexual%20activity.html">sexual activity</a>, <a href="sexual%20practice.html">sexual practice</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="comfort.html">comfort</a>, <a href="delectation.html">delectation</a>, <a href="delight.html">delight</a>, <a href="enjoyment.html">enjoyment</a>, <a href="luxuriation.html">luxuriation</a>, <a href="pleasantness.html">pleasantness</a>, <a href="sexual%20pleasure.html">sexual pleasure</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="joy.html">joy</a>, <a href="please.html">please</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20labor%20of%20love.html">A labor of love</a>, <a href="aah.html">aah</a>, <a href="abnegate.html">abnegate</a>, <a href="academy.html">academy</a>, <a href="acceptable.html">acceptable</a>, <a href="act.html">act</a>, <a href="acute.html">acute</a>, <a href="ad%20libitum.html">ad libitum</a>, <a href="addict.html">addict</a>, <a href="administer.html">administer</a>, <a href="admire.html">admire</a>, <a href="affect.html">affect</a>, <a href="afterglow.html">afterglow</a>, <a href="agitation.html">agitation</a>, <a href="agreeableness.html">agreeableness</a>, <a href="agreeably.html">agreeably</a>, <a href="Aha.html">Aha</a>, <a href="alcove.html">alcove</a>, <a href="algolagnia.html">algolagnia</a>, <a href="algophilia.html">algophilia</a>, <a href="Alimentiveness.html">Alimentiveness</a>, <a href="alloy.html">alloy</a>, <a href="allure.html">allure</a>, <a href="allurement.html">allurement</a>, <a href="amateur.html">amateur</a>, <a href="amorousness.html">amorousness</a>, <a href="anhedonia.html">anhedonia</a>, <a href="apathy.html">apathy</a>, <a href="appetite.html">appetite</a>, <a href="approbation.html">approbation</a>, <a href="arbiter.html">arbiter</a>, <a href="arbitrary.html">arbitrary</a>, <a href="Arbitrary%20quantity.html">Arbitrary quantity</a>, <a href="arbitrator.html">arbitrator</a>, <a href="Arcadia.html">Arcadia</a>, <a href="architecture.html">architecture</a>, <a href="At.html">At</a>, <a href="at%20will.html">at will</a>, <a href="attend.html">attend</a>, <a href="attendance.html">attendance</a>, <a href="attendant.html">attendant</a>, <a href="attention.html">attention</a>, <a href="attentive.html">attentive</a>, <a href="attracter.html">attracter</a>, <a href="attraction.html">attraction</a>, <a href="attractive%20feature.html">attractive feature</a>, <a href="attractor.html">attractor</a>, <a href="austere.html">austere</a>, <a href="bachelor.html">bachelor</a>, <a href="balloon.html">balloon</a>, <a href="bang.html">bang</a>, <a href="barge.html">barge</a>, <a href="barrack.html">barrack</a>, <a href="Basiliscus.html">Basiliscus</a>, <a href="bask.html">bask</a>, <a href="bathe.html">bathe</a>, <a href="beatitude.html">beatitude</a>, <a href="beauty.html">beauty</a>, <a href="Belly-god.html">Belly-god</a>, <a href="Bene%20placito.html">Bene placito</a>, <a href="benefice.html">benefice</a>, <a href="Benthamism.html">Benthamism</a>, <a href="betting.html">betting</a>, <a href="bird%20fancier.html">bird fancier</a>, <a href="Birdcatching.html">Birdcatching</a>, <a href="blase.html">blase</a>, <a href="boating.html">boating</a>, <a href="bob.html">bob</a>, <a href="Bordar.html">Bordar</a>, <a href="bridoon.html">bridoon</a>, <a href="Britzka.html">Britzka</a>, <a href="Britzska.html">Britzska</a>, <a href="business.html">business</a>, <a href="buy.html">buy</a>, <a href="cabinet.html">cabinet</a>, <a href="calash.html">calash</a>, <a href="calm.html">calm</a>, <a href="Camelina.html">Camelina</a>, <a href="camp.html">camp</a>, <a href="canoe.html">canoe</a>, <a href="canter.html">canter</a>, <a href="card-playing.html">card-playing</a>, <a href="caroche.html">caroche</a>, <a href="Carpetmonger.html">Carpetmonger</a>, <a href="cart.html">cart</a>, <a href="Carte-blanche.html">Carte-blanche</a>, <a href="Cash%20credit.html">Cash credit</a>, <a href="catamaran.html">catamaran</a>, <a href="chaise.html">chaise</a>, <a href="chariot.html">chariot</a>, <a href="Chariotee.html">Chariotee</a>, <a href="charm.html">charm</a>, <a href="Chase.html">Chase</a>, <a href="cheerfully.html">cheerfully</a>, <a href="cherish.html">cherish</a>, <a href="Cherishment.html">Cherishment</a>, <a href="chirp.html">chirp</a>, <a href="chuck.html">chuck</a>, <a href="climax.html">climax</a>, <a href="clutch.html">clutch</a>, <a href="cocain.html">cocain</a>, <a href="cocaine.html">cocaine</a>, <a href="coigne.html">coigne</a>, <a href="comfort.html">comfort</a>, <a href="coming.html">coming</a>, <a href="common.html">common</a>, <a href="company.html">company</a>, <a href="complacence.html">complacence</a>, <a href="complacency.html">complacency</a>, <a href="complacent.html">complacent</a>, <a href="complacently.html">complacently</a>, <a href="complaisance.html">complaisance</a>, <a href="congratulate.html">congratulate</a>, <a href="congratulation.html">congratulation</a>, <a href="congratulatory.html">congratulatory</a>, <a href="Consols.html">Consols</a>, <a href="contentment.html">contentment</a>, <a href="continent.html">continent</a>, <a href="Corinthian.html">Corinthian</a>, <a href="cottage.html">cottage</a>, <a href="Crow.html">Crow</a>, <a href="cruel.html">cruel</a>, <a href="cruelty.html">cruelty</a>, <a href="cruise.html">cruise</a>, <a href="cruise%20liner.html">cruise liner</a>, <a href="cruise%20ship.html">cruise ship</a>, <a href="curtain.html">curtain</a>, <a href="Cynic.html">Cynic</a>, <a href="cynicism.html">cynicism</a>, <a href="Cyrenaic.html">Cyrenaic</a>, <a href="dainty.html">dainty</a>, <a href="dance.html">dance</a>, <a href="dark%20lantern.html">dark lantern</a>, <a href="dative.html">dative</a>, <a href="davit.html">davit</a>, <a href="Deduit.html">Deduit</a>, <a href="delectable.html">delectable</a>, <a href="delectation.html">delectation</a>, <a href="delicacy.html">delicacy</a>, <a href="delicate.html">delicate</a>, <a href="Delicious.html">Delicious</a>, <a href="delight.html">delight</a>, <a href="delightful.html">delightful</a>, <a href="delightfully.html">delightfully</a>, <a href="Delightless.html">Delightless</a>, <a href="deny.html">deny</a>, <a href="desire.html">desire</a>, <a href="device.html">device</a>, <a href="diabolic.html">diabolic</a>, <a href="diabolical.html">diabolical</a>, <a href="die.html">die</a>, <a href="Differential%20coupling.html">Differential coupling</a>, <a href="discomfort.html">discomfort</a>, <a href="discount.html">discount</a>, <a href="discretion.html">discretion</a>, <a href="displeasure.html">displeasure</a>, <a href="dissatisfaction.html">dissatisfaction</a>, <a href="dissipate.html">dissipate</a>, <a href="dissipated.html">dissipated</a>, <a href="dissipation.html">dissipation</a>, <a href="dissolute.html">dissolute</a>, <a href="dissoluteness.html">dissoluteness</a>, <a href="dissolution.html">dissolution</a>, <a href="dissolve.html">dissolve</a>, <a href="Divinization.html">Divinization</a>, <a href="Domino.html">Domino</a>, <a href="Dragbolt.html">Dragbolt</a>, <a href="drawbridge.html">drawbridge</a>, <a href="drink.html">drink</a>, <a href="drive.html">drive</a>, <a href="drown.html">drown</a>, <a href="duck.html">duck</a>, <a href="Durante.html">Durante</a>, <a href="ease.html">ease</a>, <a href="easy.html">easy</a>, <a href="Ecclesiastes.html">Ecclesiastes</a>, <a href="egoism.html">egoism</a>, <a href="emotional%20state.html">emotional state</a>, <a href="empty.html">empty</a>, <a href="enhancement.html">enhancement</a>, <a href="enjoy.html">enjoy</a>, <a href="enjoyable.html">enjoyable</a>, <a href="enjoyment.html">enjoyment</a>, <a href="enrapture.html">enrapture</a>, <a href="epicure.html">epicure</a>, <a href="epicurean.html">epicurean</a>, <a href="epicureanism.html">epicureanism</a>, <a href="epicurism.html">epicurism</a>, <a href="Epicurus.html">Epicurus</a>, <a href="Epidictic.html">Epidictic</a>, <a href="equipage.html">equipage</a>, <a href="erotic.html">erotic</a>, <a href="escape.html">escape</a>, <a href="ESE.html">ESE</a>, <a href="Euterpe.html">Euterpe</a>, <a href="excursion.html">excursion</a>, <a href="excursionist.html">excursionist</a>, <a href="Exhilarant.html">Exhilarant</a>, <a href="expedition.html">expedition</a>, <a href="experience.html">experience</a>, <a href="exquisite.html">exquisite</a>, <a href="extract.html">extract</a>, <a href="extravagantly.html">extravagantly</a>, <a href="extreme.html">extreme</a>, <a href="eyelid.html">eyelid</a>, <a href="fain.html">fain</a>, <a href="fast.html">fast</a>, <a href="fawn.html">fawn</a>, <a href="feast.html">feast</a>, <a href="feel.html">feel</a>, <a href="feeling.html">feeling</a>, <a href="felicitate.html">felicitate</a>, <a href="felicitation.html">felicitation</a>, <a href="felicitous.html">felicitous</a>, <a href="feminine.html">feminine</a>, <a href="field%20day.html">field day</a>, <a href="fisherman.html">fisherman</a>, <a href="flatter.html">flatter</a>, <a href="flesh.html">flesh</a>, <a href="fling.html">fling</a>, <a href="fond.html">fond</a>, <a href="fool%27s%20paradise.html">fool's paradise</a>, <a href="forbidden.html">forbidden</a>, <a href="forbidden%20fruit.html">forbidden fruit</a>, <a href="Foresleeve.html">Foresleeve</a>, <a href="forest.html">forest</a>, <a href="fraternity.html">fraternity</a>, <a href="free%20love.html">free love</a>, <a href="Free-love.html">Free-love</a>, <a href="frock.html">frock</a>, <a href="fruition.html">fruition</a>, <a href="fund.html">fund</a>, <a href="funny.html">funny</a>, <a href="GAD.html">GAD</a>, <a href="gaiety.html">gaiety</a>, <a href="galley.html">galley</a>, <a href="gallivant.html">gallivant</a>, <a href="game.html">game</a>, <a href="gay.html">gay</a>, <a href="genial.html">genial</a>, <a href="genital%20personality.html">genital personality</a>, <a href="get%20away.html">get away</a>, <a href="give.html">give</a>, <a href="glad.html">glad</a>, <a href="gladfulness.html">gladfulness</a>, <a href="gladly.html">gladly</a>, <a href="gladness.html">gladness</a>, <a href="gladsome.html">gladsome</a>, <a href="gladsomeness.html">gladsomeness</a>, <a href="Gladstone.html">Gladstone</a>, <a href="glisten.html">glisten</a>, <a href="gloat.html">gloat</a>, <a href="globe-trot.html">globe-trot</a>, <a href="Globe-trotter.html">Globe-trotter</a>, <a href="glow.html">glow</a>, <a href="good.html">good</a>, <a href="grace.html">grace</a>, <a href="grateful.html">grateful</a>, <a href="gratification.html">gratification</a>, <a href="gratify.html">gratify</a>, <a href="gratifying.html">gratifying</a>, <a href="Gratulant.html">Gratulant</a>, <a href="Gratulate.html">Gratulate</a>, <a href="gratulatory.html">gratulatory</a>, <a href="Gree.html">Gree</a>, <a href="grin.html">grin</a>, <a href="grinning.html">grinning</a>, <a href="grope.html">grope</a>, <a href="grovel.html">grovel</a>, <a href="gust.html">gust</a>, <a href="hack.html">hack</a>, <a href="happiness.html">happiness</a>, <a href="happy.html">happy</a>, <a href="haulage.html">haulage</a>, <a href="head%20trip.html">head trip</a>, <a href="heartwarming.html">heartwarming</a>, <a href="hedonic.html">hedonic</a>, <a href="Hedonics.html">Hedonics</a>, <a href="hedonism.html">hedonism</a>, <a href="hedonist.html">hedonist</a>, <a href="hedonistic.html">hedonistic</a>, <a href="Herber.html">Herber</a>, <a href="Hey.html">Hey</a>, <a href="high.html">high</a>, <a href="hike.html">hike</a>, <a href="hiker.html">hiker</a>, <a href="hiking.html">hiking</a>, <a href="hilarity.html">hilarity</a>, <a href="hobbyist.html">hobbyist</a>, <a href="holiday.html">holiday</a>, <a href="holidaymaker.html">holidaymaker</a>, <a href="honest.html">honest</a>, <a href="hood.html">hood</a>, <a href="hopefully.html">hopefully</a>, <a href="hurt.html">hurt</a>, <a href="illicit.html">illicit</a>, <a href="imposition.html">imposition</a>, <a href="incapable.html">incapable</a>, <a href="indispose.html">indispose</a>, <a href="indulge.html">indulge</a>, <a href="industrious.html">industrious</a>, <a href="inexpressible.html">inexpressible</a>, <a href="intent.html">intent</a>, <a href="invite.html">invite</a>, <a href="irredeemable.html">irredeemable</a>, <a href="jaunt.html">jaunt</a>, <a href="jazz%20around.html">jazz around</a>, <a href="jet%20set.html">jet set</a>, <a href="joy.html">joy</a>, <a href="joyless.html">joyless</a>, <a href="joyride.html">joyride</a>, <a href="junket.html">junket</a>, <a href="junketeer.html">junketeer</a>, <a href="junketing.html">junketing</a>, <a href="Kamasutra.html">Kamasutra</a>, <a href="keeper.html">keeper</a>, <a href="kick.html">kick</a>, <a href="kill.html">kill</a>, <a href="Kill-joy.html">Kill-joy</a>, <a href="killjoy.html">killjoy</a>, <a href="Knight-service.html">Knight-service</a>, <a href="laugh.html">laugh</a>, <a href="laughing.html">laughing</a>, <a href="lawn.html">lawn</a>, <a href="lechery.html">lechery</a>, <a href="Lest.html">Lest</a>, <a href="lettre%20de%20cachet.html">lettre de cachet</a>, <a href="levity.html">levity</a>, <a href="licentiousness.html">licentiousness</a>, <a href="like.html">like</a>, <a href="liking.html">liking</a>, <a href="list.html">list</a>, <a href="looseness.html">looseness</a>, <a href="Lorette.html">Lorette</a>, <a href="lotus-eater.html">lotus-eater</a>, <a href="love.html">love</a>, <a href="lure.html">lure</a>, <a href="lushness.html">lushness</a>, <a href="lust.html">lust</a>, <a href="lustiness.html">lustiness</a>, <a href="luxuriance.html">luxuriance</a>, <a href="luxuriation.html">luxuriation</a>, <a href="luxurious.html">luxurious</a>, <a href="luxury.html">luxury</a>, <a href="lycanthrope.html">lycanthrope</a>, <a href="magnet.html">magnet</a>, <a href="make%20vibrant%20sounds.html">make vibrant sounds</a>, <a href="malice.html">malice</a>, <a href="man-about-town.html">man-about-town</a>, <a href="maroon.html">maroon</a>, <a href="masochism.html">masochism</a>, <a href="masochist.html">masochist</a>, <a href="masochistic.html">masochistic</a>, <a href="master.html">master</a>, <a href="masturbation.html">masturbation</a>, <a href="merriness.html">merriness</a>, <a href="mirth.html">mirth</a>, <a href="miser.html">miser</a>, <a href="mixed.html">mixed</a>, <a href="motorist.html">motorist</a>, <a href="mountaineer.html">mountaineer</a>, <a href="narcotic.html">narcotic</a>, <a href="news.html">news</a>, <a href="Nice.html">Nice</a>, <a href="oasis.html">oasis</a>, <a href="oilseed.html">oilseed</a>, <a href="onanism.html">onanism</a>, <a href="ooh.html">ooh</a>, <a href="OR.html">OR</a>, <a href="organic.html">organic</a>, <a href="orgasm.html">orgasm</a>, <a href="outing.html">outing</a>, <a href="outrider.html">outrider</a>, <a href="owl.html">owl</a>, <a href="pain.html">pain</a>, <a href="paradise.html">paradise</a>, <a href="Park.html">Park</a>, <a href="Parral.html">Parral</a>, <a href="Parrel.html">Parrel</a>, <a href="party.html">party</a>, <a href="party%20pooper.html">party pooper</a>, <a href="pause.html">pause</a>, <a href="pay.html">pay</a>, <a href="phaeton.html">phaeton</a>, <a href="phallic%20phase.html">phallic phase</a>, <a href="phallic%20stage.html">phallic stage</a>, <a href="Piacere.html">Piacere</a>, <a href="picnic.html">picnic</a>, <a href="play.html">play</a>, <a href="playboy.html">playboy</a>, <a href="pleasance.html">pleasance</a>, <a href="pleasant.html">pleasant</a>, <a href="pleasantness.html">pleasantness</a>, <a href="pleasantry.html">pleasantry</a>, <a href="please.html">please</a>, <a href="pleased.html">pleased</a>, <a href="pleasing.html">pleasing</a>, <a href="pleasingness.html">pleasingness</a>, <a href="pleasurable.html">pleasurable</a>, <a href="pleasure%20trip.html">pleasure trip</a>, <a href="Pleasure-boat.html">Pleasure-boat</a>, <a href="Pleasure-ground.html">Pleasure-ground</a>, <a href="Pleasure-house.html">Pleasure-house</a>, <a href="Pleasure-trip.html">Pleasure-trip</a>, <a href="Pleasureful.html">Pleasureful</a>, <a href="Pleasureless.html">Pleasureless</a>, <a href="Pleasurer.html">Pleasurer</a>, <a href="Pleasurist.html">Pleasurist</a>, <a href="Plunge%20battery.html">Plunge battery</a>, <a href="plunging%20battery.html">plunging battery</a>, <a href="policy.html">policy</a>, <a href="power%20trip.html">power trip</a>, <a href="precarious.html">precarious</a>, <a href="preterist.html">preterist</a>, <a href="pride.html">pride</a>, <a href="primrose%20path.html">primrose path</a>, <a href="profligacy.html">profligacy</a>, <a href="promenade.html">promenade</a>, <a href="proud.html">proud</a>, <a href="Pur.html">Pur</a>, <a href="purr.html">purr</a>, <a href="pursuit.html">pursuit</a>, <a href="Quodlibetarian.html">Quodlibetarian</a>, <a href="rapture.html">rapture</a>, <a href="rapturous.html">rapturous</a>, <a href="receive.html">receive</a>, <a href="relish.html">relish</a>, <a href="renewable.html">renewable</a>, <a href="retire.html">retire</a>, <a href="riant.html">riant</a>, <a href="Rock-away.html">Rock-away</a>, <a href="roue.html">roue</a>, <a href="routine.html">routine</a>, <a href="run.html">run</a>, <a href="sacrifice.html">sacrifice</a>, <a href="sadism.html">sadism</a>, <a href="sadist.html">sadist</a>, <a href="sadistic.html">sadistic</a>, <a href="sail.html">sail</a>, <a href="sashay.html">sashay</a>, <a href="savor.html">savor</a>, <a href="savour.html">savour</a>, <a href="self-abuse.html">self-abuse</a>, <a href="self-gratification.html">self-gratification</a>, <a href="Self-life.html">Self-life</a>, <a href="self-seeker.html">self-seeker</a>, <a href="self-stimulation.html">self-stimulation</a>, <a href="selfish.html">selfish</a>, <a href="sensibility.html">sensibility</a>, <a href="sensualize.html">sensualize</a>, <a href="seraglio.html">seraglio</a>, <a href="sexual%20climax.html">sexual climax</a>, <a href="sexual%20pleasure.html">sexual pleasure</a>, <a href="shock.html">shock</a>, <a href="short-lived.html">short-lived</a>, <a href="skunk.html">skunk</a>, <a href="smile.html">smile</a>, <a href="smiling.html">smiling</a>, <a href="smilingly.html">smilingly</a>, <a href="smirk.html">smirk</a>, <a href="snap.html">snap</a>, <a href="social.html">social</a>, <a href="society.html">society</a>, <a href="solace.html">solace</a>, <a href="Solacious.html">Solacious</a>, <a href="sonometer.html">sonometer</a>, <a href="spirit.html">spirit</a>, <a href="spoilsport.html">spoilsport</a>, <a href="sporting.html">sporting</a>, <a href="stoic.html">stoic</a>, <a href="stoical.html">stoical</a>, <a href="Stoicism.html">Stoicism</a>, <a href="stolidity.html">stolidity</a>, <a href="stolidness.html">stolidness</a>, <a href="summerhouse.html">summerhouse</a>, <a href="Surrey.html">Surrey</a>, <a href="sweetness.html">sweetness</a>, <a href="swing.html">swing</a>, <a href="Swingle.html">Swingle</a>, <a href="sybarite.html">sybarite</a>, <a href="sympathize.html">sympathize</a>, <a href="T%20cart.html">T cart</a>, <a href="T-cart.html">T-cart</a>, <a href="take%20the%20air.html">take the air</a>, <a href="Tally-ho.html">Tally-ho</a>, <a href="Tallyho%20coach.html">Tallyho coach</a>, <a href="taste.html">taste</a>, <a href="Tearpit.html">Tearpit</a>, <a href="terrace.html">terrace</a>, <a href="titillating.html">titillating</a>, <a href="To%20be%20pleased%20in.html">To be pleased in</a>, <a href="To%20be%20pleased%20to%20do%20a%20thing.html">To be pleased to do a thing</a>, <a href="To%20be%20pleased%20with.html">To be pleased with</a>, <a href="To%20enjoy%20one%27s%20self.html">To enjoy one's self</a>, <a href="To%20lead%20by%20the%20nose.html">To lead by the nose</a>, <a href="To%20look%20forward%20to.html">To look forward to</a>, <a href="To%20lot%20on.html">To lot on</a>, <a href="To%20lot%20upon.html">To lot upon</a>, <a href="To%20take%20one%27s%20own%20course.html">To take one's own course</a>, <a href="To%20turn%20around%20one%27s%20finger.html">To turn around one's finger</a>, <a href="tool.html">tool</a>, <a href="tool%20around.html">tool around</a>, <a href="tourer.html">tourer</a>, <a href="tourist.html">tourist</a>, <a href="tramp.html">tramp</a>, <a href="tramper.html">tramper</a>, <a href="transient.html">transient</a>, <a href="transport.html">transport</a>, <a href="Transported.html">Transported</a>, <a href="travel.html">travel</a>, <a href="treat.html">treat</a>, <a href="trip.html">trip</a>, <a href="trust.html">trust</a>, <a href="ugliness.html">ugliness</a>, <a href="Unpleasurable.html">Unpleasurable</a>, <a href="unwelcome.html">unwelcome</a>, <a href="utilitarianism.html">utilitarianism</a>, <a href="vacation.html">vacation</a>, <a href="vacationer.html">vacationer</a>, <a href="vacationist.html">vacationist</a>, <a href="vanity.html">vanity</a>, <a href="vicarious.html">vicarious</a>, <a href="Victoria.html">Victoria</a>, <a href="Village%20cart.html">Village cart</a>, <a href="voluptuary.html">voluptuary</a>, <a href="voluptuous.html">voluptuous</a>, <a href="voluptuousness.html">voluptuousness</a>, <a href="Wagonette.html">Wagonette</a>, <a href="walk.html">walk</a>, <a href="wallow.html">wallow</a>, <a href="want.html">want</a>, <a href="welcome.html">welcome</a>, <a href="wet%20blanket.html">wet blanket</a>, <a href="will.html">will</a>, <a href="wind.html">wind</a>, <a href="window.html">window</a>, <a href="winsome.html">winsome</a>, <a href="yacht.html">yacht</a>, <a href="yachting.html">yachting</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oleasure, lleasure, pkeasure, poeasure, ppeasure, plwasure, plsasure, pldasure, plrasure, pleqsure, plewsure, plessure, plezsure, pleaaure, pleawure, pleadure, pleaxure, pleazure, pleaaure, pleasyre, pleashre, pleasjre, pleasire, pleasuee, pleasude, pleasufe, pleasute, pleasurw, pleasurs, pleasurd, pleasurr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

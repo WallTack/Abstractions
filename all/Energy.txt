@@ -1,0 +1,572 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>energy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">an imaginative lively style (especially style of writing)</span> <span class="quot">"his writing conveys great energy","a remarkable muscularity of style"</span></li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">enterprising or ambitious drive</span> <span class="quot">"Europeans often laugh at American energy"</span></li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">forceful exertion</span> <span class="quot">"he plays tennis with great energy","he's full of zip"</span></li><li><span class="tSpeech">n</span> <span class="term">Energy</span> <span class="exp">the federal department responsible for maintaining a national energy policy of the United States; created in 1977</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">any source of usable power</span> <span class="quot">"the DOE is responsible for maintaining the energy policy"</span></li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs</span> <span class="quot">"energy can take a wide variety of forms"</span></li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">a healthy capacity for vigorous activity</span> <span class="quot">"jogging works off my excess energy","he seemed full of vim and vigor"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Japan uses the most energy per year than any other country.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Energy</span> <span class="exp"><span class="wuFld">(Physics)</span> Capacity for performing work.</span> </li><li><span class="term">Energy</span> <span class="exp">Internal or inherent power; capacity of acting, operating, or producing an effect, whether exerted or not; as, men possessing <span class="wUex">energies</span> may suffer them to lie inactive.</span> <span class="wuQuot">"The great energies of nature are known to us only by their effects."</span></li><li><span class="term">Energy</span> <span class="exp">Power efficiently and forcibly exerted; vigorous or effectual operation; as, the <span class="wUex">energy</span> of a magistrate.</span> </li><li><span class="term">Energy</span> <span class="exp">Strength of expression; force of utterance; power to impress the mind and arouse the feelings; life; spirit; -- said of speech, language, words, style; as, a style full of <span class="wUex">energy</span>
+            .</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Energy is being wasted if a toaster is left plugged in after use
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">The actual exertion of power; power exerted; strength in action; vigorous operation.</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">Activity considered as a characteristic; habitual putting forth of power or strength, physical or mental, or readiness to exert it.</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">The exertion of or capacity for a particular kind of force; action or the power of acting in any manner; special ability or agency: used of the active faculties or modes of action regarded severally, and often in the plural: as, creative energy; the energies of mind and body.</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">In the Aristotelian philos., actuality; realization; existence; the being no longer in germ or in posse, but in life or in esse: opposed to power, potency, or potentiality. Thus, first energy is the state of acquired habit; second energy, the exercise of a habit: one when he has learned to sing is a singer in first energy; when he is singing, he is a singer in second energy. See act.</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">A fact of acting or actually being.</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">In rhetoric, the quality of awakening the imagination of the reader or hearer, and bringing the meaning of what is said home to him; liveliness.</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">In physics: Half the sum of the masses of the particles of a system each multiplied by the square of its velocity; half the vis viva. See vis viva. This sense, introduced by Dr. Thomas Young, is now obsolete. It gave rise to the following, which was introduced about 1850 by Sir William Thomson, and is now widely current.</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">Half the greatest value to which the sum of the masses of all the particles of a given system each multiplied by the square of its velocity, could attain except for friction, viscosity, and other forces dependent on the velocities of the particles; otherwise, the amount of work (see work) which a given system could perform were it not for resistance dependent on the velocities. The law of energy is precisely the principle that these two definitions are equivalent. This law applies solely to forces dependent alone on the relative positions of particles—that is, to attractions, repulsions, and their resultants. It is shown mathematically that, taking any two level or equipotential surfaces (see equipotential) which a particle might traverse in its motion, the difference of the squares of its velocities as it passed through them would be the same no matter from what point of space it started, nor what might be the direction and velocity of its initial motion. Thus, the square of the velocity at any instant could be deduced from that at any other by simply adding or subtracting a quantity dependent merely on the positions at these instants. In like manner, if a number of particles were moving about, subject to mutual attractions and repulsions, it is shown in dynamics that if to the sum of the masses, each multiplied by the square of its velocity, be added a certain quantity dependent only on the positions of the particles at that instant, this last sum would remain constant throughout the motion. Of these quantities, half the mass of a particle into the square of its velocity is termed its actual energy, or energy of motion— that is, its kinetic activity; while the quantity to be added to the sum of the actual energy in order to obtain a constant sum is termed the potential energy— that is, the latent or slumbering activity, or energy of position; the constant sum being termed the total energy. The corresponding general principle of physics is that the total energy of the physical universe is constant; this is the principle of the persistence or conservation of energy. (See below.) Examples of actual energy are the energy of sensible motion as in a moving cannon-ball, of sound-waves, of heat; of potential energy, the energy of position of a weight raised above the earth, of elasticity as in a bent bow, of electricity, chemical combination, etc. Potential or positional energy and actual or kinetic energy are in incessant interconversion; for positional energy implies force, or a tendency to motion, as much as kinetic energy implies motion or change of position. Thus, in the case of a swinging pendulum, the actual energy is null at the turning-points at the extremities of the swing, while the potential energy is at its minimum when the center of gravity is lowest; and the oscillation, but for resistances (as friction), would continue forever. Another equivalent version of the law of energy is as follows: Suppose a system of bodies were moving under the influence of those positional forces to which the law exclusively applies, and suppose that at any one instant all the particles were to strike squarely against elastic surfaces so as to have the directions of their motions reversed, but their velocities otherwise unaltered; then the whole series of motions would be performed backward, so that the particles would again pass through the same positions they had already passed through, and in the same intervals of time, but in the reverse order. Thus, a squarely rebounding cannonball in vacuo would move backward over the same trajectory, and with the same velocities, as in its forward motion, plunging into the mouth of the cannon again with exactly the velocity with which it had issued.</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">of water in motion, or in an elevated position;</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">of air in motion, as the wind;</span> </li><li><span class="tSpeech">n</span> <span class="term">energy</span> <span class="exp">the muscular energy of animals. To these might be added the energy of direct solar radiation, the energy of the tides, and some others of less importance. The source of all these forms of energy, except that of the tides, is to be found in the radiant energy of the sun.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										An insect exerts so much energy in one hour of flying that it may lose as much as a third of its total body weight.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Energy</span> <span class="exp"><span class="itl">en′ėr-ji</span> power of doing work: power exerted: vigorous operation: strength:</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Energy</span> <span class="exp">to act with force:—<span class="itl">pr.p.</span> en′ergīsing; <span class="itl">pa.p.</span> en′ergīsed</span> </li><li><span class="tSpeech">n</span> <span class="term">Energy</span> <span class="exp"><span class="itl">en′ėr-ji</span> (<span class="itl">physics</span>) the term, as applied to a material system, used to denote the power of doing work possessed by that system</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas J. Peters</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20J.%20Peters.jpg" alt="Thomas%20J.%20Peters">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Winners must learn to relish change with the same enthusiasm and energy that we have resisted it in the past.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Woodrow T. Wilson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Woodrow%20T.%20Wilson.jpg" alt="Woodrow%20T.%20Wilson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I believe in democracy, because it releases the energies of every human being.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Don G. Mitchell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Don G. Mitchell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no genius in life like the genius of energy and industry.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aristotle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aristotle.jpg" alt="Aristotle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The energy of the mind is the essence of life.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Smiley Blanton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Smiley Blanton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Love is the immortal flow of energy that nourishes, extends and preserves. Its eternal goal is life.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Leo Buscaglia</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Leo%20Buscaglia.jpg" alt="Leo%20Buscaglia">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Don't hold to anger, hurt or pain. They steal your energy and keep you from love.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">énergie</span>, LL. <span class="wUets">energia</span>, fr. Gr., fr.  active;  in +  work. See <span class="wUer">In</span>, and <span class="wUer">Work</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr. <i>energeia</i>—<i>en</i>, in, <i>ergon</i>, work.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						His energy was unceasing, his perseverance indomitable.
+					</div>
+					<div class="uAuthor">
+						"A Popular History of Astronomy During the Nineteenth Century" by <span>Agnes M. (Agnes Mary) Clerke</span>					</div>
+										<div class="usage">
+						Invincible industry and energy were united with these dreams.
+					</div>
+					<div class="uAuthor">
+						"Madame Roland, Makers of History" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						He directed almost his chief energies to this object, to keep off all foreign influences from his well-ordered kingdom.
+					</div>
+					<div class="uAuthor">
+						"A History of England Principally in the Seventeenth Century, Volume I (of 6)" by <span>Leopold von Ranke</span>					</div>
+										<div class="usage">
+						With deadly accuracy they released the energy of their ray pistols.
+					</div>
+					<div class="uAuthor">
+						"The Copper-Clad World" by <span>Harl Vincent</span>					</div>
+										<div class="usage">
+						But will they have the energy?
+					</div>
+					<div class="uAuthor">
+						"Diary from March 4, 1861, to November 12, 1862" by <span>Adam Gurowski</span>					</div>
+										<div class="usage">
+						Yet Stephen owes a small niche in history to another cause, upon which he bestowed no little energy.
+					</div>
+					<div class="uAuthor">
+						"The Life of Sir James Fitzjames Stephen, Bart., K.C.S.I." by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						But De Soto, whose youthful energies were inspired by love and ambition, was eager to press forward.
+					</div>
+					<div class="uAuthor">
+						"Ferdinand De Soto, The Discoverer of the Mississippi" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						The discharge from the motors is a harmless stream of energy particles.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science July 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						The translatory energy of the train is transformed into the molecular energy called heat.
+					</div>
+					<div class="uAuthor">
+						"The Machinery of the Universe" by <span>Amos Emerson Dolbear</span>					</div>
+										<div class="usage">
+						But there are no energies like the energies of despair.
+					</div>
+					<div class="uAuthor">
+						"King Philip" by <span>John S. C. (John Stevens Cabot) Abbott</span>					</div>
+										<div class="usage">
+						It continued to feed on the soil and on the Sun's energy.
+					</div>
+					<div class="uAuthor">
+						"The Leech" by <span>Phillips Barbee</span>					</div>
+										<div class="usage">
+						They are undoubtedly wanting in energy.
+					</div>
+					<div class="uAuthor">
+						"Ireland as It Is" by <span>Robert John Buckley (AKA R.J.B.)</span>					</div>
+										<div class="usage">
+						This combining (burning or oxidizing) gives us our body heat and the energy to move.
+					</div>
+					<div class="uAuthor">
+						"Common Science" by <span>Carleton W. Washburne</span>					</div>
+										<div class="usage">
+						It results that such energies, remaining virtual, have no practical importance.
+					</div>
+					<div class="uAuthor">
+						"The Sexual Question" by <span>August Forel</span>					</div>
+										<div class="usage">
+						They exhibit only the energies of an admirable impulse, without the control of a guiding law.
+					</div>
+					<div class="uAuthor">
+						"The Truth About Woman" by <span>C. Gasquoine Hartley</span>					</div>
+										<div class="usage">
+						The pulsing energies and exhilaration of youth are his again!
+					</div>
+					<div class="uAuthor">
+						"Elementary Theosophy" by <span>L. W. Rogers</span>					</div>
+										<div class="usage">
+						Anna's attempt to make it up when she said good-night was repulsed with energy.
+					</div>
+					<div class="uAuthor">
+						"The Benefactress" by <span>Elizabeth Beauchamp</span>					</div>
+										<div class="usage">
+						The only real energy there is or can be is the energy of the infinite mind we call God.
+					</div>
+					<div class="uAuthor">
+						"Carmen Ariza" by <span>Charles Francis Stocking</span>					</div>
+										<div class="usage">
+						From ten o'clock in the morning until five o'clock in the evening the huge Portland Place house absorbed her energies.
+					</div>
+					<div class="uAuthor">
+						"The Duchess of Wrexe" by <span>Hugh Walpole</span>					</div>
+										<div class="usage">
+						The chlorophylls are, of course, the regulator of photosynthesis, absorbing solar energy with which the photosynthetic process may be brought about.
+					</div>
+					<div class="uAuthor">
+						"The Chemistry of Plant Life" by <span>Roscoe Wilfred Thatcher</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							We know he has much moral force;<br>
+Much that is good and great;<br>
+Much enterprise and energy,<br>
+Which we would imitate.
+							<div class="poet">"Lines Of Annexation" by <span>Nora Pembroke</span></div>
+						</div>
+											<div class="poemQuote">
+							But each passing hour must waken<br>
+Energies that slumber now,<br>
+Manhood with its fire and action<br>
+Stamp that fair, unfurrowed brow.
+							<div class="poet">"Lines To D. G. T., Of Sherwood" by <span>Mary Gardiner Horsford  </span></div>
+						</div>
+											<div class="poemQuote">
+							Is it for this, that on one work<br>
+My soul's whole energy I cast?<br>
+Thought! ardour! feeling! hope! and joy!<br>
+And gave my life at last!
+							<div class="poet">"The Painter Of Florence" by <span>Ernest Jones</span></div>
+						</div>
+											<div class="poemQuote">
+							For with him, like a prophecy that raves<br>
+Of some wild fruitful deed,<br>
+Go the great energies that kneel like slaves<br>
+Wherever men have need.
+							<div class="poet">"To My Readers" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							Where stirs the energy they knew?<br>
+Joins it the forces undestroyed<br>
+That urge the suns within the void,<br>
+And shake the star in evening's dew?
+							<div class="poet">"The Testimony of the Suns" by <span>George Sterling</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh, may their graceful figures long<br>
+Their youthful energy retain,<br>
+And may they meet no heartless wrong,<br>
+To fill their gentle souls with pain.
+							<div class="poet">"Kelvin" by <span>Thomas Frederick Young</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						David Danielson, US Assistant Secretary of Energy (left), and Richard Heath, Director of Energy Innovations and Projects for Supervalu, at the Carpinteria Albertsons.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.independent.com/news/2012/aug/28/assistant-secretary-energy-visits-carpinteria-albe/" target="_blank" rel="external nofollow">independent.com</a>
+					</div>
+										<div class="usage">
+						While renewable energy is an important part of the Illinois Renewable Energy and Sustainable Lifestyle Fair with exhibits and workshops, visitors this year seemed excited by what the presenters had to tell them about self-sufficiency .
+					</div>
+					<div class="uAuthor">
+						<a href="http://rockrivertimes.com/2011/08/24/self-sufficiency-a-big-hit/" target="_blank" rel="external nofollow">rockrivertimes.com</a>
+					</div>
+										<div class="usage">
+						Daylighting generates energy savings by limiting electrical lighting, but the increased solar energy can strain HVAC systems and sacrifice occupant comfort.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.buildings.com/ArticleDetails/tabid/3334/ArticleID/14696/Default.aspx" target="_blank" rel="external nofollow">buildings.com</a>
+					</div>
+										<div class="usage">
+						The Department of Energy's Advanced Research Projects Agency announced its first grant awards Monday morning, handing out more than $150 million for what the agency describes as "bold, transformational" energy projects.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wired.com/wiredscience/2009/10/arpa-e-sweepstakes/" target="_blank" rel="external nofollow">wired.com</a>
+					</div>
+										<div class="usage">
+						Complete energy measurement SoC from Maxim Integrated Products released as companies seek to meet new EPA/Energy Star mandates for greater energy efficiency.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csemag.com/industry-news/codes-and-standards-updates/single-article/energy-measurement-soc-provides-higher-level-management-of-acdc-power-supplies/4f0ea760b5d12c9061e1a3ceae878a6c.html" target="_blank" rel="external nofollow">csemag.com</a>
+					</div>
+										<div class="usage">
+						A $3 million solar energy installation to help power General Motors Co.'s Detroit-Hamtramck assembly plant was formally announced Wednesday by GM and DTE Energy Co.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.crainsdetroit.com/article/20110511/FREE/110519966/dte-installs-3-million-solar-array-at-chevy-volt-factory%23" target="_blank" rel="external nofollow">crainsdetroit.com</a>
+					</div>
+										<div class="usage">
+						Solar thermal energy appears poised for a renaissance in the United States, as the Obama Administration presses forward with its green energy agenda.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fueloilnews.com/ME2/dirmod.asp?nm=News&amp;type=news&amp;mod=News&amp;mid=9A02E3B96F2A415ABC72CB5F516B4C10&amp;tier=3&amp;nid=E3216B966749489FB9AD36E8B07B4F41" target="_blank" rel="external nofollow">fueloilnews.com</a>
+					</div>
+										<div class="usage">
+						Mayor Jerramiah T Healy announced Friday that the Federal Energy Regulatory Commission (FERC) has agreed to rehear the city's legal petition regarding the Spectra Energy's natural gas pipeline.
+					</div>
+					<div class="uAuthor">
+						<a href="http://hudsonreporter.com/view/full_story/20476384/article--FERC-agrees-to-reconsider-Jersey-City-s-motion-opposing-Spectra-pipeline-?instance=up_to_the_minute_jersey" target="_blank" rel="external nofollow">hudsonreporter.com</a>
+					</div>
+										<div class="usage">
+						A state commission yesterday approved Spectra Energy's proposal to run a section of the Houston energy giant's controversial natural gas pipeline below ground in Liberty State Park in Jersey City.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/jjournal-news/index.ssf/2012/06/spectra_energy_wins_state_appr.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						JERSEY CITY AND BEYOND – The Federal Energy Regulatory Commission (FERC) today unanimously approved, with conditions, the New Jersey-New York Project proposed by Texas-based Spectra Energy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hudsonreporter.com/view/full_story/18680688/article--UPDATE--FERC-approves-Spectra-pipeline--with-conditions-?instance=up_to_the_minute_jersey" target="_blank" rel="external nofollow">hudsonreporter.com</a>
+					</div>
+										<div class="usage">
+						 Spectra Energy Corp. Has entered into multiyear agreements with Progress Energy Resources Corp. To provide a total 370 MMcfd of natural gas gathering and processing services for Montney shale production in northeast British Columbia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ogj.com/content/ogj/en/articles/2011/10/spectra-reaches-montney-shale-gas-processing-agreements.html" target="_blank" rel="external nofollow">ogj.com</a>
+					</div>
+										<div class="usage">
+						Disruptions to supply and ever-increasing demand are the two main energy stories of 2011, according to the BP Statistical Review of World Energy 2012.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ogj.com/articles/2012/06/bp-open-markets-stabilized-turbulent-year.html" target="_blank" rel="external nofollow">ogj.com</a>
+					</div>
+										<div class="usage">
+						Energy Secretary Steven Chu said the Department of Energy is offering a $730 million conditional loan to steelmaker Severstal Dearborn, LLC, in Dearborn, MI, U.S.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appliancemagazine.com/news.php?article=1502914&amp;zone=0&amp;first=1" target="_blank" rel="external nofollow">appliancemagazine.com</a>
+					</div>
+										<div class="usage">
+						Major oil companies and independents both said they see a recently passed Senate energy bill as an important step in finalizing a comprehensive US energy policy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ogj.com/articles/2002/04/industry-sees-senate-bill-as-stepping-stone-to-comprehensive-energy-policy.html" target="_blank" rel="external nofollow">ogj.com</a>
+					</div>
+										<div class="usage">
+						Partners decided to suspend work on the Yaraqui-1X well, a subsalt prospect on the Topoyaco block in the Putumayo basin foothills in Colombia, said PetroMagdalena Energy Corp. Pacific Rubiales Energy Corp.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ogj.com/content/ogj/en/articles/2012/01/partners-suspend-colombia-subsalt-topoyaco-well.html" target="_blank" rel="external nofollow">ogj.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Moreover the ”additional tensor of energy-momentum” has the form of energy-momentum tensor of ideal liquid with the state equation P1 = ǫ1/3 , but with negative ”density of energy” (−ǫ1 ) and negative ”pressure” (−P1 ) . 
+					</div>
+					<div class="uAuthor">
+						Macroscopic Einstein equations for a system of interacting particles and their cosmological applications
+					</div>
+										<div class="usage">
+						The obtained mean values E , the energy resolutions σ , and the fractional energy resolutions σ/E are listed in Table 1 for the various beam energies. 
+					</div>
+					<div class="uAuthor">
+						Hadron Energy Reconstruction for the ATLAS Barrel Prototype Combined Calorimeter in the Framework of the Non-parametrical Method
+					</div>
+										<div class="usage">
+						Table 1: Mean reconstructed energy, energy resolution and fractional energy resolution for the various beam energies. 
+					</div>
+					<div class="uAuthor">
+						Hadron Energy Reconstruction for the ATLAS Barrel Prototype Combined Calorimeter in the Framework of the Non-parametrical Method
+					</div>
+										<div class="usage">
+						The second reason for identifying Θ as an energy tensor is that, added to the energy tensor of the matter, it yields a covariant energy conservation law. 
+					</div>
+					<div class="uAuthor">
+						Gravitational radiation, energy and reaction on quasi-spherical black holes
+					</div>
+										<div class="usage">
+						The energy distribution in the canonical ensemble, P (E ) ∝ D(E ) exp(−βE ), is the product of density of states D(E ) which usually increases with increase of energy rather rapidly and an exponential which decreases rather sharply with increase of energy at low temperatures. 
+					</div>
+					<div class="uAuthor">
+						An Introduction to Monte Carlo Simulation of Statistical physics Problem
+					</div>
+										<div class="usage">
+						Here the family of ﬁnite energy ﬂuxes with ﬁxed input, constructed from any vertex to inﬁnity, is in general inﬁnite, but the supremum of the energy is bounded by the supremum of the energy of the ﬂuxes on T ′ k,n . 
+					</div>
+					<div class="uAuthor">
+						Classification on the average of random walks
+					</div>
+										<div class="usage">
+						The ﬁrst deﬁnition (local) is when the energy of the graph is equal to the sum of energies of its subgraphs, the second one (superlocal), when the energy is the sum of energies of all neighborhoods of a given radius. 
+					</div>
+					<div class="uAuthor">
+						Gibbs and Quantum Discrete Spaces
+					</div>
+										<div class="usage">
+						Measured energies are about 20% lower than true energies, since the calorimeter does not collect all of the γ -ray energy. 
+					</div>
+					<div class="uAuthor">
+						A Search for Gamma-Ray Bursts and Pulsars, and the Application of Kalman Filters to Gamma-Ray Reconstruction
+					</div>
+										<div class="usage">
+						For each pro jection: – Vary the energy split between the two tracks. – Filter and smooth with the new energy split. – Find the split fraction that minimizes χ2 . – In practice, this always assigns all the energy to one track. 
+					</div>
+					<div class="uAuthor">
+						A Search for Gamma-Ray Bursts and Pulsars, and the Application of Kalman Filters to Gamma-Ray Reconstruction
+					</div>
+										<div class="usage">
+						The lower-energy branch has a substantial weight and is easily identiﬁed in neutron scattering experiments, while the higher-energy one may be diﬃcult to identify due to a deﬁciency of energy resolution in experiments. (iii) The anti-crossing or the gap opening20, 22) have been reproduced. 
+					</div>
+					<div class="uAuthor">
+						Anomaly in Spin Excitation Spectrum of Double-Exchange Systems with Randomness
+					</div>
+										<div class="usage">
+						If we identify Mh c2 ∼ cs δ as the relevant energy scale, we would tentatively conclude that the local-heating mechanism might become eﬃcient for center of mass energies √s &gt; Mh c2 or for cosmic ray energies E &gt; 5x2 · 1014 eV where x is the value of Mh c2 in TeV. 
+					</div>
+					<div class="uAuthor">
+						A connection between gravity and the Higgs field
+					</div>
+										<div class="usage">
+						We can have an exchange between work and internal energy and we can say that the internal energy o f the System increases by a quant ity equal to the work energy term the work is transformed into heat (Heat I). 
+					</div>
+					<div class="uAuthor">
+						The Energy-Entropy Principle
+					</div>
+										<div class="usage">
+						The other sub-system, 1, exchanges energy, exchanges heat with HR and exchanges energy, exchanges work with the piston. The internal energy o f the System is the internal energy of the two sub-systems U1+U2. 
+					</div>
+					<div class="uAuthor">
+						The Energy-Entropy Principle
+					</div>
+										<div class="usage">
+						This being so, we propose the fo llowing nomenclature. The word heat is used as synonymous with internal energy. We can only have equality for the energy exchange between two sub-systems and the internal energy change of the sub-systems if there is no work. 
+					</div>
+					<div class="uAuthor">
+						The Energy-Entropy Principle
+					</div>
+										<div class="usage">
+						When the transformation is adiabat ic (the energy exchange with the heat reservoir is zero), the internal energy o f the sub-system considered changes due to the work energy term. 
+					</div>
+					<div class="uAuthor">
+						The Energy-Entropy Principle
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an imaginative lively style (especially style of writing)"><a href="muscularity.html">muscularity</a>, <a href="vigor.html">vigor</a>, <a href="vigour.html">vigour</a>, <a href="vim.html">vim</a>, </div><div class="synGroup" title="enterprising or ambitious drive"><a href="push.html">push</a>, <a href="get-up-and-go.html">get-up-and-go</a>, </div><div class="synGroup" title="forceful exertion"><a href="vigor.html">vigor</a>, <a href="vigour.html">vigour</a>, <a href="zip.html">zip</a>, </div><div class="synGroup" title="the federal department responsible for maintaining a national energy policy of the United States; created in 1977"><a href="department%20of%20energy.html">department of energy</a>, <a href="energy%20department.html">energy department</a>, <a href="doe.html">doe</a>, </div><div class="synGroup" title="(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs"><a href="free%20energy.html">free energy</a>, </div><div class="synGroup" title="a healthy capacity for vigorous activity"><a href="vim.html">vim</a>, <a href="vitality.html">vitality</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="drive.html">drive</a>, <a href="executive%20department.html">executive department</a>, <a href="force.html">force</a>, <a href="forcefulness.html">forcefulness</a>, <a href="good%20health.html">good health</a>, <a href="healthiness.html">healthiness</a>, <a href="life.html">life</a>, <a href="liveliness.html">liveliness</a>, <a href="physical%20phenomenon.html">physical phenomenon</a>, <a href="spirit.html">spirit</a>, <a href="sprightliness.html">sprightliness</a>, <a href="strength.html">strength</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="activation%20energy.html">activation energy</a>, <a href="alternative%20energy.html">alternative energy</a>, <a href="athleticism.html">athleticism</a>, <a href="atomic%20energy.html">atomic energy</a>, <a href="binding%20energy.html">binding energy</a>, <a href="ch%27i.html">ch'i</a>, <a href="chemical%20energy.html">chemical energy</a>, <a href="chi.html">chi</a>, <a href="electrical%20energy.html">electrical energy</a>, <a href="electricity.html">electricity</a>, <a href="energy%20level.html">energy level</a>, <a href="energy%20of%20activation.html">energy of activation</a>, <a href="energy%20state.html">energy state</a>, <a href="heat.html">heat</a>, <a href="heat%20energy.html">heat energy</a>, <a href="juice.html">juice</a>, <a href="ki.html">ki</a>, <a href="mechanical%20energy.html">mechanical energy</a>, <a href="nuclear%20energy.html">nuclear energy</a>, <a href="qi.html">qi</a>, <a href="radiant%20energy.html">radiant energy</a>, <a href="radiation.html">radiation</a>, <a href="rest%20energy.html">rest energy</a>, <a href="second%20wind.html">second wind</a>, <a href="separation%20energy.html">separation energy</a>, <a href="strenuosity.html">strenuosity</a>, <a href="verve.html">verve</a>, <a href="vitality.html">vitality</a>, <a href="work.html">work</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="energetic.html">energetic</a>, <a href="energize.html">energize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A-bomb.html">A-bomb</a>, <a href="absolute%20zero.html">absolute zero</a>, <a href="absorbent.html">absorbent</a>, <a href="absorptive.html">absorptive</a>, <a href="accelerator.html">accelerator</a>, <a href="Accumulation%20of%20energy.html">Accumulation of energy</a>, <a href="accumulator.html">accumulator</a>, <a href="act.html">act</a>, <a href="actinism.html">actinism</a>, <a href="actinometer.html">actinometer</a>, <a href="actinometry.html">actinometry</a>, <a href="action.html">action</a>, <a href="activating.html">activating</a>, <a href="activation.html">activation</a>, <a href="activity.html">activity</a>, <a href="actuation.html">actuation</a>, <a href="address.html">address</a>, <a href="administrative.html">administrative</a>, <a href="aerogenerator.html">aerogenerator</a>, <a href="aggressive.html">aggressive</a>, <a href="amphetamine.html">amphetamine</a>, <a href="anabolism.html">anabolism</a>, <a href="anaemic.html">anaemic</a>, <a href="Anastate.html">Anastate</a>, <a href="anemic.html">anemic</a>, <a href="Anergia.html">Anergia</a>, <a href="anergy.html">anergy</a>, <a href="Animal%20force.html">Animal force</a>, <a href="Animal%20temperature.html">Animal temperature</a>, <a href="animate.html">animate</a>, <a href="arduous.html">arduous</a>, <a href="athleticism.html">athleticism</a>, <a href="atom%20bomb.html">atom bomb</a>, <a href="atom%20smasher.html">atom smasher</a>, <a href="atomic.html">atomic</a>, <a href="atomic%20bomb.html">atomic bomb</a>, <a href="atomic%20pile.html">atomic pile</a>, <a href="atomic%20reactor.html">atomic reactor</a>, <a href="atonic.html">atonic</a>, <a href="atony.html">atony</a>, <a href="attenuate.html">attenuate</a>, <a href="attenuation.html">attenuation</a>, <a href="automobile.html">automobile</a>, <a href="avidity.html">avidity</a>, <a href="bacterium.html">bacterium</a>, <a href="baffle.html">baffle</a>, <a href="baffle%20board.html">baffle board</a>, <a href="bang.html">bang</a>, <a href="battle.html">battle</a>, <a href="bent.html">bent</a>, <a href="Biodynamic.html">Biodynamic</a>, <a href="Biodynamical.html">Biodynamical</a>, <a href="Biodynamics.html">Biodynamics</a>, <a href="birr.html">birr</a>, <a href="bloodless.html">bloodless</a>, <a href="blow%20up.html">blow up</a>, <a href="Bohr%20theory.html">Bohr theory</a>, <a href="boisterously.html">boisterously</a>, <a href="bolograph.html">bolograph</a>, <a href="bolometer.html">bolometer</a>, <a href="bombard.html">bombard</a>, <a href="bombardment.html">bombardment</a>, <a href="bracing.html">bracing</a>, <a href="brisk.html">brisk</a>, <a href="Bucket-wheel.html">Bucket-wheel</a>, <a href="burn.html">burn</a>, <a href="burn%20off.html">burn off</a>, <a href="burn%20up.html">burn up</a>, <a href="Cabiri.html">Cabiri</a>, <a href="caesium%20clock.html">caesium clock</a>, <a href="calorimeter.html">calorimeter</a>, <a href="catabolism.html">catabolism</a>, <a href="Catalytic%20force.html">Catalytic force</a>, <a href="cathect.html">cathect</a>, <a href="causal.html">causal</a>, <a href="cellular%20respiration.html">cellular respiration</a>, <a href="centrifugal.html">centrifugal</a>, <a href="centroid.html">centroid</a>, <a href="chain%20reactor.html">chain reactor</a>, <a href="charge-exchange%20accelerator.html">charge-exchange accelerator</a>, <a href="chemosynthesis.html">chemosynthesis</a>, <a href="citric%20acid%20cycle.html">citric acid cycle</a>, <a href="cloud%20chamber.html">cloud chamber</a>, <a href="combustion.html">combustion</a>, <a href="conduct.html">conduct</a>, <a href="conductance.html">conductance</a>, <a href="conductor.html">conductor</a>, <a href="conk%20out.html">conk out</a>, <a href="conservation%20of%20energy.html">conservation of energy</a>, <a href="Conservation%20of%20force.html">Conservation of force</a>, <a href="continued.html">continued</a>, <a href="conventional.html">conventional</a>, <a href="Core%20loss.html">Core loss</a>, <a href="Correlation%20of%20energy.html">Correlation of energy</a>, <a href="Correlation%20of%20forces.html">Correlation of forces</a>, <a href="craze.html">craze</a>, <a href="croton.html">croton</a>, <a href="curve.html">curve</a>, <a href="cushion.html">cushion</a>, <a href="cycle.html">cycle</a>, <a href="dash.html">dash</a>, <a href="de-energise.html">de-energise</a>, <a href="de-energize.html">de-energize</a>, <a href="dead.html">dead</a>, <a href="Debilitant.html">Debilitant</a>, <a href="Degradation%20of%20energy.html">Degradation of energy</a>, <a href="degrade.html">degrade</a>, <a href="degraded.html">degraded</a>, <a href="demoniac.html">demoniac</a>, <a href="demoniacal.html">demoniacal</a>, <a href="demoralize.html">demoralize</a>, <a href="density.html">density</a>, <a href="Department%20of%20Energy%20Intelligence.html">Department of Energy Intelligence</a>, <a href="detonate.html">detonate</a>, <a href="devitalise.html">devitalise</a>, <a href="devitalize.html">devitalize</a>, <a href="Disassimilation.html">Disassimilation</a>, <a href="dismay.html">dismay</a>, <a href="dissipation.html">dissipation</a>, <a href="Dissipation%20of%20energy.html">Dissipation of energy</a>, <a href="dissipative.html">dissipative</a>, <a href="Dissipativity.html">Dissipativity</a>, <a href="DOEI.html">DOEI</a>, <a href="dog-tired.html">dog-tired</a>, <a href="drain.html">drain</a>, <a href="draw.html">draw</a>, <a href="dribble.html">dribble</a>, <a href="drive.html">drive</a>, <a href="dynamic.html">dynamic</a>, <a href="dynamical.html">dynamical</a>, <a href="dynamism.html">dynamism</a>, <a href="E-bomb.html">E-bomb</a>, <a href="eagerness.html">eagerness</a>, <a href="economize.html">economize</a>, <a href="effete.html">effete</a>, <a href="efficacy.html">efficacy</a>, <a href="efficience.html">efficience</a>, <a href="efficiency.html">efficiency</a>, <a href="effort.html">effort</a>, <a href="elbow%20grease.html">elbow grease</a>, <a href="electricity.html">electricity</a>, <a href="electrify.html">electrify</a>, <a href="electro-acoustic%20transducer.html">electro-acoustic transducer</a>, <a href="electromagnetic%20intrusion.html">electromagnetic intrusion</a>, <a href="electronic.html">electronic</a>, <a href="electronic%20deception.html">electronic deception</a>, <a href="electronic%20imitative%20deception.html">electronic imitative deception</a>, <a href="electronic%20jamming.html">electronic jamming</a>, <a href="electronic%20warfare.html">electronic warfare</a>, <a href="electronic%20warfare-support%20measures.html">electronic warfare-support measures</a>, <a href="endergonic.html">endergonic</a>, <a href="endoergic.html">endoergic</a>, <a href="energetic.html">energetic</a>, <a href="Energetical.html">Energetical</a>, <a href="energetically.html">energetically</a>, <a href="Energetics.html">Energetics</a>, <a href="Energic.html">Energic</a>, <a href="Energical.html">Energical</a>, <a href="energise.html">energise</a>, <a href="energiser.html">energiser</a>, <a href="energize.html">energize</a>, <a href="energizer.html">energizer</a>, <a href="energizing.html">energizing</a>, <a href="Energy%20Secretary.html">Energy Secretary</a>, <a href="energy-absorbing.html">energy-absorbing</a>, <a href="energy-releasing.html">energy-releasing</a>, <a href="enforce.html">enforce</a>, <a href="engaged.html">engaged</a>, <a href="engine.html">engine</a>, <a href="Englobe.html">Englobe</a>, <a href="entelechy.html">entelechy</a>, <a href="enterprise.html">enterprise</a>, <a href="enthalpy.html">enthalpy</a>, <a href="Entheastic.html">Entheastic</a>, <a href="entropy.html">entropy</a>, <a href="erg.html">erg</a>, <a href="Ergal.html">Ergal</a>, <a href="Ergmeter.html">Ergmeter</a>, <a href="ergometer.html">ergometer</a>, <a href="ESM.html">ESM</a>, <a href="ether.html">ether</a>, <a href="EW.html">EW</a>, <a href="exacerbation.html">exacerbation</a>, <a href="excite.html">excite</a>, <a href="exergonic.html">exergonic</a>, <a href="exert.html">exert</a>, <a href="exertion.html">exertion</a>, <a href="exhaust.html">exhaust</a>, <a href="exhausted.html">exhausted</a>, <a href="exhaustion.html">exhaustion</a>, <a href="exoergic.html">exoergic</a>, <a href="exotherm.html">exotherm</a>, <a href="explode.html">explode</a>, <a href="explosion.html">explosion</a>, <a href="explosive%20device.html">explosive device</a>, <a href="extend.html">extend</a>, <a href="external-combustion%20engine.html">external-combustion engine</a>, <a href="factor.html">factor</a>, <a href="fagged.html">fagged</a>, <a href="faint.html">faint</a>, <a href="faintly.html">faintly</a>, <a href="faintness.html">faintness</a>, <a href="family%20Thiobacteriaceae.html">family Thiobacteriaceae</a>, <a href="fatigued.html">fatigued</a>, <a href="feeble.html">feeble</a>, <a href="ferocious.html">ferocious</a>, <a href="fierce.html">fierce</a>, <a href="fission.html">fission</a>, <a href="fission%20bomb.html">fission bomb</a>, <a href="flash.html">flash</a>, <a href="flatness.html">flatness</a>, <a href="flux.html">flux</a>, <a href="flux%20density.html">flux density</a>, <a href="Fly%20wheel.html">Fly wheel</a>, <a href="flywheel.html">flywheel</a>, <a href="food.html">food</a>, <a href="Foot%20pound.html">Foot pound</a>, <a href="Foot%20poundal.html">Foot poundal</a>, <a href="Foot%20ton.html">Foot ton</a>, <a href="foot-pound.html">foot-pound</a>, <a href="foot-poundal.html">foot-poundal</a>, <a href="foot-ton.html">foot-ton</a>, <a href="force.html">force</a>, <a href="forcefulness.html">forcefulness</a>, <a href="forcible.html">forcible</a>, <a href="forge.html">forge</a>, <a href="form.html">form</a>, <a href="free.html">free</a>, <a href="fresh.html">fresh</a>, <a href="fuel.html">fuel</a>, <a href="function.html">function</a>, <a href="furious.html">furious</a>, <a href="furiously.html">furiously</a>, <a href="fusion%20bomb.html">fusion bomb</a>, <a href="fusion%20reactor.html">fusion reactor</a>, <a href="fuss.html">fuss</a>, <a href="gain%20vigor.html">gain vigor</a>, <a href="galvanic%20cell.html">galvanic cell</a>, <a href="gas.html">gas</a>, <a href="gas%20turbine.html">gas turbine</a>, <a href="generate.html">generate</a>, <a href="generator.html">generator</a>, <a href="ginger.html">ginger</a>, <a href="go.html">go</a>, <a href="gray.html">gray</a>, <a href="Gy.html">Gy</a>, <a href="H.html">H</a>, <a href="H-bomb.html">H-bomb</a>, <a href="hard.html">hard</a>, <a href="Harmonic%20engine.html">Harmonic engine</a>, <a href="heat.html">heat</a>, <a href="heat%20content.html">heat content</a>, <a href="height.html">height</a>, <a href="high-energy.html">high-energy</a>, <a href="hot.html">hot</a>, <a href="hummer.html">hummer</a>, <a href="hydraulic%20pump.html">hydraulic pump</a>, <a href="hydraulic%20ram.html">hydraulic ram</a>, <a href="hydrogen%20bomb.html">hydrogen bomb</a>, <a href="hyperactivity.html">hyperactivity</a>, <a href="hysteresis.html">hysteresis</a>, <a href="imitative%20electronic%20deception.html">imitative electronic deception</a>, <a href="impetuosity.html">impetuosity</a>, <a href="impetuous.html">impetuous</a>, <a href="impetus.html">impetus</a>, <a href="inactive.html">inactive</a>, <a href="inactivity.html">inactivity</a>, <a href="inanition.html">inanition</a>, <a href="Incoercible.html">Incoercible</a>, <a href="indefatigably.html">indefatigably</a>, <a href="indestructibility.html">indestructibility</a>, <a href="indomitable.html">indomitable</a>, <a href="Induction%20generator.html">Induction generator</a>, <a href="ineffective.html">ineffective</a>, <a href="inefficiency.html">inefficiency</a>, <a href="Inergetic.html">Inergetic</a>, <a href="Inergetical.html">Inergetical</a>, <a href="inertia.html">inertia</a>, <a href="inexhaustibly.html">inexhaustibly</a>, <a href="infinity.html">infinity</a>, <a href="influence.html">influence</a>, <a href="initiative.html">initiative</a>, <a href="injector.html">injector</a>, <a href="Innerve.html">Innerve</a>, <a href="intend.html">intend</a>, <a href="intensify.html">intensify</a>, <a href="intension.html">intension</a>, <a href="intensity.html">intensity</a>, <a href="internal%20respiration.html">internal respiration</a>, <a href="Internal-combustion.html">Internal-combustion</a>, <a href="Intrinsic%20energy%20of%20a%20body.html">Intrinsic energy of a body</a>, <a href="investment.html">investment</a>, <a href="invigorate.html">invigorate</a>, <a href="invigorated.html">invigorated</a>, <a href="Inworking.html">Inworking</a>, <a href="iodine.html">iodine</a>, <a href="irritate.html">irritate</a>, <a href="Isenergic.html">Isenergic</a>, <a href="Isodiabatic%20curves.html">Isodiabatic curves</a>, <a href="Isodiabatic%20lines.html">Isodiabatic lines</a>, <a href="Isodynamic.html">Isodynamic</a>, <a href="isomerism.html">isomerism</a>, <a href="jam.html">jam</a>, <a href="jamming.html">jamming</a>, <a href="jerk.html">jerk</a>, <a href="joule.html">joule</a>, <a href="Joule%27s%20law.html">Joule's law</a>, <a href="Joulemeter.html">Joulemeter</a>, <a href="kilowatt%20hour.html">kilowatt hour</a>, <a href="kinesis.html">kinesis</a>, <a href="kinetic.html">kinetic</a>, <a href="kinetic%20energy.html">kinetic energy</a>, <a href="Krebs%20citric%20acid%20cycle.html">Krebs citric acid cycle</a>, <a href="Krebs%20cycle.html">Krebs cycle</a>, <a href="Lakshmi.html">Lakshmi</a>, <a href="lamp.html">lamp</a>, <a href="languid.html">languid</a>, <a href="languor.html">languor</a>, <a href="lassitude.html">lassitude</a>, <a href="lax.html">lax</a>, <a href="laxity.html">laxity</a>, <a href="lethargically.html">lethargically</a>, <a href="lethargy.html">lethargy</a>, <a href="liberate.html">liberate</a>, <a href="life.html">life</a>, <a href="lifeblood.html">lifeblood</a>, <a href="Lifeful.html">Lifeful</a>, <a href="lifeless.html">lifeless</a>, <a href="light.html">light</a>, <a href="like%20a%20trooper.html">like a trooper</a>, <a href="line%20spectrum.html">line spectrum</a>, <a href="listlessness.html">listlessness</a>, <a href="live.html">live</a>, <a href="liveliness.html">liveliness</a>, <a href="lively.html">lively</a>, <a href="Livingness.html">Livingness</a>, <a href="load.html">load</a>, <a href="lossless.html">lossless</a>, <a href="lossy.html">lossy</a>, <a href="loud.html">loud</a>, <a href="low.html">low</a>, <a href="Lumination.html">Lumination</a>, <a href="luminescence.html">luminescence</a>, <a href="Lymphatic%20temperament.html">Lymphatic temperament</a>, <a href="Macedonian.html">Macedonian</a>, <a href="machine.html">machine</a>, <a href="magnitude.html">magnitude</a>, <a href="Make%20a%20game%20of.html">Make a game of</a>, <a href="manic.html">manic</a>, <a href="mark.html">mark</a>, <a href="mass%20energy.html">mass energy</a>, <a href="Mechanical%20equivalent%20of%20heat.html">Mechanical equivalent of heat</a>, <a href="mechanics.html">mechanics</a>, <a href="medium.html">medium</a>, <a href="Metergram.html">Metergram</a>, <a href="microphone.html">microphone</a>, <a href="microwave.html">microwave</a>, <a href="microwave%20bomb.html">microwave bomb</a>, <a href="microwave%20oven.html">microwave oven</a>, <a href="might.html">might</a>, <a href="mike.html">mike</a>, <a href="mileage.html">mileage</a>, <a href="missionary.html">missionary</a>, <a href="mollycoddle.html">mollycoddle</a>, <a href="momentum.html">momentum</a>, <a href="monism.html">monism</a>, <a href="Monothelite.html">Monothelite</a>, <a href="Monothelitism.html">Monothelitism</a>, <a href="Moravian.html">Moravian</a>, <a href="motivity.html">motivity</a>, <a href="motor.html">motor</a>, <a href="moxie.html">moxie</a>, <a href="Multanimous.html">Multanimous</a>, <a href="muzzle.html">muzzle</a>, <a href="nature.html">nature</a>, <a href="nerve.html">nerve</a>, <a href="nervomuscular.html">nervomuscular</a>, <a href="Nitrogelatin.html">Nitrogelatin</a>, <a href="nonconductor.html">nonconductor</a>, <a href="nuclear.html">nuclear</a>, <a href="nuclear%20reactor.html">nuclear reactor</a>, <a href="nuclear-powered%20ship.html">nuclear-powered ship</a>, <a href="nutrient.html">nutrient</a>, <a href="Occidental.html">Occidental</a>, <a href="occupied.html">occupied</a>, <a href="opaque.html">opaque</a>, <a href="operate.html">operate</a>, <a href="orthopter.html">orthopter</a>, <a href="outlet.html">outlet</a>, <a href="overturn.html">overturn</a>, <a href="oxygen.html">oxygen</a>, <a href="P.E..html">P.E.</a>, <a href="palsy.html">palsy</a>, <a href="Panzoism.html">Panzoism</a>, <a href="paralysis.html">paralysis</a>, <a href="paralyze.html">paralyze</a>, <a href="particle%20accelerator.html">particle accelerator</a>, <a href="passive.html">passive</a>, <a href="pell-mell.html">pell-mell</a>, <a href="pendulum.html">pendulum</a>, <a href="penetration.html">penetration</a>, <a href="pep.html">pep</a>, <a href="pep%20pill.html">pep pill</a>, <a href="peppiness.html">peppiness</a>, <a href="percolate.html">percolate</a>, <a href="perform.html">perform</a>, <a href="perk.html">perk</a>, <a href="perk%20up.html">perk up</a>, <a href="perpetual%20motion.html">perpetual motion</a>, <a href="perpetual%20motion%20machine.html">perpetual motion machine</a>, <a href="persuasion.html">persuasion</a>, <a href="peter%20out.html">peter out</a>, <a href="philosophical%20materialism.html">philosophical materialism</a>, <a href="phlegm.html">phlegm</a>, <a href="Phonomotor.html">Phonomotor</a>, <a href="phosphorescence.html">phosphorescence</a>, <a href="photography.html">photography</a>, <a href="photosensitise.html">photosensitise</a>, <a href="photosensitize.html">photosensitize</a>, <a href="phototrophic%20bacteria.html">phototrophic bacteria</a>, <a href="phototropic%20bacteria.html">phototropic bacteria</a>, <a href="photovoltaic.html">photovoltaic</a>, <a href="photovoltaic%20cell.html">photovoltaic cell</a>, <a href="physical.html">physical</a>, <a href="physical%20property.html">physical property</a>, <a href="physicist.html">physicist</a>, <a href="physics.html">physics</a>, <a href="pick%20up.html">pick up</a>, <a href="pile.html">pile</a>, <a href="pith.html">pith</a>, <a href="Pithless.html">Pithless</a>, <a href="pithy.html">pithy</a>, <a href="plasma.html">plasma</a>, <a href="played%20out.html">played out</a>, <a href="pluck.html">pluck</a>, <a href="plutonium%20bomb.html">plutonium bomb</a>, <a href="polar.html">polar</a>, <a href="pole.html">pole</a>, <a href="polysyndeton.html">polysyndeton</a>, <a href="Poncelet.html">Poncelet</a>, <a href="poop%20out.html">poop out</a>, <a href="positive.html">positive</a>, <a href="potency.html">potency</a>, <a href="potential.html">potential</a>, <a href="potential%20energy.html">potential energy</a>, <a href="potently.html">potently</a>, <a href="potter.html">potter</a>, <a href="power.html">power</a>, <a href="powerfully.html">powerfully</a>, <a href="powerless.html">powerless</a>, <a href="primary%20cell.html">primary cell</a>, <a href="principle.html">principle</a>, <a href="propagate.html">propagate</a>, <a href="propagation.html">propagation</a>, <a href="push.html">push</a>, <a href="pushful.html">pushful</a>, <a href="pushy.html">pushy</a>, <a href="quicken.html">quicken</a>, <a href="Quiddle.html">Quiddle</a>, <a href="Quiddler.html">Quiddler</a>, <a href="rad.html">rad</a>, <a href="radiant.html">radiant</a>, <a href="radiant%20energy.html">radiant energy</a>, <a href="radiation.html">radiation</a>, <a href="Radio-.html">Radio-</a>, <a href="radioactivity.html">radioactivity</a>, <a href="radiometer.html">radiometer</a>, <a href="Radiometry.html">Radiometry</a>, <a href="radioscopy.html">radioscopy</a>, <a href="radiotelegraphy.html">radiotelegraphy</a>, <a href="radium.html">radium</a>, <a href="rally.html">rally</a>, <a href="randomness.html">randomness</a>, <a href="range.html">range</a>, <a href="rapt.html">rapt</a>, <a href="rapture.html">rapture</a>, <a href="ration.html">ration</a>, <a href="ray.html">ray</a>, <a href="reach.html">reach</a>, <a href="reaction.html">reaction</a>, <a href="reactor.html">reactor</a>, <a href="reanimate.html">reanimate</a>, <a href="recreate.html">recreate</a>, <a href="rectifier.html">rectifier</a>, <a href="refresh.html">refresh</a>, <a href="refreshed.html">refreshed</a>, <a href="refreshful.html">refreshful</a>, <a href="refreshing.html">refreshing</a>, <a href="regenerate.html">regenerate</a>, <a href="reinvigorated.html">reinvigorated</a>, <a href="rejuvenate.html">rejuvenate</a>, <a href="relativity.html">relativity</a>, <a href="release.html">release</a>, <a href="renovate.html">renovate</a>, <a href="repair.html">repair</a>, <a href="resistance.html">resistance</a>, <a href="respiration.html">respiration</a>, <a href="restore.html">restore</a>, <a href="reversible.html">reversible</a>, <a href="revive.html">revive</a>, <a href="revivify.html">revivify</a>, <a href="rhythm.html">rhythm</a>, <a href="run%20down.html">run down</a>, <a href="run%20out.html">run out</a>, <a href="rustler.html">rustler</a>, <a href="s.html">s</a>, <a href="Sakti.html">Sakti</a>, <a href="savage.html">savage</a>, <a href="scintillate.html">scintillate</a>, <a href="second%20wind.html">second wind</a>, <a href="Secretary%20of%20Energy.html">Secretary of Energy</a>, <a href="sense%20organ.html">sense organ</a>, <a href="sequence.html">sequence</a>, <a href="set%20off.html">set off</a>, <a href="sforzando.html">sforzando</a>, <a href="shiftless.html">shiftless</a>, <a href="shock.html">shock</a>, <a href="shock%20absorber.html">shock absorber</a>, <a href="shock-absorbent.html">shock-absorbent</a>, <a href="sinew.html">sinew</a>, <a href="Sirvente.html">Sirvente</a>, <a href="slackness.html">slackness</a>, <a href="sluggishness.html">sluggishness</a>, <a href="snap.html">snap</a>, <a href="Socinianism.html">Socinianism</a>, <a href="solar%20cell.html">solar cell</a>, <a href="solar%20energy.html">solar energy</a>, <a href="Solar%20engine.html">Solar engine</a>, <a href="solar%20heater.html">solar heater</a>, <a href="solar%20power.html">solar power</a>, <a href="solid.html">solid</a>, <a href="soul.html">soul</a>, <a href="spark.html">spark</a>, <a href="Spectrobolometer.html">Spectrobolometer</a>, <a href="spectrophotometer.html">spectrophotometer</a>, <a href="speed.html">speed</a>, <a href="spend.html">spend</a>, <a href="spent.html">spent</a>, <a href="spirit.html">spirit</a>, <a href="spiritless.html">spiritless</a>, <a href="spiritlessness.html">spiritlessness</a>, <a href="Spiritoso.html">Spiritoso</a>, <a href="spirt.html">spirt</a>, <a href="spontaneous.html">spontaneous</a>, <a href="sprightliness.html">sprightliness</a>, <a href="spurt.html">spurt</a>, <a href="stamina.html">stamina</a>, <a href="staying%20power.html">staying power</a>, <a href="steam.html">steam</a>, <a href="Sthenic.html">Sthenic</a>, <a href="strain.html">strain</a>, <a href="strength.html">strength</a>, <a href="strenuosity.html">strenuosity</a>, <a href="strenuous.html">strenuous</a>, <a href="strive.html">strive</a>, <a href="strong.html">strong</a>, <a href="subatomic.html">subatomic</a>, <a href="sublimate.html">sublimate</a>, <a href="substance.html">substance</a>, <a href="Subvitalized.html">Subvitalized</a>, <a href="Sun.html">Sun</a>, <a href="sweat.html">sweat</a>, <a href="Take%20it%20out%20of.html">Take it out of</a>, <a href="tantra.html">tantra</a>, <a href="taunt.html">taunt</a>, <a href="taxis.html">taxis</a>, <a href="tease.html">tease</a>, <a href="Telenergy.html">Telenergy</a>, <a href="telpherage.html">telpherage</a>, <a href="temper.html">temper</a>, <a href="temperature.html">temperature</a>, <a href="thermonuclear%20bomb.html">thermonuclear bomb</a>, <a href="thermonuclear%20reactor.html">thermonuclear reactor</a>, <a href="theta.html">theta</a>, <a href="Thiobacteriaceae.html">Thiobacteriaceae</a>, <a href="throw.html">throw</a>, <a href="thrust.html">thrust</a>, <a href="tired.html">tired</a>, <a href="tirelessly.html">tirelessly</a>, <a href="tonic.html">tonic</a>, <a href="tornado.html">tornado</a>, <a href="torpidity.html">torpidity</a>, <a href="torpidness.html">torpidness</a>, <a href="torpor.html">torpor</a>, <a href="total%20heat.html">total heat</a>, <a href="toughness.html">toughness</a>, <a href="transduce.html">transduce</a>, <a href="transducer.html">transducer</a>, <a href="transduction.html">transduction</a>, <a href="transform.html">transform</a>, <a href="travail.html">travail</a>, <a href="tricarboxylic%20acid%20cycle.html">tricarboxylic acid cycle</a>, <a href="Trojan.html">Trojan</a>, <a href="turbine.html">turbine</a>, <a href="unenergetically.html">unenergetically</a>, <a href="Unseminared.html">Unseminared</a>, <a href="untired.html">untired</a>, <a href="unwearied.html">unwearied</a>, <a href="unweary.html">unweary</a>, <a href="upper.html">upper</a>, <a href="vehement.html">vehement</a>, <a href="vehicle.html">vehicle</a>, <a href="vent.html">vent</a>, <a href="verve.html">verve</a>, <a href="vigor.html">vigor</a>, <a href="Vigoroso.html">Vigoroso</a>, <a href="vigour.html">vigour</a>, <a href="vim.html">vim</a>, <a href="violent.html">violent</a>, <a href="virile.html">virile</a>, <a href="virtue.html">virtue</a>, <a href="Vis%20viva.html">Vis viva</a>, <a href="vital%20force.html">vital force</a>, <a href="vivify.html">vivify</a>, <a href="voltaic%20cell.html">voltaic cell</a>, <a href="washed-out.html">washed-out</a>, <a href="watt-hour.html">watt-hour</a>, <a href="wattmeter.html">wattmeter</a>, <a href="wave.html">wave</a>, <a href="weak.html">weak</a>, <a href="Wilson%20cloud%20chamber.html">Wilson cloud chamber</a>, <a href="wilt.html">wilt</a>, <a href="wind%20generator.html">wind generator</a>, <a href="windmill.html">windmill</a>, <a href="work.html">work</a>, <a href="worn%20out.html">worn out</a>, <a href="worn-out.html">worn-out</a>, <a href="X-ray%20tube.html">X-ray tube</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wnergy, snergy, dnergy, rnergy, ebergy, ehergy, ejergy, emergy, enwrgy, ensrgy, endrgy, enrrgy, eneegy, enedgy, enefgy, enetgy, enerfy, enerty, enerhy, enerby, enervy, energt, energg, energh, energu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

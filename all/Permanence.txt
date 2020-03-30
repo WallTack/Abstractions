@@ -1,0 +1,585 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>permanence</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/138/24/6282.jpg" alt="A permanent camp">
+							<div class="caption">A permanent camp</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">permanence</span> <span class="exp">the property of being able to exist for an indefinite duration</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In the 1800s, the Chinese believed that strangling a man was less sever a punishment than beheading because the body would not be permanently disfigured.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Permanence</span> <span class="exp">The quality or state of being permanent; continuance in the same state or place; duration; fixedness; as, the <span class="wUex">permanence</span> of institutions; the <span class="wUex">permanence</span> of nature.
+      </span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In the 1905 football season, 18 men were killed in college games in the United States, and 159 more were permanently injured.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">permanence</span> <span class="exp">The character or property of being permanent or enduring; durability; fixedness; continuance in the same state, condition, place, or office; the state of being lasting, fixed, unchanging or unchangeable in character, condition, position, office, or the like; freedom from liability to change; as, the permanence of a government or state; the permanence of liberal institutions.</span> </li><li><span class="tSpeech">n</span> <span class="term">permanence</span> <span class="exp">Synonyms See lasting.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Pink elephants can be found in some regions of India. Because of the red soil, elephants take on a permanent pink color because the spray dust over their bodies to protect themselves from insects.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Permanence</span> <span class="exp">state or quality of being permanent: continuance in the same state, position, &amp;c.: unlikelihood of change: duration</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Augustin Sainte-Beuve</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles Augustin Sainte-Beuve">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There are people whose watch stops at a certain hour and who remain permanently at that age.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Heraclitus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Heraclitus.jpg" alt="Heraclitus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is nothing permanent except change.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Paul</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20Paul.jpg" alt="Jean%20Paul">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Strong character is brought out by change, weak ones by permanence.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Laurence J. Peter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Laurence%20J.%20Peter.jpg" alt="Laurence%20J.%20Peter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You can always tell a real friend; when you've made a fool of yourself he doesn't feel you've done a permanent job.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Erwin T. Randall</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Erwin T. Randall">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Real friends are those who, when you've made a fool of yourself, don't feel that you've done a permanent job.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Kerr</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jean Kerr">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Hope is the feeling you have that the feeling you have isn't permanent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">permanence</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>permanēre</i>—<i>per</i>, through, <i>manēre</i>, to continue.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It will be a source of interest, education and permanent benefit to all.
+					</div>
+					<div class="uAuthor">
+						"Searchlights on Health: Light on Dark Corners" by <span>B.G. Jefferis</span>					</div>
+										<div class="usage">
+						Friendships that hold within themselves any permanent, any spiritual reality, come to stay.
+					</div>
+					<div class="uAuthor">
+						"The Life Radiant" by <span>Lilian Whiting</span>					</div>
+										<div class="usage">
+						But such success had no promise of permanence.
+					</div>
+					<div class="uAuthor">
+						"A History of the United States" by <span>Cecil Chesterton</span>					</div>
+										<div class="usage">
+						We may reject them, but the masses will decide whether they shall be permanently rejected or not.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						Few of the homesteaders were permanent.
+					</div>
+					<div class="uAuthor">
+						"Land of the Burnt Thigh" by <span>Edith Eudora Kohl</span>					</div>
+										<div class="usage">
+						His position is independent and his prosperity is permanent.
+					</div>
+					<div class="uAuthor">
+						"Practical Ethics" by <span>William DeWitt Hyde</span>					</div>
+										<div class="usage">
+						Tragedy scars a child permanently.
+					</div>
+					<div class="uAuthor">
+						"Still Jim" by <span>Honoré Willsie Morrow</span>					</div>
+										<div class="usage">
+						How can this state of things be permanent?
+					</div>
+					<div class="uAuthor">
+						"Fragments of science, V. 1-2" by <span>John Tyndall</span>					</div>
+										<div class="usage">
+						A permanent revenue law or a revenue law not liable to be suddenly changed, would benefit trade.
+					</div>
+					<div class="uAuthor">
+						"The Rise of Canada, from Barbarism to Wealth and Civilisation" by <span>Charles Roger</span>					</div>
+										<div class="usage">
+						JOHN C. WRIGHT, of Ohio, who officiated as temporary chairman previous to the permanent organization.
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<div class="usage">
+						Under these circumstances, there were many obstacles to a permanent union, and it was more bitterly opposed in Scotland than in England.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						Its most probable explanation is that it appears as a passing survival of the first permanent coat of hair of the lower mammals.
+					</div>
+					<div class="uAuthor">
+						"Man And His Ancestor" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						Topographic features are usually permanent and produce permanent barriers.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						Rome received a permanent garrison, and had to share with Ravenna, where the heads of the Italian government soon permanently resided.
+					</div>
+					<div class="uAuthor">
+						"The Formation of Christendom, Volume VI" by <span>Thomas W. (Thomas William) Allies</span>					</div>
+										<div class="usage">
+						They speedily demolished the permanent way, thereby stopping all traffic in reenforcements, munitions and commissariat.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume IV (of 8)"					</div>
+										<div class="usage">
+						Peace, if it is to be real, and if it is to be permanent, cannot be achieved by any vindictive policy.
+					</div>
+					<div class="uAuthor">
+						"German Problems and Personalities" by <span>Charles Sarolea</span>					</div>
+										<div class="usage">
+						It required to be so contrived that it would work in the absence, possibly the permanent absence, of the monarch.
+					</div>
+					<div class="uAuthor">
+						"The History of Freedom" by <span>John Emerich Edward Dalberg-Acton</span>					</div>
+										<div class="usage">
+						These feelings are permanent and the same; that which interests them is permanent and the same also.
+					</div>
+					<div class="uAuthor">
+						"English Critical Essays" by <span>Various</span>					</div>
+										<div class="usage">
+						The landscape will be beautified and permanently changed.
+					</div>
+					<div class="uAuthor">
+						"Solaris Farm" by <span>Milan C. Edson</span>					</div>
+										<div class="usage">
+						Reflexes, we said, are permanent.
+					</div>
+					<div class="uAuthor">
+						"Psychology" by <span>Robert S. Woodworth</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Oh how I languish to possess,<br>
+A safe and permanent abode!<br>
+To rest in unmolested peace,<br>
+And cast my care on thee, my God.
+							<div class="poet">"Hymn III" by <span>William Duke</span></div>
+						</div>
+											<div class="poemQuote">
+							My heart is searching for thee,<br>
+And lost in longing for thy voice!<br>
+Voice that lies deeper than the permanent sea,<br>
+Deeper than thought,<br>
+Deeper than my own life.
+							<div class="poet">"  The Comforter" by <span>Annie Adams Fields</span></div>
+						</div>
+											<div class="poemQuote">
+							Let all things vanish, if but you remain;<br>
+For if you stay, beloved, what is gone?<br>
+Yet, should you go, all permanence is vain,<br>
+And all the piled abundance is as none.
+							<div class="poet">"Anima Mundi" by <span>Richard Le Gallienne</span></div>
+						</div>
+											<div class="poemQuote">
+							To love…but love whom?.. a short love is vexing,<br>
+And permanent love's just a myth.<br>
+Perhaps look within? - The past's left no trace:<br>
+All trivial, joys and distress…
+							<div class="poet">"Bored And Sad" by <span>Mikhail Yuryevich Lermontov</span></div>
+						</div>
+											<div class="poemQuote">
+							Among the fields she breathed again:<br>
+The master-current of her brain<br>
+Ran permanent and free;<br>
+And, coming to the Banks of Tone,<br>
+There did she rest; and dwell alone<br>
+Under the greenwood tree.
+							<div class="poet">"Ruth" by <span>William Wordsworth</span></div>
+						</div>
+											<div class="poemQuote">
+							The poor slave is laid all unheeded and lone.<br>
+Where the rich and the poor find a permanent home;<br>
+Not his master can rouse him with voice of command;<br>
+He knows not and hears not his cruel demand;
+							<div class="poet">"The Grave Of The Slave" by <span>Sarah Louisa Forten</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						 Canales emerging as top choice for permanent Portland job.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.mysanantonio.com/spursnation/2012/06/04/canales-emerging-as-top-choice-for-permanent-portland-job/?gta=commentlistpos" target="_blank" rel="external nofollow">blog.mysanantonio.com</a>
+					</div>
+										<div class="usage">
+						Laredo native Kaleb Canales , has emerged as the favorite to become the permanent head coach of the Portland Trail Blazers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.mysanantonio.com/spursnation/2012/06/04/canales-emerging-as-top-choice-for-permanent-portland-job/?gta=commentlistpos" target="_blank" rel="external nofollow">blog.mysanantonio.com</a>
+					</div>
+										<div class="usage">
+						TWO years ago last summer, 64-year-old Jean Elbaum lapsed into a "persistent vegetative state," a form of eyes-open permanent unconsciousness, following a stroke.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1989/03/12/nyregion/comatose-patients-and-ethics.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Photojournalism, on the other hand, records history in what often turns out to be its most permanent form.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.adn.com/2012/11/17/2695731/works-of-alaska-photojournalists.html" target="_blank" rel="external nofollow">adn.com</a>
+					</div>
+										<div class="usage">
+						Part of the 2011-2012 Season of Sculpture, this work may find a permanent home in Sarasota.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sarasotamagazine.com/blog/2012/11/01/only-in-sarasota-john-henrys-complexus/" target="_blank" rel="external nofollow">sarasotamagazine.com</a>
+					</div>
+										<div class="usage">
+						See a rendering of the permanent memorial.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.roanoke.com/vtmemorials/wb/125534" target="_blank" rel="external nofollow">roanoke.com</a>
+					</div>
+										<div class="usage">
+						Group to put on three-day festival as it seeks permanent home in city.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baltimoresun.com/news/maryland/anne-arundel/bs-md-ar-annapolis-congress-20121121,0,185069.story?track=rss" target="_blank" rel="external nofollow">baltimoresun.com</a>
+					</div>
+										<div class="usage">
+						IT Contract Work Is Up, Permanent Hiring Slowly Increasing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eweek.com/c/a/IT-Management/IT-Contract-Work-Is-Up-Permanent-Hiring-Slowly-Increasing-841783/" target="_blank" rel="external nofollow">eweek.com</a>
+					</div>
+										<div class="usage">
+						Unlike permanent employees, however, contractors are temporary and bound by a contract to complete a specific job by a certain time.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2007/07/12/AR2007071201486.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						We market a complete line of portable and permanent fire escape ladders for home, aprtment and office.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.firehouse.com/company/10060654/fire-escape-systems" target="_blank" rel="external nofollow">firehouse.com</a>
+					</div>
+										<div class="usage">
+						It has been reported by All Over Albany that Fin is opening a permanent store in the Star Plaza, at the corner of 155 and Western Avenue.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.timesunion.com/guilderland/your-fishmonger/1898/" target="_blank" rel="external nofollow">blog.timesunion.com</a>
+					</div>
+										<div class="usage">
+						The 18,000-plus WWE fans in St Louis were floored as Mr McMahon came out and announced that AJ is the Permanent Raw General Manager.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wwe.com/shows/raw/2012-07-23/raw-1000-results/page-4" target="_blank" rel="external nofollow">wwe.com</a>
+					</div>
+										<div class="usage">
+						Now it's time to make that impact permanent.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.esthervilledailynews.com/page/content.detail/id/515420/And-now-the-follow-through.html?nav=5061" target="_blank" rel="external nofollow">esthervilledailynews.com</a>
+					</div>
+										<div class="usage">
+						The Food and Drug Administration (FDA) is pursuing a permanent injunction against Worldwide Fish &amp; Seafood Inc. Suzanne Weinstein, its president and owner.
+					</div>
+					<div class="uAuthor">
+						<a href="http://refrigeratedtrans.com/news/FDA-seeks-injunction-against-Worldwide-Fish/" target="_blank" rel="external nofollow">refrigeratedtrans.com</a>
+					</div>
+										<div class="usage">
+						The president's recovery plan is laying the groundwork for new highway construction, but it's not a permanent fix.
+					</div>
+					<div class="uAuthor">
+						<a href="http://money.cnn.com/2009/03/17/news/economy/stimulus_construction_jobs/index.htm?postversion=2009031709" target="_blank" rel="external nofollow">money.cnn.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Posterior Distributions Now, similar to Perman, Pitman and Yor (1992, section 4) let, Nn(p) := N − Pn(p) j=1 δJj,n ,Yj denote a random measure after the ﬁrst n(p) pairs of unique points (Jj,n , Yj ) in S × X are picked from N by h-biased sampling. 
+					</div>
+					<div class="uAuthor">
+						Baysian inference via classes of normalized random measures
+					</div>
+										<div class="usage">
+						Permanent address: National Research Institute of Astronomy and Geophysics, Department of Astronomy, P.O. 
+					</div>
+					<div class="uAuthor">
+						Application of Theorems on Null-Geodesics on the Solar Limb Effect
+					</div>
+										<div class="usage">
+						It also handles bad columns from transient or permanent electronic problems in the CCD. 
+					</div>
+					<div class="uAuthor">
+						Rates and Progenitors of Type Ia Supernovae
+					</div>
+										<div class="usage">
+						In this paper we shall permanently assume the existence of a normal faithful conditional expectation E : M → N . 
+					</div>
+					<div class="uAuthor">
+						Theory of Amalgamated Lp Spaces in Noncommutative Probability
+					</div>
+										<div class="usage">
+						Applied to the real world this means that system in question stays stable permanently. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						The n − body interactions behave like “propellers” that permanently homogenize the solution and permanently destroy the longrange correlations. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						Likewise it is necessary that the amount of energy/matter exchanged with the environment is also permanently limited. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						On the contrary, permanent equal probability for γi odd and even means independence from one another of the increments and the steps. It yields A = 0 which guarantees the uniform convergence of the average to the expectation value. Hence, on a coarse-grained scale and when (3.7) holds, A = 0 always holds. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						The permanent variations of the number of entities result in permanent modification of the value and sign of the local curvature. So, µs permanently varies and eventually turns the total chemical potential µtot to zero. This immediately yields the system falling apart. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						Then the fluctuations develop under local rules and therefore they remain permanently uncorrelated both in space and time. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						On the other hand, the coherence becomes a source of permanent bounded variations of the rates of all elementary process. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						X in eqs.(6.4) provides permanently accelerated growing of the “most favorable” temporary Hamiltonian. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						Note that physically the values of the control parameters are kept permanently fixed. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						Vigoda. A polynomial-time approximation algorithm for the permanent of a matrix with non-negative entries. 
+					</div>
+					<div class="uAuthor">
+						A study of the edge-switching Markov-chain method for the generation of random graphs
+					</div>
+										<div class="usage">
+						H] G. ’t Hooft, On the phase transition towards permanent quark conﬁnement, Nucl. 
+					</div>
+					<div class="uAuthor">
+						Sylvester-t' Hooft generators of sl(n) and sl(n|n), and relations between them
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the property of being able to exist for an indefinite duration"><a href="permanency.html">permanency</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="impermanence.html">impermanence</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="duration.html">duration</a>, <a href="length.html">length</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="durability.html">durability</a>, <a href="enduringness.html">enduringness</a>, <a href="immortality.html">immortality</a>, <a href="imperishability.html">imperishability</a>, <a href="imperishableness.html">imperishableness</a>, <a href="imperishingness.html">imperishingness</a>, <a href="lastingness.html">lastingness</a>, <a href="perdurability.html">perdurability</a>, <a href="perpetuity.html">perpetuity</a>, <a href="sempiternity.html">sempiternity</a>, <a href="strength.html">strength</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="permanent.html">permanent</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="affliction.html">affliction</a>, <a href="associate.html">associate</a>, <a href="bubble.html">bubble</a>, <a href="cabal.html">cabal</a>, <a href="Cassel%20brown.html">Cassel brown</a>, <a href="Cassel%20earth.html">Cassel earth</a>, <a href="conquer.html">conquer</a>, <a href="conservation.html">conservation</a>, <a href="consign.html">consign</a>, <a href="consistence.html">consistence</a>, <a href="constancy.html">constancy</a>, <a href="continuance.html">continuance</a>, <a href="continuative.html">continuative</a>, <a href="crofter.html">crofter</a>, <a href="delusion.html">delusion</a>, <a href="dissemination.html">dissemination</a>, <a href="durability.html">durability</a>, <a href="endurance.html">endurance</a>, <a href="enduringness.html">enduringness</a>, <a href="establish.html">establish</a>, <a href="establishment.html">establishment</a>, <a href="everlastingness.html">everlastingness</a>, <a href="fix.html">fix</a>, <a href="flux.html">flux</a>, <a href="Gastornis.html">Gastornis</a>, <a href="happiness.html">happiness</a>, <a href="Heraclitus.html">Heraclitus</a>, <a href="impermanence.html">impermanence</a>, <a href="impermanency.html">impermanency</a>, <a href="Inalterability.html">Inalterability</a>, <a href="Indecomposableness.html">Indecomposableness</a>, <a href="ingrain.html">ingrain</a>, <a href="insecure.html">insecure</a>, <a href="Jupiter.html">Jupiter</a>, <a href="lastingness.html">lastingness</a>, <a href="madder.html">madder</a>, <a href="metastable.html">metastable</a>, <a href="permanency.html">permanency</a>, <a href="pique.html">pique</a>, <a href="preserve.html">preserve</a>, <a href="pyramid.html">pyramid</a>, <a href="Remanence.html">Remanence</a>, <a href="Remanency.html">Remanency</a>, <a href="salary.html">salary</a>, <a href="Social%20statics.html">Social statics</a>, <a href="stability.html">stability</a>, <a href="stay.html">stay</a>, <a href="strength.html">strength</a>, <a href="string.html">string</a>, <a href="temporariness.html">temporariness</a>, <a href="transient.html">transient</a>, <a href="vein.html">vein</a>, <a href="xeranthemum.html">xeranthemum</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oermanence, lermanence, pwrmanence, psrmanence, pdrmanence, prrmanence, peemanence, pedmanence, pefmanence, petmanence, pernanence, perjanence, perkanence, permqnence, permwnence, permsnence, permznence, permabence, permahence, permajence, permamence, permanwnce, permansnce, permandnce, permanrnce, permanebce, permanehce, permanejce, permanemce, permanenxe, permanende, permanenfe, permanenve, permanencw, permanencs, permanencd, permanencr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

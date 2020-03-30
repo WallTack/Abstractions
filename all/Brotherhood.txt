@@ -1,0 +1,490 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>brotherhood</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">brotherhood</span> <span class="exp">the feeling that men should treat one another like brothers</span> </li><li><span class="tSpeech">n</span> <span class="term">brotherhood</span> <span class="exp">people engaged in a particular occupation</span> <span class="quot">"the medical fraternity"</span></li><li><span class="tSpeech">n</span> <span class="term">brotherhood</span> <span class="exp">an organization of employees formed to bargain with the employer</span> <span class="quot">"you have to join the union in order to get a job"</span></li><li><span class="tSpeech">n</span> <span class="term">brotherhood</span> <span class="exp">the kinship relation between a male offspring and the siblings</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Brotherhood</span> <span class="exp">An association for any purpose, as a society of monks; a fraternity.</span> </li><li><span class="term">Brotherhood</span> <span class="exp">Persons, and, poetically, things, of a like kind.</span> <span class="wuQuot">"A brotherhood of venerable trees."</span></li><li><span class="term">Brotherhood</span> <span class="exp">The state of being brothers or a brother.</span> </li><li><span class="term">Brotherhood</span> <span class="exp">The whole body of persons engaged in the same business, -- especially those of the same profession; as, the legal or medical <span class="wUex">brotherhood</span>
+            .</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">brotherhood</span> <span class="exp">The fact or condition of being a brother.</span> </li><li><span class="tSpeech">n</span> <span class="term">brotherhood</span> <span class="exp">The quality of being brotherly.</span> </li><li><span class="tSpeech">n</span> <span class="term">brotherhood</span> <span class="exp">An association of men for any purpose; a fraternity.</span> </li><li><span class="tSpeech">n</span> <span class="term">brotherhood</span> <span class="exp">A class of individuals of the same kind, profession, or occupation.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Brotherhood</span> <span class="exp">the state of being a brother: an association of men for any purpose</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Katherine Lee Bates</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Katherine Lee Bates">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“America, America, God shed His grace on thee, and crown thy good with brotherhood, from sea to shining sea.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Heywood Broun</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Heywood%20Broun.jpg" alt="Heywood%20Broun">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Brotherhood is not just a Bible word. Out of comradeship can come and will come the happy life for all.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lyndon B. Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lyndon%20B.%20Johnson.jpg" alt="Lyndon%20B.%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We live in a world that has narrowed into a neighborhood before it has broadened into a brotherhood.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Max Lerner</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Max%20Lerner.jpg" alt="Max%20Lerner">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You may call for peace as loudly as you wish, but where there is no brotherhood there can in the end be no peace.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edwin Markham</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edwin%20Markham.jpg" alt="Edwin%20Markham">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The crest and crowning of all good, Life's final star, is Brotherhood.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Carlos Pena Romulo</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Carlos Pena Romulo">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Brotherhood is the very price and condition of man's survival.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					 <span class="wUets">Brother</span>, + <span class="wUets">-hood</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					A.S. <i>broðor</i>; cog. with Ger. <i>bruder</i>, Gael. <i>brathair</i>, Fr. <i>frère</i>, L. <i>frater</i>, Sans. <i>bhrátar</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Christianity placed some things above family; it instituted brotherhood and spiritual marriage.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Volume 03" by <span>Various</span>					</div>
+										<div class="usage">
+						Stick to the brotherhood.
+					</div>
+					<div class="uAuthor">
+						"Philosophy of Osteopathy" by <span>Andrew T. Still</span>					</div>
+										<div class="usage">
+						Such folk, at best, are but sisters in the brotherhood.
+					</div>
+					<div class="uAuthor">
+						"Chimney-Pot Papers" by <span>Charles S. Brooks</span>					</div>
+										<div class="usage">
+						And so the young men were glad to see him and make him one of their brotherhood.
+					</div>
+					<div class="uAuthor">
+						"The Later Cave-Men" by <span>Katharine Elizabeth Dopp</span>					</div>
+										<div class="usage">
+						Thus he disagrees that if a soap factory cannot be run on brotherhood lines the brotherhood must be scrapped.
+					</div>
+					<div class="uAuthor">
+						"Gilbert Keith Chesterton" by <span>Patrick Braybrooke</span>					</div>
+										<div class="usage">
+						The idea of Brotherhood has been brooding over the planet for thousands of years.
+					</div>
+					<div class="uAuthor">
+						"Child and Country" by <span>Will Levington Comfort</span>					</div>
+										<div class="usage">
+						His great message to the world was the common fatherhood of God and the brotherhood of man.
+					</div>
+					<div class="uAuthor">
+						"India, Its Life and Thought" by <span>John P. Jones</span>					</div>
+										<div class="usage">
+						There is really no labour problem outside of sympathy, mutuality, good-will, cooperation, brotherhood.
+					</div>
+					<div class="uAuthor">
+						"The Higher Powers of Mind and Spirit" by <span>Ralph Waldo Trine</span>					</div>
+										<div class="usage">
+						For that is the brotherhood.
+					</div>
+					<div class="uAuthor">
+						"The Battle with the Slum" by <span>Jacob A. Riis</span>					</div>
+										<div class="usage">
+						We who have set a watch on the world's outer ramparts, guarding the white banner of universal brotherhood!
+					</div>
+					<div class="uAuthor">
+						"The Maids of Paradise" by <span>Robert W. (Robert William) Chambers</span>					</div>
+										<div class="usage">
+						The "Divine brotherhood" of the writer would be based on robbery, and have robbery as its object.
+					</div>
+					<div class="uAuthor">
+						"British Socialism" by <span>J. Ellis Barker</span>					</div>
+										<div class="usage">
+						Smaller enmities are patched, national brotherhood is recognized.
+					</div>
+					<div class="uAuthor">
+						"Mountain Meditations" by <span>L. Lind-af-Hageby</span>					</div>
+										<div class="usage">
+						It's a disgrace to Adam and the whole human brotherhood.
+					</div>
+					<div class="uAuthor">
+						"'Charge It'" by <span>Irving Bacheller</span>					</div>
+										<div class="usage">
+						Thus we all of us, as Christians, have attained a brotherhood in baptism, whereof no saint possesses more than I or you.
+					</div>
+					<div class="uAuthor">
+						"The Epistles of St. Peter and St. Jude Preached and Explained" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						The crosses should represent brotherhood, but they do not.
+					</div>
+					<div class="uAuthor">
+						"Daughters of the Revolution and Their Times" by <span>Charles Carleton Coffin</span>					</div>
+										<div class="usage">
+						To-morrow I am admitted into the Brotherhood of Righteousness.
+					</div>
+					<div class="uAuthor">
+						"Dreamers of the Ghetto" by <span>I. Zangwill</span>					</div>
+										<div class="usage">
+						Let him purify patriotism with Christianity and he has brotherhood; adulterate it with avarice and he has war.
+					</div>
+					<div class="uAuthor">
+						"Prize Orations of the Intercollegiate Peace Association" by <span>Intercollegiate Peace Association</span>					</div>
+										<div class="usage">
+						They show it to be a religion of noble tolerance, of universal brotherhood, of righteousness and justice.
+					</div>
+					<div class="uAuthor">
+						"The Buddhist Catechism" by <span>Henry S. Olcott</span>					</div>
+										<div class="usage">
+						THE BROTHERHOOD OF THE DEW.
+					</div>
+					<div class="uAuthor">
+						"A Frontier Mystery" by <span>Bertram Mitford</span>					</div>
+										<div class="usage">
+						No living man could disarm Valeria of the Brotherhood with his bare hands.
+					</div>
+					<div class="uAuthor">
+						"Red Nails" by <span>Robert E. Howard</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Earth own, at last, untrod<br>
+By sect, or caste, or clan,<br>
+The fatherhood of God,<br>
+The brotherhood of man!
+							<div class="poet">"Astraea" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							That tho' 'tis wise with Charity<br>
+Torrential Need to dam,<br>
+The Hope of Progress is a lie<br>
+And Brotherhood a sham.
+							<div class="poet">"Prosperity" by <span>Bernard O Dowd</span></div>
+						</div>
+											<div class="poemQuote">
+							Brotherhood of good,<br>
+Equal laws and rights,<br>
+Freedom, whose sweet food<br>
+Feeds the multitude<br>
+All their days and nights
+							<div class="poet">"Christmas Antiphones" by <span>Algernon Charles Swinburne</span></div>
+						</div>
+											<div class="poemQuote">
+							They sing of love and gladness,<br>
+Of the golden primal plan,<br>
+Of the forging of bosom to bosom,<br>
+And the brotherhood of man.
+							<div class="poet">"I Stand With My Shoulder To Shoulders" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							If Man makes Conscience, then being good<br>
+Is only being worldly wise,<br>
+And universal brotherhood<br>
+A comfortable compromise.
+							<div class="poet">"The Door Of Humility" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							Sound on, too, hammer of the thought,<br>
+To widen human good,<br>
+And forge between each yearning heart<br>
+The links of brotherhood.
+							<div class="poet">"Anvil And Newspaper" by <span>Alexander Anderson</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Firefighter Jalen Smith let his life speak for him Saturday as family, friends and a brotherhood of firefighters celebrated a life cut short.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tylerpaper.com/article/20121209/NEWS01/121209793" target="_blank" rel="external nofollow">tylerpaper.com</a>
+					</div>
+										<div class="usage">
+						It's the rise of these radical Islamic, Muslim Brotherhood invasions and killings that should be prominent on both party's campaign trail.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thecitizennews.com/articles/10-23-2012/where-obama-ethnic-cleansing-christians?quicktabs_3=2" target="_blank" rel="external nofollow">thecitizennews.com</a>
+					</div>
+										<div class="usage">
+						"Terror baby" conspiracy theorist, birther conspiracy theorist, and Muslim Brotherhood inflitration conspiracy theorist Louie Gohmert (R-Tex.
+					</div>
+					<div class="uAuthor">
+						<a href="https://www.motherjones.com/mojo/2012/12/louie-gohmert-lunatic-house-bill" target="_blank" rel="external nofollow">motherjones.com</a>
+					</div>
+										<div class="usage">
+						Muslim Brotherhood's Role in Referendum Questioned.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424127887323981504578175000890688618.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Graffiti and Arabic writing that reads "no to the Muslim Brotherhood constitution ," is painted on a wall in Tahrir Square in Cairo.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/today/index.ssf/2012/12/egyptian_army_takes_over_secur.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						The article charged, among other things, that the council 's officers had past connections to the Muslim Brotherhood, and that the group has refused to label.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/opinion/editorials/la-ed-1213-mpac-all-saints-20121213,0,2714413.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						An Egyptian leftist opposition group urged its supporters to head to the presidential palace on Wednesday in response to the Muslim Brotherhood's call for a protest there in support of President Mohamed Mursi, a spokeswoman said.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baltimoresun.com/news/nation-world/sns-rt-us-egypt-politics-leftistsbre8b40gq-20121205,0,6446381.story" target="_blank" rel="external nofollow">baltimoresun.com</a>
+					</div>
+										<div class="usage">
+						Egyptian group calls protest to counter Muslim Brotherhood.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kwch.com/news/national/sns-rt-us-egypt-politics-leftistsbre8b40gq-20121205,0,5691219.story" target="_blank" rel="external nofollow">kwch.com</a>
+					</div>
+										<div class="usage">
+						The Muslim Brotherhood's man claims more power than Mubarak had.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424127887324851704578137253727025648.html?mod=WSJ_Opinion_AboveLEFTTop" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						When the Islamic Brotherhood took over Egypt, Obama said that Al-Qaeda had been defeated.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/birmingham-news-commentary/2012/11/your_view_benghazi_coverup.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						Founded in 1968, the Brotherhood Crusade 's principal mission is dedicated to building and sustaining an institution that raises funds and resources from within the community and distributes those funds directly back into the community.
+					</div>
+					<div class="uAuthor">
+						<a href="http://ourweekly.com/honor-roll/brotherhood-crusade-holds-its-annual-awards-dinner" target="_blank" rel="external nofollow">ourweekly.com</a>
+					</div>
+										<div class="usage">
+						A 10-hour work day and standardization of rates of pay and working conditions were won by the Railway Brotherhoods.
+					</div>
+					<div class="uAuthor">
+						<a href="http://utu.org/rail-strikes-marked-early-days-as-workers-organized-unions/" target="_blank" rel="external nofollow">utu.org</a>
+					</div>
+										<div class="usage">
+						The Railroad Brotherhoods won an 8-hour day .
+					</div>
+					<div class="uAuthor">
+						<a href="http://utu.org/rail-strikes-marked-early-days-as-workers-organized-unions/" target="_blank" rel="external nofollow">utu.org</a>
+					</div>
+										<div class="usage">
+						In power, Egypt's Muslim Brotherhood remains secretive, defensive , critics say.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/world/middle_east/in-power-egypts-muslim-brotherhood-remains-secretive-defensive-critics-say/2012/12/10/31234f22-42fa-11e2-8061-253bccfc7532_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						A former senior leader of the Muslim Brotherhood outlined his disappointment in President Mohamed Morsi today, who is rushing through a new Egyptian constitution.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Middle-East/2012/1206/As-Egypt-s-Morsi-remains-defiant-a-former-top-Brother-speaks-out" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						To analyze the throughput loss, we model coding over generations with random generation scheduling as a coupon collector’s brotherhood problem. 
+					</div>
+					<div class="uAuthor">
+						Effects of the Generation Size and Overlap on Throughput and Complexity in Randomized Linear Network Coding
+					</div>
+										<div class="usage">
+						Section IV introduces the coupon collector’s brotherhood problem and its variations that can be used to model coding over generations. 
+					</div>
+					<div class="uAuthor">
+						Effects of the Generation Size and Overlap on Throughput and Complexity in Randomized Linear Network Coding
+					</div>
+										<div class="usage">
+						The algorithm is based on the analysis of the overlapping structure in Section VI-B and the results from the extended collector’s brotherhood in Section IV. 
+					</div>
+					<div class="uAuthor">
+						Effects of the Generation Size and Overlap on Throughput and Complexity in Randomized Linear Network Coding
+					</div>
+										<div class="usage">
+						The coupon collector’s brotherhood problem , studies quantities related to the completion of m sets of n distinct coupons by sampling a set of n distinct coupons uniformly at random with replacement. 
+					</div>
+					<div class="uAuthor">
+						Effects of the Generation Size and Overlap on Throughput and Complexity in Randomized Linear Network Coding
+					</div>
+										<div class="usage">
+						Therefore, we must generalize the coupon collector’s brotherhood model from collecting a uniform number of copies for all coupons to collecting different numbers of copies for different coupons, before it can be applied to the analysis of the throughput performance of coding over generations. 
+					</div>
+					<div class="uAuthor">
+						Effects of the Generation Size and Overlap on Throughput and Complexity in Randomized Linear Network Coding
+					</div>
+										<div class="usage">
+						In this section, the original collector’s brotherhood model is generalized in two ways. 
+					</div>
+					<div class="uAuthor">
+						Effects of the Generation Size and Overlap on Throughput and Complexity in Randomized Linear Network Coding
+					</div>
+										<div class="usage">
+						In the following, we present another generalization of the collector’s brotherhood model. 
+					</div>
+					<div class="uAuthor">
+						Effects of the Generation Size and Overlap on Throughput and Complexity in Randomized Linear Network Coding
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="people engaged in a particular occupation"><a href="fraternity.html">fraternity</a>, <a href="sodality.html">sodality</a>, </div><div class="synGroup" title="an organization of employees formed to bargain with the employer"><a href="labor%20union.html">labor union</a>, <a href="trade%20union.html">trade union</a>, <a href="trades%20union.html">trades union</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="class.html">class</a>, <a href="family%20relationship.html">family relationship</a>, <a href="friendliness.html">friendliness</a>, <a href="kinship.html">kinship</a>, <a href="organisation.html">organisation</a>, <a href="organization.html">organization</a>, <a href="relationship.html">relationship</a>, <a href="social%20class.html">social class</a>, <a href="socio-economic%20class.html">socio-economic class</a>, <a href="stratum.html">stratum</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="i.w.w..html">i.w.w.</a>, <a href="iww.html">iww</a>, <a href="industrial%20workers%20of%20the%20world.html">industrial workers of the world</a>, <a href="company%20union.html">company union</a>, <a href="craft%20union.html">craft union</a>, <a href="industrial%20union.html">industrial union</a>, <a href="vertical%20union.html">vertical union</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="brother.html">brother</a>, <a href="unionize.html">unionize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Adelphia.html">Adelphia</a>, <a href="brother.html">brother</a>, <a href="chapter.html">chapter</a>, <a href="Confraternity.html">Confraternity</a>, <a href="Congregationalism.html">Congregationalism</a>, <a href="Cryptonym.html">Cryptonym</a>, <a href="Fenian.html">Fenian</a>, <a href="fraternity.html">fraternity</a>, <a href="Freemason.html">Freemason</a>, <a href="freemasonry.html">freemasonry</a>, <a href="Gregorian.html">Gregorian</a>, <a href="Hermandad.html">Hermandad</a>, <a href="hood.html">hood</a>, <a href="Hospitaller.html">Hospitaller</a>, <a href="nostalgia.html">nostalgia</a>, <a href="phratry.html">phratry</a>, <a href="Pre-Raphaelite.html">Pre-Raphaelite</a>, <a href="Pythagorean.html">Pythagorean</a>, <a href="red.html">red</a>, <a href="seven.html">seven</a>, <a href="Sikh.html">Sikh</a>, <a href="society.html">society</a>, <a href="sodality.html">sodality</a>, <a href="Synomocy.html">Synomocy</a>, <a href="Synomosy.html">Synomosy</a>, <a href="Theatin.html">Theatin</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					vrotherhood, grotherhood, hrotherhood, nrotherhood, beotherhood, bdotherhood, bfotherhood, btotherhood, britherhood, brktherhood, brltherhood, brptherhood, brorherhood, brofherhood, brogherhood, broyherhood, brotgerhood, brotyerhood, brotjerhood, brotnerhood, brotberhood, brothwrhood, brothsrhood, brothdrhood, brothrrhood, brotheehood, brothedhood, brothefhood, brothethood, brothergood, brotheryood, brotherjood, brothernood, brotherbood, brotherhiod, brotherhkod, brotherhlod, brotherhpod, brotherhoid, brotherhokd, brotherhold, brotherhopd, brotherhoos, brotherhooe, brotherhoof, brotherhooc, brotherhoox, brotherhoos
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

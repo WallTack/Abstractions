@@ -1,0 +1,540 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>ingenuity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">ingenuity</span> <span class="exp">the property of being ingenious</span> <span class="quot">"a plot of great ingenuity","the cleverness of its design"</span></li><li><span class="tSpeech">n</span> <span class="term">ingenuity</span> <span class="exp">the power of creative imagination</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Ingenuity</span> <span class="exp">Curiousness, or cleverness in design or contrivance; as, the <span class="wUex">ingenuity</span> of a plan, or of mechanism.</span> <span class="wuQuot">"He gives . . . To artist ingenuity and skill."</span></li><li><span class="term">Ingenuity</span> <span class="exp">Openness of heart; ingenuousness.</span> <span class="wuQuot">"The stings and remorses of natural ingenuity , a principle that men scarcely ever shake off, as long as they carry anything of human nature about them."</span></li><li><span class="term">Ingenuity</span> <span class="exp">The quality or power of ready invention; quickness or acuteness in forming new combinations; ingeniousness; skill in devising or combining.</span> <span class="wuQuot">"All the means which human ingenuity has contrived."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">ingenuity</span> <span class="exp">Ingenuousness; frankness; openness of heart.</span> </li><li><span class="tSpeech">n</span> <span class="term">ingenuity</span> <span class="exp">The quality of being ingenious; inventive capacity or faculty; aptness in contrivance or combination, as of things or ideas; skill; cleverness: as, ingenuity displayed in the construction of machines, or of arguments or plots.</span> </li><li><span class="tSpeech">n</span> <span class="term">ingenuity</span> <span class="exp">Ingenious contrivance; skilfulness of design, construction, or execution: as, the ingenuity of a machine; the ingenuity of a puzzle or a poem. Synonyms Abilities, Cleverness, etc. (see genius); inventiveness, turn, knack, smartness.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Ingenuity</span> <span class="exp">power of ready invention: facility in combining ideas: curiousness in design</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arnold Bennett</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Arnold%20Bennett.jpg" alt="Arnold%20Bennett">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Much ingenuity with a little money is vastly more profitable and amusing than much money without ingenuity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George D. Prentice</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George D. Prentice">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Some people use one half their ingenuity to get into debt, and the other half to avoid paying it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gene Brown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Gene Brown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Foolproof systems do not take into account the ingenuity of fools.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Rostand</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20Rostand.jpg" alt="Jean%20Rostand">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I don't judge a regime by the damning criticism of the opposition, but by the ingenuous praise of the partisan.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Walter Savage Landor</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Walter%20Savage%20Landor.jpg" alt="Walter%20Savage%20Landor">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“An ingenuous mind feels in unmerited praise the bitterest reproof.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bob Richards</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bob Richards">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ingenuity, plus courage, plus work, equals miracles.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">ingenuitas</span>, ingenuousness: cf. F. <span class="wUets">ingénuité</span>,. See <span class="wUer">Ingenuous</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>ingeniosus</i>—<i>ingenium</i>, mother-wit, from <i>in</i>, and <i>gen</i>, root of <i>gignĕre</i>, to beget.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Each man dug a shelter for himself, according to his skill, ingenuity and perseverance.
+					</div>
+					<div class="uAuthor">
+						""Contemptible"" by <span>"Casualty"</span>					</div>
+										<div class="usage">
+						Such apparent contradictoriness is everywhere in his work, but along with it goes a curious ingenuity and nimbleness of mind.
+					</div>
+					<div class="uAuthor">
+						"Among Famous Books" by <span>John Kelman</span>					</div>
+										<div class="usage">
+						I smiled at his ingenuous excuse.
+					</div>
+					<div class="uAuthor">
+						"Sixteen Months in Four German Prisons" by <span>Henry Charles Mahoney</span>					</div>
+										<div class="usage">
+						Marco Polo's account of how diamonds are obtained is ingenuous in its reckless defiance of fact.
+					</div>
+					<div class="uAuthor">
+						"Arts and Crafts in the Middle Ages" by <span>Julia De Wolf Addison</span>					</div>
+										<div class="usage">
+						He also cites it as an instance of extraordinary ingenuity and skill in mechanics.
+					</div>
+					<div class="uAuthor">
+						"Anecdotes of Painters, Engravers, Sculptors and Architects and Curiosities of Art (Vol. 3 of 3)" by <span>S. Spooner</span>					</div>
+										<div class="usage">
+						In effecting this purpose, I was obliged to rely upon my own ingenuity and diligence.
+					</div>
+					<div class="uAuthor">
+						"Arthur Mervyn" by <span>Charles Brockden Brown</span>					</div>
+										<div class="usage">
+						Jefferson explains away these and other dubious passages in his life with great ingenuity.
+					</div>
+					<div class="uAuthor">
+						"Continental Monthly, Vol. 5, Issue 2, February, 1864" by <span>Various</span>					</div>
+										<div class="usage">
+						What I said about ingenuity in speaking of my officers is covered in this case.
+					</div>
+					<div class="uAuthor">
+						"A Victorious Union" by <span>Oliver Optic</span>					</div>
+										<div class="usage">
+						While they are trying to break the ice with an ingenue, I'm sizing them up.
+					</div>
+					<div class="uAuthor">
+						"The Best Short Stories of 1921 and the Yearbook of the American Short Story" by <span>Various</span>					</div>
+										<div class="usage">
+						There is no end to the stories of the ingenuousness of Brother Egidio.
+					</div>
+					<div class="uAuthor">
+						"Life of St. Francis of Assisi" by <span>Paul Sabatier</span>					</div>
+										<div class="usage">
+						Hans had, with considerable ingenuity, contrived a rudder, which enabled him to guide the floating apparatus with ease.
+					</div>
+					<div class="uAuthor">
+						"A Journey to the Centre of the Earth" by <span>Jules Verne</span>					</div>
+										<div class="usage">
+						But by Karl's ingenuity it was also got over.
+					</div>
+					<div class="uAuthor">
+						"The Cliff Climbers" by <span>Captain Mayne Reid</span>					</div>
+										<div class="usage">
+						Frail and light as this Indian craft may be, there is a great deal of skill and ingenuity required in its construction.
+					</div>
+					<div class="uAuthor">
+						"By Canoe and Dog-Train" by <span>Egerton Ryerson Young</span>					</div>
+										<div class="usage">
+						And yet, on reflection, had he not always found in his father a peculiar ingenuousness, which he could not but look down upon?
+					</div>
+					<div class="uAuthor">
+						"Clayhanger" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						His ingenuity and inventiveness are constantly exercised.
+					</div>
+					<div class="uAuthor">
+						"Pushing to the Front" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						Of his ingenuity in rescuing his master's money from the Turcoman, and of his determination to keep it.
+					</div>
+					<div class="uAuthor">
+						"The Adventures of Hajji Baba of Ispahan" by <span>James Morier</span>					</div>
+										<div class="usage">
+						Lighting the streets came almost simultaneously; and in connection with this he showed his wonted ingenuity.
+					</div>
+					<div class="uAuthor">
+						"Benjamin Franklin" by <span>John Torrey Morse, Jr.</span>					</div>
+										<div class="usage">
+						It stimulated his ingenuity too.
+					</div>
+					<div class="uAuthor">
+						"Chance" by <span>Joseph Conrad</span>					</div>
+										<div class="usage">
+						Although a little hard and mechanical, it is of absolutely inexhaustible ingenuity and firmness of touch.
+					</div>
+					<div class="uAuthor">
+						"The History of "Punch"" by <span>M. H. Spielmann</span>					</div>
+										<div class="usage">
+						The apology for Mrs Rowland, in case she should not call, was made not without ingenuity.
+					</div>
+					<div class="uAuthor">
+						"Deerbrook" by <span>Harriet Martineau</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							To wish thee fairer is no need,<br>
+More prudent, or more sprightly,<br>
+Or more ingenuous, or more freed<br>
+From temper-flaws unsightly.
+							<div class="poet">"The Poet's New-Year's Gift. To Mrs. (Afterwards Lady) Throckmorton" by <span>William Cowper</span></div>
+						</div>
+											<div class="poemQuote">
+							And as I may, to lighten the long way,<br>
+Go singing airs ingenuous and brave,<br>
+She'll listen to me graciously, I say,—<br>
+And, verily, no other heaven I crave.
+							<div class="poet">"Since Shade Relents" by <span>Paul Verlaine</span></div>
+						</div>
+											<div class="poemQuote">
+							"I'VE tried it, and can only say<br>
+I'm sure you couldn't do it, e-<br>
+ven if you practised night and day,<br>
+Unless you have a turn that way,<br>
+And natural ingenuity. 
+							<div class="poet">"Phantasmagoria Canto IV   ( Hys Nouryture )" by <span>Lewis Carroll</span></div>
+						</div>
+											<div class="poemQuote">
+							The struggling pangs of conscious truth to hide,<br>
+To quench the blushes of ingenuous shame,<br>
+Or heap the shrine of Luxury and Pride<br>
+With incense kindled at the Muse's flame.
+							<div class="poet">"Elegy Written in a Country Churchyard" by <span>Thomas Gray</span></div>
+						</div>
+											<div class="poemQuote">
+							Ingenuous boy, warned by experience, now<br>
+The pebble's charms shall tempt thine eyes no more;<br>
+Would that my verse, my Cynthio, could bestow<br>
+A shield to guard thee against Fancy's power!<br>
+
+							<div class="poet">"Stanzas to Cynthio" by <span>Amelia Opie</span></div>
+						</div>
+											<div class="poemQuote">
+							"Non sono io quello che i ridenti canti<br>
+"Questa notte vergo`?--Perche` gli incanti<br>
+"Soavi, perche` l'estasi<br>
+"E l'armonia dei non studiati carmi,<br>
+"Come donne, veniano a visitarmi,<br>
+"Innamorate e ingenue?
+							<div class="poet">"Anacreonte" by <span>Ferdinando Fontana</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We're not going to lie, we were bummed when we heard that the new "Wonder Woman" TV pilot - starring "Friday Night Lights" ingenue Adrianne Palicki - failed to find a network home.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nbcsandiego.com/blogs/popcornbiz/Frame-By-Frame-Breakdown-of-New-Wonder-Woman-Footage-123753069.html" target="_blank" rel="external nofollow">nbcsandiego.com</a>
+					</div>
+										<div class="usage">
+						Ingenuity Systems, Inc. Opinion: Talking Genomics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.the-scientist.com/?articles.list/categoryNo/2954/category/Opinion/tagNo/53/tags/genetics/" target="_blank" rel="external nofollow">the-scientist.com</a>
+					</div>
+										<div class="usage">
+						Mike Sands, Informa Economics, says it will take extra effort and ingenuity for cattle feeders to survive and thrive in this environment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://beefmagazine.com/feedlots/effort-ingenuity-needed-thrive-cattle-feeding-environment" target="_blank" rel="external nofollow">beefmagazine.com</a>
+					</div>
+										<div class="usage">
+						Maker Faire showcases DIY ingenuity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2012/10/05/tech/maker-faire-new-york/index.html?iid=article_sidebar" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Massive new outdoor pieces at Flint art museum celebrate mankind's ingenuity , says sculptor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/entertainment/flint/index.ssf/2012/10/new_outdoor_sculpture_at_the_f.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						 Ingenuity , Life Tech, Janssen, Evotec.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bio-itworld.com/2012/10/04/news-briefs-ingenuity-life-tech-janssen-evotec.html" target="_blank" rel="external nofollow">bio-itworld.com</a>
+					</div>
+										<div class="usage">
+						 Ingenuity Systems and Life Technologies are partnering to develop and deliver a joint solution for rapid, high-confidence interpretation of molecular profiling information from Life Technologies' diagnostic tests.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bio-itworld.com/2012/10/04/news-briefs-ingenuity-life-tech-janssen-evotec.html" target="_blank" rel="external nofollow">bio-itworld.com</a>
+					</div>
+										<div class="usage">
+						Yankee ingenuity on Day 1 of Ryder Cup.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/sports/golf/Yankee+ingenuity+Ryder/7317964/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						A Testimony to Ingenuity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/08/20/arts/20iht-design20.html?ref=alicerawsthorn" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						 Ingenuity Consulting Partners, Inc, 410-B S.E.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lsjournal.com/2012/08/10/86986/ingenuity-consulting.html" target="_blank" rel="external nofollow">lsjournal.com</a>
+					</div>
+										<div class="usage">
+						Summer sun drives ingenuity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dentonrc.com/local-news/local-news-headlines/20120717-heated-competition-summer-sun-drives-ingenuity.ece" target="_blank" rel="external nofollow">dentonrc.com</a>
+					</div>
+										<div class="usage">
+						Students put skill, ingenuity to test during Shelby Scholars Summer Institute.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commercialappeal.com/news/2012/jun/22/summer-scholars/" target="_blank" rel="external nofollow">commercialappeal.com</a>
+					</div>
+										<div class="usage">
+						Obama's chief tech officer: Let's unleash ingenuity of the public.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2012/06/14/tech/web/white-house-tech-officer/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						 Ingenuity , Life Tech Introduce Solution for Real-Time PCR Gene-Expression Analysis.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.genengnews.com/gen-news-highlights/ingenuity-life-tech-introduce-solution-for-real-time-pcr-gene-expression-analysis/81246575/" target="_blank" rel="external nofollow">genengnews.com</a>
+					</div>
+										<div class="usage">
+						China's Ingenuity and Prowess Provide Leadership on Renewables.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.seattlepi.com/energy/2007/11/18/chinas-ingenuity-and-prowess-provide-leadership-on-renewables/" target="_blank" rel="external nofollow">blog.seattlepi.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This ingenuous idea is due to Sepp¨al¨ainen , who used it to compute asymptotics for a certain last-passage Bernoulli directed percolation problem. 
+					</div>
+					<div class="uAuthor">
+						Random matrices, non-colliding processes and queues
+					</div>
+										<div class="usage">
+						If Bell inequalities are violated by observables of a quantum ﬁeld state, we would certainly attribute the violation to the experimenters’ ingenuity in ensuring an appropriate initial quantum ﬁeld state and making appropriate measurements. 
+					</div>
+					<div class="uAuthor">
+						Bell inequalities for random fields
+					</div>
+										<div class="usage">
+						Experiments of increasing ingenuity and sophistication have extended the regime in which quantum mechanics has been tested. 
+					</div>
+					<div class="uAuthor">
+						Generalizing Quantum Mechanics for Quantum Spacetime
+					</div>
+										<div class="usage">
+						Few years ago, Spielman and Teng [9, 10] came up with an ingenuous explanation for this fact. 
+					</div>
+					<div class="uAuthor">
+						The condition number of a randomly perturbed matrix
+					</div>
+										<div class="usage">
+						The second example, the problem of the location of the point of current leakage is a sample of the ingenuity of one of the most important physicist of the end of the 19th century. 
+					</div>
+					<div class="uAuthor">
+						Simple circuit theory and the solution of two electricity problems from the Victorian Age
+					</div>
+										<div class="usage">
+						The work of J.H.P. was supported by the Alberta Ingenuity Foundation. 
+					</div>
+					<div class="uAuthor">
+						Radiative-nonrecoil corrections of order alpha^2 (Z alpha)^5 to the Lamb shift
+					</div>
+										<div class="usage">
+						While cyclic proof methods still require a high level of ingenuity, they appear to lead to clearer proofs, and seem to lead to more successful automation when implemented in automated reasoning tools. 
+					</div>
+					<div class="uAuthor">
+						Cyclic and Inductive Calculi are equivalent
+					</div>
+										<div class="usage">
+						This bijection has a complicated recursive deﬁnition, which consequently leads to diﬃcult recurrences for generating functions, which then require a large amount of ingenuity to be solved into closed form expressions, typically by an application of the kernel method. 
+					</div>
+					<div class="uAuthor">
+						Counting Self-Dual Interval Orders
+					</div>
+										<div class="usage">
+						The two channels involving the top require more ingenuity, but merit investigation. 
+					</div>
+					<div class="uAuthor">
+						Phenomenological aspects of new physics at high energy hadron colliders
+					</div>
+										<div class="usage">
+						However, in the paper that we have reviewed here, Majorana shows all his mathematical strength and ingenuity. 
+					</div>
+					<div class="uAuthor">
+						Majorana and the Infinite Component Wave Equations
+					</div>
+										<div class="usage">
+						After two millennia of hard-won improvements, human ingenuity appeared to be ﬁnally barred by Nature’s innate complexity. 
+					</div>
+					<div class="uAuthor">
+						Hipparcos: a Retrospective
+					</div>
+										<div class="usage">
+						While at such conferences typically only the ﬁnal results of long analysis chains are shown, it is easy to forget and praise all the immense work and ingenuity, which has gone into the design, construction, commissioning and operation of the various accelerators and the corresponding experiments. 
+					</div>
+					<div class="uAuthor">
+						Moriond 2012, QCD and High Energy Interactions: Experimental Summary
+					</div>
+										<div class="usage">
+						Some creative engineering ingenuity is required to devise macroscopic ampliﬁcations well suited for near-Earth Bell experiments, given the constraints of practicality and repeatability. 
+					</div>
+					<div class="uAuthor">
+						Fundamental quantum optics experiments conceivable with satellites -- reaching relativistic distances and velocities
+					</div>
+										<div class="usage">
+						In ref. Eisert proposes an ingenuous alternative to the classical approach, employing the concept of quantum entanglement. 
+					</div>
+					<div class="uAuthor">
+						Playing a quantum game on polarization vortices
+					</div>
+										<div class="usage">
+						One should not underestimate the ingenuity of experimentalists with real data, but it seems likely that the LHC will not be able to study the entire SUSY spectrum. A Next Lepton Collider with √s ∼ 500 GeV should be able to detect any SUSY particles except the ˜χ0 1 that are kinematically accessible. 
+					</div>
+					<div class="uAuthor">
+						SUSY Before the Next Lepton Collider
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the property of being ingenious"><a href="ingeniousness.html">ingeniousness</a>, <a href="cleverness.html">cleverness</a>, </div><div class="synGroup" title="the power of creative imagination"><a href="cleverness.html">cleverness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="creative%20thinking.html">creative thinking</a>, <a href="creativeness.html">creativeness</a>, <a href="creativity.html">creativity</a>, <a href="high%20quality.html">high quality</a>, <a href="superiority.html">superiority</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="imagination.html">imagination</a>, <a href="resource.html">resource</a>, <a href="resourcefulness.html">resourcefulness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="inventive.html">inventive</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Ant-lion.html">Ant-lion</a>, <a href="artificially.html">artificially</a>, <a href="beaver.html">beaver</a>, <a href="Bouts-rim%C3%A9s.html">Bouts-rimés</a>, <a href="brightness.html">brightness</a>, <a href="capture.html">capture</a>, <a href="cleverness.html">cleverness</a>, <a href="conceit.html">conceit</a>, <a href="contrive.html">contrive</a>, <a href="cunning.html">cunning</a>, <a href="curiousness.html">curiousness</a>, <a href="devilish.html">devilish</a>, <a href="diabolic.html">diabolic</a>, <a href="diabolical.html">diabolical</a>, <a href="engine.html">engine</a>, <a href="engineer.html">engineer</a>, <a href="evade.html">evade</a>, <a href="expedient.html">expedient</a>, <a href="extort.html">extort</a>, <a href="firework.html">firework</a>, <a href="hare.html">hare</a>, <a href="humor.html">humor</a>, <a href="humour.html">humour</a>, <a href="imitation.html">imitation</a>, <a href="Ingeniosity.html">Ingeniosity</a>, <a href="ingenious.html">ingenious</a>, <a href="ingeniously.html">ingeniously</a>, <a href="ingeniousness.html">ingeniousness</a>, <a href="ingenuousness.html">ingenuousness</a>, <a href="Ingeny.html">Ingeny</a>, <a href="invention.html">invention</a>, <a href="mephistophelean.html">mephistophelean</a>, <a href="mephistophelian.html">mephistophelian</a>, <a href="notion.html">notion</a>, <a href="outwit.html">outwit</a>, <a href="Passeres.html">Passeres</a>, <a href="pick.html">pick</a>, <a href="puzzle.html">puzzle</a>, <a href="quaint.html">quaint</a>, <a href="riddle.html">riddle</a>, <a href="sophism.html">sophism</a>, <a href="sophistication.html">sophistication</a>, <a href="sophistry.html">sophistry</a>, <a href="To%20go%20beyond.html">To go beyond</a>, <a href="variation.html">variation</a>, <a href="wit.html">wit</a>, <a href="witticism.html">witticism</a>, <a href="wittiness.html">wittiness</a>, <a href="witty.html">witty</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					ungenuity, jngenuity, kngenuity, ongenuity, ibgenuity, ihgenuity, ijgenuity, imgenuity, infenuity, intenuity, inhenuity, inbenuity, invenuity, ingwnuity, ingsnuity, ingdnuity, ingrnuity, ingebuity, ingehuity, ingejuity, ingemuity, ingenyity, ingenhity, ingenjity, ingeniity, ingenuuty, ingenujty, ingenukty, ingenuoty, ingenuiry, ingenuify, ingenuigy, ingenuiyy, ingenuitt, ingenuitg, ingenuith, ingenuitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

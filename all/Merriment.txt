@@ -1,0 +1,427 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>merriment</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">merriment</span> <span class="exp">activities that are enjoyable or amusing</span> <span class="quot">"I do it for the fun of it","he is fun to have around"</span></li><li><span class="tSpeech">n</span> <span class="term">merriment</span> <span class="exp">a gay feeling</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Merriment</span> <span class="exp">Gayety, with laughter; mirth; frolic.</span> <span class="wuQuot">"Follies and light merriment ."</span><span class="wuQuot">"Methought it was the sound<br>
+Of riot and ill-managed merriment ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">merriment</span> <span class="exp">The state of being merry or frolicsome; hilarious enjoyment; jollity: as, boisterous merriment.</span> </li><li><span class="tSpeech">n</span> <span class="term">merriment</span> <span class="exp">The act of making merry; mirthful entertainment; frolic.</span> </li><li><span class="tSpeech">n</span> <span class="term">merriment</span> <span class="exp">A short comedy or play.</span> </li><li><span class="tSpeech">n</span> <span class="term">merriment</span> <span class="exp">Synonyms See jolly.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Merriment</span> <span class="exp">gaiety with laughter and noise: mirth: hilarity</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“This merriment of parsons is mighty offensive.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nothing is more hopeless than a scheme of merriment.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sinclair Lewis</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Sinclair Lewis">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Damn the great executives, the men of measured merriment, damn the men with careful smiles, damn the men that run the shops, oh, damn their measured merriment.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lewis Carroll</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lewis%20Carroll.jpg" alt="Lewis%20Carroll">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“And thus they give the time, that Nature meant for peaceful sleep and meditative snores, to ceaseless din and mindless merriment and waste of shoes and floors.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">D. H. Lawrence</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/D.%20H.%20Lawrence.jpg" alt="D.%20H.%20Lawrence">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I hate the actor and audience business. An author should be in among the crowd, kicking their shins or cheering them on to some mischief or merriment.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					A.S. <i>merg</i>, from the Celtic, as in Gael. and Ir. <i>mear</i>, <i>merry</i>, Gael. <i>mir</i>, to sport.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						To this merriment of my followers I gave but little heed: my thoughts were intent on other things.
+					</div>
+					<div class="uAuthor">
+						"The War Trail" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Belle-bouche laughed with that musical contagious merriment which characterized her.
+					</div>
+					<div class="uAuthor">
+						"The Youth of Jefferson" by <span>Anonymous</span>					</div>
+										<div class="usage">
+						A sound of suppressed merriment even as he spoke startled the gathering.
+					</div>
+					<div class="uAuthor">
+						"Under the Rose" by <span>Frederic Stewart Isham</span>					</div>
+										<div class="usage">
+						He peered up into the boy's face again maliciously, and broke into cheerless, creaking merriment.
+					</div>
+					<div class="uAuthor">
+						"The History of Sir Richard Calmady" by <span>Lucas Malet</span>					</div>
+										<div class="usage">
+						The old house rang with merriment.
+					</div>
+					<div class="uAuthor">
+						"Blue Bonnet in Boston" by <span>Caroline E. Jacobs</span>					</div>
+										<div class="usage">
+						Doubtless this is an invention of Piero di Cosimo, who loves such grim merriment.
+					</div>
+					<div class="uAuthor">
+						"Romola" by <span>George Eliot</span>					</div>
+										<div class="usage">
+						She was a pretty, fair, blue-eyed child, with a natural merriment about her attractive enough.
+					</div>
+					<div class="uAuthor">
+						"The King's Mirror" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						But Theodora had vanished, to hide her head from the sight of her protegee, and from the merriment shining in Archie's blue eyes.
+					</div>
+					<div class="uAuthor">
+						"Teddy: Her Book" by <span>Anna Chapin Ray</span>					</div>
+										<div class="usage">
+						With age comes folly, and with folly comes the appalling merriment of experience.
+					</div>
+					<div class="uAuthor">
+						"The Green Carnation" by <span>Robert Smythe Hichens</span>					</div>
+										<div class="usage">
+						Universal merriment is the rule to-night.
+					</div>
+					<div class="uAuthor">
+						"Mystic London:" by <span>Charles Maurice Davies</span>					</div>
+										<div class="usage">
+						He did not want to leave the feasting and merriment that followed the tournament.
+					</div>
+					<div class="uAuthor">
+						"Stories of King Arthur's Knights" by <span>Mary MacGregor</span>					</div>
+										<div class="usage">
+						Scarcely pausing, she swept him with a pair of stone-gray eyes, made mischievous for the moment with merriment.
+					</div>
+					<div class="uAuthor">
+						"The Kingdom Round the Corner" by <span>Coningsby Dawson</span>					</div>
+										<div class="usage">
+						Nora's merriment filled the room with music.
+					</div>
+					<div class="uAuthor">
+						"The Launch Boys' Adventures in Northern Waters" by <span>Edward S. Ellis</span>					</div>
+										<div class="usage">
+						He has no notion of doing his merriment by deputy.
+					</div>
+					<div class="uAuthor">
+						"Stray Studies from England and Italy" by <span>John Richard Greene</span>					</div>
+										<div class="usage">
+						He realised the danger she was in, and noted every evidence of her artificial strength and merriment.
+					</div>
+					<div class="uAuthor">
+						"Patty's Summer Days" by <span>Carolyn Wells</span>					</div>
+										<div class="usage">
+						There was nothing in such a face as his to put a check to fun and merriment, yet, all on a sudden, the laughter died away.
+					</div>
+					<div class="uAuthor">
+						"Found in the Philippines" by <span>Charles King</span>					</div>
+										<div class="usage">
+						Phoebe, you'll be the death of me,' cried Cilly, between peals of merriment.
+					</div>
+					<div class="uAuthor">
+						"Hopes and Fears scenes from the life of a spinster" by <span>Charlotte M. Yonge</span>					</div>
+										<div class="usage">
+						So Julie's lament caused a new burst of merriment.
+					</div>
+					<div class="uAuthor">
+						"Girl Scouts in the Adirondacks" by <span>Lillian Elizabeth Roy</span>					</div>
+										<div class="usage">
+						The servants, the guests, Frau Sophie, could not contain their merriment.
+					</div>
+					<div class="uAuthor">
+						"Timar's Two Worlds" by <span>Mór Jókai</span>					</div>
+										<div class="usage">
+						Cynthia laughed, though not with the whole-souled merriment that was music in Medenham's ears.
+					</div>
+					<div class="uAuthor">
+						"Cynthia's Chauffeur" by <span>Louis Tracy</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							What should a maiden be? Merry, whene'er<br>
+Merriment comes with a natural air;<br>
+But let not mirth be an every-day guest,<br>
+Quietness sits on a maiden the best.
+							<div class="poet">"Simplex Munditiis" by <span>E W Bowling</span></div>
+						</div>
+											<div class="poemQuote">
+							Shaken out long and clear upon the hill,<br>
+No merry note, nor cause of merriment,<br>
+But one telling me plain what I escaped<br>
+And others could not, that night, as in I went.
+							<div class="poet">"The Owl" by <span>Edward Thomas</span></div>
+						</div>
+											<div class="poemQuote">
+							Dear, dancing Pixie of the wind and weather,<br>
+Aglow with love and merriment and sun,<br>
+I chase thee down my dreams, but catch thee never–<br>
+God grant I catch thee ere the trail is done!
+							<div class="poet">"Miss Pixie" by <span>Lloyd Roberts</span></div>
+						</div>
+											<div class="poemQuote">
+							Grubbinol.<br>
+Ah Bumkinet! since thou from hence wert gone,<br>
+From these sad plains all merriment is flown;<br>
+Should I reveal my grief 'twould spoil thy cheer,<br>
+And make thine eye o'erflow with many a tear.
+							<div class="poet">"The Shepherd's Week : Friday; or, The Dirge" by <span>John Gay</span></div>
+						</div>
+											<div class="poemQuote">
+							And even should the Tsar arrive,<br>
+We would not set our glasses down.<br>
+Or should God's thunder strike our feast,<br>
+We would not halt our merriment.<br>
+And even should the Tsar arrive,<br>
+We would not set our glasses down.
+							<div class="poet">"We Love Noisy Parties" by <span>Nikolay Mikhailovich Yazykov</span></div>
+						</div>
+											<div class="poemQuote">
+							We started in the morning, a morning full of glee,<br>
+All in the early morning, a goodly company;<br>
+And some were full of merriment, and all were kind and dear:<br>
+But the others have pursued their way, and left me sitting here.
+							<div class="poet">"Left Behind" by <span>Susan Coolidge</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Highlights from 30th annual Merriment On Main 2012 in downtown Vacaville.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thereporter.com/merrimentonmain/ci_22088383/video-highlights-from-30th-annual-merriment-main-2012%3Fsource=most_viewed.html" target="_blank" rel="external nofollow">thereporter.com</a>
+					</div>
+										<div class="usage">
+						Don't put off planning your festive attire for all the parties and merriment taking place.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lhj.com/blogs/ladieslounge/2012/12/11/amazingly-affordable-holiday-jewelry/" target="_blank" rel="external nofollow">lhj.com</a>
+					</div>
+										<div class="usage">
+						Tis the season for holiday merriment, and for many of us that means overindulging in too much food and too much drink.
+					</div>
+					<div class="uAuthor">
+						<a href="http://montenews.com/article/20121211/NEWS/121219904/1008/OPINION" target="_blank" rel="external nofollow">montenews.com</a>
+					</div>
+										<div class="usage">
+						Looking to celebrate the holidays with song, dance, drama and artistic merriment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiatribune.com/news/2012/dec/09/untitled-o_holidayhaps120912/?ovation" target="_blank" rel="external nofollow">columbiatribune.com</a>
+					</div>
+										<div class="usage">
+						The murder mystery troupe, Murder and Merriment, will perform.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.herald-dispatch.com/news/putnam/x1536844812/Greenhouse-of-Teays-Valley-offers-dinner-theater" target="_blank" rel="external nofollow">herald-dispatch.com</a>
+					</div>
+										<div class="usage">
+						Local bikers are looking forward to a night of joy and merriment as plans have been finalized for the American Iron Riders Christmas Party.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ardmoreite.com/article/20121210/NEWS/121209714" target="_blank" rel="external nofollow">ardmoreite.com</a>
+					</div>
+										<div class="usage">
+						Holiday merriment includes "Holidays in New York Week" and "Holiday Hits Week".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wnypapers.com/news/article/current/2012/12/06/108837/live-with-kelly-and-michael-gears-up-for-the-season-with-a-month-of-holiday-inspired-festivities" target="_blank" rel="external nofollow">wnypapers.com</a>
+					</div>
+										<div class="usage">
+						"Alouette, gentille alouette" For 30 years, this "Alouette, " in the form of Lark in the Park, has been "gentille" or "nice" to City Park, raising money and merriment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/society/index.ssf/2012/03/high-flying_fun_on_two_fronts.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						Gaylord Palms' annual ICE attraction infuses color, merriment of ' Madagascar '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.orlandosentinel.com/entertainment/holiday/os-dewayne-bevil-ice-gaylord-palms-madagascar-20121108,0,7071553.column" target="_blank" rel="external nofollow">orlandosentinel.com</a>
+					</div>
+										<div class="usage">
+						The Renaissance Festival's Queen and Singing Nuns Bring Merriment to Fox News Rising.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxcharlotte.com/news/top-stories/The-Renaissance-Festivals-Queen-and-Singing-Nuns-Bring-Merriment-to-Fox-News-Rising-174951781.html?skipthumb=Y" target="_blank" rel="external nofollow">foxcharlotte.com</a>
+					</div>
+										<div class="usage">
+						Nell Nolan's Social Scene: Monumental occasions for merriment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/society/index.ssf/2011/02/nell_nolans_social_scene_monum.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						You can never have too much merriment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eptrail.com/entertainment/ci_21988654/ymcas-olde-english-christmas-features-revelry-and-delight" target="_blank" rel="external nofollow">eptrail.com</a>
+					</div>
+										<div class="usage">
+						This year the Greatest Show on Earth is bringing myth and magic along with their usual mirth and merriment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/times-entertainment/index.ssf/2012/05/ringling_bros_circus_celebrate.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						After-hours jam sessions with audience participation round out the merriment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.viamagazine.com/events/c%C3%A9il%C3%AD-roundhouse-celtic-festival/19878" target="_blank" rel="external nofollow">viamagazine.com</a>
+					</div>
+										<div class="usage">
+						Plan your seasonal merriment with these holiday happenings.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/performance/index.ssf/2012/11/what_the_season_has_in_store_h.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="activities that are enjoyable or amusing"><a href="playfulness.html">playfulness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="diversion.html">diversion</a>, <a href="happiness.html">happiness</a>, <a href="recreation.html">recreation</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="glee.html">glee</a>, <a href="gleefulness.html">gleefulness</a>, <a href="hilarity.html">hilarity</a>, <a href="jocularity.html">jocularity</a>, <a href="jocundity.html">jocundity</a>, <a href="jolliness.html">jolliness</a>, <a href="jollity.html">jollity</a>, <a href="joviality.html">joviality</a>, <a href="mirth.html">mirth</a>, <a href="mirthfulness.html">mirthfulness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="funny.html">funny</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20straight%20face.html">A straight face</a>, <a href="Abderian.html">Abderian</a>, <a href="amusement.html">amusement</a>, <a href="boisterous.html">boisterous</a>, <a href="carnival.html">carnival</a>, <a href="comic.html">comic</a>, <a href="Deray.html">Deray</a>, <a href="Dionysia.html">Dionysia</a>, <a href="disport.html">disport</a>, <a href="drink.html">drink</a>, <a href="effervesce.html">effervesce</a>, <a href="Euphrosyne.html">Euphrosyne</a>, <a href="flash.html">flash</a>, <a href="fun.html">fun</a>, <a href="Galliardise.html">Galliardise</a>, <a href="Gamesomeness.html">Gamesomeness</a>, <a href="gay.html">gay</a>, <a href="Gayety.html">Gayety</a>, <a href="glee.html">glee</a>, <a href="gleefulness.html">gleefulness</a>, <a href="go.html">go</a>, <a href="hilarious.html">hilarious</a>, <a href="hilarity.html">hilarity</a>, <a href="jest.html">jest</a>, <a href="jocoseness.html">jocoseness</a>, <a href="jocosity.html">jocosity</a>, <a href="jocularity.html">jocularity</a>, <a href="jocund.html">jocund</a>, <a href="jocundity.html">jocundity</a>, <a href="jollification.html">jollification</a>, <a href="Jolliment.html">Jolliment</a>, <a href="jollity.html">jollity</a>, <a href="jolly.html">jolly</a>, <a href="Jouissance.html">Jouissance</a>, <a href="jovial.html">jovial</a>, <a href="joviality.html">joviality</a>, <a href="joy.html">joy</a>, <a href="joyous.html">joyous</a>, <a href="laugh.html">laugh</a>, <a href="laugher.html">laugher</a>, <a href="laughingly.html">laughingly</a>, <a href="laughter.html">laughter</a>, <a href="light.html">light</a>, <a href="Ment.html">Ment</a>, <a href="merriness.html">merriness</a>, <a href="merry.html">merry</a>, <a href="merrymaker.html">merrymaker</a>, <a href="merrymaking.html">merrymaking</a>, <a href="mirth.html">mirth</a>, <a href="mirthful.html">mirthful</a>, <a href="mirthfulness.html">mirthfulness</a>, <a href="mockery.html">mockery</a>, <a href="pleasance.html">pleasance</a>, <a href="pleasantry.html">pleasantry</a>, <a href="racket.html">racket</a>, <a href="raillery.html">raillery</a>, <a href="rally.html">rally</a>, <a href="Revel-rout.html">Revel-rout</a>, <a href="ridicule.html">ridicule</a>, <a href="sally.html">sally</a>, <a href="Saturnalia.html">Saturnalia</a>, <a href="satyr.html">satyr</a>, <a href="screaming.html">screaming</a>, <a href="spark.html">spark</a>, <a href="sparkle.html">sparkle</a>, <a href="spleen.html">spleen</a>, <a href="sport.html">sport</a>, <a href="stale.html">stale</a>, <a href="twinkle.html">twinkle</a>, <a href="uproarious.html">uproarious</a>, <a href="Utas.html">Utas</a>, <a href="waggery.html">waggery</a>, <a href="waggish.html">waggish</a>, <a href="waggishness.html">waggishness</a>, <a href="zany.html">zany</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					nerriment, jerriment, kerriment, mwrriment, msrriment, mdrriment, mrrriment, meeriment, medriment, mefriment, metriment, mereiment, merdiment, merfiment, mertiment, merrument, merrjment, merrkment, merroment, merrinent, merrijent, merrikent, merrimwnt, merrimsnt, merrimdnt, merrimrnt, merrimebt, merrimeht, merrimejt, merrimemt, merrimenr, merrimenf, merrimeng, merrimeny
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

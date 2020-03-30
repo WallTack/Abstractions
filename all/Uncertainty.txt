@@ -1,0 +1,533 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>uncertainty</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/1/45/11521.jpg" alt="GLORIOUS UNCERTAINTY">
+							<div class="caption">GLORIOUS UNCERTAINTY</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">uncertainty</span> <span class="exp">being unsettled or in doubt or dependent on chance</span> <span class="quot">"the uncertainty of the outcome","the precariousness of his income"</span></li><li><span class="tSpeech">n</span> <span class="term">uncertainty</span> <span class="exp">the state of being unsure of something</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Uncertainty</span> <span class="exp">That which is uncertain; something unknown.</span> <span class="wuQuot">"Our shepherd's case is every man's case that quits a moral certainty for an uncertainty ."</span></li><li><span class="term">Uncertainty</span> <span class="exp">The quality or state of being uncertain.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">uncertainty</span> <span class="exp">The character or state of being uncertain; want of certainty. Of things: the state of not being certainly known; absence of certain knowledge; doubtfulness; want of reliability; precariousness.</span> </li><li><span class="tSpeech">n</span> <span class="term">uncertainty</span> <span class="exp">Of persons: a state of doubt; a state in which one knows not what to think or do; hesitation; irresolution.</span> </li><li><span class="tSpeech">n</span> <span class="term">uncertainty</span> <span class="exp">Something not certainly or exactly known; anything not determined, settled, or established; a contingency.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Uncertainty</span> <span class="exp">state of being uncertain or doubtful: want of certainty: that which is uncertain</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Burns</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Robert%20Burns.jpg" alt="Robert%20Burns">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no such uncertainty as a sure thing.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mark Twain</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mark%20Twain.jpg" alt="Mark%20Twain">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Education is the path from cocky ignorance to miserable uncertainty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Congreve</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Congreve.jpg" alt="William%20Congreve">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Uncertainty and expectation are the joys of life.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Huston Finley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Huston Finley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Maturity is the capacity to endure uncertainty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sir William Osler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sir%20William%20Osler.jpg" alt="Sir%20William%20Osler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Medicine is a science of uncertainty and an art of probability.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Hubert H. Humphrey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Hubert%20H.%20Humphrey.jpg" alt="Hubert%20H.%20Humphrey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I think the worst thing this nation could do for humanity would be to leave any uncertainty as to our will, our purpose and our capacity to carry out our purpose.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Above all, there was an alarming sense of uncertainty in everything.
+					</div>
+					<div class="uAuthor">
+						"When Knighthood Was in Flower" by <span>Charles Major</span>					</div>
+										<div class="usage">
+						Deliberation is the necessary effect of the uncertainty in which we find ourselves with reference to the results of our actions.
+					</div>
+					<div class="uAuthor">
+						"Superstition In All Ages (1732)" by <span>Jean Meslier</span>					</div>
+										<div class="usage">
+						The actual chemical reactions become very complex and are somewhat shrouded in uncertainty.
+					</div>
+					<div class="uAuthor">
+						"Artificial Light" by <span>M. Luckiesh</span>					</div>
+										<div class="usage">
+						His hell was uncertainty.
+					</div>
+					<div class="uAuthor">
+						"Romance" by <span>Joseph Conrad and F.M. Hueffer</span>					</div>
+										<div class="usage">
+						In a man of his type excitement is the child of uncertainty.
+					</div>
+					<div class="uAuthor">
+						"Bella Donna" by <span>Robert Hichens</span>					</div>
+										<div class="usage">
+						Her eyes, wide-open, questioning, seemed to sense my uncertainty.
+					</div>
+					<div class="uAuthor">
+						"The Devil's Own" by <span>Randall Parrish</span>					</div>
+										<div class="usage">
+						The Lord James took worst of all with the uncertainty and confinement.
+					</div>
+					<div class="uAuthor">
+						"The Black Douglas" by <span>S. R. Crockett</span>					</div>
+										<div class="usage">
+						Similar uncertainties arise with respect to the relative movement of two objects, the eye being supposed to be fixed in space.
+					</div>
+					<div class="uAuthor">
+						"Illusions" by <span>James Sully</span>					</div>
+										<div class="usage">
+						There has been some uncertainty on the point whether Nathaniel Davenport was a son of Richard, the commandant at the castle.
+					</div>
+					<div class="uAuthor">
+						"Salem Witchcraft, Volumes I and II" by <span>Charles Upham</span>					</div>
+										<div class="usage">
+						Whether his death came soon or late after 229 A.D. is a matter of some uncertainty.
+					</div>
+					<div class="uAuthor">
+						"Dio's Rome, Volume 1 (of 6)" by <span>Cassius Dio</span>					</div>
+										<div class="usage">
+						The pitch darkness shrouded every action with a ghastly uncertainty.
+					</div>
+					<div class="uAuthor">
+						""Contemptible"" by <span>"Casualty"</span>					</div>
+										<div class="usage">
+						The audacity and fervour of attack had passed over to them, while the French exhibited the uncertainty and timidity of defence.
+					</div>
+					<div class="uAuthor">
+						"History of the Expedition to Russia" by <span>Count Philip de Segur</span>					</div>
+										<div class="usage">
+						Unless something new should come to light, I do not think many people will even feel the least uncertainty on the subject.
+					</div>
+					<div class="uAuthor">
+						"A Canadian Heroine, Volume 2" by <span>Mrs. Harry Coghill</span>					</div>
+										<div class="usage">
+						We were not left for very long in this maddening uncertainty.
+					</div>
+					<div class="uAuthor">
+						"Sixteen Months in Four German Prisons" by <span>Henry Charles Mahoney</span>					</div>
+										<div class="usage">
+						House builders had ceased to build houses while the vast cloud of European uncertainty hung over the nation.
+					</div>
+					<div class="uAuthor">
+						"The Hidden Places" by <span>Bertrand W. Sinclair</span>					</div>
+										<div class="usage">
+						The uncertainty was worse than the danger itself.
+					</div>
+					<div class="uAuthor">
+						"In the Field (1914-1915)" by <span>Marcel Dupont</span>					</div>
+										<div class="usage">
+						What won him was not you alone, or love, alone; it was his uncertainty of both that fascinated him.
+					</div>
+					<div class="uAuthor">
+						"The Danger Mark" by <span>Robert W. Chambers</span>					</div>
+										<div class="usage">
+						Then I am still in great uncertainty as to what my cousin may do.
+					</div>
+					<div class="uAuthor">
+						"A Crooked Path" by <span>Mrs. Alexander</span>					</div>
+										<div class="usage">
+						A young man came toward him with the uncertainty of manner that short-sight gives.
+					</div>
+					<div class="uAuthor">
+						"Debit and Credit" by <span>Gustav Freytag</span>					</div>
+										<div class="usage">
+						But Erasmus, as the tempest rose, could but stand still in feeble uncertainty.
+					</div>
+					<div class="uAuthor">
+						"Short Studies on Great Subjects" by <span>James Anthony Froude</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							If I speak gruffly, this mood is<br>
+Mere indignation at my own<br>
+Shortcomings, plagues, uncertainties;<br>
+I forget the gentler tone.
+							<div class="poet">"Sullen Moods" by <span>Robert Graves</span></div>
+						</div>
+											<div class="poemQuote">
+							You had your searches, your uncertainties,<br>
+And this is good to know for us, I mean,<br>
+Who bear the brunt of our America<br>
+And try to wrench her impulse into art.
+							<div class="poet">"To Whistler, American" by <span>Ezra Pound</span></div>
+						</div>
+											<div class="poemQuote">
+							It will not be to-day and yet<br>
+I think and dream it will; and let<br>
+The slow uncertainty devise<br>
+So many sweet excuses, met<br>
+With the old doubt in hope's disguise.
+							<div class="poet">"Uncertainty" by <span>Madison Julius Cawein</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh, life and death, uncertainty,<br>
+Bright hopes and anxious fears,<br>
+Commingle so bewilderingly,<br>
+That perfect joy we may not see<br>
+Till all shall reunited be<br>
+Beyond this vale of tears!
+							<div class="poet">"Sorrow And Joy" by <span>Hattie Howard</span></div>
+						</div>
+											<div class="poemQuote">
+							I pray you, Daya, once for all, to end<br>
+This dire uncertainty. But if you doubt<br>
+Whether what 'tis your purpose to reveal<br>
+Be right or wrong, be praiseworthy or shameful,<br>
+Speak not--I will forget that you have had<br>
+Something to hide.
+							<div class="poet">"Nathan The Wise  -  Act III" by <span>Gotthold Ephraim Lessing</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The smoke is long gone, but a cloud of uncertainty remains.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kgun9.com/news/local/160788895.html" target="_blank" rel="external nofollow">kgun9.com</a>
+					</div>
+										<div class="usage">
+						And a downpour at the Wyndham Championship meant another day of uncertainty for others on the playoff bubble.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/sports/golf/headlines/20120819-rain-forces-sergio-garcia-to-wait-one-more-day-for-shot-at-snapping-five-year-drought.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						With gasoline and food prices skyrocketing while real estate values are sinking, the public is experiencing financial uncertainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.denpubs.com/news/2008/jun/21/geraghtys-not-spouting-buzz-words-hes-grinding/" target="_blank" rel="external nofollow">denpubs.com</a>
+					</div>
+										<div class="usage">
+						There's less uncertainty on the political landscape.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/blogs/rick-newman/2012/11/7/the-fiscal-cliff-just-got-steeper.html" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						The desire of Airbus and Boeing to expand production is putting a considerable strain on their suppliers, especially in light of ongoing global economic sluggishness and uncertainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.airportbusiness.com/press_release/10739527/airbus-boeing-airplane-production-rates-straining-supply-chain" target="_blank" rel="external nofollow">airportbusiness.com</a>
+					</div>
+										<div class="usage">
+						Uncertainty is stunting growth of the American economy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://timeswv.com/local/x699457935/McKinley-Uncertainty-is-stunting-growth-of-the-American-economy" target="_blank" rel="external nofollow">timeswv.com</a>
+					</div>
+										<div class="usage">
+						STP1541 Uncertainty in Fire Standards and What to Do About It.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.astm.org/DIGITAL_LIBRARY/SYMPOSIA/PAGES/160616062011E05.htm" target="_blank" rel="external nofollow">astm.org</a>
+					</div>
+										<div class="usage">
+						Power struggles leave Sri Lanka in uncertainty as politics replaces war as divisive force.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/study-abroad/100815/sri-lanka-tamil-tigers-civil-war-mahinda-rajapaksa" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						One way to mitigate the effect of uncertainty and disturbance is to dynamically schedule the plan online, through dispatchable execution.
+					</div>
+					<div class="uAuthor">
+						<a href="http://aaai.org/Library/ICAPS/2008/icaps08-040.php" target="_blank" rel="external nofollow">aaai.org</a>
+					</div>
+										<div class="usage">
+						Bloom's new story collection doles out doses of strength for times of uncertainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/news/arts/la-ca-amy-bloom24-2010jan24,0,5360273.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						His time was one of great national grief and uncertainty, and he retreats to the temple to try and recover a sense of perspective and peace of mind.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.christiancentury.org/article/2010-01/theophany" target="_blank" rel="external nofollow">christiancentury.org</a>
+					</div>
+										<div class="usage">
+						Yet even in such certainty lies uncertainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2005/11/06/education/edlife/quiz.1.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Public broadcasters face multiple and serious uncertainties on Capitol Hill over the next few months.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.current.org/2012/08/thicket-of-uncertainty-for-federal-aid/" target="_blank" rel="external nofollow">current.org</a>
+					</div>
+										<div class="usage">
+						But on its fragile northern peninsula, Udayarani Sebastian Pillai today lives on the cliff-edge of uncertainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2005/12/25/international/asia/25tsunami.html?_r=0&amp;pagewanted=all" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Republicans have been saying that businesses aren't hiring because of uncertainty about regulation, the cost of health insurance and the cost of borrowing money.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/newshour/bb/business/july-dec11/makingsense_12-02.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The shown uncertainties result from a linear error propagation of the given experimental uncertainties in P (θ) and Q(θ). 
+					</div>
+					<div class="uAuthor">
+						Violation of pseudospin symmetry in nucleon-nucleus scattering: exact relations
+					</div>
+										<div class="usage">
+						Considering the relatively small uncertainty of the IRAS responsivity at sub-degree scales we estimate that the overall uncertainty on the IRIS calibration is dominated by the uncertainty on the DIRBE data (including the uncertainty on the zodiacal model). 
+					</div>
+					<div class="uAuthor">
+						IRIS: A new generation of IRAS maps
+					</div>
+										<div class="usage">
+						This leaves uncertainty in ΩM and ΩΛ as the dominant source of cosmological uncertainty in the numeric rV value found by this study. 
+					</div>
+					<div class="uAuthor">
+						Rates and Progenitors of Type Ia Supernovae
+					</div>
+										<div class="usage">
+						For this nearby search, the uncertainty in ΩM and ΩΛ contributes ±2.4% to the systematic uncertainty in either rV or rL . 
+					</div>
+					<div class="uAuthor">
+						Rates and Progenitors of Type Ia Supernovae
+					</div>
+										<div class="usage">
+						The total uncertainty ∆X tot max of the reconstructed depth of shower maximum is composed of several contributions which, in general, vary from event to event. A conservative estimate of the current Xmax uncertainties gives ∆X tot max ≃ 40 g cm−2 . 
+					</div>
+					<div class="uAuthor">
+						Upper limit on the primary photon fraction from the Pierre Auger Observatory
+					</div>
+										<div class="usage">
+						The uncertainty in extrapolating the photonuclear cross-section to highest photon energies imposes a systematic uncertainty in photon shower simulations both for ﬂuoresce nce light and ground particle observations [19, 4]. 
+					</div>
+					<div class="uAuthor">
+						Upper limit on the primary photon fraction from the Pierre Auger Observatory
+					</div>
+										<div class="usage">
+						The uncertainty is an rms sum of the partial uncertainties. 
+					</div>
+					<div class="uAuthor">
+						Precision physics of simple atoms: QED tests, nuclear structure and fundamental constants
+					</div>
+										<div class="usage">
+						In particular, the uncertainty of unknown two-loop contributions is taken from [230], where the theoretical uncertainty was reasonably estimated for the ﬁrst time. 
+					</div>
+					<div class="uAuthor">
+						Precision physics of simple atoms: QED tests, nuclear structure and fundamental constants
+					</div>
+										<div class="usage">
+						The error bars are the combination of the uncertainties on the index measurements given the data dispersion and the uncertainties from deconvolution (see Section 4.1). 
+					</div>
+					<div class="uAuthor">
+						On-axis spectroscopy of the host galaxies of 20 optically luminous quasars at z~0.3
+					</div>
+										<div class="usage">
+						An uncertainty in the X γ max values predicted from photon simulations results from the uncertainty in the reconstructed primary energy. 
+					</div>
+					<div class="uAuthor">
+						An upper limit to the photon fraction in cosmic rays above 10^19 eV from the Pierre Auger Observatory
+					</div>
+										<div class="usage">
+						Complex systems may be sub ject to various uncertainties. A great effort has been concentrated on predicting the dynamics under uncertainty in initial conditions. 
+					</div>
+					<div class="uAuthor">
+						Predictability of the Burgers dynamics under model uncertainty
+					</div>
+										<div class="usage">
+						Uncertainties in the model S/N values are calculated directly from the uncertainties in the observed ﬂux densities. 
+					</div>
+					<div class="uAuthor">
+						The Parkes multibeam pulsar survey: VI. Discovery and timing of 142 pulsars and a Galactic population analysis
+					</div>
+										<div class="usage">
+						We consider a simple quantum mechanical model where the operator corresponding to position has discrete eigenvalues and show how the generalized uncertainty principle results for minimum uncertainty wave packets. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics and the Generalized Uncertainty Principle
+					</div>
+										<div class="usage">
+						For a more general state that does not necessarily saturate the uncertainty relation, one does not expect the ratio hp4 i/hp2 i2 to be a ﬁxed constant (for the minimum uncertainty wave packet it is 3). 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics and the Generalized Uncertainty Principle
+					</div>
+										<div class="usage">
+						In this section we calculate expectation values for the minimal uncertainty wave packets that appear in the uncertainty relation in Eq. (35). 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics and the Generalized Uncertainty Principle
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="being unsettled or in doubt or dependent on chance"><a href="uncertainness.html">uncertainness</a>, <a href="precariousness.html">precariousness</a>, </div><div class="synGroup" title="the state of being unsure of something"><a href="incertitude.html">incertitude</a>, <a href="dubiety.html">dubiety</a>, <a href="doubtfulness.html">doubtfulness</a>, <a href="dubiousness.html">dubiousness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="certainty.html">certainty</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="cognitive%20state.html">cognitive state</a>, <a href="quality.html">quality</a>, <a href="state%20of%20mind.html">state of mind</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="arriere%20pensee.html">arriere pensee</a>, <a href="disbelief.html">disbelief</a>, <a href="distrust.html">distrust</a>, <a href="doubt.html">doubt</a>, <a href="doubtfulness.html">doubtfulness</a>, <a href="dubiousness.html">dubiousness</a>, <a href="fortuitousness.html">fortuitousness</a>, <a href="improbability.html">improbability</a>, <a href="improbableness.html">improbableness</a>, <a href="incredulity.html">incredulity</a>, <a href="indecision.html">indecision</a>, <a href="indecisiveness.html">indecisiveness</a>, <a href="indefiniteness.html">indefiniteness</a>, <a href="indefinity.html">indefinity</a>, <a href="indeterminacy.html">indeterminacy</a>, <a href="indeterminateness.html">indeterminateness</a>, <a href="indetermination.html">indetermination</a>, <a href="irresolution.html">irresolution</a>, <a href="mental%20rejection.html">mental rejection</a>, <a href="mental%20reservation.html">mental reservation</a>, <a href="misgiving.html">misgiving</a>, <a href="mistrust.html">mistrust</a>, <a href="peradventure.html">peradventure</a>, <a href="question.html">question</a>, <a href="reservation.html">reservation</a>, <a href="skepticism.html">skepticism</a>, <a href="speculativeness.html">speculativeness</a>, <a href="suspense.html">suspense</a>, <a href="suspicion.html">suspicion</a>, <a href="unpredictability.html">unpredictability</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="doubt.html">doubt</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Acatalepsy.html">Acatalepsy</a>, <a href="afflict.html">afflict</a>, <a href="agony.html">agony</a>, <a href="ambiguity.html">ambiguity</a>, <a href="amphibology.html">amphibology</a>, <a href="Andabatism.html">Andabatism</a>, <a href="anxiously.html">anxiously</a>, <a href="assure.html">assure</a>, <a href="at%20a%20loss.html">at a loss</a>, <a href="certain.html">certain</a>, <a href="chance.html">chance</a>, <a href="check.html">check</a>, <a href="closure.html">closure</a>, <a href="construction.html">construction</a>, <a href="darkly.html">darkly</a>, <a href="decided.html">decided</a>, <a href="demur.html">demur</a>, <a href="Depending.html">Depending</a>, <a href="dilemma.html">dilemma</a>, <a href="disorientation.html">disorientation</a>, <a href="dissipate.html">dissipate</a>, <a href="doubt.html">doubt</a>, <a href="Doubtance.html">Doubtance</a>, <a href="doubtful.html">doubtful</a>, <a href="doubtfulness.html">doubtfulness</a>, <a href="doubtless.html">doubtless</a>, <a href="dubiety.html">dubiety</a>, <a href="dubious.html">dubious</a>, <a href="dubiousness.html">dubiousness</a>, <a href="Dubitancy.html">Dubitancy</a>, <a href="electrum.html">electrum</a>, <a href="eminent.html">eminent</a>, <a href="entropy.html">entropy</a>, <a href="epistemic%20logic.html">epistemic logic</a>, <a href="fault.html">fault</a>, <a href="fear.html">fear</a>, <a href="flutist.html">flutist</a>, <a href="flutter.html">flutter</a>, <a href="flux.html">flux</a>, <a href="fugacity.html">fugacity</a>, <a href="gall.html">gall</a>, <a href="gamble.html">gamble</a>, <a href="groping.html">groping</a>, <a href="guess.html">guess</a>, <a href="hand.html">hand</a>, <a href="Hang%20in%20doubt.html">Hang in doubt</a>, <a href="haze.html">haze</a>, <a href="Heisenberg.html">Heisenberg</a>, <a href="hesitate.html">hesitate</a>, <a href="hesitation.html">hesitation</a>, <a href="identity%20crisis.html">identity crisis</a>, <a href="Incertainty.html">Incertainty</a>, <a href="incertitude.html">incertitude</a>, <a href="indecision.html">indecision</a>, <a href="Indistinction.html">Indistinction</a>, <a href="indistinctness.html">indistinctness</a>, <a href="inexactitude.html">inexactitude</a>, <a href="infallible.html">infallible</a>, <a href="information.html">information</a>, <a href="insecure.html">insecure</a>, <a href="insecurity.html">insecurity</a>, <a href="limbo.html">limbo</a>, <a href="limbus.html">limbus</a>, <a href="maybe.html">maybe</a>, <a href="maze.html">maze</a>, <a href="obscurity.html">obscurity</a>, <a href="pause.html">pause</a>, <a href="peradventure.html">peradventure</a>, <a href="perspective.html">perspective</a>, <a href="precariousness.html">precariousness</a>, <a href="problem.html">problem</a>, <a href="punctuation.html">punctuation</a>, <a href="quandary.html">quandary</a>, <a href="question.html">question</a>, <a href="satisfactory.html">satisfactory</a>, <a href="satisfy.html">satisfy</a>, <a href="satisfying.html">satisfying</a>, <a href="sea.html">sea</a>, <a href="selective%20information.html">selective information</a>, <a href="settle.html">settle</a>, <a href="skepticism.html">skepticism</a>, <a href="Soricident.html">Soricident</a>, <a href="speculate.html">speculate</a>, <a href="state.html">state</a>, <a href="state%20of%20flux.html">state of flux</a>, <a href="stop.html">stop</a>, <a href="sure.html">sure</a>, <a href="suspense.html">suspense</a>, <a href="Tickleness.html">Tickleness</a>, <a href="To%20be%20at%20a%20loss.html">To be at a loss</a>, <a href="tremble.html">tremble</a>, <a href="Unconfidence.html">Unconfidence</a>, <a href="Undoubting.html">Undoubting</a>, <a href="unsettled.html">unsettled</a>, <a href="Unsurety.html">Unsurety</a>, <a href="waffle.html">waffle</a>, <a href="waver.html">waver</a>, <a href="Werner%20Karl%20Heisenberg.html">Werner Karl Heisenberg</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					yncertainty, hncertainty, jncertainty, incertainty, ubcertainty, uhcertainty, ujcertainty, umcertainty, unxertainty, undertainty, unfertainty, unvertainty, uncwrtainty, uncsrtainty, uncdrtainty, uncrrtainty, unceetainty, uncedtainty, unceftainty, uncettainty, uncerrainty, uncerfainty, uncergainty, unceryainty, uncertqinty, uncertwinty, uncertsinty, uncertzinty, uncertaunty, uncertajnty, uncertaknty, uncertaonty, uncertaibty, uncertaihty, uncertaijty, uncertaimty, uncertainry, uncertainfy, uncertaingy, uncertainyy, uncertaintt, uncertaintg, uncertainth, uncertaintu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

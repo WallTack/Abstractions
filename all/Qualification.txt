@@ -1,0 +1,462 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>qualification</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">the act of modifying or changing the strength of some idea</span> <span class="quot">"his new position involves a qualification of his party's platform"</span></li><li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">an attribute that must be met or complied with and that fits a person for something</span> <span class="quot">"her qualifications for the job are excellent","one of the qualifications for admission is an academic degree","she has the makings of fine musician"</span></li><li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">a statement that limits or restricts some claim</span> <span class="quot">"he recommended her without any reservations"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Qualification</span> <span class="exp">That which qualifies; any natural endowment, or any acquirement, which fits a person for a place, office, or employment, or which enables him to sustian any character with success; an enabling quality or circumstance; requisite capacity or possession.</span> <span class="wuQuot">"There is no qualification for government but virtue and wisdom, actual or presumptive."</span></li><li><span class="term">Qualification</span> <span class="exp">The act of limiting, or the state of being limited; that which qualifies by limiting; modification; restriction; hence, abatement; diminution; as, to use words without any <span class="wUex">qualification</span>
+            .</span> </li><li><span class="term">Qualification</span> <span class="exp">The act of qualifying, or the condition of being qualified.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">The act of qualifying, or the state of being qualified, by change or modification; specifically, adaptation; fitness.</span> </li><li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">A quality adapting a person or thing to particular circumstances, uses, or ends.</span> </li><li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">That which qualifies a person for or renders him admissible to or acceptable for a place, an office, or an employment: any natural or acquired quality, property, or possession which secures a right to exercise any function, privilege, etc.; specifically, legal power or ability: as, the qualifications of an elector.</span> </li><li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">In logic, the attaching of quality, or the distinction of affirmative and negative, to a term.</span> </li><li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">A qualifying—that is, partially negativing or extenuating—circumstance; modification; restriction; limitation; allowance; abatement: as, to assert something without any qualification.</span> </li><li><span class="tSpeech">n</span> <span class="term">qualification</span> <span class="exp">Appeasement; pacification.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Qualification</span> <span class="exp">that which qualifies: a quality that fits a person for a place, &amp;c.: :</span> </li><li><span class="tSpeech">ns</span> <span class="term">Qualification</span> <span class="exp">(<span class="itl">logic</span>) the attaching of quality, or the distinction of affirmative and negative, to a term: abatement</span> </li><li><span class="tSpeech">ns</span> <span class="term">Qualification</span> <span class="exp">(<span class="itl">Shak.</span>) pacification</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arthur Schopenhauer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Arthur%20Schopenhauer.jpg" alt="Arthur%20Schopenhauer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In action a great heart is the chief qualification. In work, a great head.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Roger Lewis</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Roger Lewis">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I think that one of the qualifications of artists should be a vow of celibacy. They should be confined to ruining only their own lives.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Milton S. Eisenhower</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Milton S. Eisenhower">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Disregard for human beings is the first qualification of a dictator.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Harriet Martineau</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Harriet%20Martineau.jpg" alt="Harriet%20Martineau">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What office is there which involves more responsibility, which requires more qualifications, and which ought, therefore, to be more honorable, than that of teaching?”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">qualification</span>,. See <span class="wUer">Qualify</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—Low L. <i>qualificāre</i>—L. <i>qualis</i>, of what sort, <i>facĕre</i>, to make.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He also wished to abolish the property qualification for state senators.
+					</div>
+					<div class="uAuthor">
+						"The Journal of Negro History, Volume 5, 1920" by <span>Various</span>					</div>
+										<div class="usage">
+						They are merely secondary qualifications.
+					</div>
+					<div class="uAuthor">
+						"The Young Man's Guide" by <span>William A. Alcott</span>					</div>
+										<div class="usage">
+						On these two apparently simple qualifications hang all the science and art of our vocation.
+					</div>
+					<div class="uAuthor">
+						"The Preacher and His Models" by <span>James Stalker</span>					</div>
+										<div class="usage">
+						The qualifications necessary for electors in towns and counties were much too high.
+					</div>
+					<div class="uAuthor">
+						"The Rise of Canada, from Barbarism to Wealth and Civilisation" by <span>Charles Roger</span>					</div>
+										<div class="usage">
+						Here a qualification must be made.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books--Volume 14--Philosophy and Economics" by <span>Various</span>					</div>
+										<div class="usage">
+						The Vice President of the United States must have the same qualifications as the President.
+					</div>
+					<div class="uAuthor">
+						"Citizenship" by <span>Emma Guy Cromwell</span>					</div>
+										<div class="usage">
+						A minister has age: he has then one great qualification for the work.
+					</div>
+					<div class="uAuthor">
+						"Thoughts on Missions" by <span>Sheldon Dibble</span>					</div>
+										<div class="usage">
+						The best qualification for a teacher is infinite contrivance in high bureaus.
+					</div>
+					<div class="uAuthor">
+						"The Lost Art of Reading" by <span>Gerald Stanley Lee</span>					</div>
+										<div class="usage">
+						Different communities and circles require, to some extent, different qualifications.
+					</div>
+					<div class="uAuthor">
+						"How To Behave: A Pocket Manual Of Republican Etiquette, And Guide To Correct Personal Habits" by <span>Samuel R Wells</span>					</div>
+										<div class="usage">
+						It is a very profitable line of work for dancers of the right qualifications.
+					</div>
+					<div class="uAuthor">
+						"The Art of Stage Dancing" by <span>Ned Wayburn</span>					</div>
+										<div class="usage">
+						But these qualifications were before long abandoned.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 3, Part 1, Slice 3" by <span>Various</span>					</div>
+										<div class="usage">
+						His qualifications for the post of Prime Minister were not open to challenge.
+					</div>
+					<div class="uAuthor">
+						"Lord John Russell" by <span>Stuart J. Reid</span>					</div>
+										<div class="usage">
+						There would be no difficulty in obtaining this right of suffrage If it depended on a property qualification.
+					</div>
+					<div class="uAuthor">
+						"History of Woman Suffrage, Volume II"					</div>
+										<div class="usage">
+						With this qualification Calhoun's contention was correct.
+					</div>
+					<div class="uAuthor">
+						"The Spirit of American Government" by <span>J. Allen Smith</span>					</div>
+										<div class="usage">
+						Qualifications in the scientific world are becoming tighter every day.
+					</div>
+					<div class="uAuthor">
+						"The Great Gray Plague" by <span>Raymond F. Jones</span>					</div>
+										<div class="usage">
+						For he was one accomplished with almost every qualification natural or acquired, necessary to complete both a man and a Christian.
+					</div>
+					<div class="uAuthor">
+						"Biographia Scoticana (Scots Worthies)" by <span>John Howie</span>					</div>
+										<div class="usage">
+						Besides other qualifications, there was the condition of a formal examination.
+					</div>
+					<div class="uAuthor">
+						"The Evolution of Modern Capitalism" by <span>John Atkinson Hobson</span>					</div>
+										<div class="usage">
+						To achieve such importance a writer must possess many qualifications.
+					</div>
+					<div class="uAuthor">
+						"German Problems and Personalities" by <span>Charles Sarolea</span>					</div>
+										<div class="usage">
+						A rare combination of qualifications was demanded.
+					</div>
+					<div class="uAuthor">
+						"The American Missionary -- Volume 39, No. 08, August, 1885" by <span>Various</span>					</div>
+										<div class="usage">
+						But Mr. Burke's clauses have not even this qualification in their favour.
+					</div>
+					<div class="uAuthor">
+						"The Writings Of Thomas Paine, Complete" by <span>Thomas Paine</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Blaine City Council candidates lay out qualifications.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.twincities.com/localnews/ci_21717185/vote-2012-blaine-city-council-candidates-lay-out?source=rss" target="_blank" rel="external nofollow">twincities.com</a>
+					</div>
+										<div class="usage">
+						Qualifications LVN with a minumum of 1 year of patient care experience.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kwtx.com/jobsearch/featuredjobs/161834155.html" target="_blank" rel="external nofollow">kwtx.com</a>
+					</div>
+										<div class="usage">
+						 Linden gets a 'new season' thanks to playoff qualification rules.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/hssports/blog/football/index.ssf/2012/11/football_state_playoffs_linden_gets_a_new_season_thanks_to_playoff_qualification_rules.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Now in its second decade, the three Ying siblings are joined by first violinist Ayano Ninomiya for an ensemble of the highest musical qualifications.
+					</div>
+					<div class="uAuthor">
+						<a href="http://ksmu.org/article/pro-musica-joplin-presents-ying-string-quartet-mar3rd" target="_blank" rel="external nofollow">ksmu.org</a>
+					</div>
+										<div class="usage">
+						In her Florida Bar trial this week, former Broward Circuit Judge Ana Gardiner provided an interesting explanation for why she misled the Judicial Qualifications Commission about the extent of her relationship with a prosecutor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.local10.com/news/blogs/bobnorman/Former-judge-defines-what-social-means/-/3223354/17605010/-/format/rss_2.0/view/print/-/129rl61/-/index.html" target="_blank" rel="external nofollow">local10.com</a>
+					</div>
+										<div class="usage">
+						Qualifications Nursing Baccalaureate degree (BSN) from an accredited school of nursing required.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nurse.com/jobs/1075170-staff-nurse-float-pool-nursing-float-cherry-hill-at-swedish-medical-center-in-seattle-wa" target="_blank" rel="external nofollow">nurse.com</a>
+					</div>
+										<div class="usage">
+						Hey, I've met the age qualification.
+					</div>
+					<div class="uAuthor">
+						<a href="http://thedailystar.com/columns/x728819865/Waiting-for-the-wisdom-of-old-age-to-kick-in/print" target="_blank" rel="external nofollow">thedailystar.com</a>
+					</div>
+										<div class="usage">
+						Request for Qualifications for On-Call Transportation Planning Services (RFQ 12/13-02).
+					</div>
+					<div class="uAuthor">
+						<a href="http://sfbayview.com/2012/sfcta-seeks-on-call-transportation-planning-services/" target="_blank" rel="external nofollow">sfbayview.com</a>
+					</div>
+										<div class="usage">
+						If you are interested in attending, contact patti@drj.com to verify qualifications.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.drj.com/springworld2012/conference/one-day-track.html" target="_blank" rel="external nofollow">drj.com</a>
+					</div>
+										<div class="usage">
+						Based on qualifications and experience.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.abc4.com/content/about_4/jobs/story/Master-Control-Operator/R9oZ2exquUupJR4lHgw-7g.cspx?rss=2450" target="_blank" rel="external nofollow">abc4.com</a>
+					</div>
+										<div class="usage">
+						Qualifications include, but not limited to, strong computer skills, detailed oriented, ability to problem solve, strong work ethic, and able to multitask.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kadn.com/jobs/part-time-master-control-operator" target="_blank" rel="external nofollow">kadn.com</a>
+					</div>
+										<div class="usage">
+						Referendum L on the November ballot would drop the age qualification for members of Colorado's House and Senate from 25 to 21.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.coloradostatesman.com/kopel/state-standards-legislators-a-patchwork" target="_blank" rel="external nofollow">coloradostatesman.com</a>
+					</div>
+										<div class="usage">
+						Get a free preview of any Certificate of Added Qualification (CAQ) course now.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.acacamps.org/blog/counselors/preview-any-caq-now" target="_blank" rel="external nofollow">acacamps.org</a>
+					</div>
+										<div class="usage">
+						 Qualification Targets manufactures and markets firearms training targets for law enforcement agencies including silhouettes, bullseyes, tactical (both black/white and full color), sniper, mannequin and qualification targets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.officer.com/company/10030002/qualification-targets-inc" target="_blank" rel="external nofollow">officer.com</a>
+					</div>
+										<div class="usage">
+						The US Coast Guard's National Maritime Center has issued a Policy Letter entitled Qualifications for Deck and Engineering Ratings.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marinelink.com/news/article/qualification-for-u-s-deck-and-engineering-ratings/317836.aspx" target="_blank" rel="external nofollow">marinelink.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Furthermore, the telescope-mask system must be suitable for some level of ground qualification test. Ground performance of any TEC telescope will depend on both gravity release fixturing, and on extensive precise modeling. 
+					</div>
+					<div class="uAuthor">
+						Coronographic Methods for the Detection of Terrestrial Planets
+					</div>
+										<div class="usage">
+						Riaud): visible, IR coronographic testbed, testing with AO telescopes. MIRI/JWST coronograph qualification and test bench. • OCA (Y. 
+					</div>
+					<div class="uAuthor">
+						Coronographic Methods for the Detection of Terrestrial Planets
+					</div>
+										<div class="usage">
+						Dembski’s arrogant remark that I and other critics of his work lack qualification to judge his paper does not sound convincing given his own insufficient familiarity with the literature in the field where he is supposed to offer important new results. Here starts my review of Bennett’s paper. 
+					</div>
+					<div class="uAuthor">
+						Defining Complexity: A Commentary to a paper by Charles H. Bennett
+					</div>
+										<div class="usage">
+						The qualification of one’s knowledge as relevant is meaningful only in context of specific tasks. 
+					</div>
+					<div class="uAuthor">
+						On challenges and opportunities of designing integrated IT platforms for supporting knowledge works in organizations
+					</div>
+										<div class="usage">
+						Rough Set Theory presents quite successful solutions for analysis and classifications of big data sets that consist of a large number of qualifications. By rule reduction technique; analyzing data becomes easier. 
+					</div>
+					<div class="uAuthor">
+						Prunnig Algorithm of Generation a Minimal Set of Rule Reducts Based on Rough Set Theory
+					</div>
+										<div class="usage">
+						By means of Bayes Classification on category, language and background qualification, it was found that whether new comer students will performer or not. 
+					</div>
+					<div class="uAuthor">
+						Data Mining: A Prediction for Performance Improvement of Engineering Students using Classification
+					</div>
+										<div class="usage">
+						The best way to do this is to convince a vendor that an initial loan machine is part of the purchase pre-qualification process. 
+					</div>
+					<div class="uAuthor">
+						Cluster Computing White Paper
+					</div>
+										<div class="usage">
+						In summary, in his criticisms, Donald fails to understand the key mechanism of our hypothesis and overlooks many of the qualification we made in our analysis. However, we are grateful for Donald for his serious attempt to consider the dynamics of biological systems at the quantum level. 
+					</div>
+					<div class="uAuthor">
+						Comment on Book Review of `Quantum Evolution' (Johnjoe McFadden) by Mathew J. Donald
+					</div>
+										<div class="usage">
+						The development and qualification of appropriate models will require significant computing resources primarily in terms of grid resources. 
+					</div>
+					<div class="uAuthor">
+						Roadmap for ILC Detector R&amp;D Test Beams
+					</div>
+										<div class="usage">
+						Failure mechanisms accelerated by temperature cycling include die cracking, package cracking, neck/heel/wire breaks, and bond lifting. For reliability testing or qualification of new devices, 1000 temp cycles are usually performed, with interim visual inspection and electrical test read points at 200X and 500X. 
+					</div>
+					<div class="uAuthor">
+						Vibration Combined High Temperature Cycle Tests for Capacitive MEMS Accelerometers
+					</div>
+										<div class="usage">
+						I. INTRODUCTION Acoustic Test Facility is a national facility for acoustic environmental qualification of satellites, launch vehicle stages and their subsystems for the ISRO . 
+					</div>
+					<div class="uAuthor">
+						Implementation of the Six Channel Redundancy to achieve fault tolerance in testing of satellites
+					</div>
+										<div class="usage">
+						Leindecker, et al. "UV LED Operation Lifetime and Radiation Hardness Qualification for Space Flights." Journal of Physics: Conference Series 154: 012028 (2009). 
+					</div>
+					<div class="uAuthor">
+						A quick test of the WEP enabled by a sounding rocket
+					</div>
+										<div class="usage">
+						To apply the U-test, we inserted the value b = 2.816 into F(x) = 1 – exp(-b·(x-h)) and calculated the p-values by equation (10). The result in Fig.20 shows that the qualification of the three largest agglomerations as DK among the 14 largest ones is marginally significant. 
+					</div>
+					<div class="uAuthor">
+						Robust Statistical Tests of Dragon-Kings beyond Power Law Distributions
+					</div>
+										<div class="usage">
+						Sadlak, Jan (ed) (2004) ‘Doctoral Studies and qualifications in Europe and the United States: Status and prospects’, Bucharest: UNESCO. 
+					</div>
+					<div class="uAuthor">
+						On the shoulders of students? The contribution of PhD students to the advancement of knowledge
+					</div>
+										<div class="usage">
+						Further types of quotation refinements can be observed in existing dictionaries and indeed, any kind of morpho-syntactic, syntactic or semantic information may be associated with quotations, as long as it provides a qualification for the corresponding usage. 
+					</div>
+					<div class="uAuthor">
+						TEI and LMF crosswalks
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an attribute that must be met or complied with and that fits a person for something"><a href="making.html">making</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="alteration.html">alteration</a>, <a href="fitness.html">fitness</a>, <a href="fittingness.html">fittingness</a>, <a href="revision.html">revision</a>, <a href="statement.html">statement</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="eligibility.html">eligibility</a>, <a href="fine%20print.html">fine print</a>, <a href="ineligibility.html">ineligibility</a>, <a href="small%20print.html">small print</a>, <a href="weasel%20word.html">weasel word</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="qualify.html">qualify</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="ability.html">ability</a>, <a href="able.html">able</a>, <a href="absolute.html">absolute</a>, <a href="absolutely.html">absolutely</a>, <a href="age.html">age</a>, <a href="Appropriament.html">Appropriament</a>, <a href="argument.html">argument</a>, <a href="arrant.html">arrant</a>, <a href="Arrestive.html">Arrestive</a>, <a href="Backbond.html">Backbond</a>, <a href="Base%20fee.html">Base fee</a>, <a href="calculus.html">calculus</a>, <a href="capable.html">capable</a>, <a href="capacity.html">capacity</a>, <a href="capital.html">capital</a>, <a href="Carpet-bagger.html">Carpet-bagger</a>, <a href="case.html">case</a>, <a href="casting.html">casting</a>, <a href="categorical.html">categorical</a>, <a href="categorically.html">categorically</a>, <a href="Chartism.html">Chartism</a>, <a href="Chartist.html">Chartist</a>, <a href="clean.html">clean</a>, <a href="competence.html">competence</a>, <a href="competent.html">competent</a>, <a href="complete.html">complete</a>, <a href="concourse.html">concourse</a>, <a href="condition.html">condition</a>, <a href="consummate.html">consummate</a>, <a href="cool.html">cool</a>, <a href="creditworthiness.html">creditworthiness</a>, <a href="custom.html">custom</a>, <a href="dead.html">dead</a>, <a href="diabetes.html">diabetes</a>, <a href="disability.html">disability</a>, <a href="disable.html">disable</a>, <a href="disablement.html">disablement</a>, <a href="disqualification.html">disqualification</a>, <a href="diurnal%20parallax.html">diurnal parallax</a>, <a href="double-dyed.html">double-dyed</a>, <a href="downright.html">downright</a>, <a href="eld.html">eld</a>, <a href="eligibility.html">eligibility</a>, <a href="encumbrance.html">encumbrance</a>, <a href="entirely.html">entirely</a>, <a href="everlasting.html">everlasting</a>, <a href="examination.html">examination</a>, <a href="faggot.html">faggot</a>, <a href="fagot.html">fagot</a>, <a href="fallacy.html">fallacy</a>, <a href="fit.html">fit</a>, <a href="fitness.html">fitness</a>, <a href="For.html">For</a>, <a href="fowl.html">fowl</a>, <a href="freeholder.html">freeholder</a>, <a href="full.html">full</a>, <a href="genius.html">genius</a>, <a href="geocentric%20parallax.html">geocentric parallax</a>, <a href="gross.html">gross</a>, <a href="Habilitation.html">Habilitation</a>, <a href="hound.html">hound</a>, <a href="Huntsmanship.html">Huntsmanship</a>, <a href="incapable.html">incapable</a>, <a href="incapacitate.html">incapacitate</a>, <a href="incapacity.html">incapacity</a>, <a href="inception.html">inception</a>, <a href="incompetency.html">incompetency</a>, <a href="incompetent.html">incompetent</a>, <a href="Inconditional.html">Inconditional</a>, <a href="isotherm.html">isotherm</a>, <a href="Landsthing.html">Landsthing</a>, <a href="leader.html">leader</a>, <a href="limitation.html">limitation</a>, <a href="mandate.html">mandate</a>, <a href="many.html">many</a>, <a href="merger.html">merger</a>, <a href="modification.html">modification</a>, <a href="Modus.html">Modus</a>, <a href="opener.html">opener</a>, <a href="out-and-out.html">out-and-out</a>, <a href="oxymoron.html">oxymoron</a>, <a href="perfect.html">perfect</a>, <a href="perfection.html">perfection</a>, <a href="perfectly.html">perfectly</a>, <a href="Plowgang.html">Plowgang</a>, <a href="positive.html">positive</a>, <a href="positive%20degree.html">positive degree</a>, <a href="Pot-walloper.html">Pot-walloper</a>, <a href="preparation.html">preparation</a>, <a href="probation.html">probation</a>, <a href="properly.html">properly</a>, <a href="properly%20speaking.html">properly speaking</a>, <a href="pure.html">pure</a>, <a href="qualified.html">qualified</a>, <a href="Qualified%20fee.html">Qualified fee</a>, <a href="Qualifiedly.html">Qualifiedly</a>, <a href="qualify.html">qualify</a>, <a href="rank.html">rank</a>, <a href="readiness.html">readiness</a>, <a href="record.html">record</a>, <a href="reformation.html">reformation</a>, <a href="restrictiveness.html">restrictiveness</a>, <a href="right-down.html">right-down</a>, <a href="rock.html">rock</a>, <a href="royal.html">royal</a>, <a href="sheer.html">sheer</a>, <a href="sheriff.html">sheriff</a>, <a href="shirting.html">shirting</a>, <a href="sodding.html">sodding</a>, <a href="special%20jury.html">special jury</a>, <a href="staring.html">staring</a>, <a href="stark.html">stark</a>, <a href="stimulant.html">stimulant</a>, <a href="sufficiency.html">sufficiency</a>, <a href="thoroughgoing.html">thoroughgoing</a>, <a href="Timocracy.html">Timocracy</a>, <a href="tissue.html">tissue</a>, <a href="Totient.html">Totient</a>, <a href="transversal.html">transversal</a>, <a href="trestlework.html">trestlework</a>, <a href="unadulterated.html">unadulterated</a>, <a href="unqualifiedly.html">unqualifiedly</a>, <a href="utter.html">utter</a>, <a href="utterly.html">utterly</a>, <a href="Verner%27s%20law.html">Verner's law</a>, <a href="weasel%20word.html">weasel word</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wualification, aualification, sualification, qyalification, qhalification, qjalification, qialification, quqlification, quwlification, quslification, quzlification, quakification, quaoification, quapification, qualufication, qualjfication, qualkfication, qualofication, qualidication, qualirication, qualigication, qualivication, qualicication, qualifucation, qualifjcation, qualifkcation, qualifocation, qualifixation, qualifidation, qualififation, qualifivation, qualificqtion, qualificwtion, qualificstion, qualificztion, qualificarion, qualificafion, qualificagion, qualificayion, qualificatuon, qualificatjon, qualificatkon, qualificatoon, qualificatiin, qualificatikn, qualificatiln, qualificatipn, qualificatiob, qualificatioh, qualificatioj
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

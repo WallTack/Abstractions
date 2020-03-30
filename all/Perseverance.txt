@@ -1,0 +1,526 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>perseverance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">perseverance</span> <span class="exp">the act of persisting or persevering; continuing or repeating behavior</span> <span class="quot">"his perseveration continued to the point where it was no longer appropriate"</span></li><li><span class="tSpeech">n</span> <span class="term">perseverance</span> <span class="exp">persistent determination</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										This is what the red, white, and blue on the US flag represent: The Continental Congress left no record to show why it chose the colors. However, in 1782, the Congress of the Confederation chose these same colors for the Great Seal of the United States and listed their meaning as follows: white to mean purity and innocence, red for valor and hardiness, and blue for vigilance, perseverance, and justice. According to legend, George Washington interpreted the elements of the flag this way: the stars were taken from the sky, the red from the British colors, and the white stripes signified the secession from the home country. However, there is no official designation or meaning for the colors of the flag.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Perseverance</span> <span class="exp"><span class="wuFld">(Theol)</span> Continuance in a state of grace until it is succeeded by a state of glory; sometimes called <span class="wUex">final perseverance</span>, and <span class="wUex">the perseverance of the saints</span>. See <span class="wUer">Calvinism</span>.</span> </li><li><span class="term">Perseverance</span> <span class="exp">Discrimination.</span> <span class="wuQuot">"Well spoken, with good accent and good discretion ."</span></li><li><span class="term">Perseverance</span> <span class="exp">The act of persevering; persistence in anything undertaken; continued pursuit or prosecution of any business, or enterprise begun.</span> <span class="wuQuot">"The king-becoming graces . . . perseverance , mercy, lowliness."</span><span class="wuQuot">"Whose constant perseverance overcame<br>
+Whate'er his cruel malice could invent."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">perseverance</span> <span class="exp">The act or habit of persevering; persistence in anything undertaken; continued pursuit or prosecution of any business or enterprise begun; steady persistency in any state or course of action: applied alike to good and evil.</span> </li><li><span class="tSpeech">n</span> <span class="term">perseverance</span> <span class="exp">In theology, continuance in a state of grace, leading finally to a state of glory: sometimes called final perseverance. See perseverance of the saints, below.</span> </li><li><span class="tSpeech">n</span> <span class="term">perseverance</span> <span class="exp">See perceiverance.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Perseverance</span> <span class="exp">act or state of persevering: continued application to anything which one has begun: a going on till success is met with</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Francis Quarles</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Francis%20Quarles.jpg" alt="Francis%20Quarles">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The road to perseverance lies by doubt.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Eliot.jpg" alt="George%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Allen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George Allen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Persevere and get it done.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Julie Andrews</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Julie Andrews">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Perseverance is failing 19 times and succeeding the 20th.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Ward Beecher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Ward%20Beecher.jpg" alt="Henry%20Ward%20Beecher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The difference between perseverance and obstinacy is that one often comes from a strong will, and the other from a strong won't.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Chesterfield</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Chesterfield.jpg" alt="Lord%20Chesterfield">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Persist and persevere, and you will find most things that are attainable, possible.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">persévérance</span>, L. <span class="wUets">perseverantia</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>perseverāre</i>—<i>perseverus</i>, very strict—<i>per</i>, very, <i>severus</i>, strict.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Let not sinners persevere in their obstinacy.
+					</div>
+					<div class="uAuthor">
+						"The Ordinance of Covenanting" by <span>John Cunningham</span>					</div>
+										<div class="usage">
+						Nearly all the little children in Perseverance went barefooted in summer.
+					</div>
+					<div class="uAuthor">
+						"Little Grandmother" by <span>Sophie May</span>					</div>
+										<div class="usage">
+						Then he remembered what Gregory had said to him, and how he had encouraged Gregory to persevere.
+					</div>
+					<div class="uAuthor">
+						"Ralph the Heir" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Another case required much greater perseverance.
+					</div>
+					<div class="uAuthor">
+						"Autobiography of Frank G. Allen, Minister of the Gospel" by <span>Frank G. Allen</span>					</div>
+										<div class="usage">
+						All this for some days carried him hither and thither, if not with patience, at any rate with perseverance.
+					</div>
+					<div class="uAuthor">
+						"The Bertrams" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						This fortnight will test his perseverance about the violin.
+					</div>
+					<div class="uAuthor">
+						"A Christmas Posy" by <span>Mary Louisa Stewart Molesworth</span>					</div>
+										<div class="usage">
+						Repelled, repulsed, I persevere; Often quotidian through a year.
+					</div>
+					<div class="uAuthor">
+						"Fables of John Gay" by <span>John Gay</span>					</div>
+										<div class="usage">
+						Have courage and persevere.
+					</div>
+					<div class="uAuthor">
+						"Eastern Tales by Many Story Tellers" by <span>Various</span>					</div>
+										<div class="usage">
+						Notwithstanding these grievous discouragements, William resolved to persevere.
+					</div>
+					<div class="uAuthor">
+						"The Huguenots in France" by <span>Samuel Smiles</span>					</div>
+										<div class="usage">
+						In perseverance and success of that kind the man's mind should admit of no doubt.
+					</div>
+					<div class="uAuthor">
+						"The Vicar of Bullhampton" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						He must persevere and carry his point, or all would be lost.
+					</div>
+					<div class="uAuthor">
+						"Charles I" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						His labors were invariably systematic, and were characterized by dogged, Teutonic perseverance.
+					</div>
+					<div class="uAuthor">
+						"A History of the Nineteenth Century, Year by Year" by <span>Edwin Emerson</span>					</div>
+										<div class="usage">
+						The jolly little rogue did, indeed, sadly stand in need of matrimony with the forlorn Miss Perseverance.
+					</div>
+					<div class="uAuthor">
+						"Jessie Carlton" by <span>Francis Forrester</span>					</div>
+										<div class="usage">
+						British seamen, perseverance of, i.
+					</div>
+					<div class="uAuthor">
+						"Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II" by <span>Sir John Ross</span>					</div>
+										<div class="usage">
+						They were determined to persevere.
+					</div>
+					<div class="uAuthor">
+						"The Peace Negotiations" by <span>J. D. Kestell</span>					</div>
+										<div class="usage">
+						But George's secret was his perseverance.
+					</div>
+					<div class="uAuthor">
+						"Lives of the Engineers The Locomotive. George and Robert Stephenson" by <span>Samuel Smiles</span>					</div>
+										<div class="usage">
+						But the friends of education ought in no case to put the perseverance of those who labour for its improvement to so severe a trial.
+					</div>
+					<div class="uAuthor">
+						"A Practical Enquiry into the Philosophy of Education" by <span>James Gall</span>					</div>
+										<div class="usage">
+						The perseverance, energy, and cunning displayed by these animals is something wonderful.
+					</div>
+					<div class="uAuthor">
+						"The Giraffe Hunters" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						He was an idealist with such perseverance and clearness of aim that his more characteristic work can never die.
+					</div>
+					<div class="uAuthor">
+						"Music: An Art and a Language" by <span>Walter Raymond Spalding</span>					</div>
+										<div class="usage">
+						Otherwise she must persevere until the ring is broken.
+					</div>
+					<div class="uAuthor">
+						"What Shall We Do Now?: Five Hundred Games and Pastimes" by <span>Dorothy Canfield Fisher</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Oft did the battle seem severe,<br>
+Sometimes defeat seemed nigh,<br>
+But pride and love must persevere<br>
+When all our powers we try.
+							<div class="poet">"My Room In Boyhood's Days" by <span>Jared Barhite</span></div>
+						</div>
+											<div class="poemQuote">
+							Owt 'at's worth a body's winnin<br>
+Mun be toiled for long an hard;<br>
+An tho' th' struggle may be pinnin,<br>
+Perseverance wins reward.
+							<div class="poet">"Take Heart!" by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							If we think awr lot is hard,<br>
+Nivver let us mak a fuss;<br>
+Lukkin raand, at ivvery yard,<br>
+We'st find others war nor us;<br>
+We have still noa cause to fear!<br>
+Let's ha faith, an persevere.
+							<div class="poet">"Persevere" by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							But as on throo life we hurry,<br>
+By whativver path we rooam,<br>
+Let us ne'er forget i'th' worry,<br>
+True reform begins at hooam:<br>
+Then, to prove yorsens sincere,<br>
+Start at once; an persevere.
+							<div class="poet">"Persevere" by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							A faint heart, aw've heeard 'em say,<br>
+Nivver won a lady fair:<br>
+Have a will! yo'll find a way!<br>
+Honest men ne'er need despair.<br>
+Better days are drawin near:--<br>
+Then ha faith, an persevere.
+							<div class="poet">"Persevere" by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							Yet, for I threaten'd oft the siege to raise,<br>
+Not simpring all mine age,<br>
+Thou often didst with academick praise<br>
+Melt and dissolve my rage.<br>
+I took thy sweetned pill, till I came neare;<br>
+I could not go away, nor persevere.
+							<div class="poet">"Affliction (I)" by <span>George Herbert</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The principles and perseverance he learned from humble beginnings in Lucasville have simply always been his guide.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ohiomagazine.com/Main/Articles/The_Outsider_4055.aspx" target="_blank" rel="external nofollow">ohiomagazine.com</a>
+					</div>
+										<div class="usage">
+						When we first discovered Heather over at with a Side of Sneakers, one word popped into our mind: perseverance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fitnessmagazine.com/blogs/fitstop/tag/chronic-pain/" target="_blank" rel="external nofollow">fitnessmagazine.com</a>
+					</div>
+										<div class="usage">
+						Timothy Banks can tell you about perseverance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.charlestoncitypaper.com/charleston/illustrator-timothy-banks-crafts-covers-for-paste-magazine/Content?oid=4243136" target="_blank" rel="external nofollow">charlestoncitypaper.com</a>
+					</div>
+										<div class="usage">
+						1 items are tagged with perseverance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.osv.com/OSVNewsweekly/OSVNewsweeklyRelatedArticles/tabid/7624/Default.aspx?tags=God's%20will-patience" target="_blank" rel="external nofollow">osv.com</a>
+					</div>
+										<div class="usage">
+						A friend of mine in Civil Affairs in Iraq passes along this message from an Iraqi he knows who wants the United States to persevere and succeed in his country.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.oregonlive.com/oregonatwar/2007/09/be_patient_seek_victory.html" target="_blank" rel="external nofollow">blog.oregonlive.com</a>
+					</div>
+										<div class="usage">
+						The only thing to do is persevere .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ohio.com/blogs/all-da-king-s-men/all-da-king-s-men-1.297964/iraqi-perseverance-1.298508" target="_blank" rel="external nofollow">ohio.com</a>
+					</div>
+										<div class="usage">
+						 Perseverance isn't for sissies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winnipegfreepress.com/our-communities/headliner/forum/Perseverance-isnt-for-sissies-173360781.html" target="_blank" rel="external nofollow">winnipegfreepress.com</a>
+					</div>
+										<div class="usage">
+						American politician Newt Gingrich once said: " Perseverance is the hard work you do after you get tired of doing the hard work you already did.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winnipegfreepress.com/our-communities/headliner/forum/Perseverance-isnt-for-sissies-173360781.html" target="_blank" rel="external nofollow">winnipegfreepress.com</a>
+					</div>
+										<div class="usage">
+						 Perseverance is resolve, determination and tenacity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winnipegfreepress.com/our-communities/headliner/forum/Perseverance-isnt-for-sissies-173360781.html" target="_blank" rel="external nofollow">winnipegfreepress.com</a>
+					</div>
+										<div class="usage">
+						Kings' Cup filled with perseverance .
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/los-angeles/nhl/story/_/id/8041613/stanley-cup-final-los-angeles-kings-cup-filled-perseverance" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						24 Perseverance : Praying the Distance (Package of 10).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.navpress.com/product/48/PrayKids-24-Perseverance-Praying-the-Distance-PrayKids-" target="_blank" rel="external nofollow">navpress.com</a>
+					</div>
+										<div class="usage">
+						Def Leppard's Rick Allen: Perseverance .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.moderndrummer.com/site/2011/12/def-leppards-rick-allen-perseverance/" target="_blank" rel="external nofollow">moderndrummer.com</a>
+					</div>
+										<div class="usage">
+						 Perseverance is reporter's mantra.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesfreepress.com/news/2011/apr/17/perseverance-reporters-mantra/" target="_blank" rel="external nofollow">timesfreepress.com</a>
+					</div>
+										<div class="usage">
+						 Perseverance and optimism separate Buck from the herd.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.illinoistimes.com/Springfield/article-8915-perseverance-and-optimism-separate-buck-from-the-herd.html" target="_blank" rel="external nofollow">illinoistimes.com</a>
+					</div>
+										<div class="usage">
+						Chuck Koplinski / Perseverance and optimism separate Buck from the herd.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.illinoistimes.com/Springfield/article-8915-perseverance-and-optimism-separate-buck-from-the-herd.html" target="_blank" rel="external nofollow">illinoistimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						But the two groups did not differ much in attention, initiation/perseverance, construction and conceptualization subscales. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						It is a tribute to Berndt’s talents and perseverance that he has completed this rather terrifying pro ject. 
+					</div>
+					<div class="uAuthor">
+						And free lunch for all...
+					</div>
+										<div class="usage">
+						So the precise study of the top quark will persevere as the Tevatron is continuing to deliver collision data. 
+					</div>
+					<div class="uAuthor">
+						Top Quark Physics at the Tevatron
+					</div>
+										<div class="usage">
+						In their epochal experimental researches these individuals have demonstrated originality, perseverance (i.e., stubbornness), and enormous achievement. 
+					</div>
+					<div class="uAuthor">
+						Summary Talk: International Symposium on Neutrino Astrophysics, Takayama/Kamioka (10/'92)
+					</div>
+										<div class="usage">
+						Indeed, recognizing that he could not possibly have known about these flaws in his results permits us to admire him all the more for his dedication and perseverance in pursuing these measurements. 
+					</div>
+					<div class="uAuthor">
+						An Explanation of Dayton Miller's Anomalous "Ether Drift" Result
+					</div>
+										<div class="usage">
+						However, with some non-trivial group theory and suﬃcient perseverance, one can already see this quite directly: Theorem 5.3. 
+					</div>
+					<div class="uAuthor">
+						The irreducibility of certain pure-cycle Hurwitz spaces
+					</div>
+										<div class="usage">
+						This suggests differing levels of perseverance of users who visit the upcoming stories compared to the majority of users who focus on front page stories. 
+					</div>
+					<div class="uAuthor">
+						Using Stochastic Models to Describe and Predict Social Dynamics of Web Users
+					</div>
+										<div class="usage">
+						This method works fairly well for simple problems but requires considerable ingenuity and perseverance to carry out even for moderately complicated ones. 
+					</div>
+					<div class="uAuthor">
+						Probability calculations under the IAC hypothesis
+					</div>
+										<div class="usage">
+						So when we still persevere to build ever more detailed models for the total cross section, it is because the ultimate goal is to reach an understanding of the nature of the photon and its interactions. 
+					</div>
+					<div class="uAuthor">
+						Soft Photoproduction Physics
+					</div>
+										<div class="usage">
+						We are grateful to all those involved in the Tenerife and Jodrell Bank experiments and their continued perseverance in correct art of data analysis. 
+					</div>
+					<div class="uAuthor">
+						Foregrounds and experiments below 33GHz
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the act of persisting or persevering; continuing or repeating behavior"><a href="persistence.html">persistence</a>, <a href="perseveration.html">perseveration</a>, </div><div class="synGroup" title="persistent determination"><a href="persistence.html">persistence</a>, <a href="persistency.html">persistency</a>, <a href="tenacity.html">tenacity</a>, <a href="tenaciousness.html">tenaciousness</a>, <a href="pertinacity.html">pertinacity</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="continuance.html">continuance</a>, <a href="continuation.html">continuation</a>, <a href="determination.html">determination</a>, <a href="purpose.html">purpose</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="dogged.html">dogged</a>, <a href="persevere.html">persevere</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="arduous.html">arduous</a>, <a href="assiduity.html">assiduity</a>, <a href="Calvinism.html">Calvinism</a>, <a href="constancy.html">constancy</a>, <a href="continuance.html">continuance</a>, <a href="Continuer.html">Continuer</a>, <a href="difficulty.html">difficulty</a>, <a href="diligent.html">diligent</a>, <a href="efficiency.html">efficiency</a>, <a href="encourage.html">encourage</a>, <a href="encouragement.html">encouragement</a>, <a href="enterprise.html">enterprise</a>, <a href="ferret.html">ferret</a>, <a href="firmness.html">firmness</a>, <a href="foxhound.html">foxhound</a>, <a href="go.html">go</a>, <a href="hardworking.html">hardworking</a>, <a href="heart.html">heart</a>, <a href="incapable.html">incapable</a>, <a href="indefatigable.html">indefatigable</a>, <a href="industrious.html">industrious</a>, <a href="inflexibility.html">inflexibility</a>, <a href="insistence.html">insistence</a>, <a href="laborious.html">laborious</a>, <a href="patience.html">patience</a>, <a href="Pegging.html">Pegging</a>, <a href="persevering.html">persevering</a>, <a href="perseveringly.html">perseveringly</a>, <a href="persistence.html">persistence</a>, <a href="persistency.html">persistency</a>, <a href="pertinacity.html">pertinacity</a>, <a href="ply.html">ply</a>, <a href="pore.html">pore</a>, <a href="resolutely.html">resolutely</a>, <a href="resolution.html">resolution</a>, <a href="retention.html">retention</a>, <a href="Semi-Pelagian.html">Semi-Pelagian</a>, <a href="stayer.html">stayer</a>, <a href="tireless.html">tireless</a>, <a href="untiring.html">untiring</a>, <a href="Zelotypia.html">Zelotypia</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oerseverance, lerseverance, pwrseverance, psrseverance, pdrseverance, prrseverance, peeseverance, pedseverance, pefseverance, petseverance, peraeverance, perweverance, perdeverance, perxeverance, perzeverance, peraeverance, perswverance, perssverance, persdverance, persrverance, persecerance, perseferance, persegerance, perseberance, persevwrance, persevsrance, persevdrance, persevrrance, perseveeance, persevedance, persevefance, persevetance, perseverqnce, perseverwnce, perseversnce, perseverznce, perseverabce, perseverahce, perseverajce, perseveramce, perseveranxe, perseverande, perseveranfe, perseveranve, perseverancw, perseverancs, perseverancd, perseverancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

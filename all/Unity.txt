@@ -1,0 +1,535 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>unity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">the quality of being united into one</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">the smallest whole number or a numeral representing this number</span> <span class="quot">"he has the one but will need a two and three to go with it","they had lunch at one"</span></li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">an undivided or unbroken completeness or totality with nothing wanting</span> <span class="quot">"the integrity of the nervous system is required for normal development","he took measures to insure the territorial unity of Croatia"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Unity</span> <span class="exp"><span class="wuFld">(Math)</span> Any definite quantity, or aggregate of quantities or magnitudes taken as one, or for which 1 is made to stand in calculation; thus, in a table of natural sines, the radius of the circle is regarded as <span class="wUex">unity</span>.</span> </li><li><span class="term">Unity</span> <span class="exp">Concord; harmony; conjunction; agreement; uniformity; as, a <span class="wUex">unity</span> of proofs; <span class="wUex">unity</span> of doctrine.
+         </span> <span class="wuQuot">"Behold, how good and how pleasant it is for brethren to dwell together in unity !"</span></li><li><span class="term">Unity</span> <span class="exp"><span class="wuFld">(Poetry &amp; Rhet)</span> In dramatic composition, one of the principles by which a uniform tenor of story and propriety of representation are preserved; conformity in a composition to these; in oratory, discourse, etc., the due subordination and reference of every part to the development of the leading idea or the eastablishment of the main proposition.</span> </li><li><span class="term">Unity</span> <span class="exp"><span class="wuFld">(Fine Arts &amp; Mus)</span> Such a combination of parts as to constitute a whole, or a kind of symmetry of style and character.</span> </li><li><span class="term">Unity</span> <span class="exp"><span class="wuFld">(Law)</span> The peculiar characteristics of an estate held by several in joint tenancy.</span> </li><li><span class="term">Unity</span> <span class="exp">The state of being one; oneness.</span> <span class="wuQuot">"Whatever we can consider as one thing suggests to the understanding the idea of unity ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">The state or property of being one; oneness, as opposed to multiplicity; individuality, as opposed to plurality.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">Organic totality; that interconnection of parts which constitutes a complex whole; a systematic whole as distinguished from its constituent parts: as, the unity of consciousness; the unity of an artistic creation. See def. 9.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">Identity; self-sameness; uniformity.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">The state of being united or combined in one; especially, union as connected parts of a complex whole: as, the national unity of the separate states.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">Harmony or accord in sentiments, affection, action, etc.; concord.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">Sameness of character or effect; agreement; coincidence.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">In mathematics, a quantity which, multiplied by any quantity of the system considered, gives that same quantity as the product. Thus, in the theory of matrices, the matrix of any order having all the constituents zero except those of the principal diagonal, which are all ones, is the unity of that order. In ordinary algebra one, or the unit of abstract number, is the only unity. Unit and unity are words frequently confused; but with accurate writers unit is the standard of measurement, that which is counted, and has no reference to multiplication; while unity has reference to multiplication alone. In a multiple associative algebra there are as many units as the ordinal number of the algebra, but there can be but one unity, and there need not be any at all.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">The principle by which a uniform tenor of story and propriety of representation is preserved in literary compositions; conformity in a composition to this principle; a reference to some one purpose or leading idea, or to the main proposition, in all the parts of a discourse or composition. The so-called Aristotelian law of unity of time, of place, and of action (called ‘the unities’) in a drama was the fundamental rule or general idea from which the French classical dramatic writers and critics derived, or to which they referred, all their practical rules for the construction of a drama. This law demanded that there should be no shifting of the scene from place to place, that the whole series of events should be such as might occur within the space of a single day, and that nothing should be admitted irrelevant to the development of the single plot.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">In artistic creations, a combination of parts such as to constitute a whole or to exhibit a form of symmetry in style and character; the quality of any work by which all the parts are subordinate to or promotive of one general design or effect.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">In law: The holding of the same estate in undivided shares by two or more; joint tenancy.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">The joint possession by one person of two rights by several titles.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">A gold coin of the reign of James I. See unite.</span> </li><li><span class="tSpeech">n</span> <span class="term">unity</span> <span class="exp">See primitive.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Unity</span> <span class="exp"><span class="itl">ū′ni-ti</span> oneness: state of being one or at one: agreement: the arrangement of all the parts to one purpose or effect: harmony:</span> </li><li><span class="tSpeech">n</span> <span class="term">Unity</span> <span class="exp"><span class="itl">ū′ni-ti</span> (<span class="itl">math.</span>) any quantity taken as one</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Father Andre</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Father Andre">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What ever beauty may be, it has for its basis order, and for its essence unity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Felix Mendelssohn</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Felix Mendelssohn">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The essence of the beautiful is unity in variety.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Anne Baxter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Anne Baxter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In necessary things, unity; in doubtful things, liberty; in all things, charity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bible</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bible">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Behold how good and how pleasant it is for brethren to dwell together in unity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Josiah Royce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Josiah Royce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Unless you can find some sort of loyalty, you cannot find unity and peace in your active living.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Jay Chapman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Jay%20Chapman.jpg" alt="John%20Jay%20Chapman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Politics is organized hatred, that is unity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">unite</span>, F. <span class="wUets">unité</span>, L. <span class="wUets">unitas</span>, from <span class="wUets">unus</span>, one. See <span class="wUer">One</span>, and cf. <span class="wUer">Unit</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In Mozart these long movements have nothing like the unity of those of Beethoven.
+					</div>
+					<div class="uAuthor">
+						"The Masters and their Music" by <span>W. S. B. Mathews</span>					</div>
+										<div class="usage">
+						The work, at first, lacked system and unity.
+					</div>
+					<div class="uAuthor">
+						"Colleges in America" by <span>John Marshall Barker</span>					</div>
+										<div class="usage">
+						A government of national unity was formed in May 2006 that is broadly representative of the Iraqi people.
+					</div>
+					<div class="uAuthor">
+						"The Iraq Study Group Report" by <span>United States Institute for Peace</span>					</div>
+										<div class="usage">
+						We may therefore pronounce with firmness, that unity was one cause of the Roman superiority.
+					</div>
+					<div class="uAuthor">
+						"The Posthumous Works of Thomas De Quincey, Vol. II (2 vols)" by <span>Thomas De Quincey</span>					</div>
+										<div class="usage">
+						This unity of place naturally suggests unity of action as to what is going on in that place.
+					</div>
+					<div class="uAuthor">
+						"Homer's Odyssey" by <span>Denton J. Snider</span>					</div>
+										<div class="usage">
+						The ideal is the principle of unity in motion in its historic evolution; like all development, it advances or recedes according to the times.
+					</div>
+					<div class="uAuthor">
+						"Essay on the Creative Imagination" by <span>Th. Ribot</span>					</div>
+										<div class="usage">
+						Elements of unity in the pluralism, 268.
+					</div>
+					<div class="uAuthor">
+						"The Will to Believe" by <span>William James</span>					</div>
+										<div class="usage">
+						Another beautiful characteristic of sanctification is perfect unity.
+					</div>
+					<div class="uAuthor">
+						"Sanctification" by <span>J. W. Byers</span>					</div>
+										<div class="usage">
+						In all these cases, observe, an intended unity must be the result of composition.
+					</div>
+					<div class="uAuthor">
+						"The Crown of Wild Olive" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						The great actual unity of human taste within the range of conventional history helps the pretension.
+					</div>
+					<div class="uAuthor">
+						"The Sense of Beauty" by <span>George Santayana</span>					</div>
+										<div class="usage">
+						For, having risen to the plane of unity, He is able to share all He has gained, to give all He has won.
+					</div>
+					<div class="uAuthor">
+						"Esoteric Christianity, or The Lesser Mysteries" by <span>Annie Besant</span>					</div>
+										<div class="usage">
+						We teach faith in the unity of God the All-good.
+					</div>
+					<div class="uAuthor">
+						"The Faith Doctor" by <span>Edward Eggleston</span>					</div>
+										<div class="usage">
+						So soon as a detail is shown in its relation to a whole, then it becomes beautiful because it is expressive of the supreme unity.
+					</div>
+					<div class="uAuthor">
+						"The Enjoyment of Art" by <span>Carleton Noyes</span>					</div>
+										<div class="usage">
+						Conquest, which forces nations of different habits, characters, and languages into unity, is at last the parent of degrading servitude.
+					</div>
+					<div class="uAuthor">
+						"Christianity and Greek Philosophy" by <span>Benjamin Franklin Cocker</span>					</div>
+										<div class="usage">
+						The arguments for the existence, unity, and incorporeity of God divide the Arabic philosophers into two schools.
+					</div>
+					<div class="uAuthor">
+						"Jewish Literature and Other Essays" by <span>Gustav Karpeles</span>					</div>
+										<div class="usage">
+						Has the Whole a Unity of Effect?
+					</div>
+					<div class="uAuthor">
+						"English: Composition and Literature" by <span>W. F. (William Franklin) Webster</span>					</div>
+										<div class="usage">
+						One is the principle of Unity.
+					</div>
+					<div class="uAuthor">
+						"The Continental Monthly, Vol. 4, No. 5, November, 1863" by <span>Various</span>					</div>
+										<div class="usage">
+						Yet though unity of form may be attained through structure alone, unity of mood is dependent mainly upon style.
+					</div>
+					<div class="uAuthor">
+						"A Manual of the Art of Fiction" by <span>Clayton Hamilton</span>					</div>
+										<div class="usage">
+						The highest expression of this social unity is in the farmer's religion.
+					</div>
+					<div class="uAuthor">
+						"The Evolution of the Country Community" by <span>Warren H. Wilson</span>					</div>
+										<div class="usage">
+						There is established first a unity of God, and this unity is the first cause in the creation.
+					</div>
+					<div class="uAuthor">
+						"History of Human Society" by <span>Frank W. Blackmar</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							The tiny ants together cling<br>
+In unity through weal or woe;<br>
+Then, why do we divided sing?<br>
+Odela-dela-delao!
+							<div class="poet">"Song Of Natela" by <span>Akaki Tsereteli</span></div>
+						</div>
+											<div class="poemQuote">
+							For with the unity of branches<br>
+Will come a unity of speech,<br>
+Correcting old and groundless fancies<br>
+Discordant tongues could never reach.
+							<div class="poet">"The Future Of America, In The Unity Of The Races" by <span>James Madison Bell</span></div>
+						</div>
+											<div class="poemQuote">
+							Until beneath her spreading pinions,<br>
+And outstretched folds of liberty,<br>
+Men of all nations and dominions<br>
+Shall dwell in peace and unity.
+							<div class="poet">"Admonition" by <span>James Madison Bell</span></div>
+						</div>
+											<div class="poemQuote">
+							Bees know the impulse of true oneness –<br>
+a wondrous sign of community.<br>
+A people of love, they toil as one,<br>
+and none is left out of their unity.
+							<div class="poet">"For My Children" by <span>Eberhard Arnold</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh, people, that thy grief might find express<br>
+To gather in some vast cathedral's hall,<br>
+That then in unity we might kneel and hear<br>
+Sublimity in sounds, voice our distress.
+							<div class="poet">"In Memoriam" by <span>Alice Dunbar-Nelson</span></div>
+						</div>
+											<div class="poemQuote">
+							I LONGED to love a full-boughed beech<br>
+And be as high as he:<br>
+I stretched an arm within his reach,<br>
+And signalled unity.<br>
+But with his drip he forced a breach,<br>
+And tried to poison me.
+							<div class="poet">"The Ivy-Wife" by <span>Thomas Hardy</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Unity is a matter of life and death in all 'hoods – in the prisons and on the streets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sfbayview.com/2012/california-rises-to-prisoners-challenge-to-end-racial-hostilities/" target="_blank" rel="external nofollow">sfbayview.com</a>
+					</div>
+										<div class="usage">
+						Factions in Gaza Make Unity Vow After Cease-Fire.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/11/23/world/middleeast/israel-gaza-conflict.html?ref=benjaminnetanyahu" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						As Cease-Fire Holds in Gaza, Palestinians Press for Unity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/11/23/world/middleeast/israel-gaza-conflict.html?ref=middleeast" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Today is Umoja, which stands for unity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wctv.tv/news/headlines/80142632.html" target="_blank" rel="external nofollow">wctv.tv</a>
+					</div>
+										<div class="usage">
+						There have been many milestones along the road that Europe is on right now, searching for unity and a relief to its debt crisis.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kunc.org/node/34034" target="_blank" rel="external nofollow">kunc.org</a>
+					</div>
+										<div class="usage">
+						ABC7's leadership team was in Monrovia for a town hall meeting hosted by the Foothill Unity Center and moderated by ABC7 anchor David Ono.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/kabc/story?section=resources/lifestyle_community/community&amp;id=7019059" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						LGBT Mormon Conference Brings Controversy but also Unity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kuer.org/term/lgbt-mormons" target="_blank" rel="external nofollow">kuer.org</a>
+					</div>
+										<div class="usage">
+						If the emphasis of government programs remains on fostering differences rather than unity, then America may find itself in the kind of multicultural mess that exists in major European nations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2011/mar/8/uncovering-the-roots-of-islamic-radical-633159668/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Unity has been called in to promote Greek yoghurt brand Total, in the UK.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.prweek.com/uk/news/1158011/Unity-called-promote-Total-yoghurt-UK/" target="_blank" rel="external nofollow">prweek.com</a>
+					</div>
+										<div class="usage">
+						On Monday, August 27th, the family of Michael Lembhard will end their 15-day vigil with a "People's Unity Rally".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hvpress.net/news/180/ARTICLE/11446/2012-08-22.html" target="_blank" rel="external nofollow">hvpress.net</a>
+					</div>
+										<div class="usage">
+						"Bumps in the Road" is the title of the talk at 10 am Sunday, Nov 4, at Unity of Whidbey, 5671 Crawford Road.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.southwhidbeyrecord.com/community/177019811.html?mobile=true" target="_blank" rel="external nofollow">southwhidbeyrecord.com</a>
+					</div>
+										<div class="usage">
+						Nancy Chudzik Butcher , of Hamlin, NY, formerly of Dunkirk, NY died Thursday, September 20, 2012 at Unity Hospital in Rochester, NY.
+					</div>
+					<div class="uAuthor">
+						<a href="https://www.observertoday.com/page/content.detail/id/576998/Nancy-Chudzik-Butcher.html?nav=5008" target="_blank" rel="external nofollow">observertoday.com</a>
+					</div>
+										<div class="usage">
+						A force for unity among mortals.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/2012-12-12/music/new-year-s-eve-guide-wild-card/" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						'Christmas Carol ' radio play coming to Unity Church.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bellinghamherald.com/2012/12/12/2795454/christmas-carol-radio-play-coming.html" target="_blank" rel="external nofollow">bellinghamherald.com</a>
+					</div>
+										<div class="usage">
+						Setting Rivalries Aside for National Unity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wnyc.org/people/celeste-headlee/" target="_blank" rel="external nofollow">wnyc.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We ﬁnd that the phases of the complex eigenvalues are determined by the length p of the shortest periodic orbit present in an eigenfunction f as those of the p-th roots of unity. 
+					</div>
+					<div class="uAuthor">
+						Frobenius-Perron Resonances for Maps with a Mixed Phase Space
+					</div>
+										<div class="usage">
+						The radius of convergence of the hypergeometric series F (a, b; c; z) is unity. 
+					</div>
+					<div class="uAuthor">
+						Worldsheet and Spacetime Properties of p-p' System with B Field and Noncommutative Geometry
+					</div>
+										<div class="usage">
+						The irreducible length can be also viewed as a distance from the unity on the Cayley graph of the group G. 
+					</div>
+					<div class="uAuthor">
+						Random walks on hyperbolic groups and their Riemann surfaces
+					</div>
+										<div class="usage">
+						The ﬁdelity of each conclusive event is unity with the event probability λ/4; ¯Fcon = λ. 
+					</div>
+					<div class="uAuthor">
+						Optimal conclusive teleportation of a d-dimensional unknown state
+					</div>
+										<div class="usage">
+						Successful models require that the dimensionless dropout parameter q is close to unity. 
+					</div>
+					<div class="uAuthor">
+						Entropy Evolution in Galaxy Groups and Clusters; A Comparison of External and Internal Heating
+					</div>
+										<div class="usage">
+						The gain of the medium is close to unity near DC. 
+					</div>
+					<div class="uAuthor">
+						On Superluminal Propagation and Information Velocity
+					</div>
+										<div class="usage">
+						Unity gain and negative linear phase delay over the frequency range of interest are the only requirements. 
+					</div>
+					<div class="uAuthor">
+						On Superluminal Propagation and Information Velocity
+					</div>
+										<div class="usage">
+						For large sizes, there appears a remarkable behavior : P∞ (γ , K ) seems to be unity for γ &lt; γc (K ) and vanishes for γ &gt; γc (K ) [4,5]. 
+					</div>
+					<div class="uAuthor">
+						Phase coexistence and finite-size scaling in random combinatorial problems
+					</div>
+										<div class="usage">
+						This result is consistent with the ﬁnding of YOC that Lyapunov dimension becomes unity on chaotic side of transition. 
+					</div>
+					<div class="uAuthor">
+						Mechanism of synchronization in a random dynamical system
+					</div>
+										<div class="usage">
+						It is not a loss of generality to set this radius to unity. 
+					</div>
+					<div class="uAuthor">
+						Statistical ensemble of scale-free random graphs
+					</div>
+										<div class="usage">
+						We do not have any proof that the next-to-largest eigenvalue of the transition matrix is separated from unity by a gap remaining ﬁnite when N → ∞. 
+					</div>
+					<div class="uAuthor">
+						Statistical ensemble of scale-free random graphs
+					</div>
+										<div class="usage">
+						If p is close to unity, there will exist a cluster that extend from one end of the lattice to the other. 
+					</div>
+					<div class="uAuthor">
+						An Introduction to Monte Carlo Simulation of Statistical physics Problem
+					</div>
+										<div class="usage">
+						The important point is that the Gaussian with mean unity and variance 1/N becomes a very good approximation to the gamma density, for large N . 
+					</div>
+					<div class="uAuthor">
+						Monte Carlo: Basics
+					</div>
+										<div class="usage">
+						N and whose variance is unity (independent of N ). 
+					</div>
+					<div class="uAuthor">
+						Monte Carlo: Basics
+					</div>
+										<div class="usage">
+						Usually one wants a standard Gaussian with mean zero and variance unity. 
+					</div>
+					<div class="uAuthor">
+						Monte Carlo: Basics
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an undivided or unbroken completeness or totality with nothing wanting"><a href="wholeness.html">wholeness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="digit.html">digit</a>, <a href="figure.html">figure</a>, <a href="identicalness.html">identicalness</a>, <a href="identity.html">identity</a>, <a href="indistinguishability.html">indistinguishability</a>, <a href="state.html">state</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="completeness.html">completeness</a>, <a href="incompleteness.html">incompleteness</a>, <a href="monad.html">monad</a>, <a href="monas.html">monas</a>, <a href="rawness.html">rawness</a>, <a href="singleton.html">singleton</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="one.html">one</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="acid.html">acid</a>, <a href="action.html">action</a>, <a href="amplitude.html">amplitude</a>, <a href="analogy.html">analogy</a>, <a href="Apostolicity.html">Apostolicity</a>, <a href="Apotome.html">Apotome</a>, <a href="April%2014.html">April 14</a>, <a href="As.html">As</a>, <a href="Bahaism.html">Bahaism</a>, <a href="billionth.html">billionth</a>, <a href="category.html">category</a>, <a href="Catholic.html">Catholic</a>, <a href="cell.html">cell</a>, <a href="change%20of%20integrity.html">change of integrity</a>, <a href="church.html">church</a>, <a href="cipher.html">cipher</a>, <a href="Coactivity.html">Coactivity</a>, <a href="Coadunation.html">Coadunation</a>, <a href="collective.html">collective</a>, <a href="composite%20number.html">composite number</a>, <a href="concurrently.html">concurrently</a>, <a href="conscious.html">conscious</a>, <a href="consent.html">consent</a>, <a href="Consentience.html">Consentience</a>, <a href="consistent.html">consistent</a>, <a href="continental.html">continental</a>, <a href="continuant.html">continuant</a>, <a href="cosecant.html">cosecant</a>, <a href="cosine.html">cosine</a>, <a href="creedal.html">creedal</a>, <a href="Decillionth.html">Decillionth</a>, <a href="difference.html">difference</a>, <a href="Dioptric.html">Dioptric</a>, <a href="disconnected.html">disconnected</a>, <a href="discord.html">discord</a>, <a href="disintegrate.html">disintegrate</a>, <a href="disunited.html">disunited</a>, <a href="disunity.html">disunity</a>, <a href="diversity.html">diversity</a>, <a href="drama.html">drama</a>, <a href="Duodecimal%20scale.html">Duodecimal scale</a>, <a href="ecumenic.html">ecumenic</a>, <a href="ecumenical.html">ecumenical</a>, <a href="ecumenical%20movement.html">ecumenical movement</a>, <a href="ecumenicalism.html">ecumenicalism</a>, <a href="ecumenicism.html">ecumenicism</a>, <a href="ecumenism.html">ecumenism</a>, <a href="eighteenth.html">eighteenth</a>, <a href="eighth.html">eighth</a>, <a href="eightieth.html">eightieth</a>, <a href="eleventh.html">eleventh</a>, <a href="Elohist.html">Elohist</a>, <a href="enlargement.html">enlargement</a>, <a href="entireness.html">entireness</a>, <a href="Esemplastic.html">Esemplastic</a>, <a href="exponent.html">exponent</a>, <a href="factorial.html">factorial</a>, <a href="federation.html">federation</a>, <a href="fifteenth.html">fifteenth</a>, <a href="fifth.html">fifth</a>, <a href="fiftieth.html">fiftieth</a>, <a href="Figurate%20numbers.html">Figurate numbers</a>, <a href="formality.html">formality</a>, <a href="fortieth.html">fortieth</a>, <a href="fourteenth.html">fourteenth</a>, <a href="fourth.html">fourth</a>, <a href="fraction.html">fraction</a>, <a href="fragmented.html">fragmented</a>, <a href="gabbro.html">gabbro</a>, <a href="harmony.html">harmony</a>, <a href="hundredth.html">hundredth</a>, <a href="hydrogen.html">hydrogen</a>, <a href="idempotent.html">idempotent</a>, <a href="identity%20matrix.html">identity matrix</a>, <a href="imitation.html">imitation</a>, <a href="incommensurable.html">incommensurable</a>, <a href="increment.html">increment</a>, <a href="indicator.html">indicator</a>, <a href="individuality.html">individuality</a>, <a href="intellect.html">intellect</a>, <a href="Irenics.html">Irenics</a>, <a href="Ivan%20III.html">Ivan III</a>, <a href="Ivan%20III%20Vasilievich.html">Ivan III Vasilievich</a>, <a href="Ivan%20the%20Great.html">Ivan the Great</a>, <a href="Joint%20tenancy.html">Joint tenancy</a>, <a href="Jupiter.html">Jupiter</a>, <a href="key.html">key</a>, <a href="logarithm.html">logarithm</a>, <a href="melody.html">melody</a>, <a href="millionth.html">millionth</a>, <a href="mixture.html">mixture</a>, <a href="modulation.html">modulation</a>, <a href="modulus.html">modulus</a>, <a href="monad.html">monad</a>, <a href="monatomic.html">monatomic</a>, <a href="Monopsychism.html">Monopsychism</a>, <a href="monovalent.html">monovalent</a>, <a href="multiplication.html">multiplication</a>, <a href="multitude.html">multitude</a>, <a href="National%20Liberals.html">National Liberals</a>, <a href="nationalism.html">nationalism</a>, <a href="nationalist.html">nationalist</a>, <a href="nationality.html">nationality</a>, <a href="Natural%20sines.html">Natural sines</a>, <a href="Natural%20tangent.html">Natural tangent</a>, <a href="nine.html">nine</a>, <a href="nineteenth.html">nineteenth</a>, <a href="ninetieth.html">ninetieth</a>, <a href="ninth.html">ninth</a>, <a href="Nonillion.html">Nonillion</a>, <a href="notation.html">notation</a>, <a href="objective.html">objective</a>, <a href="octad.html">octad</a>, <a href="oecumenic.html">oecumenic</a>, <a href="oecumenical.html">oecumenical</a>, <a href="one.html">one</a>, <a href="oneness.html">oneness</a>, <a href="Origenism.html">Origenism</a>, <a href="Oversoul.html">Oversoul</a>, <a href="Pan%20American%20Day.html">Pan American Day</a>, <a href="Pan-Slavism.html">Pan-Slavism</a>, <a href="paragraph.html">paragraph</a>, <a href="patchy.html">patchy</a>, <a href="people.html">people</a>, <a href="personal%20identity.html">personal identity</a>, <a href="phrase.html">phrase</a>, <a href="Platonic.html">Platonic</a>, <a href="plurality.html">plurality</a>, <a href="Polyacid.html">Polyacid</a>, <a href="Polygeny.html">Polygeny</a>, <a href="polyvalent.html">polyvalent</a>, <a href="populace.html">populace</a>, <a href="prime.html">prime</a>, <a href="prime%20number.html">prime number</a>, <a href="Prime-number.html">Prime-number</a>, <a href="primitive.html">primitive</a>, <a href="probability.html">probability</a>, <a href="proof%20spirit.html">proof spirit</a>, <a href="Pyin.html">Pyin</a>, <a href="quadrillionth.html">quadrillionth</a>, <a href="Quet.html">Quet</a>, <a href="rallying.html">rallying</a>, <a href="Rational%20quantity.html">Rational quantity</a>, <a href="Ratiuncule.html">Ratiuncule</a>, <a href="reciprocal.html">reciprocal</a>, <a href="Reciprocal%20quantities.html">Reciprocal quantities</a>, <a href="Reciprocant.html">Reciprocant</a>, <a href="reconcile.html">reconcile</a>, <a href="recusant.html">recusant</a>, <a href="reunification.html">reunification</a>, <a href="reunify.html">reunify</a>, <a href="reunion.html">reunion</a>, <a href="Saturn.html">Saturn</a>, <a href="schism.html">schism</a>, <a href="scrappy.html">scrappy</a>, <a href="separation.html">separation</a>, <a href="septillion.html">septillion</a>, <a href="seventeenth.html">seventeenth</a>, <a href="seventh.html">seventh</a>, <a href="seventieth.html">seventieth</a>, <a href="severance.html">severance</a>, <a href="sextillion.html">sextillion</a>, <a href="Silurian.html">Silurian</a>, <a href="Sine%20of%20an%20angle.html">Sine of an angle</a>, <a href="sonata.html">sonata</a>, <a href="Specific%20volume.html">Specific volume</a>, <a href="split.html">split</a>, <a href="spotty.html">spotty</a>, <a href="starfish.html">starfish</a>, <a href="strand.html">strand</a>, <a href="sum.html">sum</a>, <a href="suspense.html">suspense</a>, <a href="suspension.html">suspension</a>, <a href="symbol.html">symbol</a>, <a href="system.html">system</a>, <a href="The%20historic%20sense.html">The historic sense</a>, <a href="Thermal%20conductivity.html">Thermal conductivity</a>, <a href="Totitive.html">Totitive</a>, <a href="Trigonometrical%20function.html">Trigonometrical function</a>, <a href="trillionth.html">trillionth</a>, <a href="Trimurti.html">Trimurti</a>, <a href="triune.html">triune</a>, <a href="Twaddell.html">Twaddell</a>, <a href="Twaddell%27s%20hydrometer.html">Twaddell's hydrometer</a>, <a href="twelfth.html">twelfth</a>, <a href="twentieth.html">twentieth</a>, <a href="type.html">type</a>, <a href="Unicity.html">Unicity</a>, <a href="Unific.html">Unific</a>, <a href="unify.html">unify</a>, <a href="union.html">union</a>, <a href="unit%20matrix.html">unit matrix</a>, <a href="Unitarian.html">Unitarian</a>, <a href="unitary.html">unitary</a>, <a href="united.html">united</a>, <a href="Unitude.html">Unitude</a>, <a href="Univariant.html">Univariant</a>, <a href="variation.html">variation</a>, <a href="view.html">view</a>, <a href="whole.html">whole</a>, <a href="Wolfian.html">Wolfian</a>, <a href="World%20Council%20of%20Churches.html">World Council of Churches</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					ynity, hnity, jnity, inity, ubity, uhity, ujity, umity, unuty, unjty, unkty, unoty, uniry, unify, unigy, uniyy, unitt, unitg, unith, unitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

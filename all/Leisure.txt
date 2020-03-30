@@ -1,0 +1,561 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>leisure</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">leisure</span> <span class="exp">freedom to choose a pastime or enjoyable activity</span> <span class="quot">"he lacked the leisure for golf"</span></li><li><span class="tSpeech">n</span> <span class="term">leisure</span> <span class="exp">time available for ease and relaxation</span> <span class="quot">"his job left him little leisure"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Surveys indicate that the number one reason people play BINGO is for leisure									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Leisure</span> <span class="exp">Freedom from occupation or business; vacant time; time free from employment.</span> <span class="wuQuot">"The desire of leisure is much more natural than of business and care."</span></li><li><span class="term">Leisure</span> <span class="exp">Time at one's command, free from engagement; convenient opportunity; hence, convenience; ease.</span> <span class="wuQuot">"He sighed, and had no leisure more to say."</span></li><li><span class="tSpeech">a</span> <span class="term">Leisure</span> <span class="exp">Unemployed; as, <span class="wUex">leisure</span> hours.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Food passes through the small intestine in just two hours, zipping along at 0.002 mph. Inside the large intestine, it takes about 14 hours, traveling at a more leisurely rate of 0.00007 mph
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">leisure</span> <span class="exp">Opportunity for ease or relaxation; freedom from necessary occupation or business; spare time.</span> </li><li><span class="tSpeech">n</span> <span class="term">leisure</span> <span class="exp">Convenient opportunity; available or commodious time; hence, convenience; ease.</span> </li><li><span class="term">leisure</span> <span class="exp">Free from business; idle; unoccupied: as, leisure moments.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Leisure</span> <span class="exp"><span class="itl">lē′zhōōr or lezh′-</span> time free from employment: freedom from occupation, convenient opportunity, ease</span> </li><li><span class="tSpeech">adj</span> <span class="term">Leisure</span> <span class="exp">unoccupied</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Leisure for people of business, and business for people of leisure would cure many problems.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aldous Huxley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aldous%20Huxley.jpg" alt="Aldous%20Huxley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What with making their way and enjoying what they have won, heroes have no time to think. But the sons of heroes --ah, they have all the necessary leisure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Laurence J. Peter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Laurence%20J.%20Peter.jpg" alt="Laurence%20J.%20Peter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The best intelligence test is what we do with our leisure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Scipio Africanus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Scipio Africanus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I'm never less at leisure than when at leisure, or less alone than when alone.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aristotle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aristotle.jpg" alt="Aristotle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The end of labor is to gain leisure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Benjamin Franklin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Benjamin%20Franklin.jpg" alt="Benjamin%20Franklin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Employ thy time well, if thou meanest to gain leisure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">leisere</span>, <span class="wUets">leiser</span>, OF. <span class="wUets">leisir</span>, F. <span class="wUets">loisir</span>, orig., permission, fr. L. <span class="wUets">licere</span>, to be permitted. See <span class="wUer">License</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The coral necklace lay on the edge of the table throughout most of our leisurely meal.
+					</div>
+					<div class="uAuthor">
+						"African Camp Fires" by <span>Stewart Edward White</span>					</div>
+										<div class="usage">
+						He leisurely saw the thousand, and raised another five hundred.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Foss River Ranch" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						To-morrow, though, I'll ask, in Easter leisure, This and the other question, at your pleasure.
+					</div>
+					<div class="uAuthor">
+						"Faust" by <span>Johann Wolfgang Von Goethe</span>					</div>
+										<div class="usage">
+						He had been trying to catch this glimpse for thirty years; he was a persistent man with plenty of leisure.
+					</div>
+					<div class="uAuthor">
+						"The Younger Set" by <span>Robert W. Chambers</span>					</div>
+										<div class="usage">
+						Now, late in the day, the travel was most leisurely.
+					</div>
+					<div class="uAuthor">
+						"The Silent Places" by <span>Steward Edward White</span>					</div>
+										<div class="usage">
+						They are busy, hard-working women, and the enforced leisure is very trying to them.
+					</div>
+					<div class="uAuthor">
+						"A Woman's Part in a Revolution" by <span>Natalie Harris Hammond</span>					</div>
+										<div class="usage">
+						His father was a blacksmith by trade, and employed his leisure time in cultivating a small farm of which he was the owner.
+					</div>
+					<div class="uAuthor">
+						"Great Fortunes, and How They Were Made" by <span>James D. McCabe, Jr.</span>					</div>
+										<div class="usage">
+						It was not ultra-fashionable, but it had wealth and leisure and some breeding.
+					</div>
+					<div class="uAuthor">
+						"The Quest of the Silver Fleece" by <span>W. E. B. Du Bois</span>					</div>
+										<div class="usage">
+						But out here, where the ladies have so much less leisure, it is still less desirable.
+					</div>
+					<div class="uAuthor">
+						"At Home And Abroad" by <span>Margaret Fuller Ossoli</span>					</div>
+										<div class="usage">
+						Colonial life, crowded as it was with hard and unremitting toil, left scant leisure for the cultivation of the arts and sciences.
+					</div>
+					<div class="uAuthor">
+						"History of the United States" by <span>Charles A. Beard and Mary R. Beard</span>					</div>
+										<div class="usage">
+						Albert was messing about the buggy in leisurely fashion.
+					</div>
+					<div class="uAuthor">
+						"Boy Woodburn" by <span>Alfred Ollivant</span>					</div>
+										<div class="usage">
+						Leisure is as important to work as work is to leisure.
+					</div>
+					<div class="uAuthor">
+						"A Girl's Student Days and After" by <span>Jeannette Marks</span>					</div>
+										<div class="usage">
+						It must be owned that the leisure is very scanty.
+					</div>
+					<div class="uAuthor">
+						"Change in the Village" by <span>(AKA George Bourne) George Sturt</span>					</div>
+										<div class="usage">
+						By chance he had leisure to survey the scene for some time unobserved.
+					</div>
+					<div class="uAuthor">
+						"The Rough Road" by <span>William John Locke</span>					</div>
+										<div class="usage">
+						Spring brought new occupation; household labours began to increase in number and measure; her leisure times were shortened.
+					</div>
+					<div class="uAuthor">
+						"The Wide, Wide World" by <span>Susan Warner</span>					</div>
+										<div class="usage">
+						The recruits were not long in getting to bed; though the "old gang" were more leisurely in their proceedings.
+					</div>
+					<div class="uAuthor">
+						"'Jena' or 'Sedan'?" by <span>Franz Beyerlein</span>					</div>
+										<div class="usage">
+						The next day we proceeded leisurely toward Livingston, having a little excitement with the bushwhackers, but suffering no loss.
+					</div>
+					<div class="uAuthor">
+						"History of Morgan's Cavalry" by <span>Basil W. Duke</span>					</div>
+										<div class="usage">
+						At all events, he had plenty of leisure on his hands, and could afford to make the trial.
+					</div>
+					<div class="uAuthor">
+						"Cudjo's Cave" by <span>J. T. Trowbridge</span>					</div>
+										<div class="usage">
+						Finally the giant white man rose to his feet on the swaying branch and leisurely stretched.
+					</div>
+					<div class="uAuthor">
+						"Warrior of the Dawn" by <span>Howard Carleton Browne</span>					</div>
+										<div class="usage">
+						We passed a lady on the way who was making sketches and daring the mosquitoes, that were feeding at leisure upon her face and arms.
+					</div>
+					<div class="uAuthor">
+						"The English in the West Indies" by <span>James Anthony Froude</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"The rest of my speech" (he explained to his men)<br>
+"You shall hear when I've leisure to speak it.<br>
+But the Snark is at hand, let me tell you again!<br>
+'Tis your glorious duty to seek it!
+							<div class="poet">"The Hunting Of The Snark " by <span>Lewis Carroll</span></div>
+						</div>
+											<div class="poemQuote">
+							"The rest of my speech" (he exclaimed to his men)<br>
+"You shall hear when I've leisure to speak it.<br>
+But the Snark is at hand, let me tell you again!<br>
+'Tis your glorious duty to seek it! 
+							<div class="poet">"Fit The Fourth -  The Hunting" by <span>Lewis Carroll</span></div>
+						</div>
+											<div class="poemQuote">
+							O Welcome simply soothing treasure!<br>
+In midst o' pain my lanely pleasure!<br>
+Tutor'd by thee, and whispering leisure,<br>
+I quit the thrang,<br>
+And, wrapt in bless'd retirement, measure<br>
+Thy varied sang!
+							<div class="poet">"The Scottish Muse" by <span>Hector MacNeill </span></div>
+						</div>
+											<div class="poemQuote">
+							Did that come back to you when you were dying?<br>
+I think it did: you had much leisure there,<br>
+And, with the things we knew, came quietly flying<br>
+Memories of things you had seen we knew not where.
+							<div class="poet">"Elegy" by <span>John Collings Squire</span></div>
+						</div>
+											<div class="poemQuote">
+							The motors flash by with their noise and their smell<br>
+Assailing your eyes and your nostrils as well,<br>
+So modern their haste is, no leisure have they<br>
+For old-fashioned things like a lift by the way.
+							<div class="poet">"A Lift" by <span>Cicely Fox Smith</span></div>
+						</div>
+											<div class="poemQuote">
+							In the eternal dome of azure<br>
+Did you not dream with longside pleasure<br>
+Of what you left? Did you not sigh<br>
+For dear Home's leisure?<br>
+Or cry when seeing in the sky<br>
+The clouds that northwardly did hie?
+							<div class="poet">"Spring Harbingers" by <span>George Cosbuc</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						For more information or to book, please visit QT Port Douglas, or call 61-7/4099-8900 and mention Travel + Leisure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.travelandleisure.com/vacation-deals/australia-40-off-queensland-boutique-hotel" target="_blank" rel="external nofollow">travelandleisure.com</a>
+					</div>
+										<div class="usage">
+						Culture &amp; Leisure 5 31.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/lists/2007/5/07bestplaces_Rapid-City-SD_2740.html" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						One of the best ways to do that is to enjoy a leisurely lunch at Le Grand Bistro &amp; Oyster Bar.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.5280.com/blogs/2012/01/03/best-bites-le-grands-ratatouille-tart" target="_blank" rel="external nofollow">5280.com</a>
+					</div>
+										<div class="usage">
+						The best way to see any city worth seeing is on foot and at leisure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2002/03/03/magazine/the-golden-age-of-ravenna.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						 REH Leisure Series includes 15 shows.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tbnweekly.com/editorial/local_entertainment/stage_theater/content_articles/091112_lestage-01.txt" target="_blank" rel="external nofollow">tbnweekly.com</a>
+					</div>
+										<div class="usage">
+						Competition for the leisure dollar is at its highest level these days and this scenario does not look like it will ever go away.
+					</div>
+					<div class="uAuthor">
+						<a href="http://tapmag.com/2010/09/15/rejuvenate-your-business-and-give-it-something-to-market/" target="_blank" rel="external nofollow">tapmag.com</a>
+					</div>
+										<div class="usage">
+						In the form of lemon-lime soda -- to each glass as you serve it allows you to enjoy this pitcher cocktail at your leisure without worrying about the whole batch losing its fizz.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/food/index.ssf/2011/05/rooibus_relaxer.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						Rowley, the former head of the United States Secret Service who reorganized the agency after the assassination of President John F Kennedy, died Sunday at his home in Leisure World, Md.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1992/11/03/us/james-rowley-84-who-headed-secret-service-and-reorganized-it.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						ALL ARTICLES Arts &amp; Leisure (April 10, 2005).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2005/04/10/arts/music/10tomm.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Culture &amp; Leisure 5 16.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/lists/2007/1/07bestplaces_Rockingham-County-NH_NHRoc.html" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						 Rubinstein died July 24 at his home in Leisure Village after a battle with cancer, his family said.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.venturacountystar.com/news/2012/jul/31/rabbi-moshe-rubinstein-remembered-for-service/" target="_blank" rel="external nofollow">venturacountystar.com</a>
+					</div>
+										<div class="usage">
+						TORONTO, Ontario — Leisure Design, supplier of outdoor woven furniture, announced the addition of Scott Reitz to its sales force.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.casualliving.com/article/535163-Leisure_Design_hires_Scott_Reitz_as_Midwest_sales_representative.php" target="_blank" rel="external nofollow">casualliving.com</a>
+					</div>
+										<div class="usage">
+						The Athens-Clarke County Leisure Services Department will conduct a senior adult trip along the Blue Ridge Scenic Railway on Thursday, Oct 11.
+					</div>
+					<div class="uAuthor">
+						<a href="http://onlineathens.com/blueprint/2012-09-16/blue-ridge-scenic-railway-trip-planned" target="_blank" rel="external nofollow">onlineathens.com</a>
+					</div>
+										<div class="usage">
+						Time for the week's most leisurely cup of coffee.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.saltlakemagazine.com/blog/2012/03/artisan-siphon-brewed-coffee-at-caffe-dbolla-haunts-my-daily-morning-cup-in-a-good-way" target="_blank" rel="external nofollow">saltlakemagazine.com</a>
+					</div>
+										<div class="usage">
+						Brad Leisure's SketchPad #167, April 2012 features the classic '32 Ford doing a double-take.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.modelcarsmag.com/sketchpad-167/" target="_blank" rel="external nofollow">modelcarsmag.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The hypothesis that FCC046 is actively forming stars, albeit at a leisurely pace, is further corroborated by its blue colour and high near-infrared Paschen absorption index (Michielsen et al. 2003). 
+					</div>
+					<div class="uAuthor">
+						Evidence for a warm ISM in Fornax dEs - II. FCC032, FCC206 and FCCB729
+					</div>
+										<div class="usage">
+						The ﬁrst half of this section is based on the (more leisurely) account contained in Jacka and Warren (1999) of what it might mean to shuﬄe an inﬁnite set of cards. 
+					</div>
+					<div class="uAuthor">
+						Random orderings of the integers and card shuffling
+					</div>
+										<div class="usage">
+						There is little time for leisure, and waking hours are consumed by the requirements of work. 
+					</div>
+					<div class="uAuthor">
+						Astronomy in Antarctica
+					</div>
+										<div class="usage">
+						High speed means high read noise so high frame rate cameras will need higher gains than the more leisurely QUCAM2 (1.6s read-out time in EM mode). 
+					</div>
+					<div class="uAuthor">
+						On the use of electron-multiplying CCDs for astronomical spectroscopy
+					</div>
+										<div class="usage">
+						But since the observer at inﬁnity has an arbitrary amount of energy at his disposal, it would seem that he can use an external device to pull the infalling system back to inﬁnity, and then decode the state of the system at leisure. 
+					</div>
+					<div class="uAuthor">
+						Losing information outside the horizon
+					</div>
+										<div class="usage">
+						Ireland Department of Culture, Arts and Leisure. 
+					</div>
+					<div class="uAuthor">
+						Can coronal hole spicules reach coronal temperatures?
+					</div>
+										<div class="usage">
+						In view of the close historical link of Mathematics with Physics, it is tempting to dwell further on the extent of this relationship through some leisurely examples, the very ﬁrst one being Newton’s Laws of Motion. 
+					</div>
+					<div class="uAuthor">
+						Mathematics : The Language of Science
+					</div>
+										<div class="usage">
+						The current paper is self-contained, but the reader might enjoy our introduction to the sub ject given in , where many of our ideas and motivations are introduced in a more leisurely fashion. 
+					</div>
+					<div class="uAuthor">
+						Structures and Diagrammatics of Four Dimensional Topological Lattice Field Theories
+					</div>
+										<div class="usage">
+						Finally, unlike Gaia, S IM will have the leisure to choose the number No and timing of the observations as well as the number Nr of reference ob jects. 
+					</div>
+					<div class="uAuthor">
+						Astrometric Methods and Instrumentation to Identify and Characterize Extrasolar Planets: A Review
+					</div>
+										<div class="usage">
+						After the signals have been sent and received, observers from all spacecraft can meet at leisure and compare results. 
+					</div>
+					<div class="uAuthor">
+						Proposed split-causality test of the relativity principle
+					</div>
+										<div class="usage">
+						Note that this means that if a member of a household wants to work less than the legal maximum, if there is one, this is considered to be purchased back in their consumption plan, and is then called ”leisure”. 
+					</div>
+					<div class="uAuthor">
+						Time and symmetry in models of economic markets
+					</div>
+										<div class="usage">
+						The second section, 1.2, is a more leisurely (or, a less rapid) discussion of some of the basic theory of group algebras, while the last one, Section 1.3, is an introduction to triangulated categories. 
+					</div>
+					<div class="uAuthor">
+						Representations of finite groups: Local cohomology and support
+					</div>
+										<div class="usage">
+						Scarmeas, N., Levy, G., Tang, M., Manly, J. y Stern, Y. (2001). Influence of leisure activity on the incidence of Alzheimer’s disease. Neurology, 57, 2236-2242. 
+					</div>
+					<div class="uAuthor">
+						The physical condition from the perspective of complexity: Application of a physical activity program for Alzheimer's disease
+					</div>
+										<div class="usage">
+						Ireland Department of Culture, Arts and Leisure. 
+					</div>
+					<div class="uAuthor">
+						Off-limb (spicule) DEM distribution from SoHO/SUMER observations
+					</div>
+										<div class="usage">
+						The reception of scholarly texts differs from everyday reading; whether for information or leisure. E-readers must meet a variety of functional requirements in different reading contexts. 
+					</div>
+					<div class="uAuthor">
+						Are e-readers suitable tools for scholarly work?
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="time available for ease and relaxation"><a href="leisure%20time.html">leisure time</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ease.html">ease</a>, <a href="relaxation.html">relaxation</a>, <a href="repose.html">repose</a>, <a href="rest.html">rest</a>, <a href="time%20off.html">time off</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="free%20time.html">free time</a>, <a href="holiday.html">holiday</a>, <a href="playday.html">playday</a>, <a href="playtime.html">playtime</a>, <a href="spare%20time.html">spare time</a>, <a href="vacation.html">vacation</a>, <a href="vacationing.html">vacationing</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="leisurely.html">leisurely</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="busy.html">busy</a>, <a href="By-time.html">By-time</a>, <a href="Bywork.html">Bywork</a>, <a href="cruise.html">cruise</a>, <a href="den.html">den</a>, <a href="Disengaged.html">Disengaged</a>, <a href="disengagement.html">disengagement</a>, <a href="engaged.html">engaged</a>, <a href="find.html">find</a>, <a href="gentry.html">gentry</a>, <a href="gym%20rat.html">gym rat</a>, <a href="holiday.html">holiday</a>, <a href="laser.html">laser</a>, <a href="Leisurable.html">Leisurable</a>, <a href="Leisurably.html">Leisurably</a>, <a href="leisured.html">leisured</a>, <a href="leisurely.html">leisurely</a>, <a href="Leyser.html">Leyser</a>, <a href="loiter.html">loiter</a>, <a href="lounger.html">lounger</a>, <a href="otiose.html">otiose</a>, <a href="Otiosity.html">Otiosity</a>, <a href="Resting-while.html">Resting-while</a>, <a href="Ruminantia.html">Ruminantia</a>, <a href="rumination.html">rumination</a>, <a href="sometimes.html">sometimes</a>, <a href="space.html">space</a>, <a href="Toom.html">Toom</a>, <a href="Unleisured.html">Unleisured</a>, <a href="Upsetting%20thermometer.html">Upsetting thermometer</a>, <a href="vacancy.html">vacancy</a>, <a href="vacation.html">vacation</a>, <a href="Vacuna.html">Vacuna</a>, <a href="void.html">void</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					keisure, oeisure, peisure, lwisure, lsisure, ldisure, lrisure, leusure, lejsure, leksure, leosure, leiaure, leiwure, leidure, leixure, leizure, leiaure, leisyre, leishre, leisjre, leisire, leisuee, leisude, leisufe, leisute, leisurw, leisurs, leisurd, leisurr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

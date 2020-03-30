@@ -1,0 +1,556 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>sincerity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">sincerity</span> <span class="exp">the trait of being serious</span> <span class="quot">"a lack of solemnity is not necessarily a lack of seriousness"- Robert Rice"</span></li><li><span class="tSpeech">n</span> <span class="term">sincerity</span> <span class="exp">a quality of naturalness and simplicity</span> <span class="quot">"the simple sincerity of folk songs"</span></li><li><span class="tSpeech">n</span> <span class="term">sincerity</span> <span class="exp">the quality of being open and truthful; not deceitful or hypocritical</span> <span class="quot">"his sincerity inspired belief","they demanded some proof of my sincerity"</span></li><li><span class="tSpeech">n</span> <span class="term">sincerity</span> <span class="exp">an earnest and sincere feeling</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Grasping your ears is a sign of repentance or sincerity in India.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Sincerity</span> <span class="exp">The quality or state of being sincere; honesty of mind or intention; freedom from simulation, hypocrisy, disguise, or false pretense; sincereness.</span> <span class="wuQuot">"I protest, in the sincerity of love."</span><span class="wuQuot">"Sincerity is a duty no less plain than important."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">sincerity</span> <span class="exp">The state or character of being sincere. Freedom from admixture, adulteration, or alloy; pnrity.</span> </li><li><span class="tSpeech">n</span> <span class="term">sincerity</span> <span class="exp">Freedom from duplicity, deceit, or falsehood; honesty; truthfulness.</span> </li><li><span class="tSpeech">n</span> <span class="term">sincerity</span> <span class="exp">Integrity; uprightness; faithfulness.</span> </li><li><span class="tSpeech">n</span> <span class="term">sincerity</span> <span class="exp">Synonyms See sincere.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Sincerity</span> <span class="exp">state or quality of being sincere: honesty of mind: freedom from pretence</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aldous Huxley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aldous%20Huxley.jpg" alt="Aldous%20Huxley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A bad book is as much of a labor to write as a good one; it comes as sincerely from the author's soul.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marquis De Vauvenargues</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marquis%20De%20Vauvenargues.jpg" alt="Marquis%20De%20Vauvenargues">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Everyone is born sincere and die deceivers.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edward G. Bulwer-Lytton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edward%20G.%20Bulwer-Lytton.jpg" alt="Edward%20G.%20Bulwer-Lytton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Enthusiasm is the genius of sincerity and truth accomplishes no victories without it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Confucius</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Confucius.jpg" alt="Confucius">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Faithfulness and sincerity are the highest things.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Bernard Shaw</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Bernard%20Shaw.jpg" alt="George%20Bernard%20Shaw">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no love sincerer than the love of food.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Santayana</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Santayana.jpg" alt="George%20Santayana">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A man is morally free when, in full possession of his living humanity, he judges the world, and judges other men, with uncompromising sincerity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">sinceritas</span>,: cf. F. <span class="wUets">sincérité</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>sincerus</i>, clean, generally derived from <i>sine</i>, without, <i>cera</i>, wax; better from <i>sin-</i>, single, <i>-cerus</i> for an assumed <i>scerus</i>, bright.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						If they disavow his conduct, we must naturally look to their treatment of him as the sole evidence of their sincerity.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						I sincerely lament it, because I sincerely esteem them all, and because it multiplies schisms where harmony is safety.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						His younger acquaintances in the Nonjuring body, however sincere and generous in temperament, were men of a different order.
+					</div>
+					<div class="uAuthor">
+						"The English Church in the Eighteenth Century" by <span>Charles J. Abbey and John H. Overton</span>					</div>
+										<div class="usage">
+						With the utmost sincerity she wondered for the thousandth time why she had ever been born.
+					</div>
+					<div class="uAuthor">
+						"The Halo" by <span>Bettina von Hutten</span>					</div>
+										<div class="usage">
+						This is peculiarly the case with the most sincere and genuine men.
+					</div>
+					<div class="uAuthor">
+						"The Young Man and the World" by <span>Albert J. Beveridge</span>					</div>
+										<div class="usage">
+						He loves the truth, and sympathizes with all earnest and sincere inquirers after it.
+					</div>
+					<div class="uAuthor">
+						"Companion to the Bible" by <span>E. P. Barrows</span>					</div>
+										<div class="usage">
+						Isaacson's sincerity was sorely tested by his friendship at this period.
+					</div>
+					<div class="uAuthor">
+						"Bella Donna" by <span>Robert Hichens</span>					</div>
+										<div class="usage">
+						Prayer is the offering up of the sincere desires and feelings of our hearts to God.
+					</div>
+					<div class="uAuthor">
+						"A Practical Directory for Young Christian Females" by <span>Harvey Newcomb</span>					</div>
+										<div class="usage">
+						My case was liver disease and nervous dyspepsia of which your medicine has cured me, for which receive my sincere thanks.
+					</div>
+					<div class="uAuthor">
+						"The People's Common Sense Medical Adviser in Plain English" by <span>R. V. Pierce</span>					</div>
+										<div class="usage">
+						Only the sincere ever doubt their sincerity.
+					</div>
+					<div class="uAuthor">
+						"Prisoners" by <span>Mary Cholmondeley</span>					</div>
+										<div class="usage">
+						Some of the best men value sincerity of appearance in a woman more than perhaps you would believe to be possible.
+					</div>
+					<div class="uAuthor">
+						"The Way of Ambition" by <span>Robert Hichens</span>					</div>
+										<div class="usage">
+						The interest of the State is with him a sincere thirst of the soul, as it was in the little pagan cities.
+					</div>
+					<div class="uAuthor">
+						"George Bernard Shaw" by <span>Gilbert K. Chesterton</span>					</div>
+										<div class="usage">
+						In days so grave as these, it is necessary for every one to be sincere.
+					</div>
+					<div class="uAuthor">
+						"Napoleon and the Queen of Prussia" by <span>L. Mühlbach,</span>					</div>
+										<div class="usage">
+						Alida was the first whose charms were capable of rendering them sincere.
+					</div>
+					<div class="uAuthor">
+						"Alida" by <span>Amelia Stratton Comfield</span>					</div>
+										<div class="usage">
+						I pray you, continue your story with the same sincerity.
+					</div>
+					<div class="uAuthor">
+						"Luxury-Gluttony:" by <span>Eugène Sue</span>					</div>
+										<div class="usage">
+						I sincerely believe not.
+					</div>
+					<div class="uAuthor">
+						"Luttrell Of Arran Complete" by <span>Charles James Lever</span>					</div>
+										<div class="usage">
+						Sincere and beautiful as the ideal of chivalrous love may have been, it speedily degenerated.
+					</div>
+					<div class="uAuthor">
+						"Renaissance in Italy: Italian Literature" by <span>John Addington Symonds</span>					</div>
+										<div class="usage">
+						I am sincerely sorry for him, and so will you be.
+					</div>
+					<div class="uAuthor">
+						"Charles Lever, His Life in His Letters, Vol. II (of II)" by <span>Edmund Downey
+        Charles James Lever</span>					</div>
+										<div class="usage">
+						Ever yours sincerely, Olive Cecilia Cowley.
+					</div>
+					<div class="uAuthor">
+						"The Life, Letters and Work of Frederic Leighton" by <span>Mrs. Russell Barrington</span>					</div>
+										<div class="usage">
+						The proposal itself should be sincere and earnest.
+					</div>
+					<div class="uAuthor">
+						"Book of Etiquette" by <span>Lillian Eichler</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							WEEPING, murmuring, complaining,<br>
+Lost to every gay delight;<br>
+MYRA, too sincere for feigning,<br>
+Fears th' approaching bridal night.
+							<div class="poet">"A Sonnet" by <span>Oliver Goldsmith</span></div>
+						</div>
+											<div class="poemQuote">
+							Deal gently, Lord, with souls sincere,<br>
+And lead them safely on<br>
+To the bright gates of Paradise,<br>
+Where Christ their Lord is gone.
+							<div class="poet">"Psalm 125" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Pure and sincere is Mary's Love:<br>
+Words were superfluous to tell;<br>
+A thousand tendernesses prove<br>
+That Mary loves her Stephen well.
+							<div class="poet">"Love's Triumph" by <span>Nathaniel Bloomfield</span></div>
+						</div>
+											<div class="poemQuote">
+							Lord, search my thoughts, and try my ways,<br>
+And make my soul sincere<br>
+Then shall I stand before thy face,<br>
+And find acceptance there.
+							<div class="poet">"Hymn 136" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							O may I steal Along the vale<br>
+Of humble life, secure from foes!<br>
+My friend sincere, My judgment clear,<br>
+And gentle business my repose!
+							<div class="poet">"Ocean: An Ode. Concluding With A Wish." by <span>Edward Young</span></div>
+						</div>
+											<div class="poemQuote">
+							His spirit hates deceit and lies,<br>
+His words are all sincere;<br>
+He guards his heart, he guards his eyes,<br>
+To keep his conscience clear.
+							<div class="poet">"Psalm XXXII: Happy the Man" by <span>Isaac Watts</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Specifically, I didn't expect a pop-monger to get funky courtesy of a few stealth Cake members, and the Jesus thing, while left-field, seemed sincere.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sdreader.com/news/2011/feb/02/cd-review-psychedelic-mynde-moses-2010/" target="_blank" rel="external nofollow">sdreader.com</a>
+					</div>
+										<div class="usage">
+						Apparently guests were mildly pleased by the chain's sincere efforts to provide a hassle-free stay.
+					</div>
+					<div class="uAuthor">
+						<a href="http://money.cnn.com/magazines/fortune/fortune_archive/2001/12/24/315311/index.htm" target="_blank" rel="external nofollow">money.cnn.com</a>
+					</div>
+										<div class="usage">
+						Marchionne ' sincerely ' hopes to acquire rest of Chrysler.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.detnews.com/article/20121115/AUTO0101/211150445/1361/update/Marchionne-sincerely-hopes-acquire-rest-Chrysler" target="_blank" rel="external nofollow">detnews.com</a>
+					</div>
+										<div class="usage">
+						( Sincerely Inc / November 14, 2012 ).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/business/technology/la-fi-tn-sincerely-facebook-gifts-wont-crush-our-mobile-gift-business-20121114,0,1650254.story?track=rss" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Fifteen-year-old Erin Billings of Burnt Hills hopes to provide a window into the teen world and the issue of bullying through her new book, " Sincerely ," which was released on July 17.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.spotlightnews.com/news/2012/aug/05/sincerity-shines-through-sincerely/" target="_blank" rel="external nofollow">spotlightnews.com</a>
+					</div>
+										<div class="usage">
+						Kate Winslet Tells Vanity Fair 'I Am Sincerely Grateful for My Buttocks'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/fash-track/kate-winslet-vanity-fair-buttocks-grateful-330973" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						 Sincerely , the church.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.chron.com/thepeacepastor/2011/07/dear-world-sorry-we-werent-there-for-you-sincerely-the-church/" target="_blank" rel="external nofollow">blog.chron.com</a>
+					</div>
+										<div class="usage">
+						"I Sincerely Apologize" For Crude Tsunami Tweets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usmagazine.com/celebrity-news/news/gilbert-gottfried-i-sincerely-apologize-for-crude-tsunami-tweets-2011153" target="_blank" rel="external nofollow">usmagazine.com</a>
+					</div>
+										<div class="usage">
+						Usher ' Sincerely Troubled' by Gadhafi Concert Link.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.billboard.com/news/usher-sincerely-troubled-by-gadhafi-concert-1005059922.story" target="_blank" rel="external nofollow">billboard.com</a>
+					</div>
+										<div class="usage">
+						Sincere thanks to Crossroads Church for the use of its building for the blood drive.
+					</div>
+					<div class="uAuthor">
+						<a href="http://waconiapatriot.com/2012/11/15/card-of-thanks-plato-blood-drive/" target="_blank" rel="external nofollow">waconiapatriot.com</a>
+					</div>
+										<div class="usage">
+						Climate-change scientists—so serious, so sincere, so scandalous.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.honolulumagazine.com/Honolulu-Magazine/February-2010/May-Cooler-Heads-Prevail/index.php" target="_blank" rel="external nofollow">honolulumagazine.com</a>
+					</div>
+										<div class="usage">
+						The New Albany Elementary School PTO would like to express our sincere appreciation to the numerous businesses and individuals that contributed in some way to the first Deck the Halls Shopping Extravaganza.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newalbanygazette.com/content/thanks-supporting-school-pto" target="_blank" rel="external nofollow">newalbanygazette.com</a>
+					</div>
+										<div class="usage">
+						Neither is compassion, sincerity or generosity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mountainx.com/article/42139/Drew-Reisinger-embodies-the-ideal-public-servant" target="_blank" rel="external nofollow">mountainx.com</a>
+					</div>
+										<div class="usage">
+						My sincere thank you to Diana Pyle for stepping in for me with the Senior Center exercise class.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chilkatvalleynews.com/story/2012/09/13/letters/pyle-stepped-in-led-class/3731.html" target="_blank" rel="external nofollow">chilkatvalleynews.com</a>
+					</div>
+										<div class="usage">
+						And extend my sincere gratitude to everyone who had a part in the removal of the property at 917 Broadway, more commonly called "The Old Ward's Building".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.emmetsburgnews.com/page/content.detail/id/509486/Success-Is-Result-Of-Collaboration.html?nav=5058" target="_blank" rel="external nofollow">emmetsburgnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Let Λ be an artin algebra, and let t be a sincere stable separating tubular family. 
+					</div>
+					<div class="uAuthor">
+						Infinite dimensional representations of canonical algebras
+					</div>
+										<div class="usage">
+						ACKNOW L EDGMENT S We would like to sincerely thank our colleagues for their speciﬁc contributions in various sections in this paper. 
+					</div>
+					<div class="uAuthor">
+						A Unified Approach to Sparse Signal Processing
+					</div>
+										<div class="usage">
+						The authors would like to express their sincere gratitude to Professor Sadayoshi Ko jima for encouraging them. 
+					</div>
+					<div class="uAuthor">
+						Quandle homology and complex volume
+					</div>
+										<div class="usage">
+						I would like to express my sincere thanks to Prof. M. 
+					</div>
+					<div class="uAuthor">
+						Perspective from Micro-Macro Duality -- Towards non-perturbative renormalization scheme
+					</div>
+										<div class="usage">
+						Lemma 3.1 is inspired by a conversation with Professor Paul Baum during his visit to Fudan University in Shanghai, to whom the author also express his sincere thanks. 
+					</div>
+					<div class="uAuthor">
+						Cohomology obstructions to certain circle actions
+					</div>
+										<div class="usage">
+						We extend our sincere gratitude to the WEHeraeus Stiftung for the support and to Mrs. 
+					</div>
+					<div class="uAuthor">
+						Strong interactions: From methods to structures
+					</div>
+										<div class="usage">
+						Finally, the last section presents the proof of the main results in a series of technical yet elementary lemmas. I sincerely thank Mirko Primc for his valuable suggestions. 
+					</div>
+					<div class="uAuthor">
+						Character formulas for Feigin-Stoyanovsky's type subspaces of standard $\mathfrak{sl}(3, \mathbb{C})^{\widetilde{}}$-modules
+					</div>
+										<div class="usage">
+						The author would like to sincerely thank his thesis advisor, Paul Hewitt, under who’s direction and advice these results originally appeared. 
+					</div>
+					<div class="uAuthor">
+						Generic Representation Theory of the Heisenberg Group
+					</div>
+										<div class="usage">
+						Acknowledgments. I sincerely thank my advisor Prof. 
+					</div>
+					<div class="uAuthor">
+						Stability of complex hyperbolic space under curvature-normalized Ricci flow
+					</div>
+										<div class="usage">
+						We would like to express our sincere thanks to Constantin Z˘alinescu for reading through the ﬁrst version of this paper, and making a number of suggestions that have improved the exposition enormously. 
+					</div>
+					<div class="uAuthor">
+						The asymmetric sandwich theorem
+					</div>
+										<div class="usage">
+						This was written under Giovanni Forni for my PhD thesis, and I am sincerely grateful for his help. 
+					</div>
+					<div class="uAuthor">
+						The Cohomological Equation and Invariant Distributions for Horocycle Maps
+					</div>
+										<div class="usage">
+						Acknowledgement The authors would like to express his sincere gratitude to Professor Fumio Sakai for his valuable advices and warm encouragement during the preparation of the present article. 
+					</div>
+					<div class="uAuthor">
+						Punctual Hilbert schemes for irreducible curve singularities of $E_6$ and $E_8$ types
+					</div>
+										<div class="usage">
+						Acknowledgements The authors would like to express their sincere gratitude to Professor Yasuo Ohno for pointing out that (1.16) in Corollary 1.5 is a consequence of the work of Arakawa and Kaneko . 
+					</div>
+					<div class="uAuthor">
+						Sum formulas for double polylogarithms with a shifting parameter and their derivatives
+					</div>
+										<div class="usage">
+						ACKNOWLEDGMENT Sincere thanks to my colleague Saugat Mazumdar and my thesis advisor Dr Muralidhara V.N for initial discussions on this paper. 
+					</div>
+					<div class="uAuthor">
+						Confidentiality without Encryption For Cloud Computational Privacy
+					</div>
+										<div class="usage">
+						The author would like to express his sincere appreciation to his adviser, Prof. 
+					</div>
+					<div class="uAuthor">
+						The Whittaker-Shintani functions for symplectic groups
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a quality of naturalness and simplicity"><a href="unassumingness.html">unassumingness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="frivolity.html">frivolity</a>, <a href="insincerity.html">insincerity</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="gravity.html">gravity</a>, <a href="naturalness.html">naturalness</a>, <a href="solemnity.html">solemnity</a>, <a href="trait.html">trait</a>, <a href="truthfulness.html">truthfulness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="commitment.html">commitment</a>, <a href="committedness.html">committedness</a>, <a href="graveness.html">graveness</a>, <a href="gravity.html">gravity</a>, <a href="heartiness.html">heartiness</a>, <a href="sedateness.html">sedateness</a>, <a href="singleness.html">singleness</a>, <a href="soberness.html">soberness</a>, <a href="sobriety.html">sobriety</a>, <a href="solemness.html">solemness</a>, <a href="solemnity.html">solemnity</a>, <a href="somberness.html">somberness</a>, <a href="sombreness.html">sombreness</a>, <a href="staidness.html">staidness</a>, <a href="straightforwardness.html">straightforwardness</a>, <a href="wholeheartedness.html">wholeheartedness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="earnest.html">earnest</a>, <a href="serious.html">serious</a>, <a href="sincere.html">sincere</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="artless.html">artless</a>, <a href="artlessness.html">artlessness</a>, <a href="bona%20fide.html">bona fide</a>, <a href="call.html">call</a>, <a href="candor.html">candor</a>, <a href="candour.html">candour</a>, <a href="cant.html">cant</a>, <a href="clearness.html">clearness</a>, <a href="cynical.html">cynical</a>, <a href="declaim.html">declaim</a>, <a href="diffident.html">diffident</a>, <a href="distrust.html">distrust</a>, <a href="eagerness.html">eagerness</a>, <a href="earnest.html">earnest</a>, <a href="empty.html">empty</a>, <a href="genuineness.html">genuineness</a>, <a href="grimace.html">grimace</a>, <a href="Heartedness.html">Heartedness</a>, <a href="heartily.html">heartily</a>, <a href="heartiness.html">heartiness</a>, <a href="honest.html">honest</a>, <a href="honesty.html">honesty</a>, <a href="hypocritically.html">hypocritically</a>, <a href="In%20good%20faith.html">In good faith</a>, <a href="insincere.html">insincere</a>, <a href="insincerely.html">insincerely</a>, <a href="insincerity.html">insincerity</a>, <a href="martyr.html">martyr</a>, <a href="Mouth-made.html">Mouth-made</a>, <a href="open.html">open</a>, <a href="Open-heartedness.html">Open-heartedness</a>, <a href="Outpray.html">Outpray</a>, <a href="plain.html">plain</a>, <a href="Plain-dealing.html">Plain-dealing</a>, <a href="Plain-spoken.html">Plain-spoken</a>, <a href="probity.html">probity</a>, <a href="purity.html">purity</a>, <a href="query.html">query</a>, <a href="simplicity.html">simplicity</a>, <a href="sincerely.html">sincerely</a>, <a href="Sincereness.html">Sincereness</a>, <a href="singleness.html">singleness</a>, <a href="trueness.html">trueness</a>, <a href="truly.html">truly</a>, <a href="truth.html">truth</a>, <a href="unfeignedly.html">unfeignedly</a>, <a href="wholeheartedness.html">wholeheartedness</a>, <a href="will.html">will</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					aincerity, wincerity, dincerity, xincerity, zincerity, aincerity, suncerity, sjncerity, skncerity, soncerity, sibcerity, sihcerity, sijcerity, simcerity, sinxerity, sinderity, sinferity, sinverity, sincwrity, sincsrity, sincdrity, sincrrity, sinceeity, sincedity, sincefity, sincetity, sinceruty, sincerjty, sincerkty, sinceroty, sinceriry, sincerify, sincerigy, sinceriyy, sinceritt, sinceritg, sincerith, sinceritu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

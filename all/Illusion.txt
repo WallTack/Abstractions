@@ -1,0 +1,536 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>illusion</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">an illusory feat; considered magical by naive observers</span> </li><li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">the act of deluding; deception by creating illusory ideas</span> </li><li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">something many people believe that is false</span> <span class="quot">"they have the illusion that I am very wealthy"</span></li><li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">an erroneous mental representation</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Illusion</span> <span class="exp">A plain, delicate lace, usually of silk, used for veils, scarfs, dresses, etc.</span> </li><li><span class="term">Illusion</span> <span class="exp"><span class="wuFld">(Physiol)</span> A sensation originated by some external object, but so modified as in any way to lead to an erroneous perception; as when the rolling of a wagon is mistaken for thunder.</span> </li><li><span class="term">Illusion</span> <span class="exp">An unreal image presented to the bodily or mental vision; a deceptive appearance; a false show; mockery; hallucination.</span> <span class="wuQuot">"To cheat the eye with blear illusions ."</span></li><li><span class="term">Illusion</span> <span class="exp">Hence: Anything agreeably fascinating and charming; enchantment; witchery; glamour.</span> <span class="wuQuot">"Ye soft illusions , dear deceits, arise!"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">That which illudes or deceives; an unreal vision presented to the bodily or mental eye; deceptive appearance; false show.</span> </li><li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">Specifically In psychology, a false perception due to the modification of a true perception by the imagination: distinguished from false appearances due to the imperfection of the bodily organs of sense, such as irradiation, and from hallucinations, into which no true perception enters. See hallucination, 2.</span> </li><li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">The act of deceiving or imposing upon any one; deception; delusion; mockery.</span> </li><li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">A thin and very transparent kind of tulle.</span> </li><li><span class="tSpeech">n</span> <span class="term">illusion</span> <span class="exp">In the pictorial arts, an imitation of the appearance of nature which is intended to create the impression of reality.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Illusion</span> <span class="exp"><span class="itl">il-lū′zhun</span> a playing upon: a mocking: deceptive appearance: false show: error</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The most dangerous thing is illusion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sebastien-Roch Nicolas De Chamfort</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sebastien-Roch%20Nicolas%20De%20Chamfort.jpg" alt="Sebastien-Roch%20Nicolas%20De%20Chamfort">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Pleasure can be supported by an illusion; but happiness rests upon truth.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arthur Koestler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Arthur%20Koestler.jpg" alt="Arthur%20Koestler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nothing is more sad than the death of an illusion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Wadsworth Longfellow</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Wadsworth%20Longfellow.jpg" alt="Henry%20Wadsworth%20Longfellow">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Therefore trust to thy heart, and to what the world calls illusions.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The one person who has more illusions than the dreamer is the man of action.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Orson Welles</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Orson%20Welles.jpg" alt="Orson%20Welles">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">illusion</span>, L. <span class="wUets">illusio</span>, fr. <span class="wUets">illu</span>,dere, <span class="wUets">illusum</span>, to illude. See <span class="wUer">Illude</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					See <b>Illude</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Caswallawn had flung upon him the Veil of Illusion, so that no one could see him slay the men, but the sword only could they see.
+					</div>
+					<div class="uAuthor">
+						"The Mabinogion Vol. 3 (of 3)"					</div>
+										<div class="usage">
+						Persons can retain a hobby or an illusion for a time or for all time.
+					</div>
+					<div class="uAuthor">
+						"Watch Yourself Go By" by <span>Al. G. Field</span>					</div>
+										<div class="usage">
+						I sat up in bed; frightened at the wild confusion of my brain, I passed my hands over my eyes to remove the illusion, but in vain.
+					</div>
+					<div class="uAuthor">
+						"Ernest Linwood" by <span>Caroline Lee Hentz</span>					</div>
+										<div class="usage">
+						The number of illusions of vision is remarkable.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Mind" by <span>James Mark Baldwin</span>					</div>
+										<div class="usage">
+						A dazzling light that clears away all misty illusions, but my eyes are strong enough to bear it!
+					</div>
+					<div class="uAuthor">
+						"The Home" by <span>Fredrika Bremer</span>					</div>
+										<div class="usage">
+						The Terran had no illusions concerning his own marksmanship.
+					</div>
+					<div class="uAuthor">
+						"Storm Over Warlock" by <span>Andre Norton</span>					</div>
+										<div class="usage">
+						How can we recognize Good as being an illusion?
+					</div>
+					<div class="uAuthor">
+						"The Status Civilization" by <span>Robert Sheckley</span>					</div>
+										<div class="usage">
+						The reassuring illusion of reality came back like a clap of thunder.
+					</div>
+					<div class="uAuthor">
+						"Clayhanger" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						My daemon seemed averse to answering any questions on the topic of these illusions.
+					</div>
+					<div class="uAuthor">
+						"The Atlantic Monthly , Volume 2, No. 14, December 1858" by <span>Various</span>					</div>
+										<div class="usage">
+						The garden, she realized suddenly, might be an illusion scene.
+					</div>
+					<div class="uAuthor">
+						"Legacy" by <span>James H Schmitz</span>					</div>
+										<div class="usage">
+						You cannot build up anything except illusion from a basis that is itself illusion.
+					</div>
+					<div class="uAuthor">
+						"The Complex Vision" by <span>John Cowper Powys</span>					</div>
+										<div class="usage">
+						Nothing was left undone to render the illusion complete in the eyes of the members of the household and in her own.
+					</div>
+					<div class="uAuthor">
+						"Which?" by <span>Ernest Daudet</span>					</div>
+										<div class="usage">
+						And Aguirre did not disturb her illusions, answering affirmatively, with all the simplicity of a hero.
+					</div>
+					<div class="uAuthor">
+						"Luna Benamor" by <span>Vicente Blasco Ibáñez</span>					</div>
+										<div class="usage">
+						She had seen sex in too many countries, watched its brazen play on too many stages, within theatres and without, to have any mawkish illusions.
+					</div>
+					<div class="uAuthor">
+						"The Best Short Stories of 1920" by <span>Various</span>					</div>
+										<div class="usage">
+						He was not dismayed at this; he did as we must all be doing through life and changed one illusion for another.
+					</div>
+					<div class="uAuthor">
+						"Gilian The Dreamer" by <span>Neil Munro</span>					</div>
+										<div class="usage">
+						He suffered from the illusion that everybody wished to murder him.
+					</div>
+					<div class="uAuthor">
+						"Across Unknown South America" by <span>Arnold Henry Savage Landor</span>					</div>
+										<div class="usage">
+						This illusion will seem very real to me.
+					</div>
+					<div class="uAuthor">
+						"A Practical Guide to Self-Hypnosis" by <span>Melvin Powers</span>					</div>
+										<div class="usage">
+						Thick, within and around us, lie the rich veins of illusive suggestion from which they spring.
+					</div>
+					<div class="uAuthor">
+						"Blackwood's Edinburgh Magazine, Volume 61, No. 378, April, 1847" by <span>Various</span>					</div>
+										<div class="usage">
+						The circumstances of an eclipse favour illusion.
+					</div>
+					<div class="uAuthor">
+						"A Popular History of Astronomy During the Nineteenth Century" by <span>Agnes M. (Agnes Mary) Clerke</span>					</div>
+										<div class="usage">
+						Was he cheated in his illusion?
+					</div>
+					<div class="uAuthor">
+						"The Rainbow" by <span>D. H. (David Herbert) Lawrence</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Shadows and illusions meet us,<br>
+Visions cheat our longing eyes;<br>
+But the substance hope has promis'd,<br>
+Shall repay each sacrifice.
+							<div class="poet">"To Hope" by <span>Elizabeth Bath</span></div>
+						</div>
+											<div class="poemQuote">
+							“’Robbed, robbed of life’s illusions sweet;<br>
+Love dead outside her closèd door,<br>
+And passion fainting at her feet<br>
+To wake no more;
+							<div class="poet">"The Letter L" by <span>Jean Ingelow</span></div>
+						</div>
+											<div class="poemQuote">
+							Life's a varied, bright illusion,<br>
+Joy and sorrow—-light and shade;<br>
+Turn from sorrow's dark suffusion,<br>
+Catch the pleasures ere they fade.
+							<div class="poet">"Song~" by <span>Ann Radcliffe</span></div>
+						</div>
+											<div class="poemQuote">
+							But, if by vain self-love misled,<br>
+Thou in my looks canst passion see;<br>
+And think, by weak illusions fed,<br>
+My towering hopes aspire to thee….
+							<div class="poet">"To Lothario" by <span>Amelia Opie</span></div>
+						</div>
+											<div class="poemQuote">
+							The middle of the things I know<br>
+Is the unknown, and circling it<br>
+Life's truth and life's illusion show<br>
+Things in the terms of sense and wit. 
+							<div class="poet">"Within The Temple" by <span>Thomas MacDonagh</span></div>
+						</div>
+											<div class="poemQuote">
+							Ah, what booteth sweet illusion,<br>
+Fluttering glance, and soft suffusion,<br>
+Bliss unknown, but felt in sighs,<br>
+Breast, that shrinks at its own rise?
+							<div class="poet">"Lita of the Nile" by <span>Richard Doddridge Blackmore</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Runs at Grand Illusion, Fri. Not rated 76 minutes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.seattleweekly.com/2010-08-11/film/wah-do-dem-hey-hipsters-get-out-of-jamaica/" target="_blank" rel="external nofollow">seattleweekly.com</a>
+					</div>
+										<div class="usage">
+						Take it from a man who has fried endless number of IF transformers, transistors and dummy loads in an inept illusive quest for accurate RF information and tuning.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rwonline.com/article/birds-popular-wattmeter-is-/17236" target="_blank" rel="external nofollow">rwonline.com</a>
+					</div>
+										<div class="usage">
+						The Wittgenstein Illusion from the June 11, 2009 issue.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/articles/archives/2009/jul/16/the-house-of-wittgenstein/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<div class="usage">
+						Gary Soto, Author, Terry Widener , Illustrator, illus.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/978-0-399-23420-0" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<div class="usage">
+						When creative works are presented to the public, the illusion of a seamlessness is a necessary factor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rochestercitynewspaper.com/rochester/art-wall-wizardry/Content?oid=2139823" target="_blank" rel="external nofollow">rochestercitynewspaper.com</a>
+					</div>
+										<div class="usage">
+						There were no illusions, no trying to explain away why they had lost to the reigning world champs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/nfl/story/_/page/tackles-11week3/lacking-balance-chicago-bears-offense-wobbling" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Tony Johnston, Author, Stacy Innerst, Illustrator, illus.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/978-0-15-205011-5" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<div class="usage">
+						The Great Illusion of Gettysburg.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/national/archive/2012/02/the-great-illusion-of-gettysburg/238870/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						In a post-industrial culture of digital manipulation, reality often becomes an illusion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://eugeneweekly.com/blog/zoned-out-screened" target="_blank" rel="external nofollow">eugeneweekly.com</a>
+					</div>
+										<div class="usage">
+						Show combines dance, acrobats and illusion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://chronicle.augusta.com/things-do/applause/2012-02-15/its-zoozoo-animals-come-life-revue" target="_blank" rel="external nofollow">chronicle.augusta.com</a>
+					</div>
+										<div class="usage">
+						The Illusion of Abundance .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.unctv.org/content/troubled-waters-illusion-abundance" target="_blank" rel="external nofollow">unctv.org</a>
+					</div>
+										<div class="usage">
+						Financial illusions of the war.
+					</div>
+					<div class="uAuthor">
+						<a href="http://harpers.org/archive/1921/03/problems-of-the-incoming-administration/" target="_blank" rel="external nofollow">harpers.org</a>
+					</div>
+										<div class="usage">
+						I Have a Dream by Martin Luther King Jr, illus.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/55077-notable-african-american-titles-african-american-interest-books-2012-13.html" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<div class="usage">
+						What Is the Ames Illusion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sciam.com/video.cfm?id=instant-egghead---what-is-the-ames2012-10-09&amp;p=1&amp;ct=21&amp;c=mostc" target="_blank" rel="external nofollow">sciam.com</a>
+					</div>
+										<div class="usage">
+						The exhibit's centerpiece will be a large 3-D Zoetrope, a device that produces the illusion of motion from a rapid succession of static pictures.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.journalgazette.net/article/20121213/NEWS07/121219833/1006/NEWS" target="_blank" rel="external nofollow">journalgazette.net</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We have no illusion that (17) could be valid in the limit T → Tc , since α(Tc) = 1, by deﬁnition. 
+					</div>
+					<div class="uAuthor">
+						Critical Behavior of Hadronic Fluctuations and the Effect of Final-State Randomization
+					</div>
+										<div class="usage">
+						The effect is an illusion resulting from two coincidences. 
+					</div>
+					<div class="uAuthor">
+						The End of the Lines for OX 169: No Binary Broad-Line Region
+					</div>
+										<div class="usage">
+						Reflective memory uses memory-mapped I/O to provide the illusion of a memoryattached interconnection. 
+					</div>
+					<div class="uAuthor">
+						Cluster Computing White Paper
+					</div>
+										<div class="usage">
+						Middleware systems have done an excellent job of providing the illusion of homogeneity in heterogeneous systems – consider the success of Java and the Java Virtual Machine. 
+					</div>
+					<div class="uAuthor">
+						Cluster Computing White Paper
+					</div>
+										<div class="usage">
+						However, creating illusions does cost in terms of performance. 
+					</div>
+					<div class="uAuthor">
+						Cluster Computing White Paper
+					</div>
+										<div class="usage">
+						Note that the apparent narrowing of the CXO optical bench is an illusion due to shadowing. 
+					</div>
+					<div class="uAuthor">
+						Chandra X-Ray Observatory (CXO):Overview
+					</div>
+										<div class="usage">
+						We argue that at their base, YSO jets are optical illusions associated with the excitation mechanisms by which atomic forbidden lines are excited. 
+					</div>
+					<div class="uAuthor">
+						Structure and Physical Conditions in MHD Jets from Young Stars
+					</div>
+										<div class="usage">
+						Most observables are implicitly in the pscheme, which generally involves a small negative breaking of universality (which is almost observable-independent, so that an illusion of universality will persist). 
+					</div>
+					<div class="uAuthor">
+						Event shapes in e+e- annihilation and deep inelastic scattering
+					</div>
+										<div class="usage">
+						According to this philosophy all appearances of multiplicity, change, and motion are mere illusions. 
+					</div>
+					<div class="uAuthor">
+						Zeno meets modern science
+					</div>
+										<div class="usage">
+						Their images accumulate a correlated distortion as the light is gravitationally deﬂected throughout the multibillion year journey, thereby generating an illusion of alignment. 
+					</div>
+					<div class="uAuthor">
+						Observing Baryon Oscillations with Cosmic Shear
+					</div>
+										<div class="usage">
+						It should, however, be pointed out that the proofs in the present paper only give an illusion of being simpler for we need the deeper results of [S], which deals with a larger category. 
+					</div>
+					<div class="uAuthor">
+						Applications of duality theory to cousin complexes
+					</div>
+										<div class="usage">
+						This metric looks time independent, but that is an illusion; these Schwarzschild coordinates cover only the exterior of the hole, and if we look at the full geometry of the spacetime then we cannot obtain a time independent slicing of the geometry. 
+					</div>
+					<div class="uAuthor">
+						Fuzzballs and the information paradox: a summary and conjectures
+					</div>
+										<div class="usage">
+						Newman, who had asked me during the spring of 2007, to prepare a chapter about “Fusion Illusions” for the second Edition of the book “The Final Energy Crisis”. 
+					</div>
+					<div class="uAuthor">
+						The Future of Nuclear Energy: Facts and Fiction Chapter IV: Energy from Breeder Reactors and from Fusion?
+					</div>
+										<div class="usage">
+						The original article “Fusion Illusions” is published in the second edition of the “The Final Energy Crisis” editid by S. 
+					</div>
+					<div class="uAuthor">
+						The Future of Nuclear Energy: Facts and Fiction Chapter IV: Energy from Breeder Reactors and from Fusion?
+					</div>
+										<div class="usage">
+						Susskind, “The cosmic landscape: String theory and the illusion of intelligent design,”. 
+					</div>
+					<div class="uAuthor">
+						Primordial Fluctuations in String Cosmology
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an illusory feat; considered magical by naive observers"><a href="magic%20trick.html">magic trick</a>, <a href="conjuring%20trick.html">conjuring trick</a>, <a href="deception.html">deception</a>, </div><div class="synGroup" title="the act of deluding; deception by creating illusory ideas"><a href="head%20game.html">head game</a>, </div><div class="synGroup" title="something many people believe that is false"><a href="fantasy.html">fantasy</a>, <a href="phantasy.html">phantasy</a>, <a href="fancy.html">fancy</a>, </div><div class="synGroup" title="an erroneous mental representation"><a href="semblance.html">semblance</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="appearance.html">appearance</a>, <a href="deceit.html">deceit</a>, <a href="deception.html">deception</a>, <a href="dissembling.html">dissembling</a>, <a href="dissimulation.html">dissimulation</a>, <a href="misconception.html">misconception</a>, <a href="performance.html">performance</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="apparition.html">apparition</a>, <a href="bubble.html">bubble</a>, <a href="card%20trick.html">card trick</a>, <a href="fantasm.html">fantasm</a>, <a href="ignis%20fatuus.html">ignis fatuus</a>, <a href="irradiation.html">irradiation</a>, <a href="phantasm.html">phantasm</a>, <a href="phantasma.html">phantasma</a>, <a href="phantom.html">phantom</a>, <a href="phantom%20limb.html">phantom limb</a>, <a href="prestidigitation.html">prestidigitation</a>, <a href="shadow.html">shadow</a>, <a href="sleight%20of%20hand.html">sleight of hand</a>, <a href="will-o%27-the-wisp.html">will-o'-the-wisp</a>, <a href="wishful%20thinking.html">wishful thinking</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="delude.html">delude</a>, <a href="illusional.html">illusional</a>, <a href="illusory.html">illusory</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="2-dimensional.html">2-dimensional</a>, <a href="3-dimensional.html">3-dimensional</a>, <a href="Abusion.html">Abusion</a>, <a href="animated%20cartoon.html">animated cartoon</a>, <a href="Anorthoscope.html">Anorthoscope</a>, <a href="apparent%20motion.html">apparent motion</a>, <a href="apparent%20movement.html">apparent movement</a>, <a href="Bas-relief.html">Bas-relief</a>, <a href="canal.html">canal</a>, <a href="cartoon.html">cartoon</a>, <a href="cheat.html">cheat</a>, <a href="cine-camera.html">cine-camera</a>, <a href="conceit.html">conceit</a>, <a href="confidence%20game.html">confidence game</a>, <a href="delusion.html">delusion</a>, <a href="disenchanting.html">disenchanting</a>, <a href="Disillude.html">Disillude</a>, <a href="disillusion.html">disillusion</a>, <a href="disillusioned.html">disillusioned</a>, <a href="disillusioning.html">disillusioning</a>, <a href="Disillusionize.html">Disillusionize</a>, <a href="disillusionment.html">disillusionment</a>, <a href="entasis.html">entasis</a>, <a href="eye-deceiving.html">eye-deceiving</a>, <a href="fairy.html">fairy</a>, <a href="film.html">film</a>, <a href="flat.html">flat</a>, <a href="flick.html">flick</a>, <a href="foreshorten.html">foreshorten</a>, <a href="hallucinate.html">hallucinate</a>, <a href="hallucination.html">hallucination</a>, <a href="Heraclitus.html">Heraclitus</a>, <a href="ignis%20fatuus.html">ignis fatuus</a>, <a href="Illusionable.html">Illusionable</a>, <a href="illusional.html">illusional</a>, <a href="illusionary.html">illusionary</a>, <a href="illusionist.html">illusionist</a>, <a href="illusive.html">illusive</a>, <a href="illusory.html">illusory</a>, <a href="joke.html">joke</a>, <a href="magic.html">magic</a>, <a href="magician.html">magician</a>, <a href="Maya.html">Maya</a>, <a href="mirage.html">mirage</a>, <a href="motion.html">motion</a>, <a href="motion%20picture.html">motion picture</a>, <a href="motion-picture%20camera.html">motion-picture camera</a>, <a href="motion-picture%20show.html">motion-picture show</a>, <a href="movement.html">movement</a>, <a href="movie.html">movie</a>, <a href="movie%20camera.html">movie camera</a>, <a href="moving.html">moving</a>, <a href="moving%20picture.html">moving picture</a>, <a href="moving-picture%20show.html">moving-picture show</a>, <a href="naturalism.html">naturalism</a>, <a href="parallelepiped.html">parallelepiped</a>, <a href="Parosmia.html">Parosmia</a>, <a href="phantasm.html">phantasm</a>, <a href="phantasmal.html">phantasmal</a>, <a href="phantom.html">phantom</a>, <a href="phantom%20limb.html">phantom limb</a>, <a href="pic.html">pic</a>, <a href="picture.html">picture</a>, <a href="picture%20show.html">picture show</a>, <a href="Platonic.html">Platonic</a>, <a href="prestige.html">prestige</a>, <a href="Pseudoblepsis.html">Pseudoblepsis</a>, <a href="soliloquy.html">soliloquy</a>, <a href="still.html">still</a>, <a href="subtlety.html">subtlety</a>, <a href="Take%20the%20gilt%20off%20the%20gingerbread.html">Take the gilt off the gingerbread</a>, <a href="third-dimensional.html">third-dimensional</a>, <a href="three-D.html">three-D</a>, <a href="three-dimensional.html">three-dimensional</a>, <a href="toon.html">toon</a>, <a href="Treget.html">Treget</a>, <a href="trick.html">trick</a>, <a href="trompe-l%27oeil.html">trompe-l'oeil</a>, <a href="two-dimensional.html">two-dimensional</a>, <a href="undeceive.html">undeceive</a>, <a href="Unillusory.html">Unillusory</a>, <a href="vanity.html">vanity</a>, <a href="will-o%27-the-wisp.html">will-o'-the-wisp</a>, <a href="wishful%20thinking.html">wishful thinking</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					ullusion, jllusion, kllusion, ollusion, iklusion, iolusion, iplusion, ilkusion, ilousion, ilpusion, illysion, illhsion, illjsion, illision, illuaion, illuwion, illudion, illuxion, illuzion, illuaion, illusuon, illusjon, illuskon, illusoon, illusiin, illusikn, illusiln, illusipn, illusiob, illusioh, illusioj, illusiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,520 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>priority</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">priority</span> <span class="exp">preceding in time</span> </li><li><span class="tSpeech">n</span> <span class="term">priority</span> <span class="exp">status established in order of importance or urgency</span> <span class="quot">"...its precedence as the world's leading manufacturer of pharmaceuticals","national independence takes priority over class struggle"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In most places, when a drawbridge is open, the only land vehicle that can claim priority over boats is a truck hauling the US mail. This option is seldom if ever exercised, of course.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Priority</span> <span class="exp">Precedence; superior rank.</span> </li><li><span class="term">Priority</span> <span class="exp">The quality or state of being prior or antecedent in time, or of preceding something else; as, <span class="wUex">priority</span> of application.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">priority</span> <span class="exp">The state of being prior or antecedent, or of preceding something else: as, priority of birth: opposed to posteriority.</span> </li><li><span class="tSpeech">n</span> <span class="term">priority</span> <span class="exp">Precedence in place or rank; the having of certain rights before another.</span> </li><li><span class="tSpeech">n</span> <span class="term">priority</span> <span class="exp">In law, a precedence or preference, as when one debt is paid in priority to others, or when an execution is said to lose its priority by the neglect of the party to enforce it.</span> </li><li><span class="tSpeech">n</span> <span class="term">priority</span> <span class="exp">Apriority. Synonyms Priority, Antecedence, Precedence, Preëminence, Predominance, Preference, Superiority, Supremacy. Priority is the state or fact of coming first in order of time; what little use it has beyond this meaning is only a figurative extension. Antecedence is strictly priority, without any proper figurative use. Precedence may mean priority, but generally means the right to go or come first, the privilege of going before another: as, the question of precedence among sovereigns or ambassadors makes great trouble, because the dignity of the nations represented is supposed to be at stake. Preeminence is, figuratively, height by nature above all others, generally in some one respect: as, the preeminence of Shakspere as a dramatist. Predominance is superior and dominating power or influence: as, the predominance of a certain faction; figuratively, the predominance of light or shade or a particular color in a certain picture. Preference is the putting forward of a person or thing by choice, on the ground of worthiness, or on account of the taste, fancy, or arbitrary will of the one preferring: as, to give the preference to Milton over Dante. Superiority may refer to nature or to given or achieved position over others; it differs from supremacy as the comparative differs from the superlative degree: as, the superiority of the appearance of certain troops; the superiority of the dairy-products of a certain region: superiority to one's circumstances; supremacy on the land and supremacy on the sea do not always go together. See previous.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Priority</span> <span class="exp">state of being prior or first in time, place, or rank: preference</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles A. Garfield</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles A. Garfield">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Action expresses priorities.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edward Fox</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Edward Fox">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Being a gentleman is the number one priority, the chief question integral to our national life.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">H. L. Hunt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="H. L. Hunt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert J. Mckain</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert J. Mckain">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Strategic planning will help you fully uncover your available options, set priorities for them, and define the methods to achieve them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Stephen R. Covey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Stephen%20R.%20Covey.jpg" alt="Stephen%20R.%20Covey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Priority is a function of context.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Tom Hopkins</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Tom Hopkins">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Getting in touch with your true self must be your first priority.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">priorité</span>,. See <span class="wUer">Prior</span> (a.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>prior</i>, former, comp. from <i>pro-</i>, in front.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The insolent favorite even ventured to treat the queen with disdain, assuming the priority.
+					</div>
+					<div class="uAuthor">
+						"Louis XIV., Makers of History Series" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						The priority of the records to the events admits of no question.
+					</div>
+					<div class="uAuthor">
+						"Museum of Antiquity" by <span>L. W. Yaggy</span>					</div>
+										<div class="usage">
+						I resolved to follow that rule of polite society, which extends priority to the softer sex.
+					</div>
+					<div class="uAuthor">
+						"The Wild Huntress" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						In other instances, no priority can properly be indicated.
+					</div>
+					<div class="uAuthor">
+						"Sound Military Decision" by <span>U.s. Naval War College</span>					</div>
+										<div class="usage">
+						Getting there had first priority.
+					</div>
+					<div class="uAuthor">
+						"Deathworld" by <span>Harry Harrison</span>					</div>
+										<div class="usage">
+						But what is that about priority.
+					</div>
+					<div class="uAuthor">
+						"Stuyvesant" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						Defeating terrorism is our nation's primary and immediate priority.
+					</div>
+					<div class="uAuthor">
+						"National Strategy for Combating Terrorism" by <span>United States</span>					</div>
+										<div class="usage">
+						Preventing their acquisition and the dire consequences of their use is a key priority of this strategy.
+					</div>
+					<div class="uAuthor">
+						"National Strategy for Combating Terrorism" by <span>United States</span>					</div>
+										<div class="usage">
+						The system has, nominally, 16 automatic interrupt channels arranged in a priority chain.
+					</div>
+					<div class="uAuthor">
+						"Preliminary Specifications: Programmed Data Processor Model Three (PDP-3)" by <span>Digital Equipment Corporation</span>					</div>
+										<div class="usage">
+						Orders were being filled on time, with top priorities given to the biggest cities in his area, and working down to the smallest towns.
+					</div>
+					<div class="uAuthor">
+						"Watchbird" by <span>Robert Sheckley</span>					</div>
+										<div class="usage">
+						The first has the logical priority.
+					</div>
+					<div class="uAuthor">
+						"The Religious Sentiment" by <span>Daniel G. Brinton</span>					</div>
+										<div class="usage">
+						In this way days, months, and years of priority would give no force to the patent!
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, v. 13" by <span>Various</span>					</div>
+										<div class="usage">
+						His eyebrows went up when he realized it was a priority call which probably meant from London.
+					</div>
+					<div class="uAuthor">
+						"Border, Breed Nor Birth" by <span>Dallas McCord Reynolds</span>					</div>
+										<div class="usage">
+						They were not prepared to give priority to either mind or matter.
+					</div>
+					<div class="uAuthor">
+						"God and the World" by <span>Arthur W. Robinson</span>					</div>
+										<div class="usage">
+						Reserve training receives little publicity and probably has low priority.
+					</div>
+					<div class="uAuthor">
+						"Area Handbook for Romania" by <span>Eugene K. Keefe, Donald W. Bernier, Lyle E. Brenneman, William Giloane, James M. Moore, and Neda A. Walpole</span>					</div>
+										<div class="usage">
+						A bristling mustache rather appealed to Gizzard, but was denied him on the ground of priority.
+					</div>
+					<div class="uAuthor">
+						"Sube Cane" by <span>Edward Bellamy Partridge</span>					</div>
+										<div class="usage">
+						The priority in this as in most of the other aspects of the Renaissance belongs to Italy.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 8, Slice 7" by <span>Various</span>					</div>
+										<div class="usage">
+						The question between them is priority of invention.
+					</div>
+					<div class="uAuthor">
+						"Putnam's Handy Law Book for the Layman" by <span>Albert Sidney Bolles</span>					</div>
+										<div class="usage">
+						Many of these still retain their place in our scientific classifications, and attest his priority of arrangement.
+					</div>
+					<div class="uAuthor">
+						"Principles of Geology" by <span>Charles Lyell</span>					</div>
+										<div class="usage">
+						This question of priority became of burning interest for him.
+					</div>
+					<div class="uAuthor">
+						"The Nest, The White Pagoda, The Suicide, A Forsaken Temple, Miss Jones and The Masterpiece" by <span>Anne Douglas Sedgwick</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"Are we endowed with heavenly breath,<br>
+And God's own form, that we should win<br>
+A proud priority of sin,<br>
+And teach creation death?
+							<div class="poet">"Mount Arafa" by <span>Richard Doddridge Blackmore</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Yesterday, a forum was held for the Hmong community and veterans to compare priorities they look for in candidates running for state and federal offices.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.weau.com/home/headlines/1128511.html" target="_blank" rel="external nofollow">weau.com</a>
+					</div>
+										<div class="usage">
+						"I want my girls to know that no matter what else is going on, they're my first priority," the president recently told Essence magazine.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/conversations/obama-as-dad-photos-of-a-white-house-father/2012/06/14/gJQA26R6cV_gallery.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						State officials say don't delay the back-to-school priority.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/health/index.ssf/2012/07/are_you_waiting_to_get_your_ch.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						House candidate Pam Gulleson called for an investment in America's priorities to turn the economy around in speaking to the Minot Rotary Club Monday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.minotdailynews.com/page/content.detail/id/568528/House-candidate--America-must-invest-in-itself.html?nav=5010" target="_blank" rel="external nofollow">minotdailynews.com</a>
+					</div>
+										<div class="usage">
+						Andre Johnson's priorities are in order .
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.chron.com/ultimatetexans/2012/09/andre-johnsons-priorities-are-in-order/?gta=commentlistpos" target="_blank" rel="external nofollow">blog.chron.com</a>
+					</div>
+										<div class="usage">
+						Director of Federal Tax Policy at the Center on Budget and Policy Priorities.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/debate-club/is-obamas-corporate-tax-plan-a-good-idea/us-corporate-tax-code-is-terribly-inefficient" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						Chuck Marr is the director of federal tax policy at the Center on Budget and Policy Priorities.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/debate-club/is-obamas-corporate-tax-plan-a-good-idea/us-corporate-tax-code-is-terribly-inefficient" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						Increasing the proportion of Americans whose levels of educational attainment extend beyond a high school diploma is a broad national priority.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aacc.nche.edu/Publications/Briefs/Pages/rb09082010.aspx" target="_blank" rel="external nofollow">aacc.nche.edu</a>
+					</div>
+										<div class="usage">
+						Saving and Health are top priorities for consumers in the United States and Western Europe, while the importance of Luxury has fallen, according to a new global survey by The Boston Consulting Group (BCG).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appliancemagazine.com/news.php?article=1581614&amp;zone=0&amp;first=1" target="_blank" rel="external nofollow">appliancemagazine.com</a>
+					</div>
+										<div class="usage">
+						MARQUETTE, MI – ( Great Lakes Radio News ) – The Iron Ore Heritage Recreation Authority in Marquette County is updating their five-year recreation master plan and is looking for the public's input on priorities.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wkqsfm.com/upper-peninsula-news-updates/14800/iron-ore-heritage-recreation-authority-publics-input-master-plan/" target="_blank" rel="external nofollow">wkqsfm.com</a>
+					</div>
+										<div class="usage">
+						Maggietranquila Maggie, one has to have the right priciples and priorities.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/innovations/post/naveen-jain-on-the-limitless-power-of-innovation-video/2012/02/07/gIQAcm2SwQ_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The nation's first black attorney general says preserving civil rights remains a US Justice Department priority.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.knoxnews.com/photos/galleries/2012/oct/01/james-meredith-50-years-later/53516/" target="_blank" rel="external nofollow">knoxnews.com</a>
+					</div>
+										<div class="usage">
+						During his two-year term, Bartlett will work closely with the board, Alliance headquarters staff and other Alliance shareholders to shape strategy and set priorities for the group.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.counterman.com/Article/97932/john_bartlett_jr_named_chairman_of_aftermarket_auto_parts_alliance_board.aspx" target="_blank" rel="external nofollow">counterman.com</a>
+					</div>
+										<div class="usage">
+						The new Bloc Party album and another writing project are his priorities now.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.advocate.com/print-issue/cover-stories/2012/05/14/bloc-partys-kele-okereke-just-getting-started?page=0,4" target="_blank" rel="external nofollow">advocate.com</a>
+					</div>
+										<div class="usage">
+						Any decisions about the farm bill are certain to be dictated in part by the tight calendar, a weighty list of fiscal and tax issues that are seen as top priorities and larger political tides that have worked against the bill all year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://southeastfarmpress.com/government/congress-starts-lame-duck-session-ag-eyes-farm-bill-endgame" target="_blank" rel="external nofollow">southeastfarmpress.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Addition of components for solving continuous CSPs is one of our priority for the near future. 
+					</div>
+					<div class="uAuthor">
+						Component Programming and Interoperability in Constraint Solver Design
+					</div>
+										<div class="usage">
+						Zermelo were concerned with priority issues, while C. 
+					</div>
+					<div class="uAuthor">
+						Incompleteness, Complexity, Randomness and Beyond
+					</div>
+										<div class="usage">
+						This result is certainly well-known and we claim no priority. 
+					</div>
+					<div class="uAuthor">
+						Distance Semantics for Belief Revision
+					</div>
+										<div class="usage">
+						Reasoning about priorities in default logic. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Defaults
+					</div>
+										<div class="usage">
+						PNe had the highest priority while GC candidates were used to ﬁll empty ﬁbers in the uncrowded halo regions. 
+					</div>
+					<div class="uAuthor">
+						The Globular Cluster System of NGC 5128 I. Survey and Catalogs
+					</div>
+										<div class="usage">
+						Also, since the priorities are independent, each node is equally likely to have the largest priority. 
+					</div>
+					<div class="uAuthor">
+						The Random Buffer Tree : A Randomized Technique for I/O-efficient Algorithms
+					</div>
+										<div class="usage">
+						I/O’s as m blocks of then sorted w.r.t. the priority value s . 
+					</div>
+					<div class="uAuthor">
+						The Random Buffer Tree : A Randomized Technique for I/O-efficient Algorithms
+					</div>
+										<div class="usage">
+						If the buffer now contains more than (3 /4 )m blocks of elements, all but the largest m /2 blocks of elements with respect to priority are pushed to the buffers at the next lower level in search order of the key values. 
+					</div>
+					<div class="uAuthor">
+						The Random Buffer Tree : A Randomized Technique for I/O-efficient Algorithms
+					</div>
+										<div class="usage">
+						Construct a new (insert) element consisting of the new element to be i n se r ted , having the given key and assign a random priority from a u niform and con t inuous ra ndom distribution. 2. 
+					</div>
+					<div class="uAuthor">
+						The Random Buffer Tree : A Randomized Technique for I/O-efficient Algorithms
+					</div>
+										<div class="usage">
+						Construct a new (search) element with the given key and priority zero. 2. 
+					</div>
+					<div class="uAuthor">
+						The Random Buffer Tree : A Randomized Technique for I/O-efficient Algorithms
+					</div>
+										<div class="usage">
+						Acknowledgment: Our collaboration has been supported in part by the DFG in the priority program “Quasicrystals”. 
+					</div>
+					<div class="uAuthor">
+						Generic sets in spaces of measures and generic singular continuous spectrum for Delone Hamiltonians
+					</div>
+										<div class="usage">
+						The priority ordering of position choices above was designed to maximize the signal-to-noise of the data being used for positional determination. 
+					</div>
+					<div class="uAuthor">
+						The Extended Chandra Deep Field-South Survey. Chandra Point-Source Catalogs
+					</div>
+										<div class="usage">
+						The former is a project within the DFG Priority Programme SPP 1033 “Interagierende stochastische Systeme von hoher Komp lexit ¨at”. 
+					</div>
+					<div class="uAuthor">
+						Energetic and dynamic properties of a quantum particle in a spatially random magnetic field with constant correlations along one direction
+					</div>
+										<div class="usage">
+						Here, selecting the most appropriate protocol depends on our priorities concerning refocusing and preservation of coherence. 
+					</div>
+					<div class="uAuthor">
+						Dynamical control of qubit coherence: Random versus deterministic schemes
+					</div>
+										<div class="usage">
+						My leading priority is the development of a selfconsistent theory that is grounded on the conjecture of boundedness and coherence. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="preceding in time"><a href="antecedence.html">antecedence</a>, <a href="antecedency.html">antecedency</a>, <a href="anteriority.html">anteriority</a>, <a href="precedence.html">precedence</a>, <a href="precedency.html">precedency</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="posteriority.html">posteriority</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="earliness.html">earliness</a>, <a href="high%20status.html">high status</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="back%20burner.html">back burner</a>, <a href="front%20burner.html">front burner</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="precedential.html">precedential</a>, <a href="prior.html">prior</a>, <a href="prioritize.html">prioritize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Antecedaneous.html">Antecedaneous</a>, <a href="antecedence.html">antecedence</a>, <a href="antecedency.html">antecedency</a>, <a href="anteriority.html">anteriority</a>, <a href="back%20burner.html">back burner</a>, <a href="background%20processing.html">background processing</a>, <a href="backgrounding.html">backgrounding</a>, <a href="carriage.html">carriage</a>, <a href="come.html">come</a>, <a href="corporate%20bond.html">corporate bond</a>, <a href="Daubentonia.html">Daubentonia</a>, <a href="Didelphis.html">Didelphis</a>, <a href="first%20mortgage.html">first mortgage</a>, <a href="flamen.html">flamen</a>, <a href="front%20burner.html">front burner</a>, <a href="General%20retainer.html">General retainer</a>, <a href="genus.html">genus</a>, <a href="kniphofia.html">kniphofia</a>, <a href="letter.html">letter</a>, <a href="mining.html">mining</a>, <a href="place.html">place</a>, <a href="posteriority.html">posteriority</a>, <a href="Pre-.html">Pre-</a>, <a href="precedence.html">precedence</a>, <a href="precedency.html">precedency</a>, <a href="predominance.html">predominance</a>, <a href="preference%20shares.html">preference shares</a>, <a href="preferred%20shares.html">preferred shares</a>, <a href="preferred%20stock.html">preferred stock</a>, <a href="preoccupied.html">preoccupied</a>, <a href="Preseance.html">Preseance</a>, <a href="Previousness.html">Previousness</a>, <a href="principality.html">principality</a>, <a href="prioritise.html">prioritise</a>, <a href="prioritize.html">prioritize</a>, <a href="privilege.html">privilege</a>, <a href="publication.html">publication</a>, <a href="Reinscribe.html">Reinscribe</a>, <a href="Retrodate.html">Retrodate</a>, <a href="seniority.html">seniority</a>, <a href="Seniory.html">Seniory</a>, <a href="superiority.html">superiority</a>, <a href="supremacy.html">supremacy</a>, <a href="synonym.html">synonym</a>, <a href="type.html">type</a>, <a href="Wellingtonia.html">Wellingtonia</a>, <a href="yard.html">yard</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oriority, lriority, peiority, pdiority, pfiority, ptiority, pruority, prjority, prkority, proority, priirity, prikrity, prilrity, priprity, prioeity, priodity, priofity, priotity, prioruty, priorjty, priorkty, prioroty, prioriry, priorify, priorigy, prioriyy, prioritt, prioritg, priorith, prioritu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

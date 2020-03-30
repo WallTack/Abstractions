@@ -1,0 +1,577 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>evolution</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/217/61/15833.jpg" alt="The Evolution of the House">
+							<div class="caption">The Evolution of the House</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)</span> <span class="quot">"the development of his ideas took many years","the evolution of Greek civilization","the slow development of her skill as a writer"</span></li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">(biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The lemur of Madagascar is one of very few of the human species' ancestors that has survived unchanged down the long corridors of evolution. Having developed after the first primates, it is classified as a prosimian, meaning "before monkey," and is one of the ancestors common to both monkeys and men.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Evolution</span> <span class="exp"><span class="wuFld">(Biol)</span> A general name for the history of the steps by which any living organism has acquired the morphological and physiological characters which distinguish it; a gradual unfolding of successive phases of growth or development.</span> </li><li><span class="term">Evolution</span> <span class="exp"><span class="wuFld">(Mil. &amp; Naval)</span> A prescribed movement of a body of troops, or a vessel or fleet; any movement designed to effect a new arrangement or disposition; a maneuver.</span> <span class="wuQuot">"Those evolutions are best which can be executed with the greatest celerity, compatible with regularity."</span></li><li><span class="term">Evolution</span> <span class="exp">A series of things unrolled or unfolded.</span> <span class="wuQuot">"The whole evolution of ages."</span></li><li><span class="term">Evolution</span> <span class="exp"><span class="wuFld">(Metaph)</span> That series of changes under natural law which involves continuous progress from the homogeneous to the heterogeneous in structure, and from the single and simple to the diverse and manifold in quality or function.  The process is by some limited to organic beings; by others it is applied to the inorganic and the psychical.  It is also applied to explain the existence and growth of institutions, manners, language, civilization, and every product of human activity.  The agencies and laws of the process are variously explained by different philosophrs.</span> <span class="wuQuot">"Evolution is to me series with development."</span></li><li><span class="term">Evolution</span> <span class="exp"><span class="wuFld">(Biol)</span> That theory of generation which supposes the germ to preëxist in the parent, and its parts to be developed, but not actually formed, by the procreative act; -- opposed to <span class="wUcontr">epigenesis</span>.</span> </li><li><span class="term">Evolution</span> <span class="exp">The act of unfolding or unrolling; hence, any process of growth or development; as, the <span class="wUex">evolution</span> of a flower from a bud, or an animal from the egg.</span> </li><li><span class="term">Evolution</span> <span class="exp"><span class="wuFld">(Arith. &amp; Alg)</span> The extraction of roots; -- the reverse of <span class="wUinv">involution</span>.</span> </li><li><span class="term">Evolution</span> <span class="exp"><span class="wuFld">(Geom)</span> The formation of an involute by unwrapping a thread from a curve as an evolute.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										When Charles Darwin published his theory on human evolution in The Descent of Man in 1871, not a single fossil that was known to be pre-human had been found to back up his ideas. Although his theory was later proved to be true, it was formulated entirely without physical evidence and based almost completely on speculation.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">The act or process of unfolding, or the state of being unfolded; an opening out or unrolling.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">Hence The process of evolving or becoming developed; an unfolding or growth from, or as if from, a germ or latent state, or from a plan; development: as, the evolution of history or of a dramatic plot.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">Specifically— In biology: The actual formation of a part or of the whole of an organism which previously existed only as a germ or rudiment; ordinary natural growth, as of living creatures, from the germinal or embryonic to the adult or perfect state: as, the evolution of an animal from the ovum, or of a plant from the seed; the evolution of the blossom from the bud, or of the fruit from the flower; the evolution of the butterfly from the caterpillar; the evolution of the brain from primitive cerebral vesicles, or of the lungs from an offshoot of the intestine.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">The release, emergence, or exclusion of an animal or a plant, or of some stage or part thereof, from any covering which contained it: as, the evolution of spores from an encysted animalcule; the evolution of a moth from the cocoon, of an insect from the wood or mud in which it lived as a larva, of a chick from the egg-shell which contained it as an embryo.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">Descent or derivation, as of offspring from parents; the actual result of generation or procreation. As a fact, this evolution is not open to question. As a doctrine or theory of generation, it is susceptible of different interpretations. In one view, the germ actually preëxists in one or the other parent, and is simply unfolded or expanded, but not actually formed, in the act of procreation. (See ovulist, spermatist.) This view is now generally abandoned, the current opinion being that each parent furnishes materials for or the substance of the germ, whose evolution results from the union of such elements. See epigenesis.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">The fact or the doctrine of the derivation or descent, with modification, of all existing species, genera, orders, classes, etc., of animals and plants, from a few simple forms of life, if not from one; the doctrine of derivation; evolutionism. (See Darwinism.) In this sense, evolution is opposed to creationism, or the view that all living things have been created at some time substantially as they now exist. Modern evolutionary theories, however, are less concerned with the problem of the origination of life than with questions of the ways and means by which living organisms have assumed their actual characters or forms. Phylogenetic evolution insists upon the direct derivation of all forms of life from other antecedent forms, in no other way than as, in ontogeny, offspring are derived from parents, and consequently grades all actual affinities according to propinquity or remoteness of genetic succession. It presumes that, as a rule, such derivation or descent, with modification, is from the more simple to the more complex forms, from low to high in organization, and from the more generalized to the more specialized in structure and function; but it also recognizes retrograde development, degeneration or degradation. The doctrine is now accepted by most biologists as a conception which most nearly coincides with the ascertained facts in the case, and which best explains observed facts, though it is held with many shades of individual opinion in this or that particular. See natural selection, under selection.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">In general, the passage from unorganized simplicity to organized complexity (that is, to a nicer and more elaborate arrangement for reaching definite ends), this process being regarded as of the nature of a growth. Thus, the development of planetary bodies from nebular or gaseous matter, and the history of the development of an individual plant or animal, or of society, are examples of evolution.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">Continuous succession; serial development.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">In mathematics: In geometry, the unfolding or opening of a curve, and making it describe an evolvent. The equable evolution of the periphery of a circle or other curve is such a gradual approach of the circumference to straightness that its parts do not concur and equally evolve or unbend, so that the same line becomes successively a smaller are of a reciprocally greater circle, till at last they change into a straight line.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">The extraction of roots from powers: the reverse of involution (which see).</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">A turning or shifting movement; a passing back and forth; change and interchange of position, especially for the working out of a purpose or a plan; specifically, the movement of troops or ships of war in wheeling, countermarching, manœuvering, etc., for disposition in order of battle or in line on parade: generally in the plural, to express the whole series of movements.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">That which is evolved; a product; an outgrowth.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">In ancestral development or phylogeny, the doctrine or opinion that the specific constitution or architecture which a germ-cell is held to possess at the beginning of its development, and to which the organization of the being that is generated from it is attributed, preexisted in the germ-cells of preceding generations. In the extreme form in which it was held by the embryologists of the seventeenth and eighteenth centuries it is the doctrine that since individual development is and always has been the unfolding of preexisting structure, each successive organism has existed, as such, from the beginning, in the germ-cells of its first ancestor, and in those of all successive ancestors, so that it is not the actual modem organism, but only its visibility or perceptibility by sense that is new. The modifications of this doctrine by more modern embryologists, who have sought to make it consistent with the progress of biological science, are too subtile and refined for concise statement.</span> </li><li><span class="tSpeech">n</span> <span class="term">evolution</span> <span class="exp">In biology, the doctrine or opinion, accepted as an established truth by all recent biologists, that all living beings have come into existence, in course of nature, by uninterrupted descent, without break of continuity, from a few ancient and simple forms of life, or from one.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The National Lighter Museum in Guthrie, Oklahoma has nearly 20,000 pieces, representing over 85,000 years of lighters and fire starters. The only museum of its kind in the world, it is dedicated to collecting and preserving the history of the evolution of lighters.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Evolution</span> <span class="exp"><span class="itl">ev-ol-ū′shun</span> the act of unrolling or unfolding: gradual working out or development: a series of things unfolded: the doctrine according to which higher forms of life have gradually arisen out of lower: :</span> </li><li><span class="tSpeech">n</span> <span class="term">Evolution</span> <span class="exp"><span class="itl">ev-ol-ū′shun</span> (<span class="itl">arith.</span>, <span class="itl">alg.</span>) the extraction of roots</span> </li><li><span class="tSpeech">n</span> <span class="term">Evolution</span> <span class="exp"><span class="itl">ev-ol-ū′shun</span> (<span class="itl">pl.</span>) the orderly movements of a body of troops or of ships of war</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joseph A. Schumpeter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Joseph A. Schumpeter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The evolution of the capitalist style of life could be easily -- and perhaps most tellingly -- described in terms of the genesis of the modern Lounge Suit.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Patrick Buchanan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Patrick Buchanan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Parents have a right to insist that godless evolution not be taught to their children.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Graham Greene</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Graham%20Greene.jpg" alt="Graham%20Greene">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“God created a number of possibilities in case some of his prototypes failed -- that is the meaning of evolution.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Konrad Lorenz</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Konrad Lorenz">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Historians will have to face the fact that natural selection determined the evolution of cultures in the same manner as it did that of species.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Morley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Morley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Evolution is not a force but a process. Not a cause but a law.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Sanders Peirce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles Sanders Peirce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“All the evolution we know of proceeds from the vague to the definite.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">evolutio</span>, an unrolling: cf. F. <span class="wUets">évolution</span>, evolution. See <span class="wUer">Evolve</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>evolutionem</i>—<i>evolvĕre</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The habit of using implements is one of supreme importance in animal evolution.
+					</div>
+					<div class="uAuthor">
+						"Man And His Ancestor" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						Personal Competition and the Evolution of Individual Types.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						This is, perhaps, symptomatic of the evolution of the race.
+					</div>
+					<div class="uAuthor">
+						"Astronomy of To-day" by <span>Cecil G. Dolmage</span>					</div>
+										<div class="usage">
+						So evolution is a negation of the doctrine of a creation.
+					</div>
+					<div class="uAuthor">
+						"The Christian Foundation, Or, Scientific and Religious Journal," by <span>Various</span>					</div>
+										<div class="usage">
+						How far are we justified in regarding this as a picture of the manner in which evolution works?
+					</div>
+					<div class="uAuthor">
+						"Mendelism" by <span>Reginald Crundall Punnett</span>					</div>
+										<div class="usage">
+						It is enough to point to the similar change due to modern theories of evolution.
+					</div>
+					<div class="uAuthor">
+						"Social Rights and Duties, Volume I (of 2)" by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						We now hear of the evolution of the elements, and the evolution of forces.
+					</div>
+					<div class="uAuthor">
+						"The Meaning of Evolution" by <span>Samuel Christian Schmucker</span>					</div>
+										<div class="usage">
+						Men and their actions form part of a whole, of a society and of a process of evolution.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Study of History" by <span>Charles V. Langlois</span>					</div>
+										<div class="usage">
+						I formerly spoke to very many naturalists on the subject of evolution, and never once met with any sympathetic agreement.
+					</div>
+					<div class="uAuthor">
+						"Little Masterpieces of Science:" by <span>Various</span>					</div>
+										<div class="usage">
+						It forms a solid roof, beneath which the eggs undergo their evolution.
+					</div>
+					<div class="uAuthor">
+						"The Industries of Animals" by <span>Frédéric Houssay</span>					</div>
+										<div class="usage">
+						Hence the hypothesis of evolution would be the only probable one, even in the absence of any clue to the particular mode of evolution.
+					</div>
+					<div class="uAuthor">
+						"Essays: Scientific, Political, &amp; Speculative, Vol. I" by <span>Herbert Spencer</span>					</div>
+										<div class="usage">
+						The evolution of the Special Commissioner shows the laborious processes by which women make any gains in Massachusetts.
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume IV" by <span>Various</span>					</div>
+										<div class="usage">
+						It is just this similarity which has placed the evolution theory on its most secure foundations.
+					</div>
+					<div class="uAuthor">
+						"Landmarks of Scientific Socialism" by <span>Friedrich Engels</span>					</div>
+										<div class="usage">
+						This is the history of all evolutions of the ideal.
+					</div>
+					<div class="uAuthor">
+						"Women of Early Christianity" by <span>Alfred  Brittain</span>					</div>
+										<div class="usage">
+						Man's evolution is the result of a group effort; so is the evolution of the machines.
+					</div>
+					<div class="uAuthor">
+						"The Brain" by <span>Alexander Blade</span>					</div>
+										<div class="usage">
+						The evolutions made in this way were both majestic and surprising.
+					</div>
+					<div class="uAuthor">
+						"The Goddess of Atvatabar" by <span>William R. Bradshaw</span>					</div>
+										<div class="usage">
+						That of which it has laid the foundation, of which it is already raising the superstructure, is the doctrine of evolution.
+					</div>
+					<div class="uAuthor">
+						"Essays Upon Some Controverted Questions" by <span>Thomas H. Huxley</span>					</div>
+										<div class="usage">
+						He was not influenced by Darwin's theory of evolution.
+					</div>
+					<div class="uAuthor">
+						"A Short History of English Liberalism" by <span>Walter Lyon Blease</span>					</div>
+										<div class="usage">
+						I have elsewhere expounded this point, and it is known as my own especial contribution to the theory of evolution.
+					</div>
+					<div class="uAuthor">
+						"Through Nature to God" by <span>John Fiske</span>					</div>
+										<div class="usage">
+						Among the depths of Brazilian forests Bates was reading the story of evolution on the gauze-like wings of tropical butterflies.
+					</div>
+					<div class="uAuthor">
+						"Charles Darwin" by <span>Grant Allen</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Man's Mind will ever stand apart<br>
+From Science, save this have for goal<br>
+The evolution of the heart,<br>
+And sure survival of the Soul.
+							<div class="poet">"The Door Of Humility" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							I will show you the girl of the ghetto<br>
+I will show you the burning well<br>
+I will show you strange people<br>
+haunted, beast-like, on the<br>
+verge of evolution
+							<div class="poet">"Wilderness" by <span>James Douglas Morrison</span></div>
+						</div>
+											<div class="poemQuote">
+							Lead us, Evolution, lead us<br>
+Up the future's endless stair;<br>
+Chop us, change us, prod us, weed us.<br>
+For stagnation is despair:<br>
+Groping, guessing, yet progressing,<br>
+Lead us nobody knows where.
+							<div class="poet">"Evolutionary Hymn" by <span>C S Lewis</span></div>
+						</div>
+											<div class="poemQuote">
+							"By evolution I was planned,<br>
+And marvellously made as you;<br>
+And I am led to understand<br>
+The selfsame God conceived us two:<br>
+Sire, though the coup de grâce you give,<br>
+Even a roach has right to live."
+							<div class="poet">"Death Of A Cockroach" by <span>Robert W Service</span></div>
+						</div>
+											<div class="poemQuote">
+							A Theory, by scientists defended,<br>
+Declares that we from monkeys are descended.<br>
+This being thus, we therefore clearly see<br>
+The Powder-Monkey heads some pedigree.<br>
+Ah, yes,--from him descend by evolution,<br>
+The Dames and Daughters of the Revolution.
+							<div class="poet">"A Phenomenal Fauna" by <span>Carolyn Wells</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						On this week's episode of Gabfest Radio, Political Gabfest panelists discuss the Petraeus affair and its possible fallout in post-election Washington while the Culturefesters talk about Skyfall, and the evolution of the Bond universe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wnyc.org/shows/gabfest/archive/" target="_blank" rel="external nofollow">wnyc.org</a>
+					</div>
+										<div class="usage">
+						The Galapagos Islands held the inspiration for Darwin's Theory of Evolution and present an interesting array of wild animals.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aberdeennews.com/lifestyle/travel/sns-travel-pictures-galapagos-wildlife,0,2861063.photogallery" target="_blank" rel="external nofollow">aberdeennews.com</a>
+					</div>
+										<div class="usage">
+						The Evolution of D- Generation X .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wwe.com/shows/raw/2012-07-23/evolution-of-dx" target="_blank" rel="external nofollow">wwe.com</a>
+					</div>
+										<div class="usage">
+						In Ducks, War of the Sexes Plays Out in the Evolution of Genitalia .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2007/04/30/science/01duck.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Suggested that we add a reference to the importance of evolution to the geological sciences to the statement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.geotimes.org/may03/column.html" target="_blank" rel="external nofollow">geotimes.org</a>
+					</div>
+										<div class="usage">
+						A story this week in the Wall Street Journal detailing an attempt to make the US drone campaign in Pakistan more sustainable suggests an intriguing evolution in American policy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wnet/need-to-know/opinion/a-road-map-for-more-effective-engagement-in-pakistan/14994/" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						A study of old pulsars is critical for understanding the long-term evolution of neutron stars.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.astronomy.com/en/News-Observing/News/2009/02/Geriatric%20pulsar%20still%20kicking.aspx" target="_blank" rel="external nofollow">astronomy.com</a>
+					</div>
+										<div class="usage">
+						4G is the next evolution in wireless technology.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.tmcnet.com/4g-wirelessevolution/2012/11/what-people-dont-get-about-windows-8.html" target="_blank" rel="external nofollow">blog.tmcnet.com</a>
+					</div>
+										<div class="usage">
+						A museum exhibit charts the evolution of Godzilla – and Japan – through 26 films.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/2002/0730/p07s01-woap.html" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Some of the biggest issues in the politics – including global warming and evolution – are far from being resolved by data and analysis.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ocregister.com/articles/percent-342714-global-warming.html?graphics" target="_blank" rel="external nofollow">ocregister.com</a>
+					</div>
+										<div class="usage">
+						Victorian-Era Painter William T Trego--Pianist Rudolf Buchbinder--Evolution of Hist .
+					</div>
+					<div class="uAuthor">
+						<a href="http://wrti.org/node/2552" target="_blank" rel="external nofollow">wrti.org</a>
+					</div>
+										<div class="usage">
+						From the Evolution special issue.
+					</div>
+					<div class="uAuthor">
+						<a href="http://discovermagazine.com/2011/evolution/23-how-we-won-the-hominid-wars" target="_blank" rel="external nofollow">discovermagazine.com</a>
+					</div>
+										<div class="usage">
+						Sun's Tina Charles: Evolution of a hook shot .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theday.com/article/20120927/SPORT13/309279519" target="_blank" rel="external nofollow">theday.com</a>
+					</div>
+										<div class="usage">
+						New Mexico photographer documents the evolution of the Mike O'Callaghan-Pat Tillman Memorial Bridge.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nevadamagazine.com/issues/read/hoover_dam_bypass_photos/" target="_blank" rel="external nofollow">nevadamagazine.com</a>
+					</div>
+										<div class="usage">
+						If females must compete, evolution will furnish them with weapons to do so.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.economist.com/node/15603909" target="_blank" rel="external nofollow">economist.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						These observations give rise to questions as to the nature of this dark energy/cosmological constant, possible predictions for the evolution of the Universe based on this assumption, and possible ways to improve or ﬁnd new observational methods that could lead to a better understanding of this evolution. 
+					</div>
+					<div class="uAuthor">
+						Observations of cluster substructure using weakly lensed sextupole moments
+					</div>
+										<div class="usage">
+						In their study of the evolution of galaxies within clusters, Butcher and Oemler discovered evidence for a strong evolution in star-formation rate with redshift. 
+					</div>
+					<div class="uAuthor">
+						At the Vigintennial of the Butcher-Oemler Effect
+					</div>
+										<div class="usage">
+						Further, the frequency of recently star-forming galaxies belonging to clusters at these redshifts is greater than equivalent clusters at lower redshifts and has a stronger evolution with redshift than ﬁeld E+As suggesting a strong evolution in this galaxy type. 
+					</div>
+					<div class="uAuthor">
+						At the Vigintennial of the Butcher-Oemler Effect
+					</div>
+										<div class="usage">
+						For both correlated random walks and quantum walks, we can think of the evolution as driven by the outcome of tosses of two coins, with each coin determining the evolution at the time step for which that coin is active. 
+					</div>
+					<div class="uAuthor">
+						Limit theorems and absorption problems for one-dimensional correlated random walks
+					</div>
+										<div class="usage">
+						Thus, a Markov process is a statistical process whose time evolution is ﬁxed only by the initial condition, so that its evolution is totally independent of the past. 
+					</div>
+					<div class="uAuthor">
+						From Knowledge, Knowability and the Search for Objective Randomness to a New Vision of Complexity
+					</div>
+										<div class="usage">
+						It is found that a large class of distinct GPE models with different evolution of generalized phantom energy density and gravitational constant, but the same equation of state of GPE have the same evolution of the scale factor of the universe in the distant future. 
+					</div>
+					<div class="uAuthor">
+						Generalized phantom energy
+					</div>
+										<div class="usage">
+						Once we have found the expression for the evolution of the Hubble parameter, it is easy to obtain an expression for the evolution of the scale factor a a(t) = a(t0 )exp Z t t0 κ(t′′ )dt′′ ! . 
+					</div>
+					<div class="uAuthor">
+						Generalized phantom energy
+					</div>
+										<div class="usage">
+						We shall mainly consider two extremes: the evolution of an eigenstate of the unperturbed system, and the evolution of a random state with a given, but fairly large spectral span. 
+					</div>
+					<div class="uAuthor">
+						A random matrix formulation of fidelity decay
+					</div>
+										<div class="usage">
+						We measure the distortion of a state by calculating the ﬁdelity, which may be interpreted as the autocorrelation function of a forward evolution with H0 and a time reversed evolution with the perturbed Hamiltonian H = H0 + λV . 
+					</div>
+					<div class="uAuthor">
+						A random matrix formulation of fidelity decay
+					</div>
+										<div class="usage">
+						However, the afterglow evolution before the jump should be steeper or the same as the evolution after the jump; that is not observed for GRB 970508 (e.g., Fruchter et al. 2000). 
+					</div>
+					<div class="uAuthor">
+						The Diversity of Gamma-Ray Bursts and the Surroundings of Massive Stars
+					</div>
+										<div class="usage">
+						In other words, the time evolution of a product will be given by the product of the time evolution of the individual operators. 
+					</div>
+					<div class="uAuthor">
+						Nonlocality and information flow: The approach of Deutsch and Hayden
+					</div>
+										<div class="usage">
+						At present it is clear that the magnetic ﬁeld plays a crucial role in disk evolution, but detailed conclusions cannot be drawn because the complicated interplay between dynamics and the evolution of the grain population remains to be explored. 
+					</div>
+					<div class="uAuthor">
+						Early Disk Evolution
+					</div>
+										<div class="usage">
+						As the basis remains ﬁxed during the evolution, the suitable functions of basis parameters can be chosen to play the role of yk , k &gt; 1. (Note a similar transformation has been used to obtain a single parametric evolution of multi-parametric Gaussian ensembles of Hermitian matrices; see for details). 
+					</div>
+					<div class="uAuthor">
+						Random Matrices with Correlated Elements: A Model for Disorder with Interactions
+					</div>
+										<div class="usage">
+						In Hilbert space level-spacing evolution is important, which seems to play the same role for quantum chaos as the time evolution in phase space for classical chaos. 
+					</div>
+					<div class="uAuthor">
+						Quantum correlations from Brownian diffusion of chaotic level-spacings
+					</div>
+										<div class="usage">
+						In addition to all aspects of single star evolution, the BSE algorithm models processes such as mass transfer, mass accretion, commonenvelope evolution, collisions, supernova kicks, tidal evolution, and all angular momentum loss mechanisms. 
+					</div>
+					<div class="uAuthor">
+						Evolutionary Population Synthesis for Binary Stellar Populations
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="(biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms"><a href="organic%20evolution.html">organic evolution</a>, <a href="phylogeny.html">phylogeny</a>, <a href="phylogenesis.html">phylogenesis</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="biological%20process.html">biological process</a>, <a href="organic%20process.html">organic process</a>, <a href="physical%20process.html">physical process</a>, <a href="process.html">process</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="anamorphism.html">anamorphism</a>, <a href="anamorphosis.html">anamorphosis</a>, <a href="anthropogenesis.html">anthropogenesis</a>, <a href="anthropogeny.html">anthropogeny</a>, <a href="assibilation.html">assibilation</a>, <a href="deepening.html">deepening</a>, <a href="emergent%20evolution.html">emergent evolution</a>, <a href="flowering.html">flowering</a>, <a href="growth.html">growth</a>, <a href="macroevolution.html">macroevolution</a>, <a href="microevolution.html">microevolution</a>, <a href="speciation.html">speciation</a>, <a href="unfolding.html">unfolding</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="develop.html">develop</a>, <a href="evolutionary.html">evolutionary</a>, <a href="evolve.html">evolve</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adaptation.html">adaptation</a>, <a href="Advolution.html">Advolution</a>, <a href="Alcoholate.html">Alcoholate</a>, <a href="Alfred%20Russel%20Wallace.html">Alfred Russel Wallace</a>, <a href="Alkalimeter.html">Alkalimeter</a>, <a href="anamorphic.html">anamorphic</a>, <a href="anamorphism.html">anamorphism</a>, <a href="anamorphosis.html">anamorphosis</a>, <a href="ancestor.html">ancestor</a>, <a href="ancestry.html">ancestry</a>, <a href="anthropogenesis.html">anthropogenesis</a>, <a href="anthropogeny.html">anthropogeny</a>, <a href="anthropology.html">anthropology</a>, <a href="Asa%20Gray.html">Asa Gray</a>, <a href="Astrogeny.html">Astrogeny</a>, <a href="autarchic.html">autarchic</a>, <a href="Bergson.html">Bergson</a>, <a href="biogeny.html">biogeny</a>, <a href="block.html">block</a>, <a href="boatswain.html">boatswain</a>, <a href="Boy%20Orator%20of%20the%20Platte.html">Boy Orator of the Platte</a>, <a href="Bryan.html">Bryan</a>, <a href="burn.html">burn</a>, <a href="caenogenesis.html">caenogenesis</a>, <a href="cainogenesis.html">cainogenesis</a>, <a href="cenogenesis.html">cenogenesis</a>, <a href="Charles%20Darwin.html">Charles Darwin</a>, <a href="Charles%20Robert%20Darwin.html">Charles Robert Darwin</a>, <a href="Chevalier%20de%20Lamarck.html">Chevalier de Lamarck</a>, <a href="chlorate.html">chlorate</a>, <a href="chlorophyl.html">chlorophyl</a>, <a href="combustion.html">combustion</a>, <a href="Cosmism.html">Cosmism</a>, <a href="cosmogeny.html">cosmogeny</a>, <a href="cosmogony.html">cosmogony</a>, <a href="cosmologist.html">cosmologist</a>, <a href="cosmology.html">cosmology</a>, <a href="counter.html">counter</a>, <a href="countermarch.html">countermarch</a>, <a href="Darwin.html">Darwin</a>, <a href="Darwinian.html">Darwinian</a>, <a href="Darwinism.html">Darwinism</a>, <a href="De%20Vries.html">De Vries</a>, <a href="Decursion.html">Decursion</a>, <a href="deflagrate.html">deflagrate</a>, <a href="deflagration.html">deflagration</a>, <a href="derivation.html">derivation</a>, <a href="descent.html">descent</a>, <a href="design.html">design</a>, <a href="develop.html">develop</a>, <a href="development.html">development</a>, <a href="devolution.html">devolution</a>, <a href="deVries.html">deVries</a>, <a href="differentiation.html">differentiation</a>, <a href="digestion.html">digestion</a>, <a href="Disassimilation.html">Disassimilation</a>, <a href="dissolution.html">dissolution</a>, <a href="doctrine.html">doctrine</a>, <a href="Doctrine%20of%20development.html">Doctrine of development</a>, <a href="dog.html">dog</a>, <a href="ebullition.html">ebullition</a>, <a href="elan%20vital.html">elan vital</a>, <a href="emergent%20evolution.html">emergent evolution</a>, <a href="energy-releasing.html">energy-releasing</a>, <a href="epigenesis.html">epigenesis</a>, <a href="eugenics.html">eugenics</a>, <a href="Evolutional.html">Evolutional</a>, <a href="evolutionary.html">evolutionary</a>, <a href="evolutionism.html">evolutionism</a>, <a href="evolutionist.html">evolutionist</a>, <a href="evolve.html">evolve</a>, <a href="Evolvement.html">Evolvement</a>, <a href="exoergic.html">exoergic</a>, <a href="exoergic%20reaction.html">exoergic reaction</a>, <a href="exothermic.html">exothermic</a>, <a href="exothermic%20reaction.html">exothermic reaction</a>, <a href="eye.html">eye</a>, <a href="fire.html">fire</a>, <a href="fission.html">fission</a>, <a href="flame.html">flame</a>, <a href="gassing.html">gassing</a>, <a href="Gastr%C3%A6a.html">Gastræa</a>, <a href="genealogy.html">genealogy</a>, <a href="generation.html">generation</a>, <a href="geomorphology.html">geomorphology</a>, <a href="germ%20theory.html">germ theory</a>, <a href="germination.html">germination</a>, <a href="glacial%20epoch.html">glacial epoch</a>, <a href="glottochronological.html">glottochronological</a>, <a href="gray.html">gray</a>, <a href="Great%20Commoner.html">Great Commoner</a>, <a href="Half-board.html">Half-board</a>, <a href="Head-reach.html">Head-reach</a>, <a href="Henri%20Bergson.html">Henri Bergson</a>, <a href="Henri%20Louis%20Bergson.html">Henri Louis Bergson</a>, <a href="Henry%20Norris%20Russell.html">Henry Norris Russell</a>, <a href="Henry%20Russell.html">Henry Russell</a>, <a href="heredity.html">heredity</a>, <a href="Heterochronism.html">Heterochronism</a>, <a href="Heterochrony.html">Heterochrony</a>, <a href="homogeny.html">homogeny</a>, <a href="horse.html">horse</a>, <a href="Hugo%20De%20Vries.html">Hugo De Vries</a>, <a href="Hugo%20deVries.html">Hugo deVries</a>, <a href="Huxley.html">Huxley</a>, <a href="Hydro-electric.html">Hydro-electric</a>, <a href="ideology.html">ideology</a>, <a href="integration.html">integration</a>, <a href="intraspecific.html">intraspecific</a>, <a href="inverse.html">inverse</a>, <a href="involution.html">involution</a>, <a href="Jean%20Baptiste%20de%20Lamarck.html">Jean Baptiste de Lamarck</a>, <a href="John%20Scopes.html">John Scopes</a>, <a href="John%20Thomas%20Scopes.html">John Thomas Scopes</a>, <a href="kainogenesis.html">kainogenesis</a>, <a href="kenogenesis.html">kenogenesis</a>, <a href="killing.html">killing</a>, <a href="Lamarck.html">Lamarck</a>, <a href="Lamarckism.html">Lamarckism</a>, <a href="lanthanum.html">lanthanum</a>, <a href="Leakey.html">Leakey</a>, <a href="life%20force.html">life force</a>, <a href="lime.html">lime</a>, <a href="Louis%20Leakey.html">Louis Leakey</a>, <a href="Louis%20Seymour%20Bazett%20Leakey.html">Louis Seymour Bazett Leakey</a>, <a href="Lysenko.html">Lysenko</a>, <a href="macroevolution.html">macroevolution</a>, <a href="maneuver.html">maneuver</a>, <a href="Man%C5%93uvre.html">Manœuvre</a>, <a href="mask.html">mask</a>, <a href="microevolution.html">microevolution</a>, <a href="missing%20link.html">missing link</a>, <a href="monism.html">monism</a>, <a href="Morphogeny.html">Morphogeny</a>, <a href="morphology.html">morphology</a>, <a href="mutation.html">mutation</a>, <a href="natural%20selection.html">natural selection</a>, <a href="neo-Darwinism.html">neo-Darwinism</a>, <a href="Nitrogelatin.html">Nitrogelatin</a>, <a href="novel.html">novel</a>, <a href="ontogenesis.html">ontogenesis</a>, <a href="ontogeny.html">ontogeny</a>, <a href="paleoclimatology.html">paleoclimatology</a>, <a href="paleogeography.html">paleogeography</a>, <a href="palingenesis.html">palingenesis</a>, <a href="Palingenesy.html">Palingenesy</a>, <a href="parallelism.html">parallelism</a>, <a href="Permanganic.html">Permanganic</a>, <a href="phenomenology.html">phenomenology</a>, <a href="phosphorescence.html">phosphorescence</a>, <a href="phylogeny.html">phylogeny</a>, <a href="phylum.html">phylum</a>, <a href="Physiogeny.html">Physiogeny</a>, <a href="plastic.html">plastic</a>, <a href="Pleistocene.html">Pleistocene</a>, <a href="Pleistocene%20epoch.html">Pleistocene epoch</a>, <a href="Pretypify.html">Pretypify</a>, <a href="progression.html">progression</a>, <a href="psychophysics.html">psychophysics</a>, <a href="punctuated%20equilibrium.html">punctuated equilibrium</a>, <a href="putrefaction.html">putrefaction</a>, <a href="Pyrophorus.html">Pyrophorus</a>, <a href="radiation.html">radiation</a>, <a href="Recalescence.html">Recalescence</a>, <a href="recapitulation.html">recapitulation</a>, <a href="root.html">root</a>, <a href="rudimentary.html">rudimentary</a>, <a href="Russell.html">Russell</a>, <a href="saleratus.html">saleratus</a>, <a href="Saltatory%20evolution.html">Saltatory evolution</a>, <a href="Scopes.html">Scopes</a>, <a href="Scopes%20trial.html">Scopes trial</a>, <a href="selection.html">selection</a>, <a href="Self-evolution.html">Self-evolution</a>, <a href="Sexual%20selection.html">Sexual selection</a>, <a href="skull.html">skull</a>, <a href="solidification.html">solidification</a>, <a href="solution.html">solution</a>, <a href="specialization.html">specialization</a>, <a href="speciation.html">speciation</a>, <a href="species.html">species</a>, <a href="Spencerianism.html">Spencerianism</a>, <a href="spontaneous%20combustion.html">spontaneous combustion</a>, <a href="Strontia.html">Strontia</a>, <a href="succession.html">succession</a>, <a href="superman.html">superman</a>, <a href="survival.html">survival</a>, <a href="survival%20of%20the%20fittest.html">survival of the fittest</a>, <a href="synthetic.html">synthetic</a>, <a href="theory%20of%20punctuated%20equilibrium.html">theory of punctuated equilibrium</a>, <a href="Thermochemical.html">Thermochemical</a>, <a href="Thomas%20Henry%20Huxley.html">Thomas Henry Huxley</a>, <a href="Thomas%20Huxley.html">Thomas Huxley</a>, <a href="Transformism.html">Transformism</a>, <a href="Transmorphism.html">Transmorphism</a>, <a href="Trofim%20Denisovich%20Lysenko.html">Trofim Denisovich Lysenko</a>, <a href="trumpet.html">trumpet</a>, <a href="Tychism.html">Tychism</a>, <a href="undifferentiated.html">undifferentiated</a>, <a href="variability.html">variability</a>, <a href="variation.html">variation</a>, <a href="vestigial.html">vestigial</a>, <a href="vital%20force.html">vital force</a>, <a href="vitality.html">vitality</a>, <a href="Voluntarism.html">Voluntarism</a>, <a href="Wallace.html">Wallace</a>, <a href="Weismannism.html">Weismannism</a>, <a href="William%20Jennings%20Bryan.html">William Jennings Bryan</a>, <a href="Zo%C3%B6gl%C5%93a.html">Zoöglœa</a>, <a href="zoology.html">zoology</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wvolution, svolution, dvolution, rvolution, ecolution, efolution, egolution, ebolution, evilution, evklution, evllution, evplution, evokution, evooution, evopution, evolytion, evolhtion, evoljtion, evolition, evolurion, evolufion, evolugion, evoluyion, evolutuon, evolutjon, evolutkon, evolutoon, evolutiin, evolutikn, evolutiln, evolutipn, evolutiob, evolutioh, evolutioj, evolutiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

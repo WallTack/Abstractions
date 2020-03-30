@@ -1,0 +1,534 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>controversy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">controversy</span> <span class="exp">a contentious speech act; a dispute where there is strong disagreement</span> <span class="quot">"they were involved in a violent argument"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In 1938, President Franklin D. Roosevelt signed into law the first minimum wage in the United States. The new law, considered controversial at the time, established at.25 cents per hour minimum wage and a maximum 44 hour work week for minors.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Controversy</span> <span class="exp">A suit in law or equity; a question of right.</span> <span class="wuQuot">"When any man that had a controversy came to the king for judgment."</span></li><li><span class="term">Controversy</span> <span class="exp">Contention; dispute; debate; discussion; agitation of contrary opinions.</span> <span class="wuQuot">"This left no room for controversy about the title."</span><span class="wuQuot">"A dispute is commonly oral, and a controversy in writing."</span></li><li><span class="term">Controversy</span> <span class="exp">Quarrel; strife; cause of variance; difference.</span> <span class="wuQuot">"The Lord hath a controversy with the nations."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">controversy</span> <span class="exp">Disputation; debate; agitation of contrary opinions; a formal or prolonged debate; dispute.</span> </li><li><span class="tSpeech">n</span> <span class="term">controversy</span> <span class="exp">Specifically A suit in law; the contention in a civil action; a case in which opposing parties contend for their respective claims before a tribunal.</span> </li><li><span class="tSpeech">n</span> <span class="term">controversy</span> <span class="exp">A matter in dispute; a question to settle.</span> </li><li><span class="tSpeech">n</span> <span class="term">controversy</span> <span class="exp">Antagonism; resistance.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Controversy</span> <span class="exp">a debate: contest: resistance</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">King Jr. Martin Luther</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/King%20Jr.%20Martin%20Luther.jpg" alt="King%20Jr.%20Martin%20Luther">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Carlyle.jpg" alt="Thomas%20Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lyman Beecher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Lyman Beecher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No great advance has ever been made in science, politics, or religion, without controversy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Carlyle.jpg" alt="Thomas%20Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The dust of controversy is merely the falsehood flying off.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Hazlitt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Hazlitt.jpg" alt="William%20Hazlitt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When a thing ceases to be a subject of controversy, it ceases to be a subject of interest.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bertrand Russell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Bertrand%20Russell.jpg" alt="Bertrand%20Russell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The most savage controversies are those about matters as to which there is no good evidence either way.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">controversia</span>, fr. <span class="wUets">controversus</span>, turned against, disputed; <span class="wUets">contro-</span>, = <span class="wUets">contra</span>, + <span class="wUets">versus</span>, p. p. of <span class="wUets">vertere</span>, to turn. See <span class="wUer">Verse</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>contra</i>, against, and <i>vert-ĕre</i>, to turn.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Her stake in this controversy is too deep.
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<div class="usage">
+						They neither of them felt any special interest in the controversy going on in the University and country about High and Low Church.
+					</div>
+					<div class="uAuthor">
+						"Loss and Gain" by <span>John Henry Newman</span>					</div>
+										<div class="usage">
+						First Year of my Ministry and First Controversy.
+					</div>
+					<div class="uAuthor">
+						"The Story of My Life" by <span>Egerton Ryerson</span>					</div>
+										<div class="usage">
+						Then set in with full vigor the controversy over the new territory which Calhoun had foreseen.
+					</div>
+					<div class="uAuthor">
+						"The Negro and the Nation" by <span>George S. Merriam</span>					</div>
+										<div class="usage">
+						St. Thomas Aquinas had a celebrated and sometimes misunderstood controversy with Avicenna, a very famous Arabian philosopher.
+					</div>
+					<div class="uAuthor">
+						"Science and Morals and Other Essays" by <span>Bertram Coghill Alan Windle</span>					</div>
+										<div class="usage">
+						He was distinguished for the patriotic stand he took at the very beginning of the controversy between the Colony and the King.
+					</div>
+					<div class="uAuthor">
+						"Stories Of Georgia" by <span>Joel Chandler Harris</span>					</div>
+										<div class="usage">
+						The sword, at any rate, settled the controversy.
+					</div>
+					<div class="uAuthor">
+						"America First" by <span>Various</span>					</div>
+										<div class="usage">
+						He was no match in controversy for Mr. Wendover, and he did not mean to attempt it.
+					</div>
+					<div class="uAuthor">
+						"Robert Elsmere" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						He delivered political addresses and engaged in political controversy.
+					</div>
+					<div class="uAuthor">
+						"The Jewish State" by <span>Theodor Herzl</span>					</div>
+										<div class="usage">
+						The shadow of death is already upon him; in a few months he will be beyond the reach of controversy.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Volume 03" by <span>Various</span>					</div>
+										<div class="usage">
+						The first business which brought them into close connection was the Lancasterian controversy.
+					</div>
+					<div class="uAuthor">
+						"The English Utilitarians, Volume II (of 3)" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						Few books have been the subject of greater controversy as to their meaning and general intention.
+					</div>
+					<div class="uAuthor">
+						"A Short History of French Literature" by <span>George Saintsbury</span>					</div>
+										<div class="usage">
+						This is simply a question of fact, to be determined like every other question of fact by the court in which the controversy is pending.
+					</div>
+					<div class="uAuthor">
+						"Putnam's Handy Law Book for the Layman" by <span>Albert Sidney Bolles</span>					</div>
+										<div class="usage">
+						Finally, I do not allow myself to be tempted into controversy with particular writers whose views disagree with my own.
+					</div>
+					<div class="uAuthor">
+						"The Divorce of Catherine of Aragon" by <span>J.A. Froude</span>					</div>
+										<div class="usage">
+						The subject in its details is full of controversies, and a discussion of it at any length would embrace the whole field of economics.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 5, Slice 3" by <span>Various</span>					</div>
+										<div class="usage">
+						The whole preparedness controversy revealed this rootlessness.
+					</div>
+					<div class="uAuthor">
+						"American World Policies" by <span>Walter E. Weyl</span>					</div>
+										<div class="usage">
+						Dr Erskine's writings consist chiefly of controversial pamphlets on theological subjects.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 9, Slice 7" by <span>Various</span>					</div>
+										<div class="usage">
+						The controversy has raged, however, to such an extent that many who are not directly engaged in estate practice have obtained confused impressions.
+					</div>
+					<div class="uAuthor">
+						"The Preparation of Plantation Rubber" by <span>Sidney Morgan</span>					</div>
+										<div class="usage">
+						SUMMARY OF THE CONTROVERSY OF THE "BUTS," BETWEEN MR. FREIND AND DON INIGO-Y-MEDROSO, Y-COMODIOS, Y-PAPALAMIENDOS, BACHELOR OF SALAMANCA.
+					</div>
+					<div class="uAuthor">
+						"Voltaire's Romances" by <span>François-Marie Arouet</span>					</div>
+										<div class="usage">
+						Indeed, there is no need of lugging the foreknowledge of God into the present controversy, except it be to deceive the mind.
+					</div>
+					<div class="uAuthor">
+						"An Examination of President Edwards' Inquiry into the Freedom of the Will" by <span>Albert Bledsoe</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							``Of life beyond I speak not yet.<br>
+'Tis solitude alone can e'er,<br>
+By hushing controversy, let<br>
+Man catch earth's undertone of prayer.
+							<div class="poet">"At The Gate Of The Convent" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							A friendship that in frequent fits<br>
+Of controversial rage emits<br>
+The sparks of disputation,<br>
+Like hand-in-hand insurance-plates,<br>
+Most unavoidably creates<br>
+The thought of conflagration.
+							<div class="poet">"Friendship" by <span>William Cowper</span></div>
+						</div>
+											<div class="poemQuote">
+							Whither but to Thee, whose mercy<br>
+All the clouds is breaking through:<br>
+Great, beyond all controversy,<br>
+Is thy love and pardon too.<br>
+Father! whither shall we flee—<br>
+Whither, whither but to Thee?
+							<div class="poet">"God our only Refuge" by <span>John Bowring</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Patrice O'Neal, a stand-up comedian who boisterously took on controversial topics like race, AIDS and his own struggle with diabetes, died on Tuesday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2011/11/30/arts/patrice-oneal-boisterous-comedian-dies-at-41.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						ERIC JAMISON/AP PHOTO Carrie Prejean told judges at the Miss USA pageant last year that gay marriage shouldn't be legalized, kicking off a firestorm of controversy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/entertainment/celebrities/index.ssf/2010/02/carrie_prejean_st_louis_rams_q.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						A controversial cartoon concerning Martin Luther King Jr will be screened at UCO.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.okgazette.com/oklahoma/blog-1138-down-in-%E2%80%98the-boondocks%E2%80%99.html" target="_blank" rel="external nofollow">okgazette.com</a>
+					</div>
+										<div class="usage">
+						Season two will bring Borgia 's action from the Middle Ages to the Renaissance, kicking off in 1494 as the controversial family reunites after the death of Rodrigo Borgia 's oldest son Juan.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/news/tom-fontana-borgia-netflix-304127" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						Lot of them, a newspaper editor, a murder investigator and even the controversial author Ayn Rand, but not until last night did her breasts get a starring role.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.radaronline.com/exclusives/2011/04/video-helen-mirrens-magical-bosom-stars-snl" target="_blank" rel="external nofollow">radaronline.com</a>
+					</div>
+										<div class="usage">
+						The culinary world's Doogie Howser stirs up controversy in the kitchen.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/entertainment/food/too_big_for_his_fIiTJfcmZXplPyVtjwi1NI" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						Meanwhile, this last week has seen the publication of two controversial magazines in France: One, called Closer, showed Prince William's lovely bride, the Duchess of Cambridge, without her bikini top on.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nationalreview.com/articles/328163/bowing-mob-mark-steyn?pg=2" target="_blank" rel="external nofollow">nationalreview.com</a>
+					</div>
+										<div class="usage">
+						Too Tall' Jones won a controversial boxing match at the Pan Am.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lcsun-news.com/panam/ci_11708929" target="_blank" rel="external nofollow">lcsun-news.com</a>
+					</div>
+										<div class="usage">
+						 BPI to Close Plants Over 'Pink Slime' Controversy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.agweb.com/livestock/beef/article/bpi_to_close_plants_over_pink_slime_controversy/" target="_blank" rel="external nofollow">agweb.com</a>
+					</div>
+										<div class="usage">
+						However, the fact that he is acting as a political operative, while in charge of the Justice Department and is willing to evade responsibility on a number of controversies since the Clinton administration is more disturbing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/blog/watercooler/2012/mar/19/picket-holder-95-anti-gun-brainwash-remarks-likely/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						"Controversy," a poetry slam event to be presented by the Brainy Acts Poetry Society Tuesday, Nov 15 at Northwestern State University, has been moved to the Student Union.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.natchitochestimes.com/pages/full_story_2/push?article-Brainy+Acts+to+present+-Controversy-+poetry+slam+%20&amp;id=16396824&amp;instance=nsu_news" target="_blank" rel="external nofollow">natchitochestimes.com</a>
+					</div>
+										<div class="usage">
+						The Metropolitan Water District, US Sen Dianne Feinstein, environmental rules and lawsuits could stand in the way of the controversial Cadiz water project.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/local/la-me-cadiz-groundwater-20121001,0,46099.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Last month, the US Supreme Court ruled to support the Affordable Care Act's controversial individual mandate to buy health insurance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.citypaper.net/blogs/nakedcity/Why-Corbett-might-embrace-Obamacare-Governor-cagey-on-allegations-of-illegally-kicking-thousands-off-Medicaid-.html" target="_blank" rel="external nofollow">citypaper.net</a>
+					</div>
+										<div class="usage">
+						Gender politics play out in Caster Semenya controversy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiamissourian.com/a/119183/guest-commentary-gender-politics-play-out-in-caster-semenya-controversy/" target="_blank" rel="external nofollow">columbiamissourian.com</a>
+					</div>
+										<div class="usage">
+						The Mets have a resolution to their center-field controversy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/blogs/metsblog/beltran_asks_to_be_mets_right_fielder_fvSM50ubyrOMEZ6AalWSYO" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Fortunately for us, although the quantum measurement problem remains controversial and there remain many open technical questions in the physics of decoherence, we need not address these controversies and questions. 
+					</div>
+					<div class="uAuthor">
+						On the Persistence of Homogeneous Matter
+					</div>
+										<div class="usage">
+						Mariner 2 con ﬁrmed the existence of a continuous supersonic solar wind just a few years after Parker’s initially controversial work, and also showed that the wind exists in two relatively distinct states: slow (300 –500 km/s) and fast (600 –800 km/s). 
+					</div>
+					<div class="uAuthor">
+						Coronal Heating versus Solar Wind Acceleration
+					</div>
+										<div class="usage">
+						There remains some controversy over whether ion cyclotron waves generated only at the coronal base can heat the extended corona, or if a more gradual generation of these waves is needed over a range of heights. 
+					</div>
+					<div class="uAuthor">
+						Coronal Heating versus Solar Wind Acceleration
+					</div>
+										<div class="usage">
+						Controversy has arisen between Osaki and Meyer (2003) and Smak (2004) over how to calculate this ﬂuid ﬂow. 
+					</div>
+					<div class="uAuthor">
+						Enhanced mass transfer during dwarf nova outbursts by irradiation of the secondary?
+					</div>
+										<div class="usage">
+						This is consistent with many numerical investigations and resolves some controversies on the existence/absence problem of a ﬁnite-temperature transition in the symmetric system on the square lattice[16, 17]. 
+					</div>
+					<div class="uAuthor">
+						Possibly Exact Solution for the Multicritical Point of Finite-Dimensional Spin Glasses
+					</div>
+										<div class="usage">
+						Although many numerical as well as analytical attempts has been made to clarify this point, the conclusions are so far still controversial. 
+					</div>
+					<div class="uAuthor">
+						Magnetotransport in inhomogeneous magnetic fields
+					</div>
+										<div class="usage">
+						Before entering the details of the controversy, we shall ﬁrst remind once again in this section why in a spontaneously broken phase there are two basically different deﬁnitions of the ﬁeld rescaling. 
+					</div>
+					<div class="uAuthor">
+						Large logarithmic rescaling of the scalar condensate: a subtlety with substantial phenomenological implications
+					</div>
+										<div class="usage">
+						Still, anyway, it is controversial what the true ground state should be that supersedes the homogeneous gCFL phase. 
+					</div>
+					<div class="uAuthor">
+						Analytical and numerical evaluation of the Debye and Meissner masses in dense neutral three-flavor quark matter
+					</div>
+										<div class="usage">
+						ISO haloes form of course the one model known to be certainly inconsistent with CDM (if they were not, there would be no cusp/core controversy). 
+					</div>
+					<div class="uAuthor">
+						Halo Mass Profiles and Low Surface Brightness Galaxies Rotation Curves
+					</div>
+										<div class="usage">
+						In particular, an intensive work and controversy persists in calculating the so-called thermodynamic complexity of the free energy for the standard SherringtonKirkpatrick model of spin glasses or its generalisations[6 ]. 
+					</div>
+					<div class="uAuthor">
+						Counting Stationary Points of Random Landscapes as a Random Matrix Problem
+					</div>
+										<div class="usage">
+						In contrast, it remains still controversial what phase sets in next to the CFL as the density is decreased and/or the temperature is raised. 
+					</div>
+					<div class="uAuthor">
+						Extensive study of phase diagram for charge neutral homogeneous quark matter affected by dynamical chiral condensation -- unified picture for thermal unpairing transitions from weak to strong coupling --
+					</div>
+										<div class="usage">
+						We focus on this important controversy, since the work of Kolos et al. on HH [3a] and all more recent HH-studies [3b,c] were started mainly after singularities (energy extremes) were found earlier in the HH PEC [5-6]. 
+					</div>
+					<div class="uAuthor">
+						Theoretical and observed potential energy curves for neutral 4-unit charge Coulomb systems containing antihydrogen
+					</div>
+										<div class="usage">
+						Since my further attention is focused on the many-body systems, several controversial topics of the equilibrium and non-equilibrium statistical mechanics are revisited in the next chapter. The purpose is to present certain aspects from the viewpoint of our concept. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						However, the result seems controversial because the derivative of ( )ν x is a continuous l.h.s. of (A.5). 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<div class="usage">
+						The aim of this chapter is to outline the inconsistency of two major approaches: the master equation and the weak-coupling limit. The importance of revealing in details the controversies that their interplay runs into is their wide use. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations and Long-Term Stability: from Coherence to Chaos
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a contentious speech act; a dispute where there is strong disagreement"><a href="contention.html">contention</a>, <a href="contestation.html">contestation</a>, <a href="disputation.html">disputation</a>, <a href="disceptation.html">disceptation</a>, <a href="tilt.html">tilt</a>, <a href="argument.html">argument</a>, <a href="arguing.html">arguing</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="conflict.html">conflict</a>, <a href="difference.html">difference</a>, <a href="difference%20of%20opinion.html">difference of opinion</a>, <a href="dispute.html">dispute</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="argle-bargle.html">argle-bargle</a>, <a href="argy-bargy.html">argy-bargy</a>, <a href="fight.html">fight</a>, <a href="firestorm.html">firestorm</a>, <a href="polemic.html">polemic</a>, <a href="sparring.html">sparring</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="controversial.html">controversial</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20bone%20to%20pick.html">A bone to pick</a>, <a href="abstract.html">abstract</a>, <a href="academic.html">academic</a>, <a href="accord.html">accord</a>, <a href="Adiaphorist.html">Adiaphorist</a>, <a href="aggress.html">aggress</a>, <a href="aggression.html">aggression</a>, <a href="agitate.html">agitate</a>, <a href="agitation.html">agitation</a>, <a href="all.html">all</a>, <a href="All%20comers.html">All comers</a>, <a href="altercation.html">altercation</a>, <a href="amicably.html">amicably</a>, <a href="Antiburgher.html">Antiburgher</a>, <a href="appellant.html">appellant</a>, <a href="arbiter.html">arbiter</a>, <a href="arbitration.html">arbitration</a>, <a href="arbitrator.html">arbitrator</a>, <a href="argufy.html">argufy</a>, <a href="argument.html">argument</a>, <a href="At%20issue.html">At issue</a>, <a href="at%20variance.html">at variance</a>, <a href="atonement.html">atonement</a>, <a href="attack.html">attack</a>, <a href="Azym.html">Azym</a>, <a href="Bering%20Sea%20Controversy.html">Bering Sea Controversy</a>, <a href="Campfight.html">Campfight</a>, <a href="Carry%20one%27s%20point.html">Carry one's point</a>, <a href="case.html">case</a>, <a href="challenge.html">challenge</a>, <a href="charged.html">charged</a>, <a href="chest.html">chest</a>, <a href="clincher.html">clincher</a>, <a href="closer.html">closer</a>, <a href="combatant.html">combatant</a>, <a href="composition.html">composition</a>, <a href="compound.html">compound</a>, <a href="compromise.html">compromise</a>, <a href="conflict.html">conflict</a>, <a href="Consistorian.html">Consistorian</a>, <a href="contention.html">contention</a>, <a href="contentious.html">contentious</a>, <a href="Contentious%20jurisdiction.html">Contentious jurisdiction</a>, <a href="contest.html">contest</a>, <a href="Controversary.html">Controversary</a>, <a href="Controverse.html">Controverse</a>, <a href="controversial.html">controversial</a>, <a href="controversialist.html">controversialist</a>, <a href="controversially.html">controversially</a>, <a href="Controversion.html">Controversion</a>, <a href="controvert.html">controvert</a>, <a href="Controvertist.html">Controvertist</a>, <a href="council.html">council</a>, <a href="debatable.html">debatable</a>, <a href="debate.html">debate</a>, <a href="Debatement.html">Debatement</a>, <a href="decide.html">decide</a>, <a href="decision.html">decision</a>, <a href="decisive.html">decisive</a>, <a href="decisively.html">decisively</a>, <a href="decisiveness.html">decisiveness</a>, <a href="Declaratory%20act.html">Declaratory act</a>, <a href="deliverance.html">deliverance</a>, <a href="dependence.html">dependence</a>, <a href="determination.html">determination</a>, <a href="determine.html">determine</a>, <a href="difference.html">difference</a>, <a href="difficulty.html">difficulty</a>, <a href="disagree.html">disagree</a>, <a href="disagreement.html">disagreement</a>, <a href="disceptation.html">disceptation</a>, <a href="disputant.html">disputant</a>, <a href="disputation.html">disputation</a>, <a href="dispute.html">dispute</a>, <a href="Disputer.html">Disputer</a>, <a href="doctrinal.html">doctrinal</a>, <a href="Doughface.html">Doughface</a>, <a href="drop.html">drop</a>, <a href="end.html">end</a>, <a href="engage.html">engage</a>, <a href="eristic.html">eristic</a>, <a href="eristical.html">eristical</a>, <a href="facer.html">facer</a>, <a href="fence-sitter.html">fence-sitter</a>, <a href="final.html">final</a>, <a href="firestorm.html">firestorm</a>, <a href="freewill.html">freewill</a>, <a href="fruitless.html">fruitless</a>, <a href="gladiator.html">gladiator</a>, <a href="Home%20thrust.html">Home thrust</a>, <a href="Homoiousian.html">Homoiousian</a>, <a href="Homoousian.html">Homoousian</a>, <a href="Hundreder.html">Hundreder</a>, <a href="hypostasis.html">hypostasis</a>, <a href="Immaterial%20issue.html">Immaterial issue</a>, <a href="incontrovertible.html">incontrovertible</a>, <a href="individuation.html">individuation</a>, <a href="Ingenerate.html">Ingenerate</a>, <a href="interdict.html">interdict</a>, <a href="interposition.html">interposition</a>, <a href="intricacy.html">intricacy</a>, <a href="Intrusionist.html">Intrusionist</a>, <a href="issue.html">issue</a>, <a href="Joinder.html">Joinder</a>, <a href="judge.html">judge</a>, <a href="jurisdiction.html">jurisdiction</a>, <a href="legal.html">legal</a>, <a href="Lis.html">Lis</a>, <a href="maintenance.html">maintenance</a>, <a href="material.html">material</a>, <a href="matter.html">matter</a>, <a href="noncontentious.html">noncontentious</a>, <a href="noncontroversial.html">noncontroversial</a>, <a href="Novatian.html">Novatian</a>, <a href="opponent.html">opponent</a>, <a href="oppose.html">oppose</a>, <a href="part.html">part</a>, <a href="patent.html">patent</a>, <a href="Philopolemic.html">Philopolemic</a>, <a href="Philopolemical.html">Philopolemical</a>, <a href="plea.html">plea</a>, <a href="pleading.html">pleading</a>, <a href="plunge.html">plunge</a>, <a href="polemic.html">polemic</a>, <a href="polemical.html">polemical</a>, <a href="polemically.html">polemically</a>, <a href="polemicise.html">polemicise</a>, <a href="polemicist.html">polemicist</a>, <a href="polemicize.html">polemicize</a>, <a href="polemics.html">polemics</a>, <a href="polemise.html">polemise</a>, <a href="polemize.html">polemize</a>, <a href="position.html">position</a>, <a href="predestinarian.html">predestinarian</a>, <a href="prolific.html">prolific</a>, <a href="pronunciation.html">pronunciation</a>, <a href="provocative.html">provocative</a>, <a href="Quartodeciman.html">Quartodeciman</a>, <a href="question.html">question</a>, <a href="quiet.html">quiet</a>, <a href="Quinquarticular.html">Quinquarticular</a>, <a href="realist.html">realist</a>, <a href="receiver.html">receiver</a>, <a href="relevant.html">relevant</a>, <a href="remote.html">remote</a>, <a href="sequester.html">sequester</a>, <a href="sequestration.html">sequestration</a>, <a href="settlement.html">settlement</a>, <a href="snarl.html">snarl</a>, <a href="sovereignty.html">sovereignty</a>, <a href="Special%20administration.html">Special administration</a>, <a href="start.html">start</a>, <a href="stomach.html">stomach</a>, <a href="straddle.html">straddle</a>, <a href="submission.html">submission</a>, <a href="submit.html">submit</a>, <a href="syncretistic.html">syncretistic</a>, <a href="synergistic.html">synergistic</a>, <a href="terminate.html">terminate</a>, <a href="Thule.html">Thule</a>, <a href="To%20carry%20one%27s%20point.html">To carry one's point</a>, <a href="To%20run%20the%20gantlet.html">To run the gantlet</a>, <a href="To%20submit%20to%20arbitration.html">To submit to arbitration</a>, <a href="To%20take%20issue.html">To take issue</a>, <a href="traverse.html">traverse</a>, <a href="trial.html">trial</a>, <a href="umpire.html">umpire</a>, <a href="uncontroversial.html">uncontroversial</a>, <a href="uncontroversially.html">uncontroversially</a>, <a href="Uncontroversory.html">Uncontroversory</a>, <a href="variance.html">variance</a>, <a href="vexatious.html">vexatious</a>, <a href="viewer.html">viewer</a>, <a href="voluntary.html">voluntary</a>, <a href="wrangle.html">wrangle</a>, <a href="%E2%80%96Res%20judicata.html">‖Res judicata</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xontroversy, dontroversy, fontroversy, vontroversy, cintroversy, ckntroversy, clntroversy, cpntroversy, cobtroversy, cohtroversy, cojtroversy, comtroversy, conrroversy, confroversy, congroversy, conyroversy, conteoversy, contdoversy, contfoversy, conttoversy, contriversy, contrkversy, contrlversy, contrpversy, controcersy, controfersy, controgersy, controbersy, controvwrsy, controvsrsy, controvdrsy, controvrrsy, controveesy, controvedsy, controvefsy, controvetsy, controveray, controverwy, controverdy, controverxy, controverzy, controveray, controverst, controversg, controversh, controversu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

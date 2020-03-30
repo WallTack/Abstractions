@@ -1,0 +1,557 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>pleasantness</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/230/56/14566.jpg" alt="GARDEN AT MOUNT PLEASANT, OPPOSITE CHARLESTON, SOUTH CAROLINA">
+							<div class="caption">GARDEN AT MOUNT PLEASANT, OPPOSITE CHARLESTON, SOUTH CAROLINA</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">pleasantness</span> <span class="exp">the quality of giving pleasure</span> <span class="quot">"he was charmed by the sweetness of her manner","the pleasantness of a cool breeze on a hot summer day"</span></li><li><span class="tSpeech">n</span> <span class="term">pleasantness</span> <span class="exp">the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Each nostril of a human being register smell in a different way. Smells that are made from the right nostril are more pleasant than the left. However, smells can be detected more accurately when made by the left nostril									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Pleasantness</span> <span class="exp">The state or quality of being pleasant.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Quito in Ecuador, South America, is said to have the most pleasant climate in the world. It is called the 'Land of Eternal Spring.' The temperature rarely drops below 46 degrees Fahrenheit during the night, or exceed 72 degrees Fahrenheit during the day.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">pleasantness</span> <span class="exp">Pleasing or agreeable character or quality; the quality of being pleasing or of affording pleasure.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasantness</span> <span class="exp">Vivacity; gaiety.</span> </li><li><span class="tSpeech">n</span> <span class="term">pleasantness</span> <span class="exp">Jocularity; pleasantry.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Voltaire</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Voltaire.jpg" alt="Voltaire">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If we do not find anything very pleasant, at least we shall find something new.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Seneca</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Seneca.jpg" alt="Seneca">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We never reflect how pleasant it is to ask for nothing.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Buxton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles Buxton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To make pleasures pleasant shorten them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Wordsworth</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Wordsworth.jpg" alt="William%20Wordsworth">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In that sweet mood when pleasant thoughts bring sad thoughts to the mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Ade</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George Ade">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Do unto yourself as your neighbors do unto themselves and look pleasant.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jerome K. Jerome</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jerome%20K.%20Jerome.jpg" alt="Jerome%20K.%20Jerome">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is so pleasant to come across people more stupid than ourselves. We love them at once for being so.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Whatever happened during the long days, they had a pleasant breakfast-hour and a pleasant evening together.
+					</div>
+					<div class="uAuthor">
+						"Janet's Love and Service" by <span>Margaret M Robertson</span>					</div>
+										<div class="usage">
+						And it is never pleasant to break a habit.
+					</div>
+					<div class="uAuthor">
+						"Chance" by <span>Joseph Conrad</span>					</div>
+										<div class="usage">
+						This was pleasant; for Winder's brigade had marched several hours since, and a wide interval existed between us.
+					</div>
+					<div class="uAuthor">
+						"Destruction and Reconstruction:" by <span>Richard Taylor</span>					</div>
+										<div class="usage">
+						There are a great many pleasanter things to learn.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old New York" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						Very pleasant ending to a pleasant day, eh, Shotover?
+					</div>
+					<div class="uAuthor">
+						"The History of Sir Richard Calmady" by <span>Lucas Malet</span>					</div>
+										<div class="usage">
+						They are often very pleasant.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old Boston" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						Convalescence was a pleasant season.
+					</div>
+					<div class="uAuthor">
+						"The King's Mirror" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						Had a pleasant night, found little wind and that not favourable; in fact they tell me we are not nearing N.Y.
+					</div>
+					<div class="uAuthor">
+						"A Journey to America in 1834" by <span>Robert Heywood</span>					</div>
+										<div class="usage">
+						Wasn't it pleasant to unload, and deposit all things in a place of safety!
+					</div>
+					<div class="uAuthor">
+						"A Confederate Girl's Diary" by <span>Sarah Margan Dawson</span>					</div>
+										<div class="usage">
+						As the sun had now come out, the party had quite a pleasant walk to the station.
+					</div>
+					<div class="uAuthor">
+						"Rollo in Scotland" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						Rollo had a very pleasant ride that night to Geneva.
+					</div>
+					<div class="uAuthor">
+						"Rollo in Geneva" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						The value belied the quantity, and the vast pile melted away so fast that I was soon relieved of my pleasant delusion.
+					</div>
+					<div class="uAuthor">
+						"Northern Travel" by <span>Bayard Taylor</span>					</div>
+										<div class="usage">
+						But she was very pleasantly disappointed when at last she went into the sitting-room, where Aunt Emma was busy with some sewing.
+					</div>
+					<div class="uAuthor">
+						"Ruby at School" by <span>Minnie E. Paull</span>					</div>
+										<div class="usage">
+						Indeed, I think pleasant writing is proportional to the size of the material you write withal.
+					</div>
+					<div class="uAuthor">
+						"The Works of Robert Louis Stevenson - Swanston Edition Vol. 23 (of 25)" by <span>Robert Louis Stevenson</span>					</div>
+										<div class="usage">
+						The fruit is small, but melting juicy, with a very pleasant flavor.
+					</div>
+					<div class="uAuthor">
+						"Soil Culture" by <span>J. H. Walden</span>					</div>
+										<div class="usage">
+						The hotel is pleasant and the new bath house with its handsome marble and tiling is very fine.
+					</div>
+					<div class="uAuthor">
+						"Across the Continent by the Lincoln Highway" by <span>Effie Price Gladding</span>					</div>
+										<div class="usage">
+						An Excellent Pleasant New Comedy.
+					</div>
+					<div class="uAuthor">
+						"A Select Collection of Old English Plays" by <span>Robert Dodsley</span>					</div>
+										<div class="usage">
+						Helen Furr had quite a pleasant home.
+					</div>
+					<div class="uAuthor">
+						"Geography and Plays" by <span>Gertrude Stein</span>					</div>
+										<div class="usage">
+						On the whole Lucy behaved well and left a pleasant impression on her aunt's mind.
+					</div>
+					<div class="uAuthor">
+						"Ayala's Angel" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						We were fortunate in having pleasant weather while we were upon this duty.
+					</div>
+					<div class="uAuthor">
+						"My First Campaign" by <span>J. W. Grant</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							No more her hand awakes the tuneful key,<br>
+Her voice no more is heard in melody,<br>
+For pleasant sleep, with ever-during rest,<br>
+Hath stilled her voice, and laid that hand abreast.
+							<div class="poet">"Elegy" by <span>George Hannibal Temple</span></div>
+						</div>
+											<div class="poemQuote">
+							How pleasant 'tis to see<br>
+Kindred and friends agree;<br>
+Each in their proper station move,<br>
+And each fulfil their part,<br>
+With sympathizing heart,<br>
+In all the cares of life and love!
+							<div class="poet">"Psalm 133" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							So opes the pleasant scene at early dawn,<br>
+When dance the sylphs upon the dew-spread lawn;<br>
+While yet the rosy Morn, with dreamy light,<br>
+Glows all resplendent in the wake of night.
+							<div class="poet">"The Dawn Is Breaking" by <span>George Hannibal Temple</span></div>
+						</div>
+											<div class="poemQuote">
+							And when he lists can often see her face,<br>
+And think, "Next month I kiss you, or next week,<br>
+And still you think of me": therefore the place<br>
+Grows very pleasant, whatsoever he seek.
+							<div class="poet">"Sir Galahad, A Christmas Mystery" by <span>William Morris</span></div>
+						</div>
+											<div class="poemQuote">
+							"How pleasant," then he said, "it were<br>
+A fisher or a hunter there,<br>
+In sunshine or in shade<br>
+To wander with an easy mind;<br>
+And build a household fire, and find<br>
+A home in every glade!
+							<div class="poet">"Ruth" by <span>William Wordsworth</span></div>
+						</div>
+											<div class="poemQuote">
+							Pleasant it was when the billows did struggle and wrestle,<br>
+Pleasant to see!<br>
+Pleasant to climb the tall cliffs where the sea birds nestle,<br>
+When near to thee!<br>
+Nought can I now behold but the track of thy vessel<br>
+Over the sea!
+							<div class="poet">"Over the Sea" by <span>Denis Florence MacCarthy</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Though that nostalgic gesture makes Churchkey the Instagram of beers in that it feels like a pleasant, somewhat precious throwback, the beer inside is pretty damn great.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mensjournal.com/food-drink/drinks/the-instagram-of-beers-20120523" target="_blank" rel="external nofollow">mensjournal.com</a>
+					</div>
+										<div class="usage">
+						Residents say Tullulah Avenue in River Ridge is a pleasant place to live, until there's a rainstorm.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wwltv.com/news/consumer/Action-Report-Old-drainage-system-giving-River-Ridge-residents-headaches-165196266.html" target="_blank" rel="external nofollow">wwltv.com</a>
+					</div>
+										<div class="usage">
+						Self-Storage Collections: Making the Dreadful Task Successful and Pleasant.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.insideselfstorage.com/blogs/speak/2012/01/selfstorage-collection-time-making-the-dreadful-task-more-successful-and-pleasant.aspx" target="_blank" rel="external nofollow">insideselfstorage.com</a>
+					</div>
+										<div class="usage">
+						As a novice to grown-up drinking (I turned 21 this June) I was pleasantly surprised by the Cleveland Wine Festival held this past weekend.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.clevescene.com/cleveland/review-the-cleveland-wine-festival/Content?oid=3025834" target="_blank" rel="external nofollow">clevescene.com</a>
+					</div>
+										<div class="usage">
+						On one recent Monday morning, Brendan Love went from pleasantly surprised to pissed off in 10 minutes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.indyweek.com/indyweek/needles-glass-remain-at-illegal-dumpsite-in-durham/Content?oid=3054632" target="_blank" rel="external nofollow">indyweek.com</a>
+					</div>
+										<div class="usage">
+						Try one of these series set in the not-so-pleasant future.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wvgazette.com/Entertainment/Books/201203230153" target="_blank" rel="external nofollow">wvgazette.com</a>
+					</div>
+										<div class="usage">
+						Since we moved into our new home in December we were pleasantly surprised at the electric bill s we had been receiving.
+					</div>
+					<div class="uAuthor">
+						<a href="http://readingeagle.com/article.aspx?id=417794" target="_blank" rel="external nofollow">readingeagle.com</a>
+					</div>
+										<div class="usage">
+						Pleasant Surprises (Parking Lot Beer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.seattleweekly.com/2003-08-13/music/various-artists-the-neptunes-present-clones-playing-enemy-ephemera-and-more/" target="_blank" rel="external nofollow">seattleweekly.com</a>
+					</div>
+										<div class="usage">
+						915 Houston Northcutt Blvd Mt Pleasant, SC Mt Pleasant 843 606-2616 eurasiasc.com.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.charlestoncitypaper.com/charleston/Location?oid=2521399" target="_blank" rel="external nofollow">charlestoncitypaper.com</a>
+					</div>
+										<div class="usage">
+						High School Football – Weaver at Pleasant Valley.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.annistonstar.com/pages/full_story/push?article-Oxford+police+say+shots+exchanged+in+attempted+robbery+of+jewelry+store%20&amp;id=19967961" target="_blank" rel="external nofollow">annistonstar.com</a>
+					</div>
+										<div class="usage">
+						Photostory by Hank Ford/Pleasant Hill Fire Dept.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.firehouse.com/photostory/10776075/iowa-crews-extricate-driver-from-soybean-hauler" target="_blank" rel="external nofollow">firehouse.com</a>
+					</div>
+										<div class="usage">
+						Pleasant Hill, IA, Google Maps.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.firehouse.com/photostory/10776075/iowa-crews-extricate-driver-from-soybean-hauler" target="_blank" rel="external nofollow">firehouse.com</a>
+					</div>
+										<div class="usage">
+						GARY AND Robin Rodgers of Shadyside announce the engagement of their daughter, Shannan Lee, to Nathan James Hildebrand , son of James and Cheryl Hildebrand of Mt Pleasant.
+					</div>
+					<div class="uAuthor">
+						<a href="https://www.timesleaderonline.com/page/content.detail/id/541332/Rodgers--Hildebrand.html?nav=5006" target="_blank" rel="external nofollow">timesleaderonline.com</a>
+					</div>
+										<div class="usage">
+						Japanese-American teamwork is expressed by Nobu Marai and Adam Lowery seen inspecting one of the new machines at the IB-Tech, Mt Pleasant location.
+					</div>
+					<div class="uAuthor">
+						<a href="http://columbiadailyherald.com/sections/opinion/columns/business-perspectives-ib-tech.html" target="_blank" rel="external nofollow">columbiadailyherald.com</a>
+					</div>
+										<div class="usage">
+						He was born in Pleasant Plains and had lived in Jonesboro for over 50 years.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thetown-crier.com/story/1325575.html" target="_blank" rel="external nofollow">thetown-crier.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Gaussian Markov random ﬁelds possess two pleasant properties that make them useful for spatial problems: they facilitate fast computation for large problems, and they are quite stable with respect to conditioning. 
+					</div>
+					<div class="uAuthor">
+						Think continuous: Markovian Gaussian models in spatial statistics
+					</div>
+										<div class="usage">
+						It is clear that we would like to transfer some of the pleasant computational properties of GMRFs, which are outlined above, to the Gaussian random ﬁeld setting. 
+					</div>
+					<div class="uAuthor">
+						Think continuous: Markovian Gaussian models in spatial statistics
+					</div>
+										<div class="usage">
+						We also wish to thanks Professor Alﬁo Ragusa and all other organizers of PRAGMATIC 2011 for the opportunity to participate and for the pleasant atmosphere they provided during the summer school. 
+					</div>
+					<div class="uAuthor">
+						The cones of Hilbert functions of squarefree modules
+					</div>
+										<div class="usage">
+						The motivation of ”anti-chromaticism” is that in general the most pleasantly sounding scales will have less semitone intervals. 
+					</div>
+					<div class="uAuthor">
+						Musical Modes, Their Associated Chords and Their Musicality
+					</div>
+										<div class="usage">
+						The convergence of the metrics hε has a pleasant consequence. 
+					</div>
+					<div class="uAuthor">
+						Complexity of random smooth functions on compact manifolds.II
+					</div>
+										<div class="usage">
+						The development of this project is an illuminating and pleasant case in point. 
+					</div>
+					<div class="uAuthor">
+						Symbolic Analysis for Boundary Problems: From Rewriting to Parametrized Gr\"obner Bases
+					</div>
+										<div class="usage">
+						The requirement of ordinariness has a number of pleasant consequences. 
+					</div>
+					<div class="uAuthor">
+						Symbolic Analysis for Boundary Problems: From Rewriting to Parametrized Gr\"obner Bases
+					</div>
+										<div class="usage">
+						For equilateral polygons the answer is simple and pleasant: the restriction of the symmetric measure to the subspace of equilateral polygons is just the natural measure on this space, namely the subspace measure on n-tuples of vectors in the round S 2 which sum to zero. 
+					</div>
+					<div class="uAuthor">
+						The Expected Total Curvature of Random Polygons
+					</div>
+										<div class="usage">
+						In addition we will get a pleasant surprise: some of the theories are easier to solve directly at the discretized level than in the continuum, and this fact allows us to study the scaling limit in considerable detail. 
+					</div>
+					<div class="uAuthor">
+						Quantization of Geometry
+					</div>
+										<div class="usage">
+						While these formulas look rather complicated it is a pleasant surprise that things simplify a lot for the higher loop correlators. 
+					</div>
+					<div class="uAuthor">
+						Quantization of Geometry
+					</div>
+										<div class="usage">
+						Part of the work was done at the Weizmann Institute during a very pleasant workshop organized by Profs. 
+					</div>
+					<div class="uAuthor">
+						Vortex statistics in a disordered two-dimensional XY model
+					</div>
+										<div class="usage">
+						We ﬁnd it particularly pleasant that, 10 years after the paper by Amit et al., we can present this development in this review. 
+					</div>
+					<div class="uAuthor">
+						Hopfield models as generalized random mean field models
+					</div>
+										<div class="usage">
+						The sum rules so obtained come as something of a pleasant surprise, especially in the multi-dimensional cases, as cycle expansions typically require evaluation of exponentially many cycles up to a given cycle length, and it is not at all obvious that the cycle weights should be related in any simple way. 
+					</div>
+					<div class="uAuthor">
+						Beyond the periodic orbit theory
+					</div>
+										<div class="usage">
+						A pleasant and perhaps ironic feature of the neighbourhood of weak coupling in all ﬁve cases is that the description is intrinsically a second–quantized theory of strings in the light–cone gauge. 
+					</div>
+					<div class="uAuthor">
+						On Second-Quantized Open Superstring Theory
+					</div>
+										<div class="usage">
+						Acknowledgments I would like to thank the organizers for their invitation and for this very pleasant and interesting conference. 
+					</div>
+					<div class="uAuthor">
+						Precision SM calculations and theoretical interests beyond the SM in K_{l2} and K_{l3} decays
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the quality of giving pleasure"><a href="sweetness.html">sweetness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="unpleasantness.html">unpleasantness</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="pleasance.html">pleasance</a>, <a href="pleasure.html">pleasure</a>, <a href="quality.html">quality</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="afterglow.html">afterglow</a>, <a href="agreeableness.html">agreeableness</a>, <a href="amenity.html">amenity</a>, <a href="disagreeableness.html">disagreeableness</a>, <a href="enjoyableness.html">enjoyableness</a>, <a href="niceness.html">niceness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="pleasant.html">pleasant</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="agreeableness.html">agreeableness</a>, <a href="amenity.html">amenity</a>, <a href="delicacy.html">delicacy</a>, <a href="Dulceness.html">Dulceness</a>, <a href="enjoyableness.html">enjoyableness</a>, <a href="fragrance.html">fragrance</a>, <a href="fragrancy.html">fragrancy</a>, <a href="Jucundity.html">Jucundity</a>, <a href="niceness.html">niceness</a>, <a href="pleasurable.html">pleasurable</a>, <a href="prettiness.html">prettiness</a>, <a href="spoil.html">spoil</a>, <a href="suavity.html">suavity</a>, <a href="toothsomeness.html">toothsomeness</a>, <a href="Unpleasantry.html">Unpleasantry</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oleasantness, lleasantness, pkeasantness, poeasantness, ppeasantness, plwasantness, plsasantness, pldasantness, plrasantness, pleqsantness, plewsantness, plessantness, plezsantness, pleaaantness, pleawantness, pleadantness, pleaxantness, pleazantness, pleaaantness, pleasqntness, pleaswntness, pleassntness, pleaszntness, pleasabtness, pleasahtness, pleasajtness, pleasamtness, pleasanrness, pleasanfness, pleasangness, pleasanyness, pleasantbess, pleasanthess, pleasantjess, pleasantmess, pleasantnwss, pleasantnsss, pleasantndss, pleasantnrss, pleasantneas, pleasantnews, pleasantneds, pleasantnexs, pleasantnezs, pleasantneas, pleasantnesa, pleasantnesw, pleasantnesd, pleasantnesx, pleasantnesz
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

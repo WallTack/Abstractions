@@ -1,0 +1,553 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>tendency</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">tendency</span> <span class="exp">a characteristic likelihood of or natural disposition toward a certain condition or character or effect</span> <span class="quot">"the alkaline inclination of the local waters","fabric with a tendency to shrink"</span></li><li><span class="tSpeech">n</span> <span class="term">tendency</span> <span class="exp">an attitude of mind especially one that favors one alternative over others</span> <span class="quot">"he had an inclination to give up too easily","a tendency to be too strict"</span></li><li><span class="tSpeech">n</span> <span class="term">tendency</span> <span class="exp">an inclination to do something</span> <span class="quot">"he felt leanings toward frivolity"</span></li><li><span class="tSpeech">n</span> <span class="term">tendency</span> <span class="exp">a general direction in which something tends to move</span> <span class="quot">"the shoreward tendency of the current","the trend of the stock market"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										People have the tendency to chew the food on the side that they most often use their hand									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Tendency</span> <span class="exp">Direction or course toward any place, object, effect, or result; drift; causal or efficient influence to bring about an effect or result.</span> <span class="wuQuot">"Writings of this kind, if conducted with candor, have a more particular tendency to the good of their country."</span><span class="wuQuot">"In every experimental science, there is a tendency toward perfection."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">tendency</span> <span class="exp">Movement, or inclination to move, in some particular direction or toward some end or purpose; bent, leaning, or inclination toward some object, effect, or result; inclining or contributing influence.</span> </li><li><span class="tSpeech">n</span> <span class="term">tendency</span> <span class="exp">Synonyms Propensity, Inclination, etc. (see bent), drift, direction, bearing.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Tendency</span> <span class="exp">direction, object, or result to which anything tends: inclination: drift</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is a tendency for things to right themselves.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I am a Marxist... of the Groucho tendency.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Jeffrey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Lord Jeffrey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The tendency to whining and complaining may be taken as the surest sign symptom of little souls and inferior intellects.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James F. Cooper</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20F.%20Cooper.jpg" alt="James%20F.%20Cooper">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The tendency of democracies is, in all things, to mediocrity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Stuart Briscoe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Stuart Briscoe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“People have a natural tendency to flee to the mountains when things get tough.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas B. Macaulay</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20B.%20Macaulay.jpg" alt="Thomas%20B.%20Macaulay">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We must judge a government by its general tendencies and not by its happy accidents.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">tendents</span>, <span class="wUets">-entis</span>, p. pr. of <span class="wUets">tendere</span>,: cf. F. <span class="wUets">tendance</span>,. See <span class="wUer">Tend</span> to move
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>tendre</i>—L. <i>tendĕre</i>; Gr. <i>teinein</i>, to stretch.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						There is also an increasing tendency of the women folk to enter the various departments of industry outside of the home.
+					</div>
+					<div class="uAuthor">
+						"Society" by <span>Henry Kalloch Rowe</span>					</div>
+										<div class="usage">
+						Excitement has a tendency to reproduce itself.
+					</div>
+					<div class="uAuthor">
+						"The Settler and the Savage" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						And the general tendency seems to be in this direction.
+					</div>
+					<div class="uAuthor">
+						"On the Firing Line in Education" by <span>Adoniram Judson Ladd</span>					</div>
+										<div class="usage">
+						But by virtue of the national tendency to compromise, these conflicting tendencies work in a fairly harmonious manner.
+					</div>
+					<div class="uAuthor">
+						"The Task of Social Hygiene" by <span>Havelock Ellis</span>					</div>
+										<div class="usage">
+						There has, it is true, always been a certain anti-Semitic tendency in Germany.
+					</div>
+					<div class="uAuthor">
+						"The Menorah Journal, Volume 1, 1915" by <span>Various</span>					</div>
+										<div class="usage">
+						Man's "innate tendency to fool" is notorious, a tendency particularly noticeable in children.
+					</div>
+					<div class="uAuthor">
+						"Human Traits and their Social Significance" by <span>Irwin Edman</span>					</div>
+										<div class="usage">
+						There is a tendency to flunkeyism at the bottom of human nature.
+					</div>
+					<div class="uAuthor">
+						"The Arena" by <span>Various</span>					</div>
+										<div class="usage">
+						The tendency is anti-social.
+					</div>
+					<div class="uAuthor">
+						"The Frontier in American History" by <span>Frederick Jackson Turner</span>					</div>
+										<div class="usage">
+						No doubt this tendency is greatly strengthened when people are able to generalize "principles" from acts.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						But this tendency is dangerous, and should be kept under restraint.
+					</div>
+					<div class="uAuthor">
+						"Elementary Guide to Literary Criticism" by <span>F. V. N. Painter</span>					</div>
+										<div class="usage">
+						The natural tendency was to distinguish the younger man from his father.
+					</div>
+					<div class="uAuthor">
+						"The Romance of Names" by <span>Ernest Weekley</span>					</div>
+										<div class="usage">
+						At present, the tendency is rather the other way.
+					</div>
+					<div class="uAuthor">
+						"A Handbook of the English Language" by <span>Robert Gordon Latham</span>					</div>
+										<div class="usage">
+						The manipulation should be against the direction of forming wrinkles, wherever there is a tendency for wrinkles to appear.
+					</div>
+					<div class="uAuthor">
+						"What a Young Woman Ought to Know" by <span>Mary Wood-Allen</span>					</div>
+										<div class="usage">
+						This tendency is exhibited by all organisms.
+					</div>
+					<div class="uAuthor">
+						"Man And His Ancestor" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						New tendencies, moreover, embodying themselves in new schools, were already beginning to appear.
+					</div>
+					<div class="uAuthor">
+						"Studies in Contemporary Biography" by <span>James Bryce, Viscount Bryce</span>					</div>
+										<div class="usage">
+						In money matters there was no tendency on Eugene's part to be dishonest.
+					</div>
+					<div class="uAuthor">
+						"The "Genius"" by <span>Theodore Dreiser</span>					</div>
+										<div class="usage">
+						The same psychological tendency is at work to-day and gives zest to the theory of evolution.
+					</div>
+					<div class="uAuthor">
+						"The Next Step in Religion" by <span>Roy Wood Sellars</span>					</div>
+										<div class="usage">
+						Soft singing is the only effective plan I know of for removing the tendency to use the thick register.
+					</div>
+					<div class="uAuthor">
+						"The Boy's Voice" by <span>J. Spencer Curwen</span>					</div>
+										<div class="usage">
+						The barest start and sally forwards, the barest tendency to leave the instant, involves the chasm and the leap.
+					</div>
+					<div class="uAuthor">
+						"Essays in Radical Empiricism" by <span>William James</span>					</div>
+										<div class="usage">
+						I have noticed that under slight fear there is a strong tendency to yawn.
+					</div>
+					<div class="uAuthor">
+						"How to Read Human Nature" by <span>William Walker Atkinson</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							No fault had he - no fad, except<br>
+A tendency to strum,<br>
+In mode at which you would have wept,<br>
+A dull harmonium.
+							<div class="poet">"First Love" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							Nay, be not jealous. Stop your fears.<br>
+My tendencies are far from sporty.<br>
+Besides, the number of my years<br>
+Is over forty.
+							<div class="poet">"Xanthias Jollied" by <span>Franklin Pierce Adams</span></div>
+						</div>
+											<div class="poemQuote">
+							And, in conclusion, I will say without dismay,<br>
+Visit the theatre without delay,<br>
+Because the theatre is a school of morality,<br>
+And hasn't the least tendency to lead to prodigality.
+							<div class="poet">"Lines in Defence of the Stage" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							When the shepherd called, you fine animal,<br>
+You came skipping, your high heart pounding.<br>
+You pranced and pawed the ground with your hooves,<br>
+Which now is your tendency to make jokes.
+							<div class="poet">"The Ram" by <span>Franz Werfel</span></div>
+						</div>
+											<div class="poemQuote">
+							Yes! hopeful—trustful—onward ever,<br>
+Each helping each—all urging all;<br>
+The mighty stream, receding never;<br>
+The rippling flow—the waterfall.<br>
+Slow—swift, but irresistibly,<br>
+Rolls the grand tide of tendency!
+							<div class="poet">"Truth in Progress" by <span>John Bowring</span></div>
+						</div>
+											<div class="poemQuote">
+							We wage no war, we lift no arm, we fling no torch within<br>
+The fire-damps of the quaking mine beneath your soil of sin;<br>
+We leave ye with your bondmen, to wrestle, while ye can,<br>
+With the strong upward tendencies and God-like soul of man!
+							<div class="poet">"Massachusetts To Virginia" by <span>John Greenleaf Whittier</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						FRANKFURT, Germany–German show organizer Messe Frankfurt is busy preparing and honing the image of its Tendence show, which takes place July 3-7.
+					</div>
+					<div class="uAuthor">
+						<a href="http://hfnmag.com/housewares/messe-frankfurt-sharpens-focus-tendence-fair" target="_blank" rel="external nofollow">hfnmag.com</a>
+					</div>
+										<div class="usage">
+						Usually a veteran team has a tendency to believe more in pitchers they have seen succeed than those they have not.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/blogs/hardball/up_garcia_colon_mitre_4PyBdOELSXgxXnpiEMNFeI" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						In making that link, they are probably thinking of both men's tendency to describe foreign policy in moral terms, as a struggle against an "evil empire" or an "axis of evil.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/articles/A23587-2004Jun7.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						A tendency to relapse into a previous condition or mode of behavior.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wkqsfm.com/featured/onair/deedee/9981/word-day-june-5-recidivism/" target="_blank" rel="external nofollow">wkqsfm.com</a>
+					</div>
+										<div class="usage">
+						Weapons are no longer sold at Tendence , but sometimes provide inspiration (here from MTM Gifts).
+					</div>
+					<div class="uAuthor">
+						<a href="http://hfnmag.com/tabletop-gifts/tendence-eight-centuries-introductions" target="_blank" rel="external nofollow">hfnmag.com</a>
+					</div>
+										<div class="usage">
+						In volatile financial times such as these, our natural tendency is to track the ups and down in the stock market.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailycamera.com/business-columnists/ci_18757515" target="_blank" rel="external nofollow">dailycamera.com</a>
+					</div>
+										<div class="usage">
+						I understand the tendency of our elite political press to front-end-load the silly at every opportunity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.esquire.com/blogs/politics/hillary-clinton-2016-presidential-run-121112" target="_blank" rel="external nofollow">esquire.com</a>
+					</div>
+										<div class="usage">
+						Gorospe's hoarding tendencies worsened this past year, neighbors said, after his mother died, followed by the deaths of two more family members.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.presstelegram.com/religion/ci_21037398/long-beach-hoarder-who-allegedly-shot-code-enforcement?source=pkg" target="_blank" rel="external nofollow">presstelegram.com</a>
+					</div>
+										<div class="usage">
+						Discussing her alleged tendency to enter into serious relationships too quickly, Taylor explains that that's the way she operates, because she doesn't " hook up.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ed.fm/abc_news/article/Taylor_Says_Her_Boyfriend_Is_a_'Grown_Man'_and_She_Doesn't_Just_'Hook_Up'/AA1A741913A311E2919EFEFDADE6840A/" target="_blank" rel="external nofollow">ed.fm</a>
+					</div>
+										<div class="usage">
+						Discussing her alleged tendency to enter into serious relationships too quickly, Taylor explains that that's the way she operates, because she doesn't " hook up .".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ed.fm/abc_news/article/Taylor_Says_Her_Boyfriend_Is_a_'Grown_Man'_and_She_Doesn't_Just_'Hook_Up'/AA1A741913A311E2919EFEFDADE6840A/" target="_blank" rel="external nofollow">ed.fm</a>
+					</div>
+										<div class="usage">
+						"I, too, exhibit ironic tendencies," Wampole writes.
+					</div>
+					<div class="uAuthor">
+						<a href="https://www.dailygazette.com/weblogs/foss/2012/dec/07/live-without-irony-why/" target="_blank" rel="external nofollow">dailygazette.com</a>
+					</div>
+										<div class="usage">
+						Well, per­haps not, but that doesn't keep the nation's retail­ers from doing their very best to try to accel­er­ate your ten­dency to enjoy the spirit of giv­ing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://delgazette.com/2012/10/retailers-move-early-to-lock-in-christmas-purchases/?wpmp_switcher=mobile" target="_blank" rel="external nofollow">delgazette.com</a>
+					</div>
+										<div class="usage">
+						An orca is really a dolphin with much darker tendencies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://q106fm.com/news/articles/2012/oct/08/serj-tankian-launches-fundraising-campaign-to-record-classical-music-project-orca/" target="_blank" rel="external nofollow">q106fm.com</a>
+					</div>
+										<div class="usage">
+						Metallica Add Suicidal Tendencies, Sepultura + More Acts to Orion Lineup.
+					</div>
+					<div class="uAuthor">
+						<a href="http://therockstation99x.com/tags/orion/" target="_blank" rel="external nofollow">therockstation99x.com</a>
+					</div>
+										<div class="usage">
+						Viewers' growing tendencies to talk about TV in social media and interact on a second screen as they watch presents big opportunities for networks and marketers -- but there are two big issues that need to be dealt with first.
+					</div>
+					<div class="uAuthor">
+						<a href="http://adage.com/article/media/biggest-hurdles-social-tv-overcome/237576/" target="_blank" rel="external nofollow">adage.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						As shown in Fig. 3, the FRG ﬂow for R′′′′ (0) is still to large values if its bare value is large enough, indicating some tendency to glassy behaviour. 
+					</div>
+					<div class="uAuthor">
+						Random field spin models beyond one loop: a mechanism for decreasing the lower critical dimension
+					</div>
+										<div class="usage">
+						Namely, in order to explain the manifestation of the experience and its tendency for re-occurrence after its ﬁrst manifestation, we conjecture the existence of the potentiality[28 ] for such a manifestation. 
+					</div>
+					<div class="uAuthor">
+						Founding quantum theory on the basis of consciousness
+					</div>
+										<div class="usage">
+						Then the series {yi} must be free of very long range tendencies (mainly consequences of observational selections) in the amplitudes, so standard techniques of autocorrelation can be applied. 
+					</div>
+					<div class="uAuthor">
+						On a Possible Indicator of Homogeneity of the Universe
+					</div>
+										<div class="usage">
+						There is thus no clear tendency for NLQSOs to appear in a special type of host galaxy. 
+					</div>
+					<div class="uAuthor">
+						On-axis spectroscopy of the host galaxies of 20 optically luminous quasars at z~0.3
+					</div>
+										<div class="usage">
+						The horizontal scale of the crosses is arbitrary and is given such that the line connecting the crosses follows the observational tendency. 
+					</div>
+					<div class="uAuthor">
+						Spitzer observations of acetylene bands in carbon-rich AGB stars in the Large Magellanic Cloud
+					</div>
+										<div class="usage">
+						We can see a slight tendency toward positive bias, also indicated by larger Chi square. 
+					</div>
+					<div class="uAuthor">
+						Quantum random number generator
+					</div>
+										<div class="usage">
+						Although the prototype model under study Eq. (1) is variational—the dynamical evolution of this model has the tendency to minimize its Lyapunov functional—the interface dynamic exhibited by this model is robust. 
+					</div>
+					<div class="uAuthor">
+						Transversal interface dynamics of a front connecting a stripe pattern to a uniform state
+					</div>
+										<div class="usage">
+						Figures 3 and 4 show both differential densities obtained from the CNOC2 data and plotted against the luminosity and redshift distances, respectively. γ and γ ∗ decrease as z increases, showing a tendency towards a power law behavior at scales of z &gt; 0.1. 
+					</div>
+					<div class="uAuthor">
+						Differential Density Statistics of Galaxy Distribution and the Luminosity Function
+					</div>
+										<div class="usage">
+						Calbet and R. Lòpez-Ruiz, “Tendency Towards Maximum Complexity in an Isolated Non-equil ibrium System .” Phys. 
+					</div>
+					<div class="uAuthor">
+						Defining Complexity: A Commentary to a paper by Charles H. Bennett
+					</div>
+										<div class="usage">
+						It is obvious that the inclusion of three–body forces would enhance the tendency of the system towards chaotic dynamics. 
+					</div>
+					<div class="uAuthor">
+						Random Matrices and Chaos in Nuclear Spectra
+					</div>
+										<div class="usage">
+						The precise measurement of Lα is even more diﬃcult, however on average Lα displays a tendency similar to Lp . 
+					</div>
+					<div class="uAuthor">
+						Angular momentum transport and proton-alpha differential streaming in the solar wind
+					</div>
+										<div class="usage">
+						Moreover, Fig.6b does not reproduce the observed tendency for the particle contribution LP to be larger than the magnetic one LM at 1 AU. 
+					</div>
+					<div class="uAuthor">
+						Angular momentum transport and proton-alpha differential streaming in the solar wind
+					</div>
+										<div class="usage">
+						Instead of attributing this discrepancy to mechanisms missing in the steady state model, Hu et al. (2003) proposed that the tendency for LP to be larger than LM is due to interplanetary dynamical processes such as the forward fast shocks traversing the solar wind. 
+					</div>
+					<div class="uAuthor">
+						Angular momentum transport and proton-alpha differential streaming in the solar wind
+					</div>
+										<div class="usage">
+						Still, there is a tendency for the residuals to increase with decreasing [Fe/H]. 
+					</div>
+					<div class="uAuthor">
+						Sulphur and zinc abundances in Galactic halo stars revisited
+					</div>
+										<div class="usage">
+						Structure optimization results in a strong tendency towards Pd-O bonding, whereas repulsion is found between Cu and Pd atoms. 
+					</div>
+					<div class="uAuthor">
+						Charge redistribution at YBa2Cu3O7-metal interfaces
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a characteristic likelihood of or natural disposition toward a certain condition or character or effect"><a href="inclination.html">inclination</a>, </div><div class="synGroup" title="a general direction in which something tends to move"><a href="trend.html">trend</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="attitude.html">attitude</a>, <a href="direction.html">direction</a>, <a href="disposition.html">disposition</a>, <a href="inclination.html">inclination</a>, <a href="mental%20attitude.html">mental attitude</a>, <a href="way.html">way</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="call.html">call</a>, <a href="bent.html">bent</a>, <a href="buoyancy.html">buoyancy</a>, <a href="denominationalism.html">denominationalism</a>, <a href="desire.html">desire</a>, <a href="devices.html">devices</a>, <a href="direction.html">direction</a>, <a href="disapproval.html">disapproval</a>, <a href="disfavor.html">disfavor</a>, <a href="disfavour.html">disfavour</a>, <a href="dislike.html">dislike</a>, <a href="drift.html">drift</a>, <a href="electronegativity.html">electronegativity</a>, <a href="favor.html">favor</a>, <a href="favoritism.html">favoritism</a>, <a href="favour.html">favour</a>, <a href="favouritism.html">favouritism</a>, <a href="heterosis.html">heterosis</a>, <a href="hybrid%20vigor.html">hybrid vigor</a>, <a href="impartiality.html">impartiality</a>, <a href="leaning.html">leaning</a>, <a href="literalism.html">literalism</a>, <a href="movement.html">movement</a>, <a href="negativity.html">negativity</a>, <a href="nonpartisanship.html">nonpartisanship</a>, <a href="partiality.html">partiality</a>, <a href="partisanship.html">partisanship</a>, <a href="perseveration.html">perseveration</a>, <a href="predisposition.html">predisposition</a>, <a href="proclivity.html">proclivity</a>, <a href="propensity.html">propensity</a>, <a href="set.html">set</a>, <a href="stainability.html">stainability</a>, <a href="sympathy.html">sympathy</a>, <a href="trend.html">trend</a>, <a href="understanding.html">understanding</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="incline.html">incline</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-ward.html">-ward</a>, <a href="-wards.html">-wards</a>, <a href="abiogenesis.html">abiogenesis</a>, <a href="absorbent.html">absorbent</a>, <a href="absorbent%20material.html">absorbent material</a>, <a href="absorptive.html">absorptive</a>, <a href="academicism.html">academicism</a>, <a href="acceptation.html">acceptation</a>, <a href="accidental.html">accidental</a>, <a href="accusative.html">accusative</a>, <a href="Acescence.html">Acescence</a>, <a href="achromatic.html">achromatic</a>, <a href="active.html">active</a>, <a href="Acturience.html">Acturience</a>, <a href="adaptation.html">adaptation</a>, <a href="adsorbent.html">adsorbent</a>, <a href="adsorbent%20material.html">adsorbent material</a>, <a href="adsorptive.html">adsorptive</a>, <a href="affection.html">affection</a>, <a href="agglomerative.html">agglomerative</a>, <a href="agitative.html">agitative</a>, <a href="alarmism.html">alarmism</a>, <a href="Alkalescence.html">Alkalescence</a>, <a href="Alkalescency.html">Alkalescency</a>, <a href="alkalotic.html">alkalotic</a>, <a href="alterative.html">alterative</a>, <a href="amalgamative.html">amalgamative</a>, <a href="Ambulative.html">Ambulative</a>, <a href="ameliorative.html">ameliorative</a>, <a href="Anaptotic.html">Anaptotic</a>, <a href="Antalkali.html">Antalkali</a>, <a href="Antalkaline.html">Antalkaline</a>, <a href="anthropomorphism.html">anthropomorphism</a>, <a href="antiseptic.html">antiseptic</a>, <a href="Antiseptical.html">Antiseptical</a>, <a href="Apheliotropism.html">Apheliotropism</a>, <a href="Apogeotropism.html">Apogeotropism</a>, <a href="appetence.html">appetence</a>, <a href="appetency.html">appetency</a>, <a href="appetite.html">appetite</a>, <a href="appropriative.html">appropriative</a>, <a href="apt.html">apt</a>, <a href="aptitude.html">aptitude</a>, <a href="aptness.html">aptness</a>, <a href="arbitrary.html">arbitrary</a>, <a href="Ardency.html">Ardency</a>, <a href="ardent.html">ardent</a>, <a href="Arrestive.html">Arrestive</a>, <a href="arteriosclerosis.html">arteriosclerosis</a>, <a href="assibilation.html">assibilation</a>, <a href="assimilative.html">assimilative</a>, <a href="Assumption.html">Assumption</a>, <a href="Assurgency.html">Assurgency</a>, <a href="astatic.html">astatic</a>, <a href="atavism.html">atavism</a>, <a href="atheistic.html">atheistic</a>, <a href="autobiographical.html">autobiographical</a>, <a href="Autotropism.html">Autotropism</a>, <a href="backhanded.html">backhanded</a>, <a href="bad.html">bad</a>, <a href="baffling.html">baffling</a>, <a href="balance.html">balance</a>, <a href="basophilia.html">basophilia</a>, <a href="battleship.html">battleship</a>, <a href="be%20given.html">be given</a>, <a href="bead%20fern.html">bead fern</a>, <a href="bellicosity.html">bellicosity</a>, <a href="belligerent.html">belligerent</a>, <a href="bent.html">bent</a>, <a href="Besetment.html">Besetment</a>, <a href="bias.html">bias</a>, <a href="bibulous.html">bibulous</a>, <a href="birth.html">birth</a>, <a href="bleeder%27s%20disease.html">bleeder's disease</a>, <a href="borderline%20schizophrenia.html">borderline schizophrenia</a>, <a href="borecole.html">borecole</a>, <a href="boredom.html">boredom</a>, <a href="brightness%20constancy.html">brightness constancy</a>, <a href="Bruta.html">Bruta</a>, <a href="Buckling.html">Buckling</a>, <a href="buoyancy.html">buoyancy</a>, <a href="Cabalism.html">Cabalism</a>, <a href="Caducity.html">Caducity</a>, <a href="caducous.html">caducous</a>, <a href="calm.html">calm</a>, <a href="cancer.html">cancer</a>, <a href="carbuncle.html">carbuncle</a>, <a href="cast.html">cast</a>, <a href="catatonia.html">catatonia</a>, <a href="catatonic%20schizophrenia.html">catatonic schizophrenia</a>, <a href="catatonic%20type%20schizophrenia.html">catatonic type schizophrenia</a>, <a href="cecutiency.html">cecutiency</a>, <a href="centralisation.html">centralisation</a>, <a href="centralism.html">centralism</a>, <a href="centrality.html">centrality</a>, <a href="Centrifugence.html">Centrifugence</a>, <a href="Centripetence.html">Centripetence</a>, <a href="Centripetency.html">Centripetency</a>, <a href="Cephalization.html">Cephalization</a>, <a href="chafe.html">chafe</a>, <a href="changeability.html">changeability</a>, <a href="changeable.html">changeable</a>, <a href="changeableness.html">changeableness</a>, <a href="changeful.html">changeful</a>, <a href="changelessness.html">changelessness</a>, <a href="Chemical%20affinity.html">Chemical affinity</a>, <a href="Cicatrizant.html">Cicatrizant</a>, <a href="Circuity.html">Circuity</a>, <a href="clannishness.html">clannishness</a>, <a href="Clinamen.html">Clinamen</a>, <a href="cliquishness.html">cliquishness</a>, <a href="cliquism.html">cliquism</a>, <a href="closure.html">closure</a>, <a href="coalescency.html">coalescency</a>, <a href="Cohesibility.html">Cohesibility</a>, <a href="cohesive.html">cohesive</a>, <a href="cohesiveness.html">cohesiveness</a>, <a href="Cold%20abscess.html">Cold abscess</a>, <a href="collocate.html">collocate</a>, <a href="color%20constancy.html">color constancy</a>, <a href="coloring.html">coloring</a>, <a href="colour%20constancy.html">colour constancy</a>, <a href="comparison.html">comparison</a>, <a href="complaisance.html">complaisance</a>, <a href="complexion.html">complexion</a>, <a href="compliance.html">compliance</a>, <a href="compliancy.html">compliancy</a>, <a href="Compressive.html">Compressive</a>, <a href="Conatus.html">Conatus</a>, <a href="concentration.html">concentration</a>, <a href="condemn.html">condemn</a>, <a href="Condensative.html">Condensative</a>, <a href="Confessionalism.html">Confessionalism</a>, <a href="conflict.html">conflict</a>, <a href="conflicting.html">conflicting</a>, <a href="Confluxibility.html">Confluxibility</a>, <a href="Confusive.html">Confusive</a>, <a href="conservatism.html">conservatism</a>, <a href="Conservative.html">Conservative</a>, <a href="conspiracy.html">conspiracy</a>, <a href="Conspiration.html">Conspiration</a>, <a href="constancy.html">constancy</a>, <a href="constructiveness.html">constructiveness</a>, <a href="Consumptiveness.html">Consumptiveness</a>, <a href="content.html">content</a>, <a href="contiguity.html">contiguity</a>, <a href="continuation.html">continuation</a>, <a href="conventionalism.html">conventionalism</a>, <a href="convergence.html">convergence</a>, <a href="convergency.html">convergency</a>, <a href="convince.html">convince</a>, <a href="coprolalia.html">coprolalia</a>, <a href="corrosive.html">corrosive</a>, <a href="course.html">course</a>, <a href="coxcomb.html">coxcomb</a>, <a href="credulity.html">credulity</a>, <a href="credulousness.html">credulousness</a>, <a href="critical.html">critical</a>, <a href="curative.html">curative</a>, <a href="curb.html">curb</a>, <a href="curliness.html">curliness</a>, <a href="current.html">current</a>, <a href="curvature.html">curvature</a>, <a href="Cyanic%20colors.html">Cyanic colors</a>, <a href="cyanogen.html">cyanogen</a>, <a href="Cynicalness.html">Cynicalness</a>, <a href="Dactylis.html">Dactylis</a>, <a href="Damningness.html">Damningness</a>, <a href="dangerous.html">dangerous</a>, <a href="Darwinism.html">Darwinism</a>, <a href="debilitative.html">debilitative</a>, <a href="decay.html">decay</a>, <a href="deceitfulness.html">deceitfulness</a>, <a href="deceptiveness.html">deceptiveness</a>, <a href="Decisory.html">Decisory</a>, <a href="declension.html">declension</a>, <a href="decline.html">decline</a>, <a href="deeply.html">deeply</a>, <a href="deference.html">deference</a>, <a href="degeneracy.html">degeneracy</a>, <a href="degeneration.html">degeneration</a>, <a href="Degenerationist.html">Degenerationist</a>, <a href="delinquency.html">delinquency</a>, <a href="Deliquescence.html">Deliquescence</a>, <a href="demean.html">demean</a>, <a href="Democratical.html">Democratical</a>, <a href="denominationalism.html">denominationalism</a>, <a href="depravation.html">depravation</a>, <a href="depravity.html">depravity</a>, <a href="Derecho.html">Derecho</a>, <a href="dereliction.html">dereliction</a>, <a href="derivative.html">derivative</a>, <a href="desire.html">desire</a>, <a href="despotism.html">despotism</a>, <a href="destiny.html">destiny</a>, <a href="destructive.html">destructive</a>, <a href="destructiveness.html">destructiveness</a>, <a href="determination.html">determination</a>, <a href="determine.html">determine</a>, <a href="deterrent.html">deterrent</a>, <a href="diabetes.html">diabetes</a>, <a href="Diageotropism.html">Diageotropism</a>, <a href="Diaheliotropism.html">Diaheliotropism</a>, <a href="diathesis.html">diathesis</a>, <a href="didacticism.html">didacticism</a>, <a href="differentiation.html">differentiation</a>, <a href="Diffusibility.html">Diffusibility</a>, <a href="Diffusivity.html">Diffusivity</a>, <a href="direction.html">direction</a>, <a href="directive.html">directive</a>, <a href="Discerpibility.html">Discerpibility</a>, <a href="dispersion.html">dispersion</a>, <a href="dispose.html">dispose</a>, <a href="disposed.html">disposed</a>, <a href="disposition.html">disposition</a>, <a href="Dispositive.html">Dispositive</a>, <a href="dissociable.html">dissociable</a>, <a href="divergence.html">divergence</a>, <a href="divergency.html">divergency</a>, <a href="diversion.html">diversion</a>, <a href="dizzy.html">dizzy</a>, <a href="dog.html">dog</a>, <a href="Down.html">Down</a>, <a href="drift.html">drift</a>, <a href="driving.html">driving</a>, <a href="drop.html">drop</a>, <a href="dusk.html">dusk</a>, <a href="Duskily.html">Duskily</a>, <a href="eagerness.html">eagerness</a>, <a href="Ear-minded.html">Ear-minded</a>, <a href="Ectrotic.html">Ectrotic</a>, <a href="Edulcorant.html">Edulcorant</a>, <a href="elastic.html">elastic</a>, <a href="elasticity.html">elasticity</a>, <a href="elective.html">elective</a>, <a href="Elective%20affinity.html">Elective affinity</a>, <a href="Elective%20attraction.html">Elective attraction</a>, <a href="Electro-negative.html">Electro-negative</a>, <a href="electrochemical%20series.html">electrochemical series</a>, <a href="electromotive%20force%20series.html">electromotive force series</a>, <a href="electromotive%20series.html">electromotive series</a>, <a href="electronegative.html">electronegative</a>, <a href="electronegativity.html">electronegativity</a>, <a href="electrum.html">electrum</a>, <a href="elusive.html">elusive</a>, <a href="elusiveness.html">elusiveness</a>, <a href="Emissivity.html">Emissivity</a>, <a href="emotionalism.html">emotionalism</a>, <a href="en.html">en</a>, <a href="end.html">end</a>, <a href="endearing.html">endearing</a>, <a href="energy.html">energy</a>, <a href="Enervative.html">Enervative</a>, <a href="enterprising.html">enterprising</a>, <a href="enthusiasm.html">enthusiasm</a>, <a href="epithelium.html">epithelium</a>, <a href="errancy.html">errancy</a>, <a href="ethicism.html">ethicism</a>, <a href="exclusiveness.html">exclusiveness</a>, <a href="Exertive.html">Exertive</a>, <a href="exogamy.html">exogamy</a>, <a href="expansive.html">expansive</a>, <a href="expansiveness.html">expansiveness</a>, <a href="expansivity.html">expansivity</a>, <a href="extremeness.html">extremeness</a>, <a href="Exulcerative.html">Exulcerative</a>, <a href="Exulceratory.html">Exulceratory</a>, <a href="Eye-minded.html">Eye-minded</a>, <a href="factor%20XI.html">factor XI</a>, <a href="falsehood.html">falsehood</a>, <a href="Familism.html">Familism</a>, <a href="Fast-day.html">Fast-day</a>, <a href="fatality.html">fatality</a>, <a href="fatigability.html">fatigability</a>, <a href="fault.html">fault</a>, <a href="felt.html">felt</a>, <a href="feverish.html">feverish</a>, <a href="feverous.html">feverous</a>, <a href="filler.html">filler</a>, <a href="fissiparity.html">fissiparity</a>, <a href="flesh.html">flesh</a>, <a href="floppy.html">floppy</a>, <a href="Flowingness.html">Flowingness</a>, <a href="fluid.html">fluid</a>, <a href="For.html">For</a>, <a href="force.html">force</a>, <a href="forgetfulness.html">forgetfulness</a>, <a href="forgivingness.html">forgivingness</a>, <a href="fossilize.html">fossilize</a>, <a href="fugacity.html">fugacity</a>, <a href="Fumosity.html">Fumosity</a>, <a href="function.html">function</a>, <a href="Fungi.html">Fungi</a>, <a href="Galvanotropism.html">Galvanotropism</a>, <a href="gas.html">gas</a>, <a href="gaseous%20state.html">gaseous state</a>, <a href="genius.html">genius</a>, <a href="genus.html">genus</a>, <a href="Geomalism.html">Geomalism</a>, <a href="geotropism.html">geotropism</a>, <a href="Gnosticism.html">Gnosticism</a>, <a href="good%20continuation.html">good continuation</a>, <a href="gravitate.html">gravitate</a>, <a href="gravitation.html">gravitation</a>, <a href="gravity.html">gravity</a>, <a href="Greek.html">Greek</a>, <a href="gripe.html">gripe</a>, <a href="groovy.html">groovy</a>, <a href="grovel.html">grovel</a>, <a href="gullibility.html">gullibility</a>, <a href="gyroscope.html">gyroscope</a>, <a href="habit.html">habit</a>, <a href="Habit%20of%20body.html">Habit of body</a>, <a href="habitude.html">habitude</a>, <a href="haemophilia.html">haemophilia</a>, <a href="hang.html">hang</a>, <a href="hardihood.html">hardihood</a>, <a href="Healthward.html">Healthward</a>, <a href="heart.html">heart</a>, <a href="Hebraism.html">Hebraism</a>, <a href="Hebraize.html">Hebraize</a>, <a href="hedonism.html">hedonism</a>, <a href="Hegelianism.html">Hegelianism</a>, <a href="heliotropism.html">heliotropism</a>, <a href="Heliotropy.html">Heliotropy</a>, <a href="Hellenise.html">Hellenise</a>, <a href="Hellenism.html">Hellenism</a>, <a href="Hellenize.html">Hellenize</a>, <a href="helm.html">helm</a>, <a href="hemophile.html">hemophile</a>, <a href="hemophilia.html">hemophilia</a>, <a href="hemophilic.html">hemophilic</a>, <a href="hereditary.html">hereditary</a>, <a href="heredity.html">heredity</a>, <a href="herpes.html">herpes</a>, <a href="heterosis.html">heterosis</a>, <a href="Hill.html">Hill</a>, <a href="Holothurioidea.html">Holothurioidea</a>, <a href="homicidal.html">homicidal</a>, <a href="homing.html">homing</a>, <a href="hostile.html">hostile</a>, <a href="hybrid.html">hybrid</a>, <a href="hybrid%20vigor.html">hybrid vigor</a>, <a href="Hydrotropism.html">Hydrotropism</a>, <a href="idealism.html">idealism</a>, <a href="Imitancy.html">Imitancy</a>, <a href="impetus.html">impetus</a>, <a href="import.html">import</a>, <a href="In.html">In</a>, <a href="incentive.html">incentive</a>, <a href="inclination.html">inclination</a>, <a href="incline.html">incline</a>, <a href="inclined.html">inclined</a>, <a href="inertia.html">inertia</a>, <a href="influence.html">influence</a>, <a href="Influxive.html">Influxive</a>, <a href="Inhabitativeness.html">Inhabitativeness</a>, <a href="inherit.html">inherit</a>, <a href="inimical.html">inimical</a>, <a href="intent.html">intent</a>, <a href="intuitive.html">intuitive</a>, <a href="invasive.html">invasive</a>, <a href="kindness.html">kindness</a>, <a href="Laborsome.html">Laborsome</a>, <a href="latent%20schizophrenia.html">latent schizophrenia</a>, <a href="Lateral%20strength.html">Lateral strength</a>, <a href="law%20of%20closure.html">law of closure</a>, <a href="law%20of%20continuation.html">law of continuation</a>, <a href="laxative.html">laxative</a>, <a href="lead.html">lead</a>, <a href="lean.html">lean</a>, <a href="leaning.html">leaning</a>, <a href="legalism.html">legalism</a>, <a href="liberal.html">liberal</a>, <a href="liquid.html">liquid</a>, <a href="liquid%20state.html">liquid state</a>, <a href="liquidity.html">liquidity</a>, <a href="liquidness.html">liquidness</a>, <a href="literalism.html">literalism</a>, <a href="malaria.html">malaria</a>, <a href="malignance.html">malignance</a>, <a href="malignancy.html">malignancy</a>, <a href="materialism.html">materialism</a>, <a href="melancholy.html">melancholy</a>, <a href="meliorism.html">meliorism</a>, <a href="mendacity.html">mendacity</a>, <a href="Misincline.html">Misincline</a>, <a href="moment.html">moment</a>, <a href="moment%20of%20inertia.html">moment of inertia</a>, <a href="motion.html">motion</a>, <a href="movement.html">movement</a>, <a href="murderous.html">murderous</a>, <a href="mysticism.html">mysticism</a>, <a href="Mythogenesis.html">Mythogenesis</a>, <a href="nausea.html">nausea</a>, <a href="Nayward.html">Nayward</a>, <a href="negativeness.html">negativeness</a>, <a href="negativism.html">negativism</a>, <a href="negativity.html">negativity</a>, <a href="Nitency.html">Nitency</a>, <a href="nocent.html">nocent</a>, <a href="nonresonant.html">nonresonant</a>, <a href="Northing.html">Northing</a>, <a href="Northness.html">Northness</a>, <a href="obligingness.html">obligingness</a>, <a href="Omphalism.html">Omphalism</a>, <a href="Onoclea%20sensibilis.html">Onoclea sensibilis</a>, <a href="optimism.html">optimism</a>, <a href="orientation.html">orientation</a>, <a href="Oscillative.html">Oscillative</a>, <a href="Osmose.html">Osmose</a>, <a href="osmosis.html">osmosis</a>, <a href="parallel.html">parallel</a>, <a href="paranoia.html">paranoia</a>, <a href="passiveness.html">passiveness</a>, <a href="passivity.html">passivity</a>, <a href="perceptual%20constancy.html">perceptual constancy</a>, <a href="periodicity.html">periodicity</a>, <a href="Perplexiveness.html">Perplexiveness</a>, <a href="perseveration.html">perseveration</a>, <a href="personal%20equation.html">personal equation</a>, <a href="Phosphatic%20diathesis.html">Phosphatic diathesis</a>, <a href="Phototaxis.html">Phototaxis</a>, <a href="Phototaxy.html">Phototaxy</a>, <a href="phototropism.html">phototropism</a>, <a href="Physicism.html">Physicism</a>, <a href="plasma%20thromboplastin%20antecedent.html">plasma thromboplastin antecedent</a>, <a href="Post-impressionism.html">Post-impressionism</a>, <a href="predispose.html">predispose</a>, <a href="predisposition.html">predisposition</a>, <a href="Proclive.html">Proclive</a>, <a href="proclivity.html">proclivity</a>, <a href="prone.html">prone</a>, <a href="Propenseness.html">Propenseness</a>, <a href="Propension.html">Propension</a>, <a href="propensity.html">propensity</a>, <a href="purport.html">purport</a>, <a href="reaction.html">reaction</a>, <a href="realism.html">realism</a>, <a href="Rectipetality.html">Rectipetality</a>, <a href="regression.html">regression</a>, <a href="restrictive.html">restrictive</a>, <a href="restrictiveness.html">restrictiveness</a>, <a href="reverberant.html">reverberant</a>, <a href="Rhotacism.html">Rhotacism</a>, <a href="rifle.html">rifle</a>, <a href="Rubescence.html">Rubescence</a>, <a href="run.html">run</a>, <a href="Savingness.html">Savingness</a>, <a href="scandent.html">scandent</a>, <a href="schism.html">schism</a>, <a href="scrofula.html">scrofula</a>, <a href="secretiveness.html">secretiveness</a>, <a href="self-love.html">self-love</a>, <a href="Self-opinion.html">Self-opinion</a>, <a href="self-preservation.html">self-preservation</a>, <a href="sensitive%20fern.html">sensitive fern</a>, <a href="Septicity.html">Septicity</a>, <a href="set.html">set</a>, <a href="shape%20constancy.html">shape constancy</a>, <a href="sick.html">sick</a>, <a href="Sinistrously.html">Sinistrously</a>, <a href="size%20constancy.html">size constancy</a>, <a href="skin%20effect.html">skin effect</a>, <a href="Skin%20friction.html">Skin friction</a>, <a href="Skin%20resistance.html">Skin resistance</a>, <a href="snap.html">snap</a>, <a href="sociability.html">sociability</a>, <a href="sociableness.html">sociableness</a>, <a href="sociality.html">sociality</a>, <a href="solid.html">solid</a>, <a href="solid%20state.html">solid state</a>, <a href="solidness.html">solidness</a>, <a href="solubility.html">solubility</a>, <a href="sorbent.html">sorbent</a>, <a href="sorbent%20material.html">sorbent material</a>, <a href="Southing.html">Southing</a>, <a href="Southness.html">Southness</a>, <a href="spasticity.html">spasticity</a>, <a href="spirit.html">spirit</a>, <a href="spiritualize.html">spiritualize</a>, <a href="spontaneity.html">spontaneity</a>, <a href="spontaneous.html">spontaneous</a>, <a href="straightness.html">straightness</a>, <a href="strain.html">strain</a>, <a href="stream.html">stream</a>, <a href="subversive.html">subversive</a>, <a href="Suicidism.html">Suicidism</a>, <a href="surface-assimilative.html">surface-assimilative</a>, <a href="swing.html">swing</a>, <a href="Sympatheticism.html">Sympatheticism</a>, <a href="sympathy.html">sympathy</a>, <a href="syncretic.html">syncretic</a>, <a href="syncretical.html">syncretical</a>, <a href="syncretistic.html">syncretistic</a>, <a href="syncretistical.html">syncretistical</a>, <a href="tend.html">tend</a>, <a href="Tendence.html">Tendence</a>, <a href="tendencious.html">tendencious</a>, <a href="tendentious.html">tendentious</a>, <a href="tenderness.html">tenderness</a>, <a href="tenor.html">tenor</a>, <a href="Thomsonian.html">Thomsonian</a>, <a href="tide.html">tide</a>, <a href="To.html">To</a>, <a href="torque.html">torque</a>, <a href="Torsibillty.html">Torsibillty</a>, <a href="Toward.html">Toward</a>, <a href="Towards.html">Towards</a>, <a href="Tractarianism.html">Tractarianism</a>, <a href="Transformative.html">Transformative</a>, <a href="trend.html">trend</a>, <a href="turn.html">turn</a>, <a href="twist.html">twist</a>, <a href="unchangeability.html">unchangeability</a>, <a href="unchangeableness.html">unchangeableness</a>, <a href="unchangingness.html">unchangingness</a>, <a href="undercurrent.html">undercurrent</a>, <a href="unexpansive.html">unexpansive</a>, <a href="universal.html">universal</a>, <a href="unpermissiveness.html">unpermissiveness</a>, <a href="unreverberant.html">unreverberant</a>, <a href="utilitarianism.html">utilitarianism</a>, <a href="variability.html">variability</a>, <a href="vein.html">vein</a>, <a href="Vergency.html">Vergency</a>, <a href="waviness.html">waviness</a>, <a href="way.html">way</a>, <a href="Weather%20helm.html">Weather helm</a>, <a href="Weather-helm.html">Weather-helm</a>, <a href="weight.html">weight</a>, <a href="willful%20neglect.html">willful neglect</a>, <a href="wind.html">wind</a>, <a href="windiness.html">windiness</a>, <a href="wrestle.html">wrestle</a>, <a href="wrinkly.html">wrinkly</a>, <a href="Xeronic.html">Xeronic</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					rendency, fendency, gendency, yendency, twndency, tsndency, tdndency, trndency, tebdency, tehdency, tejdency, temdency, tensency, teneency, tenfency, tencency, tenxency, tensency, tendwncy, tendsncy, tenddncy, tendrncy, tendebcy, tendehcy, tendejcy, tendemcy, tendenxy, tendendy, tendenfy, tendenvy, tendenct, tendencg, tendench, tendencu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

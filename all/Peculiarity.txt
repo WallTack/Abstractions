@@ -1,0 +1,553 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>peculiarity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/106/26/6762.jpg" alt="What a peculiar doctor">
+							<div class="caption">What a peculiar doctor</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">peculiarity</span> <span class="exp">something unusual -- perhaps worthy of collecting</span> </li><li><span class="tSpeech">n</span> <span class="term">peculiarity</span> <span class="exp">a distinguishing trait</span> </li><li><span class="tSpeech">n</span> <span class="term">peculiarity</span> <span class="exp">an odd or unusual characteristic</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										A jynx is a woodpecker, also know as the wryneck because of its peculiar habit of twisting its neck.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Peculiarity</span> <span class="exp">Exclusive possession or right.</span> </li><li><span class="term">Peculiarity</span> <span class="exp">That which is peculiar; a special and distinctive characteristic or habit; particularity.</span> <span class="wuQuot">"The smallest peculiarity of temper or manner."</span></li><li><span class="term">Peculiarity</span> <span class="exp">The quality or state of being peculiar; individuality; singularity.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">peculiarity</span> <span class="exp">Private ownership; proprietorship; prerogative.</span> </li><li><span class="tSpeech">n</span> <span class="term">peculiarity</span> <span class="exp">That which is peculiar to or characteristic of a person or thing; a special characteristic or belonging.</span> </li><li><span class="tSpeech">n</span> <span class="term">peculiarity</span> <span class="exp">The quality of being peculiar; individuality.</span> </li><li><span class="tSpeech">n</span> <span class="term">peculiarity</span> <span class="exp">Synonyms Characteristic, idiosyncrasy, singularity.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Peculiarity</span> <span class="exp">quality of being peculiar or singular: that which is found in one and in no other: that which marks a person off from others: individuality</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Abraham Lincoln</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Abraham%20Lincoln.jpg" alt="Abraham%20Lincoln">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every man is said to have his peculiar ambition.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jack Kerouac</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jack Kerouac">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is not my fault that certain so-called bohemian elements have found in my writings something to hang their peculiar beatnik theories on.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Grace Paley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Grace Paley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“All that is really necessary for survival of the fittest, it seems, is an interest in life, good, bad or peculiar.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ambrose Bierce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ambrose%20Bierce.jpg" alt="Ambrose%20Bierce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Fidelity. A virtue peculiar to those who are about to be betrayed.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marcus T. Cicero</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marcus%20T.%20Cicero.jpg" alt="Marcus%20T.%20Cicero">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is the peculiar quality of a fool to perceive the faults of others and to forget his own.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Updike</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Updike.jpg" alt="John%20Updike">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Government is either organized benevolence or organized madness; its peculiar magnitude permits no shading.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>peculiaris</i>—<i>peculium</i>, private property.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						These varied in the different parts of the world, according to the peculiarities in the conditions of the masters.
+					</div>
+					<div class="uAuthor">
+						"Domesticated Animals" by <span>Nathaniel Southgate Shaler</span>					</div>
+										<div class="usage">
+						Each, then, of these styles has its peculiar significance, each is perfect in its way.
+					</div>
+					<div class="uAuthor">
+						"On the Old Road Vol. 1 (of 2)" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						Peculiar Feature in the Meeting at Madisonville.
+					</div>
+					<div class="uAuthor">
+						"Autobiography of Frank G. Allen, Minister of the Gospel" by <span>Frank G. Allen</span>					</div>
+										<div class="usage">
+						At the same time it is, if we may judge by extracts in the papers, marked by the admirable peculiarities of her writing.
+					</div>
+					<div class="uAuthor">
+						"The International Magazine, Volume 2, No. 3, February, 1851" by <span>Various</span>					</div>
+										<div class="usage">
+						He had a certain tolerance for the peculiarities of others, and he accepted Mackintosh as a queer fish.
+					</div>
+					<div class="uAuthor">
+						"The Trembling of a Leaf" by <span>William Somerset Maugham</span>					</div>
+										<div class="usage">
+						By the peculiar properties which result from them.
+					</div>
+					<div class="uAuthor">
+						"Conversations on Chemistry, V. 1-2" by <span>Jane Marcet</span>					</div>
+										<div class="usage">
+						In journeying inland we are struck with many peculiarities showing how entirely opposite to our own methods are many of theirs.
+					</div>
+					<div class="uAuthor">
+						"Foot-prints of Travel" by <span>Maturin M. Ballou</span>					</div>
+										<div class="usage">
+						Now, this bird has a peculiar voice.
+					</div>
+					<div class="uAuthor">
+						"A Bird-Lover in the West" by <span>Olive Thorne Miller</span>					</div>
+										<div class="usage">
+						I spent it to some profit in examining the peculiar craft in which I had embarked.
+					</div>
+					<div class="uAuthor">
+						"The Quadroon" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						No doubt each suite of rooms had its peculiar keeper.
+					</div>
+					<div class="uAuthor">
+						"Museum of Antiquity" by <span>L. W. Yaggy</span>					</div>
+										<div class="usage">
+						It was a peculiarly happy one.
+					</div>
+					<div class="uAuthor">
+						"A Popular History of Astronomy During the Nineteenth Century" by <span>Agnes M. (Agnes Mary) Clerke</span>					</div>
+										<div class="usage">
+						But your excellency is aware that nature has gifted us with noses peculiarly open to unusual impressions.
+					</div>
+					<div class="uAuthor">
+						"The Land of Thor" by <span>J. Ross Browne</span>					</div>
+										<div class="usage">
+						Sometimes the larger plasmodia pass into the resting phase by undergoing a very peculiar change of structure.
+					</div>
+					<div class="uAuthor">
+						"The North American Slime-Moulds" by <span>Thomas H. (Thomas Huston) MacBride</span>					</div>
+										<div class="usage">
+						Everybody allows that the talent of writing agreeable letters is peculiarly female.
+					</div>
+					<div class="uAuthor">
+						"The Complete Project Gutenberg Works of Jane Austen" by <span>Jane Austen</span>					</div>
+										<div class="usage">
+						This is one of the peculiarities of our American life which require a peculiar training.
+					</div>
+					<div class="uAuthor">
+						"Household Papers and Stories" by <span>Harriet Beecher Stowe</span>					</div>
+										<div class="usage">
+						But we shall recur again to the peculiarity of distribution within the tropics.
+					</div>
+					<div class="uAuthor">
+						"The Philosophy of the Weather" by <span>Thomas Belden Butler</span>					</div>
+										<div class="usage">
+						The word prerogative is of a peculiar import, and scarcely understood by those who come from the studies of political philosophy.
+					</div>
+					<div class="uAuthor">
+						"View of the State of Europe during the Middle Ages, Vol. 3 (of 3)" by <span>Henry Hallam</span>					</div>
+										<div class="usage">
+						The relation of the United States with the Hawaiians is in a somewhat peculiar state at the present writing.
+					</div>
+					<div class="uAuthor">
+						"Under the Southern Cross" by <span>Maturin M. Ballou</span>					</div>
+										<div class="usage">
+						Another peculiar feature of this insect is the scanty distribution of scales on the wings.
+					</div>
+					<div class="uAuthor">
+						"Butterflies and Moths" by <span>William S. Furneaux</span>					</div>
+										<div class="usage">
+						The legs are of peculiar delicacy and fineness, yet possess great strength.
+					</div>
+					<div class="uAuthor">
+						"Domestic Animals" by <span>Richard L. Allen</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							I've said enough — I'll let him go!<br>
+If he could read these verses,<br>
+He'd pepper me for hours, I know,<br>
+With his peculiar curses.
+							<div class="poet">"Billy Vickers" by <span>Henry Kendall</span></div>
+						</div>
+											<div class="poemQuote">
+							Where Art may blossom strong and free,<br>
+And Pleasure furl her silken wing,<br>
+And every laden moment be<br>
+A precious and peculiar thing?
+							<div class="poet">"A Home" by <span>Susan Coolidge</span></div>
+						</div>
+											<div class="poemQuote">
+							We are a garden walled around,<br>
+Chosen and made peculiar ground;<br>
+A little spot enclosed by grace<br>
+Out of the world's wide wilderness.
+							<div class="poet">"Hymn 74" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							SECOND PRIEST.<br>
+Every moment, as it flows, Some peculiar pleasure owes;<br>
+Then let us, providently wise,<br>
+Seize the debtor as it flies.
+							<div class="poet">"The Captivity" by <span>Oliver Goldsmith</span></div>
+						</div>
+											<div class="poemQuote">
+							He shakes the heav'ns with loud alarms;<br>
+How terrible is God in arms!<br>
+In Isr'el are his mercies known,<br>
+Isr'el is his peculiar throne.
+							<div class="poet">"Psalm 68  part 1" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Friendship! peculiar boon of Heaven,<br>
+The noble mind's delight and pride,<br>
+To men and angels only given,<br>
+To all the lower world denied.
+							<div class="poet">"Friendship" by <span>Samuel Johnson</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Wes Anderson draws viewers into young couple's charming, peculiar ' Moonrise Kingdom'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiatribune.com/news/2012/jul/05/over-the-moon/" target="_blank" rel="external nofollow">columbiatribune.com</a>
+					</div>
+										<div class="usage">
+						Peculiar perfumes, lip tattoos and more odd style trends.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/43045486/ns/today-style/" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						Peculiar perfumes and sticky solutions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/43045486/ns/today-style/" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						Serious paintballers rank their favorite splatter spots according to their own peculiar rating systems.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.phoenixnewtimes.com/bestof/2004/award/best-paintball-park-26483/" target="_blank" rel="external nofollow">phoenixnewtimes.com</a>
+					</div>
+										<div class="usage">
+						The Clever One A peculiar bird with a special talent.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/frontlineworld/rough/2009/08/west_papua_the.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Raymore- Peculiar 51, Joplin 21, final - 1 Hours Ago.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.joplinglobe.com/breakingnews/x688455103/Raymore-Peculiar-51-Joplin-21-final" target="_blank" rel="external nofollow">joplinglobe.com</a>
+					</div>
+										<div class="usage">
+						Raymore- Peculiar senior speechless after winning Evelyn Gates Award.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/11/08/3907937/raymore-peculiar-senior-cheyanne.html" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						Raymore- Peculiar senior Cheyanne Lyons wins Evelyn Gates Award.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/11/08/3907937/raymore-peculiar-senior-cheyanne.html" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						Raymore- Peculiar High School volleyball player Cheyanne Lyons won the 2012 Evelyn Gates Award on Thursday as the best player in the metro area.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/11/08/3907937/raymore-peculiar-senior-cheyanne.html" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						Editor's choice: Miss Peregrine's Home for Peculiar Children.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Books/Book-Reviews/2011/0617/Editor-s-choice-Miss-Peregrine-s-Home-for-Peculiar-Children" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Kepler's Ongoing Exoplanet Findings Show Bizarre Solar Systems And Peculiar Planets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.popsci.com/science/article/2011-03/keplers-ongoing-exoplanet-findings-show-bizarre-solar-systems-and-peculiar-planets" target="_blank" rel="external nofollow">popsci.com</a>
+					</div>
+										<div class="usage">
+						Uncovering Tech's Most Peculiar Product Codenames.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pcworld.com/article/245916/uncovering_techs_most_peculiar_product_codenames.html" target="_blank" rel="external nofollow">pcworld.com</a>
+					</div>
+										<div class="usage">
+						'Miss Peregrine's Home for Peculiar Children': Enter at your own risk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metro.us/philadelphia/entertainment/article/914756--miss-peregrine-s-home-for-peculiar-children-enter-at-your-own-risk" target="_blank" rel="external nofollow">metro.us</a>
+					</div>
+										<div class="usage">
+						 Peculiar also might describe how it looks that a significant portion of the population surveyed by the Public Religion Research Institute simultaneously identify with both the terms "pro-choice" and "pro-life" to describe themselves.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.the-tidings.com/index.php/news/newsnational/1394-the-peculiar-profile-of-millennials-on-abortion" target="_blank" rel="external nofollow">the-tidings.com</a>
+					</div>
+										<div class="usage">
+						Comic-Con: Yen Press to Publish Comics Adaptation of 'Miss Peregrine's Home for Peculiar Children'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/53013-comic-con-yen-press-to-publish-comics-adaptation-of-miss-peregrine--s-home-for-peculiar-children-.html" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The bicrossproduct basis is peculiar as κ-Poincar´e acts covariantly on a space that is necessarily deformed and noncommutative. 
+					</div>
+					<div class="uAuthor">
+						Generalized Weyl systems and kappa-Minkowski space
+					</div>
+										<div class="usage">
+						This situation reproduces precisely what happens with the perturbations of the Einstein equations in an AdS background: the perturbed gravitons are shown to have a mass with exactly this peculiar value. 
+					</div>
+					<div class="uAuthor">
+						The mass of the graviton and the cosmological constant
+					</div>
+										<div class="usage">
+						HgMn stars are chemically peculiar stars for which periodic variability has not been found as of yet. 
+					</div>
+					<div class="uAuthor">
+						Searching for Line Profile Variability in HgMn Stars
+					</div>
+										<div class="usage">
+						SmallWorld behavior was found to be non-logarithmic but power-law in this model, we discuss the reason for this peculiar scaling. 
+					</div>
+					<div class="uAuthor">
+						Small-Worlds, Mazes and Random Walks
+					</div>
+										<div class="usage">
+						This peculiar result is due to the already mentioned frequency dependence of the ”optical potential”. 
+					</div>
+					<div class="uAuthor">
+						Coherent Random Lasing and "Almost Localized" Photon Modes
+					</div>
+										<div class="usage">
+						The previous section demonstrates some peculiar features of varieties of inﬁnite dimensions. 
+					</div>
+					<div class="uAuthor">
+						Elements of Nonstandard Algebraic Geometry
+					</div>
+										<div class="usage">
+						We plan to address these peculiarities of the existing theory in subsequent work. 
+					</div>
+					<div class="uAuthor">
+						Generalized Sprays and Nonlinear Connections
+					</div>
+										<div class="usage">
+						Most of this transition phase is likely spent in the transition WN/WC phase, but probably not the whole, so that some peculiar WN stars with products of He–burning are possible. 
+					</div>
+					<div class="uAuthor">
+						Stellar evolution with rotation X: Wolf-Rayet star populations at solar metallicity
+					</div>
+										<div class="usage">
+						The overcorrection of both central density and correlation energy seem thus to be peculiarities of the RPA. 
+					</div>
+					<div class="uAuthor">
+						Symmetry breaking and the random-phase approximation in small quantum dots
+					</div>
+										<div class="usage">
+						In this case the peculiar symmetries of the BdG ensemble are a direct consequence of the boundary conditions imposed by the presence of the wall in the model. 
+					</div>
+					<div class="uAuthor">
+						Random matrix theory and symmetric spaces
+					</div>
+										<div class="usage">
+						This peculiarity has also been noticed by an earlier analysis of moments at inﬁnite temperature . 
+					</div>
+					<div class="uAuthor">
+						Transport in one dimensional quantum systems
+					</div>
+										<div class="usage">
+						The following two peculiarities of generalized supersymmetries should be additionally noted. 
+					</div>
+					<div class="uAuthor">
+						Lagrangian symmetries and supersymmetries depending on derivatives. Global analysis
+					</div>
+										<div class="usage">
+						Lie algebra of G. A remarkable peculiarity of this generalized supersymmetry is that the Lie derivative L
+					</div>
+					<div class="uAuthor">
+						Lagrangian symmetries and supersymmetries depending on derivatives. Global analysis
+					</div>
+										<div class="usage">
+						This is a peculiar property of the Galilean group. 
+					</div>
+					<div class="uAuthor">
+						Generally covariant Quantum Mechanics
+					</div>
+										<div class="usage">
+						Distributions with this property are however quite peculiar. 
+					</div>
+					<div class="uAuthor">
+						Spin models with random anisotropy and reflection symmetry
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="something unusual -- perhaps worthy of collecting"><a href="rarity.html">rarity</a>, </div><div class="synGroup" title="a distinguishing trait"><a href="specialness.html">specialness</a>, <a href="specialty.html">specialty</a>, <a href="speciality.html">speciality</a>, <a href="distinctiveness.html">distinctiveness</a>, </div><div class="synGroup" title="an odd or unusual characteristic"><a href="distinctive%20feature.html">distinctive feature</a>, <a href="distinguishing%20characteristic.html">distinguishing characteristic</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="characteristic.html">characteristic</a>, <a href="feature.html">feature</a>, <a href="individualism.html">individualism</a>, <a href="individuality.html">individuality</a>, <a href="individuation.html">individuation</a>, <a href="object.html">object</a>, <a href="physical%20object.html">physical object</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bric-a-brac.html">bric-a-brac</a>, <a href="calling%20card.html">calling card</a>, <a href="collectable.html">collectable</a>, <a href="collectible.html">collectible</a>, <a href="collector%27s%20item.html">collector's item</a>, <a href="foible.html">foible</a>, <a href="idiosyncrasy.html">idiosyncrasy</a>, <a href="knickknack.html">knickknack</a>, <a href="knickknackery.html">knickknackery</a>, <a href="mannerism.html">mannerism</a>, <a href="nicknack.html">nicknack</a>, <a href="piece%20de%20resistance.html">piece de resistance</a>, <a href="showpiece.html">showpiece</a>, <a href="whatnot.html">whatnot</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="peculiar.html">peculiar</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="accent.html">accent</a>, <a href="affectation.html">affectation</a>, <a href="Africanism.html">Africanism</a>, <a href="albino.html">albino</a>, <a href="Anglicism.html">Anglicism</a>, <a href="Anglo-Saxonism.html">Anglo-Saxonism</a>, <a href="Antozone.html">Antozone</a>, <a href="Arabism.html">Arabism</a>, <a href="Arvicola.html">Arvicola</a>, <a href="association.html">association</a>, <a href="atavism.html">atavism</a>, <a href="Atticism.html">Atticism</a>, <a href="Bachelorism.html">Bachelorism</a>, <a href="Bantu.html">Bantu</a>, <a href="Cagot.html">Cagot</a>, <a href="Cancer%20cells.html">Cancer cells</a>, <a href="card.html">card</a>, <a href="Chaldaism.html">Chaldaism</a>, <a href="character.html">character</a>, <a href="Chaus.html">Chaus</a>, <a href="Cockneyism.html">Cockneyism</a>, <a href="codex.html">codex</a>, <a href="column.html">column</a>, <a href="Dean%20of%20peculiars.html">Dean of peculiars</a>, <a href="diamond.html">diamond</a>, <a href="dilemma.html">dilemma</a>, <a href="Dish-faced.html">Dish-faced</a>, <a href="distinctive.html">distinctive</a>, <a href="distinctively.html">distinctively</a>, <a href="diurnal.html">diurnal</a>, <a href="Doricism.html">Doricism</a>, <a href="Dorism.html">Dorism</a>, <a href="Ear-minded.html">Ear-minded</a>, <a href="eccentricity.html">eccentricity</a>, <a href="epithelium.html">epithelium</a>, <a href="feature.html">feature</a>, <a href="Fike.html">Fike</a>, <a href="Greenstone.html">Greenstone</a>, <a href="Hellenism.html">Hellenism</a>, <a href="Hibernianism.html">Hibernianism</a>, <a href="Hibernicism.html">Hibernicism</a>, <a href="humor.html">humor</a>, <a href="humorist.html">humorist</a>, <a href="Idiasm.html">Idiasm</a>, <a href="Idiocrasy.html">Idiocrasy</a>, <a href="idiom.html">idiom</a>, <a href="idiosyncrasy.html">idiosyncrasy</a>, <a href="Idiotism.html">Idiotism</a>, <a href="Irishism.html">Irishism</a>, <a href="Isocephalism.html">Isocephalism</a>, <a href="Japonism.html">Japonism</a>, <a href="Johnsonianism.html">Johnsonianism</a>, <a href="ketch.html">ketch</a>, <a href="language.html">language</a>, <a href="manner.html">manner</a>, <a href="mannered.html">mannered</a>, <a href="mannerism.html">mannerism</a>, <a href="Manto.html">Manto</a>, <a href="mark.html">mark</a>, <a href="Medievalism.html">Medievalism</a>, <a href="miniver.html">miniver</a>, <a href="molding.html">molding</a>, <a href="Monachism.html">Monachism</a>, <a href="nationalism.html">nationalism</a>, <a href="Negroism.html">Negroism</a>, <a href="oddity.html">oddity</a>, <a href="particular.html">particular</a>, <a href="particularity.html">particularity</a>, <a href="Peculiarness.html">Peculiarness</a>, <a href="phraseology.html">phraseology</a>, <a href="pianoforte.html">pianoforte</a>, <a href="Pilea.html">Pilea</a>, <a href="pintail.html">pintail</a>, <a href="point.html">point</a>, <a href="propriety.html">propriety</a>, <a href="Provinciality.html">Provinciality</a>, <a href="psychology.html">psychology</a>, <a href="quiddity.html">quiddity</a>, <a href="quirk.html">quirk</a>, <a href="Rabbinism.html">Rabbinism</a>, <a href="race.html">race</a>, <a href="Ramilie.html">Ramilie</a>, <a href="remark.html">remark</a>, <a href="sallet.html">sallet</a>, <a href="Schillerization.html">Schillerization</a>, <a href="Scotch%20catch.html">Scotch catch</a>, <a href="Scotch%20snap.html">Scotch snap</a>, <a href="Scription.html">Scription</a>, <a href="Seguidilla.html">Seguidilla</a>, <a href="sex.html">sex</a>, <a href="Simitar.html">Simitar</a>, <a href="Singspiel.html">Singspiel</a>, <a href="singularity.html">singularity</a>, <a href="Sinicism.html">Sinicism</a>, <a href="sinistral.html">sinistral</a>, <a href="Sirgang.html">Sirgang</a>, <a href="space.html">space</a>, <a href="spanker.html">spanker</a>, <a href="sport.html">sport</a>, <a href="spot.html">spot</a>, <a href="Syrianism.html">Syrianism</a>, <a href="temperament.html">temperament</a>, <a href="term.html">term</a>, <a href="Teutonism.html">Teutonism</a>, <a href="trait.html">trait</a>, <a href="trick.html">trick</a>, <a href="trumpeter.html">trumpeter</a>, <a href="Ulster.html">Ulster</a>, <a href="Universal%20instrument.html">Universal instrument</a>, <a href="Urocyon.html">Urocyon</a>, <a href="variegation.html">variegation</a>, <a href="virago.html">virago</a>, <a href="Zenaidura.html">Zenaidura</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oeculiarity, leculiarity, pwculiarity, psculiarity, pdculiarity, prculiarity, pexuliarity, peduliarity, pefuliarity, pevuliarity, pecyliarity, pechliarity, pecjliarity, peciliarity, pecukiarity, pecuoiarity, pecupiarity, peculuarity, peculjarity, peculkarity, peculoarity, peculiqrity, peculiwrity, peculisrity, peculizrity, peculiaeity, peculiadity, peculiafity, peculiatity, peculiaruty, peculiarjty, peculiarkty, peculiaroty, peculiariry, peculiarify, peculiarigy, peculiariyy, peculiaritt, peculiaritg, peculiarith, peculiaritu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

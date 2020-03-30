@@ -1,0 +1,509 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>appetite</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">appetite</span> <span class="exp">a feeling of craving something</span> <span class="quot">"an appetite for life","the object of life is to satisfy as many appetencies as possible"- Granville Hicks"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Appetite</span> <span class="exp">Any strong desire; an eagerness or longing.</span> <span class="wuQuot">"It God had given to eagles an appetite to swim."</span><span class="wuQuot">"To gratify the vulgar appetite for the marvelous."</span></li><li><span class="term">Appetite</span> <span class="exp">Desire for, or relish of, food or drink; hunger.</span> <span class="wuQuot">"Men must have appetite before they will eat."</span></li><li><span class="term">Appetite</span> <span class="exp">Tendency; appetency.</span> <span class="wuQuot">"In all bodies there as an appetite of union."</span></li><li><span class="term">Appetite</span> <span class="exp">The desire for some personal gratification, either of the body or of the mind.</span> <span class="wuQuot">"The object of appetite it whatsoever sensible good may be wished for; the object of will is that good which reason does lead us to seek."</span></li><li><span class="term">Appetite</span> <span class="exp">The thing desired.</span> <span class="wuQuot">"Power being the natural appetite of princes."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">appetite</span> <span class="exp">An innate or acquired demand or propensity to satisfy a want; desire, especially strong desire; inclination; wish to attain some object or purpose: with for (formerly with of, to, or an infinitive) or absolutely.</span> </li><li><span class="tSpeech">n</span> <span class="term">appetite</span> <span class="exp">Specifically— A desire to supply a bodily want or craving; a desire for food or drink.</span> </li><li><span class="tSpeech">n</span> <span class="term">appetite</span> <span class="exp">Relish for food; the capacity of taking food with pleasure.</span> </li><li><span class="tSpeech">n</span> <span class="term">appetite</span> <span class="exp">Preference; taste; liking: as, to or according to one's appetite, that is, as one pleases.</span> </li><li><span class="tSpeech">n</span> <span class="term">appetite</span> <span class="exp">A thing desired.</span> </li><li><span class="tSpeech">n</span> <span class="term">appetite</span> <span class="exp">A tendency of an inanimate thing analogous to a desire.</span> </li><li><span class="term">appetite</span> <span class="exp">To desire; long for; deeply want.</span> </li><li><span class="term">appetite</span> <span class="exp">To satisfy the appetite or desire of.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Appetite</span> <span class="exp"><span class="itl">ap′pet-īt</span> physical craving, accompanied with uneasy sensation (hunger, thirst, sex): natural desire: inclination: desire for food: hunger (with <span class="itl">for</span>)</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Dickens</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Dickens.jpg" alt="Charles%20Dickens">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Subdue your appetites, my dears, and you've conquered human nature .”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“O curse of marriage that we can call these delicate creatures ours and not their appetites!”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Dryden</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Dryden.jpg" alt="John%20Dryden">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men are but children of a larger growth, Our appetites as apt to change as theirs, And full as craving too, and full as vain.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Abraham Lincoln</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Abraham%20Lincoln.jpg" alt="Abraham%20Lincoln">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Prohibition goes beyond the bounds of reason in that it attempts to control a man's appetite by legislation and makes crimes out of things that are not crimes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Hoffer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eric%20Hoffer.jpg" alt="Eric%20Hoffer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“How frighteningly few are the persons whose death would spoil our appetite and make the world seem empty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Manton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Manton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Desires are the pulses of the soul; as physicians judge by the appetite, so may you by desires.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Whet your appetite</span> - If something whets your appetite, it interests you and makes you want more of it.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">appetit</span>, F. <span class="wUets">appétit</span>, fr. L. <span class="wUets">appetitus</span>, fr. <span class="wUets">appetere</span>, to strive after, long for; <span class="wUets">ad</span>, + <span class="wUets">petere</span>, to seek. See <span class="wUer">Petition</span>, and cf. <span class="wUer">Appetence</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Through Fr., from L. <i>appetitus</i>, <i>appetĕre</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						For the first time in Rose's life, love had taken away her appetite.
+					</div>
+					<div class="uAuthor">
+						"Kate Danton, or, Captain Danton's Daughters" by <span>May Agnes Fleming</span>					</div>
+										<div class="usage">
+						My restless feelings are at last laid, my indefinite appetites are at length exhausted.
+					</div>
+					<div class="uAuthor">
+						"The Young Duke" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						But there was no time now for the animals to satisfy their appetites.
+					</div>
+					<div class="uAuthor">
+						"The Pony Rider Boys in Texas" by <span>Frank Gee Patchin</span>					</div>
+										<div class="usage">
+						We shall come back with new vigor and appetite, and soon catch up with our class.
+					</div>
+					<div class="uAuthor">
+						"Two Boys in Wyoming" by <span>Edward S. Ellis</span>					</div>
+										<div class="usage">
+						Where the appetite is impaired, administer the following: Pulv.
+					</div>
+					<div class="uAuthor">
+						"The Veterinarian" by <span>Chas. J. Korinek</span>					</div>
+										<div class="usage">
+						Evidently, the strength his mind and character gave him went in pandering to physical appetites.
+					</div>
+					<div class="uAuthor">
+						"The Plum Tree" by <span>David Graham Phillips</span>					</div>
+										<div class="usage">
+						Within reason, a pregnant mother should follow her natural appetite and satisfy her dietetic longings.
+					</div>
+					<div class="uAuthor">
+						"The Mother and Her Child" by <span>William S. Sadler</span>					</div>
+										<div class="usage">
+						No longer suffering from thirst, its kindred appetite now returned with undivided agony, and the next thought was for something to eat.
+					</div>
+					<div class="uAuthor">
+						"The Castaways" by <span>Captain Mayne Reid</span>					</div>
+										<div class="usage">
+						We had not come without provisions, nor had the scenery taken away our appetites.
+					</div>
+					<div class="uAuthor">
+						"On the Banks of the Amazon" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						The child loses weight, is irritable, has no appetite, and looks and acts sick.
+					</div>
+					<div class="uAuthor">
+						"The Eugenic Marriage, Volume IV. (of IV.)" by <span>Grant Hague</span>					</div>
+										<div class="usage">
+						Appetite is a good test of the amount and also of the particular kind of food required, provided the appetite is in a healthy condition.
+					</div>
+					<div class="uAuthor">
+						"Papers on Health" by <span>John Kirk</span>					</div>
+										<div class="usage">
+						The appetites of the doctor and purser had risen in proportion.
+					</div>
+					<div class="uAuthor">
+						"Rattlin the Reefer" by <span>Edward Howard</span>					</div>
+										<div class="usage">
+						Do you know I do believe that poverty is doing my health good; my appetite is improving.
+					</div>
+					<div class="uAuthor">
+						"The Young Trawler" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						A Morbid Appetite, how caused.
+					</div>
+					<div class="uAuthor">
+						"A Treatise on Domestic Economy" by <span>Catherine Esther Beecher</span>					</div>
+										<div class="usage">
+						Lastly, all special kinds of acts belong either to the appetitive or to the cognoscitive faculties.
+					</div>
+					<div class="uAuthor">
+						"On Prayer and The Contemplative Life" by <span>St. Thomas Aquinas</span>					</div>
+										<div class="usage">
+						The cold and bracing air during our short walks on deck had given us all famous appetites, and we relished everything.
+					</div>
+					<div class="uAuthor">
+						"A Woman who went to Alaska" by <span>May Kellogg Sullivan</span>					</div>
+										<div class="usage">
+						The appetite was intended by Nature for this purpose, yet how few people wait upon appetite!
+					</div>
+					<div class="uAuthor">
+						"No Animal Food" by <span>Rupert H. Wheldon</span>					</div>
+										<div class="usage">
+						I must put a bridle upon my appetite, and hold it in subjection to my Lord.
+					</div>
+					<div class="uAuthor">
+						"My Daily Meditation for the Circling Year" by <span>John Henry Jowett</span>					</div>
+										<div class="usage">
+						The first point in connection with the examination of the organs of digestion is the appetite and the manner of taking food and drink.
+					</div>
+					<div class="uAuthor">
+						"Special Report on Diseases of the Horse" by <span>United States Department of Agriculture</span>					</div>
+										<div class="usage">
+						My appetite, natural or acquired, has become insatiable.
+					</div>
+					<div class="uAuthor">
+						"The Life of Sir James Fitzjames Stephen, Bart., K.C.S.I." by <span>Sir Leslie Stephen</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Only to suit the appetites<br>
+Of other wicked men,<br>
+Our race is mobb'd and lynch'd<br>
+Isn't that a sin?
+							<div class="poet">"Only" by <span>Frank Barbour Coffin</span></div>
+						</div>
+											<div class="poemQuote">
+							In wantonness of appetite,<br>
+In women, wine and war,<br>
+In fire and blood and rapine<br>
+In these my pleasures are.
+							<div class="poet">"Mercenary's Song (AD 1600)" by <span>General George S Patton Jnr</span></div>
+						</div>
+											<div class="poemQuote">
+							Eternal wisdom has prepared<br>
+A soul reviving feast,<br>
+And bids your longing appetite<br>
+The rich provision taste.
+							<div class="poet">"Hymn 2" by <span>Noah Calwell W Cannon</span></div>
+						</div>
+											<div class="poemQuote">
+							Eternal Wisdom has prepared<br>
+A soul-reviving feast,<br>
+And bids your longing appetites<br>
+The rich provision taste.
+							<div class="poet">"Hymn 7" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							He wrote a very pretty hand<br>
+And could command a school:<br>
+His appetite got the command,<br>
+And that he could not rule.
+							<div class="poet">"Dear Friends And Neighbors" by <span>David John Scott</span></div>
+						</div>
+											<div class="poemQuote">
+							His bark was very, very fierce,<br>
+And fierce his appetite,<br>
+Yet was it only things to eat<br>
+That he was prone to bite.
+							<div class="poet">"The Ballad Of The Taylor Pup" by <span>Eugene Field</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						AMERICAN APPETITES By Joyce Carol Oates.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/books/00/04/02/specials/oates-appetites.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						America's Import Appetite Will Weigh Down This Year's Growth.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/stories/1994-04-03/americas-import-appetite-will-weigh-down-this-years-growth" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						 Whet your appetite at Land Trust's annual Thanksgiving Day Hike on Monte Sano.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/breaking/2012/11/build_up_your_appetite_at_land.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						Four Titles to Whet Your Appetite for Jewish Book Month.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.jewishexponent.com/booked-four-titles-whet-your-appetite-jewish-book-month" target="_blank" rel="external nofollow">jewishexponent.com</a>
+					</div>
+										<div class="usage">
+						If, after visiting ArtPrize, you have only whet your appetite to view even more spectacular pieces of art, don't worry, there are plenty of art-related events taking place in West Michigan in September and October.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/artprize/index.ssf/2012/09/now_that_artprize_has_what_your_whistle_continue_the_adventure_by_hopping_over_over_to_some_of_these.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						 Whet your appetite for JawsFest 2012 with Janet Maslin's original 1975 Jaws review.
+					</div>
+					<div class="uAuthor">
+						<a href="http://thephoenix.com/BLOGS/laserorgy/archive/2012/08/09/media-frenzy-whet-your-appetite-for-jawsfest-2012-with-janet-maslin-s-original-1975-jaws-review.aspx" target="_blank" rel="external nofollow">thephoenix.com</a>
+					</div>
+										<div class="usage">
+						All Blogs Laser Orgy Whet your appetite for JawsFest 2012 with Janet Maslin's original 1975 Jaws review.
+					</div>
+					<div class="uAuthor">
+						<a href="http://thephoenix.com/BLOGS/laserorgy/archive/2012/08/09/media-frenzy-whet-your-appetite-for-jawsfest-2012-with-janet-maslin-s-original-1975-jaws-review.aspx" target="_blank" rel="external nofollow">thephoenix.com</a>
+					</div>
+										<div class="usage">
+						Rutgers hoping to whet fans' appetite with new caterer at High Point Solutions Stadium.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/rutgersfootball/index.ssf/2012/08/rutgers.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Zynga hopes to whet appetites for social games with "ChefVille".
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.sfgate.com/techchron/2012/06/26/zynga-hopes-to-whet-appetites-for-social-games-with-%E2%80%9Cchefville%E2%80%9D/" target="_blank" rel="external nofollow">blog.sfgate.com</a>
+					</div>
+										<div class="usage">
+						Here are a few red carpet nibbles to whet your appetite for tonight's 84th annual Oscars telecast.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/fashion/index.ssf/2012/02/tidbits_to_whet_your_oscars_fa.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						A variety of food and wine events will whet the appetite.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailynews.com/entertainment/ci_18854266" target="_blank" rel="external nofollow">dailynews.com</a>
+					</div>
+										<div class="usage">
+						Comic-Con 2011, Day 2: 'Star Wars' deleted scenes whet fans' appetites for Blu-ray release.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/movies/index.ssf/2011/07/comic-con_2011_day_2_sneak_pee.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						Life's like a Picnic Buffet: Plenty of Experiences to Whet all Appetites.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.mlive.com/freshfood/2011/06/post_61.html" target="_blank" rel="external nofollow">blog.mlive.com</a>
+					</div>
+										<div class="usage">
+						An online restaurants guide based in India has an appetite for growth in the Middle East having earmarked US$2 million (Dh7.3m) to launch across the UAE.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thenational.ae/thenationalconversation/industry-insights/technology/online-menu-guide-from-india-hopes-to-whet-more-appetites" target="_blank" rel="external nofollow">thenational.ae</a>
+					</div>
+										<div class="usage">
+						Goats Bring Their Appetites to Boise's Quail Hollow, Briarhill Neighborhoods.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.boiseweekly.com/boise/goats-bring-their-appetites-to-boises-quail-hollow-briarhill-neighborhoods/Content?oid=2658933" target="_blank" rel="external nofollow">boiseweekly.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Our goal here is only to whet the reader’s appetite, to show that Kuranishi cochains are an elegant and economical setting for Lagrangian Floer cohomology, and so to justify all the effort we have put into developing Kuranishi (co)homology, and perhaps persuade the reader that it is worth taking the time to learn. 
+					</div>
+					<div class="uAuthor">
+						Kuranishi homology and Kuranishi cohomology
+					</div>
+										<div class="usage">
+						Thus, I embarked on the preparation of this collection of problems, for those who wish to study mathematical physics and want to see some solved problems to whet their appetite. I hope that people who learn the sub jects treated in this collection of problems will ﬁnd it useful. 
+					</div>
+					<div class="uAuthor">
+						A Collection of Exercises in Two-Dimensional Physics, Part 1
+					</div>
+										<div class="usage">
+						These results have wetted the appetite for obtaining higher quality data, and have led to a vigorous campaign of instrumental developments in high energy regimes. 
+					</div>
+					<div class="uAuthor">
+						Gamma-Ray Bursts: Progress, Problems &amp; Prospects
+					</div>
+										<div class="usage">
+						Cosmic ray data whets our appetite for the ﬁrst collider data. 
+					</div>
+					<div class="uAuthor">
+						top2008 Conference Summary
+					</div>
+										<div class="usage">
+						It was clear that there was a tremendous appetite amongst staff to learn more about Excel, and the Bank had a generous training budget. 
+					</div>
+					<div class="uAuthor">
+						Controlling End User Computing Applications - a case study
+					</div>
+										<div class="usage">
+						Nature’s appetite appears to be more voracious on grander scales, gobbling up large quantities of matter while exhibiting little sign of digestion. 
+					</div>
+					<div class="uAuthor">
+						Weighing Superclusters
+					</div>
+										<div class="usage">
+						Priya Natarajan’s results have whetted our appetite for further investigations of this sort. 
+					</div>
+					<div class="uAuthor">
+						Gravitational Lensing: Recent Progress and Future Goals - Conference Summary
+					</div>
+										<div class="usage">
+						Emotion and motivation I: defensive and appetitive reactions in picture processing. 
+					</div>
+					<div class="uAuthor">
+						Patterns of Emotional Blogging and Emergence of Communities: Agent-Based Model on Bipartite Networks
+					</div>
+										<div class="usage">
+						Whilst he may not have been quite the equal of the great astronomy author of the time, Sir Robert Ball, Gore‘s books helped to feed the insatiable public appetite that existed at the time for knowledge about developments in science. 
+					</div>
+					<div class="uAuthor">
+						John Ellard Gore: of immensity and minuteness
+					</div>
+										<div class="usage">
+						Besides being of interest in themselves, these results whet the appetite for the richness of the CDF program on b physics during Run II, scheduled to start in the summer of 2000. 
+					</div>
+					<div class="uAuthor">
+						Two Recent Results on B Physics from CDF
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a feeling of craving something"><a href="appetency.html">appetency</a>, <a href="appetence.html">appetence</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="craving.html">craving</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="stomach.html">stomach</a>, <a href="sweet%20tooth.html">sweet tooth</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-ite.html">-ite</a>, <a href="abstemious.html">abstemious</a>, <a href="abstentious.html">abstentious</a>, <a href="abstinence.html">abstinence</a>, <a href="abstinent.html">abstinent</a>, <a href="Alimentiveness.html">Alimentiveness</a>, <a href="Allotriophagy.html">Allotriophagy</a>, <a href="amphetamine.html">amphetamine</a>, <a href="anaphrodisia.html">anaphrodisia</a>, <a href="anaphrodisiac.html">anaphrodisiac</a>, <a href="aneurin.html">aneurin</a>, <a href="anorectic.html">anorectic</a>, <a href="anorexia.html">anorexia</a>, <a href="anorexigenic.html">anorexigenic</a>, <a href="Anorexy.html">Anorexy</a>, <a href="Antaphrodisiac.html">Antaphrodisiac</a>, <a href="Antepast.html">Antepast</a>, <a href="antiberiberi%20factor.html">antiberiberi factor</a>, <a href="aphrodisiac.html">aphrodisiac</a>, <a href="Apositic.html">Apositic</a>, <a href="appease.html">appease</a>, <a href="appetence.html">appetence</a>, <a href="appetency.html">appetency</a>, <a href="Appetibility.html">Appetibility</a>, <a href="Appetible.html">Appetible</a>, <a href="Appetise.html">Appetise</a>, <a href="appetiser.html">appetiser</a>, <a href="appetising.html">appetising</a>, <a href="appetisingness.html">appetisingness</a>, <a href="appetite%20suppressant.html">appetite suppressant</a>, <a href="Appetition.html">Appetition</a>, <a href="appetitive.html">appetitive</a>, <a href="Appetize.html">Appetize</a>, <a href="appetizer.html">appetizer</a>, <a href="appetizing.html">appetizing</a>, <a href="appetizingness.html">appetizingness</a>, <a href="Asitia.html">Asitia</a>, <a href="assuage.html">assuage</a>, <a href="athirst.html">athirst</a>, <a href="autoimmune%20diabetes.html">autoimmune diabetes</a>, <a href="avidity.html">avidity</a>, <a href="batten.html">batten</a>, <a href="Belly-god.html">Belly-god</a>, <a href="bellyful.html">bellyful</a>, <a href="bestial.html">bestial</a>, <a href="blunt.html">blunt</a>, <a href="bulimia.html">bulimia</a>, <a href="Bulimy.html">Bulimy</a>, <a href="cancer%20of%20the%20liver.html">cancer of the liver</a>, <a href="Canine%20appetite.html">Canine appetite</a>, <a href="Carnivoracity.html">Carnivoracity</a>, <a href="cater.html">cater</a>, <a href="chalk.html">chalk</a>, <a href="chicken%20feed.html">chicken feed</a>, <a href="chlorosis.html">chlorosis</a>, <a href="cloy.html">cloy</a>, <a href="Cloyment.html">Cloyment</a>, <a href="concupiscence.html">concupiscence</a>, <a href="concupiscent.html">concupiscent</a>, <a href="contain.html">contain</a>, <a href="continence.html">continence</a>, <a href="continency.html">continency</a>, <a href="continent.html">continent</a>, <a href="crank.html">crank</a>, <a href="crave.html">crave</a>, <a href="craving.html">craving</a>, <a href="Cynorexia.html">Cynorexia</a>, <a href="deeply.html">deeply</a>, <a href="delicacy.html">delicacy</a>, <a href="deoxyephedrine.html">deoxyephedrine</a>, <a href="depraved.html">depraved</a>, <a href="desire.html">desire</a>, <a href="distemper.html">distemper</a>, <a href="Dysorexia.html">Dysorexia</a>, <a href="Eat%20well.html">Eat well</a>, <a href="edge.html">edge</a>, <a href="entree.html">entree</a>, <a href="Esurine.html">Esurine</a>, <a href="excess.html">excess</a>, <a href="fastidious.html">fastidious</a>, <a href="fastidiousness.html">fastidiousness</a>, <a href="feed.html">feed</a>, <a href="fever.html">fever</a>, <a href="flesh.html">flesh</a>, <a href="fleshly.html">fleshly</a>, <a href="fondness.html">fondness</a>, <a href="free-liver.html">free-liver</a>, <a href="free-living.html">free-living</a>, <a href="garget.html">garget</a>, <a href="gastritis.html">gastritis</a>, <a href="ghrelin.html">ghrelin</a>, <a href="glass.html">glass</a>, <a href="glut.html">glut</a>, <a href="glutton.html">glutton</a>, <a href="gluttonize.html">gluttonize</a>, <a href="gluttonous.html">gluttonous</a>, <a href="gluttony.html">gluttony</a>, <a href="gratification.html">gratification</a>, <a href="gratify.html">gratify</a>, <a href="greedily.html">greedily</a>, <a href="greedy.html">greedy</a>, <a href="growth-onset%20diabetes.html">growth-onset diabetes</a>, <a href="Gulosity.html">Gulosity</a>, <a href="hanker.html">hanker</a>, <a href="hearty.html">hearty</a>, <a href="hunger.html">hunger</a>, <a href="Hungerly.html">Hungerly</a>, <a href="hungry.html">hungry</a>, <a href="ice.html">ice</a>, <a href="IDDM.html">IDDM</a>, <a href="impulse.html">impulse</a>, <a href="Inabstinence.html">Inabstinence</a>, <a href="Inappetence.html">Inappetence</a>, <a href="incontinent.html">incontinent</a>, <a href="Incontinently.html">Incontinently</a>, <a href="inflame.html">inflame</a>, <a href="insatiable.html">insatiable</a>, <a href="Insatiableness.html">Insatiableness</a>, <a href="insulin-dependent%20diabetes%20mellitus.html">insulin-dependent diabetes mellitus</a>, <a href="intemperance.html">intemperance</a>, <a href="intemperate.html">intemperate</a>, <a href="intemperateness.html">intemperateness</a>, <a href="Ipecacuanha.html">Ipecacuanha</a>, <a href="jaundice.html">jaundice</a>, <a href="juvenile%20diabetes.html">juvenile diabetes</a>, <a href="juvenile-onset%20diabetes.html">juvenile-onset diabetes</a>, <a href="keen.html">keen</a>, <a href="ketoacidosis-prone%20diabetes.html">ketoacidosis-prone diabetes</a>, <a href="ketosis-prone%20diabetes.html">ketosis-prone diabetes</a>, <a href="lechery.html">lechery</a>, <a href="libidinous.html">libidinous</a>, <a href="lick.html">lick</a>, <a href="Lickerish.html">Lickerish</a>, <a href="Limosis.html">Limosis</a>, <a href="liver%20cancer.html">liver cancer</a>, <a href="longing.html">longing</a>, <a href="love.html">love</a>, <a href="lovely.html">lovely</a>, <a href="lust.html">lust</a>, <a href="luxury.html">luxury</a>, <a href="mad.html">mad</a>, <a href="malabsorption%20syndrome.html">malabsorption syndrome</a>, <a href="malacia.html">malacia</a>, <a href="man-eater.html">man-eater</a>, <a href="maw.html">maw</a>, <a href="meal.html">meal</a>, <a href="meth.html">meth</a>, <a href="methamphetamine.html">methamphetamine</a>, <a href="methamphetamine%20hydrochloride.html">methamphetamine hydrochloride</a>, <a href="Methedrine.html">Methedrine</a>, <a href="onanism.html">onanism</a>, <a href="Orectic.html">Orectic</a>, <a href="overfeed.html">overfeed</a>, <a href="overindulgence.html">overindulgence</a>, <a href="pacify.html">pacify</a>, <a href="pall.html">pall</a>, <a href="pamper.html">pamper</a>, <a href="pep%20pill.html">pep pill</a>, <a href="Phagedena.html">Phagedena</a>, <a href="pica.html">pica</a>, <a href="piddle.html">piddle</a>, <a href="Pingle.html">Pingle</a>, <a href="pride.html">pride</a>, <a href="provocative.html">provocative</a>, <a href="pruriency.html">pruriency</a>, <a href="quicken.html">quicken</a>, <a href="rank.html">rank</a>, <a href="rapacious.html">rapacious</a>, <a href="ravenous.html">ravenous</a>, <a href="relish.html">relish</a>, <a href="restrain.html">restrain</a>, <a href="rumination.html">rumination</a>, <a href="salaciously.html">salaciously</a>, <a href="salmi.html">salmi</a>, <a href="Salmis.html">Salmis</a>, <a href="sate.html">sate</a>, <a href="satiate.html">satiate</a>, <a href="satiety.html">satiety</a>, <a href="satisfaction.html">satisfaction</a>, <a href="satyriasis.html">satyriasis</a>, <a href="Savorily.html">Savorily</a>, <a href="sensual.html">sensual</a>, <a href="sensualism.html">sensualism</a>, <a href="servitude.html">servitude</a>, <a href="shabu.html">shabu</a>, <a href="sharp.html">sharp</a>, <a href="sharp-set.html">sharp-set</a>, <a href="sharpen.html">sharpen</a>, <a href="speed.html">speed</a>, <a href="starter.html">starter</a>, <a href="starve.html">starve</a>, <a href="stomach.html">stomach</a>, <a href="stomachic.html">stomachic</a>, <a href="Stomachless.html">Stomachless</a>, <a href="stroke.html">stroke</a>, <a href="Superalimentation.html">Superalimentation</a>, <a href="suppressant.html">suppressant</a>, <a href="surfeit.html">surfeit</a>, <a href="sweet%20tooth.html">sweet tooth</a>, <a href="tapeworm.html">tapeworm</a>, <a href="thiamin.html">thiamin</a>, <a href="thiamine.html">thiamine</a>, <a href="thirst.html">thirst</a>, <a href="thrall.html">thrall</a>, <a href="To%20be%20off%20one%27s%20feed.html">To be off one's feed</a>, <a href="To%20be%20off%20one%27s%20food.html">To be off one's food</a>, <a href="trash.html">trash</a>, <a href="tuck.html">tuck</a>, <a href="twist.html">twist</a>, <a href="type%20I%20diabetes.html">type I diabetes</a>, <a href="unappetisingness.html">unappetisingness</a>, <a href="unappetizingness.html">unappetizingness</a>, <a href="Unchastity.html">Unchastity</a>, <a href="uncritical.html">uncritical</a>, <a href="unsatisfying.html">unsatisfying</a>, <a href="upper.html">upper</a>, <a href="urine.html">urine</a>, <a href="vaccination.html">vaccination</a>, <a href="vaccinia.html">vaccinia</a>, <a href="vermouth.html">vermouth</a>, <a href="Vermuth.html">Vermuth</a>, <a href="vitamin%20B1.html">vitamin B1</a>, <a href="voluptuary.html">voluptuary</a>, <a href="voracious.html">voracious</a>, <a href="voraciously.html">voraciously</a>, <a href="voraciousness.html">voraciousness</a>, <a href="voracity.html">voracity</a>, <a href="water.html">water</a>, <a href="werewolf.html">werewolf</a>, <a href="whack.html">whack</a>, <a href="whet.html">whet</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qppetite, wppetite, sppetite, zppetite, aopetite, alpetite, apoetite, apletite, appwtite, appstite, appdtite, apprtite, apperite, appefite, appegite, appeyite, appetute, appetjte, appetkte, appetote, appetire, appetife, appetige, appetiye, appetitw, appetits, appetitd, appetitr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

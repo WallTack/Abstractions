@@ -1,0 +1,512 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>symmetry</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">(physics) the property of being isotropic; having the same value when measured in different directions</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">(mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">balance among the parts of something</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										SWIMS is the longest word with 180-degree rotational symmetry (if you were to view it upside-down it would still be the same word and perfectly readable).									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Symmetry</span> <span class="exp">A due proportion of the several parts of a body to each other; adaptation of the form or dimensions of the several parts of a thing to each other; the union and conformity of the members of a work to the whole.</span> </li><li><span class="term">Symmetry</span> <span class="exp"><span class="wuFld">(Bot)</span> Equality in the number of parts of the successive circles in a flower.</span> </li><li><span class="term">Symmetry</span> <span class="exp"><span class="wuFld">(Bot)</span> Likeness in the form and size of floral organs of the same kind; regularity.</span> </li><li><span class="term">Symmetry</span> <span class="exp"><span class="wuFld">(Biol)</span> The law of likeness; similarity of structure; regularity in form and arrangement; orderly and similar distribution of parts, such that an animal may be divided into parts which are structurally symmetrical.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">Proportionality; commensurability; the due proportion of parts; especially, the proper commensurability of the parts of the human body, according to a canon; hence, congruity; beauty of form. The Greek word συμμετρία was probably first applied to the commensurability of numbers, thence to that of the parts of a statue, and soon to elegance of form in general.</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">The metrical correspondence of parts with reference to a median plane, each element of geometrical form having its counterpart upon the opposite side of that plane, in the same continued perpendicular to the plane, and at the same distance from it, so that the two halves are geometrically related as a body and its image in a plane mirror: so, usually, in geometry. Especially, in architecture, the exact or geometrical repetition of one half of any structure or composition by the other half, only with the parts arranged in reverse order, as notably in much Renaissance and modern architecture—for instance, in the placing of two spires, exact duplicates of each other, on the front of a church. Such practice is very seldom followed in the best architecture, which in general seeks in its designs to exhibit harmony (see harmony, 3), but avoids symmetry in this sense.</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">The composition of like and equably distributed parts to form a unitary whole; a balance between different parts, otherwise than in reference to a medial plane: but the mere repetition of parts, as in a pattern, is not properly called symmetry.</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">Consistency; congruity; keeping; proper subordination of a part to the whole.</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">In biology: In botany, specifically, agreement in number of parts among the cycles of organs which compose a flower. See symmetrical, 3.</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">In zoölogy and anatomy, the symmetrical disposition or reversed repetition of parts around an axis or on opposite sides of any plane of the body. Symmetry in this sense is something more and other than that due proportion of parts noted in def. 1, since it implies a geometrical representation approximately as in def. 2 (see promorphology); it is also to be distinguished from mere metamerism, or the serial repetition of like parts conceived to face one way and not in opposite directions; but it coincides in some cases with actinomerism, and in others with antimerism or platetropy (see antimere, platetrope). Several sorts of symmetry are recognized. One is radial or actinomeric, in which like parts are arranged about an axis, from which they radiate like the parts of a flower, as in many zoöphytes and echinoderms; but such symmetry is unusual in the animal kingdom, being mainly confined to some of the lower classes of invertebrates, and even in these the departures from it are frequently obvious. (See bivium, trivium, and cuts under echinopædium and Spatangoidea.) The tendency of animal form on the whole being to grow along one main axis (the longitudinal), with symmetrical duplication of parts on each side of the vertical plane (the meson) passing through that axis, it follows that the usual symmetry is bilateral (see below). This is exhibited only obscurely, however, by some cylindrical organisms, as worms, whose right and left “sides,” though existent, are not well marked; and to such symmetry of ringed or annulose forms the term zonal is sometimes-applied. When the ordinary metameric divisions of any animal, as a vertebrate or an arthropod, are conceived as not simply serial but also as antitropic, such disposition of parts is regarded as constituting anteroposterior symmetry, in which parts are supposed to be reversed repetitions of each other on opposite sides of an imaginary plane dividing the body transversely to its axis, in the same sense that right and left parts are reversed repetitions of each other in bilateral symmetry. The existence of the last is denied or ignored by those who consider the segments of an articulate or vertebrate body as simply serially homologous; but in the view of those who recognize it the back of the arm corresponds to the front of the thigh, the convexity of the elbow (backward) to the convexity of the knee (forward), the extensor brachii to the extensor cruris, etc. Anteroposterior symmetry is also recognized by some naturalists in certain arthropods from the arrangements of the legs (in amphipods, for example), the correspondences observed between anal and oral parts, etc. Since any body is a solid, and therefore may be intersected by three mutually perpendicular planes, two of which are concerned in bilateral and anteroposterior symmetry respectively, a kind of symmetry called dorsabdominal symmetry is recognized by some, being that of parts lying upon opposite sides of a longitudinal horizontal plane passing through the axis of the body, as that between the neural and hemal arches of a vertebra; but it is generally obscure, and probably never perfect. Bilateral symmetry (see eudipleural) is the nearly universal rule in vertebrates and articulates. The chief departures from it in vertebrates are in the family of flatfishes or flounders (as the plaice, turbot, halibut), in parts of the cranium of various cetaceans and the single great tusk of the narwhal, in the skulls (especially the ear-parts) of sundry owls, in the beak of a plover (Anarhynchus) which is bent sidewise, in the atrophy of one of the ovaries and oviducts in most birds, and in the position finally assumed by the heart and great vessels and most of the digestive organs of vertebrates at large. (See cuts under asymmetry, narwhal, plaice, and plover.) In articulates notable exceptions to it are seen in the difference between the great claws or chelæ of a lobster, etc. In Mollusca asymmetry is the rule rather than the exception. (See Anisopleura, Isopleura.) A certain symmetry, apart from that exhibited by an animal body as a whole, may be also predicated of the several components of any part in their respective selves: as, the symmetry of a carpus or of a tarsus whose several bones are regularly disposed on each side of its axial plane, or around a central bone. (See cuts under carpus and tarsus.)</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">In moderu crystallography crystals are not only referred to certain systems (see crystallography) according to the relative lengths and inclinations of their assumed axes, but they are also further divided into classes, or groups, according to the kind and number of symmetry elements they possess. The symmetry elements are plane symmetry, axial symmetry, and centrosymmetry. A crystal has plune symmetry, or is symmetrical with reference to a certain plaue, when every face, edge, and solid angle has a like face, edge, and solid angle similarly situated on the opposite side of this plane; or, in other words, when this plane divides the crystal into halves each of which is the mirror image of the other. A cube of galena has three like planes of symmetry parallel to and midway between each pair of opposite faces; it has also six other plants of symmetry, like among themselves, passing through each pair of opposite edges. A crystal has axial symmetry, or is symmetrical with reference to a certain line as an axis when the faces, edges, and solid angles are similarly placed about this line so that if the crystal be revolved through a certain angle about this axis all its parts again occupy the same position in space; this angle must be either one half (180), one third (120°), one fourth (90°), or one sixth (60°) of a complete revolution. If the angle is 180, or the crystal repeats itself twice in a complete revolution, it has twofold or binary symnietry and the axis is called a dyad axis; if 120°, or the crystal repeats itself three times, the symmetry is threefold or ternury and the axis is a triad axis; if 90, or the crystal repeats itself four times, the symmetry is fourfold. 'quaternury, or tetrugonal, and the axis is tetrad axis; if 60°, or the crystal repeats itself six times, the symmetry is sixfold and the axis is a hexad axis. As already implied, fivefold symmetry, corresponding to a revolution of 72° about a heptad axis, is impossible among crystals. Symmetry with reference to a dyad axis is further distinguished as digonal or di-digonal, according to whether oue pair or two pairs of like symmetry planes intersect in it. Similarly the symmetry with reference to a triad axis may be trigonal or ditrigonal, accordiug to whether one or two sets of three like symmetry planes intersect in it; tetrugonal and ditetragonal symmetry with reference to a tetrad axis, also hexagonal and dihexagonal symmetry with reference to a hexad axis, are similarly distinguished. Further, axial symmetry is sometimes distinguished (H. A. Miers) as polar, alternating, holoaxial, and equatorial. It is;polar(also called hemimorphic, or acleistous (W. J. Lewis))when there is no plane of symmetry normal to the symmetry axis. It is alternating when each pair of faces at an extremity of a crystal may be brought symmetrically above a similar pair at the other by a revolution of 60°, and yet the horizontal plane is not a symmetry plane. It is holoaxial when all the possible axes of symmetry are present but no planes of symmetry. It is equatorial if a plane of symmetry is normal to the axis of symmetry. Still further, a symmetry axis which is the only one of its kind, and one in which two or more symmetry planes intersect, is called a principal axis and a symmetry plane normal to it is a principal plane. A crystal has centrosgmmetry when its faces, edges, and solid angles are symmetrical with reference to a central point; in other words, when every point on the surface of it has a similar point at an equal distance and on the opposite side from the center; this is true of ordinary triclinic crystals, as those of axinite. Entire want of symmetry, or asymmetry, is characteristic of one class of crystals only, belonging to the triclinic system. Symmetry classes or symmetry groups Theoretical discussion has shown that all the possible types of crystals are included in thirty-two classes or groups; of these, twenty-three are represented among crystallized minerals and six more among crystallized artificial salts. As shown below, two of the symmetry groups belong to the triclinic system, three to the monoclinic system, three to the orthorhombic system, seven to the trigonal division of the hexagonal system (sometimes called the trigonal system), five to the hexagonal division (the hexagonal system proper), seven to the tetragonal system, and five to the isometric system. The thirty-two symmetry classes have been differently named by different authors. One method is to name each class after that form in it which has the general symbol (hkl), after Miller(see symbol1, 2), as the hexoctahedral class of the isometric system; another method is to name each class after some prominent mineral species belonging to it, as the galena class or galena type. That class under each system which has the highest degree of symmetry and consequently the maximum number of faces belonging to a given form is often called the holosymmetric (of normal) class (holosymmetric' here corresponds to the term ‘holohedral’ formerly in use). Each of the other classes of the system has a special grade of symmetry peculiar to itself and lower than that of the holosymmetric class, and, in consequence, it is also characterized by one or more peculiar types of crystal forms having either one half or one quarterof the faces belonging to the form having the same symbol in the holosymmetric (holohedral) class : hence these classes and the forms belonging to them were formerly called respectively hemihedrul aud tetartohedrul, or in general merohedral. These terms are now but little used. The symmetry elements characteristic of each of the thirty-two symmetry classes are discussed in modern treatises on crystallography. In the following list the usual names of the classes are given, the classes being arranged, in general, in rising order, as to symmetry. Triclinic system. 1. Pediad, or asymmetric class: example, calcium hyposulphite (no representative among minerals). 2. Pinacoidal class (also normal); ex., axinite. Monoclinic system, 3. Domatic or clinohedral (also called gonioid); ex., clinohedrite. 4. Sphenoidal or hemimorphic; ex., tartaric acid. 5. Prismatic (also called normal and plinthoid); ex., gypsum. Orthorhmbic system, 6. Bisphenoidal (also sphenoidal); ex., epsomite. 7. Pyramidal or hemimorphic (also acleistous pyramidal); ex., calamine. 8. Bipyramidal (normal); ex., barite. Hexagonal system, trigonal division (also called trigonal system). 9. Trigonal-pyramidal (acleistous trigonal, ogdohedral); ex., sodium periodate. 10. Trigonal trapezohedral (trapezohedral); ex., quartz. 11. Trigonal bipyramidal; no ex. 12. Ditrigonal-pyramidal (hemimorphic, acleistous ditrigonal); ex., tourmaline. 13. Ditrigonal bipyramidal (trigonotype); no ex. 14. Trigonal rhombohedral (rhombohedral, trirhombohedral, diplohedral trigonal); ex., dioptase. 15. Ditrigonal scalenohedral (scalenohcdral, rhombohedral); ex., calcite. Hexagonal system, hexagonal division. 16. Hexagonal pyramidal (acleistous hexagonal, pyramidal hemimorphic); ex., nephelite. 17. Hexagonal trapezohedral (trapezohedral); ex., bariura stibiotartrate and potassium nitrate. 18. Hexagonal bipyramidal (diplohedral hexagonal, pyramidal, tripyramidal); ex., apatite. 19. Dihexagonal pyramidal (acleistous dihexagonal, hemimorphic); ex., greenockite. 20. Dihexagonal bipyramidal (diplohedral dihexagonal, normal); ex., beryl. Tetragonal system. 21. Pyramidal (acleistous pyramidal, pyramidal hemimorphic); ex., wulfenite. 22. Bisphenoidal; no ex. 23. Scalenohedral (sphenoidal); ex., chalcopyrite. 24. Trapezohedral; ex., strychnine sulphate. 25. Tetragonal pyramidal (diplohedral tetragonal, pyramidal); ex., scheelite. 26. Ditetragonal, pyramidal (acleistous ditetragonal, hemimorphic); ex., iodosuccinimide. 27. Ditetragonal bipyramidal (diplohedral ditetragonal, normal); ex., zircon. Isometric system, 28. Tetrahedral pentagonal dodecahedral (tetrahedral tetartohedral); ex., ullmannite. 29. Pentagonal iscositetrahedral (plagihedral); ex.,cuprite. 30. Diploidal (dyakisdodecahedral, pyritohcdral); ex.,pyrite. 31. Hexakistetrahedral (tetrahedral); ex., tetrahedrite 32. Hexoctohedral (normal); ex., galena.</span> </li><li><span class="tSpeech">n</span> <span class="term">symmetry</span> <span class="exp">In Radial series, the Major Symmetry is built up by radial divisions of the first kind, producing segments whose adjacent parts are homologous, and related to each other as images.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Symmetry</span> <span class="exp"><span class="itl">sim′e-tri</span> the state of one part being of the same measure with or proportionate to another: due proportion: harmony or adaptation of parts to each other</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Camille Paglia</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Camille%20Paglia.jpg" alt="Camille%20Paglia">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Beauty is our weapon against nature; by it we make objects, giving them limit, symmetry, proportion. Beauty halts and freezes the melting flux of nature.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Lamb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Lamb.jpg" alt="Charles%20Lamb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Borrowers of books --those mutilators of collections, spoilers of the symmetry of shelves, and creators of odd volumes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Derek Walcott</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Derek Walcott">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Break a vase, and the love that reassembles the fragments is stronger than that love which took its symmetry for granted when it was whole.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">symmetria</span>, Gr. ; <span class="wUgrk">sy`n</span> with, together +  a measure: cf. F. <span class="wUets">symétrie</span>,. See <span class="wUer">Syn-</span>, and <span class="wUer">Meter</span> rhythm
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. and Gr. <i>symmetria</i>—<i>syn</i>, together, <i>metron</i>, a measure.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It is a kind of symmetry well suited for sedentary or for drifting life.
+					</div>
+					<div class="uAuthor">
+						"The Outline of Science, Vol. 1 (of 4)" by <span>J. Arthur Thomson</span>					</div>
+										<div class="usage">
+						When I speak of symmetry, I mean the symmetry of a seaman.
+					</div>
+					<div class="uAuthor">
+						"The Two Admirals" by <span>J. Fenimore Cooper</span>					</div>
+										<div class="usage">
+						How coyly does she dispose her garments and floating drapery to hide the too-maddening symmetry of her limbs!
+					</div>
+					<div class="uAuthor">
+						"The Bon Gaultier Ballads" by <span>William Edmonstoune Aytoun
+        Theodore Martin</span>					</div>
+										<div class="usage">
+						She maintained that it destroyed the symmetry of the peel, and I dare say she was right.
+					</div>
+					<div class="uAuthor">
+						"The Romance of an Old Fool" by <span>Roswell Field</span>					</div>
+										<div class="usage">
+						The symmetry for the separate ages was hardly less marked, considering that only 80 to 120 children were tested at each age.
+					</div>
+					<div class="uAuthor">
+						"The Measurement of Intelligence" by <span>Lewis Madison Terman</span>					</div>
+										<div class="usage">
+						The rooms seem to have been clustered together with very little regard to symmetry, and right angles are very unusual.
+					</div>
+					<div class="uAuthor">
+						"Eighth Annual Report" by <span>Various</span>					</div>
+										<div class="usage">
+						Thus, the Doll-lady of distinction had wax limbs of perfect symmetry; but only she and her compeers.
+					</div>
+					<div class="uAuthor">
+						"The Cricket on the Hearth" by <span>Charles Dickens</span>					</div>
+										<div class="usage">
+						To build up and evolve the various symmetries here spoken of is not one whit more mysterious.
+					</div>
+					<div class="uAuthor">
+						"On the Genesis of Species" by <span>St. George Mivart</span>					</div>
+										<div class="usage">
+						These have been investigated, and found subject to certain laws, which link into the chain of symmetry that philosophers have already grasped.
+					</div>
+					<div class="uAuthor">
+						"The Continental Monthly , Vol. 2 No. 5, November 1862" by <span>Various</span>					</div>
+										<div class="usage">
+						The ancients, indeed, excel us in the sense for form and symmetry.
+					</div>
+					<div class="uAuthor">
+						"Education and the Higher Life" by <span>J. L. Spalding</span>					</div>
+										<div class="usage">
+						Not merely symmetry, observe, but extreme flatness.
+					</div>
+					<div class="uAuthor">
+						"Love's Meinie" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						In his works, symmetry became more chaste, design more pleasing, and coloring softer than before.
+					</div>
+					<div class="uAuthor">
+						"Anecdotes of Painters, Engravers, Sculptors and Architects, and Curiosities of Art, (Vol. 2 of 3)" by <span>Shearjashub Spooner</span>					</div>
+										<div class="usage">
+						It is a wretched-looking place; and the houses, small, dirty, and ruinous, were scattered without any order or symmetry in all directions.
+					</div>
+					<div class="uAuthor">
+						"Mark Seaworth" by <span>William H.G. Kingston</span>					</div>
+										<div class="usage">
+						Suddenly she, too, righted; up rose the masts, in all their height and symmetry it seemed.
+					</div>
+					<div class="uAuthor">
+						"True Blue" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						The chief was a tall, fine fellow, and with beautiful symmetry of figure.
+					</div>
+					<div class="uAuthor">
+						"Travels and Adventures of Monsieur Violet" by <span>Captain Marryat</span>					</div>
+										<div class="usage">
+						In height he was full six feet, and his proportions combined strength with symmetry.
+					</div>
+					<div class="uAuthor">
+						"The Poacher" by <span>Frederick Marryat</span>					</div>
+										<div class="usage">
+						The symmetry of the human physical form was his study.
+					</div>
+					<div class="uAuthor">
+						"Usury" by <span>Calvin Elliott</span>					</div>
+										<div class="usage">
+						Sickness had long wasted his form, which at no time could boast of faultless symmetry.
+					</div>
+					<div class="uAuthor">
+						"The Life of Friedrich Schiller" by <span>Thomas Carlyle</span>					</div>
+										<div class="usage">
+						Her limbs were perfect in symmetry.
+					</div>
+					<div class="uAuthor">
+						"The Shirley Letters from California Mines in 1851-52" by <span>Louise Amelia Knapp Smith Clappe</span>					</div>
+										<div class="usage">
+						The elements and proportions and symmetry fit almost perfectly into the ideal mold.
+					</div>
+					<div class="uAuthor">
+						"Unwise Child" by <span>Gordon Randall Garrett</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"I keep the rhythmic measure<br>
+That marks the steps of time,<br>
+And all my toil is fashioned<br>
+To symmetry and rhyme.
+							<div class="poet">"Earth Voices" by <span>Bliss William Carman</span></div>
+						</div>
+											<div class="poemQuote">
+							The fair ideals that outran<br>
+My halting footsteps seek and find--<br>
+The flawless symmetry of man,<br>
+The poise of heart and mind.
+							<div class="poet">"A Name" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							Towers, temples, domes of perfect symmetry<br>
+Rise broad and high,<br>
+With pinnacles among the clouds; ah, me!<br>
+None touch the sky.
+							<div class="poet">"Youth And Manhood" by <span>Henry Timrod</span></div>
+						</div>
+											<div class="poemQuote">
+							But what of the chisel? Up, more than snare<br>
+With the sweet blue pleasure of eyes divine:<br>
+Be the marbles of symmetry thine,<br>
+Set in elysian air.
+							<div class="poet">"The Young Physician" by <span>Thomas Aird</span></div>
+						</div>
+											<div class="poemQuote">
+							But while this pining, pouting Muse<br>
+The interval ignores,<br>
+Deft industry, no time to lose,<br>
+Contrives and carries, hoists and hews,<br>
+And symmetry restores.
+							<div class="poet">"Improvement." by <span>Hattie Howard</span></div>
+						</div>
+											<div class="poemQuote">
+							How shall I link such sun-cast symmetry<br>
+With the torn troubled form I know as thine,<br>
+That profile, placid as a brow divine,<br>
+With continents of moil and misery?
+							<div class="poet">"At A Lunar Eclipse." by <span>Thomas Hardy</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						From its very first sentence, "Her Fearful Symmetry " is a gripping and haunting book and an intelligent, spooky good read.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.independentmail.com/news/2012/oct/28/on-books-her-fearful-symmetry/" target="_blank" rel="external nofollow">independentmail.com</a>
+					</div>
+										<div class="usage">
+						With Swisher and Cano, It's Trust and Symmetry .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/09/27/sports/baseball/trust-and-symmetry-for-swisher-and-cano.html?ref=newyorkyankees" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						How Lakers lost ' symmetry '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ocregister.com/articles/jackson-359641-lakers-game.html" target="_blank" rel="external nofollow">ocregister.com</a>
+					</div>
+										<div class="usage">
+						 Symmetry Surgical Completes Distribution Agreement With Device Technologies to Drive Expansion in Australia and New Zealand.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mdtmag.com/news/2012/05/symmetry-surgical-completes-distribution-agreement-device-technologies-drive-expansion-australia-and-new-zealand" target="_blank" rel="external nofollow">mdtmag.com</a>
+					</div>
+										<div class="usage">
+						I haven't explored the extraordinary hand-crafts gallery, Symmetry , on Broadway in Saratoga before.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.timesunion.com/homedecor/contemporary-glass-accents-from-symmetry-gallery/4463/" target="_blank" rel="external nofollow">blog.timesunion.com</a>
+					</div>
+										<div class="usage">
+						Muse Closes Reading Festival With 'Origin of Symmetry '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/news/muse-closes-reading-festival-origin-228695" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						AMAG Technology introduces Symmetry Intrusion Management module.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.securityinfowatch.com/press_release/10481104/amag-technology-introduces-symmetry-intrusion-management-module" target="_blank" rel="external nofollow">securityinfowatch.com</a>
+					</div>
+										<div class="usage">
+						Radiolab's " Symmetry " is a beautiful mix of art and poetry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-504784_162-20055344-10391705.html" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Radiolab finds beauty in symmetry .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.scpr.org/blogs/brand-new-day-madeleine-brand/2011/04/19/2878/finding-beauty-symmetry/" target="_blank" rel="external nofollow">scpr.org</a>
+					</div>
+										<div class="usage">
+						REVIEWS Keane, 'Perfect Symmetry .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.spin.com/reviews/keane-perfect-symmetry-interscope" target="_blank" rel="external nofollow">spin.com</a>
+					</div>
+										<div class="usage">
+						In a recent series of papers, we have studied methods to break value symmetries .
+					</div>
+					<div class="uAuthor">
+						<a href="http://aaai.org/Library/AAAI/2008/aaai08-268.php" target="_blank" rel="external nofollow">aaai.org</a>
+					</div>
+										<div class="usage">
+						Our results identify computational limits on eliminating value symmetry .
+					</div>
+					<div class="uAuthor">
+						<a href="http://aaai.org/Library/AAAI/2008/aaai08-268.php" target="_blank" rel="external nofollow">aaai.org</a>
+					</div>
+										<div class="usage">
+						Could frame thy fearful symmetry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/sports/golf/20091201_Bill_Conlin__In_this_forest_of_the_night__one_swell_foop_of_titillation.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						Washington, DC, has a profound symmetry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/national/archive/2011/11/arlington-national-cemetery-photos-of-the-american-valhalla/248320/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						The Art of Contrasts, as Small Strokes Unravel a Fierce, Complex Symmetry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/01/31/arts/dance/miami-city-ballet-performs-liam-scarletts-viscera.html?_r=1" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The time reversal symmetry and space reﬂection symmetry are not gauge symmetries. 
+					</div>
+					<div class="uAuthor">
+						Gauge Theory of Gravity
+					</div>
+										<div class="usage">
+						For hermitian hamiltonians, since H T = H ∗ , C and K symmetries are identical and we will only talk about C symmetry, where ǫc = +1 will be interpreted as time-reversal symmetry and ǫc = −1 will be referred to as particle-hole symmetry. 
+					</div>
+					<div class="uAuthor">
+						A Classification of random Dirac fermions
+					</div>
+										<div class="usage">
+						The groups generated either by a type Q and a type K , or by a type C and a type K symmetries are included in this list because the symmetries of type C , Q or K are linked by the fact the product of two of them produces a symmetry of the third type. 
+					</div>
+					<div class="uAuthor">
+						A Classification of Non-Hermitian Random Matrices
+					</div>
+										<div class="usage">
+						These classes have both chiral symmetry and particle-hole symmetry, with the matrices inforcing these symmetries commuting. 
+					</div>
+					<div class="uAuthor">
+						2d random Dirac fermions: large N approach
+					</div>
+										<div class="usage">
+						In the next section we introduce a simple lattice model which exhibits an exact fermionic symmetry and show that this symmetry is actually a BRST symmetry following from ﬁxing a local topological symmetry. 
+					</div>
+					<div class="uAuthor">
+						Lattice Supersymmetry and Topological Field Theory
+					</div>
+										<div class="usage">
+						Typically the nilpotent symmetry δ is realized as a BRST symmetry arising from gauge ﬁxing some underlying local shift symmetry. 
+					</div>
+					<div class="uAuthor">
+						Lattice Supersymmetry and Topological Field Theory
+					</div>
+										<div class="usage">
+						SUSY QM actually has 2 topological symmetries in the continuum which correspond to the ﬂip ψ → ψ – the original BRST symmetry (now called δ1 ) and a second BRST symmetry δ2 . 
+					</div>
+					<div class="uAuthor">
+						Exact Lattice Supersymmetry from Topological Field Theory
+					</div>
+										<div class="usage">
+						The discrete Z2 ﬂip symmetry is therefore replaced by a U (1) symmetry; the set of upper diagonal coeﬃcients of the matrix V are therefore split into O(N 3/2 ) orbits under this symmetry, each orbit containing roughly √N coeﬃcients. 
+					</div>
+					<div class="uAuthor">
+						Random Matrices and the Anderson Model
+					</div>
+										<div class="usage">
+						It is easy to see that the symmetry is U (1)+ × U (1)− where U (1)+ is a local gauge symmetry, while U (1)− is a global symmetry. 
+					</div>
+					<div class="uAuthor">
+						Mutual Composite Fermion and composite Boson approaches to balanced and imbalanced bilayer quantum Hall system: an electronic analogy of the Helium 4 system
+					</div>
+										<div class="usage">
+						For continuous symmetries U = exp[M y ] where the SS phase M is taken in the compact Cartan subalgebra of the global symmetry group of the D dimensional symmetry. 
+					</div>
+					<div class="uAuthor">
+						Generalized dimensional reduction of supergravity with eight supercharges
+					</div>
+										<div class="usage">
+						In particular, the chiral symmetry, the ﬂavor symmetry and the anti-unitary symmetry of the continuum Dirac operator are discussed. 
+					</div>
+					<div class="uAuthor">
+						QCD, Chiral Random Matrix Theory and Integrability
+					</div>
+										<div class="usage">
+						Flavor Symmetry. A second important global symmetry is the ﬂavor symmetry. 
+					</div>
+					<div class="uAuthor">
+						QCD, Chiral Random Matrix Theory and Integrability
+					</div>
+										<div class="usage">
+						It is interesting that a relatively simple form of symmetry breaking can reduce this big symmetry group (with 36 generators) to conformal symmetry (15 generators) multiplied by U (1) group of duality transformations. 
+					</div>
+					<div class="uAuthor">
+						Algebraic Approach to the Duality Symmetry
+					</div>
+										<div class="usage">
+						Only on the m = 0 axis, where the chiral symmetry really is a symmetry, is this a genuine symmetry breaking transition. 
+					</div>
+					<div class="uAuthor">
+						Chiral Transition of N=4 Super Yang-Mills with Flavor on a 3-Sphere
+					</div>
+										<div class="usage">
+						In what sense is this chiral condensate an order parameter, however? That is, what are the symmetries of our theory and what symmetry breaking does this order parameter detect? N = 4 SYM has an SU (4) ≃ SO(6) R-symmetry. 
+					</div>
+					<div class="uAuthor">
+						Chiral Transition of N=4 Super Yang-Mills with Flavor on a 3-Sphere
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="(mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane"><a href="symmetricalness.html">symmetricalness</a>, <a href="correspondence.html">correspondence</a>, <a href="balance.html">balance</a>, </div><div class="synGroup" title="balance among the parts of something"><a href="proportion.html">proportion</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="anisotropy.html">anisotropy</a>, <a href="asymmetry.html">asymmetry</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="balance.html">balance</a>, <a href="counterbalance.html">counterbalance</a>, <a href="equilibrium.html">equilibrium</a>, <a href="equipoise.html">equipoise</a>, <a href="property.html">property</a>, <a href="spatial%20property.html">spatial property</a>, <a href="spatiality.html">spatiality</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bilateral%20symmetry.html">bilateral symmetry</a>, <a href="bilateralism.html">bilateralism</a>, <a href="bilaterality.html">bilaterality</a>, <a href="geometrical%20regularity.html">geometrical regularity</a>, <a href="radial%20symmetry.html">radial symmetry</a>, <a href="regularity.html">regularity</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="isotropic.html">isotropic</a>, <a href="isotropous.html">isotropous</a>, <a href="symmetric.html">symmetric</a>, <a href="symmetrise.html">symmetrise</a>, <a href="symmetrize.html">symmetrize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="accompaniment.html">accompaniment</a>, <a href="Actinia.html">Actinia</a>, <a href="Amphineura.html">Amphineura</a>, <a href="Anacanthini.html">Anacanthini</a>, <a href="Antimere.html">Antimere</a>, <a href="asymmetric.html">asymmetric</a>, <a href="asymmetrical.html">asymmetrical</a>, <a href="asymmetrically.html">asymmetrically</a>, <a href="asymmetry.html">asymmetry</a>, <a href="beautiful.html">beautiful</a>, <a href="bilateral.html">bilateral</a>, <a href="bilateralism.html">bilateralism</a>, <a href="biradial.html">biradial</a>, <a href="button.html">button</a>, <a href="buttress.html">buttress</a>, <a href="Callisthenic.html">Callisthenic</a>, <a href="class.html">class</a>, <a href="crystal.html">crystal</a>, <a href="crystallography.html">crystallography</a>, <a href="deformed.html">deformed</a>, <a href="deformity.html">deformity</a>, <a href="demoiselle.html">demoiselle</a>, <a href="Detortion.html">Detortion</a>, <a href="Diclinic.html">Diclinic</a>, <a href="Dihexagonal.html">Dihexagonal</a>, <a href="disfigure.html">disfigure</a>, <a href="disproportion.html">disproportion</a>, <a href="disproportional.html">disproportional</a>, <a href="Dissymmetric.html">Dissymmetric</a>, <a href="Dissymmetrical.html">Dissymmetrical</a>, <a href="dissymmetry.html">dissymmetry</a>, <a href="Ditetragonal.html">Ditetragonal</a>, <a href="dyad.html">dyad</a>, <a href="Elasipoda.html">Elasipoda</a>, <a href="elegance.html">elegance</a>, <a href="elegant.html">elegant</a>, <a href="elegantly.html">elegantly</a>, <a href="False%20door.html">False door</a>, <a href="False%20window.html">False window</a>, <a href="form.html">form</a>, <a href="frog.html">frog</a>, <a href="group.html">group</a>, <a href="handsome.html">handsome</a>, <a href="harmony.html">harmony</a>, <a href="Hemihedral.html">Hemihedral</a>, <a href="Hemihedrism.html">Hemihedrism</a>, <a href="Heterosomata.html">Heterosomata</a>, <a href="Holohedral.html">Holohedral</a>, <a href="Holomorphic.html">Holomorphic</a>, <a href="Homaxonial.html">Homaxonial</a>, <a href="Homocercy.html">Homocercy</a>, <a href="Homotypy.html">Homotypy</a>, <a href="imbalance.html">imbalance</a>, <a href="incongruity.html">incongruity</a>, <a href="interrupted.html">interrupted</a>, <a href="irregular.html">irregular</a>, <a href="kaleidoscope.html">kaleidoscope</a>, <a href="kite.html">kite</a>, <a href="mangle.html">mangle</a>, <a href="Mes-.html">Mes-</a>, <a href="Meso-.html">Meso-</a>, <a href="mesotartaric.html">mesotartaric</a>, <a href="Metamerism.html">Metamerism</a>, <a href="mimetic.html">mimetic</a>, <a href="mimic.html">mimic</a>, <a href="Mimical.html">Mimical</a>, <a href="Monosymmetric.html">Monosymmetric</a>, <a href="mule.html">mule</a>, <a href="Paris.html">Paris</a>, <a href="parity.html">parity</a>, <a href="Peloria.html">Peloria</a>, <a href="Pilocarpus.html">Pilocarpus</a>, <a href="Polyplacophora.html">Polyplacophora</a>, <a href="proportion.html">proportion</a>, <a href="Proportionless.html">Proportionless</a>, <a href="Prostomium.html">Prostomium</a>, <a href="Pseudo-symmetric.html">Pseudo-symmetric</a>, <a href="Pseudo-symmetry.html">Pseudo-symmetry</a>, <a href="Quaternary.html">Quaternary</a>, <a href="radial%20asymmetry.html">radial asymmetry</a>, <a href="radial%20symmetry.html">radial symmetry</a>, <a href="Radiality.html">Radiality</a>, <a href="register.html">register</a>, <a href="regular.html">regular</a>, <a href="rhombohedral.html">rhombohedral</a>, <a href="rhythm.html">rhythm</a>, <a href="Serial%20symmetry.html">Serial symmetry</a>, <a href="shapeless.html">shapeless</a>, <a href="skew.html">skew</a>, <a href="skewness.html">skewness</a>, <a href="skull.html">skull</a>, <a href="Spatangoida.html">Spatangoida</a>, <a href="spectrophotometer.html">spectrophotometer</a>, <a href="statuesque.html">statuesque</a>, <a href="substantive.html">substantive</a>, <a href="Symmetral.html">Symmetral</a>, <a href="Symmetrian.html">Symmetrian</a>, <a href="symmetric.html">symmetric</a>, <a href="symmetrical.html">symmetrical</a>, <a href="symmetrically.html">symmetrically</a>, <a href="Symmetrician.html">Symmetrician</a>, <a href="Symmetrist.html">Symmetrist</a>, <a href="symmetrize.html">symmetrize</a>, <a href="Symmetrophobia.html">Symmetrophobia</a>, <a href="tarsus.html">tarsus</a>, <a href="taste.html">taste</a>, <a href="Tetartohedral.html">Tetartohedral</a>, <a href="Tetartohedrism.html">Tetartohedrism</a>, <a href="toad.html">toad</a>, <a href="trigonal.html">trigonal</a>, <a href="twin.html">twin</a>, <a href="unity.html">unity</a>, <a href="unsymmetric.html">unsymmetric</a>, <a href="unsymmetrical.html">unsymmetrical</a>, <a href="Unsymmetry.html">Unsymmetry</a>, <a href="well-set.html">well-set</a>, <a href="zonal.html">zonal</a>, <a href="Zonal%20symmetry.html">Zonal symmetry</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					aymmetry, wymmetry, dymmetry, xymmetry, zymmetry, aymmetry, stmmetry, sgmmetry, shmmetry, summetry, synmetry, syjmetry, sykmetry, symnetry, symjetry, symketry, symmwtry, symmstry, symmdtry, symmrtry, symmerry, symmefry, symmegry, symmeyry, symmetey, symmetdy, symmetfy, symmetty, symmetrt, symmetrg, symmetrh, symmetru
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

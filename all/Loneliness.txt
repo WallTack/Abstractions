@@ -1,0 +1,434 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>loneliness</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">loneliness</span> <span class="exp">a disposition toward being alone</span> </li><li><span class="tSpeech">n</span> <span class="term">loneliness</span> <span class="exp">sadness resulting from being forsaken or abandoned</span> </li><li><span class="tSpeech">n</span> <span class="term">loneliness</span> <span class="exp">the state of being alone in solitary isolation</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Loneliness</span> <span class="exp">A feeling of depression resulting from being alone.</span> </li><li><span class="term">Loneliness</span> <span class="exp">Love of retirement; disposition to solitude.</span> <span class="wuQuot">"I see<br>
+The mystery of your loneliness ."</span></li><li><span class="term">Loneliness</span> <span class="exp">The condition of being lonely; solitude; seclusion.</span> </li><li><span class="term">Loneliness</span> <span class="exp">The state of being unfrequented by human beings; as, the <span class="wUex">loneliness</span> of a road.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">loneliness</span> <span class="exp">The condition of being lonely; solitariness; want of society or human interest: as, the loneliness of a hermit's cave.</span> </li><li><span class="tSpeech">n</span> <span class="term">loneliness</span> <span class="exp">The sense of being alone or lonely; dejection from want of companionship or sympathy; forlornness.</span> </li><li><span class="tSpeech">n</span> <span class="term">loneliness</span> <span class="exp">Love of retirement; preference for solitude.</span> </li><li><span class="tSpeech">n</span> <span class="term">loneliness</span> <span class="exp">Synonyms Lonesomeness, Retirement, etc. See solitude.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Amos Bronson Alcott</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Amos%20Bronson%20Alcott.jpg" alt="Amos%20Bronson%20Alcott">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The surest sign of age is loneliness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">H. Wheeler Robinson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="H. Wheeler Robinson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The penalty of leadership is loneliness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Georges Bernanos</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Georges%20Bernanos.jpg" alt="Georges%20Bernanos">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No one ever discovers the depths of his own loneliness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Kissinger</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Kissinger.jpg" alt="Henry%20Kissinger">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The essence of this man [Richard M. Nixon] is loneliness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Irish Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Irish Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Strife is better than loneliness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jewish Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jewish Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Loneliness breaks the spirit.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						And then I suppose it was the setting, and her loneliness, and everything.
+					</div>
+					<div class="uAuthor">
+						"The Best Short Stories of 1915" by <span>Various</span>					</div>
+										<div class="usage">
+						With a sickening wave of loneliness she realised that she was motherless and alone!
+					</div>
+					<div class="uAuthor">
+						"The Independence of Claire" by <span>Mrs. George de Horne Vaizey</span>					</div>
+										<div class="usage">
+						Many a night have I slept alone under the stars with no one to guard, and felt the loneliness.
+					</div>
+					<div class="uAuthor">
+						"The Man of the Desert" by <span>Grace Livingston Hill</span>					</div>
+										<div class="usage">
+						Every one had gone below, I thought, and the loneliness pleased me.
+					</div>
+					<div class="uAuthor">
+						"The Trail of '98" by <span>Robert W. Service</span>					</div>
+										<div class="usage">
+						The stagnant loneliness, the perpetual drudgery, had not yet conquered his wife's beauty, dark and desirable.
+					</div>
+					<div class="uAuthor">
+						"The Best Short Stories of 1920" by <span>Various</span>					</div>
+										<div class="usage">
+						My loneliness was more terrible to me than any other condition of my situation.
+					</div>
+					<div class="uAuthor">
+						"The Frozen Pirate" by <span>W. Clark Russell</span>					</div>
+										<div class="usage">
+						Realizing that their lives would drift apart, Esther felt a sense of loneliness.
+					</div>
+					<div class="uAuthor">
+						"Oswald Langdon" by <span>Carson Jay Lee</span>					</div>
+										<div class="usage">
+						Loneliness was broken at last.
+					</div>
+					<div class="uAuthor">
+						"Despair's Last Journey" by <span>David Christie Murray</span>					</div>
+										<div class="usage">
+						Away to west and east were low grim hills, with a sense of unending space and loneliness upon them.
+					</div>
+					<div class="uAuthor">
+						"Nicanor - Teller of Tales" by <span>C. Bryson Taylor</span>					</div>
+										<div class="usage">
+						Lonely as their lives were, it was not a sordid loneliness.
+					</div>
+					<div class="uAuthor">
+						"A Daughter of the Middle Border" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						Loneliness caressed her heart and drew dim fingers across her thought.
+					</div>
+					<div class="uAuthor">
+						"Erik Dorn" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						Nevertheless they bore their part uncomplainingly through deadly loneliness or tragic danger.
+					</div>
+					<div class="uAuthor">
+						"Janet of the Dunes" by <span>Harriet T. Comstock</span>					</div>
+										<div class="usage">
+						It was a very humble home, but very pleasant in its loneliness, Janet thought, as her eye fell on it.
+					</div>
+					<div class="uAuthor">
+						"Janet's Love and Service" by <span>Margaret M Robertson</span>					</div>
+										<div class="usage">
+						Maurice's, expansive, insinuating and brilliant, called to his loneliness arbitrarily, persistently.
+					</div>
+					<div class="uAuthor">
+						"The Best Short Stories of 1919" by <span>Various</span>					</div>
+										<div class="usage">
+						She had not known what loneliness was before, but now she felt it through all her body, like a great pain.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old Quebec" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						He forgot the ten black years of loneliness and struggle.
+					</div>
+					<div class="uAuthor">
+						"The Root of Evil" by <span>Thomas Dixon</span>					</div>
+										<div class="usage">
+						They (the fish) have become a prey and there shall be no loneliness.
+					</div>
+					<div class="uAuthor">
+						"The Sacred Formulas of the Cherokees" by <span>James Mooney</span>					</div>
+										<div class="usage">
+						Don't think that I'm trying to take any advantage of your loneliness and sorrow.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1905 to 1906" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						Is she a dream or a mere illusion born of loneliness and starvation, physical and mental?
+					</div>
+					<div class="uAuthor">
+						"The Dop Doctor" by <span>Clotilde Inez Mary Graves</span>					</div>
+										<div class="usage">
+						Its loneliness lessened the element of danger.
+					</div>
+					<div class="uAuthor">
+						"Heart of the Blue Ridge" by <span>Waldron Baily</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Thus much I heard,—and unawares,<br>
+The sense of pity stole away<br>
+My loneliness and misery,—<br>
+When lo, a light step on the stairs!—
+							<div class="poet">"The Watch-Light" by <span>Kate Seymour Maclean</span></div>
+						</div>
+											<div class="poemQuote">
+							Is there a mourner dear to Thee, whom we<br>
+Have left uncomforted?<br>
+Yet still through lonelier loneliness, the heart<br>
+Bereft of Thee, is led.
+							<div class="poet">"Hymn" by <span>Elizabeth Stuart Phelps Ward</span></div>
+						</div>
+											<div class="poemQuote">
+							The Sea<br>
+Yet do I sometimes seem to hear afar<br>
+A tumult in your dark ravines as though<br>
+You weary of your loneliness, and are<br>
+Wrestling with woe.
+							<div class="poet">""What ails you, Ocean, that nor near nor far"" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							"There is no loneliness, and nevermore<br>
+The shadow-haunted night,<br>
+When we pass out beyond Life's swinging door<br>
+The road," he said, "is bright."
+							<div class="poet">"The Angel" by <span>Virna Sheard</span></div>
+						</div>
+											<div class="poemQuote">
+							It is the loneliness, the loneliness,<br>
+Since she that brought me here has left me here<br>
+With the sharp need of her to press<br>
+Sudden upon the nerve of fear;
+							<div class="poet">"The Thorn" by <span>John Freeman</span></div>
+						</div>
+											<div class="poemQuote">
+							Love will ride with him my heart to bless--<br>
+Joy will out-step him across the floor--<br>
+What matters the great white loneliness<br>
+When we bar the cabin door?
+							<div class="poet">"Prarie" by <span>Virna Sheard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Failure to do so can only add to the loneliness and isolation facing many members of the LGBT community and may be used to justify bullying and homophobic hate-crimes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.belfasttelegraph.co.uk/opinion/letters/labour-will-stand-up-against-homophobia-16195624.html" target="_blank" rel="external nofollow">belfasttelegraph.co.uk</a>
+					</div>
+										<div class="usage">
+						Singer Petula Clark once raved about downtown as the place that took away loneliness and worries and made everyone happy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kjct8.com/news/Downtown-living-in-vogue-census-says/-/163152/16768004/-/xrhymgz/-/index.html" target="_blank" rel="external nofollow">kjct8.com</a>
+					</div>
+										<div class="usage">
+						Social Interaction Study Highlights Loneliness and Isolation as Heath Risks for Elders.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/bernardkrooks/2012/08/23/social-interaction-study-highlights-loneliness-and-isolation-as-heath-risks-for-elders/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						It could be that feelings of loneliness are a reaction to diminished thinking skills.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/health/2012/12/12/loneliness-linked-with-dementia-risk/" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Meditation reduces loneliness among elderly.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.denverpost.com/coloradosunday/ci_21510340/drs-oz-and-roizen-keeping-elderly-active-avoiding" target="_blank" rel="external nofollow">denverpost.com</a>
+					</div>
+										<div class="usage">
+						Many people say they feel lonelier in a bad marriage than they do being single -- and people can certainly live alone but still have a large network of friends and family.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2012/12/12/health/loneliness-dementia/index.html?hpt=hp_bn12" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Fighting Loneliness in Small Steps.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychologytoday.com/blog/the-friendship-doctor/201210/fighting-loneliness-in-small-steps" target="_blank" rel="external nofollow">psychologytoday.com</a>
+					</div>
+										<div class="usage">
+						 Loneliness a health risk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.amarillo.com/blog-post/keith-wommack/2012-10-01/loneliness-health-risk" target="_blank" rel="external nofollow">amarillo.com</a>
+					</div>
+										<div class="usage">
+						Abuse survivor faces fear and loneliness .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mercurynews.com/ask-amy/ci_21591039/ask-amy-abuse-survivor-faces-fear-and-loneliness" target="_blank" rel="external nofollow">mercurynews.com</a>
+					</div>
+										<div class="usage">
+						Saturday Diary / The thin line between loneliness and independence.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/stories/opinion/perspectives/saturday-diary-the-thin-line-between-loneliness-and-independence-655392" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						 Loneliness of autumn trout fishing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nvdaily.com/sports/2012/09/almy_sept_24_column-print.html" target="_blank" rel="external nofollow">nvdaily.com</a>
+					</div>
+										<div class="usage">
+						 Loneliness in Two Languages.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10000872396390444812704577607914057011488.html?mod=WSJ_topics_obama" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						The Loneliness of the Long-Distance Swimmer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theday.com/article/20120818/INTERACT010102/120819729" target="_blank" rel="external nofollow">theday.com</a>
+					</div>
+										<div class="usage">
+						A new study finds that mindfulness meditation can help older adults battle feelings of loneliness while also boosting health.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nydailynews.com/life-style/health/mindfulness-meditation-found-combat-loneliness-article-1.1125770" target="_blank" rel="external nofollow">nydailynews.com</a>
+					</div>
+										<div class="usage">
+						The study, published in the journal Brain, Behavior &amp; Immunity, shows that eight weeks of training in mindfulness meditation (a total of 2.5 hours a week) is linked with decreased loneliness .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nydailynews.com/life-style/health/mindfulness-meditation-found-combat-loneliness-article-1.1125770" target="_blank" rel="external nofollow">nydailynews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						No cryptography student should miss reading a book that contains a passage like this: “XP also encourages human contact among the team, reducing the loneliness that is often at the heart of job dissatisfaction.”[5 ]. 
+					</div>
+					<div class="uAuthor">
+						Learning by Test-infecting Symmetric Ciphers
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a disposition toward being alone"><a href="lonesomeness.html">lonesomeness</a>, <a href="solitariness.html">solitariness</a>, </div><div class="synGroup" title="sadness resulting from being forsaken or abandoned"><a href="desolation.html">desolation</a>, </div><div class="synGroup" title="the state of being alone in solitary isolation"><a href="solitariness.html">solitariness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="disposition.html">disposition</a>, <a href="isolation.html">isolation</a>, <a href="sadness.html">sadness</a>, <a href="temperament.html">temperament</a>, <a href="unhappiness.html">unhappiness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="friendlessness.html">friendlessness</a>, <a href="reclusiveness.html">reclusiveness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="alone.html">alone</a>, <a href="lonely.html">lonely</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="desolately.html">desolately</a>, <a href="disconsolately.html">disconsolately</a>, <a href="Elengeness.html">Elengeness</a>, <a href="isolation.html">isolation</a>, <a href="lonesome.html">lonesome</a>, <a href="lonesomeness.html">lonesomeness</a>, <a href="retirement.html">retirement</a>, <a href="seclusion.html">seclusion</a>, <a href="solitary.html">solitary</a>, <a href="solitude.html">solitude</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					koneliness, ooneliness, poneliness, lineliness, lkneliness, llneliness, lpneliness, lobeliness, loheliness, lojeliness, lomeliness, lonwliness, lonsliness, londliness, lonrliness, lonekiness, loneoiness, lonepiness, loneluness, loneljness, lonelkness, loneloness, lonelibess, lonelihess, lonelijess, lonelimess, lonelinwss, lonelinsss, lonelindss, lonelinrss, lonelineas, lonelinews, lonelineds, lonelinexs, lonelinezs, lonelineas, lonelinesa, lonelinesw, lonelinesd, lonelinesx, lonelinesz, lonelinesa
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,495 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>legacy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">legacy</span> <span class="exp">(law) a gift of personal property by will</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Legacy</span> <span class="exp">A business with which one is intrusted by another; a commission; -- obsolete, except in the phrases <span class="wUex">last legacy</span>
+            <span class="wUex">dying legacy</span>, and the like.</span> <span class="wuQuot">"My legacy and message wherefore I am sent into the world."</span><span class="wuQuot">"He came and told his legacy ."</span></li><li><span class="term">Legacy</span> <span class="exp">A gift of property by will, esp. of money or personal property; a bequest. Also Fig.; as, a <span class="wUex">legacy</span> of dishonor or disease.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">legacy</span> <span class="exp">Money or other property left by will; a bequest; specifically, a gift of personalty by will as distinguished from a devise or gift of realty.</span> </li><li><span class="tSpeech">n</span> <span class="term">legacy</span> <span class="exp">Anything bequeathed or handed down by an ancestor or a predecessor.</span> </li><li><span class="tSpeech">n</span> <span class="term">legacy</span> <span class="exp">A business which one has received from another to execute; a commission; an errand.</span> </li><li><span class="tSpeech">n</span> <span class="term">legacy</span> <span class="exp">Legation; embassy.</span> </li><li><span class="term">legacy</span> <span class="exp">To bequeath; assign as a legacy.</span> </li><li><span class="term">legacy</span> <span class="exp">To leave a legacy to.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Legacy</span> <span class="exp"><span class="itl">leg′a-si</span> that which is left to one by will: a bequest of personal property</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Desiderius Erasmus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Desiderius%20Erasmus.jpg" alt="Desiderius%20Erasmus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What is popularly called fame is nothing but an empty name and a legacy from paganism.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Benjamin Disraeli</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Benjamin%20Disraeli.jpg" alt="Benjamin%20Disraeli">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The legacy of heroes is the memory of a great name and the inheritance of a great example.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Scott</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Thomas Scott">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A man cannot leave a better legacy to the world than a well-educated family.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No legacy is so rich as honestly.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. (assumed<span class="wUets">legatia</span>, for <span class="wUets">legatum</span>, from <span class="wUets">legare</span>, to appoint by last will, to bequeath as a legacy, to depute: cf. OF. <span class="wUets">legat</span>, legacy. See <span class="wUer">Legate</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>legatum</i>—<i>legāre</i>, to leave by will.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						And yet perhaps the most valuable legacy that Hooft has left to posterity is his collection of letters.
+					</div>
+					<div class="uAuthor">
+						"History of Holland" by <span>George Edmundson</span>					</div>
+										<div class="usage">
+						If they don't bring the clothes soon, I shall close the boxes without them, and leave them a legacy for Fred.
+					</div>
+					<div class="uAuthor">
+						"Verner's Pride" by <span>Mrs. Henry Wood</span>					</div>
+										<div class="usage">
+						The legacies will come, because they ought to come.
+					</div>
+					<div class="uAuthor">
+						"American Missionary, Volume 43, No. 5, May, 1889" by <span>Various</span>					</div>
+										<div class="usage">
+						As a legacy, you will be among the first considered.
+					</div>
+					<div class="uAuthor">
+						"The Plastic Age" by <span>Percy Marks</span>					</div>
+										<div class="usage">
+						Was that his only pleasure in his legacy?
+					</div>
+					<div class="uAuthor">
+						"The Chink in the Armour" by <span>Marie Belloc Lowndes</span>					</div>
+										<div class="usage">
+						A legacy of one thousand dollars fell to him.
+					</div>
+					<div class="uAuthor">
+						"Fifth Avenue" by <span>Arthur Bartlett Maurice</span>					</div>
+										<div class="usage">
+						Is not that a dreadful kind of legacy to inherit?
+					</div>
+					<div class="uAuthor">
+						"First Book in Physiology and Hygiene" by <span>J.H. Kellogg</span>					</div>
+										<div class="usage">
+						Geoffrey of Killingworth; or, the Grey Friar's Legacy.
+					</div>
+					<div class="uAuthor">
+						"The House by the Church-Yard" by <span>J. Sheridan Le Fanu</span>					</div>
+										<div class="usage">
+						After that they talked about the legacy and its probable amount for some time.
+					</div>
+					<div class="uAuthor">
+						"The Good Comrade" by <span>Una L. Silberrad</span>					</div>
+										<div class="usage">
+						ASS, misfortune overcome by patience; or a legacy.
+					</div>
+					<div class="uAuthor">
+						"Tea-Cup Reading, and the Art of Fortune-Telling by Tea Leaves" by <span>'A Highland Seer'</span>					</div>
+										<div class="usage">
+						He hopes to get a little legacy.
+					</div>
+					<div class="uAuthor">
+						"Bunny Brown and His Sister Sue Keeping Store" by <span>Laura Lee Hope</span>					</div>
+										<div class="usage">
+						Which of these two evils is worse in itself, and which leaves the largest legacy of ills behind, it is difficult to say.
+					</div>
+					<div class="uAuthor">
+						"Sex in Education" by <span>Edward H. Clarke</span>					</div>
+										<div class="usage">
+						This is his only legacy.
+					</div>
+					<div class="uAuthor">
+						"Arthur Mervyn" by <span>Charles Brockden Brown</span>					</div>
+										<div class="usage">
+						This would be far more statesmanlike than to transmit to them a legacy of ignorance, degradation and crime.
+					</div>
+					<div class="uAuthor">
+						"Twentieth Century Negro Literature" by <span>Various</span>					</div>
+										<div class="usage">
+						Then came small legacies to old friends.
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine of Popular Literature and Science, Volume 22. July, 1878." by <span>Various</span>					</div>
+										<div class="usage">
+						Daughter, he has the bilious intermittent fever, the legacy of all his fathers.
+					</div>
+					<div class="uAuthor">
+						"The Entailed Hat" by <span>George Alfred Townsend</span>					</div>
+										<div class="usage">
+						It has made clear also how a legacy deliberately made may be indefinitely preserved.
+					</div>
+					<div class="uAuthor">
+						"Scientific American, Volume XXXVI., No. 8, February 24, 1877" by <span>Various</span>					</div>
+										<div class="usage">
+						Some relative, no doubt, come to look after the legacies, also.
+					</div>
+					<div class="uAuthor">
+						"The Two Admirals" by <span>J. Fenimore Cooper</span>					</div>
+										<div class="usage">
+						I am independent of his legacies, independent of his patronage.
+					</div>
+					<div class="uAuthor">
+						"The Man Who Knew" by <span>Edgar Wallace</span>					</div>
+										<div class="usage">
+						But aren't you going to show me poor Meyrick's legacy?
+					</div>
+					<div class="uAuthor">
+						"The House of Souls" by <span>Arthur Machen</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Had such a legacy been cast<br>
+Upon the stream of time;<br>
+Would it have come through ages past,—<br>
+Ages of night and crime?
+							<div class="poet">"Hymns for Communion VI" by <span>John Pierpont</span></div>
+						</div>
+											<div class="poemQuote">
+							Had Jesus left his scattered fold<br>
+The legacy of pride,<br>
+Golconda's gems and Ophir's gold,<br>
+When he, their Shepherd, died;
+							<div class="poet">"Hymns for Communion VI" by <span>John Pierpont</span></div>
+						</div>
+											<div class="poemQuote">
+							She left me, when she pass'd away,<br>
+More than a royal legacy,<br>
+I would not for a monarch's sway,<br>
+Exchange the things she gave to me.
+							<div class="poet">"Youthful Reminiscences" by <span>David John Scott</span></div>
+						</div>
+											<div class="poemQuote">
+							With hand upon my shoulder, said,<br>
+``You own 'tis true. The richest years<br>
+Bequeath the beggared heart, when fled,<br>
+Only this legacy of tears.
+							<div class="poet">"At The Gate Of The Convent" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							'Your words are wise and bright,<br>
+I bequeath them to you a legacy given;<br>
+And when your spirit takes its flight,<br>
+May it bloom aflower in heaven.
+							<div class="poet">"To J.M.B." by <span>Louisa May Alcott</span></div>
+						</div>
+											<div class="poemQuote">
+							Let me part with the acres my grandfather bought,<br>
+With the bonds that my uncle's kind legacy brought,<br>
+With my bank-shares,--old "Union," whose ten per cent stock<br>
+Stands stiff through the storms as the Eddystone rock;
+							<div class="poet">"For The Centennial Dinner" by <span>Oliver Wendell Holmes</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Jean Schulz, the widow of "Peanuts" cartoonist Charles Schulz, works to preserve the legacy of her husband, whom she calls "Sparky.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.heraldonline.com/2012/06/24/4067776/jean-schulz-discusses-why-her.html" target="_blank" rel="external nofollow">heraldonline.com</a>
+					</div>
+										<div class="usage">
+						President Bush speaks of Reagan's legacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2004/ALLPOLITICS/06/05/reagan.obit/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Son says he will carry on his father's legacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ketv.com/news/sports/huskers-extended-coverage/Will-Compton-We-kept-our-composure/-/15210616/16793006/-/xe6qhs/-/index.html" target="_blank" rel="external nofollow">ketv.com</a>
+					</div>
+										<div class="usage">
+						Lance Armstrong's legacy still in play.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/sports/othersports/usada-says-it-has-conclusive-and-undeniable-proof-of-lance-armstrong-doping-conspiracy/2012/10/10/b8dafd3e-12fd-11e2-be82-c3411b7680a9_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Ruling says department leaves behind Rampart legacy to become national model.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailynews.com/breakingnews/ci_12864276" target="_blank" rel="external nofollow">dailynews.com</a>
+					</div>
+										<div class="usage">
+						But even as the legacy carriers have been consolidating and growing, they have been losing market share to low-cost carriers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/interactive/2010/09/27/business/Airline-merger-standalone.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						John Coolidge , Guardian of President's Legacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2000/06/04/us/john-coolidge-guardian-of-president-s-legacy-dies-at-93.html?pagewanted=all&amp;src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						David Copley 's Legacy in Images.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nbcsandiego.com/news/local/David-Copleys-Legacy-in-Images-180391431.html" target="_blank" rel="external nofollow">nbcsandiego.com</a>
+					</div>
+										<div class="usage">
+						BC High's QB carries Jim Cotter 's legacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.boston.com/sports/schools/extras/schools_blog/2010/10/after_opening_u.html" target="_blank" rel="external nofollow">boston.com</a>
+					</div>
+										<div class="usage">
+						Bruce Bolling's Legacy: Trailblazing councillor who was a good neighbor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dotnews.com/columns/2012/bruce-bolling-s-legacy-trailblazing-councillor-who-was-good-ne" target="_blank" rel="external nofollow">dotnews.com</a>
+					</div>
+										<div class="usage">
+						Forrest Vereen may have left this world at the age of 22 following a motorcycle crash, but his legacy will live on thanks to Habitat for Humanity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://onlineathens.com/local-news/2012-09-23/madison-county-family-moves-new-habitat-house" target="_blank" rel="external nofollow">onlineathens.com</a>
+					</div>
+										<div class="usage">
+						Cochran's Legacy Extends Beyond Courtroom.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.blackenterprise.com/mag/cochrans-legacy-extends-beyond-courtroom/" target="_blank" rel="external nofollow">blackenterprise.com</a>
+					</div>
+										<div class="usage">
+						Cochran's Legacy Extends Beyond Courtroom .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.blackenterprise.com/mag/cochrans-legacy-extends-beyond-courtroom/" target="_blank" rel="external nofollow">blackenterprise.com</a>
+					</div>
+										<div class="usage">
+						Younger Cousteau Reflects on his Father's Legacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/newshour/extra/video/blog/2010/08/younger_cousteau_reflects_on_h.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Jean-Michel Cousteau Dives Into Tales of Famous Father's Legacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/newshour/bb/environment/july-dec10/coustreau_08-02.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We also acknowledge the use of the Legacy Archive for Microwave Background Data Analysis (LAMBDA, ), which is supported by the NASA Oﬃce of Space Science. 
+					</div>
+					<div class="uAuthor">
+						Alignment tests for low CMB multipoles
+					</div>
+										<div class="usage">
+						The Spitzer Legacy Science Program The original Spitzer Legacy Science Program enabled major science observing projects early in the Spitzer mission, creating a substantial and coherent database of archived observations. 
+					</div>
+					<div class="uAuthor">
+						First Fruits of the Spitzer Space Telescope: Galactic and Solar System Studies
+					</div>
+										<div class="usage">
+						The six legacy projects used a total of 3160 hours of Spitzer observing time and released all their data to the public archive, accompanied by post-pipeline data products and analysis tools for use by the scientific community. 
+					</div>
+					<div class="uAuthor">
+						First Fruits of the Spitzer Space Telescope: Galactic and Solar System Studies
+					</div>
+										<div class="usage">
+						For example, data produced by telescopes are not always made available to the astronomical community, and new instruments are sometimes designed and built with insuﬃcient planning for data management, while older but valuable legacy data often remain undigitised. 
+					</div>
+					<div class="uAuthor">
+						Astronomical Data Management
+					</div>
+										<div class="usage">
+						While the VO is currently focussing on modern space- and ground-based data that were recorded digitally, much less attention is being paid to astronomy’s rich legacy of photographic observations, some of which date back to the late 19th century. 
+					</div>
+					<div class="uAuthor">
+						Astronomical Data Management
+					</div>
+										<div class="usage">
+						We believe it is crucial to Chandra’s legacy that such a sample is observed. 
+					</div>
+					<div class="uAuthor">
+						A Radio through X-ray Study of the Hot Spots, Active Nucleus, and Environment of the Nearby FR II Radio Galaxy 3C 33
+					</div>
+										<div class="usage">
+						Neil Evans presented results from the Core-to-Disk (c2d) legacy survey with the SP I T Z ER space telescope. 
+					</div>
+					<div class="uAuthor">
+						The Formation of Low-Mass-Protostars and Proto-Brown Dwarfs
+					</div>
+										<div class="usage">
+						Therefore, in the context of a legacy system, the associated test suite contains both opportunities, in the form of well designed, isolated unit tests with a high coverage, as well as weaknesses, in the form of maintenance intensive test cases, components lacking coverage, etc. 
+					</div>
+					<div class="uAuthor">
+						Exploring the Composition of Unit Test Suites
+					</div>
+										<div class="usage">
+						This work is based in part on data products produced at TERAPIX and the Canadian Astronomy Data Centre as part of the CFHT Legacy Survey, a collaborative pro ject of NRC and CNRS. 
+					</div>
+					<div class="uAuthor">
+						UV/Optical Detections of Candidate Tidal Disruption Events by GALEX and CFHTLS
+					</div>
+										<div class="usage">
+						Real Multiplication and Noncommutative Geometry, in: The Legacy of Niels Henrik Abel, Springer, 685-727, arXiv:math.
+					</div>
+					<div class="uAuthor">
+						Non-Commutative Geometry, Categories and Quantum Physics
+					</div>
+										<div class="usage">
+						Dragoni in: Proceedings of the International Conference on Ettore Ma jorana’s Legacy and the Physics of the XXI Century, Catania, Italy, 2006 (PoS(EMC2006)005). For an historical and scientiﬁc overview, see for example A.I. 
+					</div>
+					<div class="uAuthor">
+						Ettore Majorana and his heritage seventy years later
+					</div>
+										<div class="usage">
+						DUNE is a medium class mission consisting of a 1.2m telescope designed to carry out an all-sky survey in one visible and three NIR bands (1deg2 ﬁeld-of-view) which will form a unique legacy for astronomy. 
+					</div>
+					<div class="uAuthor">
+						Summary of the DUNE Mission Concept
+					</div>
+										<div class="usage">
+						We acknowledge the use of the Legacy Archive for Microwave Background Data Analysis (LAMBDA). 
+					</div>
+					<div class="uAuthor">
+						Matter temperature after cosmological recombination
+					</div>
+										<div class="usage">
+						The legacy pro ject, SAGE (Meixner et al. 2006) surveyed the Large Magellanic Cloud (LMC) with 6 photometric bands. 
+					</div>
+					<div class="uAuthor">
+						Revealing infrared populations of nearby galaxies using the Spitzer Space Telescope
+					</div>
+										<div class="usage">
+						Others, like the top quark and W boson masses, are likely to be legacy measurements from the Tevatron. 
+					</div>
+					<div class="uAuthor">
+						Tests of the Standard Electroweak Model at the Energy Frontier
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="gift.html">gift</a>, <a href="heritage.html">heritage</a>, <a href="inheritance.html">inheritance</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abate.html">abate</a>, <a href="abatement.html">abatement</a>, <a href="Adeem.html">Adeem</a>, <a href="Ademption.html">Ademption</a>, <a href="benefactor.html">benefactor</a>, <a href="bequeath.html">bequeath</a>, <a href="bequest.html">bequest</a>, <a href="Caducity.html">Caducity</a>, <a href="cumulative.html">cumulative</a>, <a href="Cumulative%20legacy.html">Cumulative legacy</a>, <a href="Demonstrative%20legacy.html">Demonstrative legacy</a>, <a href="duty.html">duty</a>, <a href="foundation.html">foundation</a>, <a href="lapse.html">lapse</a>, <a href="lapsed.html">lapsed</a>, <a href="Lapsed%20devise.html">Lapsed devise</a>, <a href="Lapsed%20legacy.html">Lapsed legacy</a>, <a href="leave.html">leave</a>, <a href="Legacy%20hunter.html">Legacy hunter</a>, <a href="Legacy-hunter.html">Legacy-hunter</a>, <a href="Legatary.html">Legatary</a>, <a href="legate.html">legate</a>, <a href="legatee.html">legatee</a>, <a href="Legator.html">Legator</a>, <a href="Nuncupative.html">Nuncupative</a>, <a href="residue.html">residue</a>, <a href="Smithsonian.html">Smithsonian</a>, <a href="Specific%20legacy.html">Specific legacy</a>, <a href="substitution.html">substitution</a>, <a href="Substitutional%20legacy.html">Substitutional legacy</a>, <a href="T.html">T</a>, <a href="transmission.html">transmission</a>, <a href="Vested%20legacy.html">Vested legacy</a>, <a href="will.html">will</a>, <a href="windfall.html">windfall</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					kegacy, oegacy, pegacy, lwgacy, lsgacy, ldgacy, lrgacy, lefacy, letacy, lehacy, lebacy, levacy, legqcy, legwcy, legscy, legzcy, legaxy, legady, legafy, legavy, legact, legacg, legach, legacu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,457 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>gluttony</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">gluttony</span> <span class="exp">eating to excess (personified as one of the deadly sins)</span> </li><li><span class="tSpeech">n</span> <span class="term">gluttony</span> <span class="exp">habitual eating to excess</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The Seven Deadly Sins are lust, pride, anger, envy, sloth, avarice and gluttony.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Gluttony</span> <span class="exp">Excess in eating; extravagant indulgence of the appetite for food; voracity.</span> <span class="wuQuot">"Their sumptuous gluttonies , and gorgeous feasts."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">gluttony</span> <span class="exp">Excess in eating, or in eating and drinking; extravagant indulgence of the appetite for food; voracity; luxury of the table.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Gluttony</span> <span class="exp">excess in eating</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Hobbes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Hobbes.jpg" alt="Thomas%20Hobbes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The flesh endures the storms of the present alone; the mind, those of the past and future as well as the present. Gluttony is a lust of the mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Gluttony kills more than the sword.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Peter De Vries</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Peter%20De%20Vries.jpg" alt="Peter%20De%20Vries">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Gluttony is an emotional escape, a sign something is eating us.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Catalan Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Catalan Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“God forgives the sin of gluttony.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Italo Calvino</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Italo%20Calvino.jpg" alt="Italo%20Calvino">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In love, as in gluttony, pleasure is a matter of the utmost precision.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jeanne-Marie Leprince de Beaumont</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jeanne-Marie Leprince de Beaumont">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Pride, anger, gluttony, and idleness are sometimes conquered, but the conversion of a malicious and envious mind is a kind of miracle”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">glotonie</span>, OF. <span class="wUets">glotonie</span>, <span class="wUets">gloutonnie</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>glouton</i>—L. <i>gluton-em</i>—<i>gluttīre</i>, to devour.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The kitchen and pantries catered to the mob's gluttony.
+					</div>
+					<div class="uAuthor">
+						"Orphans of the Storm" by <span>Henry MacMahon</span>					</div>
+										<div class="usage">
+						Gluttony is the passion of childhood, and cannot hold its own against any other; it disappears on the slightest occasion.
+					</div>
+					<div class="uAuthor">
+						"Émile" by <span>Jean Jacques Rousseau</span>					</div>
+										<div class="usage">
+						These tapestries are an allegory against gluttony.
+					</div>
+					<div class="uAuthor">
+						"Needlework As Art" by <span>Marian Alford</span>					</div>
+										<div class="usage">
+						In future, gluttony and license will be impossible, and likewise want, misery and privation.
+					</div>
+					<div class="uAuthor">
+						"Woman under socialism" by <span>August Bebel</span>					</div>
+										<div class="usage">
+						In his system, she is opposed among the vices, not by Gula or Gluttony, but by Ira, Anger.
+					</div>
+					<div class="uAuthor">
+						"The Stones of Venice, Volume II (of 3)," by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						Gluttony, how symbolized, ii.
+					</div>
+					<div class="uAuthor">
+						"The Stones of Venice, Volume III (of 3)" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						And her absurd gluttony injures all of us.
+					</div>
+					<div class="uAuthor">
+						"The Old Willow Tree and Other Stories" by <span>Carl Ewald</span>					</div>
+										<div class="usage">
+						In short, are the vices of gluttony, drunkenness, pugilism, and prodigality, any where more indulged?
+					</div>
+					<div class="uAuthor">
+						"A Morning's Walk from London to Kew" by <span>Richard Phillips</span>					</div>
+										<div class="usage">
+						Gluttony had lessened his natural agility, and at Peggy's avenging hand he paid the penalty of his crime.
+					</div>
+					<div class="uAuthor">
+						"Peggy Raymond's Vacation" by <span>Harriet L. (Harriet Lummis) Smith</span>					</div>
+										<div class="usage">
+						His eyes began to gleam, with joyful gluttony.
+					</div>
+					<div class="uAuthor">
+						"Their Son; The Necklace" by <span>Eduardo Zamacois</span>					</div>
+										<div class="usage">
+						The three chief sins: avarice, gluttony, lust.
+					</div>
+					<div class="uAuthor">
+						"The Triads of Ireland" by <span>Kuno Meyer</span>					</div>
+										<div class="usage">
+						As for me, I felt a kind of gluttony for every delight that gold can purchase.
+					</div>
+					<div class="uAuthor">
+						"Confessions Of Con Cregan An Irish Gil Blas" by <span>Charles James Lever</span>					</div>
+										<div class="usage">
+						A wolverine is not to be easily tricked; but its gluttony and curiosity bring it within man's reach.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Trapper" by <span>A. C. Laut</span>					</div>
+										<div class="usage">
+						The wedding feast lasted for at least three days, and was a time of gluttony and rioting.
+					</div>
+					<div class="uAuthor">
+						"Women of England, Volume 9 (of 10)" by <span>Burleigh James Bartlett</span>					</div>
+										<div class="usage">
+						Wine thou dost shun, and gluttony, and every other folly.
+					</div>
+					<div class="uAuthor">
+						"Library of the World's Best literature, Ancient and Modern, Vol. 12" by <span>Various</span>					</div>
+										<div class="usage">
+						Gluttony, however, was not its only failing.
+					</div>
+					<div class="uAuthor">
+						"Punch - Volume 25 (Jul-Dec 1853)" by <span>Various</span>					</div>
+										<div class="usage">
+						Some eat raw, and those of less gluttony cook their catch at a large fire, which they keep burning night and day.
+					</div>
+					<div class="uAuthor">
+						"The Three Mulla-mulgars" by <span>Walter De La Mare</span>					</div>
+										<div class="usage">
+						The unhappy remnant of a middle-aged mankind was gradually exchanging lust for gluttony.
+					</div>
+					<div class="uAuthor">
+						"The Last Generation" by <span>James Elroy Flecker</span>					</div>
+										<div class="usage">
+						You pig of gluttony!
+					</div>
+					<div class="uAuthor">
+						"The Iron Pincers" by <span>Eugène Sue</span>					</div>
+										<div class="usage">
+						Fancy that Gluttony is not good and pleasant, but filthy, evil, and detestable; as it really is.
+					</div>
+					<div class="uAuthor">
+						"Medicina Flagellata" by <span>Anonymous</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Our pride, our lust, our vast excess,<br>
+Our gluttony, our drunkenness,<br>
+Our gospel-wresting heresies,<br>
+To those distresses first gave rise.
+							<div class="poet">"Another On The Same Occasion" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							I ate like three strong men,<br>
+I drank enough for ten,<br>
+Each hour must have its glass<br>
+Yes, Drink and Gluttony<br>
+Have starved more brains, say I,<br>
+Than Hunger has.
+							<div class="poet">"Passion's Hounds" by <span>William H Davies</span></div>
+						</div>
+											<div class="poemQuote">
+							With mighty leaps and bounds,<br>
+I followed Passion's hounds,<br>
+My hot blood had its day;<br>
+Lust, Gluttony, and Drink,<br>
+I chased to Hell's black brink,<br>
+Both night and day.
+							<div class="poet">"Passion's Hounds" by <span>William H Davies</span></div>
+						</div>
+											<div class="poemQuote">
+							Intemp'rance in drink, is the chief, as I think,<br>
+Of his wiles :— for it is from this vice,<br>
+Theft, gluttony, strife, and uncleanness of life,<br>
+With swearing and cursing, take rise.
+							<div class="poet">"A Song Concerning The Devil And The Drunkard" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							He fought with the he-dogs, and winked at the she-dogs,<br>
+A thing that had never been heard of before.<br>
+"For the stigma of gluttony, I care not a button!" he<br>
+Cried, and ate all he could swallow—and more.
+							<div class="poet">"The Little Dog's Day" by <span>Rupert Brooke</span></div>
+						</div>
+											<div class="poemQuote">
+							Richard Pigott was a man that was blinded by his own conceit.<br>
+And would have robbed his dearest friend all for good meat,<br>
+To satisfy his gluttony and his own sensual indulgence,<br>
+Which the inhuman monster considered no great offence. 
+							<div class="poet">"Richard Pigott, the Forger" by <span>William Topaz McGonagall</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						 Drunkenness and Gluttony Leads to Poverty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gcdailyworld.com/blogs/1662/entry/48991/" target="_blank" rel="external nofollow">gcdailyworld.com</a>
+					</div>
+										<div class="usage">
+						Baseball and gluttony, two of America's favorite pastimes, are merging in a controversial trend taking hold at Major League Baseball stadiums across the nation: all-you-can-eat seats.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/sports/baseball/2008-03-06-Concessions_N.htm" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						When company co-founder Bruce Bassman called me to see what I thought of the products, I was clear: No gluten, no gluttony .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.brooklynpaper.com/stories/32/48/32_48_gk_gluten_free_angle.html" target="_blank" rel="external nofollow">brooklynpaper.com</a>
+					</div>
+										<div class="usage">
+						Opus Opens Today, Promising Gluten-Free Gluttony .
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/daily/food/2008/10/opus_opens_today_promising_glu.html" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						Monty Python's movie The Meaning of Life has a disgusting– but funny– scene at a restaurant where a morbidly obese man takes gluttony to a new level.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.readthehook.com/files/old/stories/2004/11/18/drHookGobbleHobbleHealthPe.html" target="_blank" rel="external nofollow">readthehook.com</a>
+					</div>
+										<div class="usage">
+						On a long Saturday night, my motive is part gluttony: an easy sipping beer means I can drink more of it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtoncitypaper.com/blogs/youngandhungry/2011/07/20/kolsch-the-pinky-sized-pint/" target="_blank" rel="external nofollow">washingtoncitypaper.com</a>
+					</div>
+										<div class="usage">
+						Among pleasures we've missed in our long adventures in gluttony is the joy of pink salt from the Himalayas.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasobserver.com/bestof/2007/award/best-salt-lick-747793/" target="_blank" rel="external nofollow">dallasobserver.com</a>
+					</div>
+										<div class="usage">
+						The University of Iowa has shucked its ban on an annual corn eating contest after removing the gluttony.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.azcentral.com/offbeat/articles/2008/09/08/20080908corn-contest0908-ON.html" target="_blank" rel="external nofollow">azcentral.com</a>
+					</div>
+										<div class="usage">
+						Today's luxury cruises, even to Alaska, are the stuff of mockery, gluttony, and clichés.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mensjournal.com/travel/beaches-oceans/the-arctic-anti-cruise-20120628" target="_blank" rel="external nofollow">mensjournal.com</a>
+					</div>
+										<div class="usage">
+						Guilt meets gluttony in the weirdly funny off-Broadway play 'The Whale'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.therepublic.com/view/story/4213e2e7f3854c93ad5c44ad17c1a739/US-Theater-Review-The-Whale" target="_blank" rel="external nofollow">therepublic.com</a>
+					</div>
+										<div class="usage">
+						There's nothing wrong with spending if it's for a good cause and not consumer greed and gluttony.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.blackenterprise.com/blogs/3-things-worth-spending-besides-black-friday-sales/2/" target="_blank" rel="external nofollow">blackenterprise.com</a>
+					</div>
+										<div class="usage">
+						10 Disgusting Consequences of Gluttony in Movies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wncy.com/news/articles/2012/nov/27/burn-after-eating-10-disgusting-consequences-of-gl/" target="_blank" rel="external nofollow">wncy.com</a>
+					</div>
+										<div class="usage">
+						In a grotesque display of American gluttony we have eaten ourselves into fat, lazy folk with little acknowledgement of the repercussions that such acts bring.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.therolladailynews.com/article/20121202/LIFESTYLE/121209925/1007/OPINION" target="_blank" rel="external nofollow">therolladailynews.com</a>
+					</div>
+										<div class="usage">
+						If you've ever seen the short work a flock of turkeys can make of a row of grapes , you'd have no question why their "gobble-gobble" noises have become onomatopoetically synonymous with gluttony.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sonomanews.com/News-2012/Wild-turkeys-turn-into-grape-gobblers/" target="_blank" rel="external nofollow">sonomanews.com</a>
+					</div>
+										<div class="usage">
+						In hopes that St Gluttony will soon be there.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mystarradio.com/thanks/" target="_blank" rel="external nofollow">mystarradio.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="eating to excess (personified as one of the deadly sins)"><a href="overeating.html">overeating</a>, <a href="gula.html">gula</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="deadly%20sin.html">deadly sin</a>, <a href="intemperance.html">intemperance</a>, <a href="mortal%20sin.html">mortal sin</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="edacity.html">edacity</a>, <a href="esurience.html">esurience</a>, <a href="greediness.html">greediness</a>, <a href="hoggishness.html">hoggishness</a>, <a href="piggishness.html">piggishness</a>, <a href="rapaciousness.html">rapaciousness</a>, <a href="rapacity.html">rapacity</a>, <a href="voraciousness.html">voraciousness</a>, <a href="voracity.html">voracity</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="cormorant.html">cormorant</a>, <a href="deadly%20sin.html">deadly sin</a>, <a href="debauch.html">debauch</a>, <a href="edacity.html">edacity</a>, <a href="esurience.html">esurience</a>, <a href="Gluttonish.html">Gluttonish</a>, <a href="gluttonous.html">gluttonous</a>, <a href="gormandise.html">gormandise</a>, <a href="Gormandism.html">Gormandism</a>, <a href="greediness.html">greediness</a>, <a href="Gule.html">Gule</a>, <a href="Gulosity.html">Gulosity</a>, <a href="Lurcation.html">Lurcation</a>, <a href="mortal%20sin.html">mortal sin</a>, <a href="Mortal%20sins.html">Mortal sins</a>, <a href="rapaciousness.html">rapaciousness</a>, <a href="rapacity.html">rapacity</a>, <a href="Seven%20deadly%20sins.html">Seven deadly sins</a>, <a href="sin.html">sin</a>, <a href="Surfeiting.html">Surfeiting</a>, <a href="voraciousness.html">voraciousness</a>, <a href="voracity.html">voracity</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					fluttony, tluttony, hluttony, bluttony, vluttony, gkuttony, gouttony, gputtony, glyttony, glhttony, gljttony, glittony, glurtony, gluftony, glugtony, gluytony, glutrony, glutfony, glutgony, glutyony, gluttiny, gluttkny, gluttlny, gluttpny, gluttoby, gluttohy, gluttojy, gluttomy, gluttont, gluttong, gluttonh, gluttonu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

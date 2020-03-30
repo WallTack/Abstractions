@@ -1,0 +1,502 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>leadership</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">leadership</span> <span class="exp">the activity of leading</span> <span class="quot">"his leadership inspired the team"</span></li><li><span class="tSpeech">n</span> <span class="term">leadership</span> <span class="exp">the ability to lead</span> <span class="quot">"he believed that leadership can be taught"</span></li><li><span class="tSpeech">n</span> <span class="term">leadership</span> <span class="exp">the body of people who lead a group</span> <span class="quot">"the national leadership adopted his plan"</span></li><li><span class="tSpeech">n</span> <span class="term">leadership</span> <span class="exp">the status of a leader</span> <span class="quot">"they challenged his leadership of the union"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In ancient Rome, it was considered a sign of leadership to be born with a crooked nose									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Leadership</span> <span class="exp">The office, position or function of a leader; as, Gingrich held the House <span class="wUex">leadership</span> for six years.</span> </li><li><span class="term">Leadership</span> <span class="exp">The people who serve as leaders of a group; as, the party <span class="wUex">leadership</span> was in disarray after the election.</span> </li><li><span class="term">Leadership</span> <span class="exp">The quality of character and personality giving a person the ability to gain the confidence of and lead others; as, Washington's <span class="wUex">leadership</span> was indispensible to success of the American Revolution.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">leadership</span> <span class="exp">The office of a leader; guidance; control.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Leadership</span> <span class="exp">state or condition of a leader or conductor</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Albert Schweitzer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Albert%20Schweitzer.jpg" alt="Albert%20Schweitzer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Example is leadership.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Peter F. Drucker</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Peter%20F.%20Drucker.jpg" alt="Peter%20F.%20Drucker">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Management is doing things right; leadership is doing the right things.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dwight D. Eisenhower</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Dwight%20D.%20Eisenhower.jpg" alt="Dwight%20D.%20Eisenhower">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Leadership is the art of getting someone else to do something you want done because he wants to do it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Theodore M. Hesburgh</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Theodore M. Hesburgh">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Richard Marcinko</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Richard Marcinko">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Popularity is not leadership.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Donald H. Mcgannon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Donald H. Mcgannon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Leadership is action, not position.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					A.S. <i>lǽdan</i>, to lead, <i>lád</i>, a way; Ger. <i>leiten</i>, to lead.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The farmer cannot be accused of leadership in this change in the American State.
+					</div>
+					<div class="uAuthor">
+						"Church Cooperation in Community Life" by <span>Paul L. Vogt</span>					</div>
+										<div class="usage">
+						Mr. Disraeli came back to power, and Mr. Gladstone retired from the leadership of the House of Commons (1874).
+					</div>
+					<div class="uAuthor">
+						"Great Men and Famous Women. Vol. 4 of 8" by <span>Various</span>					</div>
+										<div class="usage">
+						To come into leadership naturally a man should be the logical outgrowth of his class and time, and this Creed knew he was not.
+					</div>
+					<div class="uAuthor">
+						"Judith of the Cumberlands" by <span>Alice MacGowan</span>					</div>
+										<div class="usage">
+						Leadership is made difficult and sometimes impossible.
+					</div>
+					<div class="uAuthor">
+						"Chapters in Rural Progress" by <span>Kenyon L. Butterfield</span>					</div>
+										<div class="usage">
+						In addition to these the divine gift of leadership is required.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Nature" by <span>Francis Younghusband</span>					</div>
+										<div class="usage">
+						By virtue of his leadership of the Senate, he was in effect the leader of Congress.
+					</div>
+					<div class="uAuthor">
+						"Stephen Arnold Douglas" by <span>William Garrott Brown</span>					</div>
+										<div class="usage">
+						Strange, that the Creole should be aspiring to the leadership of a band about to invade their country!
+					</div>
+					<div class="uAuthor">
+						"The Free Lances" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						The leadership must adapt itself to these conditions.
+					</div>
+					<div class="uAuthor">
+						"Cavalry in Future Wars" by <span>Frederick von Bernhardi</span>					</div>
+										<div class="usage">
+						The rural church will move on more smoothly if it can obtain better-trained leadership.
+					</div>
+					<div class="uAuthor">
+						"Rural Problems of Today" by <span>Ernest R. Groves</span>					</div>
+										<div class="usage">
+						By leadership a common ideal can be made to penetrate the soul of a people and to take complete possession of it.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						Who shall be entrusted with leadership in economic affairs?
+					</div>
+					<div class="uAuthor">
+						"The Next Step" by <span>Scott Nearing</span>					</div>
+										<div class="usage">
+						Should he go ahead under the common leadership of the Sarkas?
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science July 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						During the retreat from Mons General Haig performed marvels of leadership.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume IV (of 8)"					</div>
+										<div class="usage">
+						In this instance the teacher showed marked leadership as well as practical knowledge of psychology and pedagogy.
+					</div>
+					<div class="uAuthor">
+						"Rural Life and the Rural School" by <span>Joseph Kennedy</span>					</div>
+										<div class="usage">
+						One of the chief duties of the rural pastor is to train leadership.
+					</div>
+					<div class="uAuthor">
+						"The Farmer and His Community" by <span>Dwight Sanderson</span>					</div>
+										<div class="usage">
+						Our decision to train lay couples for leadership was not hastily made.
+					</div>
+					<div class="uAuthor">
+						"Marriage Enrichment Retreats" by <span>David Mace</span>					</div>
+										<div class="usage">
+						They had placed themselves unquestioningly under his leadership.
+					</div>
+					<div class="uAuthor">
+						"Slaves of Mercury" by <span>Nat Schachner</span>					</div>
+										<div class="usage">
+						Mrs. Trout's leadership received the highest praise from the press and the politicians of the State.
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume VI" by <span>Various</span>					</div>
+										<div class="usage">
+						The leadership of all churches was considered responsible ultimately to the state.
+					</div>
+					<div class="uAuthor">
+						"Area Handbook for Bulgaria" by <span>Eugene K. Keefe, Violeta D. Baluyut, William Giloane, Anne K. Long, James M. Moore, and Neda A. Walpole</span>					</div>
+										<div class="usage">
+						Pressure was exerted to bring the Romanian leadership into line.
+					</div>
+					<div class="uAuthor">
+						"Area Handbook for Romania" by <span>Eugene K. Keefe, Donald W. Bernier, Lyle E. Brenneman, William Giloane, James M. Moore, and Neda A. Walpole</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Liberal leadership candidate Justin Trudeau in Montreal, on November 11, 2012 THE CANADIAN PRESS/Graham Hughes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winnipegfreepress.com/canada/imagine-if-he-was-talking-about-our-province-quebec-commentators-chide-trudeau-180701831.html" target="_blank" rel="external nofollow">winnipegfreepress.com</a>
+					</div>
+										<div class="usage">
+						BEIJING — The high-ranking troubleshooter who replaced purged politician Bo Xilai in China's mega-city of Chongqing ended his eight-month stint there Tuesday after being promoted to the country's top leadership.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-505245_162-57552345/china-troubleshooter-moves-on-from-chongqing-post/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						The high-ranking troubleshooter who replaced purged politician Bo Xilai in China's mega-city of Chongqing has ended his eight-month stint there after being promoted to the country's top leadership.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestate.com/2012/11/19/2525799/chinas-xi-warns-party-of-corruption.html" target="_blank" rel="external nofollow">thestate.com</a>
+					</div>
+										<div class="usage">
+						T he high-ranking troubleshooter who replaced purged politician Bo Xilai in China's mega-city of Chongqing has ended his eight-month stint there after being promoted to the country's top leadership.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cortezjournal.com/article/20121119/API/1211190512/China's-Xi-warns-party-of-corruption-scourge" target="_blank" rel="external nofollow">cortezjournal.com</a>
+					</div>
+										<div class="usage">
+						Well-known Chinese politician Bo Xilai has been sacked as the Communist Party leader of the Chongqing municipality, ahead of a leadership shake-up later this year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/regions/asia-pacific/china/120315/china-bo-xilai-sacked-communist-party-chongqing" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						Departure of Ex-Police Chief is Described as Effort to Get at Rising Star Bo Xilai Ahead of Leadership Transition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052970203646004577212660117910988.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						SOCMA 2012 Leadership Conference publication.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.icis.com/chemicals/polypropylene/cis/?tab=tbc-tab3" target="_blank" rel="external nofollow">icis.com</a>
+					</div>
+										<div class="usage">
+						Your agency's oversight by Congress can cause heartburn for the leadership of the organization.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.federalnewsradio.com/86/1954898/Oversight-insight-Senate-Judiciary-Committee-examines-CIS" target="_blank" rel="external nofollow">federalnewsradio.com</a>
+					</div>
+										<div class="usage">
+						Battle-scarred McDonnell at 'pivot point' of leadership.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2011/apr/14/city-state-morning-roundup/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Adam Clarin named to business leadership positions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.communitynewspapers.com/pinecrest/dr-adam-clarin-named-to-business-leadership-positions/" target="_blank" rel="external nofollow">communitynewspapers.com</a>
+					</div>
+										<div class="usage">
+						Palmetto Bay optometrist Dr Adam J Clarin , co-owner of Clarin Eye Care Center, recently was named to leadership positions in two local business organizations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.communitynewspapers.com/pinecrest/dr-adam-clarin-named-to-business-leadership-positions/" target="_blank" rel="external nofollow">communitynewspapers.com</a>
+					</div>
+										<div class="usage">
+						KMFA host and producer Dianne Donovan introduces us to some of the creative leadership behind our favorite classically Austin arts events.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kmfa.org/air_ClassicalAustin.htm" target="_blank" rel="external nofollow">kmfa.org</a>
+					</div>
+										<div class="usage">
+						China's leadership transition cloaked in mystery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/nationworld/world/la-fg-china-congress-20121027,7923212,1280798.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						The Sierra Club voted this week to suspend its entire 35,000-member Florida chapter for four years and removed the chapter's leadership.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.motherjones.com/node/1276" target="_blank" rel="external nofollow">motherjones.com</a>
+					</div>
+										<div class="usage">
+						That's why Dr JoAnne Cobler is this month's Women In Leadership honoree.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wkbw.com/lifestyle/women-in-leadership/Women-In-Leadership-Cardiologist-Dr-JoAnne-Cobler--140645303.html" target="_blank" rel="external nofollow">wkbw.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						JLab has taken a leadership role in these pro jects, as reviewed by R. de Vita. 
+					</div>
+					<div class="uAuthor">
+						Baryons 2002: Outlook
+					</div>
+										<div class="usage">
+						Strong leadership to prioritize during these early times was essential. 
+					</div>
+					<div class="uAuthor">
+						Commissioning the CDF Offline Software
+					</div>
+										<div class="usage">
+						The APOLLO pro ject design and leadership responsibilities are shared between the University of California at San Diego and the University of Washington. 
+					</div>
+					<div class="uAuthor">
+						Improving LLR Tests of Gravitational Theory
+					</div>
+										<div class="usage">
+						The WYP effort of the Forum on the History of Physics, under the leadership of Virginia Trimble, is quite naturally very interested in the Einstein connection in the WYP. A month ago, they joined with us in the Speakers program. 
+					</div>
+					<div class="uAuthor">
+						Matters of Gravity, the newsletter of the Topical Group in Gravitation of the American Physical Society
+					</div>
+										<div class="usage">
+						And lastly, we thank the pro ject director, Richard Schilizzi, for guidance and leadership throughout the process. 
+					</div>
+					<div class="uAuthor">
+						Science with the Square Kilometer Array: Motivation, Key Science Projects, Standards and Assumptions
+					</div>
+										<div class="usage">
+						SPI has been completed under the responsibility and leadership of CNES. 
+					</div>
+					<div class="uAuthor">
+						Gamma-Ray Line Astronomy
+					</div>
+										<div class="usage">
+						The entire effort is overseen by the Gaia Science Team under the eminent leadership of the project scientist Michael Perryman. 
+					</div>
+					<div class="uAuthor">
+						Concluding Remarks: Gaia and Astrophysics in 2015-2020
+					</div>
+										<div class="usage">
+						Luce, E-Prints Intersect the Digital Library: Inside the Los Alamos arXiv, Issues in Science and Technology Leadership 29 (2001). 
+					</div>
+					<div class="uAuthor">
+						The Convergence of Digital-Libraries and the Peer-Review Process
+					</div>
+										<div class="usage">
+						Fermilab physicists have enjoyed leadership rˆoles in the construction pro ject and the computing and software program. 
+					</div>
+					<div class="uAuthor">
+						Looking to the Future: A Fermilab Viewpoint
+					</div>
+										<div class="usage">
+						The author wishes to express his gratitude to the organizers under the leadership of Y. 
+					</div>
+					<div class="uAuthor">
+						Low Energy Antiproton Experiments -- A Review
+					</div>
+										<div class="usage">
+						US insitutions provide physics leadership of the overall CMS heavy-ion physics program, trigger preparation, and ZDC construction. 
+					</div>
+					<div class="uAuthor">
+						Phases of QCD: Summary of the Rutgers Long Range Plan Town Meeting
+					</div>
+										<div class="usage">
+						This maintains a strong program with excellent leadership at RHIC, though will present some issues for the timely completion of the full detector upgrades and maintaince of older detector systems. 
+					</div>
+					<div class="uAuthor">
+						Phases of QCD: Summary of the Rutgers Long Range Plan Town Meeting
+					</div>
+										<div class="usage">
+						It was negatively correlated with sleeping, preening, distance (&gt;1 m) and female pecking (variable loads between -0.42 and -0.25), and positively correlated with contact, female leadership and following (variable loads between 0.34 and 0.40). 
+					</div>
+					<div class="uAuthor">
+						Post-hatching parental care behaviour and hormonal status in a precocial bird
+					</div>
+										<div class="usage">
+						This proved to be a most interesting study and concluded that science software development is indeed different to traditional software development due to the funding structure and general approach to leadership. 
+					</div>
+					<div class="uAuthor">
+						ECSS in the eXtreme
+					</div>
+										<div class="usage">
+						As we see in this paper, a complex scenario involving many players, leadership skills, equilibriums and multiple dominant strategies can be broken down and analyzed with simpler tools. 
+					</div>
+					<div class="uAuthor">
+						Nations At War I: Why do we keep building weapons?
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the activity of leading"><a href="leading.html">leading</a>, </div><div class="synGroup" title="the body of people who lead a group"><a href="leaders.html">leaders</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ability.html">ability</a>, <a href="activity.html">activity</a>, <a href="body.html">body</a>, <a href="position.html">position</a>, <a href="power.html">power</a>, <a href="status.html">status</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="rome.html">rome</a>, <a href="generalship.html">generalship</a>, <a href="helm.html">helm</a>, <a href="high%20command.html">high command</a>, <a href="lead.html">lead</a>, <a href="supreme%20headquarters.html">supreme headquarters</a>, <a href="trend%20setting.html">trend setting</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="leader.html">leader</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A-team.html">A-team</a>, <a href="Apostolate.html">Apostolate</a>, <a href="bellwether.html">bellwether</a>, <a href="Bismarck.html">Bismarck</a>, <a href="Blucher.html">Blucher</a>, <a href="Calixtus%20II.html">Calixtus II</a>, <a href="championship.html">championship</a>, <a href="chief.html">chief</a>, <a href="clan.html">clan</a>, <a href="Colombia.html">Colombia</a>, <a href="command.html">command</a>, <a href="Docimasy.html">Docimasy</a>, <a href="Exodus.html">Exodus</a>, <a href="Fatah%20Tanzim.html">Fatah Tanzim</a>, <a href="follow.html">follow</a>, <a href="follower.html">follower</a>, <a href="G.%20L.%20von%20Blucher.html">G. L. von Blucher</a>, <a href="Gebhard%20Leberecht%20von%20Blucher.html">Gebhard Leberecht von Blucher</a>, <a href="generalship.html">generalship</a>, <a href="glass%20ceiling.html">glass ceiling</a>, <a href="Gregory.html">Gregory</a>, <a href="Gregory%20I.html">Gregory I</a>, <a href="Gregory%20the%20Great.html">Gregory the Great</a>, <a href="ground%20swell.html">ground swell</a>, <a href="Guy%20of%20Burgundy.html">Guy of Burgundy</a>, <a href="Haganah.html">Haganah</a>, <a href="hegemony.html">hegemony</a>, <a href="helm.html">helm</a>, <a href="Iron%20Chancellor.html">Iron Chancellor</a>, <a href="Jose%20Ortega%20y%20Gasset.html">Jose Ortega y Gasset</a>, <a href="lead.html">lead</a>, <a href="leading.html">leading</a>, <a href="Lock%20step.html">Lock step</a>, <a href="merger.html">merger</a>, <a href="nihilism.html">nihilism</a>, <a href="Ortega%20y%20Gasset.html">Ortega y Gasset</a>, <a href="Otto%20von%20Bismarck.html">Otto von Bismarck</a>, <a href="Pericles.html">Pericles</a>, <a href="Presbyterian.html">Presbyterian</a>, <a href="prevalent.html">prevalent</a>, <a href="Prince%20Otto%20Eduard%20Leopold%20von%20Bismarck.html">Prince Otto Eduard Leopold von Bismarck</a>, <a href="Prince%20Otto%20von%20Bismarck.html">Prince Otto von Bismarck</a>, <a href="Ragnarok.html">Ragnarok</a>, <a href="Readjuster.html">Readjuster</a>, <a href="Republic%20of%20Colombia.html">Republic of Colombia</a>, <a href="Rome.html">Rome</a>, <a href="Sabbath.html">Sabbath</a>, <a href="Saint%20Gregory%20I.html">Saint Gregory I</a>, <a href="sponsor.html">sponsor</a>, <a href="St.%20Gregory%20I.html">St. Gregory I</a>, <a href="Tanzim.html">Tanzim</a>, <a href="Tatar.html">Tatar</a>, <a href="tinpot.html">tinpot</a>, <a href="To%20come%20to%20the%20front.html">To come to the front</a>, <a href="von%20Bismarck.html">von Bismarck</a>, <a href="von%20Blucher.html">von Blucher</a>, <a href="Zollverein.html">Zollverein</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					keadership, oeadership, peadership, lwadership, lsadership, ldadership, lradership, leqdership, lewdership, lesdership, lezdership, leasership, leaeership, leafership, leacership, leaxership, leasership, leadwrship, leadsrship, leaddrship, leadrrship, leadeeship, leadedship, leadefship, leadetship, leaderahip, leaderwhip, leaderdhip, leaderxhip, leaderzhip, leaderahip, leadersgip, leadersyip, leadersjip, leadersnip, leadersbip, leadershup, leadershjp, leadershkp, leadershop, leadershio, leadershil
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,491 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>ideology</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">ideology</span> <span class="exp">imaginary or visionary theorization</span> </li><li><span class="tSpeech">n</span> <span class="term">ideology</span> <span class="exp">an orientation that characterizes the thinking of a group or nation</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Ideology</span> <span class="exp">A set or system of theories and beliefs held by an individual or group, especially about sociopolitical goals and methods to attain them; in common usage, <span class="wUex">ideology</span> is such a set of beliefs so strongly held by their adherents as to cause them to ignore evidence against such beliefs, and thus fall into error -- in this sense it is viewed as a negative trait; contrasted to <span class="wUcontr">pragmatism</span>, and distinct from idealism.</span> </li><li><span class="term">Ideology</span> <span class="exp"><span class="wuFld">(Metaph)</span> A theory of the origin of ideas which derives them exclusively from sensation.</span> </li><li><span class="term">Ideology</span> <span class="exp">The science of ideas.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">ideology</span> <span class="exp">The science of ideas or of mind; a name applied by the later disciples of the French philosopher Condillac to the history and evolution of human ideas, considered as so many successive forms or modes of certain original or transformed sensations; that system of mental philosophy which derives knowledge exclusively from sensation.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Ideology</span> <span class="exp"><span class="itl">ī-de-ol′o-ji</span> the science of ideas, metaphysics</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Russell Crowe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Russell Crowe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I like villains because there's something so attractive about a committed person -- they have a plan, an ideology, no matter how twisted. They're motivated.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eugene Ionesco</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eugene%20Ionesco.jpg" alt="Eugene%20Ionesco">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ideologies separate us. Dreams and anguish bring us together.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Le Carre</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Le Carre">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ideologies have no heart of their own. They're the whores and angels of our striving selves.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Carl Jung</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Carl%20Jung.jpg" alt="Carl%20Jung">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Our blight is ideologies -- they are the long-expected Antichrist!”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Richard A. Nelson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Richard A. Nelson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If you take away ideology, you are left with a case by case ethics which in practice ends up as me first, me only, and in rampant greed.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marshall Mcluhan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marshall%20Mcluhan.jpg" alt="Marshall%20Mcluhan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The successor to politics will be propaganda. Propaganda, not in the sense of a message or ideology, but as the impact of the whole technology of the times.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					 <span class="wUets">Ideo-</span>, + <span class="wUets">-logy</span>,: cf. F. <span class="wUets">idéologie</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr. <i>idea</i>, idea, <i>logia</i>, discourse.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The war that began in 1939 came to be expressed in terms which were even more ideological than had been true of the First World War.
+					</div>
+					<div class="uAuthor">
+						"The Black Experience in America" by <span>Norman Coombs</span>					</div>
+										<div class="usage">
+						The NuPrometheus caper was a complex, highly ideological, and very hacker-like crime.
+					</div>
+					<div class="uAuthor">
+						"Hacker Crackdown" by <span>Bruce Sterling</span>					</div>
+										<div class="usage">
+						I know these have no ideology, no race.
+					</div>
+					<div class="uAuthor">
+						"United States Presidents' Inaugural Speeches" by <span>Various</span>					</div>
+										<div class="usage">
+						The governing ideology has withdrawn all authority from custom, from religion, from the State.
+					</div>
+					<div class="uAuthor">
+						"The Origins of Contemporary France, Volume 1 (of 6)" by <span>Hippolyte A. Taine</span>					</div>
+										<div class="usage">
+						When an ideology attracts people, it is less due to its sophistication than to the promises it holds out.
+					</div>
+					<div class="uAuthor">
+						"The Origins of Contemporary France, Volume 3 (of 6)" by <span>Hippolyte A. Taine</span>					</div>
+										<div class="usage">
+						He sends his ideology to the right about and thus becomes easily manageable.
+					</div>
+					<div class="uAuthor">
+						"Memoirs of Napoleon Bonaparte, Complete" by <span>Louis Antoine Fauvelet de Bourrienne</span>					</div>
+										<div class="usage">
+						Enamoured with the new ideology of free marketry cum democracy, the West first assumed the role of the omniscient.
+					</div>
+					<div class="uAuthor">
+						"After the Rain" by <span>Sam Vaknin</span>					</div>
+										<div class="usage">
+						Intellectualism is based on the category of judgment, and judgment too is a ideological attitude.
+					</div>
+					<div class="uAuthor">
+						"Harvard Psychological Studies, Volume 1" by <span>Various</span>					</div>
+										<div class="usage">
+						In their ideology, as will be remembered, the Chinese gentry were always in favour of Confucianism.
+					</div>
+					<div class="uAuthor">
+						"A history of China., [3d ed. rev. and enl.]" by <span>Wolfram Eberhard</span>					</div>
+										<div class="usage">
+						They should be destroyed because their ideology does not agree with yours.
+					</div>
+					<div class="uAuthor">
+						"The Galaxy Primes" by <span>Edward Elmer Smith</span>					</div>
+										<div class="usage">
+						But, as Engels pointed out, Socialism also has its ideological side.
+					</div>
+					<div class="uAuthor">
+						"Socialism: Positive and Negative" by <span>Robert Rives La Monte</span>					</div>
+										<div class="usage">
+						What's an ideology if there are no people to follow it?
+					</div>
+					<div class="uAuthor">
+						"Pandemic" by <span>Jesse Franklin Bone</span>					</div>
+										<div class="usage">
+						This topsy-turvy ideology had to be put aside.
+					</div>
+					<div class="uAuthor">
+						"Feuerbach: The roots of the socialist philosophy" by <span>Frederick Engels</span>					</div>
+										<div class="usage">
+						The current conception is a ideological one.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						Democracy is based on empowerment, while the terrorists' ideology is based on enslavement.
+					</div>
+					<div class="uAuthor">
+						"National Strategy for Combating Terrorism" by <span>United States</span>					</div>
+										<div class="usage">
+						He sits down and helps her in the work, writing meanwhile, between the acts, an alphabetic ideology on Art and Life.
+					</div>
+					<div class="uAuthor">
+						"The Book of Khalid" by <span>Ameen Rihani</span>					</div>
+										<div class="usage">
+						IDEOLOGICAL ORIGINS OF THE AMERICAN REVOLUTION.
+					</div>
+					<div class="uAuthor">
+						"The Road to Independence: Virginia 1763-1783" by <span>Virginia State Dept. of Education</span>					</div>
+										<div class="usage">
+						Also, it was done partly on ideological grounds.
+					</div>
+					<div class="uAuthor">
+						"Industrial Revolution" by <span>Poul William Anderson</span>					</div>
+										<div class="usage">
+						So ideologies arose to try to solve the dilemma of a basically static society, and they fought wars.
+					</div>
+					<div class="uAuthor">
+						"Bear Trap" by <span>Alan Edward Nourse</span>					</div>
+										<div class="usage">
+						The role of women, which had begun to change in the 1930s, was greatly altered under the influence of ideology and of economic realities.
+					</div>
+					<div class="uAuthor">
+						"Area Handbook for Bulgaria" by <span>Eugene K. Keefe, Violeta D. Baluyut, William Giloane, Anne K. Long, James M. Moore, and Neda A. Walpole</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Now he explains their ideology.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Asia-Pacific/2009/0719/p06s07-woap.html" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						The paper is a Noah's Ark of the Arab world, encompassing every imaginable political and ideological shade.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1997/01/15/world/al-hayat-a-journalistic-noah-s-ark.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The college students who so offended Goldberg were dead right: People blinded by their own ideology are narrow- minded and backward-thinking.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/opinion/opinion-la/la-ol-goldberg-cliches-conservatism-20120502,0,6950098.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						We all know that Norwegian terrorist Anders Behring Breivik, who killed dozens of people in attacks last Friday, was motivated by a toxic mélange of far-right ideology largely revolving around his intense hatred of Islam.
+					</div>
+					<div class="uAuthor">
+						<a href="http://msmagazine.com/blog/blog/2011/07/28/echoes-of-online-misogyny-in-the-norway-murderers-manifesto/" target="_blank" rel="external nofollow">msmagazine.com</a>
+					</div>
+										<div class="usage">
+						Co-editors explore how racist ideology affects whites.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.montereyherald.com/ci_21960569/ann-todd-jealous-caroline-haskell-speak-new-book?source=most_emailed" target="_blank" rel="external nofollow">montereyherald.com</a>
+					</div>
+										<div class="usage">
+						An Ideology Takes Up Arms Against Peace.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1994/02/27/weekinreview/never-again-an-ideology-takes-up-arms-against-peace.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Jerry Brown urged lawmakers of both political parties to get out of their comfort zones and rise above ideology for the good of the state in a 16-minute inauguration speech Monday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Politics/2011/0103/Jerry-Brown-sets-no-nonsense-tone-for-California-in-inauguration-speech" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						(Sept 16, 2010) Once again — see this week's "Mailbox" — my neighbor Neal Latt upbraids the Journal for ideological impurity when it comes to matters Arklish.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.northcoastjournal.com/news/2010/09/16/offsides/" target="_blank" rel="external nofollow">northcoastjournal.com</a>
+					</div>
+										<div class="usage">
+						Among the atrocities committed by Stalin, Mao, Pol Pot and Hitler was the silencing of artists, killed or forced to adhere to ideology.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2008/04/15/arts/music/15axio.html?n=Top/Reference/Times%20Topics/People/C/Conlon,%20James?ref=jamesconlon" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						A few Republicans and Democrats are turning away from their party's ideology.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Business/Tax-VOX/2011/0225/Little-rebellions-against-party-orthodoxy" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						The Post reports that the committee overhaul is "rattling" some HHS staff members, who say such widespread ideological changes at the agency haven't been seen since the beginning of the Reagan administration in 1981.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.advocate.com/health/health-news/2002/09/18/bush-administration-overhauling-hhs-panels-6257" target="_blank" rel="external nofollow">advocate.com</a>
+					</div>
+										<div class="usage">
+						It is the specter of ideological overreach.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/05/20/AR2010052003883.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Tea Party Ideology Driving a Wedge in Republican Party Politics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/newshour/bb/politics/july-dec10/chalian_07-07.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						No matter how far the ideological pendulum swings in the short term, in the end the bedrock common sense of the American people will prevail.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/02/04/AR2010020403623.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Barack Obama's surprisingly non-ideological policy shop .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnr.com/article/the-audacity-data" target="_blank" rel="external nofollow">tnr.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						If K ~Q is Galois, then the action of Gal(K ~Q) on K extends to an action and these K -ideologies may be multiplied according to an obvious analogue of ral, c.f. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						The classes of badly approximable, (very) well approximable and Liouville matrices arithmetic of nonprincipal ideologies. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						In the special case of a single form the dual groups give rise to an ideological partially acts on the set of r × s matrices ˜Mr,s (R) inducing ideological isomorphisms that preserve the matrix ideological product. C. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						Denote ∗ ˜Z = ∗ (Z[X ]) the ring of (possibly inﬁnite degree) nonstandard polynomials and laws play in Mahler’s classiﬁcation it is natural to introduce ideologies based on the ∗Z ∶= (∗Z)[X ] the subring of ﬁnite degree polynomials. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						For each θ we deﬁne the (degree ﬁltered) Frobenius ideology∗ ˜Z(θ) = {∗ ˜Z ¯ν (θ)∗ ˘d} for ¯µ, ¯ν ∈ ☆PRε and ∗ ˘d the Frobenius class of the degree ∗d. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						The latter is called the ordinary ideological structure. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						We characterize the Mahler classes and Mahler types according to the which is viewed as a directed set, as well as the ﬁltration of subsets deﬁned by portraits of their nonvanishing spectra e.g. see Figure 3, Theorems 40–43 and the wholly reasonable demand that the inclusion ∗Z(θ)  ∗ ˜Z(θ) be ideological. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						The most general version of the ordinary ideological product is ∗ ˜Zµ(µ1−∗ e−1 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						The Theorem which follows emphasizes the importance of the ideological structure in distinguishing decoupled diophantine approximation groups. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						In general, for z , z ′ ∈ K, if Spec(z) ~= Spec(z ′ ) then ∗ [O](z) ~= ∗ [O](z ′ ) as ideologies. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						For z , z ′ ∈ K, z àK z ′ ⇒ ∗ [O](z) = ∗ [O](z ′ ) as ideologies. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						If ∗ [O](z) = ∗ [O](z ′ ) as ideologies then z àK z ′ . 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						We now introduce the ideological product of decoupled ideologies associated to Theorem 56 (Decoupled Ideological Product). 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						PGL2 (O) in each of its arguments. the ideology. 
+					</div>
+					<div class="uAuthor">
+						Real Algebraic Number Theory II. Ideological Arithmetic
+					</div>
+										<div class="usage">
+						According to the ideology developed in Section 5 both the ﬁeld in which the quarks move and their interaction should be considered as random in the large N limit. 
+					</div>
+					<div class="uAuthor">
+						Body Fixed Frame, Rigid Gauge Rotations and Large N Random Fields in QCD
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an orientation that characterizes the thinking of a group or nation"><a href="political%20orientation.html">political orientation</a>, <a href="political%20theory.html">political theory</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="orientation.html">orientation</a>, <a href="theorisation.html">theorisation</a>, <a href="theorization.html">theorization</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="negritude.html">negritude</a>, <a href="orleanism.html">orleanism</a>, <a href="utopianism.html">utopianism</a>, <a href="absolutism.html">absolutism</a>, <a href="anarchism.html">anarchism</a>, <a href="autocracy.html">autocracy</a>, <a href="centrism.html">centrism</a>, <a href="collectivism.html">collectivism</a>, <a href="communism.html">communism</a>, <a href="conservatism.html">conservatism</a>, <a href="conservativism.html">conservativism</a>, <a href="constitutionalism.html">constitutionalism</a>, <a href="democracy.html">democracy</a>, <a href="domino%20theory.html">domino theory</a>, <a href="dovishness.html">dovishness</a>, <a href="elitism.html">elitism</a>, <a href="extremism.html">extremism</a>, <a href="fascism.html">fascism</a>, <a href="federalism.html">federalism</a>, <a href="hawkishness.html">hawkishness</a>, <a href="imperialism.html">imperialism</a>, <a href="leftism.html">leftism</a>, <a href="liberalism.html">liberalism</a>, <a href="libertarianism.html">libertarianism</a>, <a href="meritocracy.html">meritocracy</a>, <a href="moderatism.html">moderatism</a>, <a href="monarchism.html">monarchism</a>, <a href="progressivism.html">progressivism</a>, <a href="radicalism.html">radicalism</a>, <a href="reactionism.html">reactionism</a>, <a href="republicanism.html">republicanism</a>, <a href="rightism.html">rightism</a>, <a href="segregationism.html">segregationism</a>, <a href="social%20democracy.html">social democracy</a>, <a href="socialism.html">socialism</a>, <a href="theocracy.html">theocracy</a>, <a href="totalism.html">totalism</a>, <a href="totalitarianism.html">totalitarianism</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="ideologic.html">ideologic</a>, <a href="ideological.html">ideological</a>, <a href="ideologist.html">ideologist</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adopt.html">adopt</a>, <a href="cleanse.html">cleanse</a>, <a href="containment.html">containment</a>, <a href="denazify.html">denazify</a>, <a href="embrace.html">embrace</a>, <a href="espouse.html">espouse</a>, <a href="free%20press.html">free press</a>, <a href="front.html">front</a>, <a href="Ideogenical.html">Ideogenical</a>, <a href="ideological.html">ideological</a>, <a href="ideologically.html">ideologically</a>, <a href="ideologist.html">ideologist</a>, <a href="ideologue.html">ideologue</a>, <a href="infect.html">infect</a>, <a href="Jacobinism.html">Jacobinism</a>, <a href="leftism.html">leftism</a>, <a href="movement.html">movement</a>, <a href="nazi.html">nazi</a>, <a href="PFLP.html">PFLP</a>, <a href="Popular%20Front%20for%20the%20Liberation%20of%20Palestine.html">Popular Front for the Liberation of Palestine</a>, <a href="rightism.html">rightism</a>, <a href="social%20movement.html">social movement</a>, <a href="sweep%20up.html">sweep up</a>, <a href="Truman%20doctrine.html">Truman doctrine</a>, <a href="unify.html">unify</a>, <a href="unite.html">unite</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					udeology, jdeology, kdeology, odeology, iseology, ieeology, ifeology, iceology, ixeology, iseology, idwology, idsology, iddology, idrology, ideilogy, ideklogy, idellogy, ideplogy, ideokogy, ideooogy, ideopogy, ideoligy, ideolkgy, ideollgy, ideolpgy, ideolofy, ideoloty, ideolohy, ideoloby, ideolovy, ideologt, ideologg, ideologh, ideologu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,538 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>forgetfulness</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">forgetfulness</span> <span class="exp">tendency to forget</span> </li><li><span class="tSpeech">n</span> <span class="term">forgetfulness</span> <span class="exp">unawareness caused by neglectful or heedless failure to remember</span> <span class="quot">"his forgetfulness increased as he grew older"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The 1st time the "f-word" was spoken in a movie was by Marianne Faithfull in the 1968 film, "I'll Never Forget Whatshisname." In Brian De Palma's 1984 movie, "Scarface," the word is spoken 206 times an average of once every 29 seconds.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Forgetfulness</span> <span class="exp">Failure to bear in mind; careless omission; inattention; as, <span class="wUex">forgetfulness</span> of duty.</span> </li><li><span class="term">Forgetfulness</span> <span class="exp">Loss of remembrance or recollection; a ceasing to remember; oblivion.</span> <span class="wuQuot">"A sweet forgetfulness of human care."</span></li><li><span class="term">Forgetfulness</span> <span class="exp">The quality of being forgetful; prononess to let slip from the mind.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The national dish of Scotland, haggis, is made of the heart, liver, lungs and small intestines of a calf. It's then boiled in the stomach of the animal, and seasoned with salt, pepper and onions. Oh, and don't forget to add the suet and oatmeal.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">forgetfulness</span> <span class="exp">The character or state of being forgetful; proneness to let past experience and knowledge slip from the mind.</span> </li><li><span class="tSpeech">n</span> <span class="term">forgetfulness</span> <span class="exp">The state of having passed from remembrance or recollection; the fact of having ceased to be remembered; oblivion.</span> </li><li><span class="tSpeech">n</span> <span class="term">forgetfulness</span> <span class="exp">Neglect; negligence; careless omission; inattention.</span> </li><li><span class="tSpeech">n</span> <span class="term">forgetfulness</span> <span class="exp">Synonyms Obliviousness, etc. See oblivion.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Milan Kundera</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Milan%20Kundera.jpg" alt="Milan%20Kundera">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The struggle of man against power is the struggle of memory against forgetting.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alfred Mercier</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Alfred Mercier">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What we learn with pleasure we never forget.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Irish Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Irish Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When you are right no one remembers; when you are wrong no one forgets.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry David Thoreau</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20David%20Thoreau.jpg" alt="Henry%20David%20Thoreau">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Of what significance are the things you can forget.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nothing improves the memory more than trying to forget.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men never remember, but women never forget.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In a moment tenderness made the young man forget his anxiety.
+					</div>
+					<div class="uAuthor">
+						"John Ward, Preacher" by <span>Margaret Deland</span>					</div>
+										<div class="usage">
+						I shall never forget his face as he did it.
+					</div>
+					<div class="uAuthor">
+						"The Place Beyond the Winds" by <span>Harriet T. Comstock</span>					</div>
+										<div class="usage">
+						He could never forget this room and all that it had held for him.
+					</div>
+					<div class="uAuthor">
+						"From the Housetops" by <span>George Barr McCutcheon</span>					</div>
+										<div class="usage">
+						Thus a forgetting may be purely the result of an emotional interference which makes it, all in all, more pleasant to forget than to remember.
+					</div>
+					<div class="uAuthor">
+						"Applied Psychology for Nurses" by <span>Mary F. Porter</span>					</div>
+										<div class="usage">
+						It was youth's way to listen and youth's way to find it easy to forget.
+					</div>
+					<div class="uAuthor">
+						"Robin" by <span>Frances Hodgson Burnett</span>					</div>
+										<div class="usage">
+						I was almost forgetting it.
+					</div>
+					<div class="uAuthor">
+						"The Vicomte de Bragelonne" by <span>Alexandre Dumas</span>					</div>
+										<div class="usage">
+						And you, castellan, do not forget that the dream has not been altogether fulfilled.
+					</div>
+					<div class="uAuthor">
+						"Napoleon and the Queen of Prussia" by <span>L. Mühlbach,</span>					</div>
+										<div class="usage">
+						I can no more forget him than I can forget that I have a heart which must go on beating while I live.
+					</div>
+					<div class="uAuthor">
+						"The Guests Of Hercules" by <span>C. N. Williamson and A. M. Williamson</span>					</div>
+										<div class="usage">
+						How could they forget you; how could they forget my Ratcliffe?
+					</div>
+					<div class="uAuthor">
+						"Henrietta Temple A Love Story" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						I forget that Madame has exploited him as a millionaire.
+					</div>
+					<div class="uAuthor">
+						"Everyman's Land" by <span>C. N. Williamson and A. M. Williamson</span>					</div>
+										<div class="usage">
+						She could find gold beneath mud and forget the mud.
+					</div>
+					<div class="uAuthor">
+						"The Call of the Blood" by <span>Robert Smythe Hichens</span>					</div>
+										<div class="usage">
+						Never shall I forget that awful night.
+					</div>
+					<div class="uAuthor">
+						"Ernest Linwood" by <span>Caroline Lee Hentz</span>					</div>
+										<div class="usage">
+						Are you forgetting things like these?
+					</div>
+					<div class="uAuthor">
+						"Christine" by <span>Amelia Edith Huddleston Barr</span>					</div>
+										<div class="usage">
+						He was always deferential to officers, never forgetting their potentialities as to future command.
+					</div>
+					<div class="uAuthor">
+						"Command" by <span>William McFee</span>					</div>
+										<div class="usage">
+						He who deserts his faith may well forget that his birth was noble.
+					</div>
+					<div class="uAuthor">
+						"Maurice Tiernay Soldier of Fortune" by <span>Charles James Lever</span>					</div>
+										<div class="usage">
+						He won't never forget that.
+					</div>
+					<div class="uAuthor">
+						"Paradise Bend" by <span>William Patterson White</span>					</div>
+										<div class="usage">
+						You will never forget to tell me of that, I am sure!
+					</div>
+					<div class="uAuthor">
+						"Mrs. Halliburton's Troubles" by <span>Mrs. Henry Wood</span>					</div>
+										<div class="usage">
+						I don't think she will forget them, and I am sure they won't forget her.
+					</div>
+					<div class="uAuthor">
+						"Willing to Die" by <span>Joseph Sheridan Le Fanu</span>					</div>
+										<div class="usage">
+						If he could forget that he had authorised me to sell that black oak furniture of his he could forget more vital matters.
+					</div>
+					<div class="uAuthor">
+						"The Tower of Oblivion" by <span>Oliver Onions</span>					</div>
+										<div class="usage">
+						We forget nothing, in fact, nothing at all.
+					</div>
+					<div class="uAuthor">
+						"The Ivory Gate, a new edition" by <span>Walter Besant</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"Nay, Lad, where all your mates are met<br>
+Go you the selfsame way,<br>
+Another dance I would forget<br>
+Wherein I too was gay."
+							<div class="poet">"The Silent One" by <span>Theodosia Garrison</span></div>
+						</div>
+											<div class="poemQuote">
+							Those born in obscure times<br>
+Do not remember their way.<br>
+We, children of Russia's frightful years<br>
+Cannot forget a thing.
+							<div class="poet">"Those Born In Obscure Times" by <span>Aleksandr Aleksandrovich Blok</span></div>
+						</div>
+											<div class="poemQuote">
+							Thou wilt in my white arms then<br>
+Nay, on my breast thou must<br>
+Forget and rest and dream there<br>
+For thine old legend-lust.
+							<div class="poet">"Translations And Adaptations From Heine" by <span>Ezra Pound</span></div>
+						</div>
+											<div class="poemQuote">
+							From the solemn gloom of the temple<br>
+children run out to sit in the dust,<br>
+God watches them play<br>
+and forgets the priest.
+							<div class="poet">"Fireflies" by <span>Rabindranath Tagore</span></div>
+						</div>
+											<div class="poemQuote">
+							Forget not, but forgive!<br>
+Alas, too late I cry.<br>
+We are two ghosts that had their chance to live,<br>
+And lost it, she and I.<br>
+
+							<div class="poet">"To A Portrait" by <span>Arthur Symons</span></div>
+						</div>
+											<div class="poemQuote">
+							Turn Thou the key upon our thoughts, dear Lord,<br>
+And let us sleep;<br>
+Give us our portion of forgetfulness,<br>
+Silent and deep.
+							<div class="poet">"At Midnight" by <span>Virna Sheard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Forget Stocks—Chinese Turn Bullish on Booze and Caterpillar Fungus.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052970203471004577142594203471950.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Forget the daily schedule of children's activities that runs the gamut from scavenger hunts to a half-day camp program.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wkoa.com/wkoa/lifestyle/travel/orl-livkeyswithkids021509feb15,0,5416799.story" target="_blank" rel="external nofollow">wkoa.com</a>
+					</div>
+										<div class="usage">
+						Forget the kid-friendly facilities that include a game room, dance floor and basketball court.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wkoa.com/wkoa/lifestyle/travel/orl-livkeyswithkids021509feb15,0,5416799.story" target="_blank" rel="external nofollow">wkoa.com</a>
+					</div>
+										<div class="usage">
+						Forget left-hander Raul Valdes' three scoreless relief innings in Tuesday's 8-0 win against the Philadelphia Phillies, which resulted in the Cuban defector picking up his first major league save.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/new-york/mets/post/_/id/3444/valdes-has-center-field-roots" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Perhaps you've spent years trying to forget these nightmarishly misguided attempts at appealing to America's children.
+					</div>
+					<div class="uAuthor">
+						<a href="http://amny.com/urbanite-1.812039/29-sugary-treats-cereal-box-art-that-s-surreal-1.896922" target="_blank" rel="external nofollow">amny.com</a>
+					</div>
+										<div class="usage">
+						It's a little silly, but the kids do ask for it if I forget.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nea.org/tools/tips/Test-Chant.html" target="_blank" rel="external nofollow">nea.org</a>
+					</div>
+										<div class="usage">
+						Felix Hernandez is icon Seattle needed and will not forget.
+					</div>
+					<div class="uAuthor">
+						<a href="http://seattletimes.nwsource.com/html/jerrybrewer/2018934397_brewer17.html?syndication=rss" target="_blank" rel="external nofollow">seattletimes.nwsource.com</a>
+					</div>
+										<div class="usage">
+						Forget Vanya on 42nd street.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wbur.org/2012/10/21/vanya-chekhov-apollinaire" target="_blank" rel="external nofollow">wbur.org</a>
+					</div>
+										<div class="usage">
+						Don't forget to listen up around 8PM when the Rocktagon begins.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wgrd.com/rocktagon-killinger-vs-black-stone-cherry/" target="_blank" rel="external nofollow">wgrd.com</a>
+					</div>
+										<div class="usage">
+						Forget the flourishes of years past.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/slideshow/2008/12/05/fashion/20081207-pulse_2.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						With all the coaching turmoil surrounding Pittsburgh this past month, it could be easy to forget the Panthers still have a game to play.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/bigeast/post/_/id/16880/bbva-compass-bowl-pitt-7-5-vs-kentucky-6-6" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						But for those with access, don't forget to tune in.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.syracuse.com/shelflife/2009/03/the_no_1_ladies_detective_agen.html" target="_blank" rel="external nofollow">blog.syracuse.com</a>
+					</div>
+										<div class="usage">
+						Don't forget: Change clocks, fire alarm batteries.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.times-standard.com/localnews/ci_21920773/dont-forget-change-clocks-fire-alarm-batteries" target="_blank" rel="external nofollow">times-standard.com</a>
+					</div>
+										<div class="usage">
+						Forget the publisher's misleading comparisons to the intellectual teasers Possession and The Name of the Rose and enjoy this highly colored historical novel on its own merits.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/978-0-312-07749-5" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<div class="usage">
+						Forget Brad, George and Javier.
+					</div>
+					<div class="uAuthor">
+						<a href="http://visionmonday.com/Default.aspx?TabId=211&amp;content_id=31109&amp;catId=170&amp;SkinSrc=[L]Skins/VM2007/PagePrint&amp;ContainerSrc=[L]Containers/VM2007/SimpleContainer&amp;dnnprintmode=true" target="_blank" rel="external nofollow">visionmonday.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						It is often said that if U is small enough compared to some characteristic length derived from the Riemann tensor then we can forget about General Relativity and deal with U as if were a small domain of Minkowski’s spacetime. 
+					</div>
+					<div class="uAuthor">
+						Isometry germs and related structures
+					</div>
+										<div class="usage">
+						The tiny wiggle in the solid curve around m = 4 is a remainder of the initial conditions that apparently the algorithm does not ‘forget’. 
+					</div>
+					<div class="uAuthor">
+						Dust coagulation in protoplanetary disks: a rapid depletion of small grains
+					</div>
+										<div class="usage">
+						And, as for symplectic triple systems, in characteristic 3 one can forget about sl2 (k) and k2 in (1.1) and get ˜g as in (1.2) which is, now, a Lie algebra (instead of a superalgebra). 
+					</div>
+					<div class="uAuthor">
+						New simple Lie superalgebras in characteristic 3
+					</div>
+										<div class="usage">
+						More precisely, we can forget about sp(V ) and V in Theorem 2.9 and get, not a Z2 -graded Lie algebra, but a Lie superalgebra. 
+					</div>
+					<div class="uAuthor">
+						New simple Lie superalgebras in characteristic 3
+					</div>
+										<div class="usage">
+						Now forget about the bugs, and look only at the collection of cards that were left behind at each site. 
+					</div>
+					<div class="uAuthor">
+						Goldbug Variations
+					</div>
+										<div class="usage">
+						Assuming that this energy has already been renormalized we can forget about the imaginary part of Q and concentrate on the real part. 
+					</div>
+					<div class="uAuthor">
+						Random Matrices and Supersymmetry in Disordered Systems
+					</div>
+										<div class="usage">
+						The idea is to forget every label and to add a root which is deﬁned as a star and a branch of this star. 
+					</div>
+					<div class="uAuthor">
+						Combinatorial aspects of matrix models
+					</div>
+										<div class="usage">
+						Suppose we try to perform Fourier sampling over the abelian group A0,0 × N∞ ∼= Zp × Zp × Zp (the forgetful abelian method) instead of the non-abelian group Hp . 
+					</div>
+					<div class="uAuthor">
+						On the Power of Random Bases in Fourier Sampling: Hidden Subgroup Problem in the Heisenberg Group
+					</div>
+										<div class="usage">
+						Thus, the forgetful abelian method gives exponentially small information about i. 
+					</div>
+					<div class="uAuthor">
+						On the Power of Random Bases in Fourier Sampling: Hidden Subgroup Problem in the Heisenberg Group
+					</div>
+										<div class="usage">
+						In the sequel, we wil l sometimes forget the superscript ω in Gω δ , when there wil l be no ambiguity. 
+					</div>
+					<div class="uAuthor">
+						Random walks in a Dirichlet environment
+					</div>
+										<div class="usage">
+						However, to keep the notation as simple as possible we will forget the tilde and keep the N. 2.3 Resolution of a Dirichlet Problem Consider the generic manifold N × Rn ⊂ Ck+m × Cn . 
+					</div>
+					<div class="uAuthor">
+						On the Holomorphic Extension of CR Distributions from Non Generic CR Submanifolds of $\C^L$
+					</div>
+										<div class="usage">
+						Now, however, let us forget the labels of the attachment vertices ai of Ti , while remembering their types. 
+					</div>
+					<div class="uAuthor">
+						The phase transition in inhomogeneous random graphs
+					</div>
+										<div class="usage">
+						The ﬁrst one is that if C is ﬂat as a left A–module then, using that the forgetful functor U : MC → MA is faithful and exact, the following lemma can be proved (see ). 
+					</div>
+					<div class="uAuthor">
+						Galois Corings and a Jacobson-Bourbaki type Correspondence
+					</div>
+										<div class="usage">
+						This ties in nicely with Eilenberg-Kelly-MacLane graphs and Kelly-Laplaza graphs [KL80] for compact closed categories, since each has a forgetful functor to Int(Setp). 
+					</div>
+					<div class="uAuthor">
+						Simple free star-autonomous categories and full coherence
+					</div>
+										<div class="usage">
+						Turbo cut elimination is the very same path composition, hence there is a forgetful (faithful) functor from the category N of MLL proof nets to GoI(Setp), extracting the leaves from a formula. 
+					</div>
+					<div class="uAuthor">
+						Simple multiplicative proof nets with units
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="amnesia.html">amnesia</a>, <a href="blackout.html">blackout</a>, <a href="memory%20loss.html">memory loss</a>, <a href="unawareness.html">unawareness</a>, <a href="unknowingness.html">unknowingness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="oblivion.html">oblivion</a>, <a href="obliviousness.html">obliviousness</a>, <a href="senior%20moment.html">senior moment</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="forgetful.html">forgetful</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="amnesia.html">amnesia</a>, <a href="amnesty.html">amnesty</a>, <a href="brave.html">brave</a>, <a href="breathless.html">breathless</a>, <a href="Forgettingly.html">Forgettingly</a>, <a href="heredity.html">heredity</a>, <a href="ingratitude.html">ingratitude</a>, <a href="Irretention.html">Irretention</a>, <a href="leave.html">leave</a>, <a href="Lethe.html">Lethe</a>, <a href="Lethean.html">Lethean</a>, <a href="Lethy.html">Lethy</a>, <a href="Nepenthes.html">Nepenthes</a>, <a href="oblivion.html">oblivion</a>, <a href="oblivious.html">oblivious</a>, <a href="obliviousness.html">obliviousness</a>, <a href="self-denial.html">self-denial</a>, <a href="self-sacrifice.html">self-sacrifice</a>, <a href="such.html">such</a>, <a href="Unremembrance.html">Unremembrance</a>, <a href="What-d%27ye-call.html">What-d'ye-call</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					dorgetfulness, rorgetfulness, gorgetfulness, vorgetfulness, corgetfulness, firgetfulness, fkrgetfulness, flrgetfulness, fprgetfulness, foegetfulness, fodgetfulness, fofgetfulness, fotgetfulness, forfetfulness, fortetfulness, forhetfulness, forbetfulness, forvetfulness, forgwtfulness, forgstfulness, forgdtfulness, forgrtfulness, forgerfulness, forgeffulness, forgegfulness, forgeyfulness, forgetdulness, forgetrulness, forgetgulness, forgetvulness, forgetculness, forgetfylness, forgetfhlness, forgetfjlness, forgetfilness, forgetfukness, forgetfuoness, forgetfupness, forgetfulbess, forgetfulhess, forgetfuljess, forgetfulmess, forgetfulnwss, forgetfulnsss, forgetfulndss, forgetfulnrss, forgetfulneas, forgetfulnews, forgetfulneds, forgetfulnexs
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

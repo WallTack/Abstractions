@@ -1,0 +1,587 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>silence</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">silence</span> <span class="exp">cause to be quiet or not talk</span> <span class="quot">"Please silence the children in the church!"</span></li><li><span class="tSpeech">v</span> <span class="term">silence</span> <span class="exp">keep from expression, for example by threats or pressure</span> <span class="quot">"All dissenters were silenced when the dictator assumed power"</span></li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">a refusal to speak when expected</span> <span class="quot">"his silence about my contribution was surprising"</span></li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">the trait of keeping things secret</span> </li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">the absence of sound</span> <span class="quot">"he needed silence in order to sleep","the street was quiet"</span></li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">the state of being silent (as when no one is speaking)</span> <span class="quot">"there was a shocked silence","he gestured for silence"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Actress Michelle Pfeiffer was the first choice to play Clarice Starling in the movie "Silence of the Lambs." She turned down the role because she found it too scary									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Silence</span> <span class="exp">Absence of mention; oblivion.</span> <span class="wuQuot">"And what most merits fame, in silence hid."</span></li><li><span class="tSpeech">interj</span> <span class="term">Silence</span> <span class="exp">Be silent; -- used elliptically for <span class="wUex">let there be silence</span>, or <span class="wUex">keep silence</span>.</span> </li><li><span class="term">Silence</span> <span class="exp">Forbearance from, or absence of, speech; taciturnity; muteness.</span> </li><li><span class="term">Silence</span> <span class="exp">Secrecy; as, these things were transacted in <span class="wUex">silence</span>
+            .</span> <span class="wuQuot">"The administration itself keeps a profound silence ."</span></li><li><span class="term">Silence</span> <span class="exp">The cessation of rage, agitation, or tumilt; calmness; quiest; as, the elements were reduced to <span class="wUex">silence</span>
+            .</span> </li><li><span class="term">Silence</span> <span class="exp">The state of being silent; entire absence of sound or noise; absolute stillness.</span> <span class="wuQuot">"I saw and heared; for such a numerous host<br>
+Fled not in silence through the frighted deep."</span></li><li><span class="term">Silence</span> <span class="exp">To cause to cease firing, as by a vigorous cannonade; as, to <span class="wUex">silence</span> the batteries of an enemy.</span> </li><li><span class="term">Silence</span> <span class="exp">To compel to silence; to cause to be still; to still; to hush.</span> <span class="wuQuot">"Silence that dreadful bell; it frights the isle."</span></li><li><span class="term">Silence</span> <span class="exp">To put to rest; to quiet.</span> <span class="wuQuot">"This would silence all further opposition."</span><span class="wuQuot">"These would have silenced their scruples."</span></li><li><span class="term">Silence</span> <span class="exp">To restrain from the exercise of any function, privilege of instruction, or the like, especially from the act of preaching; as, to <span class="wUex">silence</span> a minister of the gospel.</span> <span class="wuQuot">"The Rev. Thomas Hooker of Chelmsford, in Essex, was silenced for nonconformity."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In "Silence of the Lambs", Hannibal Lector (Anthony Hopkins) does not blink in any scene.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">The state of being or keeping silent; forbearance or restraint of sound; abstinence from speech or other noise; muteness; reticence: as, to listen in silence; the chairman rapped for silence.</span> </li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">Absence of sound or noise; general stillness within the range or the power of hearing: as, the silence of midnight; the silence of the tomb.</span> </li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">Absence of mention: as, the silence of Scripture (on a particular subject); oblivion; obscurity.</span> </li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">In distilled spirits, want of flavor and odor; flatness; deadness. See silent spirit, under silent.</span> </li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">In music, same as rest, 8.</span> </li><li><span class="tSpeech">n</span> <span class="term">silence</span> <span class="exp">Synonyms See silent.</span> </li><li><span class="term">silence</span> <span class="exp">To cause to be or keep silent; put or bring to silence; restrain from speech or noise; stop the noise of: as, to silence a battery or a gun-boat.</span> </li><li><span class="term">silence</span> <span class="exp">To restrain from speech about something; cause or induce to be silent on a particular subject or class of subjects; make silent or speechless, as by restraint of privilege or license, or by unanswerable argument.</span> </li><li><span class="term">silence</span> <span class="exp">Hence To make quiescent; put at rest or into abeyance; stop the activity of: as, to silence one's conscience.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Revolvers cannot be silenced because of all the noisy gasses which escape the cylinder gap at the rear of the barrel.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Silence</span> <span class="exp"><span class="itl">sī′lens</span> state of being silent: absence of sound or speech: muteness: cessation of agitation: calmness: oblivion</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Silence</span> <span class="exp">to cause to be silent: to put to rest: to stop</span> </li><li><span class="tSpeech">interj</span> <span class="term">Silence</span> <span class="exp">be silent!—<span class="itl">adj.</span> <span class="bld">Sī′lent</span>, free from noise: not speaking: habitually taciturn: still: not pronounced: of distilled spirit, without flavour or odour</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The best answer to anger is silence.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">C. S. Robinson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="C. S. Robinson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There are times when God asks nothing of his children except silence, patience and tears.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Francis Bacon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Francis%20Bacon.jpg" alt="Francis%20Bacon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Silence is the virtue of fools.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Leroy Brownlow</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Leroy Brownlow">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There are times when silence has the loudest voice.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Carlyle.jpg" alt="Thomas%20Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Speech is of time, silence is of eternity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gilbert K. Chesterton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Gilbert%20K.%20Chesterton.jpg" alt="Gilbert%20K.%20Chesterton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Silence is the unbearable repartee.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Silence is golden</span> - It is often better to say nothing than to talk, so silence is golden.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F., fr. L. <span class="wUets">silentium</span>,. See <span class="wUer">Silent</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						When she woke again, Daddy Skinner was moving softly near the stove, kindling the fire, and Tessibel lay in languid silence.
+					</div>
+					<div class="uAuthor">
+						"The Secret of the Storm Country" by <span>Grace Miller White</span>					</div>
+										<div class="usage">
+						Silence fell upon the group as each watched intently.
+					</div>
+					<div class="uAuthor">
+						"The Girl in the Golden Atom" by <span>Raymond King Cummings</span>					</div>
+										<div class="usage">
+						They worked in silence for a few minutes.
+					</div>
+					<div class="uAuthor">
+						"Prisoners of Hope" by <span>Mary Johnston</span>					</div>
+										<div class="usage">
+						Silence, a long, panting silence; then the sound of a falling body; then the door opened a little and the twitching face of Madam appeared.
+					</div>
+					<div class="uAuthor">
+						"The Trail of '98" by <span>Robert W. Service</span>					</div>
+										<div class="usage">
+						There was a silence when we saw it, a silence of astonishment.
+					</div>
+					<div class="uAuthor">
+						"The Long Roll" by <span>Mary Johnston</span>					</div>
+										<div class="usage">
+						And the two sat in silence, hands clasped in the lovely summer night.
+					</div>
+					<div class="uAuthor">
+						"The Forbidden Trail" by <span>Honoré Willsie</span>					</div>
+										<div class="usage">
+						Thus it occurs to me now that I can't conceive of an intelligent person thinking in silence.
+					</div>
+					<div class="uAuthor">
+						"Erik Dorn" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						And her silence was instant and complete.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Unaga" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						Stephen did not close his eyes long after they had lain down, and there was utter silence in the place except for heavy breathings.
+					</div>
+					<div class="uAuthor">
+						"A Girl of the Klondike" by <span>Victoria Cross</span>					</div>
+										<div class="usage">
+						He went to the Players' Club and lunched alone in brooding silence.
+					</div>
+					<div class="uAuthor">
+						"The Root of Evil" by <span>Thomas Dixon</span>					</div>
+										<div class="usage">
+						The roar of the river had come so gradually to her ear that now she was hardly aware of it; indeed the wilderness seemed weighted with silence.
+					</div>
+					<div class="uAuthor">
+						"The Snowshoe Trail" by <span>Edison Marshall</span>					</div>
+										<div class="usage">
+						Otherwise deep silence, such silence as drives the soul back upon itself.
+					</div>
+					<div class="uAuthor">
+						"Robert Elsmere" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						Whatever she did was done in silence.
+					</div>
+					<div class="uAuthor">
+						"Allison Bain" by <span>Margaret Murray Robertson</span>					</div>
+										<div class="usage">
+						For a short while they rolled along in silence, silence save for the rattling labour of the car.
+					</div>
+					<div class="uAuthor">
+						"Stubble" by <span>George Looms</span>					</div>
+										<div class="usage">
+						A painful silence followed, a silence of nearly a minute, and then the judge pronounced his sentence.
+					</div>
+					<div class="uAuthor">
+						"The Day of Judgment" by <span>Joseph Hocking</span>					</div>
+										<div class="usage">
+						There was a moment's silence.
+					</div>
+					<div class="uAuthor">
+						"The Manxman A Novel - 1895" by <span>Hall Caine</span>					</div>
+										<div class="usage">
+						In pleading for silence for others, she was pleading for silence for herself.
+					</div>
+					<div class="uAuthor">
+						"The Kingdom Round the Corner" by <span>Coningsby Dawson</span>					</div>
+										<div class="usage">
+						They walked a little way in silence.
+					</div>
+					<div class="uAuthor">
+						"The Wide, Wide World" by <span>Susan Warner</span>					</div>
+										<div class="usage">
+						There was a long silence.
+					</div>
+					<div class="uAuthor">
+						"The Cryptogram" by <span>James De Mille</span>					</div>
+										<div class="usage">
+						The men do not understand why you silenced them just now.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: Land of the Infidel" by <span>Robert Shea</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Purifiez nos cœurs,<br>
+O God of the silence,<br>
+Purifiez nos cœurs,<br>
+O God of waters.
+							<div class="poet">"Night Litany" by <span>Ezra Pound</span></div>
+						</div>
+											<div class="poemQuote">
+							I could tell<br>
+Of silence where<br>
+One ran before<br>
+Himself and fell<br>
+Into silence<br>
+Yet more fair.
+							<div class="poet">"One Ran Before" by <span>Yvor Winters</span></div>
+						</div>
+											<div class="poemQuote">
+							Song sinks into silence,<br>
+The story is told,<br>
+The windows are darkened,<br>
+The hearth-stone is cold.
+							<div class="poet">"Curfew" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+											<div class="poemQuote">
+							Thou art like silence all unvexed<br>
+Though wild words part my soul from thee.<br>
+Thou art like silence unperplexed,<br>
+A secret and a mystery<br>
+Between one footfall and the next.
+							<div class="poet">"To The Beloved" by <span>Alice Meynell</span></div>
+						</div>
+											<div class="poemQuote">
+							To fashion silence into words<br>
+The softest, teach me how!<br>
+I know the place is Silence caught<br>
+A-dreaming, then and now.<br>
+I only know 't was blue above,<br>
+And it was green below.
+							<div class="poet">"The Poet And The Poem" by <span>Elizabeth Stuart Phelps Ward</span></div>
+						</div>
+											<div class="poemQuote">
+							Yes, then bless'd I night's o'erhanging darkness,<br>
+That so calmly cover'd all things round me;<br>
+I enjoy'd the universal silence,<br>
+While I listen'd ever in the silence,<br>
+If perchance the slightest sounds were stirring.
+							<div class="poet">"Morning Lament" by <span>Johann Wolfgang von Goethe</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Silence Please by Quiet American worked a quarter in:20 3/5 at the Ocala Breeders' Sales Co.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bloodhorse.com/horse-racing/articles/61879/dixie-union-flatter-2yos-set-pace-at-obs" target="_blank" rel="external nofollow">bloodhorse.com</a>
+					</div>
+										<div class="usage">
+						Our favorite part of "SILENCE".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metro.us/newyork/entertainment/article/1148805--parody-sincerest-form-of-flattery" target="_blank" rel="external nofollow">metro.us</a>
+					</div>
+										<div class="usage">
+						The chimes that normally ring from Altgeld Hall's tower will be silenced from 5 pm Tuesday through 5 pm Wednesday in honor of Silent Day, part of the International Week of the Deaf.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.news-gazette.com/news/education/2012-09-25/altgeld-chimes-fall-silent-24-hours.html" target="_blank" rel="external nofollow">news-gazette.com</a>
+					</div>
+										<div class="usage">
+						ORION PICTURES Anthony Hopkins in "The Silence of the Lambs".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sunherald.com/2012/10/29/4272676/frightful-films-a-top-10-list.html?" target="_blank" rel="external nofollow">sunherald.com</a>
+					</div>
+										<div class="usage">
+						What I remember most about entering Ronald Reagan's suite early on the third evening of the 1980 Republican convention, the night of his nomination, was the silence.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2000/07/30/magazine/george-herbert-walker-bush-the-accidental-vice-president.html?pagewanted=all&amp;src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						China seeks to silence dissent overseas.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/world/asia-pacific/china-pressures-indonesia-to-silence-dissent-from-falun-gong-followers/2011/07/14/gIQAwkxNxI_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Cuban revolutionary leader Fidel Castro is in good health despite long silence and absence from the public, his son Alex Castro said here Friday, quashing speculations that he may be gravely ill.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hispanicbusiness.com/2012/10/16/cubas_fidel_castro_in_good_health.htm" target="_blank" rel="external nofollow">hispanicbusiness.com</a>
+					</div>
+										<div class="usage">
+						Pope Benedict XVI has broken his silence over a leaked documents scandal to denounce "exaggerated" reports in the media that he says paint a distorted image of the Holy See.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/regions/europe/italy/120530/pope-attacks-gratuitous-coverage-vatican-leaks-scandal" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						All those years when I lived in silence, I believed that I was the only one.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wgbh/pages/frontline/handofgod/etc/script.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						A Handout for Patients: Urinary Incontinence: Do You Suffer in Silence.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pharmacytimes.com/publications/issue/2005/2005-02/2005-02-9226" target="_blank" rel="external nofollow">pharmacytimes.com</a>
+					</div>
+										<div class="usage">
+						But unlike Cindy, some 20 million of those with serious hearing deficits are, in effect, suffering in silence.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2001/12/04/health/personal-health-needless-silence-for-hearing-impaired.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						To call a state Islamic is to attempt to silence political or theological dissent, he says.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/2008/0402/p01s01-usgn.html/(page)/2" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Suffering, Silence &amp; Holy Week.
+					</div>
+					<div class="uAuthor">
+						<a href="http://commonwealmagazine.org/suffering-silence-holy-week-0" target="_blank" rel="external nofollow">commonwealmagazine.org</a>
+					</div>
+										<div class="usage">
+						God's Silence by Franz Wright Knopf, 144 pp.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/articles/archives/2007/oct/11/from-the-homicidal-to-the-ecstatic/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<div class="usage">
+						Two books by Franz Wright have appeared in the past year and a half: a new collection, God's Silence, and a reissue called Earlier Poems, which includes poems from 1982 through 1995.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/articles/archives/2007/oct/11/from-the-homicidal-to-the-ecstatic/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						One of these mechanisms is transcriptional silencing. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						Therefore, the formation of heterochromatin is a way of silencing the expression of a number of adjacent genes. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						It is known that the Silenced Information Regulator (SIR) proteins are the main players in gene silencing at telomeres and mating type loci in yeast. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						As discussed above, the model for step-wise gene silencing in S. cerevisiae (ﬁgure 1), also posits that silencing happens in two distinct steps: nucleation and spreading. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						To be concrete, let us discuss silencing at the silent mating loci. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						Although the nucleation step is different in telomeric silencing, the process of spreading seems to be very similar . 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						However, in the wild type budding yeast, the regions that are silenced are, typically, always silenced. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						As mentioned above, Sir1 is required for eﬃcient nucleation of silencing at HMR/HML loci. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						If we count each nucleosome as a unit and expect one silencing complex per nucleosome, then that provides us with a natural lattice spacing. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						If the time scale of nucleosome dynamics is much slower than that of the silencing process, then we are justiﬁed in taking the nucleosome array as a lattice to operate upon. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						Depending upon the size of the silenced region, one would get interesting titration effects in this model. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						However, since ρ is no longer ﬁxed, as silencing spreads, ρ(t) reduces. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						The silencing could stop at special boundary elements on DNA where some other process stops the spread of silencing [23, 18]. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						However, if the system is in Region I, then one could observe a reduction in silencing with increasing the distance from the nucleation center, namely the silencer. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<div class="usage">
+						If the value of effective parameters like α varies in space, different sections of chromosome can demonstrate different silencing behaviors depending on what regions of bifurcation diagram they corresond to. 
+					</div>
+					<div class="uAuthor">
+						Epigenetic Chromatin Silencing: Bistability and Front Propagation
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="cause to be quiet or not talk"><a href="still.html">still</a>, <a href="shut%20up.html">shut up</a>, <a href="hush%20up.html">hush up</a>, </div><div class="synGroup" title="the absence of sound"><a href="quiet.html">quiet</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="sound.html">sound</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="condition.html">condition</a>, <a href="conquer.html">conquer</a>, <a href="curb.html">curb</a>, <a href="inhibit.html">inhibit</a>, <a href="sound%20property.html">sound property</a>, <a href="stamp%20down.html">stamp down</a>, <a href="status.html">status</a>, <a href="subdue.html">subdue</a>, <a href="suppress.html">suppress</a>, <a href="uncommunicativeness.html">uncommunicativeness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="calm%20down.html">calm down</a>, <a href="gag.html">gag</a>, <a href="hush.html">hush</a>, <a href="lull.html">lull</a>, <a href="mum.html">mum</a>, <a href="muzzle.html">muzzle</a>, <a href="quietness.html">quietness</a>, <a href="shout%20down.html">shout down</a>, <a href="shush.html">shush</a>, <a href="soundlessness.html">soundlessness</a>, <a href="speechlessness.html">speechlessness</a>, <a href="still.html">still</a>, <a href="stillness.html">stillness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="hush.html">hush</a>, <a href="mute.html">mute</a>, <a href="silent.html">silent</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="acquiesce.html">acquiesce</a>, <a href="beckon.html">beckon</a>, <a href="Benedictine.html">Benedictine</a>, <a href="benediction.html">benediction</a>, <a href="break.html">break</a>, <a href="Burke.html">Burke</a>, <a href="Buz.html">Buz</a>, <a href="charm.html">charm</a>, <a href="Choke%20pear.html">Choke pear</a>, <a href="choker.html">choker</a>, <a href="Cistercian.html">Cistercian</a>, <a href="Clum.html">Clum</a>, <a href="command.html">command</a>, <a href="Confounder.html">Confounder</a>, <a href="confute.html">confute</a>, <a href="connive.html">connive</a>, <a href="Convoy%20pennant.html">Convoy pennant</a>, <a href="cork.html">cork</a>, <a href="cue.html">cue</a>, <a href="deep.html">deep</a>, <a href="Dominican.html">Dominican</a>, <a href="dub.html">dub</a>, <a href="dumb.html">dumb</a>, <a href="Dumb%20cake.html">Dumb cake</a>, <a href="dumbly.html">dumbly</a>, <a href="dumbness.html">dumbness</a>, <a href="eloquent.html">eloquent</a>, <a href="fire.html">fire</a>, <a href="floor.html">floor</a>, <a href="frown.html">frown</a>, <a href="gag.html">gag</a>, <a href="groan.html">groan</a>, <a href="Hist.html">Hist</a>, <a href="Ho.html">Ho</a>, <a href="Hold%20one%27s%20peace.html">Hold one's peace</a>, <a href="Hold%20one%27s%20tongue.html">Hold one's tongue</a>, <a href="hush.html">hush</a>, <a href="hush%20money.html">hush money</a>, <a href="infer.html">infer</a>, <a href="interference.html">interference</a>, <a href="interpret.html">interpret</a>, <a href="keep.html">keep</a>, <a href="Locutory.html">Locutory</a>, <a href="lower.html">lower</a>, <a href="meal.html">meal</a>, <a href="monition.html">monition</a>, <a href="muffle.html">muffle</a>, <a href="muffler.html">muffler</a>, <a href="mum.html">mum</a>, <a href="Mum-chance.html">Mum-chance</a>, <a href="mumps.html">mumps</a>, <a href="Muse.html">Muse</a>, <a href="mutism.html">mutism</a>, <a href="muzzle.html">muzzle</a>, <a href="noiselessness.html">noiselessness</a>, <a href="note.html">note</a>, <a href="Obmutescence.html">Obmutescence</a>, <a href="omerta.html">omerta</a>, <a href="out.html">out</a>, <a href="Outtongue.html">Outtongue</a>, <a href="overpower.html">overpower</a>, <a href="oxymoron.html">oxymoron</a>, <a href="Oyez.html">Oyez</a>, <a href="P.html">P</a>, <a href="pause.html">pause</a>, <a href="peace.html">peace</a>, <a href="preach.html">preach</a>, <a href="preserve.html">preserve</a>, <a href="Privative.html">Privative</a>, <a href="put.html">put</a>, <a href="quiescence.html">quiescence</a>, <a href="quiescency.html">quiescency</a>, <a href="quiet.html">quiet</a>, <a href="quietness.html">quietness</a>, <a href="quietude.html">quietude</a>, <a href="rebuke.html">rebuke</a>, <a href="Respectuous.html">Respectuous</a>, <a href="rest.html">rest</a>, <a href="reticence.html">reticence</a>, <a href="reticent.html">reticent</a>, <a href="retreat.html">retreat</a>, <a href="rhythm.html">rhythm</a>, <a href="Scholasticism.html">Scholasticism</a>, <a href="scrape.html">scrape</a>, <a href="secrecy.html">secrecy</a>, <a href="Selah.html">Selah</a>, <a href="Settle%20a%20person%27s%20hash.html">Settle a person's hash</a>, <a href="Sew%20up%20one%27s%20stocking.html">Sew up one's stocking</a>, <a href="shout%20down.html">shout down</a>, <a href="shush.html">shush</a>, <a href="shut.html">shut</a>, <a href="silenced.html">silenced</a>, <a href="silent.html">silent</a>, <a href="Silentiary.html">Silentiary</a>, <a href="Silentness.html">Silentness</a>, <a href="silvern.html">silvern</a>, <a href="snub.html">snub</a>, <a href="Sopite.html">Sopite</a>, <a href="squeak.html">squeak</a>, <a href="squelch.html">squelch</a>, <a href="staccato.html">staccato</a>, <a href="sticker.html">sticker</a>, <a href="still.html">still</a>, <a href="stillness.html">stillness</a>, <a href="strict.html">strict</a>, <a href="strike%20dumb.html">strike dumb</a>, <a href="sullen.html">sullen</a>, <a href="sullenness.html">sullenness</a>, <a href="syllable.html">syllable</a>, <a href="Tace%20is%20Latin%20for%20a%20candle.html">Tace is Latin for a candle</a>, <a href="tacit.html">tacit</a>, <a href="taciturnity.html">taciturnity</a>, <a href="To%20bite%20the%20tongue.html">To bite the tongue</a>, <a href="To%20cough%20down.html">To cough down</a>, <a href="To%20hold%20one%27s%20peace.html">To hold one's peace</a>, <a href="To%20hush%20up.html">To hush up</a>, <a href="To%20stop%20the%20mouth.html">To stop the mouth</a>, <a href="Trappist.html">Trappist</a>, <a href="Untongue.html">Untongue</a>, <a href="voicelessness.html">voicelessness</a>, <a href="whist.html">whist</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					ailence, wilence, dilence, xilence, zilence, ailence, sulence, sjlence, sklence, solence, sikence, sioence, sipence, silwnce, silsnce, sildnce, silrnce, silebce, silehce, silejce, silemce, silenxe, silende, silenfe, silenve, silencw, silencs, silencd, silencr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

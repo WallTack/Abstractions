@@ -1,0 +1,567 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>conservation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">conservation</span> <span class="exp">the preservation and careful management of the environment and of natural resources</span> </li><li><span class="tSpeech">n</span> <span class="term">conservation</span> <span class="exp">(physics) the maintenance of a certain quantities unchanged during chemical reactions or physical transformations</span> </li><li><span class="tSpeech">n</span> <span class="term">conservation</span> <span class="exp">an occurrence of improvement by virtue of preventing loss or injury or other change</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Some farmers in Japan have learned to grow their watermelons into a square shape. They did this to conserve shelf space									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Conservation</span> <span class="exp"><span class="wuFld">(Physics)</span> etc. <span class="wUfld">Physics</span> See under <span class="wUer">Accumulation</span>
+            <span class="wUer">Conservation</span>
+            <span class="wUer">Correlation</span>, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">Conservation</span> <span class="exp">The act of preserving, guarding, or protecting; the keeping (of a thing) in a safe or entire state; preservation.</span> <span class="wuQuot">"A step necessary for the conservation of Protestantism."</span><span class="wuQuot">"A state without the means of some change is without the means of its conservation ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Daylight savings time started during World War I, so Americans could use as much natural lighting as possible and conserve energy needed for war production. Despite the Uniform Time Act, which Congress passed in 1966 to standardize the time change, several states within the United States do not observe Daylight Saving Time. They are Arizona, Hawaii, parts of Indiana, Puerto Rico, the U.S. Virgin Islands, Guam, and American Samoa.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">conservation</span> <span class="exp">The act of conserving,guarding, or keeping with care; preservation from loss, decay, injury, or violation; the keeping of a thing in a safe or entire state.</span> </li><li><span class="tSpeech">n</span> <span class="term">conservation</span> <span class="exp">Persistence; perdurance; permanence.</span> </li><li><span class="tSpeech">n</span> <span class="term">conservation</span> <span class="exp">In England, a court or board of commissioners having jurisdiction over a port (as London, Liverpool, etc.) or of a river (as the Thames, the Mersey, etc.), and charged with the regulation as well as the conservation of its navigation, fisheries, etc.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Conservation</span> <span class="exp">the act of conserving: the keeping entire</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lynwood L. Giacomini</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Lynwood L. Giacomini">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A conservative believes nothing should be done for the first time.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edmund Burke</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edmund%20Burke.jpg" alt="Edmund%20Burke">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A state without the means of some change is without the means of its conservation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ambrose Bierce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ambrose%20Bierce.jpg" alt="Ambrose%20Bierce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Conservative. A statesman who is enamored of existing evils, as distinguished from a Liberal, who wishes to replace them with others.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Carlyle.jpg" alt="Thomas%20Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“All great peoples are conservative.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Frank Dane</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Frank%20Dane.jpg" alt="Frank%20Dane">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A conservative is a fellow who thinks a rich man should have a square deal.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Kin Hubbard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Kin%20Hubbard.jpg" alt="Kin%20Hubbard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Some fellows get credit for being conservative when they are only stupid.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">conservatio</span>,: cf. F. <span class="wUets">conservation</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>conservāre</i>—<i>con</i>, together, and <i>servāre</i>, to keep.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						But your ability to stand a long siege will depend on conserving your strength.
+					</div>
+					<div class="uAuthor">
+						"The Tyranny of Weakness" by <span>Charles Neville Buck</span>					</div>
+										<div class="usage">
+						All were too conservative to suit him.
+					</div>
+					<div class="uAuthor">
+						"History of the Negro Race in America from 1619 to 1880. Vol. 2 (of 2)" by <span>George Washington Williams</span>					</div>
+										<div class="usage">
+						The Conservation Division worked out and enforced methods of standardizing patterns in order to economize materials and labor.
+					</div>
+					<div class="uAuthor">
+						"Woodrow Wilson and the World War" by <span>Charles Seymour</span>					</div>
+										<div class="usage">
+						On the war Spain is hopelessly divided: Conservative, against Conservative; Liberal, against Liberal.
+					</div>
+					<div class="uAuthor">
+						"Face to Face with Kaiserism" by <span>James W. Gerard</span>					</div>
+										<div class="usage">
+						As a consequence the moderate Conservatives henceforth voted as one man.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Upper Canada Rebellion, Volume 1" by <span>John Charles Dent</span>					</div>
+										<div class="usage">
+						No reference to conservative men of the master class will be found in the speeches or writings of either one.
+					</div>
+					<div class="uAuthor">
+						"The Journal of Negro History, Volume 6, 1921" by <span>Various</span>					</div>
+										<div class="usage">
+						Heredity I divided into conservative and progressive: adaptation into indirect (or potential) and direct (or actual).
+					</div>
+					<div class="uAuthor">
+						"Evolution in Modern Thought" by <span>Ernst Haeckel</span>					</div>
+										<div class="usage">
+						She had never, even in her most religious days, been orthodox in her beliefs, nor conservative in her conduct.
+					</div>
+					<div class="uAuthor">
+						"Mary Wollstonecraft" by <span>Elizabeth Robins Pennell</span>					</div>
+										<div class="usage">
+						The Germans, as a whole, furnished a conservative and thrifty agricultural element to the Middle West.
+					</div>
+					<div class="uAuthor">
+						"The Frontier in American History" by <span>Frederick Jackson Turner</span>					</div>
+										<div class="usage">
+						Adopt informatory and conservative methods.
+					</div>
+					<div class="uAuthor">
+						"Auction of To-day" by <span>Milton C. Work</span>					</div>
+										<div class="usage">
+						These, the true finger-posts of thought in a community, are apt in manufacturing cities to be conservative and timid, as trade is timid.
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine, Volume 11, No. 26, May, 1873" by <span>Various</span>					</div>
+										<div class="usage">
+						But the temper of the nation as a whole remained religiously conservative.
+					</div>
+					<div class="uAuthor">
+						"History of the English People" by <span>John Richard Green</span>					</div>
+										<div class="usage">
+						That is the wise way, the conservative way, the truly progressive way.
+					</div>
+					<div class="uAuthor">
+						"Northern Nut Growers Association, Report of the Proceedings at the Third Annual Meeting" by <span>Northern Nut Growers Association</span>					</div>
+										<div class="usage">
+						That statesman had carried off with him the intellectual flower of the Conservatives.
+					</div>
+					<div class="uAuthor">
+						"Studies in Contemporary Biography" by <span>James Bryce, Viscount Bryce</span>					</div>
+										<div class="usage">
+						CONSERVATIVE KENTUCKY MAP OF ALL AMERICA; AND INTRODUCING A SECOND NEW GENERAL OF THE MACKEREL ORGANIZATION.
+					</div>
+					<div class="uAuthor">
+						"The Orpheus C. Kerr Papers. Series 3" by <span>Robert H. Newell</span>					</div>
+										<div class="usage">
+						The Conservative and Ultramontane press rang with the sins of the Jews.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 2, Slice 2" by <span>Various</span>					</div>
+										<div class="usage">
+						The Conservative party had thwarted Pompeius at every turn; he was deeply hurt, and in his most sensitive part, his vanity.
+					</div>
+					<div class="uAuthor">
+						"Ancient Rome" by <span>Mary Agnes Hamilton</span>					</div>
+										<div class="usage">
+						The Germans were in a precarious situation and showed a disposition to conserve their forces.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume VII (of VIII)" by <span>Various</span>					</div>
+										<div class="usage">
+						The habit of always being adapted is at least as radical as it is conservative.
+					</div>
+					<div class="uAuthor">
+						"The Will to Doubt" by <span>Alfred H. Lloyd</span>					</div>
+										<div class="usage">
+						A. H. Beckwith, in recognition of his important services to the Conservative cause.
+					</div>
+					<div class="uAuthor">
+						"Norfolk Annals A Chronological Record of Remarkable Events in the Nineteeth Century, Vol. 1" by <span>Charles Mackie</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Said the Neo Conservative skeleton<br>
+Homeless off the street!<br>
+Said the Free Market skeleton<br>
+Use 'em up for meat
+							<div class="poet">"Ballad Of The Skeletons" by <span>Allen Ginsberg</span></div>
+						</div>
+											<div class="poemQuote">
+							Sharing His love who holds in His embrace<br>
+The lowliest of our race,<br>
+Sure the Divine economy must be<br>
+Conservative of thee!
+							<div class="poet">"Within The Gate" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							'Tis you dispense the favourite meat<br>
+To nature's filmy people;<br>
+Know what conserves they choose to eat,<br>
+And what liqueurs, to tipple.
+							<div class="poet">"To the Virtuosi" by <span>William Shenstone</span></div>
+						</div>
+											<div class="poemQuote">
+							The breath of those conserved in Israel,<br>
+Thy servants who fear Thee,<br>
+Shall hail Thee as mighty.<br>
+Thou art near to all that call upon Thee,<br>
+Righteousness and justice are the foundation of<br>
+Thy throne.
+							<div class="poet">"For A New Year's Day" by <span>Shlomo ibn Gabirol</span></div>
+						</div>
+											<div class="poemQuote">
+							But keep the tradition, conserve the forms, the observances, keep<br>
+the spot sore. Be great, carve deep your heel-marks.<br>
+The states of the next age will no doubt remember you, and edge<br>
+their love of freedom with contempt of luxury.
+							<div class="poet">"Shine, Republic" by <span>Robinson Jeffers</span></div>
+						</div>
+											<div class="poemQuote">
+							No winter birds or midges dot the snow.<br>
+I understand: the earth has long lain chill<br>
+And dead. For whom do I conserve<br>
+The breath within my chest? To whom did death<br>
+Return me? What's my mind<br>
+Connected to? And what's its final purpose?
+							<div class="poet">"Never" by <span>Afanasy Afanasevich Fet</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The Kerry campaign railed against a Republican flyer targeting Christian conservative voters, which claims a Kerry White House would ban the bible and legalize gay marriage, John Roberts reports.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/video/watch/?id=645583n" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						A government statement Monday announced establishment of the Big Bend Conservation Cooperative.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kbtx.com/news/state/headlines/Agencies_Form_Big_Bend_Conservation_Cooperative_112263549.html" target="_blank" rel="external nofollow">kbtx.com</a>
+					</div>
+										<div class="usage">
+						Fred Eshelman Donates Over $3M to Conservative Group.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-503544_162-20020361-503544.html" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Are three-parent embryos a conservative or liberal issue.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.slate.com/articles/health_and_science/new_scientist/2012/09/bioethics_and_politics_of_biotechnology_are_you_a_bioconservative_bioprogressive_or_transhumanist_.html" target="_blank" rel="external nofollow">slate.com</a>
+					</div>
+										<div class="usage">
+						A new book series, Birds of Brazil, explores how the hobby of birdwatching can encourage conservation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wcs.org/news-and-features-main/birders-eye-view.aspx" target="_blank" rel="external nofollow">wcs.org</a>
+					</div>
+										<div class="usage">
+						Mike Martin, a forestry consultant and trustee for the Nature Conservancy, and Monica Clutch, West Tennessee program director for The Nature Conservancy are canoeing more than 200 miles of the Hatchie River.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commercialappeal.com/photos/2011/jan/11/205006/" target="_blank" rel="external nofollow">commercialappeal.com</a>
+					</div>
+										<div class="usage">
+						The New York State Conservative Party recently celebrated its 50th Anniversary at its annual Conservative Party Political Action Committee held in Albany, New York.
+					</div>
+					<div class="uAuthor">
+						<a href="http://queenscourier.com/blog-entry/twilight-of-the-new-york-state-conservative-party/" target="_blank" rel="external nofollow">queenscourier.com</a>
+					</div>
+										<div class="usage">
+						GOP congressional candidate Michael Grimm got the backing of the state Conservative Party today, even though his Democratic opponent – Staten Island Rep Michael McMahon – is supported by the SI Conservative Party 's executive committee.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/blogs/knickerbocker/michael_grimm_gets_conservative_9up3wz18FEcQR9SyBbWjyK" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						Before moving to Ohio, Knutas worked in New York as a paintings conservation intern at the Solomon R Guggenheim Museum and as a conservation fellow at the Museum of Modern Art.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cleveland.com/arts/index.ssf/2012/04/per_knutas_of_the_cincinnati_a.html" target="_blank" rel="external nofollow">cleveland.com</a>
+					</div>
+										<div class="usage">
+						Hubert von Sonnenburg, one of the world's leading painting conservators and chairman of paintings conservation at the Metropolitan Museum of Art, died on July 16.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2004/07/24/arts/hubert-von-sonnenburg-76-a-leading-conservator-of-paintings.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Do conservatives really think that two of history's most radical documents – the Declaration of Independence and the Constitution – were conservative.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Commentary/Opinion/2010/0218/Mount-Vernon-Statement-the-contradiction-at-the-heart-of-this-conservative-fusion" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						The Nature Conservancy of Oklahoma and the Oklahoma Association of Conservation Districts announce their partnership to again recognize the Outstanding Conservation Landowner/ Cooperator in Oklahoma.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hpj.com/archives/2012/oct12/oct15/1009OklaConservationAwardss.cfm" target="_blank" rel="external nofollow">hpj.com</a>
+					</div>
+										<div class="usage">
+						The irony, as you pointed out, is that I spend a lot of time in my car running around doing conservation projects and raising money for conservation and doing publicity for the book.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.salisburypost.com/Opinion/081912-insight-leutze-q-and-a-qcd" target="_blank" rel="external nofollow">salisburypost.com</a>
+					</div>
+										<div class="usage">
+						That leaves us with a bit of a conundrum, since there are so few conservative , pro-conservation candidates to vote for.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fieldandstream.com/blogs/conservationist/2012/10/new-partnership-promotes-conservatism-guns-and-conservation" target="_blank" rel="external nofollow">fieldandstream.com</a>
+					</div>
+										<div class="usage">
+						As in a conservative federal judge, appointed by Reagan, who recently called the conservative GOP "goofy" and a "crowd of lunatics.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/news/columnists/sns-201207102000--tms--lpittsctnwl-a20120711-20120711,0,6902354.column" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						KK number is conserved in any process, which can break down to the conservation of KK-parity, deﬁned as (−1)n due to the orbifold corrections. 
+					</div>
+					<div class="uAuthor">
+						Rare decays of $\Lambda_b \to \Lambda \gamma$ and $\Lambda_b \to \Lambda l^{+} l^{-}$ in universal extra dimension model
+					</div>
+										<div class="usage">
+						On account of Noether’s theorem which associates a conserved dynamical quantity to each generator of a symmetry of a dynamics, relativistic ﬁelds evolving within a Minkowski spacetime with its invariance properties under spacetime translations and rotations also possess conserved energy, momentum and angular-momentum. 
+					</div>
+					<div class="uAuthor">
+						A Pedestrian Introduction to the Mathematical Concepts of Quantum Physics
+					</div>
+										<div class="usage">
+						In the same manner as for the energy, we shall understand later on how conservation of momentum is related to invariance of the system under constant translations in space, and conservation of angular-momentum to invariance under constant rotations in space. 
+					</div>
+					<div class="uAuthor">
+						A Pedestrian Introduction to the Mathematical Concepts of Quantum Physics
+					</div>
+										<div class="usage">
+						Consequently, the linear momentum is conserved only if the particle is free, ~F = ~0, while the angularmomentum may be conserved even in the presence of a nonvanishing force provided only it is radial, namely always colinear with the position vector ~r . 
+					</div>
+					<div class="uAuthor">
+						A Pedestrian Introduction to the Mathematical Concepts of Quantum Physics
+					</div>
+										<div class="usage">
+						However, when the time evolution parameter coincides with the physical time, the above conservation law shows that in direct correspondence with the invariance of a dynamics under arbitrary time translations its total energy is a conserved quantity, namely the Noether charge generating that symmetry. 
+					</div>
+					<div class="uAuthor">
+						A Pedestrian Introduction to the Mathematical Concepts of Quantum Physics
+					</div>
+										<div class="usage">
+						These conserved quantities are also the generators of these symmetries on phase space through the Poisson brackets of these conserved quantities with any phase space observable, beginning with the phase space coordinates. 
+					</div>
+					<div class="uAuthor">
+						A Pedestrian Introduction to the Mathematical Concepts of Quantum Physics
+					</div>
+										<div class="usage">
+						Then, in general, the orbit of the classical motion samples completely the hypersurface of the phase space that corresponds to all conﬁgurations which respect the conservation of certain extensive conserved quantities; then the system is called ergodic 1 and thermalization is expected. 
+					</div>
+					<div class="uAuthor">
+						Real-time evolution for weak interaction quenches in quantum systems
+					</div>
+										<div class="usage">
+						For nonlinear constraints and conserved currents, however, I am at present unable to offer a well-formulated conjecture relating constraints and conserved currents to detailed properties of f 7→ f ג . 
+					</div>
+					<div class="uAuthor">
+						Lie random fields
+					</div>
+										<div class="usage">
+						Strong control, conservative point estimation and simultaneous conservative consistency of false discovery rates: A uniﬁed approach. J. 
+					</div>
+					<div class="uAuthor">
+						On a generalized false discovery rate
+					</div>
+										<div class="usage">
+						Contrary to the Luttinger-type models which have a globally conserved U (1) charge and a locally conserved (dimension one) charge current, in the case of the quantum Ising model the only global conservation law is the energy-momentum and its locally conserved (dimension two) energy-momentum current. 
+					</div>
+					<div class="uAuthor">
+						Quantum noise and entanglement generated by a local quantum quench
+					</div>
+										<div class="usage">
+						First, it requires the presence of a conserved current with dimension 1 (essential for a logarithmic behavior of the correlation function), and of an associated and strictly conserved global charge. 
+					</div>
+					<div class="uAuthor">
+						Quantum noise and entanglement generated by a local quantum quench
+					</div>
+										<div class="usage">
+						This is in a conservative convention meaning that the system involves two complex conserved supercharges. 
+					</div>
+					<div class="uAuthor">
+						Witten index in supersymmetric 3d theories revisited
+					</div>
+										<div class="usage">
+						As we do not know what scheme to use, we have decided to be conservative, and to unitarise the two-pomeron model using the simplest and most conservative approach. 
+					</div>
+					<div class="uAuthor">
+						The Total Cross Section at the LHC: Models and Experimental Consequences
+					</div>
+										<div class="usage">
+						Then, postulating electric charge conservation, the form of the Lorentz force density, and magnetic ﬂux conservation, we arrive at what we think is the genuine coordinate-free representation of Maxwell’s equations in a 4-dimensional (4d) version, see (15). 
+					</div>
+					<div class="uAuthor">
+						An electric charge has no screw sense--a comment on the twistfree formulation of electrodynamics by da Rocha &amp; Rodrigues
+					</div>
+										<div class="usage">
+						Optical frequency combs generated via four-wave mixing obey momentum and energy conservation as well as photon number conservation. 
+					</div>
+					<div class="uAuthor">
+						Octave Spanning Frequency Comb on a Chip
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an occurrence of improvement by virtue of preventing loss or injury or other change"><a href="preservation.html">preservation</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="advance.html">advance</a>, <a href="betterment.html">betterment</a>, <a href="improvement.html">improvement</a>, <a href="preservation.html">preservation</a>, <a href="principle.html">principle</a>, <a href="saving.html">saving</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="conservancy.html">conservancy</a>, <a href="conservation%20of%20charge.html">conservation of charge</a>, <a href="conservation%20of%20electricity.html">conservation of electricity</a>, <a href="conservation%20of%20energy.html">conservation of energy</a>, <a href="conservation%20of%20mass.html">conservation of mass</a>, <a href="conservation%20of%20matter.html">conservation of matter</a>, <a href="conservation%20of%20momentum.html">conservation of momentum</a>, <a href="conservation%20of%20parity.html">conservation of parity</a>, <a href="first%20law%20of%20thermodynamics.html">first law of thermodynamics</a>, <a href="law%20of%20conservation%20of%20energy.html">law of conservation of energy</a>, <a href="law%20of%20conservation%20of%20mass.html">law of conservation of mass</a>, <a href="law%20of%20conservation%20of%20matter.html">law of conservation of matter</a>, <a href="mirror%20symmetry.html">mirror symmetry</a>, <a href="oil%20conservation.html">oil conservation</a>, <a href="parity.html">parity</a>, <a href="soil%20conservation.html">soil conservation</a>, <a href="space-reflection%20symmetry.html">space-reflection symmetry</a>, <a href="water%20conservation.html">water conservation</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="conservationist.html">conservationist</a>, <a href="conserve.html">conserve</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="accumulation.html">accumulation</a>, <a href="Agriculture.html">Agriculture</a>, <a href="Agriculture%20Department.html">Agriculture Department</a>, <a href="bailiff.html">bailiff</a>, <a href="cabinet.html">cabinet</a>, <a href="Chen%20N.%20Yang.html">Chen N. Yang</a>, <a href="conservancy.html">conservancy</a>, <a href="Conservant.html">Conservant</a>, <a href="Conservative.html">Conservative</a>, <a href="Conservators%20of%20the%20peace.html">Conservators of the peace</a>, <a href="correlation.html">correlation</a>, <a href="Correlation%20of%20energy.html">Correlation of energy</a>, <a href="cultivator.html">cultivator</a>, <a href="deep%20freeze.html">deep freeze</a>, <a href="Degradation%20of%20energy.html">Degradation of energy</a>, <a href="Department%20of%20Agriculture.html">Department of Agriculture</a>, <a href="Department%20of%20the%20Interior.html">Department of the Interior</a>, <a href="dialogue.html">dialogue</a>, <a href="DoI.html">DoI</a>, <a href="energy.html">energy</a>, <a href="Greenpeace.html">Greenpeace</a>, <a href="High%20constable.html">High constable</a>, <a href="hydrology.html">hydrology</a>, <a href="interior.html">interior</a>, <a href="Interior%20Department.html">Interior Department</a>, <a href="justice%20of%20the%20peace.html">justice of the peace</a>, <a href="Lee.html">Lee</a>, <a href="oil%20conservation.html">oil conservation</a>, <a href="parity.html">parity</a>, <a href="perpetual%20motion.html">perpetual motion</a>, <a href="perpetual%20motion%20machine.html">perpetual motion machine</a>, <a href="radium.html">radium</a>, <a href="tiller.html">tiller</a>, <a href="Tsung%20Dao%20Lee.html">Tsung Dao Lee</a>, <a href="USDA.html">USDA</a>, <a href="water%20conservation.html">water conservation</a>, <a href="will.html">will</a>, <a href="work.html">work</a>, <a href="Yang%20Chen%20Ning.html">Yang Chen Ning</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xonservation, donservation, fonservation, vonservation, cinservation, cknservation, clnservation, cpnservation, cobservation, cohservation, cojservation, comservation, conaervation, conwervation, condervation, conxervation, conzervation, conaervation, conswrvation, conssrvation, consdrvation, consrrvation, conseevation, consedvation, consefvation, consetvation, consercation, conserfation, consergation, conserbation, conservqtion, conservwtion, conservstion, conservztion, conservarion, conservafion, conservagion, conservayion, conservatuon, conservatjon, conservatkon, conservatoon, conservatiin, conservatikn, conservatiln, conservatipn, conservatiob, conservatioh, conservatioj, conservatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

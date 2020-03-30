@@ -1,0 +1,541 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>principle</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">(law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature)</span> <span class="quot">"the rationale for capital punishment","the principles of internal-combustion engines"</span></li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">a basic truth or law or assumption</span> <span class="quot">"the principles of democracy"</span></li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">a rule or law concerning a natural phenomenon or the function of a complex system</span> <span class="quot">"the principle of the conservation of mass","the principle of jet propulsion","the right-hand rule for inductive fields"</span></li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct</span> <span class="quot">"their principles of composition characterized all their works"</span></li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">a rule or standard especially of good behavior</span> <span class="quot">"a man of principle","he will not violate his principles"</span></li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">rule of personal conduct</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Principle</span> <span class="exp">A fundamental truth; a comprehensive law or doctrine, from which others are derived, or on which others are founded; a general truth; an elementary proposition; a maxim; an axiom; a postulate.</span> <span class="wuQuot">"Therefore, leaving the principles of the doctrine of Christ, let us go on unto perfection."</span><span class="wuQuot">"A good principle , not rightly understood, may prove as hurtful as a bad."</span></li><li><span class="term">Principle</span> <span class="exp">A settled rule of action; a governing law of conduct; an opinion or belief which exercises a directing influence on the life and behavior; a rule (usually, a right rule) of conduct consistently directing one's actions; as, a person of no <span class="wUex">principle</span>
+            .</span> <span class="wuQuot">"All kinds of dishonesty destroy our pretenses to an honest principle of mind."</span></li><li><span class="term">Principle</span> <span class="exp">A source, or origin; that from which anything proceeds; fundamental substance or energy; primordial substance; ultimate element, or cause.</span> <span class="wuQuot">"The soul of man is an active principle ."</span></li><li><span class="term">Principle</span> <span class="exp">An original faculty or endowment.</span> <span class="wuQuot">"Nature in your principles hath set [benignity]."</span><span class="wuQuot">"Those active principles whose direct and ultimate object is the communication either of enjoyment or suffering."</span></li><li><span class="term">Principle</span> <span class="exp"><span class="wuFld">(Chem)</span> Any original inherent constituent which characterizes a substance, or gives it its essential properties, and which can usually be separated by analysis; -- applied especially to drugs, plant extracts, etc.</span> <span class="wuQuot">"Cathartine is the bitter, purgative principle of senna."</span></li><li><span class="term">Principle</span> <span class="exp">Beginning; commencement.</span> <span class="wuQuot">"Doubting sad end of principle unsound."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Principle</span> <span class="exp">To equip with principles; to establish, or fix, in certain principles; to impress with any tenet, or rule of conduct, good or ill.</span> <span class="wuQuot">"Governors should be well principled ."</span><span class="wuQuot">"Let an enthusiast be principled that he or his teacher is inspired."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">Beginning; commencement.</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">Cause, in the widest sense; that by which anything is in any way ultimately determined or regulated.</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">An original faculty or endowment of the mind: as, the principle of observation and comparison.</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">A truth which is evident and general; a truth comprehending many subordinate truths; a law on which others are founded, or from which others are derived: as, the principles of morality, of equity, of government, etc. In mathematical physics a principle commonly means a very widely useful theorem.</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">That which is professed or accepted as a law of action or a rule of conduct; one of the fundamental doctrines or tenets of a system: as, the principles of the Stoics or of the Epicureans; hence, a right rule of conduct; in general, equity; uprightness: as, a man of principle.</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">In chem.: A component part; an element: as, the constituent principles of bodies.</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">A substance on the presence of which certain qualities, common to a number of bodies, depend. See proximate principles, under proximate.</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">In patent law, a law of nature, or a general property of matter, a rule of abstract science. A principle is not patentable, although a process for utilizing a principle may be. Compare process.</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">a certain important proposition concerning the equation</span> </li><li><span class="tSpeech">n</span> <span class="term">principle</span> <span class="exp">See the adjectives.</span> </li><li><span class="term">principle</span> <span class="exp">To establish or fix in certain principles; impress with any tenet or belief, whether good or ill: used chiefly in the past participle.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Principle</span> <span class="exp"><span class="itl">prin′si-pl</span> a fundamental truth on which others are founded or from which they spring: a law or doctrine from which others are derived: an original faculty of the mind: a settled rule of action: :</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Principle</span> <span class="exp">to establish in principles: to impress with a doctrine</span> </li><li><span class="tSpeech">n</span> <span class="term">Principle</span> <span class="exp"><span class="itl">prin′si-pl</span> (<span class="itl">chem.</span>) a constituent part</span> </li><li><span class="tSpeech">n</span> <span class="term">Principle</span> <span class="exp"><span class="itl">prin′si-pl</span> (<span class="itl">obs.</span>) a beginning</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">David Hume</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/David%20Hume.jpg" alt="David%20Hume">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Character is the result of a system of stereotyped principles.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Russell Lowell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20Russell%20Lowell.jpg" alt="James%20Russell%20Lowell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I don't believe in principle, but I do in interest.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Artemus Ward</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Artemus Ward">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When a fellow says it ain't the money but the principle of the thing, it's the money.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Confucius</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Confucius.jpg" alt="Confucius">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To see what is right, and not do it, is want of courage, or of principle.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gerald Barzan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Gerald Barzan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Success is the ability to rise above principle.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Stephen R. Covey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Stephen%20R.%20Covey.jpg" alt="Stephen%20R.%20Covey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You can't live principles you can't understand.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">principe</span>, L. <span class="wUets">principium</span>, beginning, foundation, fr. <span class="wUets">princeps</span>, <span class="wUets">-cipis</span>,. See <span class="wUer">Prince</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>principium</i>, beginning—<i>princeps</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						I deplored this, but could not yield the principle of holding justice superior to persons.
+					</div>
+					<div class="uAuthor">
+						"Autobiography of Frank G. Allen, Minister of the Gospel" by <span>Frank G. Allen</span>					</div>
+										<div class="usage">
+						This intrinsic advantage of certain principles and methods is none the less real for being in a sense aesthetic.
+					</div>
+					<div class="uAuthor">
+						"The Sense of Beauty" by <span>George Santayana</span>					</div>
+										<div class="usage">
+						ON THE GENERAL PRINCIPLES OF CHEMISTRY.
+					</div>
+					<div class="uAuthor">
+						"Conversations on Chemistry, V. 1-2" by <span>Jane Marcet</span>					</div>
+										<div class="usage">
+						The principle of this law is a principle of common-sense.
+					</div>
+					<div class="uAuthor">
+						"Select Temperance Tracts" by <span>American Tract Society</span>					</div>
+										<div class="usage">
+						Either plan contradicts first principles.
+					</div>
+					<div class="uAuthor">
+						"Lectures on the French Revolution" by <span>John Emerich Edward Dalberg-Acton</span>					</div>
+										<div class="usage">
+						Principles are only so far "first principles" as they are permanent and unchangeable, depending on neither time, nor place, nor circumstances.
+					</div>
+					<div class="uAuthor">
+						"Christianity and Greek Philosophy" by <span>Benjamin Franklin Cocker</span>					</div>
+										<div class="usage">
+						He adds, however, that the scheme of punishment was 'severe to the highest degree, and destitute of every sort of principle or system.
+					</div>
+					<div class="uAuthor">
+						"The English Utilitarians, Volume I." by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						Here are laid the primitive principles of future character and conduct.
+					</div>
+					<div class="uAuthor">
+						"Public School Education" by <span>Michael Müller</span>					</div>
+										<div class="usage">
+						The principle of the precept is absolutely subversive of the principle of slavery.
+					</div>
+					<div class="uAuthor">
+						"Cotton is King and The Pro-Slavery Arguments" by <span>Various</span>					</div>
+										<div class="usage">
+						The greatest happiness principle is the one and supreme principle of conduct.
+					</div>
+					<div class="uAuthor">
+						"Liberalism" by <span>L. T. Hobhouse</span>					</div>
+										<div class="usage">
+						This is one of the principles underlying the mechanism of memory.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						But we can fully agree that ethical principles underlie all the most important problems.
+					</div>
+					<div class="uAuthor">
+						"Social Rights and Duties, Volume I (of 2)" by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						In the principle of motivation lies the most successful solution of the problem of interest in teaching.
+					</div>
+					<div class="uAuthor">
+						"College Teaching" by <span>Paul Klapper</span>					</div>
+										<div class="usage">
+						Religious art indicates the gradual recognition of these principles.
+					</div>
+					<div class="uAuthor">
+						"The Religious Sentiment" by <span>Daniel G. Brinton</span>					</div>
+										<div class="usage">
+						There is a Divine principle.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						A Whig stinks in his nostrils because to his eye modern Whiggism is 'a negation of all principles.
+					</div>
+					<div class="uAuthor">
+						"Hours in a Library" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						Whatever the principle of explanation is, it cannot be a principle of this kind.
+					</div>
+					<div class="uAuthor">
+						"A Critical History of Greek Philosophy" by <span>W. T. Stace</span>					</div>
+										<div class="usage">
+						Now, this principle is in full operation still, and ought to be solemnly pondered by the young.
+					</div>
+					<div class="uAuthor">
+						"The Expositor's Bible: The Book of Exodus" by <span>G. A. Chadwick</span>					</div>
+										<div class="usage">
+						I am actuated by the honest intention of acquainting you with the active principles of the present.
+					</div>
+					<div class="uAuthor">
+						"The Progressionists, and Angela." by <span>Conrad von Bolanden</span>					</div>
+										<div class="usage">
+						The true principle of loyalty is, in fact, an union of two principles.
+					</div>
+					<div class="uAuthor">
+						"The Sources Of Religious Insight" by <span>Josiah Royce</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Yet, tho' your principles are slack<br>
+In one respect or two,<br>
+I'm very glad to hear you’re back,<br>
+Cuckoo !
+							<div class="poet">"To an Old Friend" by <span>John Joy Bell</span></div>
+						</div>
+											<div class="poemQuote">
+							The hippopotamus is true<br>
+To his principles, and just;<br>
+He always tries his best to do<br>
+The things one hippopotomust.
+							<div class="poet">"Habits of the Hippopotamus" by <span>Arthur Guiterman</span></div>
+						</div>
+											<div class="poemQuote">
+							Who, whilst in Sodom, kept himself so well,<br>
+So free from ev'ry fault, as holy Lot?<br>
+Yet, in a cave, thro' drunkenness he fell,<br>
+And there his former principles forgot. 
+							<div class="poet">"Stanza's Concerning Some Persons And Things, That Are Mentioned In The Holy Scriptures" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							I wouldn't buy no cursed drink<br>
+Fer any fightin' bloke!<br>
+Wot? Torkin' loud? Well, do yeh think<br>
+I'm 'shamed o' wot I shpoke?<br>
+I stansh on principle, by Gosh!<br>
+'Ere, 'ave anurrer lemin squash.
+							<div class="poet">"The Bar-Room Patriot" by <span>C J Dennis</span></div>
+						</div>
+											<div class="poemQuote">
+							Brave Cameron, full well was thy courage envinced<br>
+In a scene where the bravest have faltered and winced,<br>
+When true to thy pledge and thy principles high,<br>
+When the wine-cup was proferred thou motioned it by.
+							<div class="poet">"Brave Angus Cameron" by <span>Janet Hamilton</span></div>
+						</div>
+											<div class="poemQuote">
+							And, to our 'natural allies'—<br>
+Our veteran Kinderhook Invincibles,<br>
+Who do our bidding, in the guise<br>
+Of 'northern men, with southern principles,'—<br>
+Men who have faces firm as dough,<br>
+And, as we set their noses, go—
+							<div class="poet">"Slaveholder's Address To The North Star" by <span>John Pierpont</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						He said it was in terms of principles, not process.
+					</div>
+					<div class="uAuthor">
+						<a href="http://spectator.org/archives/2011/04/12/compromising-to-win" target="_blank" rel="external nofollow">spectator.org</a>
+					</div>
+										<div class="usage">
+						Preventive efforts like ergonomic workstations and principles can help thwart the injuries from the start.
+					</div>
+					<div class="uAuthor">
+						<a href="http://physical-therapy.advanceweb.com/Article/Personalized-Ergonomics-Can-Ward-Off-CTS-in-the.aspx" target="_blank" rel="external nofollow">physical-therapy.advanceweb.com</a>
+					</div>
+										<div class="usage">
+						Well, I have no principled objections.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/stories/2005/08/05/opinion/main762489.shtml" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						My twin sister and I were raised under a few blanket principles.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiatribune.com/news/2012/oct/12/favoritism/?familylife" target="_blank" rel="external nofollow">columbiatribune.com</a>
+					</div>
+										<div class="usage">
+						It's time to make filibustering senators go through the exercise of standing up for their principles.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/opinion/editorials/la-ed-filibuster-reform-20121125,0,741658.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Learn about the principles of servo and radar flow measurement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.isa.org/InTechTemplate.cfm?Section=Archives4&amp;template=/ContentManagement/ContentDisplay.cfm&amp;ContentID=85566" target="_blank" rel="external nofollow">isa.org</a>
+					</div>
+										<div class="usage">
+						The principles of Colpitts PineRidge Ranch were established by Dr Tom Colpitts, a dentist turned alternative health practitioner.
+					</div>
+					<div class="uAuthor">
+						<a href="http://pryordailytimes.com/agriculture/x519311237/Raising-free-range-chickens/print" target="_blank" rel="external nofollow">pryordailytimes.com</a>
+					</div>
+										<div class="usage">
+						Mayor Bloomberg doesn't usually stand on principle.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nydailynews.com/ny_local/2010/08/08/2010-08-08_for_mike_freedoms_can_vary.html" target="_blank" rel="external nofollow">nydailynews.com</a>
+					</div>
+										<div class="usage">
+						But researchers say the work demonstrates that, in principle, objects could be made to disappear from radar, cameras, and other detection devices.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/2006/1020/p02s01-stss.html" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						 John brown was an abolitionist who had nothing to do with BBQ, but josh admired his principles and named his cafeteria-style restaurant for him.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/wabc/story?section=news/neighborhood_eats&amp;id=8844799" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						I am not going to define a " journalist " except to say that those that follow the nine principles of journalism are clearly a journalist .
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.oregonlive.com/oldtown/2009/09/journalistic_objectivity.html" target="_blank" rel="external nofollow">blog.oregonlive.com</a>
+					</div>
+										<div class="usage">
+						The singer says that says that the title of the new album was heavily inspired by a principle in the Jewish school of thought known as Kabbalah .
+					</div>
+					<div class="uAuthor">
+						<a href="http://kzkx.com/Matisyahu-Says--Spark-Seeker--Was-Inspired-by-Kabb/13738095" target="_blank" rel="external nofollow">kzkx.com</a>
+					</div>
+										<div class="usage">
+						Does Sebelius know the three different tests applied to the Constitution to determine whether a piece of legislation balances principles.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/blogs/capitol/sebelius_exposed_know_nothing_on_5lqMvCyNSsS3l4z6tof8FL" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						 Kwanzaa 's seven principles apply to all.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hometownlife.com/article/20121122/NEWS06/211220541/1023/rss05" target="_blank" rel="external nofollow">hometownlife.com</a>
+					</div>
+										<div class="usage">
+						Each of the principles has a Swahili name as well- even though most African-Americans are from West Africa and Swahili is primarily an East African language.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.insightnews.com/news/3629-kwanzaa-is-for-everyone" target="_blank" rel="external nofollow">insightnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						However, this principle is not a special principle for quantum gravity, it is a ubiquitous principle in quantum ﬁeld theory. 
+					</div>
+					<div class="uAuthor">
+						Gauge Theory of Gravity
+					</div>
+										<div class="usage">
+						On the other horizon, which is not treated as a boundary, the ﬁelds are varied in the action principle and, therefore, the action principle must be such that the Einstein equations hold there. 
+					</div>
+					<div class="uAuthor">
+						de Sitter Black Holes with Either of the Two Horizons as a Boundary
+					</div>
+										<div class="usage">
+						Decompositions and SF E The fact that SF E (cid:16)RexPL (Ω,F) νwµ (dν )(cid:17) = wµ (SF E ) is essential to our proof of the large deviations principle and the variational principle. A longer, more detailed proof of this result—which follows Chapter 15 of —is given in Appendix A. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						In Section 5.3, we derive a technical result we need for both the proof of the variational principle in Chapter 6 and the proof of the large deviations principle in Chapter 7. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						The large deviations principle and variational principle results in Chapters 6 and 7 were proved for isotropic potentials and for Lipschitz potentials in the discrete setting. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						The Anthropic principle has been used in many ways since its proposition. A sort of strange devotion sometimes characterizes those dealing with the principle. 
+					</div>
+					<div class="uAuthor">
+						The Aleph Cosmological Principle
+					</div>
+										<div class="usage">
+						The maximum entropy principle is equivalent to minimum information principle. 
+					</div>
+					<div class="uAuthor">
+						Fluctuations of Quantum Statistical Two-Dimensional Systems of Electrons
+					</div>
+										<div class="usage">
+						The maximum entropy principle is equivalent to minimum information principle. 
+					</div>
+					<div class="uAuthor">
+						Simulations of fluctuations of quantum statistical systems of electrons
+					</div>
+										<div class="usage">
+						We prove an annealed SLLN and invariance principle for any dimension, and provide a quenched invariance principle for dimension d &gt; 7, providing for d &gt; 7 an alternative to the analytical approach of , with the added beneﬁt that it is valid under weaker assumptions. 
+					</div>
+					<div class="uAuthor">
+						Random Walk in Dynamic Markovian Random Environment
+					</div>
+										<div class="usage">
+						The maximum entropy principle is equivalent to minimum information principle. 
+					</div>
+					<div class="uAuthor">
+						Quantum fluctuations of systems of interacting electrons in two spatial dimensions
+					</div>
+										<div class="usage">
+						Similar conclusions would apply to equivalence principle tests, provided α is replaced by the product of α and the appropriate equivalence principle violating parameter. 
+					</div>
+					<div class="uAuthor">
+						New Regions for a Chameleon to Hide
+					</div>
+										<div class="usage">
+						Mass-Transport Principle under the name “intrinsic Mass-Transport Principle”. 
+					</div>
+					<div class="uAuthor">
+						Processes on Unimodular Random Networks
+					</div>
+										<div class="usage">
+						According to the "cosmologic principle", sometimes called the Copernican Principle, the geometry of the Universe should be such that no preferred point exist in it. 
+					</div>
+					<div class="uAuthor">
+						On a Possible Indicator of Homogeneity of the Universe
+					</div>
+										<div class="usage">
+						Thus, unlike the autocentric principle but like the ubiquity principle, the anthropic principle has non trivial implications that can be sub jected to empirical veriﬁcation. 
+					</div>
+					<div class="uAuthor">
+						Anthropic principle in cosmology
+					</div>
+										<div class="usage">
+						The N eigenvectors ~fi of F give the directions of the principle axes (or “principle components”) of the error ellipsoid, and the width of the error ellipsoid along axis ~fi is given by σi , the inverse square root of the i-th eigenvalue of F. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Dark Energy Probes using Multi-Dimensional Dark Energy Parameters
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a rule or law concerning a natural phenomenon or the function of a complex system"><a href="rule.html">rule</a>, </div><div class="synGroup" title="a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct"><a href="rule.html">rule</a>, </div><div class="synGroup" title="rule of personal conduct"><a href="precept.html">precept</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="explanation.html">explanation</a>, <a href="generalisation.html">generalisation</a>, <a href="generality.html">generality</a>, <a href="generalization.html">generalization</a>, <a href="law.html">law</a>, <a href="law%20of%20nature.html">law of nature</a>, <a href="natural%20law.html">natural law</a>, <a href="prescript.html">prescript</a>, <a href="rule.html">rule</a>, <a href="value.html">value</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="gestalt%20law%20of%20organization.html">gestalt law of organization</a>, <a href="gestalt%20principle%20of%20organization.html">gestalt principle of organization</a>, <a href="gresham%27s%20law.html">gresham's law</a>, <a href="hellenism.html">hellenism</a>, <a href="huygens%27%20principle%20of%20superposition.html">huygens' principle of superposition</a>, <a href="le%20chatelier%20principle.html">le chatelier principle</a>, <a href="le%20chatelier%27s%20law.html">le chatelier's law</a>, <a href="le%20chatelier%27s%20principle.html">le chatelier's principle</a>, <a href="le%20chatelier-braun%20principle.html">le chatelier-braun principle</a>, <a href="naegele%27s%20rule.html">naegele's rule</a>, <a href="occam%27s%20razor.html">occam's razor</a>, <a href="ockham%27s%20razor.html">ockham's razor</a>, <a href="tao.html">tao</a>, <a href="accounting%20principle.html">accounting principle</a>, <a href="accounting%20standard.html">accounting standard</a>, <a href="basic%20principle.html">basic principle</a>, <a href="basics.html">basics</a>, <a href="bedrock.html">bedrock</a>, <a href="caveat%20emptor.html">caveat emptor</a>, <a href="chivalry.html">chivalry</a>, <a href="conservation.html">conservation</a>, <a href="dialectics.html">dialectics</a>, <a href="dictate.html">dictate</a>, <a href="ethic.html">ethic</a>, <a href="feng%20shui.html">feng shui</a>, <a href="fundamental%20principle.html">fundamental principle</a>, <a href="fundamentals.html">fundamentals</a>, <a href="higher%20law.html">higher law</a>, <a href="hypothetical%20imperative.html">hypothetical imperative</a>, <a href="insurrectionism.html">insurrectionism</a>, <a href="judicial%20doctrine.html">judicial doctrine</a>, <a href="judicial%20principle.html">judicial principle</a>, <a href="knightliness.html">knightliness</a>, <a href="law%20of%20parsimony.html">law of parsimony</a>, <a href="legal%20principle.html">legal principle</a>, <a href="localisation.html">localisation</a>, <a href="localisation%20of%20function.html">localisation of function</a>, <a href="localisation%20principle.html">localisation principle</a>, <a href="localization.html">localization</a>, <a href="localization%20of%20function.html">localization of function</a>, <a href="localization%20principle.html">localization principle</a>, <a href="logic.html">logic</a>, <a href="mass%20action.html">mass action</a>, <a href="mass-action%20principle.html">mass-action principle</a>, <a href="mass-energy%20equivalence.html">mass-energy equivalence</a>, <a href="moral%20principle.html">moral principle</a>, <a href="pillar.html">pillar</a>, <a href="pleasure%20principle.html">pleasure principle</a>, <a href="pleasure-pain%20principle.html">pleasure-pain principle</a>, <a href="pleasure-unpleasure%20principle.html">pleasure-unpleasure principle</a>, <a href="principle%20of%20equivalence.html">principle of equivalence</a>, <a href="principle%20of%20liquid%20displacement.html">principle of liquid displacement</a>, <a href="principle%20of%20parsimony.html">principle of parsimony</a>, <a href="principle%20of%20superposition.html">principle of superposition</a>, <a href="reality%20principle.html">reality principle</a>, <a href="scruple.html">scruple</a>, <a href="superposition.html">superposition</a>, <a href="superposition%20principle.html">superposition principle</a>, <a href="value%20orientation.html">value orientation</a>, <a href="value-system.html">value-system</a>, <a href="yang.html">yang</a>, <a href="yin.html">yin</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="ratiocinate.html">ratiocinate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="a%20priori.html">a priori</a>, <a href="Abecedary.html">Abecedary</a>, <a href="abjuration.html">abjuration</a>, <a href="abolitionism.html">abolitionism</a>, <a href="about-face.html">about-face</a>, <a href="Absinthin.html">Absinthin</a>, <a href="absolute.html">absolute</a>, <a href="absolutism.html">absolutism</a>, <a href="absolutist.html">absolutist</a>, <a href="absolutistic.html">absolutistic</a>, <a href="accordion.html">accordion</a>, <a href="accounting%20principle.html">accounting principle</a>, <a href="accounting%20standard.html">accounting standard</a>, <a href="acetate.html">acetate</a>, <a href="Acidifier.html">Acidifier</a>, <a href="Aconitine.html">Aconitine</a>, <a href="act.html">act</a>, <a href="addition.html">addition</a>, <a href="adhere.html">adhere</a>, <a href="Adrenalin.html">Adrenalin</a>, <a href="AEolipile.html">AEolipile</a>, <a href="affirmatory.html">affirmatory</a>, <a href="Agrarianism.html">Agrarianism</a>, <a href="Ahriman.html">Ahriman</a>, <a href="Ahura-Mazda.html">Ahura-Mazda</a>, <a href="Airometer.html">Airometer</a>, <a href="albumen.html">albumen</a>, <a href="albumin.html">albumin</a>, <a href="alizarin.html">alizarin</a>, <a href="alizarine.html">alizarine</a>, <a href="alkaloid.html">alkaloid</a>, <a href="allegiance.html">allegiance</a>, <a href="almond.html">almond</a>, <a href="Aloin.html">Aloin</a>, <a href="altruism.html">altruism</a>, <a href="Amanitine.html">Amanitine</a>, <a href="amend.html">amend</a>, <a href="amygdalin.html">amygdalin</a>, <a href="amygdaline.html">amygdaline</a>, <a href="analogy.html">analogy</a>, <a href="Anglicism.html">Anglicism</a>, <a href="anima.html">anima</a>, <a href="Animal%20mechanics.html">Animal mechanics</a>, <a href="Animal%20spirits.html">Animal spirits</a>, <a href="animism.html">animism</a>, <a href="Anorthoscope.html">Anorthoscope</a>, <a href="Anthemis.html">Anthemis</a>, <a href="Anti-federal.html">Anti-federal</a>, <a href="Antiarin.html">Antiarin</a>, <a href="antimonopoly.html">antimonopoly</a>, <a href="antinomy.html">antinomy</a>, <a href="Antiperistasis.html">Antiperistasis</a>, <a href="ape.html">ape</a>, <a href="aphorism.html">aphorism</a>, <a href="Apocynin.html">Apocynin</a>, <a href="Apollinarian.html">Apollinarian</a>, <a href="Apomecometer.html">Apomecometer</a>, <a href="apostate.html">apostate</a>, <a href="apotheosis.html">apotheosis</a>, <a href="appeal.html">appeal</a>, <a href="application.html">application</a>, <a href="apply.html">apply</a>, <a href="apportionment.html">apportionment</a>, <a href="appropriation.html">appropriation</a>, <a href="Apriorism.html">Apriorism</a>, <a href="Aquarian.html">Aquarian</a>, <a href="Aqueity.html">Aqueity</a>, <a href="Arabine.html">Arabine</a>, <a href="arbitrary.html">arbitrary</a>, <a href="Archeus.html">Archeus</a>, <a href="Archimedean.html">Archimedean</a>, <a href="Argand%20burner.html">Argand burner</a>, <a href="argue.html">argue</a>, <a href="Aristotelianism.html">Aristotelianism</a>, <a href="Arnicin.html">Arnicin</a>, <a href="aroma.html">aroma</a>, <a href="Aromatous.html">Aromatous</a>, <a href="Aspheterism.html">Aspheterism</a>, <a href="association%20theory.html">association theory</a>, <a href="associationism.html">associationism</a>, <a href="associative.html">associative</a>, <a href="assume.html">assume</a>, <a href="Atman.html">Atman</a>, <a href="attenuation.html">attenuation</a>, <a href="authoritarian.html">authoritarian</a>, <a href="autocracy.html">autocracy</a>, <a href="autolysis.html">autolysis</a>, <a href="autonomy.html">autonomy</a>, <a href="Auxetophone.html">Auxetophone</a>, <a href="avatar.html">avatar</a>, <a href="aviator.html">aviator</a>, <a href="Avogadro%27s%20hypothesis.html">Avogadro's hypothesis</a>, <a href="Avogadro%27s%20law.html">Avogadro's law</a>, <a href="axiom.html">axiom</a>, <a href="axiomatic.html">axiomatic</a>, <a href="Azoth.html">Azoth</a>, <a href="backbone.html">backbone</a>, <a href="backsliding.html">backsliding</a>, <a href="Baptist.html">Baptist</a>, <a href="bascule.html">bascule</a>, <a href="base.html">base</a>, <a href="Base-burner.html">Base-burner</a>, <a href="Basi-.html">Basi-</a>, <a href="basis.html">basis</a>, <a href="bastion.html">bastion</a>, <a href="Be%20neither%20fish%20nor%20flesh.html">Be neither fish nor flesh</a>, <a href="bearing.html">bearing</a>, <a href="Beguin.html">Beguin</a>, <a href="being.html">being</a>, <a href="believe.html">believe</a>, <a href="Benthamism.html">Benthamism</a>, <a href="biogenetic.html">biogenetic</a>, <a href="biotic.html">biotic</a>, <a href="bitter-bark.html">bitter-bark</a>, <a href="blood.html">blood</a>, <a href="body.html">body</a>, <a href="bookkeeping.html">bookkeeping</a>, <a href="Bose-Einstein%20statistics.html">Bose-Einstein statistics</a>, <a href="boson.html">boson</a>, <a href="botany.html">botany</a>, <a href="Brazilin.html">Brazilin</a>, <a href="Brocard.html">Brocard</a>, <a href="Bryonin.html">Bryonin</a>, <a href="bullet%20vote.html">bullet vote</a>, <a href="bureaucracy.html">bureaucracy</a>, <a href="cacaine.html">cacaine</a>, <a href="caffeine.html">caffeine</a>, <a href="caisson.html">caisson</a>, <a href="calcination.html">calcination</a>, <a href="caloric.html">caloric</a>, <a href="Calumbin.html">Calumbin</a>, <a href="campaign.html">campaign</a>, <a href="cannabin.html">cannabin</a>, <a href="canon.html">canon</a>, <a href="Cantalever%20bridge.html">Cantalever bridge</a>, <a href="Cantharidin.html">Cantharidin</a>, <a href="Cantharidine.html">Cantharidine</a>, <a href="cantilever.html">cantilever</a>, <a href="capsaicin.html">capsaicin</a>, <a href="Capsicin.html">Capsicin</a>, <a href="Capsicine.html">Capsicine</a>, <a href="capsicum.html">capsicum</a>, <a href="capstan.html">capstan</a>, <a href="carmine.html">carmine</a>, <a href="Carminic.html">Carminic</a>, <a href="carry.html">carry</a>, <a href="Cartesian%20bottle-imp.html">Cartesian bottle-imp</a>, <a href="Cartesian%20devil.html">Cartesian devil</a>, <a href="Cartesian%20diver.html">Cartesian diver</a>, <a href="caste.html">caste</a>, <a href="Castorin.html">Castorin</a>, <a href="castration%20anxiety.html">castration anxiety</a>, <a href="catechin.html">catechin</a>, <a href="categorical%20imperative.html">categorical imperative</a>, <a href="Catharical.html">Catharical</a>, <a href="cathartic.html">cathartic</a>, <a href="cathartin.html">cathartin</a>, <a href="causality.html">causality</a>, <a href="causation.html">causation</a>, <a href="cause.html">cause</a>, <a href="caveat%20emptor.html">caveat emptor</a>, <a href="central.html">central</a>, <a href="centralism.html">centralism</a>, <a href="Centrobaric%20method.html">Centrobaric method</a>, <a href="charge.html">charge</a>, <a href="checkmate.html">checkmate</a>, <a href="Chelerythrine.html">Chelerythrine</a>, <a href="Chen%20N.%20Yang.html">Chen N. Yang</a>, <a href="cherish.html">cherish</a>, <a href="Christian%20Science.html">Christian Science</a>, <a href="chronometer.html">chronometer</a>, <a href="chrysarobin.html">chrysarobin</a>, <a href="Cicutoxin.html">Cicutoxin</a>, <a href="Civicism.html">Civicism</a>, <a href="clan.html">clan</a>, <a href="closure.html">closure</a>, <a href="cochineal.html">cochineal</a>, <a href="coherence.html">coherence</a>, <a href="coherency.html">coherency</a>, <a href="coinsurance.html">coinsurance</a>, <a href="collective.html">collective</a>, <a href="collectivised.html">collectivised</a>, <a href="collectivism.html">collectivism</a>, <a href="collectivist.html">collectivist</a>, <a href="collectivized.html">collectivized</a>, <a href="colligate.html">colligate</a>, <a href="Colocynthin.html">Colocynthin</a>, <a href="colonialism.html">colonialism</a>, <a href="colonialist.html">colonialist</a>, <a href="Columbin.html">Columbin</a>, <a href="common%20fate.html">common fate</a>, <a href="commune.html">commune</a>, <a href="commutation%20ticket.html">commutation ticket</a>, <a href="compensation.html">compensation</a>, <a href="component.html">component</a>, <a href="composite.html">composite</a>, <a href="compound.html">compound</a>, <a href="concertina.html">concertina</a>, <a href="Congregationalist.html">Congregationalist</a>, <a href="Conine.html">Conine</a>, <a href="Conium.html">Conium</a>, <a href="conscience.html">conscience</a>, <a href="consequence.html">consequence</a>, <a href="consequent.html">consequent</a>, <a href="Conservation%20of%20areas.html">Conservation of areas</a>, <a href="conservation%20of%20charge.html">conservation of charge</a>, <a href="conservation%20of%20electricity.html">conservation of electricity</a>, <a href="conservation%20of%20energy.html">conservation of energy</a>, <a href="Conservation%20of%20force.html">Conservation of force</a>, <a href="conservation%20of%20mass.html">conservation of mass</a>, <a href="conservation%20of%20matter.html">conservation of matter</a>, <a href="conservation%20of%20momentum.html">conservation of momentum</a>, <a href="Conservative.html">Conservative</a>, <a href="constant.html">constant</a>, <a href="constitutionalism.html">constitutionalism</a>, <a href="Contexture.html">Contexture</a>, <a href="continuation.html">continuation</a>, <a href="contravene.html">contravene</a>, <a href="contrive.html">contrive</a>, <a href="convection.html">convection</a>, <a href="conventionality.html">conventionality</a>, <a href="conventionalize.html">conventionalize</a>, <a href="Convolvulin.html">Convolvulin</a>, <a href="Co%C3%B6perative%20society.html">Coöperative society</a>, <a href="Cornin.html">Cornin</a>, <a href="Correlation%20of%20energy.html">Correlation of energy</a>, <a href="corruption.html">corruption</a>, <a href="Coulomb%27s%20Law.html">Coulomb's Law</a>, <a href="Coumarin.html">Coumarin</a>, <a href="Crane.html">Crane</a>, <a href="creamer.html">creamer</a>, <a href="criterion.html">criterion</a>, <a href="crotchet.html">crotchet</a>, <a href="Crusade.html">Crusade</a>, <a href="Curcumin.html">Curcumin</a>, <a href="cy%20pres.html">cy pres</a>, <a href="Cyclamin.html">Cyclamin</a>, <a href="Daphnin.html">Daphnin</a>, <a href="datum.html">datum</a>, <a href="de%20minimis%20non%20curat%20lex.html">de minimis non curat lex</a>, <a href="decentralization.html">decentralization</a>, <a href="decline.html">decline</a>, <a href="deduce.html">deduce</a>, <a href="deduction.html">deduction</a>, <a href="deductive.html">deductive</a>, <a href="Deductively.html">Deductively</a>, <a href="Democrat.html">Democrat</a>, <a href="Democratic.html">Democratic</a>, <a href="depart.html">depart</a>, <a href="Dephlogisticate.html">Dephlogisticate</a>, <a href="Dephlogisticcate.html">Dephlogisticcate</a>, <a href="depraved.html">depraved</a>, <a href="depravity.html">depravity</a>, <a href="desert.html">desert</a>, <a href="Despotocracy.html">Despotocracy</a>, <a href="destruction.html">destruction</a>, <a href="devil.html">devil</a>, <a href="devise.html">devise</a>, <a href="diagnosis.html">diagnosis</a>, <a href="dialysis.html">dialysis</a>, <a href="diatom.html">diatom</a>, <a href="dictate.html">dictate</a>, <a href="Differential%20pulley.html">Differential pulley</a>, <a href="digester.html">digester</a>, <a href="digitalin.html">digitalin</a>, <a href="digitoxin.html">digitoxin</a>, <a href="dignity.html">dignity</a>, <a href="Dilatometer.html">Dilatometer</a>, <a href="dilemma.html">dilemma</a>, <a href="discoverer.html">discoverer</a>, <a href="dishonesty.html">dishonesty</a>, <a href="disloyal.html">disloyal</a>, <a href="distillation.html">distillation</a>, <a href="distinguish.html">distinguish</a>, <a href="doctrine.html">doctrine</a>, <a href="dogma.html">dogma</a>, <a href="draw%20out.html">draw out</a>, <a href="drive.html">drive</a>, <a href="dual.html">dual</a>, <a href="dualism.html">dualism</a>, <a href="due%20process.html">due process</a>, <a href="due%20process%20of%20law.html">due process of law</a>, <a href="dynamic.html">dynamic</a>, <a href="dynamism.html">dynamism</a>, <a href="earth%20mother.html">earth mother</a>, <a href="Ecboline.html">Ecboline</a>, <a href="Echidnine.html">Echidnine</a>, <a href="educe.html">educe</a>, <a href="effort.html">effort</a>, <a href="egoism.html">egoism</a>, <a href="Einstein%27s%20general%20theory%20of%20relativity.html">Einstein's general theory of relativity</a>, <a href="Elain.html">Elain</a>, <a href="elater.html">elater</a>, <a href="elective.html">elective</a>, <a href="electricity.html">electricity</a>, <a href="Electrine.html">Electrine</a>, <a href="element.html">element</a>, <a href="elementary.html">elementary</a>, <a href="elicit.html">elicit</a>, <a href="elixir.html">elixir</a>, <a href="Emetin.html">Emetin</a>, <a href="Emetine.html">Emetine</a>, <a href="Empyrical.html">Empyrical</a>, <a href="energy.html">energy</a>, <a href="English.html">English</a>, <a href="Enorthotrope.html">Enorthotrope</a>, <a href="enthusiast.html">enthusiast</a>, <a href="enthusiastic.html">enthusiastic</a>, <a href="Epicycloidal%20wheel.html">Epicycloidal wheel</a>, <a href="epinephrin.html">epinephrin</a>, <a href="equalitarian.html">equalitarian</a>, <a href="equilibrium%20law.html">equilibrium law</a>, <a href="Ergotine.html">Ergotine</a>, <a href="Erythrin.html">Erythrin</a>, <a href="erythrite.html">erythrite</a>, <a href="Esculin.html">Esculin</a>, <a href="essence.html">essence</a>, <a href="essential.html">essential</a>, <a href="establish.html">establish</a>, <a href="establishmentarian.html">establishmentarian</a>, <a href="establishmentarianism.html">establishmentarianism</a>, <a href="Euonymin.html">Euonymin</a>, <a href="Eupatorin%20Eupatorine.html">Eupatorin Eupatorine</a>, <a href="euphony.html">euphony</a>, <a href="Euphorbin.html">Euphorbin</a>, <a href="Euphorbine.html">Euphorbine</a>, <a href="Eutexia.html">Eutexia</a>, <a href="evangel.html">evangel</a>, <a href="Everliving.html">Everliving</a>, <a href="evil.html">evil</a>, <a href="evildoing.html">evildoing</a>, <a href="evilness.html">evilness</a>, <a href="evoke.html">evoke</a>, <a href="evolutionist.html">evolutionist</a>, <a href="Excluded%20middle.html">Excluded middle</a>, <a href="excogitate.html">excogitate</a>, <a href="exemplification.html">exemplification</a>, <a href="expansion.html">expansion</a>, <a href="expedience.html">expedience</a>, <a href="expediency.html">expediency</a>, <a href="experiment.html">experiment</a>, <a href="exponent.html">exponent</a>, <a href="extract.html">extract</a>, <a href="Extractive.html">Extractive</a>, <a href="falseness.html">falseness</a>, <a href="family.html">family</a>, <a href="famous.html">famous</a>, <a href="Federal.html">Federal</a>, <a href="federalism.html">federalism</a>, <a href="Federative.html">Federative</a>, <a href="fellowship.html">fellowship</a>, <a href="Fermi-Dirac%20statistics.html">Fermi-Dirac statistics</a>, <a href="fermion.html">fermion</a>, <a href="fertilizer.html">fertilizer</a>, <a href="firmness.html">firmness</a>, <a href="first%20law%20of%20thermodynamics.html">first law of thermodynamics</a>, <a href="first%20principle.html">first principle</a>, <a href="Fisetin.html">Fisetin</a>, <a href="foe.html">foe</a>, <a href="foot.html">foot</a>, <a href="force.html">force</a>, <a href="forge.html">forge</a>, <a href="Formal%20cause.html">Formal cause</a>, <a href="formula.html">formula</a>, <a href="formulate.html">formulate</a>, <a href="Fortition.html">Fortition</a>, <a href="Fountain%20heead.html">Fountain heead</a>, <a href="fraternity.html">fraternity</a>, <a href="From.html">From</a>, <a href="fundamental.html">fundamental</a>, <a href="gallantry.html">gallantry</a>, <a href="Geist.html">Geist</a>, <a href="General%20principle.html">General principle</a>, <a href="general%20relativity.html">general relativity</a>, <a href="general%20relativity%20theory.html">general relativity theory</a>, <a href="general%20theory%20of%20relativity.html">general theory of relativity</a>, <a href="generalization.html">generalization</a>, <a href="generalize.html">generalize</a>, <a href="germ.html">germ</a>, <a href="Gestalt%20law%20of%20organization.html">Gestalt law of organization</a>, <a href="Gestalt%20principle%20of%20organization.html">Gestalt principle of organization</a>, <a href="Gimbal%20joint.html">Gimbal joint</a>, <a href="good%20continuation.html">good continuation</a>, <a href="Grammatication.html">Grammatication</a>, <a href="Grammaticism.html">Grammaticism</a>, <a href="Graphophone.html">Graphophone</a>, <a href="great.html">great</a>, <a href="Gresham%27s%20Law.html">Gresham's Law</a>, <a href="ground.html">ground</a>, <a href="groundwork.html">groundwork</a>, <a href="Guarantee%20associations.html">Guarantee associations</a>, <a href="guideline.html">guideline</a>, <a href="guidepost.html">guidepost</a>, <a href="Haematein.html">Haematein</a>, <a href="hasheesh.html">hasheesh</a>, <a href="hashish.html">hashish</a>, <a href="hedonism.html">hedonism</a>, <a href="Heisenberg.html">Heisenberg</a>, <a href="Hem-.html">Hem-</a>, <a href="Henry%20le%20Chatelier.html">Henry le Chatelier</a>, <a href="high-principled.html">high-principled</a>, <a href="higher%20law.html">higher law</a>, <a href="hinge.html">hinge</a>, <a href="Hooke%27s%20law.html">Hooke's law</a>, <a href="hydroplane.html">hydroplane</a>, <a href="Hydrostatic%20paradox.html">Hydrostatic paradox</a>, <a href="Hydrostatic%20press.html">Hydrostatic press</a>, <a href="Hylism.html">Hylism</a>, <a href="hyoscyamine.html">hyoscyamine</a>, <a href="hypostasis.html">hypostasis</a>, <a href="hypothesis.html">hypothesis</a>, <a href="hypothetical%20imperative.html">hypothetical imperative</a>, <a href="H%C3%A6matoxylin.html">Hæmatoxylin</a>, <a href="idea.html">idea</a>, <a href="Ido.html">Ido</a>, <a href="Ilicin.html">Ilicin</a>, <a href="immanence.html">immanence</a>, <a href="immanency.html">immanency</a>, <a href="impregnate.html">impregnate</a>, <a href="improvement.html">improvement</a>, <a href="Incoincident.html">Incoincident</a>, <a href="inconsistent.html">inconsistent</a>, <a href="individualism.html">individualism</a>, <a href="individuation.html">individuation</a>, <a href="indwell.html">indwell</a>, <a href="indweller.html">indweller</a>, <a href="indwelling.html">indwelling</a>, <a href="inference.html">inference</a>, <a href="institute.html">institute</a>, <a href="insurrectionism.html">insurrectionism</a>, <a href="intellect.html">intellect</a>, <a href="internationalize.html">internationalize</a>, <a href="invent.html">invent</a>, <a href="Ionic%20school.html">Ionic school</a>, <a href="Ionic%20sect.html">Ionic sect</a>, <a href="irregular.html">irregular</a>, <a href="irregularity.html">irregularity</a>, <a href="jiujitsu.html">jiujitsu</a>, <a href="Jiujutsu.html">Jiujutsu</a>, <a href="judicial%20doctrine.html">judicial doctrine</a>, <a href="judicial%20principle.html">judicial principle</a>, <a href="jujitsu.html">jujitsu</a>, <a href="jujutsu.html">jujutsu</a>, <a href="jus%20sanguinis.html">jus sanguinis</a>, <a href="jus%20soli.html">jus soli</a>, <a href="karma.html">karma</a>, <a href="keynote.html">keynote</a>, <a href="kindergarten.html">kindergarten</a>, <a href="laissez-faire.html">laissez-faire</a>, <a href="law.html">law</a>, <a href="law%20of%20chemical%20equilibrium.html">law of chemical equilibrium</a>, <a href="law%20of%20closure.html">law of closure</a>, <a href="law%20of%20common%20fate.html">law of common fate</a>, <a href="law%20of%20conservation%20of%20energy.html">law of conservation of energy</a>, <a href="law%20of%20conservation%20of%20mass.html">law of conservation of mass</a>, <a href="law%20of%20conservation%20of%20matter.html">law of conservation of matter</a>, <a href="law%20of%20continuation.html">law of continuation</a>, <a href="Law%20of%20continuity.html">Law of continuity</a>, <a href="law%20of%20effect.html">law of effect</a>, <a href="law%20of%20mass%20action.html">law of mass action</a>, <a href="law%20of%20parsimony.html">law of parsimony</a>, <a href="law%20of%20proximity.html">law of proximity</a>, <a href="law%20of%20similarity.html">law of similarity</a>, <a href="le%20Chatelier.html">le Chatelier</a>, <a href="Le%20Chatelier%20principle.html">Le Chatelier principle</a>, <a href="Le%20Chatelier%27s%20law.html">Le Chatelier's law</a>, <a href="Le%20Chatelier%27s%20principle.html">Le Chatelier's principle</a>, <a href="Le%20Chatelier-Braun%20principle.html">Le Chatelier-Braun principle</a>, <a href="Lee.html">Lee</a>, <a href="legal%20principle.html">legal principle</a>, <a href="Leibnitzianism.html">Leibnitzianism</a>, <a href="lever.html">lever</a>, <a href="Libertinism.html">Libertinism</a>, <a href="lidar.html">lidar</a>, <a href="life.html">life</a>, <a href="Ligustrin.html">Ligustrin</a>, <a href="limitation.html">limitation</a>, <a href="limited%20liability.html">limited liability</a>, <a href="liquid.html">liquid</a>, <a href="list%20system.html">list system</a>, <a href="lithography.html">lithography</a>, <a href="living.html">living</a>, <a href="lobby.html">lobby</a>, <a href="locale.html">locale</a>, <a href="localisation.html">localisation</a>, <a href="localisation%20of%20function.html">localisation of function</a>, <a href="localisation%20principle.html">localisation principle</a>, <a href="localization.html">localization</a>, <a href="localization%20of%20function.html">localization of function</a>, <a href="localization%20principle.html">localization principle</a>, <a href="Logical%20impossibility.html">Logical impossibility</a>, <a href="Logos.html">Logos</a>, <a href="loose.html">loose</a>, <a href="loyal.html">loyal</a>, <a href="Lupulin.html">Lupulin</a>, <a href="Magianism.html">Magianism</a>, <a href="malt.html">malt</a>, <a href="Malthusian.html">Malthusian</a>, <a href="Maltin.html">Maltin</a>, <a href="Maltine.html">Maltine</a>, <a href="manometer.html">manometer</a>, <a href="martyr.html">martyr</a>, <a href="maser.html">maser</a>, <a href="mass%20action.html">mass action</a>, <a href="mass-action%20principle.html">mass-action principle</a>, <a href="mass-energy%20equivalence.html">mass-energy equivalence</a>, <a href="Maxim.html">Maxim</a>, <a href="Mendel%27s%20law.html">Mendel's law</a>, <a href="Mendeleev%27s%20law.html">Mendeleev's law</a>, <a href="Mercator%27s%20chart.html">Mercator's chart</a>, <a href="monarchy.html">monarchy</a>, <a href="Monesin.html">Monesin</a>, <a href="monogamy.html">monogamy</a>, <a href="Monroeism.html">Monroeism</a>, <a href="moral%20principle.html">moral principle</a>, <a href="morality.html">morality</a>, <a href="morphia.html">morphia</a>, <a href="motto.html">motto</a>, <a href="movement.html">movement</a>, <a href="multiplication.html">multiplication</a>, <a href="Mutual%20insurance%20company.html">Mutual insurance company</a>, <a href="myosin.html">myosin</a>, <a href="Nataloin.html">Nataloin</a>, <a href="natural%20selection.html">natural selection</a>, <a href="nature.html">nature</a>, <a href="Neither%20fish%2C%20flesh%2C%20nor%20fowl.html">Neither fish, flesh, nor fowl</a>, <a href="Neoplatonism.html">Neoplatonism</a>, <a href="New%20Thought.html">New Thought</a>, <a href="nexus.html">nexus</a>, <a href="nicotine.html">nicotine</a>, <a href="nitrogenous.html">nitrogenous</a>, <a href="Non-intrusion.html">Non-intrusion</a>, <a href="Non-resistance.html">Non-resistance</a>, <a href="Nonnitrogenous.html">Nonnitrogenous</a>, <a href="nonviolent.html">nonviolent</a>, <a href="Norma.html">Norma</a>, <a href="normal.html">normal</a>, <a href="Object-soul.html">Object-soul</a>, <a href="objectification.html">objectification</a>, <a href="Occam%27s%20Razor.html">Occam's Razor</a>, <a href="Ockham%27s%20Razor.html">Ockham's Razor</a>, <a href="Old-light.html">Old-light</a>, <a href="opportunist.html">opportunist</a>, <a href="organise.html">organise</a>, <a href="organize.html">organize</a>, <a href="Ormazd.html">Ormazd</a>, <a href="Ormuzd.html">Ormuzd</a>, <a href="Outlaugh.html">Outlaugh</a>, <a href="Oversoul.html">Oversoul</a>, <a href="Pan-Americanism.html">Pan-Americanism</a>, <a href="Parasynthesis.html">Parasynthesis</a>, <a href="parity.html">parity</a>, <a href="Pauli.html">Pauli</a>, <a href="periodic%20law.html">periodic law</a>, <a href="Phallism.html">Phallism</a>, <a href="Phantascope.html">Phantascope</a>, <a href="Philosopheme.html">Philosopheme</a>, <a href="phlogiston.html">phlogiston</a>, <a href="Phren.html">Phren</a>, <a href="physostigmine.html">physostigmine</a>, <a href="Picamar.html">Picamar</a>, <a href="Picrotoxine.html">Picrotoxine</a>, <a href="Pietism.html">Pietism</a>, <a href="pillar.html">pillar</a>, <a href="pleasure%20principle.html">pleasure principle</a>, <a href="pleasure-pain%20principle.html">pleasure-pain principle</a>, <a href="pleasure-unpleasure%20principle.html">pleasure-unpleasure principle</a>, <a href="point.html">point</a>, <a href="policy.html">policy</a>, <a href="policy%20change.html">policy change</a>, <a href="politic.html">politic</a>, <a href="Porphyrogenitism.html">Porphyrogenitism</a>, <a href="Porphyrogenitus.html">Porphyrogenitus</a>, <a href="posit.html">posit</a>, <a href="position.html">position</a>, <a href="pre-emption.html">pre-emption</a>, <a href="precept.html">precept</a>, <a href="preemption.html">preemption</a>, <a href="primordial.html">primordial</a>, <a href="principal.html">principal</a>, <a href="Principle%20of%20contradiction.html">Principle of contradiction</a>, <a href="principle%20of%20equivalence.html">principle of equivalence</a>, <a href="Principle%20of%20excluded%20middle.html">Principle of excluded middle</a>, <a href="principle%20of%20parsimony.html">principle of parsimony</a>, <a href="principle%20of%20superposition.html">principle of superposition</a>, <a href="Principle%20of%20vis%20viva.html">Principle of vis viva</a>, <a href="profligacy.html">profligacy</a>, <a href="profligate.html">profligate</a>, <a href="prolepsis.html">prolepsis</a>, <a href="proportion.html">proportion</a>, <a href="Protagon.html">Protagon</a>, <a href="proximity.html">proximity</a>, <a href="psyche.html">psyche</a>, <a href="psychic.html">psychic</a>, <a href="psychical.html">psychical</a>, <a href="ptyalin.html">ptyalin</a>, <a href="Ptyaline.html">Ptyaline</a>, <a href="quantum%20mechanics.html">quantum mechanics</a>, <a href="Quassin.html">Quassin</a>, <a href="Quassine.html">Quassine</a>, <a href="Quassite.html">Quassite</a>, <a href="Radicality.html">Radicality</a>, <a href="rallying%20point.html">rallying point</a>, <a href="reality%20principle.html">reality principle</a>, <a href="reason.html">reason</a>, <a href="recreant.html">recreant</a>, <a href="rectitude.html">rectitude</a>, <a href="refer.html">refer</a>, <a href="referendum.html">referendum</a>, <a href="refractometer.html">refractometer</a>, <a href="regular.html">regular</a>, <a href="regularity.html">regularity</a>, <a href="regulated.html">regulated</a>, <a href="regulation.html">regulation</a>, <a href="relation.html">relation</a>, <a href="relation%20back.html">relation back</a>, <a href="Relay%20governor.html">Relay governor</a>, <a href="renegade.html">renegade</a>, <a href="rennet.html">rennet</a>, <a href="Repellence.html">Repellence</a>, <a href="Repellency.html">Repellency</a>, <a href="Resolution%20of%20forces.html">Resolution of forces</a>, <a href="Resolution%20of%20velocities.html">Resolution of velocities</a>, <a href="restriction.html">restriction</a>, <a href="reversal.html">reversal</a>, <a href="Rhysimeter.html">Rhysimeter</a>, <a href="Rigorism.html">Rigorism</a>, <a href="royalism.html">royalism</a>, <a href="rudiment.html">rudiment</a>, <a href="rule.html">rule</a>, <a href="rule%20of%20thumb.html">rule of thumb</a>, <a href="Saint-Simonian.html">Saint-Simonian</a>, <a href="Sakti.html">Sakti</a>, <a href="sanctification.html">sanctification</a>, <a href="Santonin.html">Santonin</a>, <a href="saponin.html">saponin</a>, <a href="Scillitin.html">Scillitin</a>, <a href="scoundrel.html">scoundrel</a>, <a href="scruple.html">scruple</a>, <a href="scrutin%20de%20liste.html">scrutin de liste</a>, <a href="scrutin%20de%20liste%20system.html">scrutin de liste system</a>, <a href="scrutin%20uninomial%20system.html">scrutin uninomial system</a>, <a href="scrutin%20uninominal%20voting%20system.html">scrutin uninominal voting system</a>, <a href="secessionist.html">secessionist</a>, <a href="secret.html">secret</a>, <a href="seed.html">seed</a>, <a href="self-seeker.html">self-seeker</a>, <a href="seminal.html">seminal</a>, <a href="Seminality.html">Seminality</a>, <a href="severe.html">severe</a>, <a href="sextant.html">sextant</a>, <a href="Shakti.html">Shakti</a>, <a href="similarity.html">similarity</a>, <a href="single-member%20system.html">single-member system</a>, <a href="Siva.html">Siva</a>, <a href="skepticism.html">skepticism</a>, <a href="socialism.html">socialism</a>, <a href="solitary%20wave.html">solitary wave</a>, <a href="soliton.html">soliton</a>, <a href="soliton%20wave.html">soliton wave</a>, <a href="Spanish%20fly.html">Spanish fly</a>, <a href="spark.html">spark</a>, <a href="Spectrophone.html">Spectrophone</a>, <a href="Spencerianism.html">Spencerianism</a>, <a href="spirit.html">spirit</a>, <a href="spring.html">spring</a>, <a href="stanch.html">stanch</a>, <a href="Stand-point.html">Stand-point</a>, <a href="Standing-ground.html">Standing-ground</a>, <a href="standpoint.html">standpoint</a>, <a href="Statute%20of%20frauds.html">Statute of frauds</a>, <a href="staunch.html">staunch</a>, <a href="Sterhydraulic.html">Sterhydraulic</a>, <a href="stoic.html">stoic</a>, <a href="strophanthus.html">strophanthus</a>, <a href="Subreligion.html">Subreligion</a>, <a href="subsume.html">subsume</a>, <a href="sufferer.html">sufferer</a>, <a href="superposition.html">superposition</a>, <a href="superposition%20principle.html">superposition principle</a>, <a href="syllogism.html">syllogism</a>, <a href="system.html">system</a>, <a href="tannic%20acid.html">tannic acid</a>, <a href="Tao.html">Tao</a>, <a href="Taranis.html">Taranis</a>, <a href="teetotalism.html">teetotalism</a>, <a href="tenet.html">tenet</a>, <a href="tenure.html">tenure</a>, <a href="test.html">test</a>, <a href="The%20small%20end%20of%20the%20wedge.html">The small end of the wedge</a>, <a href="The%20thin%20end%20of%20the%20wedge.html">The thin end of the wedge</a>, <a href="Theine.html">Theine</a>, <a href="Theobromine.html">Theobromine</a>, <a href="theorem.html">theorem</a>, <a href="thermometer.html">thermometer</a>, <a href="time%20immemorial.html">time immemorial</a>, <a href="To%20strain%20a%20point.html">To strain a point</a>, <a href="tonality.html">tonality</a>, <a href="tontine.html">tontine</a>, <a href="tontine%20insurance.html">tontine insurance</a>, <a href="Torricellian.html">Torricellian</a>, <a href="totalism.html">totalism</a>, <a href="totalitarianism.html">totalitarianism</a>, <a href="transgression.html">transgression</a>, <a href="transgressor.html">transgressor</a>, <a href="trust.html">trust</a>, <a href="truth.html">truth</a>, <a href="Tsung%20Dao%20Lee.html">Tsung Dao Lee</a>, <a href="turpitude.html">turpitude</a>, <a href="Ultimate%20belief.html">Ultimate belief</a>, <a href="Ultraist.html">Ultraist</a>, <a href="Undubitable.html">Undubitable</a>, <a href="uninominal%20system.html">uninominal system</a>, <a href="uninominal%20voting%20system.html">uninominal voting system</a>, <a href="Unitarian.html">Unitarian</a>, <a href="unity.html">unity</a>, <a href="unprincipled.html">unprincipled</a>, <a href="unregularity.html">unregularity</a>, <a href="Unsoul.html">Unsoul</a>, <a href="Uti%20possidetis.html">Uti possidetis</a>, <a href="Vacuum-brake.html">Vacuum-brake</a>, <a href="vital%20force.html">vital force</a>, <a href="vital%20principle.html">vital principle</a>, <a href="vitalise.html">vitalise</a>, <a href="vitalism.html">vitalism</a>, <a href="Vitalistic.html">Vitalistic</a>, <a href="vitality.html">vitality</a>, <a href="vitalization.html">vitalization</a>, <a href="volte-face.html">volte-face</a>, <a href="Voluntarism.html">Voluntarism</a>, <a href="Voluntaryism.html">Voluntaryism</a>, <a href="Washingtonian.html">Washingtonian</a>, <a href="Weather-box.html">Weather-box</a>, <a href="Weather-boxhouse.html">Weather-boxhouse</a>, <a href="Werner%20Karl%20Heisenberg.html">Werner Karl Heisenberg</a>, <a href="wheel.html">wheel</a>, <a href="wheel%20and%20axle.html">wheel and axle</a>, <a href="Whiteboyism.html">Whiteboyism</a>, <a href="wicked.html">wicked</a>, <a href="Wolfgang%20Pauli.html">Wolfgang Pauli</a>, <a href="wrongheaded.html">wrongheaded</a>, <a href="Xanthin.html">Xanthin</a>, <a href="yang.html">yang</a>, <a href="Yang%20Chen%20Ning.html">Yang Chen Ning</a>, <a href="yin.html">yin</a>, <a href="Zoism.html">Zoism</a>, <a href="Zyme.html">Zyme</a>, <a href="Zymotic%20disease.html">Zymotic disease</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					orinciple, lrinciple, peinciple, pdinciple, pfinciple, ptinciple, prunciple, prjnciple, prknciple, pronciple, pribciple, prihciple, prijciple, primciple, prinxiple, prindiple, prinfiple, prinviple, princuple, princjple, princkple, princople, princiole, princille, principke, principoe, princippe, principlw, principls, principld, principlr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

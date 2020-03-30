@@ -1,0 +1,448 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>detestation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">detestation</span> <span class="exp">hate coupled with disgust</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Detestation</span> <span class="exp">The act of detesting; extreme hatred or dislike; abhorrence; loathing.</span> <span class="wuQuot">"We are heartily agreed in our detestation of civil war."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">detestation</span> <span class="exp">Extreme dislike; hatred; abhorrence; loathing: with of.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Detestation</span> <span class="exp">extreme hatred</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Bukowski</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles Bukowski">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Show me a man who lives alone and has a perpetually clean kitchen, and 8 times out of 9 I'll show you a man with detestable spiritual qualities.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I can't help detesting my relations. I suppose it comes from the fact that none of us can stand other people having the same faults as ourselves.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alexander Pope</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Alexander%20Pope.jpg" alt="Alexander%20Pope">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“How shall I lose the sin, yet keep the sense, and love the offender, yet detest the offence?”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Desiderius Erasmus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Desiderius%20Erasmus.jpg" alt="Desiderius%20Erasmus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Everybody hates a prodigy, detests an old head on young shoulders.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I do detest everything which is not perfectly mutual.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Erica Jong</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Erica%20Jong.jpg" alt="Erica%20Jong">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men have always detested women's gossip because they suspect the truth: their measurements are being taken and compared.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">detestatio</span>,: cf. F. <span class="wUets">détestation</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>detestāri</i>—<i>de</i>, inten., and <i>testāri</i>, to call to witness, execrate—<i>testis</i>, a witness.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Rose is almost detestable.
+					</div>
+					<div class="uAuthor">
+						"Evan Harrington, Complete" by <span>George Meredith</span>					</div>
+										<div class="usage">
+						The detested title 'Young Italy' hurried him into fits of wrath.
+					</div>
+					<div class="uAuthor">
+						"Vittoria, Complete" by <span>George Meredith</span>					</div>
+										<div class="usage">
+						A word of sharp entreaty would have swung her round to see her situation with his eyes, and detest and shrink from it.
+					</div>
+					<div class="uAuthor">
+						"Beauchamp's Career, Complete" by <span>George Meredith</span>					</div>
+										<div class="usage">
+						For example, I detest and I decline the duel.
+					</div>
+					<div class="uAuthor">
+						"The Tragic Comedians, Complete" by <span>George Meredith</span>					</div>
+										<div class="usage">
+						He is gross fact, a leash, a muzzle, harness, a hood; whatever is detestable to the free limbs and senses.
+					</div>
+					<div class="uAuthor">
+						"Diana of the Crossways, Complete" by <span>George Meredith</span>					</div>
+										<div class="usage">
+						In the first case, we detest the man; in the second, we fly from an outraged scene.
+					</div>
+					<div class="uAuthor">
+						"The Amazing Marriage, Complete" by <span>George Meredith</span>					</div>
+										<div class="usage">
+						This detestable tie of kindred must no longer be recognised.
+					</div>
+					<div class="uAuthor">
+						"Born in Exile" by <span>George Gissing</span>					</div>
+										<div class="usage">
+						Toward Major Willard her feelings were those of disgust and detestation.
+					</div>
+					<div class="uAuthor">
+						"After the Storm" by <span>T. S. Arthur</span>					</div>
+										<div class="usage">
+						He detested the idea of playing a part to a boy.
+					</div>
+					<div class="uAuthor">
+						"In the Wilderness" by <span>Robert Hichens</span>					</div>
+										<div class="usage">
+						That is a detestable ideal, because it is the gospel of tyranny rather than the gospel of equality.
+					</div>
+					<div class="uAuthor">
+						"At Large" by <span>Arthur Christopher Benson</span>					</div>
+										<div class="usage">
+						Philip the Fair and Ferdinand had detested and quarrelled with each other from the beginning.
+					</div>
+					<div class="uAuthor">
+						"The Rise of the Dutch Republic, Volume I.(of III) 1555-66" by <span>John Lothrop Motley</span>					</div>
+										<div class="usage">
+						He disliked Brederode, he detested Granvelle.
+					</div>
+					<div class="uAuthor">
+						"The Rise of the Dutch Republic, Volume II.(of III) 1566-74" by <span>John Lothrop Motley</span>					</div>
+										<div class="usage">
+						Vilest of men, and most detestable of plotters!
+					</div>
+					<div class="uAuthor">
+						"Clarissa, Volume 5 (of 9)" by <span>Samuel Richardson</span>					</div>
+										<div class="usage">
+						I presume there can be little doubt that the Empress regarded her husband's portly cousin with a cordial detestation.
+					</div>
+					<div class="uAuthor">
+						"Modern Leaders: Being a Series of Biographical Sketches" by <span>Justin McCarthy</span>					</div>
+										<div class="usage">
+						This feeling is peculiar to the sex, and is the only cause of coquetry, pardonable in a woman, detestable in a man.
+					</div>
+					<div class="uAuthor">
+						"The Memoirs of Jacques Casanova de Seingalt, Vol. III (of VI), "The Eternal Quest" The First Complete and Unabridged English Translation, Illustrated with Old Engravings" by <span>Jacques Casanova de Seingalt</span>					</div>
+										<div class="usage">
+						So impatient did I feel for the next day to come that I thought the opera detestable, and the night for me was a sleepless one.
+					</div>
+					<div class="uAuthor">
+						"The Memoirs of Jacques Casanova de Seingalt, Vol. IV (of VI), "Adventures In The South" The First Complete and Unabridged English Translation, Illustrated with Old Engravings" by <span>Jacques Casanova de Seingalt</span>					</div>
+										<div class="usage">
+						Courtier detested soldier, and soldier despised courtier!
+					</div>
+					<div class="uAuthor">
+						"Rupert Prince Palatine" by <span>Eva Scott</span>					</div>
+										<div class="usage">
+						But the detestable "weed," as King James had dubbed it, throve apace.
+					</div>
+					<div class="uAuthor">
+						"The Beginners of a Nation" by <span>Edward Eggleston</span>					</div>
+										<div class="usage">
+						He detested the Cobdenites.
+					</div>
+					<div class="uAuthor">
+						"The Life of Mazzini" by <span>Bolton King</span>					</div>
+										<div class="usage">
+						As a rule I detest women almost as much as they detest me.
+					</div>
+					<div class="uAuthor">
+						"The Yellow House" by <span>E. Phillips Oppenheim</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							The wrangling rustics' loud abuse,<br>
+The coarse, unfeeling, witless jest,<br>
+The threat obscene, the oath profuse,<br>
+And all that cultured minds detest.
+							<div class="poet">"Written In The Isle Of Thanet" by <span>Robert Bloomfield</span></div>
+						</div>
+											<div class="poemQuote">
+							Worse than a serpent, pride detest ;<br>
+Who soars too high, shall be deprest :<br>
+Disgrace attends the haughty stride,<br>
+And sudden slips the foot of pride.
+							<div class="poet">"Godly Exhortations To A Child " by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							The youth, detesting peace and quiet,<br>
+Indulged in vice, expense, and riot;<br>
+Of each wild pleasure rashly tasted,<br>
+Till health declined, and substance wasted.
+							<div class="poet">"The Foolish Traveller; Or, A Good Inn Is A Bad Home" by <span>Hannah More</span></div>
+						</div>
+											<div class="poemQuote">
+							Then, as a snake, thy sins detest —<br>
+A snake, that rears its bloated crest,<br>
+And, hid some moss grown brake beneath,<br>
+Wou'd sting thee by surprize to death:
+							<div class="poet">"Advice To Those Who Are Desirous Of Obtaining God's Favour, And Forgiveness Of Their Sins" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							"May I hope for a line that shall be all mine,<br>
+A song by the world unheard?<br>
+From rivals detested, shall the sandwich be wrested,<br>
+If thou wilt but say the word."
+							<div class="poet">"The Song Of The Sandwich" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+											<div class="poemQuote">
+							"But were it cordial, this detested smile,<br>
+Seems it less timely than the grief ye show?<br>
+O Sons of Carthage! grant me to revile<br>
+The sordid source of your indecent woe.
+							<div class="poet">"Elegy XIX. - Written in Spring, 1743" by <span>William Shenstone</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						For the record, I hate, I detest, and I despise not only Trainee Fees but the very concept of a brokerage firm being able to recoup a portion of its cost in preparing trainees to become registered.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/billsinger/2012/04/27/wells-fargo-kod-in-trainee-fee-case/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						As the third of four children, I suffer from a fair bit of middle-child syndrome and tend to detest sibling comparisons.
+					</div>
+					<div class="uAuthor">
+						<a href="http://5280.com/blogs/2012/10/03/beer-review-bristols-belgian-style-ale-tripel" target="_blank" rel="external nofollow">5280.com</a>
+					</div>
+										<div class="usage">
+						How could I not want to read a book that has a smiling black greyhound on the cover even though I detest when people call female dogs " bitches .".
+					</div>
+					<div class="uAuthor">
+						<a href="http://tucsoncitizen.com/tucson-tails/2012/11/15/dog-book-review-dash-bitch-of-the-year/" target="_blank" rel="external nofollow">tucsoncitizen.com</a>
+					</div>
+										<div class="usage">
+						Any hope he just doesn't like the hideous leaf blowers we all detest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://paloaltoonline.com/news/show_story.php?id=27306" target="_blank" rel="external nofollow">paloaltoonline.com</a>
+					</div>
+										<div class="usage">
+						Detestable tantrums no substitute for sledging.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nzherald.co.nz/cricket/news/article.cfm?c_id=29&amp;objectid=10847466" target="_blank" rel="external nofollow">nzherald.co.nz</a>
+					</div>
+										<div class="usage">
+						I detest waiting in lines.
+					</div>
+					<div class="uAuthor">
+						<a href="http://bdtonline.com/columns/x983014569/Cocoon-of-government-culture-spurs-lack-of-common-sense-decisions" target="_blank" rel="external nofollow">bdtonline.com</a>
+					</div>
+										<div class="usage">
+						Guns N' Roses singer Axl Rose is certainly one of the most beloved, but also detested musicians in rock history.
+					</div>
+					<div class="uAuthor">
+						<a href="http://z94.com/axl-rose-on-feud-with-slash-duff-mckagan-im-surviving-this-war-not-the-one-who-created-it/" target="_blank" rel="external nofollow">z94.com</a>
+					</div>
+										<div class="usage">
+						It could have been at a very young age when I detested milk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gcdailyworld.com/blogs/1666/entry/47543/" target="_blank" rel="external nofollow">gcdailyworld.com</a>
+					</div>
+										<div class="usage">
+						I will stipulate that I detest politics, politicians, polls, debates and Sunday morning talk shows devoted to the aforementioned topics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/business/columnists/will-deener/20121028-numbers-show-neither-political-party-can-claim-stock-market-supremacy.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						Later he says he detests the Kochs, Karl Rove, Fox News, etc and says he hates their politics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thealpenanews.com/page/content.detail/id/523351/Reich-s-divisiveness-is-part-of-the-problem.html?nav=5041" target="_blank" rel="external nofollow">thealpenanews.com</a>
+					</div>
+										<div class="usage">
+						Cuba to ease travel restrictions, eliminate widely detested exit visa requirement .
+					</div>
+					<div class="uAuthor">
+						<a href="http://z1071.com/news/abc-news/42404-cuba-scraps-exit-visa-requirement.html" target="_blank" rel="external nofollow">z1071.com</a>
+					</div>
+										<div class="usage">
+						I normally detest the wind, but this year is different.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kyssfm.com/tags/smoke/" target="_blank" rel="external nofollow">kyssfm.com</a>
+					</div>
+										<div class="usage">
+						Fall into that nebulous 'Normal American Woman Size' that legions of fashion stylists detest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abcnews.go.com/topics/lifestyle/style/stylist.htm" target="_blank" rel="external nofollow">abcnews.go.com</a>
+					</div>
+										<div class="usage">
+						I usually detest gory films.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gtweekly.com/index.php/santa-cruz-arts-entertainment-lifestyles/santa-cruz-arts-entertainment-/947-the-living-dead.html" target="_blank" rel="external nofollow">gtweekly.com</a>
+					</div>
+										<div class="usage">
+						Camel toe , oh camel toe , let me count the ways I detest thee.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vibevixen.com/2012/03/camel-toe-911/" target="_blank" rel="external nofollow">vibevixen.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						People cherish this kind of point laws owing to their infrequent existence, but perhaps Nature detests and rejects them, since the probability of creating them is zero. 
+					</div>
+					<div class="uAuthor">
+						From quantum motion to classical motion - seeking the lost reality
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="hate coupled with disgust"><a href="execration.html">execration</a>, <a href="loathing.html">loathing</a>, <a href="odium.html">odium</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="disgust.html">disgust</a>, <a href="hate.html">hate</a>, <a href="hatred.html">hatred</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="abhor.html">abhor</a>, <a href="abhorrent.html">abhorrent</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abhor.html">abhor</a>, <a href="abhorrence.html">abhorrence</a>, <a href="Abhorring.html">Abhorring</a>, <a href="abomination.html">abomination</a>, <a href="attrition.html">attrition</a>, <a href="aversion.html">aversion</a>, <a href="awful.html">awful</a>, <a href="disgust.html">disgust</a>, <a href="execration.html">execration</a>, <a href="hate.html">hate</a>, <a href="hatred.html">hatred</a>, <a href="horror.html">horror</a>, <a href="infamous.html">infamous</a>, <a href="loathing.html">loathing</a>, <a href="nefarious.html">nefarious</a>, <a href="outcry.html">outcry</a>, <a href="publican.html">publican</a>, <a href="reprobate.html">reprobate</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					setestation, eetestation, fetestation, cetestation, xetestation, setestation, dwtestation, dstestation, ddtestation, drtestation, derestation, defestation, degestation, deyestation, detwstation, detsstation, detdstation, detrstation, deteatation, detewtation, detedtation, detextation, deteztation, deteatation, detesration, detesfation, detesgation, detesyation, detestqtion, detestwtion, deteststion, detestztion, detestarion, detestafion, detestagion, detestayion, detestatuon, detestatjon, detestatkon, detestatoon, detestatiin, detestatikn, detestatiln, detestatipn, detestatiob, detestatioh, detestatioj, detestatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

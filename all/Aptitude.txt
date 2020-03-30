@@ -1,0 +1,490 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>aptitude</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">aptitude</span> <span class="exp">inherent ability</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Aptitude</span> <span class="exp">A general fitness or suitableness; adaptation.</span> <span class="wuQuot">"That sociable and helpful aptitude which God implanted between man and woman."</span></li><li><span class="term">Aptitude</span> <span class="exp">A natural or acquired disposition or capacity for a particular purpose, or tendency to a particular action or effect; as, oil has an <span class="wUex">aptitude</span> to burn.</span> <span class="wuQuot">"He seems to have had a peculiar aptitude for the management of irregular troops."</span></li><li><span class="term">Aptitude</span> <span class="exp">Readiness in learning; docility; aptness.</span> <span class="wuQuot">"He was a boy of remarkable aptitude ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">aptitude</span> <span class="exp">The state or quality of being apt or fit for or suited to a purpose, place, or situation; fitness; suitableness.</span> </li><li><span class="tSpeech">n</span> <span class="term">aptitude</span> <span class="exp">A natural tendency or acquired inclination; both capacity and propensity for a certain course: as, oil has an aptitude to burn; men acquire an aptitude to particular vices.</span> </li><li><span class="tSpeech">n</span> <span class="term">aptitude</span> <span class="exp">Readiness in learning; teachableness; quickness to understand and acquire; intelligence; talent.</span> </li><li><span class="tSpeech">n</span> <span class="term">aptitude</span> <span class="exp">Synonyms Faculty, Capacity, etc. See genius.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Aptitude</span> <span class="exp"><span class="itl">apt′i-tūd</span> fitness: tendency: readiness, teachableness, talent (with <span class="itl">for</span>).</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Taylor Coleridge</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Taylor%20Coleridge.jpg" alt="Samuel%20Taylor%20Coleridge">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Aptitude found in the understanding and is often inherited. Genius coming from reason and imagination, rarely.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Wolfgang Von Goethe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Wolfgang%20Von%20Goethe.jpg" alt="Johann%20Wolfgang%20Von%20Goethe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Zig Ziglar</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Zig%20Ziglar.jpg" alt="Zig%20Ziglar">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It's your aptitude, not just your attitude that determines your ultimate altitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Wolfgang Von Goethe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Wolfgang%20Von%20Goethe.jpg" alt="Johann%20Wolfgang%20Von%20Goethe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men are so constituted that every one undertakes what he sees another successful in, whether he has aptitude for it or not.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Success is more attitude than aptitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Malcolm Muggeridge</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Malcolm%20Muggeridge.jpg" alt="Malcolm%20Muggeridge">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The pursuit of happiness, which American citizens are obliged to undertake, tends to involve them in trying to perpetuate the moods, tastes and aptitudes of youth.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">aptitude</span>, LL. <span class="wUets">aptitudo</span>, fr. L. <span class="wUets">aptus</span>,. See <span class="wUer">Apt</span>, and cf. <span class="wUer">Attitude</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Low L. <i>aptitudo</i>—L. <i>apt-us</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						I had no aptitude for that, and munition workers of our sex were not called yet.
+					</div>
+					<div class="uAuthor">
+						"Private Peat" by <span>Harold R. Peat</span>					</div>
+										<div class="usage">
+						Nor are these claims and aptitudes merely imaginary and practically contemptible.
+					</div>
+					<div class="uAuthor">
+						"Some Turns of Thought in Modern Philosophy" by <span>George Santayana</span>					</div>
+										<div class="usage">
+						Nelson's analysis of the conditions, in other respects than the one mentioned, was not unworthy of his great natural aptitudes.
+					</div>
+					<div class="uAuthor">
+						"The Life of Nelson, Vol. I (of 2)" by <span>A. T. (Alfred Thayer) Mahan</span>					</div>
+										<div class="usage">
+						The old man could not sufficiently admire the shrewd business-like aptitude shown by his son in their recent conference.
+					</div>
+					<div class="uAuthor">
+						"The Argosy" by <span>Various</span>					</div>
+										<div class="usage">
+						They are men who have an aptitude for marshaling their fellow men.
+					</div>
+					<div class="uAuthor">
+						"The Young Man and the World" by <span>Albert J. Beveridge</span>					</div>
+										<div class="usage">
+						In one or two appearances it may be a good thing to keep in mind natural aptitude.
+					</div>
+					<div class="uAuthor">
+						"Public Speaking" by <span>Clarence Stratton</span>					</div>
+										<div class="usage">
+						Through it all Marvell remained very much the man of letters, though one with a great natural aptitude for business.
+					</div>
+					<div class="uAuthor">
+						"Andrew Marvell" by <span>Augustine Birrell</span>					</div>
+										<div class="usage">
+						Kamal is teaching her, and says she shows much aptitude in learning, but she does not understand other things.
+					</div>
+					<div class="uAuthor">
+						"The Poison Tree" by <span>Bankim Chandra Chatterjee</span>					</div>
+										<div class="usage">
+						It is necessary, however, to take account of the combining or constructive aptitudes of the mind.
+					</div>
+					<div class="uAuthor">
+						"Practical Essays" by <span>Alexander Bain</span>					</div>
+										<div class="usage">
+						Those who show aptitude and industry are then put tentatively into the General Staff.
+					</div>
+					<div class="uAuthor">
+						"The Navy as a Fighting Machine" by <span>Bradley A. Fiske</span>					</div>
+										<div class="usage">
+						What is meant by an "aptitude for vicariousness"?
+					</div>
+					<div class="uAuthor">
+						"The Vitalized School" by <span>Francis B. Pearson</span>					</div>
+										<div class="usage">
+						She was fascinated by this aptitude, but presently she was still more fascinated by the subtle use that he was making of it.
+					</div>
+					<div class="uAuthor">
+						"Bella Donna" by <span>Robert Hichens</span>					</div>
+										<div class="usage">
+						Jim Silver's head was sound if slow; but he had no aptitude for figures.
+					</div>
+					<div class="uAuthor">
+						"Boy Woodburn" by <span>Alfred Ollivant</span>					</div>
+										<div class="usage">
+						You have both of you the same aptitude for climbing.
+					</div>
+					<div class="uAuthor">
+						"Phineas Finn" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						She is a good all-round player herself, and has a particular aptitude for organization, which should prove invaluable.
+					</div>
+					<div class="uAuthor">
+						"The Luckiest Girl in the School" by <span>Angela Brazil</span>					</div>
+										<div class="usage">
+						Women of the shopkeeper class often display great aptitude for business, and render invaluable assistance to their husbands.
+					</div>
+					<div class="uAuthor">
+						"China and the Chinese" by <span>Herbert Allen Giles</span>					</div>
+										<div class="usage">
+						For, of all the warring towns, counties, principalities, and the rest, Prussia had in particular shown military aptitude.
+					</div>
+					<div class="uAuthor">
+						"A General Sketch of the European War" by <span>Hilaire Belloc</span>					</div>
+										<div class="usage">
+						By and large, it will be read first in a natural aptitude for following the ball.
+					</div>
+					<div class="uAuthor">
+						"Football Days" by <span>William H. Edwards</span>					</div>
+										<div class="usage">
+						There is an old tradition which illustrates Donatello's aptitude for grouping.
+					</div>
+					<div class="uAuthor">
+						"Donatello" by <span>David Lindsay, Earl of Crawford</span>					</div>
+										<div class="usage">
+						Lennox had never seen a man with more natural aptitude for the sport.
+					</div>
+					<div class="uAuthor">
+						"Steve Yeager" by <span>William MacLeod Raine</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Wealth I had no talent for;<br>
+Lacked all aptitude for war;<br>
+Death at most might set me free;<br>
+Hearts were always trumps for me.<br>
+
+							<div class="poet">"Card Game" by <span>A D Hope</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Can An Hour-Long Aptitude Test Predict Startup Home Runs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/jjcolao/2012/11/21/can-an-hour-long-aptitude-test-predict-startup-home-runs-adeo-ressi-thinks-so/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						An aptitude for making desirable discoveries by accident.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.timesunion.com/ginapeca/is-it-serendipity-or-synchronicity/970/" target="_blank" rel="external nofollow">blog.timesunion.com</a>
+					</div>
+										<div class="usage">
+						It's a well-known and well-observed fact that my mechanical aptitude obviously drowned in the family gene pool somewhere along the line.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.clippertoday.com/view/full_story/6467076/article-Laughing-Matters--Trade-thingamajig-for-Jones%E2%80%99es%E2%80%99s?instance=home_news_secondary_story" target="_blank" rel="external nofollow">clippertoday.com</a>
+					</div>
+										<div class="usage">
+						Mary Balkema has the skills, knowledge, aptitude, and work ethic to be re-elected as the best candidate for Kalamazoo County treasurer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/opinion/kalamazoo/index.ssf/2012/10/balkema_vlietstra.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						Teen marvels ditch angst for musical aptitude.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sacurrent.com/music/verisimilitude-teen-marvels-ditch-angst-for-musical-aptitude-1.1347270" target="_blank" rel="external nofollow">sacurrent.com</a>
+					</div>
+										<div class="usage">
+						0 H arvard University President Lawrence H Summers recently issued his third apology for remarks suggesting that women might not possess the same aptitude in math and science as men.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nationalreview.com/articles/213518/y-chromosome-yuks/warren-bell" target="_blank" rel="external nofollow">nationalreview.com</a>
+					</div>
+										<div class="usage">
+						In addition to being a writer for People magazine, Fred A Bernstein is involved with an organization called The Princeton Review, which tutors students for the Scholastic Aptitude Test.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1988/07/13/business/the-media-business-advertising-an-ad-vehicle-to-reach-affluent-students.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Irish freshman has aptitude and attitude .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/sports/college/ct-spt-1213-notre-dame-football--20121213,0,6559293.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						A Purdue structural engineering graduate with an aptitude for the analytical, Ryan Newman will be putting his detail-oriented mind to use this season in the Sprint Cup Series.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/sports/motor/nascar/story/2012-02-15/drivers-juggle-sponsors-while-seeking-continuity/53109122/1" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Irish freshman has aptitude and attitude.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/sports/college/ct-spt-1213-notre-dame-football--20121213,0,6559293.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						Americans score poorly on political aptitude tests, allowing candidates to redraw themselves.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.roanoke.com/editorials/wb/307506" target="_blank" rel="external nofollow">roanoke.com</a>
+					</div>
+										<div class="usage">
+						From an early age he showed mechanical aptitude and scientific interest, and his true ambition was to become a great artist.
+					</div>
+					<div class="uAuthor">
+						<a href="http://thepilot.com/weblogs/teachable-moments/2012/nov/14/robert-fulton-was-artist-inventor-and-entrepreneur/" target="_blank" rel="external nofollow">thepilot.com</a>
+					</div>
+										<div class="usage">
+						 Pascal 's astonishing aptitudes surfaced early.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ncregister.com/site/article/portrait_of_pascal_humble_genius/" target="_blank" rel="external nofollow">ncregister.com</a>
+					</div>
+										<div class="usage">
+						Resurgence Is Driven by SPR's Aptitude for Fragment-Based Lead Discovery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.genengnews.com/gen-articles/revitalizing-surface-plasmon-resonance/2808/" target="_blank" rel="external nofollow">genengnews.com</a>
+					</div>
+										<div class="usage">
+						Hawaii Driving Aptitude and General Fund Tax Revenue .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mauitime.com/Articles-i-2011-06-02-76069.113117-Hawaii-Driving-Aptitude-and-General-Fund-Tax-Revenue.html" target="_blank" rel="external nofollow">mauitime.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Their aptitude to alter critical behavior depends on the degree of spatial correlations present, which is quantiﬁed by a wandering exponent . 
+					</div>
+					<div class="uAuthor">
+						The Harris-Luck criterion for random lattices
+					</div>
+										<div class="usage">
+						Given the similarities between quantum chaotic operators and random matrices, and the aptitude of random matrices for producing entangled states, several authors have proposed entanglement production as an indicator of quantum chaos [10, 11, 12]. 
+					</div>
+					<div class="uAuthor">
+						Matrix Element Randomness, Entanglement, and Quantum Chaos
+					</div>
+										<div class="usage">
+						Innate social aptitudes of man: an approach from evolutionary genetics, in R. 
+					</div>
+					<div class="uAuthor">
+						Plasticity facilitates sustainable growth in the commons
+					</div>
+										<div class="usage">
+						There is however a trade-off between the test’s aptitude to be discriminative and too strong constraints that jeopardize the test’s validity. 
+					</div>
+					<div class="uAuthor">
+						Bootstrapping under constraint for the assessment of group behavior in human contact networks
+					</div>
+										<div class="usage">
+						This is the rule employed by the Scholastic Aptitude Test (SAT) since 1953, as well as by the GRE subject exams (Budescu &amp; Bar-Hillel, 1993). 
+					</div>
+					<div class="uAuthor">
+						Test item response time and the response likelihood
+					</div>
+										<div class="usage">
+						Examples of large-scale applications include the Graduate Record Examination (GRE), the Graduate Management Admission Test (GMAT), the National Council of State Boards of Nursing and the Armed Services Vocational Aptitude Battery (ASVAB). 
+					</div>
+					<div class="uAuthor">
+						Nonlinear sequential designs for logistic item response theory models with applications to computerized adaptive tests
+					</div>
+										<div class="usage">
+						Why students with an apparent aptitude for computer science don't choose to major in computer science. 
+					</div>
+					<div class="uAuthor">
+						Exploring Peer Review in the Computer Science Classroom
+					</div>
+										<div class="usage">
+						We propose a new probabilistic graphical model that jointly models the diﬃculties of questions, the abilities of participants and the correct answers to questions in aptitude testing and crowdsourcing settings. 
+					</div>
+					<div class="uAuthor">
+						How To Grade a Test Without Knowing the Answers --- A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing
+					</div>
+										<div class="usage">
+						Psychologists have studied human intelligence, and designed IQ tests for evaluating the aptitude of individuals. 
+					</div>
+					<div class="uAuthor">
+						How To Grade a Test Without Knowing the Answers --- A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing
+					</div>
+										<div class="usage">
+						IRT is based on the idea that the probability of a participant providing the correct response to a question is a function of both a parameter of the question and a parameter of the item (for example, the question’s diﬃculty and the person’s aptitude). 
+					</div>
+					<div class="uAuthor">
+						How To Grade a Test Without Knowing the Answers --- A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing
+					</div>
+										<div class="usage">
+						When applying aptitude tests, the parameter of the person is latent (cannot be directly observed), and only its manifestation, in the form of the participant’s responses, can be directly observed. 
+					</div>
+					<div class="uAuthor">
+						How To Grade a Test Without Knowing the Answers --- A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing
+					</div>
+										<div class="usage">
+						This is the traditional test scenario as used in aptitude tests including school tests, GMAT, IQ tests, etc. 
+					</div>
+					<div class="uAuthor">
+						How To Grade a Test Without Knowing the Answers --- A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing
+					</div>
+										<div class="usage">
+						One of the important insights that drove the second superstring revolution is the concept of dualities, and within string phenomenology the implications were that the Heterotic string is not unique in its phenomenological aptitude. 
+					</div>
+					<div class="uAuthor">
+						Models of Particle Physics from Type IIB String Theory and F-theory: A Review
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="inaptitude.html">inaptitude</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ability.html">ability</a>, <a href="power.html">power</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="capability.html">capability</a>, <a href="capableness.html">capableness</a>, <a href="inherent%20aptitude.html">inherent aptitude</a>, <a href="instinct.html">instinct</a>, <a href="natural%20ability.html">natural ability</a>, <a href="potentiality.html">potentiality</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="aptitudinal.html">aptitudinal</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="ability.html">ability</a>, <a href="acquirement.html">acquirement</a>, <a href="adept.html">adept</a>, <a href="aptitudinal.html">aptitudinal</a>, <a href="art.html">art</a>, <a href="bungling.html">bungling</a>, <a href="calling.html">calling</a>, <a href="capability.html">capability</a>, <a href="capableness.html">capableness</a>, <a href="capacity.html">capacity</a>, <a href="clumsy.html">clumsy</a>, <a href="dexterity.html">dexterity</a>, <a href="Didacticity.html">Didacticity</a>, <a href="disposition.html">disposition</a>, <a href="esprit.html">esprit</a>, <a href="expert.html">expert</a>, <a href="faculty.html">faculty</a>, <a href="fancier.html">fancier</a>, <a href="fumbling.html">fumbling</a>, <a href="genius.html">genius</a>, <a href="gift.html">gift</a>, <a href="good.html">good</a>, <a href="graphology.html">graphology</a>, <a href="Hability.html">Hability</a>, <a href="habit.html">habit</a>, <a href="idiot%20savant.html">idiot savant</a>, <a href="inaptitude.html">inaptitude</a>, <a href="incompetent.html">incompetent</a>, <a href="ingenious.html">ingenious</a>, <a href="instinct.html">instinct</a>, <a href="intelligent.html">intelligent</a>, <a href="kindergarten.html">kindergarten</a>, <a href="kindly.html">kindly</a>, <a href="kingship.html">kingship</a>, <a href="knack.html">knack</a>, <a href="liable.html">liable</a>, <a href="many-sided.html">many-sided</a>, <a href="mental%20test.html">mental test</a>, <a href="mental%20testing.html">mental testing</a>, <a href="numeric.html">numeric</a>, <a href="numerical.html">numerical</a>, <a href="potentiality.html">potentiality</a>, <a href="practiced.html">practiced</a>, <a href="precocious.html">precocious</a>, <a href="proclivity.html">proclivity</a>, <a href="proficient.html">proficient</a>, <a href="psychometric%20test.html">psychometric test</a>, <a href="readiness.html">readiness</a>, <a href="skilful.html">skilful</a>, <a href="skill.html">skill</a>, <a href="skillful.html">skillful</a>, <a href="talent.html">talent</a>, <a href="test.html">test</a>, <a href="unit.html">unit</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qptitude, wptitude, sptitude, zptitude, aotitude, altitude, apritude, apfitude, apgitude, apyitude, aptutude, aptjtude, aptktude, aptotude, aptirude, aptifude, aptigude, aptiyude, aptityde, aptithde, aptitjde, aptitide, aptituse, aptituee, aptitufe, aptituce, aptituxe, aptituse, aptitudw, aptituds, aptitudd, aptitudr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,579 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>calm</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">adj</span> <span class="term">calm</span> <span class="exp">(of weather) free from storm or wind</span> <span class="quot">"calm seas"</span></li><li><span class="tSpeech">adj</span> <span class="term">calm</span> <span class="exp">not agitated; without losing self-possession</span> <span class="quot">"spoke in a calm voice","remained calm throughout the uproar","he remained serene in the midst of turbulence","a serene expression on her face","she became more tranquil","tranquil life in the country"</span></li><li><span class="tSpeech">v</span> <span class="term">calm</span> <span class="exp">cause to be calm or quiet as by administering a sedative to</span> <span class="quot">"The patient must be sedated before the operation"</span></li><li><span class="tSpeech">v</span> <span class="term">calm</span> <span class="exp">make steady</span> <span class="quot">"steady yourself"</span></li><li><span class="tSpeech">v</span> <span class="term">calm</span> <span class="exp">become quiet or calm, especially after a state of agitation</span> <span class="quot">"After the fight both men need to cool off.","It took a while after the baby was born for things to settle down again."</span></li><li><span class="tSpeech">v</span> <span class="term">calm</span> <span class="exp">make calm or still</span> <span class="quot">"quiet the dragons of worry and fear"</span></li><li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">steadiness of mind under stress</span> <span class="quot">"he accepted their problems with composure and she with equanimity"</span></li><li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">wind moving at less than 1 knot; 0 on the Beaufort scale</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The more a person struggles to get out of quicksand the faster they will sink. Staying still, and being calm will actually make the body float in the quicksand because the body is less dense than the quicksand is									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Calm</span> <span class="exp"><span class="itl">käm</span> Freedom from motion, agitation, or disturbance; a cessation or absence of that which causes motion or disturbance, as of winds or waves; tranquility; stillness; quiet; serenity.</span> <span class="wuQuot">"The wind ceased, and there was a great calm ."</span><span class="wuQuot">"A calm before a storm is commonly a peace of a man's own making."</span></li><li><span class="term">Calm</span> <span class="exp">Not stormy; without motion, as of winds or waves; still; quiet; serene; undisturbed.</span> <span class="wuQuot">"Calm was the day."</span><span class="wuQuot">"Now all is calm , and fresh, and still."</span></li><li><span class="term">Calm</span> <span class="exp">To deliver from agitation or excitement; to still or soothe, as the mind or passions.</span> <span class="wuQuot">"Passions which seem somewhat calmed ."</span></li><li><span class="term">Calm</span> <span class="exp">To make calm; to render still or quiet, as elements; as, <span class="wUex">to calm</span> the winds.</span> <span class="wuQuot">"To calm the tempest raised by Eolus."</span></li><li><span class="term">Calm</span> <span class="exp">Undisturbed by passion or emotion; not agitated or excited; tranquil; quiet in act or speech.</span> <span class="wuQuot">"Calm and sinless peace."</span><span class="wuQuot">"With calm attention."</span><span class="wuQuot">"Such calm old age as conscience pure<br>
+And self-commanding hearts ensure."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The colour blue has a calming effect. It causes the brain to release calming hormones
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">The condition of being without motion, agitation, or disturbance; stillness: properly of the air, and hence of the sea and of the weather in general.</span> </li><li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">Freedom from mental agitation or passion; tranquillity; quiet; serenity.</span> </li><li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">The scum of liquor.</span> </li><li><span class="term">calm</span> <span class="exp">Without motion; still; not stormy; undisturbed; not agitated; serene.</span> </li><li><span class="term">calm</span> <span class="exp">Free from mental agitation; undisturbed by passion; not agitated or excited; quiet; serene; tranquil, as the mind, temper, or attention: as, “calm words,”</span> </li><li><span class="term">calm</span> <span class="exp">Synonyms Calm, Placid, Tranquil, Serene, Quiet, Cool, Composed, Collected, smooth, peaceful, unruffled, imperturbable. All the italicized words, when applied to the mind, still suggest the physical phenomena which they primarily denote. Calm implies that the mind remains unagitated, even by care and anxiety. There is a tendency to use the word to express the most complete mastery of the emotions; but it is also used for the mere outward manner: as, in spite of his anger, he remained calm. Placid is by derivation associated with the notion of pleasure; it generally applies to that which belongs to the nature, but is also especially used of the face: as, a placid smile. Tranquil implies not so much a mastery of self amid disturbing circumstances as freedom from that which agitates, a settled calm. Serene, by its association with the aspects of the sky, implies an exalted calm, a tranquillity that rises above clouds or storms. Quiet, when applied to the disposition, implies that the person is naturally silent and undemonstrative; externally it implies that one is free from annoyances: as, to leave him in quiet. Like tranquil, but unlike the rest, it is not suggestive of a triumph of self-control over natural agitation of feelings or confusion of mind. Cool is the opposite of heated; it indicates that state in which the heat of feeling is perfectly kept down, so that the intellectual faculties are not hindered from their best operation. Composed is applicable to the state of both thoughts and feelings, while collected, gathered together, can be used only with reference to the thoughts. Composed differs from collected also in expressing, like calm, merely a frame of mind; while collected, like cool, expresses a readiness for action with the full and unimpeded force of the mind. See apathy.</span> </li><li><span class="term">calm</span> <span class="exp">To still; quiet, as the wind or elements.</span> </li><li><span class="term">calm</span> <span class="exp">To still, appease, allay, or pacify, as the mind or passions.</span> </li><li><span class="term">calm</span> <span class="exp">To becalm.</span> </li><li><span class="term">calm</span> <span class="exp">To become calm or quiet: as, the tempest now began to calm.</span> </li><li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">A cog of a wheel.</span> </li><li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">plural A mold; a frame, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">plural The small cords through which the warp is passed in a loom.</span> </li><li><span class="tSpeech">n</span> <span class="term">calm</span> <span class="exp">A dialectal form of qualm.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Methylphenidate (Ritalin) is a medication prescribed for individuals (usually children) who have an abnormally high level of activity or attention-deficit hyperactivity disorder (ADHD). According to the National Institute of Mental Health, about 3 to 5 percent of the general population has the disorder, which is characterized by agitated behavior and an inability to focus on tasks. Methylphenidate also is occasionally prescribed for treating narcolepsy. Methylphenidate is a central nervous system (CNS) stimulant. It has effects similar to, but more potent than, caffeine and less potent than amphetamines. It has a notably calming effect on hyperactive children and a "focusing" effect on those with ADHD.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">adj</span> <span class="term">Calm</span> <span class="exp"><span class="itl">käm</span> still or quiet: serene, tranquil</span> </li><li><span class="tSpeech">n</span> <span class="term">Calm</span> <span class="exp">absence of wind—also in <span class="itl">pl.</span>: repose: serenity of feelings or actions</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Calm</span> <span class="exp">to make calm: to quiet</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Plato</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Plato.jpg" alt="Plato">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Old age has a great sense of calm and freedom. When the passions have relaxed their hold and have escaped, not from one master, but from many.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Buddha</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Buddha.jpg" alt="Buddha">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Temperance is a tree which as for its root very little contentment, and for its fruit calm and peace.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dwight Gooden</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Dwight Gooden">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I don't feel any pressure. I just try to stay calm, follow my game plan and try not to overthrown.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There's naught, no doubt, so much the spirit calms as rum and true religion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph H. Blum</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Ralph H. Blum">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is a calmness to a life lived in Gratitude, a quiet joy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Pierre Corneille</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Pierre%20Corneille.jpg" alt="Pierre%20Corneille">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One often calms one's grief by recounting it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Calm before the storm</span> - A calm time immediately before period of violent activity or argument is the calm before the storm.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">calme</span>, F. <span class="wUets">calme</span>, fr. It. or Sp. <span class="wUets">calma</span>,cf. Pg. <span class="wUets">calma</span>, heat), prob. fr. LL. <span class="wUets">cauma</span>, heat, fr. Gr. <span class="wUgrk">kay^ma</span> burning heat, fr. <span class="wUgrk">kai`ein</span> to burn; either because during a great heat there is generally also a calm, or because the hot time of the day obliges us seek for shade and quiet; cf. <span class="wUer">Caustic</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						One fine calm morning the marines had been called out to drill.
+					</div>
+					<div class="uAuthor">
+						"The Three Midshipmen" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						The dreaming city seemed to be still brooding in the autumn calm over the long succession of her sons.
+					</div>
+					<div class="uAuthor">
+						"Robert Elsmere" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						There, there, be calm, my darling.
+					</div>
+					<div class="uAuthor">
+						"Witness to the Deed" by <span>George Manville Fenn</span>					</div>
+										<div class="usage">
+						Calm flowed upon him.
+					</div>
+					<div class="uAuthor">
+						"Tongues of Conscience" by <span>Robert Smythe Hichens</span>					</div>
+										<div class="usage">
+						Implies that from the weather being calm, and not a breath of wind blowing, the sails hang loose against the mast.
+					</div>
+					<div class="uAuthor">
+						"The Sailor's Word-Book" by <span>William Henry Smyth</span>					</div>
+										<div class="usage">
+						For an instant the strong calm which he had hitherto shown seemed to desert him.
+					</div>
+					<div class="uAuthor">
+						"A Son of Hagar" by <span>Sir Hall Caine</span>					</div>
+										<div class="usage">
+						Sitting calm he undid it deliberately.
+					</div>
+					<div class="uAuthor">
+						"The Huntress" by <span>Hulbert Footner</span>					</div>
+										<div class="usage">
+						Gradually Sor Tommaso became more calm.
+					</div>
+					<div class="uAuthor">
+						"Casa Braccio, Volumes 1 and 2 (of 2)" by <span>F. Marion Crawford</span>					</div>
+										<div class="usage">
+						Not things like these; she was calm, very calm.
+					</div>
+					<div class="uAuthor">
+						"Madeline Payne, the Detective's Daughter" by <span>Lawrence L. Lynch</span>					</div>
+										<div class="usage">
+						I tried to continue, but something prevented me, and I became suddenly calm again.
+					</div>
+					<div class="uAuthor">
+						"The Blue Germ" by <span>Martin Swayne</span>					</div>
+										<div class="usage">
+						Finally he became calm, and the train shortly after arrived at Marseilles.
+					</div>
+					<div class="uAuthor">
+						"The Dodge Club" by <span>James De Mille</span>					</div>
+										<div class="usage">
+						Parsifal stands in their midst, pleased and watchful, fleetingly again like Siegfried, with his cheerful calm and poise.
+					</div>
+					<div class="uAuthor">
+						"The Wagnerian Romances" by <span>Gertrude Hall</span>					</div>
+										<div class="usage">
+						I was very calm I remember, but it was an unnatural calm.
+					</div>
+					<div class="uAuthor">
+						"The Birthright" by <span>Joseph Hocking</span>					</div>
+										<div class="usage">
+						She rose to her feet paler than ever, but quite calm.
+					</div>
+					<div class="uAuthor">
+						"The Cryptogram" by <span>James De Mille</span>					</div>
+										<div class="usage">
+						But in spite of all these elements of discord and noise, the burgomaster's house was as calm as a desert.
+					</div>
+					<div class="uAuthor">
+						"A Winter Amid the Ice" by <span>Jules Verne</span>					</div>
+										<div class="usage">
+						His eyes were calm and uninterrupted.
+					</div>
+					<div class="uAuthor">
+						"The Rainbow" by <span>D. H. (David Herbert) Lawrence</span>					</div>
+										<div class="usage">
+						To Redbird she seemed calm and unruffled, even though she had hesitated about standing up.
+					</div>
+					<div class="uAuthor">
+						"Shaman" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						The snow had changed from white to an ethereal blue and the turmoil of the river hardly disturbed the calm.
+					</div>
+					<div class="uAuthor">
+						"Partners of the Out-Trail" by <span>Harold Bindloss</span>					</div>
+										<div class="usage">
+						Yet there was something gripping her, something compelling her to a calmness she was powerless to resist.
+					</div>
+					<div class="uAuthor">
+						"The Golden Woman" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						Although both of his sons were in our army, he said this with great calmness.
+					</div>
+					<div class="uAuthor">
+						"Waldfried" by <span>Berthold Auerbach</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Soon she will disappear<br>
+into the calm<br>
+vegetable<br>
+morass
+							<div class="poet">"Wilderness" by <span>James Douglas Morrison</span></div>
+						</div>
+											<div class="poemQuote">
+							Calm in his cradle<br>
+The living lies.<br>
+May love and mercy<br>
+Unclose his eyes!
+							<div class="poet">"Ecce Puer" by <span>James Joyce</span></div>
+						</div>
+											<div class="poemQuote">
+							Calm thy current flowing<br>
+Ripples on,<br>
+Pang nor memory showing<br>
+For what's gone.
+							<div class="poet">"Autumn" by <span>Manmohan Ghose</span></div>
+						</div>
+											<div class="poemQuote">
+							The Trade exultant,<br>
+The Doldrum calm,<br>
+The long surf creaming<br>
+On shores of palm:
+							<div class="poet">"Portrait Of A Lady-2" by <span>Cicely Fox Smith</span></div>
+						</div>
+											<div class="poemQuote">
+							In the dim counties<br>
+we take the long calm<br>
+Lilting no haziness,<br>
+sequel or psalm.
+							<div class="poet">"In the Dim Counties" by <span>John Shaw Neilson</span></div>
+						</div>
+											<div class="poemQuote">
+							In the valley of my life<br>
+Sings a "Singing-Bird",<br>
+And its voice thro' calm and strife<br>
+Is sweetly heard.
+							<div class="poet">"Singing-Bird" by <span>Abram Joseph Ryan</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Davey Johnson is calm under fire (alarm).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/dc-sports-bog/post/davey-johnson-is-calm-under-fire-alarm/2012/04/18/gIQAbrikQT_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Can we all just calm down a little.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2009/03/21/business/21nocera.html?hp" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Public input sought for flood-control project Wednesday hearing in East Palo Alto to focus on plans to calm San Francisquito Creek.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.paloaltoonline.com/news/show_story.php?id=26469" target="_blank" rel="external nofollow">paloaltoonline.com</a>
+					</div>
+										<div class="usage">
+						 Forgetful , witness to calming waterfall.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marshalltribune.com/story/1586768.html" target="_blank" rel="external nofollow">marshalltribune.com</a>
+					</div>
+										<div class="usage">
+						Corey Carter could hear snippets of music in his head — a calm and subtle melody that hadn't found its shape.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baystatebanner.com/natl19-2009-07-09" target="_blank" rel="external nofollow">baystatebanner.com</a>
+					</div>
+										<div class="usage">
+						Calm down, True Blood fans.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usmagazine.com/celebritynews/news/rep-ryan-kwanten-full-frontal-nude-photo-is-fake-201118" target="_blank" rel="external nofollow">usmagazine.com</a>
+					</div>
+										<div class="usage">
+						Searching for Calm in Bond Markets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/07/01/your-money/bond-market-volatility-and-how-to-fight-it-fundamentally.html?ref=treasurysecurities" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						When she threw a tantrum as her family boarded a recent JetBlue flight, her parents did their best to calm her down.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www2.turnto10.com/news/2012/mar/07/airline-grounds-family-fussy-toddler-ar-957082/" target="_blank" rel="external nofollow">turnto10.com</a>
+					</div>
+										<div class="usage">
+						They are just learning to be sociable and are quite calm for their age.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kdrv.com/pet-of-the-week-kittens-galen-and-garret/" target="_blank" rel="external nofollow">kdrv.com</a>
+					</div>
+										<div class="usage">
+						A daughter relives her stormy relationship with her mother and the way she finally found the calm within it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/relationships/When-You-Dont-Get-Along-With-Mom-Mother-Issues" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						We are familiar with the story of Jesus calming the storm.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appeal-democrat.com/articles/stress-117310-storm-calm.html" target="_blank" rel="external nofollow">appeal-democrat.com</a>
+					</div>
+										<div class="usage">
+						But this Sunday these two come together and we have two different storms, but both need calming.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appeal-democrat.com/articles/stress-117310-storm-calm.html" target="_blank" rel="external nofollow">appeal-democrat.com</a>
+					</div>
+										<div class="usage">
+						But he calmed down and matured into a gregarious family man with a quirky sense of humor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2001/12/02/national/portraits/POG-02CAHILL.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Beautiful weather and calm water on the Grasse River made for a fun weekend of canoe and kayak racing at the 21st Madrid Canoe Regatta June 9 and 10 at the Madrid Community Park.
+					</div>
+					<div class="uAuthor">
+						<a href="http://northcountrynow.com/news/good-weather-helped-make-madrid-regatta-success-winers-announced-059666" target="_blank" rel="external nofollow">northcountrynow.com</a>
+					</div>
+										<div class="usage">
+						'The Grace of God and the Mailed Fist': A Calm Sunday Abruptly Shattered.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1998/12/06/weekinreview/word-for-word-pearl-harbor-diary-grace-god-mailed-fist-calm-sunday-abruptly.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						As in the experimental data, the ﬂuctuation of the power in a given band shows marked ’bursts’ after periods of calm. 
+					</div>
+					<div class="uAuthor">
+						On random graphs and the statistical mechanics of granular matter
+					</div>
+										<div class="usage">
+						During this period the wind was calm (&lt; 5 m/s) and temperature changes of 15 C were encountered. A later 5 day series in mid June gave RMS errors from 22-26 µm with temperature variation up to 20 C, wind speeds up to 10 m/s and periods of full sunshine. 
+					</div>
+					<div class="uAuthor">
+						Evaluation of the ALMA Prototype Antennas
+					</div>
+										<div class="usage">
+						Temperatures ranged from +2 to −10 C, while the wind was mostly calm with some periods of speeds up to 10 m/s. 
+					</div>
+					<div class="uAuthor">
+						Evaluation of the ALMA Prototype Antennas
+					</div>
+										<div class="usage">
+						Gorse (normalised) or CALM Spinifex (normalised)) in which the FMC plays a minor role in determining the ROS, strongly exponential (e.g. 
+					</div>
+					<div class="uAuthor">
+						A review of wildland fire spread modelling, 1990-present 2: Empirical and quasi-empirical models
+					</div>
+										<div class="usage">
+						CALM-Spinifex), appears to be the most robust in terms of range of FMC values and experimentation. 
+					</div>
+					<div class="uAuthor">
+						A review of wildland fire spread modelling, 1990-present 2: Empirical and quasi-empirical models
+					</div>
+										<div class="usage">
+						It is interesting to note the similarity between the CALM Mallee and the CSIRO Grass models. 
+					</div>
+					<div class="uAuthor">
+						A review of wildland fire spread modelling, 1990-present 2: Empirical and quasi-empirical models
+					</div>
+										<div class="usage">
+						It is known that there are extended periods of exceptional seeing at Dome C that correspond either to calm conditions in the free atmosphere or a reduction of the turbulent boundary layer height to below the height of the telescope (E. 
+					</div>
+					<div class="uAuthor">
+						The Science Case for PILOT I: Summary and Overview
+					</div>
+										<div class="usage">
+						These sties are characterized by a large fraction of clear sky (in excess of 2000 night hours per year), good seeing, and calm conditions in the upper atmosphere. 
+					</div>
+					<div class="uAuthor">
+						Peter Scheglov --- pioneer of site testing in the Central Asia
+					</div>
+										<div class="usage">
+						Calm a Steel Bow” or “Two Copper Arrow Algorithms”. D-paper bricks must cite at least one HLSIor one D-paper brick. 
+					</div>
+					<div class="uAuthor">
+						PaperBricks: An Alternative to Complete-Story Peer Reviewing
+					</div>
+										<div class="usage">
+						When the black hole is non-rotating, the spectra are ‘simple’ and ‘calm’ compared to the violent and exciting radiation from a highly rotating black hole with many angular modes with several (l, m). 
+					</div>
+					<div class="uAuthor">
+						Black holes and the LHC: A review
+					</div>
+										<div class="usage">
+						Romero gets a hand on it but can only push it into the path of Perez who calmly strokes the ball into the net. 
+					</div>
+					<div class="uAuthor">
+						Towards Real-Time Summarization of Scheduled Events from Twitter Streams
+					</div>
+										<div class="usage">
+						His unfaltering patience and calm resolve balanced my personality, which was the opposite of patient in those days. 
+					</div>
+					<div class="uAuthor">
+						The Functional Equation and Beyond Endoscopy
+					</div>
+										<div class="usage">
+						Then the ﬂux decreased at both frequencies to ∼ 0.4 mJy by the 87th day. (The ﬂux in the 1.43 GHz band also approached the same value.) Thus, in spite of sharp ﬂux variations in the beginning of observations, about one month after the burst the radio source considerably calms. 
+					</div>
+					<div class="uAuthor">
+						BVRcIc photometry of GRB970508 optical remnant: May-August, 1997
+					</div>
+										<div class="usage">
+						His calm manner has brought a broader perspective to problems that loomed large in my thinking. I am conﬁdent of a bright future for this experiment in the capable hands of Dave, Stephen, and Lorenz. 
+					</div>
+					<div class="uAuthor">
+						Bose-Einstein Condensation of Atomic Hydrogen
+					</div>
+										<div class="usage">
+						It is because understanding, reading the book of nature, we calm our mind. 
+					</div>
+					<div class="uAuthor">
+						Dream of a Christmas lecture
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="not agitated; without losing self-possession"><a href="unagitated.html">unagitated</a>, <a href="serene.html">serene</a>, <a href="tranquil.html">tranquil</a>, </div><div class="synGroup" title="cause to be calm or quiet as by administering a sedative to"><a href="tranquilize.html">tranquilize</a>, <a href="tranquillize.html">tranquillize</a>, <a href="tranquillise.html">tranquillise</a>, </div><div class="synGroup" title="make steady"><a href="becalm.html">becalm</a>, </div><div class="synGroup" title="become quiet or calm, especially after a state of agitation"><a href="calm%20down.html">calm down</a>, <a href="cool%20off.html">cool off</a>, <a href="chill%20out.html">chill out</a>, <a href="simmer%20down.html">simmer down</a>, <a href="settle%20down.html">settle down</a>, <a href="cool%20it.html">cool it</a>, </div><div class="synGroup" title="make calm or still"><a href="calm%20down.html">calm down</a>, <a href="quiet.html">quiet</a>, <a href="tranquilize.html">tranquilize</a>, <a href="tranquillize.html">tranquillize</a>, <a href="tranquillise.html">tranquillise</a>, <a href="quieten.html">quieten</a>, <a href="lull.html">lull</a>, <a href="still.html">still</a>, </div><div class="synGroup" title="steadiness of mind under stress"><a href="calmness.html">calmness</a>, <a href="equanimity.html">equanimity</a>, </div><div class="synGroup" title="wind moving at less than 1 knot; 0 on the Beaufort scale"><a href="calm%20air.html">calm air</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="agitate.html">agitate</a>, <a href="discomposure.html">discomposure</a>, <a href="stimulate.html">stimulate</a>, <a href="stormy.html">stormy</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="affect.html">affect</a>, <a href="air%20current.html">air current</a>, <a href="change%20state.html">change state</a>, <a href="comfort.html">comfort</a>, <a href="console.html">console</a>, <a href="current%20of%20air.html">current of air</a>, <a href="disposition.html">disposition</a>, <a href="solace.html">solace</a>, <a href="soothe.html">soothe</a>, <a href="stabilise.html">stabilise</a>, <a href="stabilize.html">stabilize</a>, <a href="temperament.html">temperament</a>, <a href="turn.html">turn</a>, <a href="wind.html">wind</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="aplomb.html">aplomb</a>, <a href="appease.html">appease</a>, <a href="assuage.html">assuage</a>, <a href="assure.html">assure</a>, <a href="assuredness.html">assuredness</a>, <a href="compose.html">compose</a>, <a href="conciliate.html">conciliate</a>, <a href="cool.html">cool</a>, <a href="gentle.html">gentle</a>, <a href="gruntle.html">gruntle</a>, <a href="hypnotise.html">hypnotise</a>, <a href="hypnotize.html">hypnotize</a>, <a href="lenify.html">lenify</a>, <a href="lull.html">lull</a>, <a href="mesmerise.html">mesmerise</a>, <a href="mesmerize.html">mesmerize</a>, <a href="mollify.html">mollify</a>, <a href="pacify.html">pacify</a>, <a href="placate.html">placate</a>, <a href="placidity.html">placidity</a>, <a href="poise.html">poise</a>, <a href="quiet.html">quiet</a>, <a href="reassure.html">reassure</a>, <a href="repose.html">repose</a>, <a href="sang-froid.html">sang-froid</a>, <a href="serenity.html">serenity</a>, <a href="tranquility.html">tranquility</a>, <a href="tranquillity.html">tranquillity</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="calmness.html">calmness</a>, <a href="compose.html">compose</a>, <a href="sedation.html">sedation</a>, <a href="sedative.html">sedative</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abate.html">abate</a>, <a href="agitation.html">agitation</a>, <a href="allay.html">allay</a>, <a href="alleviate.html">alleviate</a>, <a href="appease.html">appease</a>, <a href="Beaufort%20scale.html">Beaufort scale</a>, <a href="becalm.html">becalm</a>, <a href="bespeak.html">bespeak</a>, <a href="calm%20down.html">calm down</a>, <a href="Calmant.html">Calmant</a>, <a href="Calmative.html">Calmative</a>, <a href="Calmed.html">Calmed</a>, <a href="Calmer.html">Calmer</a>, <a href="calmly.html">calmly</a>, <a href="calmness.html">calmness</a>, <a href="Calmy.html">Calmy</a>, <a href="Cast%20oil%20on%20troubled%20waters.html">Cast oil on troubled waters</a>, <a href="cat%27s-paw.html">cat's-paw</a>, <a href="chill%20out.html">chill out</a>, <a href="Chloral.html">Chloral</a>, <a href="clear.html">clear</a>, <a href="climate.html">climate</a>, <a href="collected.html">collected</a>, <a href="Collectedness.html">Collectedness</a>, <a href="complacence.html">complacence</a>, <a href="complacency.html">complacency</a>, <a href="compose.html">compose</a>, <a href="composed.html">composed</a>, <a href="considerateness.html">considerateness</a>, <a href="Consopite.html">Consopite</a>, <a href="contemplation.html">contemplation</a>, <a href="cool.html">cool</a>, <a href="cool%20it.html">cool it</a>, <a href="cool%20off.html">cool off</a>, <a href="cool-headed.html">cool-headed</a>, <a href="coolheaded.html">coolheaded</a>, <a href="coolness.html">coolness</a>, <a href="cumulus.html">cumulus</a>, <a href="cyclone.html">cyclone</a>, <a href="dead.html">dead</a>, <a href="deliberateness.html">deliberateness</a>, <a href="dew.html">dew</a>, <a href="dill.html">dill</a>, <a href="dispassion.html">dispassion</a>, <a href="dispassionate.html">dispassionate</a>, <a href="downy.html">downy</a>, <a href="ducks%20and%20drakes.html">ducks and drakes</a>, <a href="dull.html">dull</a>, <a href="ease.html">ease</a>, <a href="equanimity.html">equanimity</a>, <a href="even.html">even</a>, <a href="Even-minded.html">Even-minded</a>, <a href="fall.html">fall</a>, <a href="feeler.html">feeler</a>, <a href="front.html">front</a>, <a href="gossamer.html">gossamer</a>, <a href="Ground%20sea.html">Ground sea</a>, <a href="Halcyon.html">Halcyon</a>, <a href="Halcyonian.html">Halcyonian</a>, <a href="honeymoon.html">honeymoon</a>, <a href="hush.html">hush</a>, <a href="imperturbability.html">imperturbability</a>, <a href="imperturbable.html">imperturbable</a>, <a href="imperturbableness.html">imperturbableness</a>, <a href="Indian%20summer.html">Indian summer</a>, <a href="indifference.html">indifference</a>, <a href="Irishman%27s%20hurricane.html">Irishman's hurricane</a>, <a href="Keep%20one%27s%20countenance.html">Keep one's countenance</a>, <a href="kill.html">kill</a>, <a href="lay.html">lay</a>, <a href="letup.html">letup</a>, <a href="limpid.html">limpid</a>, <a href="lithe.html">lithe</a>, <a href="Lown.html">Lown</a>, <a href="lull.html">lull</a>, <a href="Martinmas%20summer.html">Martinmas summer</a>, <a href="mild.html">mild</a>, <a href="Moder.html">Moder</a>, <a href="mollify.html">mollify</a>, <a href="musing.html">musing</a>, <a href="nerveless.html">nerveless</a>, <a href="nonchalance.html">nonchalance</a>, <a href="Norwegian.html">Norwegian</a>, <a href="Pacific.html">Pacific</a>, <a href="pacify.html">pacify</a>, <a href="passionless.html">passionless</a>, <a href="patience.html">patience</a>, <a href="patient.html">patient</a>, <a href="peace.html">peace</a>, <a href="peaceableness.html">peaceableness</a>, <a href="peaceful.html">peaceful</a>, <a href="peacefulness.html">peacefulness</a>, <a href="philosopher.html">philosopher</a>, <a href="philosophic.html">philosophic</a>, <a href="philosophical.html">philosophical</a>, <a href="philosophy.html">philosophy</a>, <a href="phlegm.html">phlegm</a>, <a href="placid.html">placid</a>, <a href="Poseidon.html">Poseidon</a>, <a href="quell.html">quell</a>, <a href="quench.html">quench</a>, <a href="quiesce.html">quiesce</a>, <a href="quiet.html">quiet</a>, <a href="quieten.html">quieten</a>, <a href="Quietive.html">Quietive</a>, <a href="Quietsome.html">Quietsome</a>, <a href="reflection.html">reflection</a>, <a href="reflexion.html">reflexion</a>, <a href="relieve.html">relieve</a>, <a href="repose.html">repose</a>, <a href="Reposed.html">Reposed</a>, <a href="roller.html">roller</a>, <a href="Row-port.html">Row-port</a>, <a href="Rowport.html">Rowport</a>, <a href="rumination.html">rumination</a>, <a href="sedate.html">sedate</a>, <a href="sedation.html">sedation</a>, <a href="sedative.html">sedative</a>, <a href="sedentary.html">sedentary</a>, <a href="self-collected.html">self-collected</a>, <a href="self-possessed.html">self-possessed</a>, <a href="serene.html">serene</a>, <a href="settle.html">settle</a>, <a href="settle%20down.html">settle down</a>, <a href="Sile.html">Sile</a>, <a href="silent.html">silent</a>, <a href="simmer%20down.html">simmer down</a>, <a href="slat.html">slat</a>, <a href="sleek.html">sleek</a>, <a href="smooth.html">smooth</a>, <a href="sober.html">sober</a>, <a href="Sober-minded.html">Sober-minded</a>, <a href="soothe.html">soothe</a>, <a href="still.html">still</a>, <a href="stilly.html">stilly</a>, <a href="stoic.html">stoic</a>, <a href="stoical.html">stoical</a>, <a href="stoically.html">stoically</a>, <a href="Stoicism.html">Stoicism</a>, <a href="Submiss.html">Submiss</a>, <a href="Surgeless.html">Surgeless</a>, <a href="sweep.html">sweep</a>, <a href="Sweet.html">Sweet</a>, <a href="temper.html">temper</a>, <a href="temperate.html">temperate</a>, <a href="thoughtfulness.html">thoughtfulness</a>, <a href="To%20fall%20calm.html">To fall calm</a>, <a href="tranquil.html">tranquil</a>, <a href="tranquilize.html">tranquilize</a>, <a href="tranquillise.html">tranquillise</a>, <a href="tranquillity.html">tranquillity</a>, <a href="tranquillize.html">tranquillize</a>, <a href="Uncalm.html">Uncalm</a>, <a href="unconcern.html">unconcern</a>, <a href="Undazzle.html">Undazzle</a>, <a href="undisturbed.html">undisturbed</a>, <a href="unflappable.html">unflappable</a>, <a href="unimpassioned.html">unimpassioned</a>, <a href="unmoved.html">unmoved</a>, <a href="unquiet.html">unquiet</a>, <a href="unruffled.html">unruffled</a>, <a href="warp.html">warp</a>, <a href="weather.html">weather</a>, <a href="whirlpool.html">whirlpool</a>, <a href="Whistle%20for%20a%20wind.html">Whistle for a wind</a>, <a href="wind%20scale.html">wind scale</a>, <a href="windless.html">windless</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xalm, dalm, falm, valm, cqlm, cwlm, cslm, czlm, cakm, caom, capm, caln, calj, calk
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

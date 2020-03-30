@@ -1,0 +1,548 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>curiosity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">something unusual -- perhaps worthy of collecting</span> </li><li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">a state in which you want to learn more about something</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Curiosity</span> <span class="exp">Disposition to inquire, investigate, or seek after knowledge; a desire to gratify the mind with new information or objects of interest; inquisitiveness.</span> </li><li><span class="term">Curiosity</span> <span class="exp">That which is curious, or fitted to excite or reward attention.</span> <span class="wuQuot">"We took a ramble together to see the curiosities of this great town."</span><span class="wuQuot">"There hath been practiced also a curiosity , to set a tree upon the north side of a wall, and, at a little hieght, to draw it through the wall, etc."</span></li><li><span class="term">Curiosity</span> <span class="exp">The state or quality or being curious; nicety; accuracy; exactness; elaboration.</span> <span class="wuQuot">"When thou wast in thy gilt and thy perfume, they mocked thee for too much curiosity ."</span><span class="wuQuot">"A screen accurately cut in tapiary work . . . with great curiosity ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">Carefulness; nicety; delicacy; fastidiousness; scrupulous care.</span> </li><li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">Accuracy; exactness; nice performance.</span> </li><li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">Curious arrangement; singular or artful performance.</span> </li><li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">Extravagantly minute investigation.</span> </li><li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">Fancifulness; extravagance; a curious or fanciful subject.</span> </li><li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">The desire to see or learn something that is new, strange, or unknown; inquisitiveness.</span> </li><li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">An object of interest or inquisitiveness; that which excites a desire of seeing or deserves to be seen, as novel or extraordinary; something rare or strange.</span> </li><li><span class="tSpeech">n</span> <span class="term">curiosity</span> <span class="exp">Synonyms. Phenomenon, marvel, wonder, sight, rarity.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Curiosity</span> <span class="exp">state or quality of being curious: inquisitiveness: that which is curious: anything rare or unusual</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Apocrypha</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Apocrypha">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The curiosity to know things has been given to man as a scourge.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edmund Burke</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edmund%20Burke.jpg" alt="Edmund%20Burke">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The first and simplest emotion which we discover in the human mind, is curiosity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“That low vice, curiosity!”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Albert Einstein</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Albert%20Einstein.jpg" alt="Albert%20Einstein">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Never lose a holy curiosity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Curiosity is lying in wait for every secret.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Hobbes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Hobbes.jpg" alt="Thomas%20Hobbes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Curiosity is the lust of the mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Curiosity killed the cat</span> - As cats are naturally curious animals, we use this expression to suggest to people that excessive curiosity is not necessarily a good thing, especially where it is not their business.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">curiouste</span>, <span class="wUets">curiosite</span>, OF. <span class="wUets">curioseté</span>, <span class="wUets">curiosité</span>, F. <span class="wUets">curiosité</span>, fr. L. <span class="wUets">curiositas</span>, fr. <span class="wUets">curiosus</span>,. See <span class="wUer">Curious</span>, and cf. <span class="wUer">Curio</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>curieux</i>—L. <i>curiosus</i>—<i>cura</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The young man felt a sudden strong curiosity to see her.
+					</div>
+					<div class="uAuthor">
+						"Robert Elsmere" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						The polite world was shocked, and the tendency to exaggerate intensified curiosity.
+					</div>
+					<div class="uAuthor">
+						"Behind the Scenes" by <span>Elizabeth Keckley</span>					</div>
+										<div class="usage">
+						Scarcely had the giraffe noticed the gleam of the lantern when it came up in its curiosity.
+					</div>
+					<div class="uAuthor">
+						"The Goose Man" by <span>Jacob Wassermann</span>					</div>
+										<div class="usage">
+						You can rouse any woman's curiosity, and no one has more than Mrs. Oglethorpe.
+					</div>
+					<div class="uAuthor">
+						"Black Oxen" by <span>Gertrude Franklin Horn Atherton</span>					</div>
+										<div class="usage">
+						The nearer and more conspicuous of them at once excited the curiosity of the three Southerners.
+					</div>
+					<div class="uAuthor">
+						"Popular Adventure Tales" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						This piqued their curiosity, and, ripe for mischief, as usual, they resolved to follow him.
+					</div>
+					<div class="uAuthor">
+						"The Diamond Coterie" by <span>Lawrence L. Lynch</span>					</div>
+										<div class="usage">
+						She looked angrily at the woman, for she hated the familiarity of the townsfolk and resented their open curiosity.
+					</div>
+					<div class="uAuthor">
+						"A German Pompadour" by <span>Marie Hay</span>					</div>
+										<div class="usage">
+						It roused my curiosity, that's all.
+					</div>
+					<div class="uAuthor">
+						"The Woman from Outside" by <span>Hulbert Footner</span>					</div>
+										<div class="usage">
+						Curiosity, or interest, call it what you will, fell back baffled.
+					</div>
+					<div class="uAuthor">
+						"Antony Gray,--Gardener" by <span>Leslie Moore</span>					</div>
+										<div class="usage">
+						Mankind's curiosity is disinterested; it seems purer by contrast.
+					</div>
+					<div class="uAuthor">
+						"This Simian World" by <span>Clarence Day</span>					</div>
+										<div class="usage">
+						And he is safeguarded against a certain pruriency that comes from wrongly stimulated and vilely fed curiosity.
+					</div>
+					<div class="uAuthor">
+						"The Renewal of Life; How and When to Tell the Story to the Young" by <span>Margaret Warner Morley</span>					</div>
+										<div class="usage">
+						Here I can devote myself to my reflections and my pursuits undistracted and unobserved by the curiosity of mankind.
+					</div>
+					<div class="uAuthor">
+						"Eastern Tales by Many Story Tellers" by <span>Various</span>					</div>
+										<div class="usage">
+						His voice had been low, but in it she detected much curiosity, even interest.
+					</div>
+					<div class="uAuthor">
+						"The Trail to Yesterday" by <span>Charles Alden Seltzer</span>					</div>
+										<div class="usage">
+						It was the rubicund man who, most daring during the crisis, was now bold enough to admit curiosity.
+					</div>
+					<div class="uAuthor">
+						"The Wonder" by <span>J. D. Beresford</span>					</div>
+										<div class="usage">
+						He ventured no direct question for the satisfying of his curiosity until they had returned, and dinner was over.
+					</div>
+					<div class="uAuthor">
+						"The End of a Coil" by <span>Susan Warner</span>					</div>
+										<div class="usage">
+						I watched him with curiosity.
+					</div>
+					<div class="uAuthor">
+						"The Golden Face" by <span>William Le Queux</span>					</div>
+										<div class="usage">
+						It could scarcely be my companion who was the object of this universal curiosity.
+					</div>
+					<div class="uAuthor">
+						"The Wild Huntress" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						They were the same, wistful yet wonderful, with just that slightest trace of sadness which had filled me with curiosity.
+					</div>
+					<div class="uAuthor">
+						"Hushed Up" by <span>William Le Queux</span>					</div>
+										<div class="usage">
+						She regarded me steadfastly as though she had had her curiosity suddenly aroused.
+					</div>
+					<div class="uAuthor">
+						"Captain Macedoine's Daughter" by <span>William McFee</span>					</div>
+										<div class="usage">
+						Her curiosity was only half satisfied.
+					</div>
+					<div class="uAuthor">
+						"The Banished" by <span>Wilhelm Hauff</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							And loftiness of Batyushkov I hate:<br>
+"What time is it?" - he had been asked there<br>
+late --<br>
+And he had answered with curiosity "Eternal!"
+							<div class="poet">""No, not the moon..."" by <span>Osip Emilevich Mandelstam</span></div>
+						</div>
+											<div class="poemQuote">
+							'Tis curiosity<br>
+Oft brings them in the way,<br>
+Only the man to see,<br>
+And hear what he can say;<br>
+But how the sinner starts to find<br>
+The preacher knows his inmost mind. 
+							<div class="poet">"Zaccheus" by <span>John Newton</span></div>
+						</div>
+											<div class="poemQuote">
+							Need, not precisely;<br>
+But female curiosity inspires<br>
+Me with that counsel. There are certain men<br>
+Of whom one is irresistibly impatient<br>
+To know what women they can be in love with.
+							<div class="poet">"Nathan The Wise  -  Act IV" by <span>Gotthold Ephraim Lessing</span></div>
+						</div>
+											<div class="poemQuote">
+							Give, give before he begs. O could I tell<br>
+How to come at the templar, not betraying<br>
+The motive of my curiosity -<br>
+For if I tell it, and if my suspicion<br>
+Be groundless, I have staked the father idly.<br>
+What is the matter?
+							<div class="poet">"Nathan The Wise  -  Act IV" by <span>Gotthold Ephraim Lessing</span></div>
+						</div>
+											<div class="poemQuote">
+							Now, to a woman, that's a lead dead certain of a score,<br>
+An' a question that the keenest is unable to ignore.<br>
+An' good old Curiosity comes in to second me,<br>
+As I saw her struggle hopeless, an' "What news is that?" says she. 
+							<div class="poet">"Red Robin" by <span>C J Dennis</span></div>
+						</div>
+											<div class="poemQuote">
+							Well, at last there came a schooner cruising round the Southern Seas<br>
+With a learned bloke on board collecting curiosities,<br>
+And when he saw the figurehead he cried, '"Now here's a find;<br>
+This here's a tribal totem of a most unusual kind."
+							<div class="poet">"The Figurehead" by <span>Cicely Fox Smith</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Mars rover Curiosity landed on the Red Planet at 10:32 pm PST on August 5.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ecnmag.com/news/2012/08/curiositys-wheels-leave-morse-code-mars-surface" target="_blank" rel="external nofollow">ecnmag.com</a>
+					</div>
+										<div class="usage">
+						As the Jet Propulsion Laboratory ( JPL ) builds the next Mars rover -- this one is named Curiosity -- to deploy to the red planet in the fall of 2011, they're having a little fun with it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.arrl.org/news/new-mars-rover-to-feature-morse-code" target="_blank" rel="external nofollow">arrl.org</a>
+					</div>
+										<div class="usage">
+						Rover Curiosity touches down on Mars.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/world/national-security/congressional-panel-investigates-dover-air-force-base-mortuary/2011/11/28/gIQAFof65N_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						In this decade, the Internet would turn from a curiosity to a centerpiece of modern life.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.motorcyclistonline.com/mc_100/122_1210_a_century_of_motorcycling_the_1990s/" target="_blank" rel="external nofollow">motorcyclistonline.com</a>
+					</div>
+										<div class="usage">
+						Throughout this new collection, as always in her distinctive stories, Alice Munro 's style is vivid, her attention tireless, her curiosity omnivorous, and her sentences drawn from the freshest of springs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/11/20/AR2009112003498.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						This color full-resolution image showing the heat shield of NASA's Curiosity rover was obtained during descent to the surface of Mars on Aug 5 PDT (Aug.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/scitech/2012/08/16/mars-rover-voice-captured-during-nail-biting-landing-571117329/" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						The Curiosity rover was poised to hit the top of the Martian atmosphere at 13,000 mph.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/wpvi/story?section=news/technology&amp;id=8762640" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						Curiosity motivated the first American who crossed Siberia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.americanheritage.com/content/boyage-nor%E2%80%99west-john?page=show" target="_blank" rel="external nofollow">americanheritage.com</a>
+					</div>
+										<div class="usage">
+						NASA rover Curiosity set to land on Mars.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/kabc/video?id=8602710" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						Mark Maio has dedicated a long career to photographing the human eye, demonstrating that even the narrowest specialty is only as limited as a photographer's imagination, curiosity and ambition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pdnonline.com/features/Whats-Your-Niche-O-6478.shtml" target="_blank" rel="external nofollow">pdnonline.com</a>
+					</div>
+										<div class="usage">
+						And then, the globe portrayed the details of Mars, with a pin to show the landing site of Curiosity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gazette.com/articles/science-145584-visitors-space.html" target="_blank" rel="external nofollow">gazette.com</a>
+					</div>
+										<div class="usage">
+						Mars orbiter traces Curiosity rover's tracks from high above.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/48932069/ns/technology_and_science-space/" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						Mars Reconnaissance Orbiter spots Curiosity and scattered spacecraft pieces.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wtvr.com/2012/08/08/nasa-mars-reconnaissance-orbiter-spots-curiosity-and-scattered-spacecraft-pieces/" target="_blank" rel="external nofollow">wtvr.com</a>
+					</div>
+										<div class="usage">
+						NASA's Mars Reconnaissance Orbiter (MRO) has captured an impressive picture of the Curiosity rover's nail-biting and extremely successful descent.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wired.com/wiredscience/2012/08/mro-curiosity-descent/" target="_blank" rel="external nofollow">wired.com</a>
+					</div>
+										<div class="usage">
+						Mars rover Curiosity may have found organic compounds , clue in search for life.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailybreeze.com/latestnews/ci_22082786/jpl-director-mars-rover-curiosity-life-compounds-organic" target="_blank" rel="external nofollow">dailybreeze.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						As Zora Neale Hurston put it, “Research is formalized curiosity. 
+					</div>
+					<div class="uAuthor">
+						Interplay between Network Topology and Dynamics in Neural Systems
+					</div>
+										<div class="usage">
+						As a curiosity we can mention that for such manifolds their number as a function of N4 , the number of 4-simplexes, is not algorithmic calculable. 
+					</div>
+					<div class="uAuthor">
+						Quantization of Geometry
+					</div>
+										<div class="usage">
+						Quantum computing was considered at best as a curiosity by most researchers until Shor discovered in 1994 that it could be used to extract discrete logarithms and factorize large numbers very eﬃciently. 
+					</div>
+					<div class="uAuthor">
+						New Trends in Quantum Computing
+					</div>
+										<div class="usage">
+						Were it not for the recent discovery of quantum error correcting codes that can correct errors due to decoherence through the use of appropriate software, quantum computing would have remained a theoretical curiosity. 
+					</div>
+					<div class="uAuthor">
+						A Self Assembled Nanoelectronic Quantum Computer Based on the Rashba Effect in Quantum Dots
+					</div>
+										<div class="usage">
+						Lagrange’s (1772) triangular solution of the three body problem was long thought to be just an elegant mathematical curiosity. 
+					</div>
+					<div class="uAuthor">
+						Asteroids in the Inner Solar System I - Existence
+					</div>
+										<div class="usage">
+						More than just a theoretical curiosity, Q(α, t) can be detected in homodyne experiments . 
+					</div>
+					<div class="uAuthor">
+						Aspects of a Two-Level Atom in Squeezed Displaced Fock States
+					</div>
+										<div class="usage">
+						We were motivated to study it mainly out of curiosity on the theoretical side. 
+					</div>
+					<div class="uAuthor">
+						A special simplex in the state space for entangled qudits
+					</div>
+										<div class="usage">
+						But if there exist no such theories, the Pioneer anomaly may remain an interesting curiosity with a potentially large impact on navigation in the solar system, but probably lesser importance for fundamental physics. 
+					</div>
+					<div class="uAuthor">
+						Long range gravity tests and the Pioneer anomaly
+					</div>
+										<div class="usage">
+						If this were all there were to say, they would be mere mathematical curiosities uninteresting to physicists. 
+					</div>
+					<div class="uAuthor">
+						Finite temperature corrections and embedded strings in noncommutative geometry and the standard model with neutrino mixing
+					</div>
+										<div class="usage">
+						The argumentation outlined brieﬂy in the preceding section demonstrates that low-dimensional vacuum defects are in no way a lattice curiosity but could have been predicted within ﬁeld theory. 
+					</div>
+					<div class="uAuthor">
+						Nonperturbative physics at short distances
+					</div>
+										<div class="usage">
+						Started as a collection of chip curiosities this website is now growing into a visual encyclopedia for quality assessment. 
+					</div>
+					<div class="uAuthor">
+						Quality assessment for short oligonucleotide microarray data
+					</div>
+										<div class="usage">
+						So during lunches, Heitler expressed a curiosity in what Ma jorana was doing; Fermi must have told him how bright he was. 
+					</div>
+					<div class="uAuthor">
+						Ettore Majorana and his heritage seventy years later
+					</div>
+										<div class="usage">
+						As result, simulations (as astro-images from Large Telescopes) are a perfect mean to ﬁll the gap between the curiosity of people and the diﬃculty of a scientiﬁc explanation. 
+					</div>
+					<div class="uAuthor">
+						The Impact of Simulations in Cosmology and Galaxy Formation A summary of the Workshop NOVICOSMO 2008
+					</div>
+										<div class="usage">
+						Nevertheless, a true expansion where the redshifts are cosmological, not due to “some unknown law of nature” as favored by Hubble, is itself such a remarkable proposition that decisive proofs are still of interest, even if only as academic curiosities now. 
+					</div>
+					<div class="uAuthor">
+						The Tolman Surface Brightness Test for the Reality of the Expansion. V. Provenance of the Test and a New Representation of the Data for Three Remote HST Galaxy Clusters
+					</div>
+										<div class="usage">
+						To date the majority of efforts devoted to our curiosity of understanding the X-ray variability of astronomical objects were based on the systematic study of PSD shapes and looking for occasionally observed quasi-periodic oscillations (QPOs; , –). 
+					</div>
+					<div class="uAuthor">
+						Wavelet analysis: a new significance test for signals dominated by intrinsic red-noise variability
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="something unusual -- perhaps worthy of collecting"><a href="oddity.html">oddity</a>, <a href="oddment.html">oddment</a>, <a href="peculiarity.html">peculiarity</a>, <a href="rarity.html">rarity</a>, </div><div class="synGroup" title="a state in which you want to learn more about something"><a href="wonder.html">wonder</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="cognitive%20state.html">cognitive state</a>, <a href="object.html">object</a>, <a href="physical%20object.html">physical object</a>, <a href="state%20of%20mind.html">state of mind</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bric-a-brac.html">bric-a-brac</a>, <a href="collectable.html">collectable</a>, <a href="collectible.html">collectible</a>, <a href="collector%27s%20item.html">collector's item</a>, <a href="curiousness.html">curiousness</a>, <a href="desire%20to%20know.html">desire to know</a>, <a href="inquisitiveness.html">inquisitiveness</a>, <a href="interest.html">interest</a>, <a href="involvement.html">involvement</a>, <a href="knickknack.html">knickknack</a>, <a href="knickknackery.html">knickknackery</a>, <a href="lust%20for%20learning.html">lust for learning</a>, <a href="nicknack.html">nicknack</a>, <a href="piece%20de%20resistance.html">piece de resistance</a>, <a href="showpiece.html">showpiece</a>, <a href="thirst%20for%20knowledge.html">thirst for knowledge</a>, <a href="whatnot.html">whatnot</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="curious.html">curious</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="a%20piece%20of%20virtu.html">a piece of virtu</a>, <a href="agog.html">agog</a>, <a href="Allium%20cepa%20viviparum.html">Allium cepa viviparum</a>, <a href="An%20article%20of%20virtu.html">An article of virtu</a>, <a href="annoyer.html">annoyer</a>, <a href="antiquary.html">antiquary</a>, <a href="appetizing.html">appetizing</a>, <a href="attend.html">attend</a>, <a href="baffle.html">baffle</a>, <a href="bate.html">bate</a>, <a href="Bibelot.html">Bibelot</a>, <a href="busily.html">busily</a>, <a href="curio.html">curio</a>, <a href="curious.html">curious</a>, <a href="curiously.html">curiously</a>, <a href="curiousness.html">curiousness</a>, <a href="desire%20to%20know.html">desire to know</a>, <a href="edge.html">edge</a>, <a href="Egyptian%20onion.html">Egyptian onion</a>, <a href="flag.html">flag</a>, <a href="GAD.html">GAD</a>, <a href="gadabout.html">gadabout</a>, <a href="Gadding.html">Gadding</a>, <a href="Gapingstock.html">Gapingstock</a>, <a href="gaze.html">gaze</a>, <a href="Gazingstock.html">Gazingstock</a>, <a href="impertinent.html">impertinent</a>, <a href="importunate.html">importunate</a>, <a href="Incuriosity.html">Incuriosity</a>, <a href="incurious.html">incurious</a>, <a href="inquisitive.html">inquisitive</a>, <a href="inquisitively.html">inquisitively</a>, <a href="inquisitiveness.html">inquisitiveness</a>, <a href="interest.html">interest</a>, <a href="interested.html">interested</a>, <a href="interesting.html">interesting</a>, <a href="interrogatively.html">interrogatively</a>, <a href="intriguing.html">intriguing</a>, <a href="involvement.html">involvement</a>, <a href="labyrinth.html">labyrinth</a>, <a href="lion.html">lion</a>, <a href="lioness.html">lioness</a>, <a href="lionize.html">lionize</a>, <a href="lust%20for%20learning.html">lust for learning</a>, <a href="mad.html">mad</a>, <a href="marble.html">marble</a>, <a href="marvel.html">marvel</a>, <a href="maze.html">maze</a>, <a href="merge.html">merge</a>, <a href="mob.html">mob</a>, <a href="mysterious.html">mysterious</a>, <a href="Mysteriousness.html">Mysteriousness</a>, <a href="mystery.html">mystery</a>, <a href="overcurious.html">overcurious</a>, <a href="Pandora%27s%20box.html">Pandora's box</a>, <a href="Peery.html">Peery</a>, <a href="philatelist.html">philatelist</a>, <a href="philately.html">philately</a>, <a href="pinna.html">pinna</a>, <a href="pique.html">pique</a>, <a href="pronghorn.html">pronghorn</a>, <a href="prurient.html">prurient</a>, <a href="pry.html">pry</a>, <a href="pryingly.html">pryingly</a>, <a href="pumpkin.html">pumpkin</a>, <a href="questioning.html">questioning</a>, <a href="Quodlibetical.html">Quodlibetical</a>, <a href="rack.html">rack</a>, <a href="satisfy.html">satisfy</a>, <a href="sensational.html">sensational</a>, <a href="sensationalism.html">sensationalism</a>, <a href="Show%20box.html">Show box</a>, <a href="slum.html">slum</a>, <a href="Slumming.html">Slumming</a>, <a href="speculative.html">speculative</a>, <a href="sponge.html">sponge</a>, <a href="stare.html">stare</a>, <a href="strange.html">strange</a>, <a href="target.html">target</a>, <a href="tease.html">tease</a>, <a href="teaser.html">teaser</a>, <a href="thirst%20for%20knowledge.html">thirst for knowledge</a>, <a href="tomato.html">tomato</a>, <a href="top%20onion.html">top onion</a>, <a href="tree%20onion.html">tree onion</a>, <a href="Uncurious.html">Uncurious</a>, <a href="uninquiring.html">uninquiring</a>, <a href="uninquisitive.html">uninquisitive</a>, <a href="uninteresting.html">uninteresting</a>, <a href="unsensational.html">unsensational</a>, <a href="Variolite.html">Variolite</a>, <a href="vexer.html">vexer</a>, <a href="visit.html">visit</a>, <a href="whatnot.html">whatnot</a>, <a href="wonder.html">wonder</a>, <a href="wondering.html">wondering</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xuriosity, duriosity, furiosity, vuriosity, cyriosity, chriosity, cjriosity, ciriosity, cueiosity, cudiosity, cufiosity, cutiosity, curuosity, curjosity, curkosity, curoosity, curiisity, curiksity, curilsity, curipsity, curioaity, curiowity, curiodity, curioxity, curiozity, curioaity, curiosuty, curiosjty, curioskty, curiosoty, curiosiry, curiosify, curiosigy, curiosiyy, curiositt, curiositg, curiosith, curiositu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

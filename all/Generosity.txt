@@ -1,0 +1,544 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>generosity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">generosity</span> <span class="exp">acting generously</span> </li><li><span class="tSpeech">n</span> <span class="term">generosity</span> <span class="exp">the trait of being willing to give your money or time</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Generosity</span> <span class="exp">Liberality in giving; munificence.</span> </li><li><span class="term">Generosity</span> <span class="exp">Noble birth.</span> </li><li><span class="term">Generosity</span> <span class="exp">The quality of being noble; noble-mindedness.</span> <span class="wuQuot">"Generosity is in nothing more seen than in a candid estimation of other men's virtues and good qualities."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">generosity</span> <span class="exp">Nobility; the order of nobles.</span> </li><li><span class="tSpeech">n</span> <span class="term">generosity</span> <span class="exp">The quality of being generous; magnanimity; liberality of sentiment and action; more specifically, a disposition to give liberally or to bestow favors; a quality of the heart or mind opposed to meanness or parsimony.</span> </li><li><span class="tSpeech">n</span> <span class="term">generosity</span> <span class="exp">Liberality in act; munificence: as, the object of one's generosity.</span> </li><li><span class="tSpeech">n</span> <span class="term">generosity</span> <span class="exp">A generous act.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Generosity</span> <span class="exp">nobleness or liberality of nature:</span> </li><li><span class="tSpeech">ns</span> <span class="term">Generosity</span> <span class="exp">(<span class="itl">arch.</span>) nobility of birth</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean De La Bruyere</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20De%20La%20Bruyere.jpg" alt="Jean%20De%20La%20Bruyere">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Generosity lies less in giving much than in giving at the right moment.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Fuller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Fuller.jpg" alt="Thomas%20Fuller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Lavishness is not generosity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Kahlil Gibran</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Kahlil%20Gibran.jpg" alt="Kahlil%20Gibran">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Generosity is giving more than you can, and pride is taking less than you need.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Francois De La Rochefoucauld</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Francois%20De%20La%20Rochefoucauld.jpg" alt="Francois%20De%20La%20Rochefoucauld">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What is called generosity is usually only the vanity of giving; we enjoy the vanity more than the thing given.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sir Henry Taylor</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Sir Henry Taylor">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He who gives what he would as readily throw away, gives without generosity; for the essence of generosity is in self sacrifice.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Will Rogers</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Will%20Rogers.jpg" alt="Will%20Rogers">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I wonder if it isn't just cowardice instead of generosity that makes us give tips.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">generositas</span>,: cf. F. <span class="wUets">générosité</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>généreux</i>—L. <i>generosus</i>, of noble birth—<i>genus</i>, birth.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Your Lordships will please to observe, as I proceed, the nature of this pretended generosity in Mr. Hastings.
+					</div>
+					<div class="uAuthor">
+						"The Works of the Right Honourable Edmund Burke, Vol. X. (of 12)" by <span>Edmund Burke</span>					</div>
+										<div class="usage">
+						His manner showed unmistakably that he was not impressed by Mrs. Wickham's great generosity.
+					</div>
+					<div class="uAuthor">
+						"The Land of Promise" by <span>D. Torbett</span>					</div>
+										<div class="usage">
+						He remonstrated earnestly with her on her over-generosity to her nephews.
+					</div>
+					<div class="uAuthor">
+						"A Crooked Path" by <span>Mrs. Alexander</span>					</div>
+										<div class="usage">
+						Goodness of heart, generosity of affections, the very quintessence of good nature!
+					</div>
+					<div class="uAuthor">
+						"Explanation of Catholic Morals" by <span>John H. Stapleton</span>					</div>
+										<div class="usage">
+						It is true that the Tuaricks are desperately poor, and their generosity must always be very limited.
+					</div>
+					<div class="uAuthor">
+						"Narrative of a Mission to Central Africa Performed in the Years 1850-51, Volume 2" by <span>James Richardson</span>					</div>
+										<div class="usage">
+						The right honourable gentleman had prided himself on his generosity as a Greek.
+					</div>
+					<div class="uAuthor">
+						"Phineas Redux" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						I appeal to your generosity in the matter.
+					</div>
+					<div class="uAuthor">
+						"Swirling Waters" by <span>Max Rittenberg</span>					</div>
+										<div class="usage">
+						He praised the generosity of his sentiments and the largeness of his sympathies.
+					</div>
+					<div class="uAuthor">
+						"Modern Eloquence: Vol II, After-Dinner Speeches E-O" by <span>Various</span>					</div>
+										<div class="usage">
+						Why does a life dwelt apart from others tend to destroy first generosity and then tenderness in man and woman?
+					</div>
+					<div class="uAuthor">
+						"Prisoners" by <span>Mary Cholmondeley</span>					</div>
+										<div class="usage">
+						Another citizen of Florence had rivalled the generosity of Niccoli.
+					</div>
+					<div class="uAuthor">
+						"The Great Book-Collectors" by <span>Charles Isaac Elton and Mary Augusta Elton</span>					</div>
+										<div class="usage">
+						A sudden impulse of generosity seized her.
+					</div>
+					<div class="uAuthor">
+						"The King's Men" by <span>Robert Grant, John Boyle O'Reilly, J. S. Dale, and John T. Wheelwright</span>					</div>
+										<div class="usage">
+						On occasion he is absolutely without heart: compassion, mercy or generosity are not then in his make-up.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great - Volume 12" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						The secret purpose of Ferdinand, in this unexampled generosity, was suspected by nobody.
+					</div>
+					<div class="uAuthor">
+						"The History of England in Three Volumes, Vol.I., Part C. From Henry VII. to Mary" by <span>David Hume</span>					</div>
+										<div class="usage">
+						They were submissive, tractable, and wholly dependent upon his will and generosity.
+					</div>
+					<div class="uAuthor">
+						"The History of England in Three Volumes, Vol.II. From William and Mary to George II." by <span>Tobias Smollett</span>					</div>
+										<div class="usage">
+						His generosity encouraged others to subscribe liberally towards the building fund.
+					</div>
+					<div class="uAuthor">
+						"Bell's Cathedrals: The Cathedral Church of Exeter" by <span>Percy Addleshaw</span>					</div>
+										<div class="usage">
+						The French historians, without exception, treat it as a touching proof of the emperor's generosity.
+					</div>
+					<div class="uAuthor">
+						"Napoleon and the Queen of Prussia" by <span>L. Mühlbach,</span>					</div>
+										<div class="usage">
+						As I afterwards learnt, she got the blanket, and never ceased to laud my generosity.
+					</div>
+					<div class="uAuthor">
+						"A Flat Iron for a Farthing" by <span>Juliana Horatia Ewing</span>					</div>
+										<div class="usage">
+						Several similar instances of the lady's singular generosity now occurred to her mind.
+					</div>
+					<div class="uAuthor">
+						"Eventide" by <span>Effie Afton</span>					</div>
+										<div class="usage">
+						Nay, in the height of his generosity he began to protest.
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine of Popular Literature and Science, Volume 11, No. 24, March, 1873" by <span>Various</span>					</div>
+										<div class="usage">
+						This they owed to the generosity of Prince Henri of Prussia, the brother of Frederick the Great; he presented it to the Institute.
+					</div>
+					<div class="uAuthor">
+						"Diderot and the Encyclopædists" by <span>John Morley</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							How your shy hand offered<br>
+The total generosity<br>
+Of original unforewarned fearful trust,<br>
+In a world grown old in iron hatred!
+							<div class="poet">"A Childhood" by <span>Stephen Spender</span></div>
+						</div>
+											<div class="poemQuote">
+							It praised Old Fritz' generosity,<br>
+Which heightened the worm's nervosity.<br>
+And drilling away said the maverick:<br>
+"I don't give a damn about Frederick!"
+							<div class="poet">"The Snuff Box" by <span>Joachim Ringelnatz</span></div>
+						</div>
+											<div class="poemQuote">
+							Affection is a noble quality;<br>
+It leads to generosity and jollity.<br>
+But it also leads to breach of promise<br>
+If you go around lavishing it on red-hot momise.
+							<div class="poet">"Reflection On Caution" by <span>Ogden Nash</span></div>
+						</div>
+											<div class="poemQuote">
+							He viewed this “shouting” mania with disgust,<br>
+As being generosity perverted,<br>
+When any of the “boys” went on the bust<br>
+He strove his best that they might be converted. 
+							<div class="poet">"Jimmy Wood" by <span>Barcroft Henry Boake</span></div>
+						</div>
+											<div class="poemQuote">
+							Then noble generosity<br>
+Took youth and goodness by the hand,<br>
+And planned a thousand charming ways<br>
+To celebrate this best of days,<br>
+While hearts were held in sympathy<br>
+By love's encircling band.
+							<div class="poet">"Christmas At Church" by <span>Hattie Howard</span></div>
+						</div>
+											<div class="poemQuote">
+							At dawn you rose &amp; wrote—the books poured forth—<br>
+you delivered infinite babies, in one great birth—<br>
+and your generosity<br>
+to juniors made you deeply loved, deeply:<br>
+if envy was a Henry trademark, he would envy you,<br>
+especially the being through.
+							<div class="poet">"Dream Song 324" by <span>John Berryman</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A heartwarming tale of generosity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kiro710.com/832/1885125/John-Curley-A-heartwarming-tale-of-generosity" target="_blank" rel="external nofollow">kiro710.com</a>
+					</div>
+										<div class="usage">
+						The Diamond Springs mother of five said the organization and the generosity of others made the difference for her and her children last year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://edhtelegraph.com/article/needy-families-get-holiday-helping-hand" target="_blank" rel="external nofollow">edhtelegraph.com</a>
+					</div>
+										<div class="usage">
+						He may seem like the average 6-year-old, but one Bellaire boy's generosity and dedication to help build a park proves otherwise.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/ktrk/channel?section=news/hometown_live&amp;id=7109255" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						They granted an extension of our visit with generosity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sfbayview.com/2012/steve-champion-nine-days-into-his-death-row-hunger-strike-hes-lost-51-pounds/" target="_blank" rel="external nofollow">sfbayview.com</a>
+					</div>
+										<div class="usage">
+						Lincoln's generosity is much appreciated.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.journalgazette.net/article/20121031/BLOGS01/121039895" target="_blank" rel="external nofollow">journalgazette.net</a>
+					</div>
+										<div class="usage">
+						They have been our corporate sponsor for many seasons and their generosity also allowed us to build the beautiful ...
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.journalgazette.net/article/20121031/BLOGS01/121039895" target="_blank" rel="external nofollow">journalgazette.net</a>
+					</div>
+										<div class="usage">
+						That generosity became evident again before Thanksgiving in a heartwarming turn of events.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesrecordnews.com/news/2012/nov/21/thanks-for-all-your-help-in-fighting-hunger/" target="_blank" rel="external nofollow">timesrecordnews.com</a>
+					</div>
+										<div class="usage">
+						Thieves put a Circleville charity in jeopardy, but thanks to the generosity of strangers, Hardesty Wood Pantry is back in business.
+					</div>
+					<div class="uAuthor">
+						<a href="http://10tv.com/content/stories/2012/11/25/circleville-wood-pantry.html" target="_blank" rel="external nofollow">10tv.com</a>
+					</div>
+										<div class="usage">
+						So, look, I'm not making excuses for the missed opportunities of the Israelis, or the lack of generosity, the lack of empathy that I think goes hand-in-hand with the suspicion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.humanevents.com/2012/12/01/hillary-clinton-accuses-israel-of-lacking-generosity-and-empathy-with-oppressed-palestinians-video/" target="_blank" rel="external nofollow">humanevents.com</a>
+					</div>
+										<div class="usage">
+						The WGTE Legacy Society honors and recognizes the generosity and vision of those who have chosen to leave a legacy at WGTE through estate or deferred gifts to the Institution.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wgte.org/wgte/support/index.asp?page_id=162" target="_blank" rel="external nofollow">wgte.org</a>
+					</div>
+										<div class="usage">
+						Players' long-ago generosity to mentor and coach is revealed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/sports/la-sp-clippers-fyi-20110316-12,0,5003587.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						25 million lottery winner spreads his generosity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/Video+million+lottery+winner+spreads+generosity/7612526/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						Also, a wreath- maker 's act of generosity grew into a movement that now lays wreaths in 800 military institutions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/video/watch/?id=50136865n" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						It was a remarkable show of listener generosity and commitment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://scpr.org/blogs/larry-mantle/2012/11/14/11084/it-was-remarkable-show-listener-generosity-and-com/" target="_blank" rel="external nofollow">scpr.org</a>
+					</div>
+										<div class="usage">
+						So did many other less fortunate families, thanks to the generosity of students, families and local businesses.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mercurynews.com/san-mateo-county-times/ci_22078052" target="_blank" rel="external nofollow">mercurynews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The technics and results here will be substantial adaptations and generalizations from [19, 20] in the ﬁnite Morley rank case, and our arguments for Cartan and Carter subgroups of groups deﬁnable in o-minimal structure will highly depend on dimensional computations and generosity arguments. 
+					</div>
+					<div class="uAuthor">
+						Cartan subgroups of groups definable in o-minimal structures
+					</div>
+										<div class="usage">
+						Our remark is essentially that the stronger notion of generosity of Deﬁnition 16(b) may be satisﬁed or not, depending of the Carter subgroups considered, and this phenomenon occurs even inside SL2 (R). 
+					</div>
+					<div class="uAuthor">
+						Cartan subgroups of groups definable in o-minimal structures
+					</div>
+										<div class="usage">
+						One can then wonder about the various possibilities for generosity depending on compactness. 
+					</div>
+					<div class="uAuthor">
+						Cartan subgroups of groups definable in o-minimal structures
+					</div>
+										<div class="usage">
+						Now, since Q◦ ≤ N (aQ◦ ) ≤ N (Q◦ ) and dim(Q◦ ) = dim(N (Q◦ )), we get that dim([aQ◦ ]0 ) = dim(N (aQ◦ )), and Corollary 17 gives the weak generosity of aQ◦ . 
+					</div>
+					<div class="uAuthor">
+						Cartan subgroups of groups definable in o-minimal structures
+					</div>
+										<div class="usage">
+						This contradiction proves that [aQ◦ ]0 is large in aQ◦ , and the weak generosity of aQ◦ in G follows as usual with Corollary 17. 
+					</div>
+					<div class="uAuthor">
+						Cartan subgroups of groups definable in o-minimal structures
+					</div>
+										<div class="usage">
+						For the weak generosity of aQ◦ in G, it suﬃces to use our general Corollary 21. 
+					</div>
+					<div class="uAuthor">
+						Cartan subgroups of groups definable in o-minimal structures
+					</div>
+										<div class="usage">
+						Besides, our method for proving the weak generosity of aQ◦ in G does not seem to be appropriate for attacking the following more reﬁned question. 
+					</div>
+					<div class="uAuthor">
+						Cartan subgroups of groups definable in o-minimal structures
+					</div>
+										<div class="usage">
+						We are grateful to Roy and Tomek for their friendship and generosity. 
+					</div>
+					<div class="uAuthor">
+						When does the top homology of a random simplicial complex vanish?
+					</div>
+										<div class="usage">
+						We beneﬁted in the early stages of this work from interesting discussions with Iain MacPhee, who sadly passed away on 13th January 2012; we dedicate this paper to Iain, in memory of our valued colleague and in gratitude for his generosity. 
+					</div>
+					<div class="uAuthor">
+						Random walk in mixed random environment without uniform ellipticity
+					</div>
+										<div class="usage">
+						We also appreciate the generosity of the MNRF International Collaboration Committee, which helped to support the travel costs of many of our visitors. 
+					</div>
+					<div class="uAuthor">
+						Millimetre Science with the Upgraded Australia Telescope
+					</div>
+										<div class="usage">
+						That you ever put up with me is testimony to your kindness and generosity. 
+					</div>
+					<div class="uAuthor">
+						Finding The Charm In 800 GeV/c p-Cu and p-Be Single Muon Spectra
+					</div>
+										<div class="usage">
+						He is grateful for its generosity and hospitality. 
+					</div>
+					<div class="uAuthor">
+						Topological generators of abelian Lie groups and hypercyclic finitely generated abelian semigroups of matrices
+					</div>
+										<div class="usage">
+						Stevens for his generosity in sharing his ideas and insights with him. 
+					</div>
+					<div class="uAuthor">
+						The Frobenius and monodromy operators for curves and abelian varieties
+					</div>
+										<div class="usage">
+						Both authors are indebted to Boris Botvinnik for his strong support and generosity. 
+					</div>
+					<div class="uAuthor">
+						A classification of $S^3$-bundles over $S^4$
+					</div>
+										<div class="usage">
+						The author thanks Andrew Mathas for his generosity and hospitality. 
+					</div>
+					<div class="uAuthor">
+						Seminormal forms and Gram determinants for cellular algebras
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="acting generously"><a href="unselfishness.html">unselfishness</a>, </div><div class="synGroup" title="the trait of being willing to give your money or time"><a href="generousness.html">generousness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="stinginess.html">stinginess</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="kindness.html">kindness</a>, <a href="share-out.html">share-out</a>, <a href="sharing.html">sharing</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bigheartedness.html">bigheartedness</a>, <a href="bounteousness.html">bounteousness</a>, <a href="bounty.html">bounty</a>, <a href="charitableness.html">charitableness</a>, <a href="liberality.html">liberality</a>, <a href="liberalness.html">liberalness</a>, <a href="unselfishness.html">unselfishness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="generous.html">generous</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abscission.html">abscission</a>, <a href="beneficence.html">beneficence</a>, <a href="benefit.html">benefit</a>, <a href="benevolence.html">benevolence</a>, <a href="benevolent.html">benevolent</a>, <a href="bounteousness.html">bounteousness</a>, <a href="Bountihead.html">Bountihead</a>, <a href="bounty.html">bounty</a>, <a href="Bountyhood.html">Bountyhood</a>, <a href="brittle.html">brittle</a>, <a href="characteristic.html">characteristic</a>, <a href="charitable.html">charitable</a>, <a href="charitableness.html">charitableness</a>, <a href="charity.html">charity</a>, <a href="chivalry.html">chivalry</a>, <a href="detriment.html">detriment</a>, <a href="disinterestedness.html">disinterestedness</a>, <a href="Distributiveness.html">Distributiveness</a>, <a href="encouragement.html">encouragement</a>, <a href="errant.html">errant</a>, <a href="exhibit.html">exhibit</a>, <a href="franchise.html">franchise</a>, <a href="freedom.html">freedom</a>, <a href="freeload.html">freeload</a>, <a href="freeloader.html">freeloader</a>, <a href="generous.html">generous</a>, <a href="good-hearted.html">good-hearted</a>, <a href="gracious.html">gracious</a>, <a href="halfhearted.html">halfhearted</a>, <a href="handsome.html">handsome</a>, <a href="hospitable.html">hospitable</a>, <a href="kindly.html">kindly</a>, <a href="kindness.html">kindness</a>, <a href="knight-errant.html">knight-errant</a>, <a href="Kshatriya.html">Kshatriya</a>, <a href="large-hearted.html">large-hearted</a>, <a href="largess.html">largess</a>, <a href="largesse.html">largesse</a>, <a href="liberality.html">liberality</a>, <a href="littleness.html">littleness</a>, <a href="magnanimity.html">magnanimity</a>, <a href="magnificence.html">magnificence</a>, <a href="mean.html">mean</a>, <a href="meanness.html">meanness</a>, <a href="mingy.html">mingy</a>, <a href="miserliness.html">miserliness</a>, <a href="miserly.html">miserly</a>, <a href="munificence.html">munificence</a>, <a href="munificent.html">munificent</a>, <a href="munificently.html">munificently</a>, <a href="nobility.html">nobility</a>, <a href="nobly.html">nobly</a>, <a href="Open-heartedness.html">Open-heartedness</a>, <a href="openhearted.html">openhearted</a>, <a href="Outgive.html">Outgive</a>, <a href="paraleipsis.html">paraleipsis</a>, <a href="pettiness.html">pettiness</a>, <a href="Scambler.html">Scambler</a>, <a href="schnorrer.html">schnorrer</a>, <a href="shnorrer.html">shnorrer</a>, <a href="smallness.html">smallness</a>, <a href="species.html">species</a>, <a href="speck.html">speck</a>, <a href="stinginess.html">stinginess</a>, <a href="surprise.html">surprise</a>, <a href="sympathetic.html">sympathetic</a>, <a href="tight.html">tight</a>, <a href="uncharitable.html">uncharitable</a>, <a href="unconscious.html">unconscious</a>, <a href="unselfishness.html">unselfishness</a>, <a href="warmhearted.html">warmhearted</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					fenerosity, tenerosity, henerosity, benerosity, venerosity, gwnerosity, gsnerosity, gdnerosity, grnerosity, geberosity, geherosity, gejerosity, gemerosity, genwrosity, gensrosity, gendrosity, genrrosity, geneeosity, genedosity, genefosity, genetosity, generisity, generksity, generlsity, generpsity, generoaity, generowity, generodity, generoxity, generozity, generoaity, generosuty, generosjty, generoskty, generosoty, generosiry, generosify, generosigy, generosiyy, generositt, generositg, generosith, generositu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

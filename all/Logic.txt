@@ -1,0 +1,547 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>logic</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/89/17/4441.jpg" alt="One of the intriguing mysteries of Jamestown is how the left leg and left half of a human pelvis came to be thrown with other refuse into a well behind the row house. The logical inference is that a rebel or criminal had been hanged, drawn, and quartered">
+							<div class="caption">One of the intriguing mysteries of Jamestown is how the left leg and left half of a human pelvis came to be thrown with other refuse into a well behind the row house. The logical inference is that a rebel or criminal had been hanged, drawn, and quartered</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">reasoned and reasonable judgment</span> <span class="quot">"it made a certain kind of logic"</span></li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">a system of reasoning</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">the principles that guide reasoning within a given field or situation</span> <span class="quot">"economic logic requires it","by the logic of war"</span></li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">the system of operations performed by a computer that underlies the machine's representation of logical operations</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">the branch of philosophy that analyzes inference</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Logic</span> <span class="exp"><span class="wuFld">(Electronics, Computers)</span> A function of an electrical circuit (called a gate) that mimics certain elementary binary logical operations on electrical signals, such as AND, OR, or NOT; as, a <span class="wUex">logic</span> circuit; the arithmetic and <span class="wUex">logic</span> unit.</span> </li><li><span class="term">Logic</span> <span class="exp">A treatise on logic; as, Mill's <span class="wUex">Logic</span>
+            .</span> </li><li><span class="term">Logic</span> <span class="exp">correct reasoning; as, I can't see any <span class="wUex">logic</span> in his argument; also, sound judgment; as, the <span class="wUex">logic</span> of surrender was uncontestable.</span> </li><li><span class="term">Logic</span> <span class="exp">The path of reasoning used in any specific argument; as, his <span class="wUex">logic</span> was irrefutable.</span> </li><li><span class="term">Logic</span> <span class="exp">The science or art of exact reasoning, or of pure and formal thought, or of the laws according to which the processes of pure thinking should be conducted; the science of the formation and application of general notions; the science of generalization, judgment, classification, reasoning, and systematic arrangement; the science of correct reasoning.</span> <span class="wuQuot">"Logic is the science of the laws of thought, as thought; that is, of the necessary conditions to which thought, considered in itself, is subject."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">The science of the distinction of true from false reasoning, with whatever is naturally treated in connection therewith. See the phrases below. The definition of logic has been much disputed, and many definitions of the word have been given. There was much discussion in ancient and medieval times of the questions whether logic was a mode of knowing, or an instrument of science, or an art, or a practical science, or a speculative science. There was also a great diversity of opinion as to the subject-matter of logic, some holding that it had to do with words, others that it treated of the ens rationis, or that which has its existence in thought, and still others that it related to argumentations or some instrument of knowing. In modern times, especially since Kant, the real divergence of conception has been very much greater, one party holding that the main business of logic consists in developing the true theory of the process of cognition, and a second that its chief work is to separate inferences into classes distinguished by their form, while a third maintains that the form and the matter of thought have to be evolved together.</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">[Dialectic and organon are generally synonyms of logic, though they have been variously distinguished at different times.]</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">Reasoning, or power of reasoning; ratiocination; argumentation; used absolutely, reason; sound sense.</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">The science of the necessary rules of thought: also called scientific logic: opposed to natural logic .</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">The logical doctrine applicable to natural things: opposed to the logic of faith, which is applicable to supernatural things (a distinction used in discussions on the Trinity).</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">An anthropological science which treats of the rules of the natural use of the understanding.</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">The logic of objective thought, or thought as it exists in the external world.</span> </li><li><span class="tSpeech">n</span> <span class="term">logic</span> <span class="exp">The science which expounds the laws by which our scientific procedure should be governed, so far as these lie in the contents, materials, or objects about which our knowledge is conversant. Also called material logic.</span> </li><li><span class="term">logic</span> <span class="exp">Pertaining to God the Son as the Logos or Word of God.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Logic</span> <span class="exp"><span class="itl">loj′ik</span> the science and art of reasoning correctly: the science of the necessary laws of thought</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas H. Huxley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20H.%20Huxley.jpg" alt="Thomas%20H.%20Huxley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Logical consequences are the scarecrows of fools and the beacons of wise men.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oliver Wendell Holmes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oliver%20Wendell%20Holmes.jpg" alt="Oliver%20Wendell%20Holmes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A page of history is worth a pound of logic.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Isidore Ducasse Lautreamont</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Isidore Ducasse Lautreamont">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The great universal family of men is a utopia worthy of the most mediocre logic.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Caleb Colton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Caleb%20Colton.jpg" alt="Charles%20Caleb%20Colton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Life isn't like a book. Life isn't logical or sensible or orderly. Life is a mess most of the time. And theology must be lived in the midst of that mess.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Locke</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Locke.jpg" alt="John%20Locke">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Logic is the anatomy of thought.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ludwig Wittgenstein</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ludwig%20Wittgenstein.jpg" alt="Ludwig%20Wittgenstein">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The logic of the world is prior to all truth and falsehood.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">logike</span>, F. <span class="wUets">logique</span>, L. <span class="wUets">logica</span>, <span class="wUets">logice</span>, Gr. <span class="wUgrk">logikh`</span>sc. <span class="wUgrk">te`chnh</span>), fr. <span class="wUgrk">logiko`s</span> belonging to speaking or reason, fr. <span class="wUgrk">lo`gos</span> speech, reason, <span class="wUgrk">le`gein</span> to say, speak. See <span class="wUer">Legend</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr. <i>logikē</i>, from <i>logos</i>, speech.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Supplicated the President not to risk a step which logically must turn wrong.
+					</div>
+					<div class="uAuthor">
+						"Diary from March 4, 1861, to November 12, 1862" by <span>Adam Gurowski</span>					</div>
+										<div class="usage">
+						The devil and such logic had a charm for us once, but no more.
+					</div>
+					<div class="uAuthor">
+						"The Book of Khalid" by <span>Ameen Rihani</span>					</div>
+										<div class="usage">
+						Ask the student "doing" prescribed logic to explain the value of the course.
+					</div>
+					<div class="uAuthor">
+						"College Teaching" by <span>Paul Klapper</span>					</div>
+										<div class="usage">
+						Logical thinkers the world over have been led in consequence to ask: Are not women equally capable with men of self-government?
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume V"					</div>
+										<div class="usage">
+						A "just solution" is one that is logically correct.
+					</div>
+					<div class="uAuthor">
+						"Medical Investigation in Seventeenth Century England" by <span>Charles W. Bodemer</span>					</div>
+										<div class="usage">
+						The logic of evolution destroys the doctrine of the =fall of man= and its result in total depravity.
+					</div>
+					<div class="uAuthor">
+						"The Church, the Schools and Evolution" by <span>J. E. (Judson Eber) Conant</span>					</div>
+										<div class="usage">
+						Maccall does not see the utility of that very logic which compelled him to admit Spinoza's truth.
+					</div>
+					<div class="uAuthor">
+						"Ancient and Modern Celebrated Freethinkers" by <span>Charles Bradlaugh, A. Collins, and J. Watts</span>					</div>
+										<div class="usage">
+						But given the evidence before you, and your own powers of thought, and your judgment is a logical necessity.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						It does not seem to me good morals, and it is certainly poor logic.
+					</div>
+					<div class="uAuthor">
+						"Men, Women, and Gods" by <span>Helen H. Gardener</span>					</div>
+										<div class="usage">
+						We shall take them in their logical sequence for convenience of treatment.
+					</div>
+					<div class="uAuthor">
+						"Monophysitism Past and Present" by <span>A. A. Luce</span>					</div>
+										<div class="usage">
+						Therefore (it is true Hazlittian logic) no woman cares for sentiment.
+					</div>
+					<div class="uAuthor">
+						"Hours in a Library" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						It unites, in Teaching, considerations on Psychology as well as a Logical method.
+					</div>
+					<div class="uAuthor">
+						"Pedagogics as a System" by <span>Karl Rosenkranz</span>					</div>
+										<div class="usage">
+						Logic is the theory of Proof, and everything provable can be exhibited as a proposition, propositions alone being objects of belief.
+					</div>
+					<div class="uAuthor">
+						"Analysis of Mr. Mill's System of Logic" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						They have no logical connection with each other, either in arrangement or in the placing, to begin with.
+					</div>
+					<div class="uAuthor">
+						"The Painter in Oil" by <span>Daniel Burleigh Parkhurst</span>					</div>
+										<div class="usage">
+						There are plenty of striking episodes, but logic is lacking, not only the logic of life, but the logic of the theatre.
+					</div>
+					<div class="uAuthor">
+						"Ivory Apes and Peacocks" by <span>James Huneker</span>					</div>
+										<div class="usage">
+						I have again and again perceived his false logic, his weak metaphors, and his unsound expositions.
+					</div>
+					<div class="uAuthor">
+						"Talkers" by <span>John Bate</span>					</div>
+										<div class="usage">
+						He is not a "logic-grinder," like Mill, whom he despised.
+					</div>
+					<div class="uAuthor">
+						"German Problems and Personalities" by <span>Charles Sarolea</span>					</div>
+										<div class="usage">
+						Let the logic of the whole world go to the devil first!
+					</div>
+					<div class="uAuthor">
+						"Villa Eden:" by <span>Berthold Auerbach</span>					</div>
+										<div class="usage">
+						Hence Frederick's logical gratitude and respect.
+					</div>
+					<div class="uAuthor">
+						"H. R." by <span>Edwin Lefevre</span>					</div>
+										<div class="usage">
+						Not much need be said under this head, because whoever knows the common logic of the text-books knows the logic of Aristotle.
+					</div>
+					<div class="uAuthor">
+						"A Critical History of Greek Philosophy" by <span>W. T. Stace</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Though called by many different names,<br>
+Each one professed the noblest aims;<br>
+Should all be right, 'twas logical<br>
+That I should give my vote to all!
+							<div class="poet">"My Maiden Vote" by <span>Richard Le Gallienne</span></div>
+						</div>
+											<div class="poemQuote">
+							Some tell me, Tim, we shall not meet again,<br>
+But for their Loveless Logic need we care? --<br>
+If I should win to Heav'n's gate I know<br>
+You will be waiting there. 
+							<div class="poet">"To Tim -- An Irish Terrier" by <span>Winifred Mary Letts</span></div>
+						</div>
+											<div class="poemQuote">
+							(Yet though life's logic grow as gray<br>
+As thou, my soul's not in eclipse.)<br>
+Cold Cloud, but yesterday<br>
+Thy lightning slew a child at play,<br>
+And then a priest with prayers upon his lips
+							<div class="poet">"Individuality." by <span>Sidney Lanier</span></div>
+						</div>
+											<div class="poemQuote">
+							But alas for his peace and quiet,<br>
+One day, when he went it blind,<br>
+And followed his singular fancy,<br>
+And slighted his logical mind,<br>
+And married a ponderous widow that wasn't of the arguing kind!
+							<div class="poet">"Uncle Sammy" by <span>William McKendree Carleton</span></div>
+						</div>
+											<div class="poemQuote">
+							On the logic of Saxons there's little reliance,<br>
+And, rather from Saxons than gather its rules,<br>
+I'd stamp under feet the base book of his science,<br>
+And spit on his chair as he taught in the schools!
+							<div class="poet">"The Last Irish Grievance" by <span>William Makepeace Thackeray</span></div>
+						</div>
+											<div class="poemQuote">
+							Wonderful vehicle, you'll admit,<br>
+With not one flaw in the whole of it;<br>
+As long as I had it, I declare<br>
+I hadn't one cent to pay for repair,<br>
+It couldn't break down because, you see,<br>
+It was such a logical symphony.
+							<div class="poet">"The Twenty Hoss-Power Shay" by <span>Ellis Parker Butler</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Leaves logic gasping for breath.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/entertainment/movies/leaves_logic_gasping_for_breath_AxwBsdVF75ZyU26sKSxaLI" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						Newly designed thermoformer packaging machine with programmable logic controller, servo motors and drives, and I/O modules uses a Gigabit Ethernet bus network.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.plantengineering.com/media-library/case-studies/single-article/gigabit-ethernet-used-in-new-packaging-machine/da3c3f074a490ea69f8efeddd14279fc.html" target="_blank" rel="external nofollow">plantengineering.com</a>
+					</div>
+										<div class="usage">
+						David Armano also writes the popular Logic Emotion blog.
+					</div>
+					<div class="uAuthor">
+						<a href="http://adage.com/digitalnext/post?article_id=129615" target="_blank" rel="external nofollow">adage.com</a>
+					</div>
+										<div class="usage">
+						Airport Checkpoint Logic Still Defies Good Sense .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2008/11/11/business/11road.html?fta=y" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Airport Checkpoint Logic Still Defies Good Sense.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2008/11/11/business/11road.html?fta=y" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The San Francisco trio talks 'Internal Logic,' Spock and starting a label.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cmj.com/feature/qa-grass-widow/" target="_blank" rel="external nofollow">cmj.com</a>
+					</div>
+										<div class="usage">
+						Sometimes what looks like logic can take us down a road to ugly.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.nj.com/njv_kathleen_obrien/2009/01/keep_palins_obgyn_recodrs_priv.html" target="_blank" rel="external nofollow">blog.nj.com</a>
+					</div>
+										<div class="usage">
+						Last Wednesday, I sat and watched as the City Council went through one of those exercises in logic that have earned it a special place in our affections.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dotnews.com/columns/2011/city-council-s-half-measure-softens-our-voice-national-debate" target="_blank" rel="external nofollow">dotnews.com</a>
+					</div>
+										<div class="usage">
+						In many homes, the laundry room is the logical place for working on hobbies or storing recreational equipment, pet supplies, and nonperishable groceries.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bhg.com/pets/pet-craft-projects/a-hardworking-laundry/" target="_blank" rel="external nofollow">bhg.com</a>
+					</div>
+										<div class="usage">
+						The more extreme the doctrine, the firmer its reliance on what passes for logic and historical evidence.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1999/08/15/opinion/the-hateful-agenda-of-ignorance.html?ref=bufordojrfurrow" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						This Super Bowl ad recap by the Miller High Life Guy is well-taken: The ads were entertaining, but not always logical.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.adweek.com/adfreak/miller-high-life-guy-offers-super-bowl-recap-16331" target="_blank" rel="external nofollow">adweek.com</a>
+					</div>
+										<div class="usage">
+						Why people of the book have such trouble with language, truth and logic.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.economist.com/node/3518521" target="_blank" rel="external nofollow">economist.com</a>
+					</div>
+										<div class="usage">
+						Charles Krauthammer on the perverse logic of Attorney General Eric Holder.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/11/19/AR2009111903434.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						But when our heart's involved, it's hard to apply the same logic.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vibevixen.com/2012/06/top-10-comments-men-make-which-should-piss-women-off/" target="_blank" rel="external nofollow">vibevixen.com</a>
+					</div>
+										<div class="usage">
+						I propose, through semi-decent logic, that "La la Blues," written by Pokey , be the new Cardinals celebration song.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kdhx.org/music/news/letters-to-a-st-louis-musician-a-correspondence-with-pokey-lafarge-part-2" target="_blank" rel="external nofollow">kdhx.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Within this pro ject inductive deﬁnition logic (ID-logic) is used as representation logic. 
+					</div>
+					<div class="uAuthor">
+						SLDNFA-system
+					</div>
+										<div class="usage">
+						The semantics of ID-logic integrates classical logic semantics and well-founded semantics. 
+					</div>
+					<div class="uAuthor">
+						SLDNFA-system
+					</div>
+										<div class="usage">
+						An interpretation M is a model of an ID-logic theory T iff it is a total model of its classical logic sentences and of its deﬁnitions. 
+					</div>
+					<div class="uAuthor">
+						SLDNFA-system
+					</div>
+										<div class="usage">
+						Let us mention that all the three systems above are in fact well-known, classical so to say three-valued logics: h∧GNW , ∨GNW , ∼i is the logic of Lukasiewicz, h∧SAC , ∨SAC , ∼i is the logic of Soboci´nski, and h∧Sch , ∨Sch , ∼i is the logic of Bochvar. 
+					</div>
+					<div class="uAuthor">
+						The temporal calculus of conditional objects and conditional events
+					</div>
+										<div class="usage">
+						The logic would then assume the form of a propositional logic with multivalued temporal connectives and conditioning. 
+					</div>
+					<div class="uAuthor">
+						The temporal calculus of conditional objects and conditional events
+					</div>
+										<div class="usage">
+						Quantum Logics, as deﬁned by are such Logics but the orthogonal complement does not provide a proper negation. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						The results are straightforward translation from KLM and L-logics do not seem to behave in any better way with respect to connectives than C-logics. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						The reason it may be interesting is that Quantum Logics are not only C-logics but also L-logics. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						The ﬁner study of C-logics relies, as for monotonic logics, on the notions of a consistent set and of a theory. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						We may now show that propositional nonmonotonic logic is not weaker than (and therefore exactly the same as) monotonic logic. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						By Theorem 9 any operation C presented as a Quantum Logic is an L-logics, therefore a C-logics. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						Quantum Logics are nonmonotonic logics as noticed by Engesser and Gabbay, they are also very respectable nonmonotonic logics since they are L-logics. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						We think of nonmonotonic logic as sharing the normative character of other logics. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Defaults
+					</div>
+										<div class="usage">
+						Modal logic is an extension of classical logic with (generally) a new connective 2 and its derivable counterpart ♦, known as necessity and possibility respectively. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						In order to give meaning to 2 and ♦, models for modal logic are usually based on possibleworlds, which are essentially a collection of connected models for classical logic. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a system of reasoning"><a href="logical%20system.html">logical system</a>, <a href="system%20of%20logic.html">system of logic</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="common%20sense.html">common sense</a>, <a href="good%20sense.html">good sense</a>, <a href="gumption.html">gumption</a>, <a href="horse%20sense.html">horse sense</a>, <a href="mother%20wit.html">mother wit</a>, <a href="philosophy.html">philosophy</a>, <a href="principle.html">principle</a>, <a href="sense.html">sense</a>, <a href="system.html">system</a>, <a href="system%20of%20rules.html">system of rules</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="aristotelian%20logic.html">aristotelian logic</a>, <a href="formal%20logic.html">formal logic</a>, <a href="mathematical%20logic.html">mathematical logic</a>, <a href="modal%20logic.html">modal logic</a>, <a href="symbolic%20logic.html">symbolic logic</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="logician.html">logician</a>, <a href="logistician.html">logistician</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-ics.html">-ics</a>, <a href="A.html">A</a>, <a href="a%20priori.html">a priori</a>, <a href="abduction.html">abduction</a>, <a href="abstract.html">abstract</a>, <a href="absurd.html">absurd</a>, <a href="accident.html">accident</a>, <a href="adhere.html">adhere</a>, <a href="adherence.html">adherence</a>, <a href="adherent.html">adherent</a>, <a href="adjacent.html">adjacent</a>, <a href="affirmation.html">affirmation</a>, <a href="affirmative.html">affirmative</a>, <a href="aggregate.html">aggregate</a>, <a href="aggregation.html">aggregation</a>, <a href="agreement.html">agreement</a>, <a href="alethic%20logic.html">alethic logic</a>, <a href="Alethiology.html">Alethiology</a>, <a href="algorithmic.html">algorithmic</a>, <a href="all.html">all</a>, <a href="Ambitus.html">Ambitus</a>, <a href="amphibology.html">amphibology</a>, <a href="Amphibolous.html">Amphibolous</a>, <a href="amphiboly.html">amphiboly</a>, <a href="Ampliate.html">Ampliate</a>, <a href="Ampliation.html">Ampliation</a>, <a href="Ampliative.html">Ampliative</a>, <a href="amplification.html">amplification</a>, <a href="Analogism.html">Analogism</a>, <a href="analogous.html">analogous</a>, <a href="analogy.html">analogy</a>, <a href="analytic.html">analytic</a>, <a href="Analytics.html">Analytics</a>, <a href="Anicius%20Manlius%20Severinus%20Boethius.html">Anicius Manlius Severinus Boethius</a>, <a href="antecedent.html">antecedent</a>, <a href="Antepredicament.html">Antepredicament</a>, <a href="anticipation.html">anticipation</a>, <a href="Apagoge.html">Apagoge</a>, <a href="Aparithmesis.html">Aparithmesis</a>, <a href="apodictic.html">apodictic</a>, <a href="appellation.html">appellation</a>, <a href="architectonic.html">architectonic</a>, <a href="Aristotelian.html">Aristotelian</a>, <a href="Aristotelian%20logic.html">Aristotelian logic</a>, <a href="Aristotelianism.html">Aristotelianism</a>, <a href="art.html">art</a>, <a href="aspect.html">aspect</a>, <a href="assemblage.html">assemblage</a>, <a href="associate.html">associate</a>, <a href="Assumption.html">Assumption</a>, <a href="attribute.html">attribute</a>, <a href="attributive.html">attributive</a>, <a href="axiom.html">axiom</a>, <a href="axiomatical.html">axiomatical</a>, <a href="axiomatically.html">axiomatically</a>, <a href="bachelor.html">bachelor</a>, <a href="band.html">band</a>, <a href="Barbara.html">Barbara</a>, <a href="beg.html">beg</a>, <a href="biometry.html">biometry</a>, <a href="Bocardo.html">Bocardo</a>, <a href="Boethius.html">Boethius</a>, <a href="Boolean%20algebra.html">Boolean algebra</a>, <a href="Boolean%20logic.html">Boolean logic</a>, <a href="breadth.html">breadth</a>, <a href="Calculus%20of%20operations.html">Calculus of operations</a>, <a href="canon.html">canon</a>, <a href="canonic.html">canonic</a>, <a href="case.html">case</a>, <a href="categorem.html">categorem</a>, <a href="categorematic.html">categorematic</a>, <a href="categorical.html">categorical</a>, <a href="category.html">category</a>, <a href="centrality.html">centrality</a>, <a href="chair.html">chair</a>, <a href="circle.html">circle</a>, <a href="circuit.html">circuit</a>, <a href="climax.html">climax</a>, <a href="Coacervation.html">Coacervation</a>, <a href="coexistence.html">coexistence</a>, <a href="coextension.html">coextension</a>, <a href="coextensive.html">coextensive</a>, <a href="collection.html">collection</a>, <a href="colligation.html">colligation</a>, <a href="Communicability.html">Communicability</a>, <a href="community.html">community</a>, <a href="complementary.html">complementary</a>, <a href="completeness.html">completeness</a>, <a href="component.html">component</a>, <a href="comprehension.html">comprehension</a>, <a href="comprehensive.html">comprehensive</a>, <a href="concrete.html">concrete</a>, <a href="concretion.html">concretion</a>, <a href="concurrency.html">concurrency</a>, <a href="conditional.html">conditional</a>, <a href="confused.html">confused</a>, <a href="congruent.html">congruent</a>, <a href="conjugate.html">conjugate</a>, <a href="connote.html">connote</a>, <a href="Consecution.html">Consecution</a>, <a href="consequence.html">consequence</a>, <a href="consequent.html">consequent</a>, <a href="consistency.html">consistency</a>, <a href="content.html">content</a>, <a href="contradiction.html">contradiction</a>, <a href="contradiction%20in%20terms.html">contradiction in terms</a>, <a href="Contraposition.html">Contraposition</a>, <a href="contrary.html">contrary</a>, <a href="converse.html">converse</a>, <a href="conversion.html">conversion</a>, <a href="convert.html">convert</a>, <a href="Convertend.html">Convertend</a>, <a href="convertibility.html">convertibility</a>, <a href="convertible.html">convertible</a>, <a href="copula.html">copula</a>, <a href="copular.html">copular</a>, <a href="corollary.html">corollary</a>, <a href="crocodile.html">crocodile</a>, <a href="Crocodility.html">Crocodility</a>, <a href="cross.html">cross</a>, <a href="cross-division.html">cross-division</a>, <a href="D.html">D</a>, <a href="deduce.html">deduce</a>, <a href="deduction.html">deduction</a>, <a href="Deductive%20logic.html">Deductive logic</a>, <a href="deep.html">deep</a>, <a href="definitive.html">definitive</a>, <a href="deictic.html">deictic</a>, <a href="deontic%20logic.html">deontic logic</a>, <a href="depth.html">depth</a>, <a href="descent.html">descent</a>, <a href="Desitive.html">Desitive</a>, <a href="destructive.html">destructive</a>, <a href="determination.html">determination</a>, <a href="determine.html">determine</a>, <a href="dialect.html">dialect</a>, <a href="dialectic.html">dialectic</a>, <a href="dialectics.html">dialectics</a>, <a href="dianoetic.html">dianoetic</a>, <a href="dichotomy.html">dichotomy</a>, <a href="dictum.html">dictum</a>, <a href="differentia.html">differentia</a>, <a href="differentiate.html">differentiate</a>, <a href="differentiation.html">differentiation</a>, <a href="direct.html">direct</a>, <a href="discrete.html">discrete</a>, <a href="disjunction.html">disjunction</a>, <a href="disjunctive.html">disjunctive</a>, <a href="disorder.html">disorder</a>, <a href="distribute.html">distribute</a>, <a href="distribution.html">distribution</a>, <a href="distributive.html">distributive</a>, <a href="divide.html">divide</a>, <a href="division.html">division</a>, <a href="domain.html">domain</a>, <a href="doxastic%20logic.html">doxastic logic</a>, <a href="E.html">E</a>, <a href="eclectic.html">eclectic</a>, <a href="Elench.html">Elench</a>, <a href="end.html">end</a>, <a href="Enthymematic.html">Enthymematic</a>, <a href="Enthymeme.html">Enthymeme</a>, <a href="enumeration.html">enumeration</a>, <a href="Enunciable.html">Enunciable</a>, <a href="enunciation.html">enunciation</a>, <a href="Epichirema.html">Epichirema</a>, <a href="epicurean.html">epicurean</a>, <a href="epistemic%20logic.html">epistemic logic</a>, <a href="epistemology.html">epistemology</a>, <a href="Epitasis.html">Epitasis</a>, <a href="Equipollence.html">Equipollence</a>, <a href="Equipollent.html">Equipollent</a>, <a href="equivocation.html">equivocation</a>, <a href="ergo.html">ergo</a>, <a href="exclusion.html">exclusion</a>, <a href="exhaustion.html">exhaustion</a>, <a href="existence.html">existence</a>, <a href="explanandum.html">explanandum</a>, <a href="explanans.html">explanans</a>, <a href="explicandum.html">explicandum</a>, <a href="exposition.html">exposition</a>, <a href="expository.html">expository</a>, <a href="extension.html">extension</a>, <a href="Extralogical.html">Extralogical</a>, <a href="extraordinary.html">extraordinary</a>, <a href="extreme.html">extreme</a>, <a href="figure.html">figure</a>, <a href="flabby.html">flabby</a>, <a href="formal%20logic.html">formal logic</a>, <a href="formalism.html">formalism</a>, <a href="functional%20calculus.html">functional calculus</a>, <a href="fuzzy%20logic.html">fuzzy logic</a>, <a href="general.html">general</a>, <a href="generalization.html">generalization</a>, <a href="genus.html">genus</a>, <a href="graph.html">graph</a>, <a href="habit.html">habit</a>, <a href="halt.html">halt</a>, <a href="Hegelianism.html">Hegelianism</a>, <a href="heuristic.html">heuristic</a>, <a href="hiatus.html">hiatus</a>, <a href="Hobbism.html">Hobbism</a>, <a href="humanism.html">humanism</a>, <a href="I.html">I</a>, <a href="IC.html">IC</a>, <a href="ical.html">ical</a>, <a href="icon.html">icon</a>, <a href="If.html">If</a>, <a href="illogical.html">illogical</a>, <a href="illogicality.html">illogicality</a>, <a href="imply.html">imply</a>, <a href="include.html">include</a>, <a href="indefinite.html">indefinite</a>, <a href="index.html">index</a>, <a href="individualism.html">individualism</a>, <a href="induction.html">induction</a>, <a href="inductive.html">inductive</a>, <a href="Inductive%20logic.html">Inductive logic</a>, <a href="inexorable.html">inexorable</a>, <a href="infer.html">infer</a>, <a href="inferiority.html">inferiority</a>, <a href="Infinitant.html">Infinitant</a>, <a href="Infinitate.html">Infinitate</a>, <a href="infinite.html">infinite</a>, <a href="infinitesimal.html">infinitesimal</a>, <a href="information.html">information</a>, <a href="intension.html">intension</a>, <a href="intention.html">intention</a>, <a href="interchangeable.html">interchangeable</a>, <a href="intersection.html">intersection</a>, <a href="interval.html">interval</a>, <a href="intransitivity.html">intransitivity</a>, <a href="inverse.html">inverse</a>, <a href="irrational%20motive.html">irrational motive</a>, <a href="Kantianism.html">Kantianism</a>, <a href="ladder.html">ladder</a>, <a href="law.html">law</a>, <a href="lemma.html">lemma</a>, <a href="logic%20diagram.html">logic diagram</a>, <a href="logic%20element.html">logic element</a>, <a href="logic%20operation.html">logic operation</a>, <a href="logical.html">logical</a>, <a href="logical%20diagram.html">logical diagram</a>, <a href="logical%20operation.html">logical operation</a>, <a href="logical%20quantifier.html">logical quantifier</a>, <a href="logician.html">logician</a>, <a href="logicism.html">logicism</a>, <a href="Logics.html">Logics</a>, <a href="logistician.html">logistician</a>, <a href="low.html">low</a>, <a href="Ludwig%20Josef%20Johan%20Wittgenstein.html">Ludwig Josef Johan Wittgenstein</a>, <a href="Ludwig%20Wittgenstein.html">Ludwig Wittgenstein</a>, <a href="M.html">M</a>, <a href="Major.html">Major</a>, <a href="mark.html">mark</a>, <a href="Material%20logic.html">Material logic</a>, <a href="math.html">math</a>, <a href="mathematics.html">mathematics</a>, <a href="maths.html">maths</a>, <a href="Maxim.html">Maxim</a>, <a href="mean.html">mean</a>, <a href="medium.html">medium</a>, <a href="Metalogical.html">Metalogical</a>, <a href="metathesis.html">metathesis</a>, <a href="method.html">method</a>, <a href="methodology.html">methodology</a>, <a href="middle.html">middle</a>, <a href="minor.html">minor</a>, <a href="modal%20logic.html">modal logic</a>, <a href="mode.html">mode</a>, <a href="mood.html">mood</a>, <a href="NAND%20circuit.html">NAND circuit</a>, <a href="NAND%20gate.html">NAND gate</a>, <a href="Natural%20logic.html">Natural logic</a>, <a href="negation.html">negation</a>, <a href="non%20sequitur.html">non sequitur</a>, <a href="notation.html">notation</a>, <a href="note.html">note</a>, <a href="null.html">null</a>, <a href="O.html">O</a>, <a href="obligation.html">obligation</a>, <a href="obscure.html">obscure</a>, <a href="obverse.html">obverse</a>, <a href="Obversion.html">Obversion</a>, <a href="Obvert.html">Obvert</a>, <a href="Occamism.html">Occamism</a>, <a href="opposite.html">opposite</a>, <a href="opposition.html">opposition</a>, <a href="organon.html">organon</a>, <a href="Overlogical.html">Overlogical</a>, <a href="paradox.html">paradox</a>, <a href="paralogism.html">paralogism</a>, <a href="parity.html">parity</a>, <a href="particular.html">particular</a>, <a href="particular%20proposition.html">particular proposition</a>, <a href="partition.html">partition</a>, <a href="peripateticism.html">peripateticism</a>, <a href="Physicologic.html">Physicologic</a>, <a href="posit.html">posit</a>, <a href="postulate.html">postulate</a>, <a href="postulation.html">postulation</a>, <a href="Precisive.html">Precisive</a>, <a href="predicate.html">predicate</a>, <a href="predicate%20calculus.html">predicate calculus</a>, <a href="predication.html">predication</a>, <a href="probability.html">probability</a>, <a href="proposition.html">proposition</a>, <a href="propositional%20calculus.html">propositional calculus</a>, <a href="propositional%20logic.html">propositional logic</a>, <a href="Pure%20science.html">Pure science</a>, <a href="quadrivium.html">quadrivium</a>, <a href="quality.html">quality</a>, <a href="Quantification%20of%20the%20predicate.html">Quantification of the predicate</a>, <a href="quantifier.html">quantifier</a>, <a href="Ramism.html">Ramism</a>, <a href="rationalise.html">rationalise</a>, <a href="rationality.html">rationality</a>, <a href="rationalize.html">rationalize</a>, <a href="rationalness.html">rationalness</a>, <a href="Redecraft.html">Redecraft</a>, <a href="refinement.html">refinement</a>, <a href="reflexiveness.html">reflexiveness</a>, <a href="reflexivity.html">reflexivity</a>, <a href="run-time%20error.html">run-time error</a>, <a href="runtime%20error.html">runtime error</a>, <a href="school.html">school</a>, <a href="semantic%20error.html">semantic error</a>, <a href="Significate.html">Significate</a>, <a href="some.html">some</a>, <a href="sophistry.html">sophistry</a>, <a href="subject.html">subject</a>, <a href="symbolic%20logician.html">symbolic logician</a>, <a href="tautology.html">tautology</a>, <a href="The%20seven%20liberal%20sciences.html">The seven liberal sciences</a>, <a href="threshold%20element.html">threshold element</a>, <a href="threshold%20gate.html">threshold gate</a>, <a href="topic.html">topic</a>, <a href="transitivity.html">transitivity</a>, <a href="trivium.html">trivium</a>, <a href="universal.html">universal</a>, <a href="universal%20proposition.html">universal proposition</a>, <a href="valid.html">valid</a>, <a href="Witcraft.html">Witcraft</a>, <a href="Wittgenstein.html">Wittgenstein</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					kogic, oogic, pogic, ligic, lkgic, llgic, lpgic, lofic, lotic, lohic, lobic, lovic, loguc, logjc, logkc, logoc, logix, logid, logif, logiv
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,574 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>estimation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">a judgment of the qualities of something or somebody</span> <span class="quot">"many factors are involved in any estimate of human life","in my estimation the boy is innocent"</span></li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">an approximate calculation of quantity or degree or worth</span> <span class="quot">"an estimate of what it would cost","a rough idea how long it would take"</span></li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">the respect with which a person is held</span> <span class="quot">"they had a high estimation of his ability"</span></li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">a document appraising the value of something (as for insurance or taxation)</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										An estimated 690 million people live in Africa									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Estimation</span> <span class="exp">An opinion or judgment of the worth, extent, or quantity of anything, formed without using precise data; valuation; as, <span class="wUex">estimations</span> of distance, magnitude, amount, or moral qualities.</span> <span class="wuQuot">"If he be poorer that thy estimation , then he shall present himself before the priest, and the priest, and the priest shall value him."</span></li><li><span class="term">Estimation</span> <span class="exp">Favorable opinion; esteem; regard; honor.</span> <span class="wuQuot">"I shall have estimation among multitude, and honor with the elders."</span></li><li><span class="term">Estimation</span> <span class="exp">Supposition; conjecture.</span> <span class="wuQuot">"I speak not this in estimation ,<br>
+As what I think might be, but what I know."</span></li><li><span class="term">Estimation</span> <span class="exp">The act of estimating.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										On average, it is estimated that females injure themselves ten time more than males do while playing sports
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">The act of estimating; the act of judging something with respect to value, degree, quantity, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">Calculation; computation; especially, an approximate calculation of the worth, extent, quantity, etc., of something; an estimate: as, an estimation of distance, magnitude, or amount, of moral qualities, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">In chem., the process of ascertaining by analysis the quantity of a given substance contained in a compound or mixture.</span> </li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">Opinion or judgment in general; especially, favorable opinion held concerning one by others; esteem; regard; honor.</span> </li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">Conjecture; supposition; surmise.</span> </li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">Synonyms Appraisement, valuation.</span> </li><li><span class="tSpeech">n</span> <span class="term">estimation</span> <span class="exp">Estimate, Regard, etc. (see esteem); admiration, reverence, veneration.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In July 1874, a swarm of Rocky Mountain locusts flew over Nebraska covering an area estimated at 198,600 square miles. It is estimated that the swarm contained about 12.5 trillion insects. These insects became extinct thirty years later
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Estimation</span> <span class="exp">act of estimating: a reckoning of value: esteem, honour: importance: conjecture</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Friedrich Von Schiller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Friedrich%20Von%20Schiller.jpg" alt="Johann%20Friedrich%20Von%20Schiller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The average estimate themselves by what they do, the above average by what they are.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George William Curtis</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George William Curtis">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The test of civilization is its estimate of women.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Blaise Pascal</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Blaise%20Pascal.jpg" alt="Blaise%20Pascal">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ugly deeds are most estimable when hidden.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Ford</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Ford.jpg" alt="Henry%20Ford">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The best we can do is size up the chances, calculate the risks involved, estimate our ability to deal with them, and then make our plans with confidence.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We estimate the wisdom of nations by seeing what they did with their surplus capital.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Fred A. Allen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Fred%20A.%20Allen.jpg" alt="Fred%20A.%20Allen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Life, in my estimation, is a biological misadventure that we terminate on the shoulders of six strange men whose only objective is to make a hole in one with you.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">aestimatio</span>, fr. <span class="wUets">aestimare</span>,: cf. F. <span class="wUets">estimation</span>,. See <span class="wUer">Esteem</span> (v. t.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>estimer</i>—L. <i>æstimāre</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Of his own character as a man of letters, he had evidently formed a high estimate.
+					</div>
+					<div class="uAuthor">
+						"The Modern Scottish Minstrel, Volumes I-VI." by <span>Various</span>					</div>
+										<div class="usage">
+						Nor are the fisheries to be neglected, in any right estimate of the natural resources of that region.
+					</div>
+					<div class="uAuthor">
+						"Old Mackinaw" by <span>W. P. Strickland</span>					</div>
+										<div class="usage">
+						Estimate of this Distinguished Statesman.
+					</div>
+					<div class="uAuthor">
+						"Memoirs of the Court of George IV. 1820-1830 (Vol 1)" by <span>Duke of Buckingham and Chandos</span>					</div>
+										<div class="usage">
+						Southern Estimate of McClellan.
+					</div>
+					<div class="uAuthor">
+						"Four Years in Rebel Capitals" by <span>T. C. DeLeon</span>					</div>
+										<div class="usage">
+						Ten miles will be completely finished this season, and all within the estimate.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						Some have estimated the yield still higher.
+					</div>
+					<div class="uAuthor">
+						"Cattle and Their Diseases" by <span>Robert Jennings</span>					</div>
+										<div class="usage">
+						Estimate of Loss to Seal Herd.
+					</div>
+					<div class="uAuthor">
+						"History of the United States, Volume 5" by <span>E. Benjamin Andrews</span>					</div>
+										<div class="usage">
+						The seal of disapprobation must for ever rest upon him in the estimation of the honest, well-meaning portion of the community.
+					</div>
+					<div class="uAuthor">
+						"Diary in America, Series Two" by <span>Frederick Marryat (AKA Captain Marryat)</span>					</div>
+										<div class="usage">
+						Money comes slowly to farmers, and a cash estimate looks larger to them than an estimate in labor.
+					</div>
+					<div class="uAuthor">
+						"Farm drainage" by <span>Henry Flagg French</span>					</div>
+										<div class="usage">
+						Thus Shakespeare drew from the Globe Theatre, at the lowest estimate, more than 500 pounds a year in all.
+					</div>
+					<div class="uAuthor">
+						"A Life of William Shakespeare with portraits and facsimiles" by <span>Sidney Lee</span>					</div>
+										<div class="usage">
+						Far larger than might have been supposed; and Steve estimated it at something like thirty feet long by twenty wide.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Unaga" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						Estimates and examples to show the folly of credit.
+					</div>
+					<div class="uAuthor">
+						"The Young Man's Guide" by <span>William A. Alcott</span>					</div>
+										<div class="usage">
+						His matrimonial unhappiness and estimate of women.
+					</div>
+					<div class="uAuthor">
+						"Woman's Club Work and Programs" by <span>Caroline French Benton</span>					</div>
+										<div class="usage">
+						This village was large; Font estimated the population as 400 persons and Anza as 500.
+					</div>
+					<div class="uAuthor">
+						"The Aboriginal Population of Alameda and Contra Costa Counties, California" by <span>S. F. Cook</span>					</div>
+										<div class="usage">
+						The Government had estimated that the reduction would involve a loss to the revenue of some 15 millions for the first year.
+					</div>
+					<div class="uAuthor">
+						"The Development of Rates of Postage" by <span>A. D. Smith</span>					</div>
+										<div class="usage">
+						The Turks suffered heavily in killed and wounded, the killed alone being estimated at about 1,000.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume VII (of VIII)" by <span>Various</span>					</div>
+										<div class="usage">
+						In 1669 the lava spread over the country for forty days, and 10,000 persons are estimated to have perished.
+					</div>
+					<div class="uAuthor">
+						"The New Gresham Encyclopedia" by <span>Various</span>					</div>
+										<div class="usage">
+						The economic importance of soil conservation is so great that it can scarcely be estimated.
+					</div>
+					<div class="uAuthor">
+						"Proceedings of the Second National Conservation Congress" by <span>Various</span>					</div>
+										<div class="usage">
+						The first estimate of expenditures for the county was for 1842, and amounted to $482.
+					</div>
+					<div class="uAuthor">
+						"Fifty Years In The Northwest" by <span>William Henry Carman Folsom</span>					</div>
+										<div class="usage">
+						Various estimates have been made from time to time, ranging from 25,000 to 100,000.
+					</div>
+					<div class="uAuthor">
+						"Commercialized Prostitution in New York City" by <span>George Jackson Kneeland</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							In short, to be exact and blunt,<br>
+In his own estimation<br>
+He's "out and out" the head and front<br>
+Top-sawyer of creation!
+							<div class="poet">"Billy Vickers" by <span>Henry Kendall</span></div>
+						</div>
+											<div class="poemQuote">
+							Thought is the mind's swift messenger,<br>
+Affection gives it birth;<br>
+She only values such a gift,<br>
+And estimates its worth.
+							<div class="poet">"Address To Emma, On Her Departure For The Country" by <span>Elizabeth Bath</span></div>
+						</div>
+											<div class="poemQuote">
+							Was he not just? Was any wronged<br>
+By that assured self-estimate?<br>
+He took but what to him belonged,<br>
+Unenvious of another's state.
+							<div class="poet">"Sumner" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							You know, I try, when darkness falls,<br>
+to estimate to some degree —<br>
+by marking off the grief in miles —<br>
+the distance now from you to me.
+							<div class="poet">"For Schoolchildren" by <span>Joseph Brodsky</span></div>
+						</div>
+											<div class="poemQuote">
+							"I feel for you, poor boy, acutely;<br>
+I would not wish to give you pain;<br>
+Your pangs I estimate minutely, -<br>
+I, too, have loved, and loved in vain.
+							<div class="poet">"Little Oliver" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							Then by the rule that made the horsetail bare,<br>
+I pluck out year by year, as hair by hair,<br>
+And melt down ancients like a heap of snow:<br>
+While you, to measure merits, look in Stowe,<br>
+And estimating authors by the year,<br>
+Bestow a garland only on a bier.
+							<div class="poet">"Imitations of Horace: The First Epistle of the Second Book" by <span>Alexander Pope</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						NEW YORK (AP) — JPMorgan Chase said Friday that a bad trade had cost the bank $5.8 billion this year, almost triple its original estimate, and raised the prospect that traders had improperly tried to conceal the blunder.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.news-gazette.com/news/business/banking/2012-07-13/jpmorgan-says-bad-trade-has-ballooned-58-billion.html" target="_blank" rel="external nofollow">news-gazette.com</a>
+					</div>
+										<div class="usage">
+						An estimated crowd of 100,000.
+					</div>
+					<div class="uAuthor">
+						<a href="http://943thepoint.com/the-best-moment-at-the-bamboozle-music-festival-video/" target="_blank" rel="external nofollow">943thepoint.com</a>
+					</div>
+										<div class="usage">
+						That estimate is in a required report to the state Department of Environmental Quality about the spill of naphtha, which contains benzene .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/traffic/index.ssf/2012/06/benzene_spill_at_exxonmobile_i.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						The parade before an estimated 400,000 fans.
+					</div>
+					<div class="uAuthor">
+						<a href="http://tricountysentry.com/blog/lebrons-goal-i-want-to-be-the-best-of-all-time/" target="_blank" rel="external nofollow">tricountysentry.com</a>
+					</div>
+										<div class="usage">
+						This Sunday there will be an estimated $75 million wagered on the Super Bowl via legal sports books in Nevada.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.laweekly.com/2004-01-29/news/the-bettor-s-bible/" target="_blank" rel="external nofollow">laweekly.com</a>
+					</div>
+										<div class="usage">
+						The UN estimates the world's population will reach 8 billion by 2025 and 10 billion by 2083.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/news/world/story/2011-10-31/seven-billion-population-babies/51011382/1" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Recent estimates say it costs upwards of a quarter of a million dollars to raise a child to adulthood, and it seems many people have taken those numbers to heart: a new survey indicates the American birthrate is at is lowest point since 1987.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wcrz.com/economic-woes-drive-us-birthrate-to-its-lowest-in-25-years-dollars-and-sense/" target="_blank" rel="external nofollow">wcrz.com</a>
+					</div>
+										<div class="usage">
+						The council voted to purchase 120 feet of angle line bleacher frames, estimated to seat 1,000 people, from Craighead County Fairgrounds at a cost of $3,500.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thetown-crier.com/story/1861638.html" target="_blank" rel="external nofollow">thetown-crier.com</a>
+					</div>
+										<div class="usage">
+						The candidate's estimated 250 million dollars will be administered by federal officials on his behalf if he becomes President.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Latest-News-Wires/2012/0607/If-elected-Romney-millions-will-go-in-blind-trust" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Friday estimates put fifth 'Twilight' on pace to $135 million weekend.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.variety.com/article/VR1118062344" target="_blank" rel="external nofollow">variety.com</a>
+					</div>
+										<div class="usage">
+						In the United States, an estimated 1.1 million people are HIV positive or have AIDS, yet one-fifth of them don't know it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/spotnews/2010/12/southeast_has_highest_aids_dea.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						An estimated 7 million Americans experience delirium at the hospital every year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wndu.com/mmm/headlines/Tips_on_tackling_hospital-induced_delirium_144256245.html" target="_blank" rel="external nofollow">wndu.com</a>
+					</div>
+										<div class="usage">
+						He was left with a broken gate, and a hefty repair estimate, after a FedEx truck backed into it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winknews.com/Local-Florida/2012-10-11/Delivery-truck-backs-into-gate-man-wants-repair" target="_blank" rel="external nofollow">winknews.com</a>
+					</div>
+										<div class="usage">
+						He has the estimates, but tells us, he's having trouble getting it fixed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winknews.com/Local-Florida/2012-10-11/Delivery-truck-backs-into-gate-man-wants-repair" target="_blank" rel="external nofollow">winknews.com</a>
+					</div>
+										<div class="usage">
+						In your Barclays guide, according to Hil Easy, an estimated 30,000 people visiting the tournament will generate 10,000 guests a night in Jersey City hotels and 3.5 million to the city's private sector.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/hudson/voices/index.ssf/2009/09/delusional_numbers.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Estimating the model parameters using a different numbers of basis functions in the approximation can possibly give biased estimates, as the parameters are estimated to maximize the likelihood for the approximate model instead of the exact SPDE. 
+					</div>
+					<div class="uAuthor">
+						Spatial Mat\'ern fields driven by non-Gaussian noise
+					</div>
+										<div class="usage">
+						Variance of the naive simulation estimator is estimated to equal ˆγ (1 − ˆγ ), where ˆγ denotes the estimate of the probability P{Sn &gt; na} obtained using the proposed importance sampling algorithm. 
+					</div>
+					<div class="uAuthor">
+						State-independent importance sampling for regularly varying random walks
+					</div>
+										<div class="usage">
+						If J progressively increases, → under(over)estimates and ← over(under)-estimates the size of the positive slope, whereas if J progressively decreases, → under(over)-estimates and ← over(under)-estimates the size of the negative slope. 
+					</div>
+					<div class="uAuthor">
+						Radiation Energy-Balance Method for Calculating the Time Evolution of Type Ia Supernovae During the Post-Explosion Phase
+					</div>
+										<div class="usage">
+						As a matter of fact, since the upper estimates (4.3) also hold for the complex case (because these estimates are clearly bigger than the best known estimates for the complex case (see )) our whole procedure encompasses both the real and complex cases. 
+					</div>
+					<div class="uAuthor">
+						There exist multilinear Bohnenblust-Hille constants $(C_{n})_{n=1}^{\infty}$ with $\displaystyle \lim_{n\rightarrow \infty}(C_{n+1}-C_{n}) =0.$
+					</div>
+										<div class="usage">
+						Formal Definition The use of context information can help increase the estimation accuracy of MAP estimation . MAP estimation works as follows. Assumes g takes value from a finite set {g1, g2, …, gk}. 
+					</div>
+					<div class="uAuthor">
+						Practical Context Awareness: Measuring and Utilizing the Context Dependency of Mobile Usage
+					</div>
+										<div class="usage">
+						Given a particular estimation task and a noise model, the Bayesian estimator is the best estimator for the task, minimizing a well-deﬁned cost function (see ). 
+					</div>
+					<div class="uAuthor">
+						Dynamic State Estimation Based on Poisson Spike Trains: Towards a Theory of Optimal Encoding
+					</div>
+										<div class="usage">
+						Figure 2 shows the boxplots of our estimator and Adelman and Enriquez’s estimator obtained from 1 000 iterations of the procedures in the two Examples I and III, while Figure 3 only displays these boxplots for our estimator in Example II. 
+					</div>
+					<div class="uAuthor">
+						Maximum likelihood estimator consistency for ballistic random walk in a parametric random environment
+					</div>
+										<div class="usage">
+						Although our analysis has clear extensions to Bayesian estimation, we proceed mainly in the context of maximum likelihood estimation and of generalized method of moments. estimator, denoted bθ(g), is the θ that maximizes Pθ (g). 
+					</div>
+					<div class="uAuthor">
+						Tractable and Consistent Random Graph Models
+					</div>
+										<div class="usage">
+						We ﬁt a simple model using a standard ERGM estimation software (statnet via R) and estimate the following over 25 different runs on the same ﬁxed network: Figure 1 illustrates the potential instability associated with ERGM estimation using MCMC techniques. 
+					</div>
+					<div class="uAuthor">
+						Tractable and Consistent Random Graph Models
+					</div>
+										<div class="usage">
+						Even if an estimate provides for nontrivial standard errors on the estimates, a reliable algorithm should reproduce nearly the same estimates off of identical data when replicated. 
+					</div>
+					<div class="uAuthor">
+						Tractable and Consistent Random Graph Models
+					</div>
+										<div class="usage">
+						The next issue that we address is the consistency of estimation of SERGMs: Under what conditions does an estimator of a SERGM converge to the correct estimate in probability? To our knowledge there are no results on consistency of ERGM estimators. 
+					</div>
+					<div class="uAuthor">
+						Tractable and Consistent Random Graph Models
+					</div>
+										<div class="usage">
+						First, this method does not require knowing or estimating the ﬁxed effects vector β , so it is easy to implement, and the estimation error of β has no impact on the estimation of γ . 
+					</div>
+					<div class="uAuthor">
+						Variable selection in linear mixed effects models
+					</div>
+										<div class="usage">
+						The estimation results are listed in Table 3 with rows “Fixed” showing the estimated βj ’s for ﬁxed effects, and rows “Random” showing the estimates γ·k /√N . 
+					</div>
+					<div class="uAuthor">
+						Variable selection in linear mixed effects models
+					</div>
+										<div class="usage">
+						This is because in frequentist estimation the minimal property for estimators is not admissibility but consistency, on the basis of which both of these estimators will be excluded from consideration. 
+					</div>
+					<div class="uAuthor">
+						Why the Decision Theoretic Perspective Misrepresents Frequentist Inference: 'Nuts and Bolts' vs. Learning from Data
+					</div>
+										<div class="usage">
+						This is the estimator that overall best conforms with the supposedly most accurate estimation (II:KG.b). (III:α.b: +) The dimension can be obtained also by ﬁrst estimating the uncertainty exponent by ﬁtting the scaling line Nb (ε)/N0 (ε) and then applying relation (19). 
+					</div>
+					<div class="uAuthor">
+						Stochastic perturbations in open chaotic systems: random versus noisy maps
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an approximate calculation of quantity or degree or worth"><a href="approximation.html">approximation</a>, <a href="idea.html">idea</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="assessment.html">assessment</a>, <a href="calculation.html">calculation</a>, <a href="commercial%20document.html">commercial document</a>, <a href="commercial%20instrument.html">commercial instrument</a>, <a href="computation.html">computation</a>, <a href="esteem.html">esteem</a>, <a href="figuring.html">figuring</a>, <a href="judgement.html">judgement</a>, <a href="judgment.html">judgment</a>, <a href="reckoning.html">reckoning</a>, <a href="regard.html">regard</a>, <a href="respect.html">respect</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="appraisal.html">appraisal</a>, <a href="capitalisation.html">capitalisation</a>, <a href="capitalization.html">capitalization</a>, <a href="credit.html">credit</a>, <a href="credit%20rating.html">credit rating</a>, <a href="dead%20reckoning.html">dead reckoning</a>, <a href="guess.html">guess</a>, <a href="guessing.html">guessing</a>, <a href="guesstimate.html">guesstimate</a>, <a href="guesswork.html">guesswork</a>, <a href="guestimate.html">guestimate</a>, <a href="overappraisal.html">overappraisal</a>, <a href="overestimate.html">overestimate</a>, <a href="overestimation.html">overestimation</a>, <a href="overrating.html">overrating</a>, <a href="overreckoning.html">overreckoning</a>, <a href="overvaluation.html">overvaluation</a>, <a href="report.html">report</a>, <a href="reputation.html">reputation</a>, <a href="scalage.html">scalage</a>, <a href="shot.html">shot</a>, <a href="underestimate.html">underestimate</a>, <a href="underestimation.html">underestimation</a>, <a href="underrating.html">underrating</a>, <a href="underreckoning.html">underreckoning</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="estimate.html">estimate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abase.html">abase</a>, <a href="abate.html">abate</a>, <a href="abject.html">abject</a>, <a href="account.html">account</a>, <a href="apercu.html">apercu</a>, <a href="appraisal.html">appraisal</a>, <a href="Appraisement.html">Appraisement</a>, <a href="appreciable.html">appreciable</a>, <a href="appreciation.html">appreciation</a>, <a href="arrogance.html">arrogance</a>, <a href="arrogant.html">arrogant</a>, <a href="avail.html">avail</a>, <a href="base.html">base</a>, <a href="bate.html">bate</a>, <a href="Bezoar.html">Bezoar</a>, <a href="calculable.html">calculable</a>, <a href="capitalisation.html">capitalisation</a>, <a href="capitalization.html">capitalization</a>, <a href="Cess.html">Cess</a>, <a href="Chank.html">Chank</a>, <a href="chief.html">chief</a>, <a href="classical.html">classical</a>, <a href="conceit.html">conceit</a>, <a href="count.html">count</a>, <a href="countenance.html">countenance</a>, <a href="credit.html">credit</a>, <a href="Creditableness.html">Creditableness</a>, <a href="currency.html">currency</a>, <a href="current.html">current</a>, <a href="dainty.html">dainty</a>, <a href="Dead-reckoning.html">Dead-reckoning</a>, <a href="debaser.html">debaser</a>, <a href="decry.html">decry</a>, <a href="deem.html">deem</a>, <a href="degradation.html">degradation</a>, <a href="degrade.html">degrade</a>, <a href="depreciate.html">depreciate</a>, <a href="depress.html">depress</a>, <a href="Deprisure.html">Deprisure</a>, <a href="derogate.html">derogate</a>, <a href="derogation.html">derogation</a>, <a href="derogatory.html">derogatory</a>, <a href="detraction.html">detraction</a>, <a href="detractive.html">detractive</a>, <a href="dignity.html">dignity</a>, <a href="diminish.html">diminish</a>, <a href="diminution.html">diminution</a>, <a href="disable.html">disable</a>, <a href="disesteem.html">disesteem</a>, <a href="disgrace.html">disgrace</a>, <a href="disparage.html">disparage</a>, <a href="disparagement.html">disparagement</a>, <a href="distinction.html">distinction</a>, <a href="Dog-cheap.html">Dog-cheap</a>, <a href="Embase.html">Embase</a>, <a href="eminent.html">eminent</a>, <a href="emulation.html">emulation</a>, <a href="esteem.html">esteem</a>, <a href="estimate.html">estimate</a>, <a href="exalt.html">exalt</a>, <a href="Existimation.html">Existimation</a>, <a href="extenuate.html">extenuate</a>, <a href="extenuation.html">extenuation</a>, <a href="fall.html">fall</a>, <a href="fame.html">fame</a>, <a href="figure.html">figure</a>, <a href="first.html">first</a>, <a href="first-rate.html">first-rate</a>, <a href="gage.html">gage</a>, <a href="greatness.html">greatness</a>, <a href="Grow%20on.html">Grow on</a>, <a href="have.html">have</a>, <a href="high.html">high</a>, <a href="honor.html">honor</a>, <a href="honour.html">honour</a>, <a href="humiliate.html">humiliate</a>, <a href="improve.html">improve</a>, <a href="In%20the%20eyes%20of.html">In the eyes of</a>, <a href="Indefinitude.html">Indefinitude</a>, <a href="Inestimably.html">Inestimably</a>, <a href="invaluable.html">invaluable</a>, <a href="lift.html">lift</a>, <a href="look.html">look</a>, <a href="low%20status.html">low status</a>, <a href="lower.html">lower</a>, <a href="lowliness.html">lowliness</a>, <a href="lowness.html">lowness</a>, <a href="market%20capitalisation.html">market capitalisation</a>, <a href="market%20capitalization.html">market capitalization</a>, <a href="mean.html">mean</a>, <a href="measure.html">measure</a>, <a href="Meteoromancy.html">Meteoromancy</a>, <a href="Miscompute.html">Miscompute</a>, <a href="Misrepute.html">Misrepute</a>, <a href="name.html">name</a>, <a href="niche.html">niche</a>, <a href="nonparametric.html">nonparametric</a>, <a href="odour.html">odour</a>, <a href="opinion.html">opinion</a>, <a href="pass.html">pass</a>, <a href="praise.html">praise</a>, <a href="Pre%C3%ABxistimation.html">Preëxistimation</a>, <a href="prefer.html">prefer</a>, <a href="preference.html">preference</a>, <a href="price.html">price</a>, <a href="prize.html">prize</a>, <a href="Putation.html">Putation</a>, <a href="raise.html">raise</a>, <a href="rank.html">rank</a>, <a href="rate.html">rate</a>, <a href="reckon.html">reckon</a>, <a href="reckoning.html">reckoning</a>, <a href="regard.html">regard</a>, <a href="report.html">report</a>, <a href="reputation.html">reputation</a>, <a href="reputedly.html">reputedly</a>, <a href="request.html">request</a>, <a href="respect.html">respect</a>, <a href="respectfully.html">respectfully</a>, <a href="Revere.html">Revere</a>, <a href="scalage.html">scalage</a>, <a href="scaling.html">scaling</a>, <a href="second-rate.html">second-rate</a>, <a href="self-righteous.html">self-righteous</a>, <a href="shame.html">shame</a>, <a href="siege.html">siege</a>, <a href="sight.html">sight</a>, <a href="sink.html">sink</a>, <a href="Steinberger.html">Steinberger</a>, <a href="tale.html">tale</a>, <a href="The%20five%20wits.html">The five wits</a>, <a href="thermometry.html">thermometry</a>, <a href="To%20make%20account%20of.html">To make account of</a>, <a href="underestimate.html">underestimate</a>, <a href="underestimation.html">underestimation</a>, <a href="Underproof.html">Underproof</a>, <a href="underrating.html">underrating</a>, <a href="underreckoning.html">underreckoning</a>, <a href="undervalue.html">undervalue</a>, <a href="Unprizable.html">Unprizable</a>, <a href="Urinometry.html">Urinometry</a>, <a href="valuation.html">valuation</a>, <a href="value.html">value</a>, <a href="vogue.html">vogue</a>, <a href="with.html">with</a>, <a href="write.html">write</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wstimation, sstimation, dstimation, rstimation, eatimation, ewtimation, edtimation, extimation, eztimation, eatimation, esrimation, esfimation, esgimation, esyimation, estumation, estjmation, estkmation, estomation, estination, estijation, estikation, estimqtion, estimwtion, estimstion, estimztion, estimarion, estimafion, estimagion, estimayion, estimatuon, estimatjon, estimatkon, estimatoon, estimatiin, estimatikn, estimatiln, estimatipn, estimatiob, estimatioh, estimatioj, estimatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

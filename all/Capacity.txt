@@ -1,0 +1,580 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>capacity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">a specified function</span> <span class="quot">"he was employed in the capacity of director","he should be retained in his present capacity at a higher salary"</span></li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">the maximum production possible</span> <span class="quot">"the plant is working at 80 per cent capacity"</span></li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">tolerance for alcohol</span> <span class="quot">"he had drunk beyond his capacity"</span></li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">capability to perform or produce</span> <span class="quot">"among his gifts is his capacity for true altruism","limited runway capacity","a great capacity for growth"</span></li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">the power to learn or retain knowledge; in law, the ability to understand the facts and significance of your behavior</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">an electrical phenomenon whereby an electric charge is stored</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">(computer science) the amount of information (in bytes) that can be stored on a disk drive</span> <span class="quot">"the capacity of a hard disk drive is usually expressed in megabytes"</span></li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">the amount that can be contained</span> <span class="quot">"the gas tank has a capacity of 12 gallons"</span></li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">the susceptibility of something to a particular treatment</span> <span class="quot">"the capability of a metal to be fused"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Every year, an igloo hotel is built in Sweden that has the capacity to sleep 100 people									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Capacity</span> <span class="exp">Ability; power pertaining to, or resulting from, the possession of strength, wealth, or talent; possibility of being or of doing.</span> <span class="wuQuot">"The capacity of blessing the people."</span><span class="wuQuot">"A cause with such capacities endued."</span></li><li><span class="term">Capacity</span> <span class="exp"><span class="wuFld">(Law)</span> Legal or moral qualification, as of age, residence, character, etc., necessary for certain purposes, as for holding office, for marrying, for making contracts, wills, etc.; legal power or right; competency.</span> </li><li><span class="term">Capacity</span> <span class="exp">Outward condition or circumstances; occupation; profession; character; position; as, to work in the <span class="wUex">capacity</span> of a mason or a carpenter.</span> </li><li><span class="term">Capacity</span> <span class="exp">The power of receiving and holding ideas, knowledge, etc.; the comprehensiveness of the mind; the receptive faculty; capability of understanding or feeling.</span> <span class="wuQuot">"Capacity is now properly limited to these [the mere passive operations of the mind]; its primary signification, which is literally room for , as well as its employment, favors this; although it can not be denied that there are examples of its usage in an active sense."</span></li><li><span class="term">Capacity</span> <span class="exp">The power of receiving or containing; extent of room or space; passive power; -- used in reference to physical things.</span> <span class="wuQuot">"Had our great palace the capacity To camp this host, we all would sup together."</span><span class="wuQuot">"The capacity of the exhausted cylinder."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The average capacity of a pelican's pouch is 12 quarts.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">The power of receiving or containing; specifically, the power of containing a certain quantity exactly; cubic contents.</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">Receptivity; susceptibility to being passively affected in any way; power of receiving impressions, or of being acted upon.</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">Active power; ability: as, mental capacity; the capacity of a substance to resist pressure.</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">Ability in a moral or legal sense; legal qualification; legal power or right: as, a man or a corporation may have a capacity to give or receive and hold estate; A was present at the meeting in his capacity of director (that is, in virtue of his legal qualification as a director).</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">Hence Character; profession; occupation; function.</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">A license; authorization.</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">Synonyms Dimensions.</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">Aptitude, Faculty (see genius), turn, forte, aptness; Ability, Capacity (see ability).</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">Office, sphere, post, function.</span> </li><li><span class="tSpeech">n</span> <span class="term">capacity</span> <span class="exp">The ability of a stream to transport land-waste, measured by the quantity carried past a given point in a given time.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										A chip of silicon a quarter-inch square has the capacity of the original 1949 ENIAC computer, which occupied a city block.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Capacity</span> <span class="exp"><span class="itl">kap-as′i-ti</span> power of holding or grasping a thing: room: volume: power of mind: character: position enabling one to do something</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aldous Huxley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aldous%20Huxley.jpg" alt="Aldous%20Huxley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Most human beings have an infinite capacity for taking things for granted.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Baron Wessenberg</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Baron Wessenberg">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nothing in the world is more haughty than a man of moderate capacity when once raised to power.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Pablo Casals</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Pablo Casals">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I feel the capacity to care is the thing which gives life its deepest significance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Haggai</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Haggai">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Gather in your resources, rally all your faculties, marshal all your energies, focus all your capacities upon mastery of at least one field of endeavor.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Hazlitt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Hazlitt.jpg" alt="William%20Hazlitt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“As is our confidence, so is our capacity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James V. Forrestal</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="James V. Forrestal">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Courage is the capacity to conduct oneself with restraint in times of prosperity and with courage and tenacity when things do not go well.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">capacitus</span>, fr. <span class="wUets">capax</span>, <span class="wUets">capacis</span>,; fr. F. <span class="wUets">capacité</span>,. See <span class="wUer">Capacious</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>capacitas</i>,—<i>capĕre</i>, to take, hold.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In other cases, circumstances exist which affect the banker with notice of that capacity.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 3, Part 1, Slice 3" by <span>Various</span>					</div>
+										<div class="usage">
+						The filter has a capacity of 4,000,000 gal.
+					</div>
+					<div class="uAuthor">
+						"Transactions of the American Society of Civil Engineers, vol. LXXII, June, 1911" by <span>E. D. Hardy</span>					</div>
+										<div class="usage">
+						Its capacity of finished steel per annum was 180,000 net tons of steel rails and 20,000 net tons of steel in other shapes.
+					</div>
+					<div class="uAuthor">
+						"The Johnstown Horror" by <span>James Herbert Walker</span>					</div>
+										<div class="usage">
+						The metal smelting capacity of the world in terms of yearly production of crude metal is estimated at nearly 100,000,000 short tons.
+					</div>
+					<div class="uAuthor">
+						"The Economic Aspect of Geology" by <span>C. K. Leith</span>					</div>
+										<div class="usage">
+						He has a brain-capacity entitling him to rank as a man and an Englishman.
+					</div>
+					<div class="uAuthor">
+						"Progress and History" by <span>Various</span>					</div>
+										<div class="usage">
+						He had administered government and war with more than the capacity of Richelieu.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<div class="usage">
+						The children of human parents are like them in their capacities.
+					</div>
+					<div class="uAuthor">
+						"What a Young Woman Ought to Know" by <span>Mary Wood-Allen</span>					</div>
+										<div class="usage">
+						Three terms, reflexes, instincts, and inborn capacities, divide the work of naming these unlearned tendencies.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						The disk machine is made with one, two, three, or four vertical iron disks, according to the capacity desired.
+					</div>
+					<div class="uAuthor">
+						"All About Coffee" by <span>William H. Ukers</span>					</div>
+										<div class="usage">
+						I heard very, very few military men in America consider Scott a man of transcendent military capacity.
+					</div>
+					<div class="uAuthor">
+						"Diary from March 4, 1861, to November 12, 1862" by <span>Adam Gurowski</span>					</div>
+										<div class="usage">
+						A fixed condenser so arranged that its capacity can be changed if desired.
+					</div>
+					<div class="uAuthor">
+						"Boy Scouts Handbook" by <span>Boy Scouts of America</span>					</div>
+										<div class="usage">
+						Nor was his capacity stunted thereby, nor his strong manhood.
+					</div>
+					<div class="uAuthor">
+						"The Golden Woman" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						Factors Upon Which the Capacity of a Battery Depend.
+					</div>
+					<div class="uAuthor">
+						"The Automobile Storage Battery" by <span>O. A. Witte</span>					</div>
+										<div class="usage">
+						Albaugh's Opera House was crowded to its capacity at all of the sixteen sessions.
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume IV" by <span>Various</span>					</div>
+										<div class="usage">
+						Mrs. Kent served in some official capacity from 1898 until her death in 1918.
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume VI" by <span>Various</span>					</div>
+										<div class="usage">
+						We have, then, this enthusiasm, this capacity for at once discerning what was best.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, v. 13" by <span>Various</span>					</div>
+										<div class="usage">
+						It is most difficult; in fact, the full meaning and extent of it is beyond the capacity of such as are not perfectly developed.
+					</div>
+					<div class="uAuthor">
+						"The Buddhist Catechism" by <span>Henry S. Olcott</span>					</div>
+										<div class="usage">
+						The most he can do for himself is to understand and organize his inborn capacities.
+					</div>
+					<div class="uAuthor">
+						"How to Analyze People on Sight" by <span>Elsie Lincoln Benedict and Ralph Paine Benedict</span>					</div>
+										<div class="usage">
+						Their combined capacity is three times that of some 2,000 smaller dams.
+					</div>
+					<div class="uAuthor">
+						"Area Handbook for Bulgaria" by <span>Eugene K. Keefe, Violeta D. Baluyut, William Giloane, Anne K. Long, James M. Moore, and Neda A. Walpole</span>					</div>
+										<div class="usage">
+						In 1795, went to the United States in the capacity of plenipotentiary.
+					</div>
+					<div class="uAuthor">
+						"The Makers of Canada: Index and Dictionary of Canadian History" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Few, few there be who lack the power<br>
+To shape their own destiny,<br>
+If each will improve th' passing hour<br>
+To its full capacity.
+							<div class="poet">"The Requirements Of The Hour" by <span>Jared Barhite</span></div>
+						</div>
+											<div class="poemQuote">
+							Mr Green was the chairman for the night,<br>
+And in that capacity he acted right;<br>
+He made a splendid address on my behalf,<br>
+Without introducing any slang or chaff. 
+							<div class="poet">"Lines in Memoriam Regarding the Entertainment in Reform Street Hall, Dundee" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							A connoisseur, he holds his book<br>
+And picks his pieces daintily,--<br>
+A prince with patronizing look,<br>
+As though such feast must surely be Beyond our minds' capacity.
+							<div class="poet">"Poetry Recitalist " by <span>Benjamin Musser</span></div>
+						</div>
+											<div class="poemQuote">
+							Instead, I might prove useful for<br>
+A weapon in the hand of Crime,<br>
+A paperweight, a milestone, or<br>
+A missile at Election time;<br>
+In each capacity I could<br>
+Do quite incalculable good.
+							<div class="poet">"A Rolling Stone Gathers No Moss" by <span>Harry Graham</span></div>
+						</div>
+											<div class="poemQuote">
+							John T. has perspicacity;<br>
+He has a vast capacity<br>
+For measuring his moron passing well.<br>
+Tho' men of seniority,<br>
+When they're in a majority<br>
+They'll send him into office for a spell.
+							<div class="poet">"'John T'" by <span>C J Dennis</span></div>
+						</div>
+											<div class="poemQuote">
+							In whatever capacity they place me I shall strive<br>
+to be useful to the country. This is my intent.<br>
+Then again, if they thwart me with their methods —<br>
+we know those able people: need we talk about it now?<br>
+if they thwart me, I am not to blame.
+							<div class="poet">"They Should Have Provided" by <span>Constantine P Cavafy</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						New 1501 articulated site dumper has 3,307 pounds payload capacity and 1.05-cubic-yard bucket capacity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.constructionequipment.com/wacker-neuson-1501-site-dumper" target="_blank" rel="external nofollow">constructionequipment.com</a>
+					</div>
+										<div class="usage">
+						GoGrid Private Cloud Uses Public Cloud Resources to Dynamically Expand Capacity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eweek.com/c/a/Cloud-Computing/GoGrid-Private-Cloud-Uses-Public-Cloud-Resource-to-Dynamically-Expand-Capacity-804580/" target="_blank" rel="external nofollow">eweek.com</a>
+					</div>
+										<div class="usage">
+						It was Easter Sunday , which for many meant bellies full of chocolate, and churches everywhere full to capacity as people came together to celebrate this Christian holiday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ktva.com/home/outbound-xml-feeds/Failed-GayTransgender-Equal-Rights-Proposition-Addressed-on-Easter-Sunday--146702445.html" target="_blank" rel="external nofollow">ktva.com</a>
+					</div>
+										<div class="usage">
+						Also, Edict 's facility adds significant operational capacity and provides business continuity protection for our Spring Valley, N.Y. fac...
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chaindrugreview.com/suppliernews-archives/2011-05-23/par-to-acquire-edict-pharmaceuticals" target="_blank" rel="external nofollow">chaindrugreview.com</a>
+					</div>
+										<div class="usage">
+						I think that nearly everyone has the capacity to ejaculate .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfbg.com/sexsf/2012/07/10/ejaculation-conversation-interview-billy-castro" target="_blank" rel="external nofollow">sfbg.com</a>
+					</div>
+										<div class="usage">
+						Seating capacities vary from six to 41 passengers and all vehicles can be adapted to meet ADA requirements.
+					</div>
+					<div class="uAuthor">
+						<a href="http://busride.com/buyersguide/2010/09/eldorado-national/" target="_blank" rel="external nofollow">busride.com</a>
+					</div>
+										<div class="usage">
+						Has issued a request for proposals (RFP) to identify market sources for peaking, intermediate and baseload capacity and associated energy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nawindpower.com/e107_plugins/content/content.php?content.1544" target="_blank" rel="external nofollow">nawindpower.com</a>
+					</div>
+										<div class="usage">
+						Capacities up to 40,000 bushels/hour Bearing, sprocket and shaft can be.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.feedandgrain.com/directory/search/conveying-material-handling-equipment:42/drag-en-masse-conveyors:56/vv" target="_blank" rel="external nofollow">feedandgrain.com</a>
+					</div>
+										<div class="usage">
+						Scrambling to stay afloat as it continues Chapter 11 bankruptcy proceedings, Encompass Services Corp. Has secured debtor-in-possession financing and additional bonding capacity to use during its reorganization process.
+					</div>
+					<div class="uAuthor">
+						<a href="http://ecmweb.com/contractor/encompass-secures-loan-during-chapter-11-proceedings" target="_blank" rel="external nofollow">ecmweb.com</a>
+					</div>
+										<div class="usage">
+						This modernized basketless rotary-hearth furnace is based on similar design characteristics as its predecessor but integrates multiple carousel levels as a means of increasing the system capacity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.industrialheating.com/Articles/Feature_Article/BNP_GUID_9-5-2006_A_10000000000000746851" target="_blank" rel="external nofollow">industrialheating.com</a>
+					</div>
+										<div class="usage">
+						She was promoted to Epidemiology and Laboratory Capacity program manager and most recently to senior epidemiologist in 2005.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.minotdailynews.com/page/content.detail/id/549230/BRIEFS-----New-state-epidemiologist-named.html?nav=5019" target="_blank" rel="external nofollow">minotdailynews.com</a>
+					</div>
+										<div class="usage">
+						Various lift capacities and operational speeds are available within each model.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pwmag.com/urban-forestry/knuckle-boom-self-loaders.aspx?rssLink=Knuckle+boom+self-loaders" target="_blank" rel="external nofollow">pwmag.com</a>
+					</div>
+										<div class="usage">
+						Top, a bank of programmable combi-ovens do double duty at Baptist Health Medical Center in Little Rock, supplying fresh baked goods and also bulk capacity for both patient and retail production.
+					</div>
+					<div class="uAuthor">
+						<a href="http://food-management.com/food-amp-beverage/equipping-onsite-bakery-operation" target="_blank" rel="external nofollow">food-management.com</a>
+					</div>
+										<div class="usage">
+						With over 25 island restaurants showcasing their specialties, the 21st annual Taste of Marco, Sunday at the Esplanade , drew a capacity crowd, with proceeds going to benefit the Marco Y Lance Shearer/Special to the Daily News.
+					</div>
+					<div class="uAuthor">
+						<a href="http://marconews.com/news/2011/apr/11/taste-marco-esplanade-draws-crowd-local-restaurant/" target="_blank" rel="external nofollow">marconews.com</a>
+					</div>
+										<div class="usage">
+						Antioxidant Capacity and Functionality CosmeticsAndToiletries.com.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cosmeticsandtoiletries.com/testing/invitro/95033664.html?mobi=y" target="_blank" rel="external nofollow">cosmeticsandtoiletries.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Since the pressure of the newborn over the capacity of the environment can be neglected in the presence of that of the individuals with age &gt; 0, we chose to pick the minimum value of the population at each time step as the real one. 
+					</div>
+					<div class="uAuthor">
+						Random deaths in a computational model for age-structured populations
+					</div>
+										<div class="usage">
+						The primary librational effectons of such a type may correspond to rotons introduced by Landau to explain the high heat capacity of He II. 
+					</div>
+					<div class="uAuthor">
+						Hierarchic Models of Turbulence, Superfluidity and Superconductivity
+					</div>
+										<div class="usage">
+						This method is still proving to be powerful (Gustafson 1999) as the needs still outstrip the capacities of computers. 
+					</div>
+					<div class="uAuthor">
+						Cosmic Dust in the 21st Century
+					</div>
+										<div class="usage">
+						Storage capacity, bit and sequence generation, prediction error, antipredictable sequences, interacting perceptrons and the application on the minority game are discussed. 
+					</div>
+					<div class="uAuthor">
+						Predicting and generating time series by neural networks: An investigation using statistical physics
+					</div>
+										<div class="usage">
+						However, although many experts in this ﬁeld looked into this problem, neither the capacity problem nor the prediction problem could be solved analytically up to now, even for the simple perceptron. 
+					</div>
+					<div class="uAuthor">
+						Predicting and generating time series by neural networks: An investigation using statistical physics
+					</div>
+										<div class="usage">
+						The positive ﬁeld values hi correspond ﬂow capacities cit connected to the sink (t) from a spin Si , similarly the negative ﬁelds with cis are connected to the source (s), and the coupling constants Jij ≡ 2cij between the spins correspond ﬂow capacities cij ≡ cj i from a site Si to its neighboring one Sj . 
+					</div>
+					<div class="uAuthor">
+						Susceptibility and Percolation in 2D Random Field Ising Magnets
+					</div>
+										<div class="usage">
+						By considering the proteins as soft materials, the thermodynamical relation between the heat capacity at effective electric ﬁeld △CE and the heat capacity at constant total dipole moment △CM has been put forward. 
+					</div>
+					<div class="uAuthor">
+						Investigation of the Heat Capacities of Proteins by Statistical Mechanical Methods
+					</div>
+										<div class="usage">
+						Eq.(6) reveals the thermodynamical relation between the heat capacity at effective electric ﬁeld △CE and the heat capacity at constant total dipole moment △CM . 
+					</div>
+					<div class="uAuthor">
+						Investigation of the Heat Capacities of Proteins by Statistical Mechanical Methods
+					</div>
+										<div class="usage">
+						The idea of the proof is that if the initial segment has a large capacity, then because the tail is short, it probably misses enough of the initial segment that the capacity remains high. 
+					</div>
+					<div class="uAuthor">
+						Scaling limits of the uniform spanning tree and loop-erased random walk on finite graphs
+					</div>
+										<div class="usage">
+						Conversely, if the initial segment has low capacity, then the tail will probably survive and is long enough to be of high capacity itself. 
+					</div>
+					<div class="uAuthor">
+						Scaling limits of the uniform spanning tree and loop-erased random walk on finite graphs
+					</div>
+										<div class="usage">
+						The concept of convergence in capacity was introduced in [X ], where it was proved that for any uniformly bounded sequence ϕj of plurisubharmonic functions that converges in Cn -capacity we have that (ddcϕj )n converges weak∗ to (ddcϕ)n , j → +∞. 
+					</div>
+					<div class="uAuthor">
+						Convergence in capacity
+					</div>
+										<div class="usage">
+						In this subsection, we estimate the capacity of a loop-erased random walk segment, and show that the capacity is highly concentrated around its mean. 
+					</div>
+					<div class="uAuthor">
+						The loop-erased random walk and the uniform spanning tree on the four-dimensional discrete torus
+					</div>
+										<div class="usage">
+						In the paper we assign to each node a deterministic capacity and the probability that there exists an edge between a pair of nodes is equal to a function of the product of the capacities of the pair divided by the total capacity of all the nodes. 
+					</div>
+					<div class="uAuthor">
+						Universality for the distance in finite variance random graphs: Extended version
+					</div>
+										<div class="usage">
+						We call λi the capacity of node i; nodes with a large capacity will obtain a high degree, whereas nodes with small capacity will only be incident to a limited number of edges. 
+					</div>
+					<div class="uAuthor">
+						Universality for the distance in finite variance random graphs: Extended version
+					</div>
+										<div class="usage">
+						It should be noted that in this paper we deﬁne the PRG using a deterministic sequence of capacities, while Norros and Reittu start with an i.i.d. sequence of random capacities. 
+					</div>
+					<div class="uAuthor">
+						Universality for the distance in finite variance random graphs: Extended version
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the power to learn or retain knowledge; in law, the ability to understand the facts and significance of your behavior"><a href="mental%20ability.html">mental ability</a>, </div><div class="synGroup" title="an electrical phenomenon whereby an electric charge is stored"><a href="electrical%20capacity.html">electrical capacity</a>, </div><div class="synGroup" title="the amount that can be contained"><a href="content.html">content</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="incapacity.html">incapacity</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ability.html">ability</a>, <a href="capability.html">capability</a>, <a href="capableness.html">capableness</a>, <a href="electrical%20phenomenon.html">electrical phenomenon</a>, <a href="function.html">function</a>, <a href="indefinite%20quantity.html">indefinite quantity</a>, <a href="office.html">office</a>, <a href="part.html">part</a>, <a href="power.html">power</a>, <a href="production.html">production</a>, <a href="role.html">role</a>, <a href="susceptibility.html">susceptibility</a>, <a href="susceptibleness.html">susceptibleness</a>, <a href="tolerance.html">tolerance</a>, <a href="volume.html">volume</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="activity.html">activity</a>, <a href="formatted%20capacity.html">formatted capacity</a>, <a href="prescience.html">prescience</a>, <a href="prevision.html">prevision</a>, <a href="resistance.html">resistance</a>, <a href="unformatted%20capacity.html">unformatted capacity</a>, <a href="vital%20capacity.html">vital capacity</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="capable.html">capable</a>, <a href="capacious.html">capacious</a>, <a href="capacitate.html">capacitate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-able.html">-able</a>, <a href="abfarad.html">abfarad</a>, <a href="ability.html">ability</a>, <a href="able.html">able</a>, <a href="absorbent.html">absorbent</a>, <a href="absorbent%20material.html">absorbent material</a>, <a href="absorptive.html">absorptive</a>, <a href="absorptivity.html">absorptivity</a>, <a href="Accendibility.html">Accendibility</a>, <a href="accumulator.html">accumulator</a>, <a href="acquisitiveness.html">acquisitiveness</a>, <a href="action.html">action</a>, <a href="activity.html">activity</a>, <a href="adaptability.html">adaptability</a>, <a href="adaptative.html">adaptative</a>, <a href="adaptive.html">adaptive</a>, <a href="Adaptiveness.html">Adaptiveness</a>, <a href="adjunct.html">adjunct</a>, <a href="admeasure.html">admeasure</a>, <a href="administer.html">administer</a>, <a href="administrate.html">administrate</a>, <a href="admit.html">admit</a>, <a href="adsorbent.html">adsorbent</a>, <a href="adsorbent%20material.html">adsorbent material</a>, <a href="adsorptive.html">adsorptive</a>, <a href="aepyornis.html">aepyornis</a>, <a href="Afterguard.html">Afterguard</a>, <a href="age.html">age</a>, <a href="Alibility.html">Alibility</a>, <a href="Alienability.html">Alienability</a>, <a href="all-round.html">all-round</a>, <a href="Allotropicity.html">Allotropicity</a>, <a href="Alma.html">Alma</a>, <a href="ample.html">ample</a>, <a href="amplify.html">amplify</a>, <a href="amplitude.html">amplitude</a>, <a href="anaplasia.html">anaplasia</a>, <a href="Anker.html">Anker</a>, <a href="apathy.html">apathy</a>, <a href="appetite.html">appetite</a>, <a href="application.html">application</a>, <a href="aptitude.html">aptitude</a>, <a href="aptitudinal.html">aptitudinal</a>, <a href="ardeb.html">ardeb</a>, <a href="Ark.html">Ark</a>, <a href="As.html">As</a>, <a href="associate.html">associate</a>, <a href="attenuation.html">attenuation</a>, <a href="attest.html">attest</a>, <a href="audibility.html">audibility</a>, <a href="auxiliary.html">auxiliary</a>, <a href="auxiliary%20airfield.html">auxiliary airfield</a>, <a href="babu.html">babu</a>, <a href="bag.html">bag</a>, <a href="Bahar.html">Bahar</a>, <a href="bamboo.html">bamboo</a>, <a href="bank.html">bank</a>, <a href="barrel.html">barrel</a>, <a href="Barrel%20bulk.html">Barrel bulk</a>, <a href="bbl.html">bbl</a>, <a href="beaker.html">beaker</a>, <a href="Before%20the%20footlights.html">Before the footlights</a>, <a href="beggar.html">beggar</a>, <a href="bench.html">bench</a>, <a href="bent.html">bent</a>, <a href="beyond.html">beyond</a>, <a href="binding.html">binding</a>, <a href="Boatage.html">Boatage</a>, <a href="Body-politic.html">Body-politic</a>, <a href="boll.html">boll</a>, <a href="breadth.html">breadth</a>, <a href="breast.html">breast</a>, <a href="breath.html">breath</a>, <a href="breathed.html">breathed</a>, <a href="brimful.html">brimful</a>, <a href="brimfull.html">brimfull</a>, <a href="brimming.html">brimming</a>, <a href="British%20capacity%20unit.html">British capacity unit</a>, <a href="builder.html">builder</a>, <a href="bullion.html">bullion</a>, <a href="buoyancy.html">buoyancy</a>, <a href="burden.html">burden</a>, <a href="bushel.html">bushel</a>, <a href="Ca.html">Ca</a>, <a href="cab.html">cab</a>, <a href="Caba.html">Caba</a>, <a href="caliber.html">caliber</a>, <a href="calibre.html">calibre</a>, <a href="call.html">call</a>, <a href="capability.html">capability</a>, <a href="capable.html">capable</a>, <a href="capableness.html">capableness</a>, <a href="capacious.html">capacious</a>, <a href="capacitance.html">capacitance</a>, <a href="capacitance%20unit.html">capacitance unit</a>, <a href="capacitor.html">capacitor</a>, <a href="Capacity%20for%20heat.html">Capacity for heat</a>, <a href="capacity%20measure.html">capacity measure</a>, <a href="capacity%20unit.html">capacity unit</a>, <a href="Carrying.html">Carrying</a>, <a href="Cashiering.html">Cashiering</a>, <a href="cask.html">cask</a>, <a href="castrated.html">castrated</a>, <a href="centiliter.html">centiliter</a>, <a href="centilitre.html">centilitre</a>, <a href="Ceres.html">Ceres</a>, <a href="chaldron.html">chaldron</a>, <a href="chamber.html">chamber</a>, <a href="champion.html">champion</a>, <a href="change%20of%20life.html">change of life</a>, <a href="character.html">character</a>, <a href="charge.html">charge</a>, <a href="chemisorptive.html">chemisorptive</a>, <a href="chemosorptive.html">chemosorptive</a>, <a href="chest.html">chest</a>, <a href="chock%20up.html">chock up</a>, <a href="chock-full.html">chock-full</a>, <a href="chockablock.html">chockablock</a>, <a href="chockful.html">chockful</a>, <a href="chockfull.html">chockfull</a>, <a href="choke-full.html">choke-full</a>, <a href="chuck-full.html">chuck-full</a>, <a href="clipper.html">clipper</a>, <a href="Coagulability.html">Coagulability</a>, <a href="college.html">college</a>, <a href="comb.html">comb</a>, <a href="combining%20weight.html">combining weight</a>, <a href="comicality.html">comicality</a>, <a href="command.html">command</a>, <a href="commensurate.html">commensurate</a>, <a href="Committee%20of%20ways%20and%20means.html">Committee of ways and means</a>, <a href="comparison.html">comparison</a>, <a href="compass.html">compass</a>, <a href="compatibility.html">compatibility</a>, <a href="competence.html">competence</a>, <a href="competence%20hearing.html">competence hearing</a>, <a href="competency.html">competency</a>, <a href="competent.html">competent</a>, <a href="comprehension.html">comprehension</a>, <a href="comprehensiveness.html">comprehensiveness</a>, <a href="condenser.html">condenser</a>, <a href="conductance.html">conductance</a>, <a href="Conductibility.html">Conductibility</a>, <a href="congius.html">congius</a>, <a href="congruity.html">congruity</a>, <a href="conjugation.html">conjugation</a>, <a href="constrict.html">constrict</a>, <a href="contain.html">contain</a>, <a href="content.html">content</a>, <a href="continence.html">continence</a>, <a href="Coomb.html">Coomb</a>, <a href="Cor.html">Cor</a>, <a href="Cornsheller.html">Cornsheller</a>, <a href="Corporately.html">Corporately</a>, <a href="corporation.html">corporation</a>, <a href="correlation.html">correlation</a>, <a href="Cotyle.html">Cotyle</a>, <a href="council.html">council</a>, <a href="cram.html">cram</a>, <a href="cram%20full.html">cram full</a>, <a href="cran.html">cran</a>, <a href="cruise.html">cruise</a>, <a href="cubage%20unit.html">cubage unit</a>, <a href="cubature%20unit.html">cubature unit</a>, <a href="cube.html">cube</a>, <a href="cubic%20content%20unit.html">cubic content unit</a>, <a href="cubic%20decimeter.html">cubic decimeter</a>, <a href="cubic%20decimetre.html">cubic decimetre</a>, <a href="cubic%20kilometer.html">cubic kilometer</a>, <a href="cubic%20kilometre.html">cubic kilometre</a>, <a href="cubic%20measure.html">cubic measure</a>, <a href="cubic%20meter.html">cubic meter</a>, <a href="cubic%20metre.html">cubic metre</a>, <a href="cubic%20millimeter.html">cubic millimeter</a>, <a href="cubic%20millimetre.html">cubic millimetre</a>, <a href="dal.html">dal</a>, <a href="dash.html">dash</a>, <a href="dead.html">dead</a>, <a href="Dead%20freight.html">Dead freight</a>, <a href="death.html">death</a>, <a href="decaliter.html">decaliter</a>, <a href="decalitre.html">decalitre</a>, <a href="Decastere.html">Decastere</a>, <a href="deciliter.html">deciliter</a>, <a href="decilitre.html">decilitre</a>, <a href="Deep-browed.html">Deep-browed</a>, <a href="dekaliter.html">dekaliter</a>, <a href="dekalitre.html">dekalitre</a>, <a href="delivery.html">delivery</a>, <a href="deluge.html">deluge</a>, <a href="Dement.html">Dement</a>, <a href="Depressomotor.html">Depressomotor</a>, <a href="depth.html">depth</a>, <a href="desk-bound.html">desk-bound</a>, <a href="deskbound.html">deskbound</a>, <a href="desktop%20publishing.html">desktop publishing</a>, <a href="Detestability.html">Detestability</a>, <a href="dim-witted.html">dim-witted</a>, <a href="dimension.html">dimension</a>, <a href="Dimensity.html">Dimensity</a>, <a href="disability.html">disability</a>, <a href="Discapacitate.html">Discapacitate</a>, <a href="dishwasher.html">dishwasher</a>, <a href="displacement%20unit.html">displacement unit</a>, <a href="disqualification.html">disqualification</a>, <a href="dissolubility.html">dissolubility</a>, <a href="Dissolubleness.html">Dissolubleness</a>, <a href="Dissolvability.html">Dissolvability</a>, <a href="Distensibility.html">Distensibility</a>, <a href="Diversifiability.html">Diversifiability</a>, <a href="divisibility.html">divisibility</a>, <a href="dkl.html">dkl</a>, <a href="donation.html">donation</a>, <a href="double.html">double</a>, <a href="doubleheader.html">doubleheader</a>, <a href="drachm.html">drachm</a>, <a href="draft.html">draft</a>, <a href="drag.html">drag</a>, <a href="draught.html">draught</a>, <a href="drawing%20power.html">drawing power</a>, <a href="dry%20measure.html">dry measure</a>, <a href="dry%20unit.html">dry unit</a>, <a href="ductility.html">ductility</a>, <a href="dummy.html">dummy</a>, <a href="dynamic%20headroom.html">dynamic headroom</a>, <a href="ear.html">ear</a>, <a href="economic%20growth.html">economic growth</a>, <a href="educability.html">educability</a>, <a href="effective.html">effective</a>, <a href="effectiveness.html">effectiveness</a>, <a href="efficaciousness.html">efficaciousness</a>, <a href="efficacy.html">efficacy</a>, <a href="egg.html">egg</a>, <a href="Eke.html">Eke</a>, <a href="electrical%20condenser.html">electrical condenser</a>, <a href="electricity.html">electricity</a>, <a href="embracement.html">embracement</a>, <a href="Emotivity.html">Emotivity</a>, <a href="enation.html">enation</a>, <a href="endowment.html">endowment</a>, <a href="endurance.html">endurance</a>, <a href="energetic.html">energetic</a>, <a href="Energetical.html">Energetical</a>, <a href="energy.html">energy</a>, <a href="engine.html">engine</a>, <a href="enlarge.html">enlarge</a>, <a href="enlargement.html">enlargement</a>, <a href="eq.html">eq</a>, <a href="equivalent.html">equivalent</a>, <a href="equivalent%20weight.html">equivalent weight</a>, <a href="escalator.html">escalator</a>, <a href="Euplastic.html">Euplastic</a>, <a href="examination.html">examination</a>, <a href="Expansibility.html">Expansibility</a>, <a href="expansive.html">expansive</a>, <a href="extend.html">extend</a>, <a href="Extensibility.html">Extensibility</a>, <a href="extension.html">extension</a>, <a href="extensiveness.html">extensiveness</a>, <a href="extraordinaire.html">extraordinaire</a>, <a href="faculty.html">faculty</a>, <a href="farad.html">farad</a>, <a href="fascination.html">fascination</a>, <a href="fathom.html">fathom</a>, <a href="feeble.html">feeble</a>, <a href="feeling.html">feeling</a>, <a href="Ferranti%20phenomenon.html">Ferranti phenomenon</a>, <a href="Fibrination.html">Fibrination</a>, <a href="fiduciary.html">fiduciary</a>, <a href="fill.html">fill</a>, <a href="finance.html">finance</a>, <a href="finite.html">finite</a>, <a href="fire.html">fire</a>, <a href="firepower.html">firepower</a>, <a href="firkin.html">firkin</a>, <a href="fitness.html">fitness</a>, <a href="Floatage.html">Floatage</a>, <a href="flood.html">flood</a>, <a href="Flotage.html">Flotage</a>, <a href="Fluctuability.html">Fluctuability</a>, <a href="fluid%20drachm.html">fluid drachm</a>, <a href="fluid%20dram.html">fluid dram</a>, <a href="fluid%20ounce.html">fluid ounce</a>, <a href="fluidounce.html">fluidounce</a>, <a href="fluidram.html">fluidram</a>, <a href="force.html">force</a>, <a href="formatted%20capacity.html">formatted capacity</a>, <a href="free%20agency.html">free agency</a>, <a href="free%20energy.html">free energy</a>, <a href="fulfil.html">fulfil</a>, <a href="Full-bottomed.html">Full-bottomed</a>, <a href="fullness.html">fullness</a>, <a href="fuse.html">fuse</a>, <a href="gage.html">gage</a>, <a href="gallery.html">gallery</a>, <a href="gallon.html">gallon</a>, <a href="gauge.html">gauge</a>, <a href="Gauge%20rod.html">Gauge rod</a>, <a href="gill.html">gill</a>, <a href="give.html">give</a>, <a href="glassworker.html">glassworker</a>, <a href="globefish.html">globefish</a>, <a href="glut.html">glut</a>, <a href="good.html">good</a>, <a href="gravimeter.html">gravimeter</a>, <a href="Growthful.html">Growthful</a>, <a href="Guestwise.html">Guestwise</a>, <a href="gumption.html">gumption</a>, <a href="habitableness.html">habitableness</a>, <a href="hardness.html">hardness</a>, <a href="headroom.html">headroom</a>, <a href="health.html">health</a>, <a href="heart.html">heart</a>, <a href="hectoliter.html">hectoliter</a>, <a href="hectolitre.html">hectolitre</a>, <a href="Heterotrophy.html">Heterotrophy</a>, <a href="hl.html">hl</a>, <a href="hogshead.html">hogshead</a>, <a href="hold.html">hold</a>, <a href="homer.html">homer</a>, <a href="hoof.html">hoof</a>, <a href="hoop.html">hoop</a>, <a href="house.html">house</a>, <a href="howitzer.html">howitzer</a>, <a href="huge.html">huge</a>, <a href="humanism.html">humanism</a>, <a href="humanist.html">humanist</a>, <a href="humanistic.html">humanistic</a>, <a href="humidity.html">humidity</a>, <a href="ideality.html">ideality</a>, <a href="ideation.html">ideation</a>, <a href="Idiotism.html">Idiotism</a>, <a href="Imaginability.html">Imaginability</a>, <a href="immobilize.html">immobilize</a>, <a href="impedance.html">impedance</a>, <a href="Imperial%20capacity%20unit.html">Imperial capacity unit</a>, <a href="Imperial%20gallon.html">Imperial gallon</a>, <a href="impotent.html">impotent</a>, <a href="impoverish.html">impoverish</a>, <a href="impoverishment.html">impoverishment</a>, <a href="In.html">In</a>, <a href="inability.html">inability</a>, <a href="incapability.html">incapability</a>, <a href="incapable.html">incapable</a>, <a href="incapacitate.html">incapacitate</a>, <a href="incapacity.html">incapacity</a>, <a href="incitive.html">incitive</a>, <a href="incompetent.html">incompetent</a>, <a href="indeterminate.html">indeterminate</a>, <a href="individually.html">individually</a>, <a href="induction.html">induction</a>, <a href="inductive.html">inductive</a>, <a href="infancy.html">infancy</a>, <a href="infant.html">infant</a>, <a href="infinite.html">infinite</a>, <a href="infinity.html">infinity</a>, <a href="influence.html">influence</a>, <a href="ingenuity.html">ingenuity</a>, <a href="inhabitant.html">inhabitant</a>, <a href="injurious.html">injurious</a>, <a href="innocent.html">innocent</a>, <a href="innocuous.html">innocuous</a>, <a href="inspect.html">inspect</a>, <a href="insufficient.html">insufficient</a>, <a href="Insusceptibility.html">Insusceptibility</a>, <a href="intellect.html">intellect</a>, <a href="intellection.html">intellection</a>, <a href="intellectual.html">intellectual</a>, <a href="intelligence.html">intelligence</a>, <a href="intelligent.html">intelligent</a>, <a href="interdict.html">interdict</a>, <a href="Intermobility.html">Intermobility</a>, <a href="intolerance.html">intolerance</a>, <a href="inundate.html">inundate</a>, <a href="isotropic.html">isotropic</a>, <a href="jam.html">jam</a>, <a href="jam-packed.html">jam-packed</a>, <a href="jammed.html">jammed</a>, <a href="jampack.html">jampack</a>, <a href="judgement.html">judgement</a>, <a href="judgment.html">judgment</a>, <a href="judicially.html">judicially</a>, <a href="jurisdiction.html">jurisdiction</a>, <a href="K.html">K</a>, <a href="Kan.html">Kan</a>, <a href="keg.html">keg</a>, <a href="kilderkin.html">kilderkin</a>, <a href="kiloliter.html">kiloliter</a>, <a href="kilolitre.html">kilolitre</a>, <a href="knowledgeable.html">knowledgeable</a>, <a href="kor.html">kor</a>, <a href="kos.html">kos</a>, <a href="L.html">L</a>, <a href="lameness.html">lameness</a>, <a href="Lapidescent.html">Lapidescent</a>, <a href="large.html">large</a>, <a href="largeness.html">largeness</a>, <a href="last.html">last</a>, <a href="Latreutical.html">Latreutical</a>, <a href="leading.html">leading</a>, <a href="less.html">less</a>, <a href="level.html">level</a>, <a href="life.html">life</a>, <a href="lifeless.html">lifeless</a>, <a href="light.html">light</a>, <a href="Light%20of%20nature.html">Light of nature</a>, <a href="Liquation.html">Liquation</a>, <a href="liquid%20measure.html">liquid measure</a>, <a href="liquid%20unit.html">liquid unit</a>, <a href="liquidity.html">liquidity</a>, <a href="liter.html">liter</a>, <a href="litre.html">litre</a>, <a href="live.html">live</a>, <a href="loading.html">loading</a>, <a href="Lodge.html">Lodge</a>, <a href="Magnetic%20permeability.html">Magnetic permeability</a>, <a href="measure.html">measure</a>, <a href="measurement.html">measurement</a>, <a href="mete.html">mete</a>, <a href="metric%20capacity%20unit.html">metric capacity unit</a>, <a href="microfarad.html">microfarad</a>, <a href="might.html">might</a>, <a href="military%20capability.html">military capability</a>, <a href="military%20posture.html">military posture</a>, <a href="military%20strength.html">military strength</a>, <a href="milliliter.html">milliliter</a>, <a href="millilitre.html">millilitre</a>, <a href="mindless.html">mindless</a>, <a href="minibus.html">minibus</a>, <a href="minim.html">minim</a>, <a href="ministerially.html">ministerially</a>, <a href="Monodynamic.html">Monodynamic</a>, <a href="moral%20sense.html">moral sense</a>, <a href="motion.html">motion</a>, <a href="music.html">music</a>, <a href="Myrialiter.html">Myrialiter</a>, <a href="Myrialitre.html">Myrialitre</a>, <a href="Neanderthal.html">Neanderthal</a>, <a href="Neurility.html">Neurility</a>, <a href="nonadsorbent.html">nonadsorbent</a>, <a href="nonadsorptive.html">nonadsorptive</a>, <a href="occupy.html">occupy</a>, <a href="officiate.html">officiate</a>, <a href="on%20guard.html">on guard</a>, <a href="optimise.html">optimise</a>, <a href="optimize.html">optimize</a>, <a href="Organ%20harmonium.html">Organ harmonium</a>, <a href="organize.html">organize</a>, <a href="overfill.html">overfill</a>, <a href="overflow.html">overflow</a>, <a href="overladen.html">overladen</a>, <a href="overloaded.html">overloaded</a>, <a href="overspill.html">overspill</a>, <a href="pack.html">pack</a>, <a href="packed.html">packed</a>, <a href="part.html">part</a>, <a href="Passion.html">Passion</a>, <a href="patient%20of.html">patient of</a>, <a href="peck.html">peck</a>, <a href="personable.html">personable</a>, <a href="personality.html">personality</a>, <a href="perspicacity.html">perspicacity</a>, <a href="Phase%20displacement.html">Phase displacement</a>, <a href="pint.html">pint</a>, <a href="Pithecanthropus.html">Pithecanthropus</a>, <a href="Platymeter.html">Platymeter</a>, <a href="Pneumometry.html">Pneumometry</a>, <a href="portage.html">portage</a>, <a href="posture.html">posture</a>, <a href="potence.html">potence</a>, <a href="potency.html">potency</a>, <a href="potential.html">potential</a>, <a href="potentiality.html">potentiality</a>, <a href="pounder.html">pounder</a>, <a href="power.html">power</a>, <a href="pregnancy.html">pregnancy</a>, <a href="prepotency.html">prepotency</a>, <a href="Private%20war.html">Private war</a>, <a href="Private%20wrong.html">Private wrong</a>, <a href="professionally.html">professionally</a>, <a href="Propheticalness.html">Propheticalness</a>, <a href="proration.html">proration</a>, <a href="proxy.html">proxy</a>, <a href="Pulmometer.html">Pulmometer</a>, <a href="Pulmometry.html">Pulmometry</a>, <a href="pulmonary%20reserve.html">pulmonary reserve</a>, <a href="Qua.html">Qua</a>, <a href="qualification.html">qualification</a>, <a href="qualify.html">qualify</a>, <a href="quality.html">quality</a>, <a href="quart.html">quart</a>, <a href="quarter.html">quarter</a>, <a href="Quichuan.html">Quichuan</a>, <a href="Quirites.html">Quirites</a>, <a href="Ram.html">Ram</a>, <a href="range.html">range</a>, <a href="reach.html">reach</a>, <a href="reactance.html">reactance</a>, <a href="reason.html">reason</a>, <a href="reasoning.html">reasoning</a>, <a href="reasonless.html">reasonless</a>, <a href="Recapacitate.html">Recapacitate</a>, <a href="receipt.html">receipt</a>, <a href="receive.html">receive</a>, <a href="reception.html">reception</a>, <a href="receptivity.html">receptivity</a>, <a href="refer.html">refer</a>, <a href="reference.html">reference</a>, <a href="reflection.html">reflection</a>, <a href="rehabilitate.html">rehabilitate</a>, <a href="Repellence.html">Repellence</a>, <a href="Repellency.html">Repellency</a>, <a href="reserve.html">reserve</a>, <a href="resistance.html">resistance</a>, <a href="resonance.html">resonance</a>, <a href="retentive.html">retentive</a>, <a href="Roomage.html">Roomage</a>, <a href="runoff.html">runoff</a>, <a href="sack.html">sack</a>, <a href="scrofula.html">scrofula</a>, <a href="second%20banana.html">second banana</a>, <a href="second%20fiddle.html">second fiddle</a>, <a href="Second-sight.html">Second-sight</a>, <a href="Sectional%20boiler.html">Sectional boiler</a>, <a href="secular%20humanism.html">secular humanism</a>, <a href="self-complacent.html">self-complacent</a>, <a href="sense.html">sense</a>, <a href="sensibility.html">sensibility</a>, <a href="sensible.html">sensible</a>, <a href="sensibleness.html">sensibleness</a>, <a href="sensitive.html">sensitive</a>, <a href="shock-absorbent.html">shock-absorbent</a>, <a href="sideboard.html">sideboard</a>, <a href="simple.html">simple</a>, <a href="simple-minded.html">simple-minded</a>, <a href="sit.html">sit</a>, <a href="site%20visit.html">site visit</a>, <a href="Solo%20man.html">Solo man</a>, <a href="solvability.html">solvability</a>, <a href="Solvableness.html">Solvableness</a>, <a href="sonometer.html">sonometer</a>, <a href="sorbent.html">sorbent</a>, <a href="sorbent%20material.html">sorbent material</a>, <a href="soulless.html">soulless</a>, <a href="sound%20judgement.html">sound judgement</a>, <a href="sound%20judgment.html">sound judgment</a>, <a href="spinnbarkeit.html">spinnbarkeit</a>, <a href="spirometer.html">spirometer</a>, <a href="spirometry.html">spirometry</a>, <a href="Spiroscope.html">Spiroscope</a>, <a href="stainability.html">stainability</a>, <a href="stand.html">stand</a>, <a href="start.html">start</a>, <a href="Stereometer.html">Stereometer</a>, <a href="strain.html">strain</a>, <a href="strength.html">strength</a>, <a href="stretch.html">stretch</a>, <a href="stretchability.html">stretchability</a>, <a href="stretchiness.html">stretchiness</a>, <a href="subserve.html">subserve</a>, <a href="subservient.html">subservient</a>, <a href="subsidiary.html">subsidiary</a>, <a href="sufficiency.html">sufficiency</a>, <a href="supplemental.html">supplemental</a>, <a href="supplementary.html">supplementary</a>, <a href="surcharge.html">surcharge</a>, <a href="surface-assimilative.html">surface-assimilative</a>, <a href="surging.html">surging</a>, <a href="susceptibility.html">susceptibility</a>, <a href="Susceptivity.html">Susceptivity</a>, <a href="swallow.html">swallow</a>, <a href="swamp.html">swamp</a>, <a href="swing.html">swing</a>, <a href="Sychnocarpous.html">Sychnocarpous</a>, <a href="tailing.html">tailing</a>, <a href="take%20up.html">take up</a>, <a href="talent.html">talent</a>, <a href="tank%20ship.html">tank ship</a>, <a href="Tank%20vessel.html">Tank vessel</a>, <a href="tankage.html">tankage</a>, <a href="testamentary.html">testamentary</a>, <a href="The%20historic%20sense.html">The historic sense</a>, <a href="The%20inner%20sense.html">The inner sense</a>, <a href="The%20internal%20sense.html">The internal sense</a>, <a href="Theopathy.html">Theopathy</a>, <a href="thinking.html">thinking</a>, <a href="tolerance.html">tolerance</a>, <a href="tolerant.html">tolerant</a>, <a href="ton.html">ton</a>, <a href="tonnage.html">tonnage</a>, <a href="tun.html">tun</a>, <a href="unconscious.html">unconscious</a>, <a href="underproduce.html">underproduce</a>, <a href="understanding.html">understanding</a>, <a href="unit.html">unit</a>, <a href="United%20States%20dry%20unit.html">United States dry unit</a>, <a href="unofficially.html">unofficially</a>, <a href="unsexed.html">unsexed</a>, <a href="urn.html">urn</a>, <a href="utility%20man.html">utility man</a>, <a href="valence.html">valence</a>, <a href="valency.html">valency</a>, <a href="variable.html">variable</a>, <a href="Ventripotent.html">Ventripotent</a>, <a href="vigor.html">vigor</a>, <a href="vim.html">vim</a>, <a href="virtue.html">virtue</a>, <a href="virulence.html">virulence</a>, <a href="virulency.html">virulency</a>, <a href="Vis%20viva.html">Vis viva</a>, <a href="visit.html">visit</a>, <a href="vital%20capacity.html">vital capacity</a>, <a href="vitality.html">vitality</a>, <a href="volume%20unit.html">volume unit</a>, <a href="volumeter.html">volumeter</a>, <a href="wad.html">wad</a>, <a href="Warmful.html">Warmful</a>, <a href="whip.html">whip</a>, <a href="Wisdom.html">Wisdom</a>, <a href="Writability.html">Writability</a>, <a href="write%20out.html">write out</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xapacity, dapacity, fapacity, vapacity, cqpacity, cwpacity, cspacity, czpacity, caoacity, calacity, capqcity, capwcity, capscity, capzcity, capaxity, capadity, capafity, capavity, capacuty, capacjty, capackty, capacoty, capaciry, capacify, capacigy, capaciyy, capacitt, capacitg, capacith, capacitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

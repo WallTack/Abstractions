@@ -1,0 +1,536 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>chaos</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">chaos</span> <span class="exp">(physics) a dynamical system that is extremely sensitive to its initial conditions</span> </li><li><span class="tSpeech">n</span> <span class="term">Chaos</span> <span class="exp">(Greek mythology) the most ancient of gods; the personification of the infinity of space preceding creation of the universe</span> </li><li><span class="tSpeech">n</span> <span class="term">chaos</span> <span class="exp">the formless and disordered state of matter before the creation of the cosmos</span> </li><li><span class="tSpeech">n</span> <span class="term">chaos</span> <span class="exp">a state of extreme confusion and disorder</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Chaos</span> <span class="exp">An empty, immeasurable space; a yawning chasm.</span> <span class="wuQuot">"Between us and there is fixed a great chaos ."</span></li><li><span class="term">Chaos</span> <span class="exp">Any confused or disordered collection or state of things; a confused mixture; confusion; disorder.</span> </li><li><span class="term">Chaos</span> <span class="exp">The confused, unorganized condition or mass of matter before the creation of distinct and orderly forms.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">chaos</span> <span class="exp">A vacant space or chasm; empty, immeasurable space.</span> </li><li><span class="tSpeech">n</span> <span class="term">chaos</span> <span class="exp">The confused or formless elementary state, not fully existing, in which the universe is supposed to have been latent before the order, uniformities, or laws of nature had been developed or created: the opposite of cosmos.</span> </li><li><span class="tSpeech">n</span> <span class="term">chaos</span> <span class="exp">A confused mixture of parts or elements; confusion; disorder.</span> </li><li><span class="tSpeech">n</span> <span class="term">chaos</span> <span class="exp">In the language of the alchemists, the atmosphere: first so used by Paracelsus. Synonyms Anarchy, Chaos. See anarchy.</span> </li><li><span class="tSpeech">n</span> <span class="term">chaos</span> <span class="exp">[capitalized] The void of unformed matter personified and deemed by some among the Greeks as the oldest of the gods.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Chaos</span> <span class="exp"><span class="itl">kā′os</span> shapeless mass: disorder: the state of matter before it was reduced to order by the Creator</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Out of chaos God made a world, and out of high passions comes a people.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Paul Cezanne</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Paul Cezanne">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We live in a rainbow of chaos.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Carl Jung</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Carl%20Jung.jpg" alt="Carl%20Jung">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In all chaos there is a cosmos, in all disorder a secret order.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Miller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Miller.jpg" alt="Henry%20Miller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Chaos is the score upon which reality is written.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Santayana</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Santayana.jpg" alt="George%20Santayana">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Chaos is a name for any order that produces confusion in our minds.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alan Dean Foster</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Alan Dean Foster">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Freedom is just chaos with better lighting.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">chaos</span>, chaos (in senses 1 &amp; 2), Gr. <span class="wUgrk">cha`os</span>, fr. <span class="wUgrk">cha`inein</span>root <span class="wUgrk">cha</span>) to yawn, to gape, to open widely. Cf. <span class="wUer">Chasm</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He was regarded as the father of Seb, the earth having been formed from space or chaos.
+					</div>
+					<div class="uAuthor">
+						"The Religion of Ancient Egypt" by <span>W. M. Flinders Petrie</span>					</div>
+										<div class="usage">
+						But slowly as these professors returned to America order came out of chaos; the Y adjusted itself and became an efficient machine.
+					</div>
+					<div class="uAuthor">
+						"Chit-Chat; Nirvana; The Searchlight" by <span>Mathew Joseph Holt</span>					</div>
+										<div class="usage">
+						He will make order out of chaos.
+					</div>
+					<div class="uAuthor">
+						"The Traitors" by <span>E. Phillips (Edward Phillips) Oppenheim</span>					</div>
+										<div class="usage">
+						A maid was there, and the furniture might have stood as a type of chaos.
+					</div>
+					<div class="uAuthor">
+						"The First Violin" by <span>Jessie Fothergill</span>					</div>
+										<div class="usage">
+						The Russian line was turned into a spluttering chaos of earth, stones, trees, and human bodies.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume III (of VIII)" by <span>Various</span>					</div>
+										<div class="usage">
+						Two pictures stood out so sharply from the background chaos of his impressions, that he believed them to be veritable memories.
+					</div>
+					<div class="uAuthor">
+						"Murder Point" by <span>Coningsby Dawson</span>					</div>
+										<div class="usage">
+						Beyond what he could see there lay, for him, a vast emptiness, a chaos of loneliness, an eternity of shattered hopes and broken dreams.
+					</div>
+					<div class="uAuthor">
+						"The Country Beyond" by <span>James Oliver Curwood</span>					</div>
+										<div class="usage">
+						He did not ask questions as they faced the black chaos of rain.
+					</div>
+					<div class="uAuthor">
+						"The Valley of Silent Men" by <span>James Oliver Curwood</span>					</div>
+										<div class="usage">
+						A chaos of grass and weeds thrust even through the rust of the high iron fence about the place.
+					</div>
+					<div class="uAuthor">
+						"In a Little Town" by <span>Rupert Hughes</span>					</div>
+										<div class="usage">
+						All seemed a meaningless chaos and jam.
+					</div>
+					<div class="uAuthor">
+						"The Harbor" by <span>Ernest Poole</span>					</div>
+										<div class="usage">
+						Garry stood tense, his mind a chaos of half-formed plans.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories, March, 1931" by <span>Various</span>					</div>
+										<div class="usage">
+						Now the question arises: Who made the chaos and who is responsible for the evil?
+					</div>
+					<div class="uAuthor">
+						"Arrows of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						The best document preserved to us of this attempt to bring order into Chaos is the poetry of Hesiod.
+					</div>
+					<div class="uAuthor">
+						"Five Stages of Greek Religion" by <span>Gilbert Murray</span>					</div>
+										<div class="usage">
+						Then the last vestige of reason fled from the mob, and chaos took the reins.
+					</div>
+					<div class="uAuthor">
+						"Carmen Ariza" by <span>Charles Francis Stocking</span>					</div>
+										<div class="usage">
+						We are great for giving names to selected fragments of the chaos of life.
+					</div>
+					<div class="uAuthor">
+						"The Cup of Fury" by <span>Rupert Hughes</span>					</div>
+										<div class="usage">
+						For three days and nights New York City was in chaos.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories, May, 1931" by <span>Various</span>					</div>
+										<div class="usage">
+						How could order come of such a chaos?
+					</div>
+					<div class="uAuthor">
+						"When Ghost Meets Ghost" by <span>William Frend De Morgan</span>					</div>
+										<div class="usage">
+						Indeed, for three years Spain, politically and industrially, was in a state of chaos.
+					</div>
+					<div class="uAuthor">
+						"Violence and the Labor Movement" by <span>Robert Hunter</span>					</div>
+										<div class="usage">
+						Her father was one of Israel's deliverers in the days of tribal division and political chaos.
+					</div>
+					<div class="uAuthor">
+						"Oriental Women" by <span>Edward Bagby Pollard</span>					</div>
+										<div class="usage">
+						Here, various colours in confusion lost, Old Chaos' face and troubled image boast.
+					</div>
+					<div class="uAuthor">
+						"The Lusiad" by <span>Luís de Camões</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Is there no God—earth, sky, and sea<br>
+Are but a chaos wild!<br>
+Is there a God—I know that he<br>
+Must hear his calling child!
+							<div class="poet">"The Disciple" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							God of Mercy! God of Peace!<br>
+Make the mad confusion cease;<br>
+O'er the mental chaos move,<br>
+Through it speak the light of love.
+							<div class="poet">"The Wake of William Orr" by <span>William Drennan</span></div>
+						</div>
+											<div class="poemQuote">
+							The chaos reigning in the room<br>
+He does not try to master.<br>
+His tears and headache hide in gloom<br>
+The extent of his disaster.
+							<div class="poet">"Parting" by <span>Boris Pasternak</span></div>
+						</div>
+											<div class="poemQuote">
+							The fields where chaos reigned supreme<br>
+And Nature frowned aghast,<br>
+By patient-toil have fruitage borne<br>
+And blossomed fragrance cast.
+							<div class="poet">"Needs And Powers" by <span>Jared Barhite</span></div>
+						</div>
+											<div class="poemQuote">
+							When oblivion reigns supreme,<br>
+Down the endless aisles of chaos,<br>
+All things become alike gangrene,<br>
+In the land where spirit leaves us.
+							<div class="poet">"The Fate Of All" by <span>Samuel Alfred Beadle</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh, man, why in thy foolish heart<br>
+Should one seed grow so well,<br>
+That naught but chaos there should reign,<br>
+'Mid poison plants of hell.
+							<div class="poet">"Display" by <span>Thomas Frederick Young</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						BEIJING—Charles Chao has built Sina Corp.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052702304231204576405041750625026.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Imagine the chaos this flight caused in the Big Apple when three radio controlled aircraft enthusiast sent their latest creations skyward.
+					</div>
+					<div class="uAuthor">
+						<a href="http://973thedawg.com/radio-controlled-humans-fly-over-new-york-city-video/" target="_blank" rel="external nofollow">973thedawg.com</a>
+					</div>
+										<div class="usage">
+						All great rock albums are a delicate dance between chaos and control.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.citypages.com/2009-09-02/music/eau-claire-quartet-laarks-walk-fine-line-between-regal-and-ragged/" target="_blank" rel="external nofollow">citypages.com</a>
+					</div>
+										<div class="usage">
+						They might have been easy to miss, what with all the bulldozers and jackhammers and general chaos, but a group of more demure residents have recently put down roots in Columbus Circle.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2004/04/18/nyregion/neighborhood-report-columbus-circle-where-late-the-jackhammers-rang.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The Iraqi National Museum, home to priceless artifacts that were plundered in the chaos after the United States-led invasion in 2003, will reopen this month, an Iraqi official said Wednesday, Reuters reported.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2009/02/12/arts/design/12arts-IRAQIMUSEUMR_BRF.html?_r=2&amp;scp=3&amp;sq=museum&amp;st=cse" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The game ended in chaos after a call in the end zone gave the Seahawks the winning touchdown.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.okcfox.com/newsroom/top_stories/videos/kokh_vid_7214.shtml" target="_blank" rel="external nofollow">okcfox.com</a>
+					</div>
+										<div class="usage">
+						Some said they thought Monday night's Packers-Seahawks game, which ended in chaos after a call in the end zone gave the Seahawks the winning touchdown instead of a Packers interception, provided the final push toward a settlement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.crescent-news.com/latest%20headlines/2012/09/28/officials-gather-for-contract-ratification-vote" target="_blank" rel="external nofollow">crescent-news.com</a>
+					</div>
+										<div class="usage">
+						Chaos After a President's Shooting.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2011/03/10/books/rawhide-down-the-near-assassination-of-ronald-reagan-by-del-quentin-wilber.html?_r=1&amp;scp=1&amp;sq=rawhide%20down&amp;st=cse&amp;gwh=E60CF064CBC4CB8A8B8CD799BB00D4D7" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						With Albany reeling from the chaos of a scandal-plagued governor and rising discontent with the current crop of politicians, New York has been hearing more from a ghost of scandals past: Eliot Spitzer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.amny.com/urbanite-1.812039/in-public-re-emergence-some-wonder-what-s-next-for-spitzer-1.1804968" target="_blank" rel="external nofollow">amny.com</a>
+					</div>
+										<div class="usage">
+						They're streaming "Cradle Robber" from their upcoming album Chaos Of Forms on their official Facebook page.
+					</div>
+					<div class="uAuthor">
+						<a href="http://1063thebuzz.com/the-new-revocation-track-will-kick-you-in-the-balls/" target="_blank" rel="external nofollow">1063thebuzz.com</a>
+					</div>
+										<div class="usage">
+						International sanctions, the government's lack of fiscal discipline, and Iranians' memories of hardship combine for chaos.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/10/business-the-rials-freefall-a-historical-perspective.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						A sultry noir in contemporary clothes, this tight new thriller from Brown plays like measured chaos.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/978-0-7435-5424-4" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<div class="usage">
+						Lords of Chaos ringleader 's bid to overturn death sentence DENIED.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fox4now.com/news/125378283.html" target="_blank" rel="external nofollow">fox4now.com</a>
+					</div>
+										<div class="usage">
+						Cleveland's Ringworm is taking a brief jaunt down to Texas for the annual Chaos In Tejas festival in Austin, and Kansas City is lucky enough to get one of the dates on the way.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pitch.com/wayward/archives/2012/05/30/listen-before-the-show-ringworm" target="_blank" rel="external nofollow">pitch.com</a>
+					</div>
+										<div class="usage">
+						"Chaos" rules day in Philly with scab officiating, Ravens tightrope loss.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wnst.net/top-story/crabs-n-beer/chaos-rules-day-in-philly-with-scab-officiating-ravens-tightrope-loss/" target="_blank" rel="external nofollow">wnst.net</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In that approach the Frobenius-Perron resonances constitute a link between classical and quantum chaos [5,6]. 
+					</div>
+					<div class="uAuthor">
+						Frobenius-Perron Resonances for Maps with a Mixed Phase Space
+					</div>
+										<div class="usage">
+						A well-known theme in random matrix theory (RMT), zeta functions, quantum chaos, and statistical mechanics, is the universality of scaling limits of correlation functions. 
+					</div>
+					<div class="uAuthor">
+						Universality and scaling of zeros on symplectic manifolds
+					</div>
+										<div class="usage">
+						Cebrat∗ † Colorado Center for Chaos and Complexity, CIRES, CB 216, University of Colorado, Boulder, Colorado, USA 80309 ∗ Institute of Microbiology, University of Wroc law, ul.S. 
+					</div>
+					<div class="uAuthor">
+						Random deaths in a computational model for age-structured populations
+					</div>
+										<div class="usage">
+						RMT may be applied as an exact theory for correlations of eigenvalues, as discussed in the ﬁrst part of this review, or it may serve as a schematic model for chaos and disorder in physical systems. 
+					</div>
+					<div class="uAuthor">
+						Random Matrix Theory and Chiral Symmetry in QCD
+					</div>
+										<div class="usage">
+						Finally, RMT encapsulates a duality between order and chaos. 
+					</div>
+					<div class="uAuthor">
+						Random Matrix Theory and Chiral Symmetry in QCD
+					</div>
+										<div class="usage">
+						Smilansky in: Supersymmetry and Trace Formulae: Chaos and Disorder, edited by I.V.
+					</div>
+					<div class="uAuthor">
+						Spectra of Random Contractions and Scattering Theory for Discrete-Time Systems
+					</div>
+										<div class="usage">
+						Recently there have been published a great amount of papers concerned with the ”quantum chaos”, i.e. with the quantum analogues of classical systems possessing the dynamic chaos features. 
+					</div>
+					<div class="uAuthor">
+						Exactly solvable models of quantum mechanics including fluctuations in the framework of representation of the wave function by random process
+					</div>
+										<div class="usage">
+						In the third place, as it follows from the recent papers [6, 7, 8], a chaos may also appear in the wave function even in a closed dynamical system. 
+					</div>
+					<div class="uAuthor">
+						Exactly solvable models of quantum mechanics including fluctuations in the framework of representation of the wave function by random process
+					</div>
+										<div class="usage">
+						As it is shown in , there is a close connection between a classical nonintegrability and a chaos in the corresponding quantum system. 
+					</div>
+					<div class="uAuthor">
+						Exactly solvable models of quantum mechanics including fluctuations in the framework of representation of the wave function by random process
+					</div>
+										<div class="usage">
+						Chaos seems to lead to the “spectral rigidity”, typical of the spectral distributions of random matrices, whereas the spectrum of an integrable system is random (Poisson)! (e.g., see Odlyzko and Sarnak ). 
+					</div>
+					<div class="uAuthor">
+						Integrable Lattices: Random Matrices and Random Permutations
+					</div>
+										<div class="usage">
+						Such a scenario has been called fragile chaos. 
+					</div>
+					<div class="uAuthor">
+						Predicting and generating time series by neural networks: An investigation using statistical physics
+					</div>
+										<div class="usage">
+						Kanter: Robust chaos generation by a perceptron, Europhys. 
+					</div>
+					<div class="uAuthor">
+						Predicting and generating time series by neural networks: An investigation using statistical physics
+					</div>
+										<div class="usage">
+						Bohigas in Chaos and Quantum Physics, Proceedings of the les Houges Summer School of Theoretical Physics, 1989, eds. M.-J. 
+					</div>
+					<div class="uAuthor">
+						Singular statistics
+					</div>
+										<div class="usage">
+						Senechal , Chaos in the hermitian one-matrix model, Int.J.
+					</div>
+					<div class="uAuthor">
+						Phase transitions and random matrices
+					</div>
+										<div class="usage">
+						The basic dichotomy of nonlinear dynamics, namely, integrability versus nonintegrability and chaos, is certainly to be found in mathematical cosmology too. 
+					</div>
+					<div class="uAuthor">
+						Is Nature Generic?
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a state of extreme confusion and disorder"><a href="pandemonium.html">pandemonium</a>, <a href="bedlam.html">bedlam</a>, <a href="topsy-turvydom.html">topsy-turvydom</a>, <a href="topsy-turvyness.html">topsy-turvyness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="confusion.html">confusion</a>, <a href="dynamical%20system.html">dynamical system</a>, <a href="physical%20phenomenon.html">physical phenomenon</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="balagan.html">balagan</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="chaotic.html">chaotic</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Aether.html">Aether</a>, <a href="anarchy.html">anarchy</a>, <a href="balagan.html">balagan</a>, <a href="chaotic.html">chaotic</a>, <a href="chaotically.html">chaotically</a>, <a href="confusion.html">confusion</a>, <a href="cosmos.html">cosmos</a>, <a href="Cultural%20Revolution.html">Cultural Revolution</a>, <a href="demiurge.html">demiurge</a>, <a href="Erebus.html">Erebus</a>, <a href="Great%20Proletarian%20Cultural%20Revolution.html">Great Proletarian Cultural Revolution</a>, <a href="Infusoria.html">Infusoria</a>, <a href="Kalpa.html">Kalpa</a>, <a href="Nyx.html">Nyx</a>, <a href="Tohu%20bohu.html">Tohu bohu</a>, <a href="Tohubohu.html">Tohubohu</a>, <a href="topsy-turvy.html">topsy-turvy</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xhaos, dhaos, fhaos, vhaos, cgaos, cyaos, cjaos, cnaos, cbaos, chqos, chwos, chsos, chzos, chais, chaks, chals, chaps, chaoa, chaow, chaod, chaox, chaoz, chaoa
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

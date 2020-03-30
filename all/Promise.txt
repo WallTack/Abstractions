@@ -1,0 +1,595 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>promise</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/147/16/4243.jpg" alt="Moses Views the Promised Land">
+							<div class="caption">Moses Views the Promised Land</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">promise</span> <span class="exp">make a promise or commitment</span> </li><li><span class="tSpeech">v</span> <span class="term">promise</span> <span class="exp">promise to undertake or give</span> <span class="quot">"I promise you my best effort"</span></li><li><span class="tSpeech">v</span> <span class="term">promise</span> <span class="exp">make a prediction about; tell in advance</span> <span class="quot">"Call the outcome of an election"</span></li><li><span class="tSpeech">v</span> <span class="term">promise</span> <span class="exp">give grounds for expectations</span> <span class="quot">"The new results were promising","The results promised fame and glory"</span></li><li><span class="tSpeech">n</span> <span class="term">promise</span> <span class="exp">grounds for feeling hopeful about the future</span> <span class="quot">"there is little or no promise that he will recover"</span></li><li><span class="tSpeech">n</span> <span class="term">promise</span> <span class="exp">a verbal commitment by one person to another agreeing to do (or not to do) something in the future</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+								<hr class="double">
+				<h3 id="illustrations">Additional illustrations &amp; photos:</h3>
+																							<div class="thumbContainer" title="BABY ASKS BETSY TO PROMISE">
+						<a href="http://media.finedictionary.com/pictures/175/65/16815.jpg"> 
+						<img src="http://media.finedictionary.com/pictures/175/65/th_16815.jpg" alt="BABY ASKS BETSY TO PROMISE">
+						</a>
+						BABY ASKS BETSY TO PROMISE
+					</div>
+																								
+				<hr class="double">
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Franklin Pierce is the only President to have said "I promise" instead of "I swear at his Inauguration. He did it for religious reasons.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Promise</span> <span class="exp"><span class="wuFld">(Law)</span> An engagement by one person to another, either in words or in writing, but properly not under seal, for the performance or nonperformance of some particular thing.  The word <span class="wUex">promise</span> is used to denote the mere engagement of a person, without regard to the consideration for it, or the corresponding duty of the party to whom it is made.</span> </li><li><span class="term">Promise</span> <span class="exp">Bestowal, fulfillment, or grant of what is promised.</span> <span class="wuQuot">"He . . . commanded them that they should not depart from Jerusalem, but wait for the promise of the Father."</span></li><li><span class="term">Promise</span> <span class="exp">In general, a declaration, written or verbal, made by one person to another, which binds the person who makes it to do, or to forbear to do, a specified act; a declaration which gives to the person to whom it is made a right to expect or to claim the performance or forbearance of a specified act.</span> <span class="wuQuot">"For if the inheritance be of the law, it is no more of promise : but God gave it to Abraham by promise ."</span></li><li><span class="term">Promise</span> <span class="exp">That which causes hope, expectation, or assurance; especially, that which affords expectation of future distinction; as, a youth of great <span class="wUex">promise</span>
+            .</span> <span class="wuQuot">"My native country was full of youthful promise ."</span></li><li><span class="term">Promise</span> <span class="exp">To afford hopes or expectation; to give ground to expect good; rarely, to give reason to expect evil.</span> <span class="wuQuot">"Will not the ladies be afeard of the lion?<br>
+I fear it, I promise you."</span></li><li><span class="term">Promise</span> <span class="exp">To afford reason to expect; to cause hope or assurance of; as, the clouds <span class="wUex">promise</span> rain.</span> </li><li><span class="term">Promise</span> <span class="exp">To engage to do, give, make, or to refrain from doing, giving, or making, or the like; to covenant; to engage; as, to <span class="wUex">promise</span> a visit; to <span class="wUex">promise</span> a cessation of hostilities; to <span class="wUex">promise</span> the payment of money.
+         </span> <span class="wuQuot">"To promise aid."</span></li><li><span class="term">Promise</span> <span class="exp">To give assurance by a promise, or binding declaration.</span> </li><li><span class="term">Promise</span> <span class="exp">To make declaration of or give assurance of, as some benefit to be conferred; to pledge or engage to bestow; as, the proprietors <span class="wUex">promised</span> large tracts of land; the city <span class="wUex">promised</span> a reward.
+         </span> <span class="wuQuot">"I dare promise myself you will attest the truth of all I have advanced."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In July 1981, a tortoise was sentenced to death for murder. Tribal elders in Kyuasini, a village in Kenya, formally condemned the tortoise because they suspected it of causing the death of six people, apparently through magic. However, because none of the villagers was prepared to risk the tortoise's wrath by carrying out the execution, it was instead chained to a tree. The tortoise was later freed after the government promised an official inquiry into the deaths.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">promise</span> <span class="exp">A declaration in reference to the future, whether written or verbal, made by one person to another, purporting to assure the latter that the former will do or forbear from a specified act, or cause it to be done or refrained from; a declaration intended to give to the person to whom it is made assurance of his right to expect from the promisor the thing promised; especially, a declaration that something shall be done or given for the benefit of the promisee or another. In law, a promise is not binding in such sense as to be directly enforceable through the courts, unless made upon a consideration good or valuable; in which case the promise and the consideration together form a contract or agreement (if under seal, termed a covenant) which binds the promisor, and it may be bis legal representatives, and gives the promisee, and in some cases a third person for whose benefit the promise was made, the right to enforce it by suit, or to recover damages for its breach.</span> </li><li><span class="tSpeech">n</span> <span class="term">promise</span> <span class="exp">Ground or basis of expectation; earnest: pledge.</span> </li><li><span class="tSpeech">n</span> <span class="term">promise</span> <span class="exp">That which affords a ground or basis for hope or for expectation of future excellence or distinction: as, a youth of great promise.</span> </li><li><span class="tSpeech">n</span> <span class="term">promise</span> <span class="exp">That which is promised; fulfilment or grant of what is promised.</span> </li><li><span class="tSpeech">n</span> <span class="term">promise</span> <span class="exp">A promise made without seal, either orally or in writing, as distinguished from one made under seal, which is technically called a covenant.</span> </li><li><span class="tSpeech">n</span> <span class="term">promise</span> <span class="exp">Synonyms Assurance, Promise, Engagement, Pledge, Covenant. These words are arranged in the order of strength; it would be dishonorable to fail to keep what even the weakest of them expresses. The formality and solemnity of each are proportioned to its strength. A covenant is a mutual obligation; the others are not. Each of them may be either spoken or written, but the written is generally more formal, and may have greater legal obligation.</span> </li><li><span class="term">promise</span> <span class="exp">To make a promise of; engage to do, give, grant, or procure for some one; especially, to engage that some benefit shall be conferred.</span> </li><li><span class="term">promise</span> <span class="exp">To afford reason to expect: as, the year promises a good harvest; the clouds promise rain.</span> </li><li><span class="term">promise</span> <span class="exp">To assure.</span> </li><li><span class="term">promise</span> <span class="exp">To make as promisor; be the promisor in.</span> </li><li><span class="term">promise</span> <span class="exp">Synonyms To assure, engage, covenant. See the noun.</span> </li><li><span class="term">promise</span> <span class="exp">To assure one by a promise! or binding declaration.</span> </li><li><span class="term">promise</span> <span class="exp">To afford hopes or expectations; give ground for expecting satisfactory or agreeable results.</span> </li><li><span class="term">promise</span> <span class="exp">To stand sponsor.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Mary Todd once dated both Abe Lincoln and Stephen Douglas. She chose Lincoln because he showed more promise, and she was right - he was good at everything but ducking.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Promise</span> <span class="exp"><span class="itl">prom′is</span> an engagement made by a person either verbally or in writing to do or keep from doing something: expectation or that which causes expectation: a ground for hope of future excellence:</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Promise</span> <span class="exp">to make an engagement to do or not to do something: to afford reason to expect: to assure: to engage to bestow</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Promise</span> <span class="exp">to assure one by a promise: to afford hopes or expectations:</span> </li><li><span class="tSpeech">n</span> <span class="term">Promise</span> <span class="exp"><span class="itl">prom′is</span> (<span class="itl">rare</span>) fulfilment of what is promised</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Promise</span> <span class="exp">(<span class="itl">rare</span>) to stand sponsor</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Archibald Macleish</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Archibald%20Macleish.jpg" alt="Archibald%20Macleish">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“America is promises to take! America is promises to us to take them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henri B. Stendhal</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henri%20B.%20Stendhal.jpg" alt="Henri%20B.%20Stendhal">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Beauty is the promise of happiness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Simone Weil</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Simone%20Weil.jpg" alt="Simone%20Weil">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Beauty always promises, but never gives anything.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dutch Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Dutch Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Promises make debt, and debt makes promises.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Carey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William Carey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The future is as bright as the promises of God.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Wolfgang Von Goethe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Wolfgang%20Von%20Goethe.jpg" alt="Johann%20Wolfgang%20Von%20Goethe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Girls we love for what they are; men for what they promise to be.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>A lick and a promise</span> - If you give something a lick and a promise, you do it hurriedly, most often incompletely, intending to return to it later.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">promesse</span>, L. <span class="wUets">promissum</span>, fr. <span class="wUets">promittere</span>, <span class="wUets">promissum</span>, to put forth, foretell, promise; <span class="wUets">pro</span>, forward, for + <span class="wUets">mittere</span>, to send. See <span class="wUer">Mission</span>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						But M'sieu Ralph had said so, and what he promised came to pass.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old Quebec" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						But Betty promised to go over lessons with her when they came back.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old Boston" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						A promise is a promise; and a promise made to a dying man!
+					</div>
+					<div class="uAuthor">
+						"Miss Mackenzie" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						She did not promise to drink any of the promised tea.
+					</div>
+					<div class="uAuthor">
+						"Deerbrook" by <span>Harriet Martineau</span>					</div>
+										<div class="usage">
+						She has promised, and is willing to sacrifice herself to her promise.
+					</div>
+					<div class="uAuthor">
+						"An Old Man's Love" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						The thing before him was a vision; it joined high heaven with the earth below; it was a promise.
+					</div>
+					<div class="uAuthor">
+						"The Goose Man" by <span>Jacob Wassermann</span>					</div>
+										<div class="usage">
+						He would now let me up if I would promise to make friends, and not fight him.
+					</div>
+					<div class="uAuthor">
+						"Autobiography of Frank G. Allen, Minister of the Gospel" by <span>Frank G. Allen</span>					</div>
+										<div class="usage">
+						I have been very foolish, but never say anything about it; never, never, not to any one; promise me, promise me, Caroline.
+					</div>
+					<div class="uAuthor">
+						"The Bertrams" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						I have his promise to marry me, but you have his heart.
+					</div>
+					<div class="uAuthor">
+						"A Coin of Edward VII" by <span>Fergus Hume</span>					</div>
+										<div class="usage">
+						She promised with all her heart to do her utmost to fulfil his wishes.
+					</div>
+					<div class="uAuthor">
+						"Hopes and Fears scenes from the life of a spinster" by <span>Charlotte M. Yonge</span>					</div>
+										<div class="usage">
+						Lowdham however promised them to make an appointment for the following Monday.
+					</div>
+					<div class="uAuthor">
+						"Diaries of Sir Moses and Lady Montefiore, Volume I" by <span>Sir Moses Montefiore</span>					</div>
+										<div class="usage">
+						Of course I shall release him from his promise.
+					</div>
+					<div class="uAuthor">
+						"Woman on Her Own, False Gods &amp; The Red Robe" by <span>Eugène Brieux</span>					</div>
+										<div class="usage">
+						He must promise much; but, of course, in making his promise he must arrange about his debts.
+					</div>
+					<div class="uAuthor">
+						"Sir Harry Hotspur of Humblethwaite" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						There are two kinds of promises, or a twofold promise, as we have often explained.
+					</div>
+					<div class="uAuthor">
+						"Commentary on Genesis, Vol. II" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						I promised Connie, and I'll keep my word until she releases me from that promise.
+					</div>
+					<div class="uAuthor">
+						"Marjorie Dean" by <span>Pauline Lester</span>					</div>
+										<div class="usage">
+						The pouch proclaims its value, and promises to sell itself.
+					</div>
+					<div class="uAuthor">
+						"The Wild Huntress" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Mamma, I promise you I'll never be a slattern.
+					</div>
+					<div class="uAuthor">
+						"The Wide, Wide World" by <span>Susan Warner</span>					</div>
+										<div class="usage">
+						But Driscoll had not promised, and yet Murguia had implored him to take it, even without promising.
+					</div>
+					<div class="uAuthor">
+						"The Missourian" by <span>Eugene P. (Eugene Percy) Lyle</span>					</div>
+										<div class="usage">
+						He made me promise to say nothing, and I've broken my promise, I suppose.
+					</div>
+					<div class="uAuthor">
+						"When Ghost Meets Ghost" by <span>William Frend De Morgan</span>					</div>
+										<div class="usage">
+						But Isabella had promised and promised again; and when she promised a thing, she was so scrupulous in performing it!
+					</div>
+					<div class="uAuthor">
+						"The Complete Project Gutenberg Works of Jane Austen" by <span>Jane Austen</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							There shall be showers of blessing:<br>
+This is the promise of love;<br>
+There shall be seasons refreshing,<br>
+Sent from the Savior above.
+							<div class="poet">"There Shall Be Showers of Blessing" by <span>Daniel Webster Moody</span></div>
+						</div>
+											<div class="poemQuote">
+							Could I joy his saints to meet,<br>
+Choose the ways I once abhorred,<br>
+Find, at times, the promise sweet,<br>
+If I did not love the Lord? 
+							<div class="poet">"Lovest Thou Me?" by <span>John Newton</span></div>
+						</div>
+											<div class="poemQuote">
+							Within the hearts of all men lie<br>
+These promises of wider bliss,<br>
+Which blossom into hopes that cannot die,<br>
+In sunny hours like this.
+							<div class="poet">"An Incident In A Railroad Car" by <span>James Russell Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							He will come; he will come;<br>
+He will come, for he promised.<br>
+My White Eagle, he will come;<br>
+He will come, for he promised----<br>
+My White Eagle.
+							<div class="poet">"Winona - Famine" by <span>Hanford Lennox Gordon</span></div>
+						</div>
+											<div class="poemQuote">
+							Faith does alone the promise eye;<br>
+Sense won't believe unless it see;<br>
+Nor can it trust the divine guide,<br>
+Unless it have both wind and tide.
+							<div class="poet">"The Believer's Principles : Chap. IV." by <span>Ralph Erskine</span></div>
+						</div>
+											<div class="poemQuote">
+							O come, this wondrous man behold!<br>
+The promised Saviour! this is he,<br>
+Whom ancient prophecies foretold,<br>
+Born, from our guilt to set us free. 
+							<div class="poet">"The Woman Of Samaria" by <span>John Newton</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						DALLAS- In recent days we've seen the US House of Representatives follow through on some members' campaign promises by passing a symbolic bill that would repeal the landmark Patient Protection and Affordable Care Act of 2010.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aframnews.com/websitepublisher/articles/personal-benefits-should-prevail-over-healthcare-reform-banter.html" target="_blank" rel="external nofollow">aframnews.com</a>
+					</div>
+										<div class="usage">
+						Don't be fooled by more baseless promises.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.syracuse.com/opinion/2012/09/election_2012_24th_cd_-_dont_b.html" target="_blank" rel="external nofollow">blog.syracuse.com</a>
+					</div>
+										<div class="usage">
+						But the day was salvaged when former Yankee batboy Ray Negron stopped at the school instead and promised that the Bronx Bombers would swing by after the World Series.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bxtimes.com/stories/2009/45/doc4ae9e5bc738b4070278767.html" target="_blank" rel="external nofollow">bxtimes.com</a>
+					</div>
+										<div class="usage">
+						A Promise Unfulfilled at an Art Deco Bathhouse in the Rockaways.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/08/22/nyregion/jacob-riis-bathhouse-envisioned-as-park-centerpiece-looks-abandoned.html?ref=nyregion" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Socialist presidential candidate Francois Hollande promises to tax the rich and bring down debt.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/regions/europe/france/120126/sarkozy-s-rival-lays-out-french-election-battle-plan" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						Dixie promises a bawdy good time at her 'Party' at CLO Cabaret.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/stories/ae/theater-dance/stage-preview-dixie-promises-a-bawdy-good-time-at-her-party-at-clo-cabaret-651882/" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						Mario Draghi's vow to do 'whatever it takes' to save the euro isn't an empty promise.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Business/The-Daily-Reckoning/2012/0808/Mario-Draghi-s-big-bazooka-a-weapon-not-a-cure" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Promise this will only hurt for 5 years.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.courant.com/health/sc-health-0408-aa-allergy-shots-20110411,0,3049101.story" target="_blank" rel="external nofollow">courant.com</a>
+					</div>
+										<div class="usage">
+						Now that Mardi Gras is over and Lenten promises are made, it's time for a delicious meat-free entree recipe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gasparillagazette.com/page/blogs.detail/display/112/A-recipe-for-Lent.html" target="_blank" rel="external nofollow">gasparillagazette.com</a>
+					</div>
+										<div class="usage">
+						 Beaux Barfield promises transparency on rules.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.racer.com/video-beaux-barfield-promises-transparency-on-rules/article/221902/" target="_blank" rel="external nofollow">racer.com</a>
+					</div>
+										<div class="usage">
+						New York Screening of 'Eastern Promises'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/nightlife/partylines/38279/" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						At the month-old Uncle, a noodle bar in LoHi, I ordered the promising-sounding roasted cauliflower with curry, golden raisins, coconut, and crispy shallots.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.5280.com/blogs/2012/09/10/order-uncles-crispy-calamari" target="_blank" rel="external nofollow">5280.com</a>
+					</div>
+										<div class="usage">
+						You may even be aware of a new show I've helped create on the subject, a show that promises to have something for everybody.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wgr550.com/SCHOPP--The-day-Verne-Lundquist-broke-the-camel-s-back/8669316?archive=1&amp;pid=48320" target="_blank" rel="external nofollow">wgr550.com</a>
+					</div>
+										<div class="usage">
+						We are not promised tomorrow, so lets make every day count.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.njeffersonnews.com/communitynews/x492326649/Winter-camp-meeting-set-for-Feb-20" target="_blank" rel="external nofollow">njeffersonnews.com</a>
+					</div>
+										<div class="usage">
+						Adam Lambert Promises 'Less Campy , More Primal' New Album.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/news/adam-lambert-promises-campy-more-166821" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Random routing is a promising method, particularly if the network has small-world properties. 
+					</div>
+					<div class="uAuthor">
+						Random spread on the family of small-world networks
+					</div>
+										<div class="usage">
+						Here as promised we will use the instanton method13 to study the tail of the spectrum. 
+					</div>
+					<div class="uAuthor">
+						Hopping between Random Locations: Spectrum and Instanton
+					</div>
+										<div class="usage">
+						No self-consistent calculations of such a ‘sandwich-like’ accelerator exist at present, but the results obtained by with an approximate treatment of the problem look promising indeed. 
+					</div>
+					<div class="uAuthor">
+						Neutron Stars as Sources of High Energy Particles - the case of RPP
+					</div>
+										<div class="usage">
+						We ended our journey with a discussion on the recently proposed Jarzynski’s equality and the promise this technique holds for computation of equilibrium free energies from nonequilibrium simulation/experiment. 
+					</div>
+					<div class="uAuthor">
+						An Introduction to Monte Carlo Simulation of Statistical physics Problem
+					</div>
+										<div class="usage">
+						Therefore, the generation of the 4d standard model from the multiple copy of the 3d ones is quite promising. 
+					</div>
+					<div class="uAuthor">
+						4d Gauge Theory and Gravity Generated from 3d Ones at High Energy
+					</div>
+										<div class="usage">
+						Nevertheless the possibility of generating the 4d standard model from the simple multiplication of the 3d ones at high energy is quite promising. 
+					</div>
+					<div class="uAuthor">
+						4d Gauge Theory and Gravity Generated from 3d Ones at High Energy
+					</div>
+										<div class="usage">
+						SNe Ia at z &gt; 1 measured by the HZT already look promising (J. 
+					</div>
+					<div class="uAuthor">
+						Einstein's Biggest Blunder? High-Redshift Supernovae and the Accelerating Universe
+					</div>
+										<div class="usage">
+						This looks quite promising since also F (X, eX ) has this form. 
+					</div>
+					<div class="uAuthor">
+						From Subfactors to Categories and Topology II. The quantum double of tensor categories and subfactors
+					</div>
+										<div class="usage">
+						Superstring theory and/or M-theory are the most promising theories that include quantum gravity. 
+					</div>
+					<div class="uAuthor">
+						Generalized Matrix Mechanics
+					</div>
+										<div class="usage">
+						Here, as promised, we are using ob jects deﬁned in §1 with N = 2. 
+					</div>
+					<div class="uAuthor">
+						Generating functions for moments of the quasi-nilpotent DT-operator
+					</div>
+										<div class="usage">
+						In Section II.C, we promised that we would ﬁnd a quick way to compute the current paths for the standard DPI methods by means of the L´evy-Ciesielski series representation. 
+					</div>
+					<div class="uAuthor">
+						Random Series and Discrete Path Integral methods: The Levy-Ciesielski implementation
+					</div>
+										<div class="usage">
+						There are a few promising experimental realizations of materials that exhibit non trivial next-nearest neighbor interactions. 
+					</div>
+					<div class="uAuthor">
+						Random Antiferromagnetic Spin-1/2 Chains with Competing Interactions
+					</div>
+										<div class="usage">
+						The most promising approach so far toward Problem 2 uses regeneration times. 
+					</div>
+					<div class="uAuthor">
+						Random walks in random environments
+					</div>
+										<div class="usage">
+						Quantum computation promises exponential speedup in the solution of diﬃcult problems such as factoring large numbers and simulating quantum systems [1, 2]. 
+					</div>
+					<div class="uAuthor">
+						Diagnosis, prescription and prognosis of a Bell-state filter by quantum process tomography
+					</div>
+										<div class="usage">
+						In this way, we have proved the decomposition theorem (2.1) as we promised. 
+					</div>
+					<div class="uAuthor">
+						Open+Closed String Field Theory From Gauge Fields
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="make a promise or commitment"><a href="assure.html">assure</a>, </div><div class="synGroup" title="grounds for feeling hopeful about the future"><a href="hope.html">hope</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="be.html">be</a>, <a href="commitment.html">commitment</a>, <a href="declare.html">declare</a>, <a href="dedication.html">dedication</a>, <a href="expectation.html">expectation</a>, <a href="guess.html">guess</a>, <a href="hazard.html">hazard</a>, <a href="outlook.html">outlook</a>, <a href="pretend.html">pretend</a>, <a href="prospect.html">prospect</a>, <a href="speech%20act.html">speech act</a>, <a href="venture.html">venture</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="augur.html">augur</a>, <a href="bet.html">bet</a>, <a href="betrothal.html">betrothal</a>, <a href="calculate.html">calculate</a>, <a href="contract.html">contract</a>, <a href="engagement.html">engagement</a>, <a href="forecast.html">forecast</a>, <a href="guarantee.html">guarantee</a>, <a href="oath.html">oath</a>, <a href="outguess.html">outguess</a>, <a href="parole.html">parole</a>, <a href="pinning.html">pinning</a>, <a href="pledge.html">pledge</a>, <a href="plight.html">plight</a>, <a href="prophesy.html">prophesy</a>, <a href="rain%20check.html">rain check</a>, <a href="rainbow.html">rainbow</a>, <a href="read.html">read</a>, <a href="second-guess.html">second-guess</a>, <a href="swear%20off.html">swear off</a>, <a href="troth.html">troth</a>, <a href="undertake.html">undertake</a>, <a href="vaticinate.html">vaticinate</a>, <a href="wager.html">wager</a>, <a href="word.html">word</a>, <a href="word%20of%20honor.html">word of honor</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="prediction.html">prediction</a>, <a href="predictive.html">predictive</a>, <a href="predictor.html">predictor</a>, <a href="promisee.html">promisee</a>, <a href="promiser.html">promiser</a>, <a href="promisor.html">promisor</a>, <a href="promissory.html">promissory</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absolute.html">absolute</a>, <a href="accept.html">accept</a>, <a href="accomplish.html">accomplish</a>, <a href="affiance.html">affiance</a>, <a href="Affy.html">Affy</a>, <a href="agree.html">agree</a>, <a href="alibi.html">alibi</a>, <a href="allegiance.html">allegiance</a>, <a href="apocalypse.html">apocalypse</a>, <a href="assume.html">assume</a>, <a href="Assumpsit.html">Assumpsit</a>, <a href="assurance.html">assurance</a>, <a href="assure.html">assure</a>, <a href="augury.html">augury</a>, <a href="auspicious.html">auspicious</a>, <a href="auspiciousness.html">auspiciousness</a>, <a href="avow.html">avow</a>, <a href="back.html">back</a>, <a href="band.html">band</a>, <a href="behest.html">behest</a>, <a href="Behight.html">Behight</a>, <a href="Bename.html">Bename</a>, <a href="betoken.html">betoken</a>, <a href="betray.html">betray</a>, <a href="betroth.html">betroth</a>, <a href="betrothal.html">betrothal</a>, <a href="Betrothment.html">Betrothment</a>, <a href="bind.html">bind</a>, <a href="blind.html">blind</a>, <a href="bloom.html">bloom</a>, <a href="blossom.html">blossom</a>, <a href="Blue-skylaw.html">Blue-skylaw</a>, <a href="bode.html">bode</a>, <a href="bond.html">bond</a>, <a href="borrower.html">borrower</a>, <a href="breach.html">breach</a>, <a href="breach%20of%20promise.html">breach of promise</a>, <a href="break.html">break</a>, <a href="Break%20one%27s%20word.html">Break one's word</a>, <a href="Break-promise.html">Break-promise</a>, <a href="Break-vow.html">Break-vow</a>, <a href="bribe.html">bribe</a>, <a href="bright.html">bright</a>, <a href="broken.html">broken</a>, <a href="bud.html">bud</a>, <a href="carrot.html">carrot</a>, <a href="caution.html">caution</a>, <a href="Cautionry.html">Cautionry</a>, <a href="certificate%20of%20indebtedness.html">certificate of indebtedness</a>, <a href="come-on.html">come-on</a>, <a href="compound.html">compound</a>, <a href="compromise.html">compromise</a>, <a href="Compromit.html">Compromit</a>, <a href="condition.html">condition</a>, <a href="conditional.html">conditional</a>, <a href="Conditional%20promise.html">Conditional promise</a>, <a href="confirm.html">confirm</a>, <a href="confirmation.html">confirmation</a>, <a href="consideration.html">consideration</a>, <a href="contingent.html">contingent</a>, <a href="contract.html">contract</a>, <a href="correspond.html">correspond</a>, <a href="covenant.html">covenant</a>, <a href="credit.html">credit</a>, <a href="dawn.html">dawn</a>, <a href="debt%20instrument.html">debt instrument</a>, <a href="Debt%20of%20honor.html">Debt of honor</a>, <a href="devote.html">devote</a>, <a href="disengage.html">disengage</a>, <a href="distinct.html">distinct</a>, <a href="dower.html">dower</a>, <a href="earnest.html">earnest</a>, <a href="engage.html">engage</a>, <a href="engagement.html">engagement</a>, <a href="enticement.html">enticement</a>, <a href="espousal.html">espousal</a>, <a href="espouse.html">espouse</a>, <a href="exact.html">exact</a>, <a href="exculpation.html">exculpation</a>, <a href="excuse.html">excuse</a>, <a href="expectation.html">expectation</a>, <a href="Express%20promise.html">Express promise</a>, <a href="extort.html">extort</a>, <a href="fact.html">fact</a>, <a href="failure.html">failure</a>, <a href="faith.html">faith</a>, <a href="fall.html">fall</a>, <a href="fasten.html">fasten</a>, <a href="forfeit.html">forfeit</a>, <a href="forward.html">forward</a>, <a href="fraud.html">fraud</a>, <a href="fulfill.html">fulfill</a>, <a href="fulfillment.html">fulfillment</a>, <a href="fulfilment.html">fulfilment</a>, <a href="give.html">give</a>, <a href="go%20back%20on.html">go back on</a>, <a href="grant.html">grant</a>, <a href="guarantee.html">guarantee</a>, <a href="guarantor.html">guarantor</a>, <a href="guaranty.html">guaranty</a>, <a href="Hand-promise.html">Hand-promise</a>, <a href="handfast.html">handfast</a>, <a href="hard.html">hard</a>, <a href="Hest.html">Hest</a>, <a href="Hight.html">Hight</a>, <a href="hire.html">hire</a>, <a href="hold.html">hold</a>, <a href="Hope.html">Hope</a>, <a href="hopeful.html">hopeful</a>, <a href="Hote.html">Hote</a>, <a href="humanly.html">humanly</a>, <a href="insurance.html">insurance</a>, <a href="inviolable.html">inviolable</a>, <a href="Inviolably.html">Inviolably</a>, <a href="irrevocable.html">irrevocable</a>, <a href="keep.html">keep</a>, <a href="likelihood.html">likelihood</a>, <a href="likely.html">likely</a>, <a href="living.html">living</a>, <a href="lure.html">lure</a>, <a href="maker.html">maker</a>, <a href="mental%20reservation.html">mental reservation</a>, <a href="mitomycin.html">mitomycin</a>, <a href="modality.html">modality</a>, <a href="money.html">money</a>, <a href="Mutamycin.html">Mutamycin</a>, <a href="naked.html">naked</a>, <a href="negotiable%20instrument.html">negotiable instrument</a>, <a href="note.html">note</a>, <a href="note%20of%20hand.html">note of hand</a>, <a href="novation.html">novation</a>, <a href="oath.html">oath</a>, <a href="Obligable.html">Obligable</a>, <a href="obligation.html">obligation</a>, <a href="old.html">old</a>, <a href="on.html">on</a>, <a href="output%20contract.html">output contract</a>, <a href="parole.html">parole</a>, <a href="pass.html">pass</a>, <a href="Pass%20one%27s%20word.html">Pass one's word</a>, <a href="pawn.html">pawn</a>, <a href="payee.html">payee</a>, <a href="payment.html">payment</a>, <a href="perfidy.html">perfidy</a>, <a href="perform.html">perform</a>, <a href="persuasion.html">persuasion</a>, <a href="pinning.html">pinning</a>, <a href="pledge.html">pledge</a>, <a href="plight.html">plight</a>, <a href="Pollicitation.html">Pollicitation</a>, <a href="positive.html">positive</a>, <a href="Pre%C3%ABngage.html">Preëngage</a>, <a href="Pre%C3%ABngagement.html">Preëngagement</a>, <a href="pregnant.html">pregnant</a>, <a href="professed.html">professed</a>, <a href="Promise-breach.html">Promise-breach</a>, <a href="Promised%20Land.html">Promised Land</a>, <a href="promisee.html">promisee</a>, <a href="promiser.html">promiser</a>, <a href="promising.html">promising</a>, <a href="promisor.html">promisor</a>, <a href="Promissive.html">Promissive</a>, <a href="Promissorily.html">Promissorily</a>, <a href="promissory.html">promissory</a>, <a href="promissory%20note.html">promissory note</a>, <a href="protest.html">protest</a>, <a href="rain%20check.html">rain check</a>, <a href="ratification.html">ratification</a>, <a href="redeem.html">redeem</a>, <a href="redeemable.html">redeemable</a>, <a href="release.html">release</a>, <a href="religiously.html">religiously</a>, <a href="remind.html">remind</a>, <a href="renege.html">renege</a>, <a href="renege%20on.html">renege on</a>, <a href="renegue%20on.html">renegue on</a>, <a href="renew.html">renew</a>, <a href="Repromission.html">Repromission</a>, <a href="reservation.html">reservation</a>, <a href="rest.html">rest</a>, <a href="reversal.html">reversal</a>, <a href="revoke.html">revoke</a>, <a href="Rose%20color.html">Rose color</a>, <a href="Rumpelstiltskin.html">Rumpelstiltskin</a>, <a href="security.html">security</a>, <a href="seduce.html">seduce</a>, <a href="seduction.html">seduction</a>, <a href="Seedful.html">Seedful</a>, <a href="self-justification.html">self-justification</a>, <a href="Shall.html">Shall</a>, <a href="Shin-plaster.html">Shin-plaster</a>, <a href="shinplaster.html">shinplaster</a>, <a href="show.html">show</a>, <a href="Sign%20the%20pledge.html">Sign the pledge</a>, <a href="slippery.html">slippery</a>, <a href="solemn.html">solemn</a>, <a href="stand.html">stand</a>, <a href="Steven.html">Steven</a>, <a href="stipulate.html">stipulate</a>, <a href="Stipulator.html">Stipulator</a>, <a href="subscribe.html">subscribe</a>, <a href="suspend.html">suspend</a>, <a href="swear.html">swear</a>, <a href="swear%20off.html">swear off</a>, <a href="Take%20the%20pledge.html">Take the pledge</a>, <a href="threaten.html">threaten</a>, <a href="To%20assure%20upon.html">To assure upon</a>, <a href="To%20back%20down.html">To back down</a>, <a href="To%20back%20out.html">To back out</a>, <a href="To%20bid%20fair.html">To bid fair</a>, <a href="To%20buy%20on%20credit.html">To buy on credit</a>, <a href="To%20hold%20good.html">To hold good</a>, <a href="To%20keep%20to.html">To keep to</a>, <a href="To%20keep%20touch.html">To keep touch</a>, <a href="troth.html">troth</a>, <a href="trust.html">trust</a>, <a href="uncommitted.html">uncommitted</a>, <a href="Uncovenanted.html">Uncovenanted</a>, <a href="undertake.html">undertake</a>, <a href="undertaking.html">undertaking</a>, <a href="unfailing.html">unfailing</a>, <a href="unfaithfulness.html">unfaithfulness</a>, <a href="unilateral%20contract.html">unilateral contract</a>, <a href="unperformed.html">unperformed</a>, <a href="Unpromise.html">Unpromise</a>, <a href="unredeemed.html">unredeemed</a>, <a href="verify.html">verify</a>, <a href="violate.html">violate</a>, <a href="void.html">void</a>, <a href="votary.html">votary</a>, <a href="vow.html">vow</a>, <a href="vower.html">vower</a>, <a href="Warrantise.html">Warrantise</a>, <a href="will.html">will</a>, <a href="word.html">word</a>, <a href="word%20of%20honor.html">word of honor</a>, <a href="Word%20of%20honour.html">Word of honour</a>, <a href="%E2%80%96Quantum%20meruit.html">‖Quantum meruit</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oromise, lromise, peomise, pdomise, pfomise, ptomise, primise, prkmise, prlmise, prpmise, pronise, projise, prokise, promuse, promjse, promkse, promose, promiae, promiwe, promide, promixe, promize, promiae, promisw, promiss, promisd, promisr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

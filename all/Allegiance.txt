@@ -1,0 +1,434 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>allegiance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">allegiance</span> <span class="exp">the act of binding yourself (intellectually or emotionally) to a course of action</span> <span class="quot">"his long commitment to public service","they felt no loyalty to a losing team"</span></li><li><span class="tSpeech">n</span> <span class="term">allegiance</span> <span class="exp">the loyalty that citizens owe to their country (or subjects to their sovereign)</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Allegiance</span> <span class="exp">Devotion; loyalty; as, <span class="wUex">allegiance</span> to science.</span> <span class="wuQuot">"Hear me, recreant, on thine allegiance hear me!"</span><span class="wuQuot">"So spake the Seraph Abdiel, faithful found, . . . Unshaken, unseduced, unterrified,<br>
+His loyalty he kept, his love, his zeal."</span></li><li><span class="term">Allegiance</span> <span class="exp">The tie or obligation, implied or expressed, which a subject owes to his sovereign or government; the duty of fidelity to one's king, government, or state.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">allegiance</span> <span class="exp">The tie or obligation of a subject or citizen to his sovereign or government; the duty of fidelity to a king, government, or state. Every citizen owes allegiance to the government under which he is born. Natural or implied allegiance is that obligation which one owes to the nation of which he is a natural-born citizen or subject so long as he remains such, and it does not arise from any express promise. Express allegiance is that obligation which proceeds from an express promise or oath of fidelity. Local or temporary allegiance is due from an alien to the government or state under or in which he resides. In the United States the paramount allegiance of a citizen has been decided to be due to the general government, and not to the government of the particular State in which he is domiciled.</span> </li><li><span class="tSpeech">n</span> <span class="term">allegiance</span> <span class="exp">Hence Observance of obligation in general; fidelity to any person or thing; devotion.</span> </li><li><span class="tSpeech">n</span> <span class="term">allegiance</span> <span class="exp">Synonyms Allegiance, Loyalty, Fealty. Allegiance is the most formal and official of these words; it is a matter of principle, and applies especially to conduct; the oath of allegiance covers conduct only.</span> </li><li><span class="tSpeech">n</span> <span class="term">allegiance</span> <span class="exp">Loyalty is a matter of both principle and sentiment, conduct and feeling; it implies enthusiasm and devotion, and hence is most frequently chosen for figurative uses: as, loyalty to a lover, husband, family, clan, friends, old traditions, religion. Neither allegiance nor loyalty is confined to its original meaning of the obligation due from a subject to a prince.</span> </li><li><span class="tSpeech">n</span> <span class="term">allegiance</span> <span class="exp">Fealty has escaped less completely from this earliest sense, but has a permissible use in the sense of fidelity under obligation of various kinds.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Allegiance</span> <span class="exp"><span class="itl">al-lēj′i-ans</span> the duty of a subject to his liege or sovereign</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Friedrich Von Schiller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Friedrich%20Von%20Schiller.jpg" alt="Johann%20Friedrich%20Von%20Schiller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Utility is the great idol of the age, to which all powers must do service and all talents swear allegiance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John F. Kennedy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20F.%20Kennedy.jpg" alt="John%20F.%20Kennedy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“For if Freedom and Communism were to compete for mans allegiance in a world at peace, I would look to the future with ever increasing confidence.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">alegeaunce</span>,; pref. <span class="wUets">a-</span>, + OF. <span class="wUets">lige</span>, <span class="wUets">liege</span>,. The meaning was influenced by L. <span class="wUets">ligare</span>, to bind, and even by <span class="wUets">lex</span>, legis, law. See <span class="wUer">Liege</span> <span class="wUer">Ligeance</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>ad</i>, to, and <b>Liege</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						There was no other bond between them than that of their common allegiance to the Government of the mother-country.
+					</div>
+					<div class="uAuthor">
+						"The Rise and Fall of the Confederate Government, Vol. 1 (of 2)" by <span>Jefferson Davis</span>					</div>
+										<div class="usage">
+						You've got to take an oath of allegiance.
+					</div>
+					<div class="uAuthor">
+						"The Jolliest School of All" by <span>Angela Brazil</span>					</div>
+										<div class="usage">
+						Of the oath of allegiance there was no question whatever.
+					</div>
+					<div class="uAuthor">
+						"The Petticoat Commando" by <span>Johanna Brandt</span>					</div>
+										<div class="usage">
+						Financed by the Hovey Fund, it owed allegiance, she believed, to women as well as the Negro.
+					</div>
+					<div class="uAuthor">
+						"Susan B. Anthony" by <span>Alma Lutz</span>					</div>
+										<div class="usage">
+						But she had not hesitated in her allegiance to the heavenly voice.
+					</div>
+					<div class="uAuthor">
+						"Tiverton Tales" by <span>Alice Brown</span>					</div>
+										<div class="usage">
+						Evidently there is much sophistication, not to say conventionalised affectation, in all this national attachment and allegiance.
+					</div>
+					<div class="uAuthor">
+						"An Inquiry Into The Nature Of Peace And The Terms Of Its Perpetuation" by <span>Thorstein Veblen</span>					</div>
+										<div class="usage">
+						But I will renounce my allegiance to Angus.
+					</div>
+					<div class="uAuthor">
+						"Space Viking" by <span>Henry Beam Piper</span>					</div>
+										<div class="usage">
+						They met Mohammad and took an oath of allegiance.
+					</div>
+					<div class="uAuthor">
+						"A Critical Exposition of the Popular 'Jihád'" by <span>Moulavi Gerágh Ali</span>					</div>
+										<div class="usage">
+						Texas clearly owed no allegiance to the usurper Bustamente.
+					</div>
+					<div class="uAuthor">
+						"Mexico and its Religion" by <span>Robert A. Wilson</span>					</div>
+										<div class="usage">
+						He was also compelled to take the oath of allegiance.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Upper Canada Rebellion, Volume 1" by <span>John Charles Dent</span>					</div>
+										<div class="usage">
+						Commerce had so developed that religion, where it interfered with it, could not command undivided allegiance.
+					</div>
+					<div class="uAuthor">
+						"Peter the Hermit" by <span>Daniel A. Goodsell</span>					</div>
+										<div class="usage">
+						Kinship of blood and race, ancestral allegiance, determine with the Jewish masses in America also, what side they take in this war.
+					</div>
+					<div class="uAuthor">
+						"The Menorah Journal, Volume 1, 1915" by <span>Various</span>					</div>
+										<div class="usage">
+						Sture now set forth on a journey through Sweden and Finland, receiving everywhere the allegiance of the people.
+					</div>
+					<div class="uAuthor">
+						"The Swedish Revolution Under Gustavus Vasa" by <span>Paul Barron Watson</span>					</div>
+										<div class="usage">
+						May 4th, Rhode Island renounced allegiance almost in terms.
+					</div>
+					<div class="uAuthor">
+						"History of the United States, Volume 2 (of 6)" by <span>E. Benjamin Andrews</span>					</div>
+										<div class="usage">
+						I owe him no allegiance, nor I never sware any.
+					</div>
+					<div class="uAuthor">
+						"The White Lady of Hazelwood" by <span>Emily Sarah Holt</span>					</div>
+										<div class="usage">
+						An unerring voice told me that my allegiance was thenceforward due to the republic.
+					</div>
+					<div class="uAuthor">
+						"The Hour and the Man" by <span>Harriet Martineau</span>					</div>
+										<div class="usage">
+						They made their way close to Him, and with honeyed words and deft insinuations, spoke of allegiance and of the tribute due to Caesar.
+					</div>
+					<div class="uAuthor">
+						""Unto Caesar"" by <span>Baroness Emmuska Orczy</span>					</div>
+										<div class="usage">
+						This halting allegiance, thinking to serve two masters, was not frequent; but there were instances.
+					</div>
+					<div class="uAuthor">
+						"From Sail to Steam, Recollections of Naval Life" by <span>Captain A. T. Mahan</span>					</div>
+										<div class="usage">
+						To swear to do justice, is not to swear an oath of allegiance to an evil power.
+					</div>
+					<div class="uAuthor">
+						"The Ordinance of Covenanting" by <span>John Cunningham</span>					</div>
+										<div class="usage">
+						Even Will be Will seemed to be wavering in his allegiance to Diabolus.
+					</div>
+					<div class="uAuthor">
+						"Bunyan" by <span>James Anthony Froude</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							'Tis not enough that you avow<br>
+Allegiance at my gates;<br>
+Many who bear the wattle-bough<br>
+Are not initiates;
+							<div class="poet">"Bacchus [Excerpt]" by <span>Bernard O Dowd</span></div>
+						</div>
+											<div class="poemQuote">
+							Are those, I muse, the Easter chimes?<br>
+And listen, weaving careless rhymes<br>
+While the loud city's griefs and crimes<br>
+Pay gentle allegiance<br>
+To the fine quiet that sublimes<br>
+These dreamy regions.
+							<div class="poet">"Fancy's Casuistry" by <span>James Russell Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							Piety and conformity to them that like!<br>
+Peace, obesity, allegiance, to them that like!<br>
+I am he who tauntingly compels men, women, nations,<br>
+Crying, Leap from your seats, and contend for your lives!
+							<div class="poet">"As I Sat Alone" by <span>Walt Whitman</span></div>
+						</div>
+											<div class="poemQuote">
+							"He perish'd! I ask not why or how?<br>
+I come to recall my troth;<br>
+Take back, my lady, thy broken vow,<br>
+Give back my allegiance oath;<br>
+Let the past be buried between us now<br>
+For ever — 'tis best for both.
+							<div class="poet">"Fauconshawe" by <span>Adam Lindsay Gordon</span></div>
+						</div>
+											<div class="poemQuote">
+							From her full breast we drank of joy and mirth<br>
+And gave to her a boy's unreasoned heart,<br>
+Wherein Time's fullness was to bring to birth<br>
+Such passionate allegiance that to part<br>
+Seemed like the passing of all light on earth.
+							<div class="poet">"Ave, Mater - atque Vale" by <span>William Noel Hodgson</span></div>
+						</div>
+											<div class="poemQuote">
+							We owe allegiance to the State; but deeper, truer, more,<br>
+To the sympathies that God hath set within our spirit's core;<br>
+Our country claims our fealty; we grant it so, but then<br>
+Before Man made us citizens, great Nature made us men.
+							<div class="poet">"On The Capture Of Fugitive Slaves Near Washington" by <span>James Russell Lowell</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						 Allegiant Air Suspending it's Idaho Falls To Oakland Flights.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kmvt.com/news/regional/Allegiant-Air-Suspending-its-Idaho-Falls-To-Oakland-Flights-175317271.html" target="_blank" rel="external nofollow">kmvt.com</a>
+					</div>
+										<div class="usage">
+						 Allegiant Air is suspending its Idaho Falls-Oakland flights.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kmvt.com/news/regional/Allegiant-Air-Suspending-its-Idaho-Falls-To-Oakland-Flights-175317271.html" target="_blank" rel="external nofollow">kmvt.com</a>
+					</div>
+										<div class="usage">
+						 Allegiant Air aircraft as seen as Las Vegas McCarran International Airport on Oct 13, 2009.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/story/todayinthesky/2012/10/15/allegiant-air-drops-monterey-honolulu-route/1634357/" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Customers with reservations will be contacted directly by Allegiant for full refunds.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thecalifornian.com/article/20121013/NEWS01/310130036/Allegiant-cancels-flights-Honolulu?odyssey=mod_sectionstories" target="_blank" rel="external nofollow">thecalifornian.com</a>
+					</div>
+										<div class="usage">
+						Updated Tuesday, Oct 9, 2012, at 8:29 p.m. Allegiant Air has suspended its twice-weekly direct flights from Wichita to Los Angeles after it lost gate space at LAX.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansas.com/2012/10/09/2526567/allegiant-suspends-direct-flights.html" target="_blank" rel="external nofollow">kansas.com</a>
+					</div>
+										<div class="usage">
+						 Allegiant Air to Offer Row 44 IFE.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aviationtoday.com/av/topstories/Allegiant-Air-to-Offer-Row-44-IFE_77430.html" target="_blank" rel="external nofollow">aviationtoday.com</a>
+					</div>
+										<div class="usage">
+						Laurie Reeves Goss was removed from an Allegiant flight, and she thought it must have been a misunderstanding relating to her disability.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ky3.com/news/ky3-blind-woman-removed-from-springfield-flight-20121001,0,3258435.story?hpt=us_bn9" target="_blank" rel="external nofollow">ky3.com</a>
+					</div>
+										<div class="usage">
+						 Allegiant Airlines Says It's Leaving Loveland-Fort Collins Airport Over Safety Concerns.
+					</div>
+					<div class="uAuthor">
+						<a href="http://k99.com/allegiant-airlines-says-its-leaving-loveland-fort-collins-airport-over-safety-concerns/" target="_blank" rel="external nofollow">k99.com</a>
+					</div>
+										<div class="usage">
+						 Allegiant Airlines has already announced that it will be leaving Loveland-Fort Collins Airport by mid-October, effectively robbing local residents of inexpensive flights to Las Vegas and Phoenix.
+					</div>
+					<div class="uAuthor">
+						<a href="http://k99.com/allegiant-airlines-says-its-leaving-loveland-fort-collins-airport-over-safety-concerns/" target="_blank" rel="external nofollow">k99.com</a>
+					</div>
+										<div class="usage">
+						 Allegiant Air was sponsoring the promotion, as part of its "Vote for Vacation" bus tour.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wabi.tv/news/33778/allegiant-air-giveaway" target="_blank" rel="external nofollow">wabi.tv</a>
+					</div>
+										<div class="usage">
+						The first person arrived around 5 am, hoping to win two roundtrip tickets to anywhere Allegiant Air flies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wabi.tv/news/33778/allegiant-air-giveaway" target="_blank" rel="external nofollow">wabi.tv</a>
+					</div>
+										<div class="usage">
+						 Allegiant Air employees stopped at the Mesa Mall, as part of their national bus tour, and did not come empty handed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.krextv.com/news/around-the-region/Allegiant-Air-Tour-Bus-Stops-in-Grand-Junction-171242501.html" target="_blank" rel="external nofollow">krextv.com</a>
+					</div>
+										<div class="usage">
+						 Allegiant Airlines says it's still interested in running flights from Paine Field, even though Horizon Airlines has dropped out.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kgmi.com/Allegiant-Still-Interested-In-Paine-Field-Flights/14257374" target="_blank" rel="external nofollow">kgmi.com</a>
+					</div>
+										<div class="usage">
+						 Allegiant Air and a union representing 600 flight attendants say contract talks have stalled and the National Mediation Board is being asked to step in.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ktnv.com/news/local/169920606.html" target="_blank" rel="external nofollow">ktnv.com</a>
+					</div>
+										<div class="usage">
+						The union representing 600 flight attendants at Las Vegas-based Allegiant Air says contract talks are stalled and it is asking the National Mediation Board to step in.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kolotv.com/news/southernnevadanews/headlines/Allegiant-Flight-Attendants-Say-Job-Talks-Stalled-169837036.html" target="_blank" rel="external nofollow">kolotv.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Keck spectra of high-z supernova candidates, my primary allegiance was with the HZT. 
+					</div>
+					<div class="uAuthor">
+						Einstein's Biggest Blunder? High-Redshift Supernovae and the Accelerating Universe
+					</div>
+										<div class="usage">
+						Stapp repeatedly stresses that “all the assumptions used in [his] proof are elements of orthodox quantum philosophy”. At root, it is precisely Stapp’s allegiance to this philosophy which prevents him from constructing a valid proof. 
+					</div>
+					<div class="uAuthor">
+						Bell Locality and the Nonlocal Character of Nature
+					</div>
+										<div class="usage">
+						In the alternative to Stapp’s approach advocated by Bell and elaborated here, we begin not with an arbitrary allegiance to the orthodox quantum philosophy, but with a straightforward, mathematically precise deﬁnition of local causality, motivated exclusively by relativity theory. 
+					</div>
+					<div class="uAuthor">
+						Bell Locality and the Nonlocal Character of Nature
+					</div>
+										<div class="usage">
+						Natural science puts something close to this hierarchical view into practice, but in a way that is constrained and handicapped by general allegiance to standard empiricism (SE), and it is this which damages science in a variety of ways, as we shall now see. 
+					</div>
+					<div class="uAuthor">
+						Do We Need a Scientific Revolution?
+					</div>
+										<div class="usage">
+						Assumptions and associated methods of science have improved over the centuries (or we would still be stuck with pre-Galilean, Aristotelian science), but it has come about in an implicit, almost furtive fashion, retarded by general allegiance to SE.7 3. 
+					</div>
+					<div class="uAuthor">
+						Do We Need a Scientific Revolution?
+					</div>
+										<div class="usage">
+						The intellectual content of science, shaped by allegiance to SE, consists of theory and evidence. 
+					</div>
+					<div class="uAuthor">
+						Do We Need a Scientific Revolution?
+					</div>
+										<div class="usage">
+						Science would be very different if shaped by allegiance to AOE. 
+					</div>
+					<div class="uAuthor">
+						Do We Need a Scientific Revolution?
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the act of binding yourself (intellectually or emotionally) to a course of action"><a href="loyalty.html">loyalty</a>, <a href="dedication.html">dedication</a>, </div><div class="synGroup" title="the loyalty that citizens owe to their country (or subjects to their sovereign)"><a href="fealty.html">fealty</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="cooperation.html">cooperation</a>, <a href="loyalty.html">loyalty</a>, <a href="trueness.html">trueness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="communalism.html">communalism</a>, <a href="consecration.html">consecration</a>, <a href="devotion.html">devotion</a>, <a href="enlistment.html">enlistment</a>, <a href="faith.html">faith</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="allegiant.html">allegiant</a>, <a href="commit.html">commit</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abandon.html">abandon</a>, <a href="abandonment.html">abandonment</a>, <a href="abjuration.html">abjuration</a>, <a href="abjure.html">abjure</a>, <a href="absolve.html">absolve</a>, <a href="age.html">age</a>, <a href="alien.html">alien</a>, <a href="Alien%20enemy.html">Alien enemy</a>, <a href="Allegeance.html">Allegeance</a>, <a href="allegiant.html">allegiant</a>, <a href="American%20Party.html">American Party</a>, <a href="apostate.html">apostate</a>, <a href="arise.html">arise</a>, <a href="badge.html">badge</a>, <a href="bayat.html">bayat</a>, <a href="belong.html">belong</a>, <a href="blasphemy.html">blasphemy</a>, <a href="British%20Commonwealth.html">British Commonwealth</a>, <a href="church.html">church</a>, <a href="citizen.html">citizen</a>, <a href="cockade.html">cockade</a>, <a href="commonwealth.html">commonwealth</a>, <a href="Commonwealth%20of%20Nations.html">Commonwealth of Nations</a>, <a href="corrupt.html">corrupt</a>, <a href="country.html">country</a>, <a href="de-Nazification.html">de-Nazification</a>, <a href="debauch.html">debauch</a>, <a href="debauchery.html">debauchery</a>, <a href="defection.html">defection</a>, <a href="denationalize.html">denationalize</a>, <a href="denazification.html">denazification</a>, <a href="denazify.html">denazify</a>, <a href="desertion.html">desertion</a>, <a href="Disalliege.html">Disalliege</a>, <a href="disloyal.html">disloyal</a>, <a href="disloyalty.html">disloyalty</a>, <a href="expatriation.html">expatriation</a>, <a href="faith.html">faith</a>, <a href="faithful.html">faithful</a>, <a href="faithless.html">faithless</a>, <a href="fall.html">fall</a>, <a href="false.html">false</a>, <a href="fealty.html">fealty</a>, <a href="fee.html">fee</a>, <a href="feudatory.html">feudatory</a>, <a href="fidelity.html">fidelity</a>, <a href="floating%20voter.html">floating voter</a>, <a href="flop.html">flop</a>, <a href="foreigner.html">foreigner</a>, <a href="Foy.html">Foy</a>, <a href="Imperial%20city.html">Imperial city</a>, <a href="institution.html">institution</a>, <a href="insurgent.html">insurgent</a>, <a href="liege.html">liege</a>, <a href="liege%20lord.html">liege lord</a>, <a href="liege%20subject.html">liege subject</a>, <a href="Liegedom.html">Liegedom</a>, <a href="liegeman.html">liegeman</a>, <a href="Ligeance.html">Ligeance</a>, <a href="loyal.html">loyal</a>, <a href="loyalist.html">loyalist</a>, <a href="loyalty.html">loyalty</a>, <a href="national.html">national</a>, <a href="nationality.html">nationality</a>, <a href="naturalization.html">naturalization</a>, <a href="noncitizen.html">noncitizen</a>, <a href="Nonjuring.html">Nonjuring</a>, <a href="Nonjuror.html">Nonjuror</a>, <a href="oath.html">oath</a>, <a href="Oath%20of%20abjuration.html">Oath of abjuration</a>, <a href="outlander.html">outlander</a>, <a href="owe.html">owe</a>, <a href="pallium.html">pallium</a>, <a href="payable.html">payable</a>, <a href="perfidy.html">perfidy</a>, <a href="Praemunire.html">Praemunire</a>, <a href="profess.html">profess</a>, <a href="Ragman%27s%20roll.html">Ragman's roll</a>, <a href="Ragman-roll.html">Ragman-roll</a>, <a href="Rebel.html">Rebel</a>, <a href="recusant.html">recusant</a>, <a href="religion.html">religion</a>, <a href="revolt.html">revolt</a>, <a href="rise.html">rise</a>, <a href="rise%20up.html">rise up</a>, <a href="sacrament.html">sacrament</a>, <a href="sect.html">sect</a>, <a href="sovereign.html">sovereign</a>, <a href="stalwart.html">stalwart</a>, <a href="subject.html">subject</a>, <a href="swing%20voter.html">swing voter</a>, <a href="theology.html">theology</a>, <a href="tie.html">tie</a>, <a href="To%20fall%20from.html">To fall from</a>, <a href="traitor.html">traitor</a>, <a href="traitorous.html">traitorous</a>, <a href="traitorously.html">traitorously</a>, <a href="treacherous.html">treacherous</a>, <a href="treachery.html">treachery</a>, <a href="treason.html">treason</a>, <a href="unfaithful.html">unfaithful</a>, <a href="vassal.html">vassal</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qllegiance, wllegiance, sllegiance, zllegiance, aklegiance, aolegiance, aplegiance, alkegiance, aloegiance, alpegiance, allwgiance, allsgiance, alldgiance, allrgiance, allefiance, alletiance, allehiance, allebiance, alleviance, alleguance, allegjance, allegkance, allegoance, allegiqnce, allegiwnce, allegisnce, allegiznce, allegiabce, allegiahce, allegiajce, allegiamce, allegianxe, allegiande, allegianfe, allegianve, allegiancw, allegiancs, allegiancd, allegiancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

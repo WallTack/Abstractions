@@ -1,0 +1,336 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>gallantry</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">gallantry</span> <span class="exp">polite attentiveness to women</span> </li><li><span class="tSpeech">n</span> <span class="term">gallantry</span> <span class="exp">the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)</span> <span class="quot">"he showed great heroism in battle","he received a medal for valor"</span></li><li><span class="tSpeech">n</span> <span class="term">gallantry</span> <span class="exp">courtesy towards women</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Gallantry</span> <span class="exp">Bravery; intrepidity; as, the troops behaved with great <span class="wUex">gallantry</span>
+            .</span> </li><li><span class="term">Gallantry</span> <span class="exp">Civility or polite attention to ladies; in a bad sense, attention or courtesy designed to win criminal favors from a female; freedom of principle or practice with respect to female virtue; intrigue.</span> </li><li><span class="term">Gallantry</span> <span class="exp">Gallant persons, collectively.</span> <span class="wuQuot">"Helenus, Antenor, and all the gallantry of Troy."</span></li><li><span class="term">Gallantry</span> <span class="exp">Splendor of appearance; ostentatious finery.</span> <span class="wuQuot">"Guess the gallantry of our church by this . . . when the desk whereon the priest read was inlaid with plates of silver."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">gallantry</span> <span class="exp">Fine appearance; show; finery; splendor; magnificence.</span> </li><li><span class="tSpeech">n</span> <span class="term">gallantry</span> <span class="exp">Heroic bearing; bravery; intrepidity; high spirit: as, the gallantry of the troops under fire was admirable.</span> </li><li><span class="tSpeech">n</span> <span class="term">gallantry</span> <span class="exp">Courtliness or polite attention to ladies.</span> </li><li><span class="tSpeech">n</span> <span class="term">gallantry</span> <span class="exp">In a sinister sense, equivocal attention to women; profligate intrigue.</span> </li><li><span class="tSpeech">n</span> <span class="term">gallantry</span> <span class="exp">Gallants collectively.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Gallantry</span> <span class="exp">bravery: intrepidity: attention or devotion to ladies, often in a bad sense, amorous intrigue:</span> </li><li><span class="term">Gallantry</span> <span class="exp">(<span class="itl">Shak.</span>) gallants collectively</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What men call gallantry, and gods adultery, is much more common where the climate's sultry.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Richard Brinsley Sheridan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Richard%20Brinsley%20Sheridan.jpg" alt="Richard%20Brinsley%20Sheridan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Conscience has no more to do with gallantry than it has with politics.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Tennessee Williams</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Tennessee%20Williams.jpg" alt="Tennessee%20Williams">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A high station in life is earned by the gallantry with which appalling experiences are survived with grace.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Moliere</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Moliere.jpg" alt="Moliere">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Frenchmen have an unlimited capacity for gallantry and indulge it on every occasion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">galanterie</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>galant</i>—O. Fr. <i>gale</i>, a merrymaking; prob. Teut.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Men should beware of being captivated by a kind of savage Philosophy, Women by a thoughtless Gallantry.
+					</div>
+					<div class="uAuthor">
+						"The Spectator, Volumes 1, 2 and 3" by <span>Joseph Addison and Richard Steele</span>					</div>
+										<div class="usage">
+						The gallantry displayed by Captain Gwin, her commander, was worthy of special praise.
+					</div>
+					<div class="uAuthor">
+						"Camp-Fire and Cotton-Field" by <span>Thomas W. Knox</span>					</div>
+										<div class="usage">
+						Joseph E. Johnston, twice severely wounded, was everywhere conspicuous for dashing gallantry.
+					</div>
+					<div class="uAuthor">
+						"Stonewall Jackson And The American Civil War" by <span>G. F. R. Henderson</span>					</div>
+										<div class="usage">
+						This general pays a splendid tribute to the gallantry of the border chiefs.
+					</div>
+					<div class="uAuthor">
+						"Minstrelsy of the Scottish border (3rd ed) (1 of 3)" by <span>Walter Scott</span>					</div>
+										<div class="usage">
+						The new Khan has been very accommodating, and has given fetes, &amp;c., to the officers left behind, in honour of our gallantry.
+					</div>
+					<div class="uAuthor">
+						"Campaign of the Indus" by <span>T.W.E. Holdsworth</span>					</div>
+										<div class="usage">
+						But with their usual gallantry they came down to their work.
+					</div>
+					<div class="uAuthor">
+						"History of Kershaw's Brigade" by <span>D. Augustus Dickert</span>					</div>
+										<div class="usage">
+						My manner towards her partakes of a tenderer playfulness, a more affectionate gallantry.
+					</div>
+					<div class="uAuthor">
+						"The Cross of Berny" by <span>Emile de Girardin</span>					</div>
+										<div class="usage">
+						Thus the East knows nothing of this gallantry.
+					</div>
+					<div class="uAuthor">
+						"The Tatler, Volume 1, 1899" by <span>George A. Aitken</span>					</div>
+										<div class="usage">
+						His gallantry in the Mexican War was such that he was brevetted a major-general.
+					</div>
+					<div class="uAuthor">
+						"McClure's Magazine, Vol. 6, No. 5, April, 1896" by <span>Various</span>					</div>
+										<div class="usage">
+						My mind, however, was as far from thoughts of gallantry as if she had been a black-veiled nun.
+					</div>
+					<div class="uAuthor">
+						"Dorothy Vernon of Haddon Hall" by <span>Charles Major</span>					</div>
+										<div class="usage">
+						She was distinguished for her beauty, and infamous for her gallantries.
+					</div>
+					<div class="uAuthor">
+						"An Illustrated History of Ireland from AD 400 to 1800" by <span>Mary Frances Cusack</span>					</div>
+										<div class="usage">
+						These pages will not admit of our recounting the many instances in which this officer's gallantry was conspicuous.
+					</div>
+					<div class="uAuthor">
+						"Narratives of Shipwrecks of the Royal Navy; between 1793 and 1849" by <span>William O. S. Gilly</span>					</div>
+										<div class="usage">
+						About that period is spread a mist of manly gallantry and feminine charms which conceals the darkness beneath.
+					</div>
+					<div class="uAuthor">
+						"A History of English Prose Fiction" by <span>Bayard Tuckerman</span>					</div>
+										<div class="usage">
+						The Gordon Highlanders, with great gallantry, advanced up the Maedelsteed Spur, forcing the enemy to evacuate their front trench.
+					</div>
+					<div class="uAuthor">
+						"New York Times Current History: The European War, Vol 2, No. 1, April, 1915" by <span>Various</span>					</div>
+										<div class="usage">
+						All Phelim's accomplishments, however, were nothing when compared to his gallantry.
+					</div>
+					<div class="uAuthor">
+						"Phelim O'toole's Courtship and Other Stories Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three" by <span>William Carleton</span>					</div>
+										<div class="usage">
+						And long afterward she was to recognize in that eager gallantry the finest of tact.
+					</div>
+					<div class="uAuthor">
+						"Kenny" by <span>Leona Dalrymple</span>					</div>
+										<div class="usage">
+						His master's gallantries never ceased to cause him secret unrest.
+					</div>
+					<div class="uAuthor">
+						"The Grey Cloak" by <span>Harold MacGrath</span>					</div>
+										<div class="usage">
+						With his ready gallantry, habitually colored by a subtle sex-mockery, Carl rose, drew a chair for her and leaned against the mantel, smiling.
+					</div>
+					<div class="uAuthor">
+						"Diane of the Green Van" by <span>Leona Dalrymple</span>					</div>
+										<div class="usage">
+						Though all objectives were not attained they carried through a difficult operation with great gallantry and determination.
+					</div>
+					<div class="uAuthor">
+						"A Short History of the 6th Division"					</div>
+										<div class="usage">
+						For their gallantry Corporal Sloper and Sergeant Butcher received the Military Medal and Jones the Military Cross.
+					</div>
+					<div class="uAuthor">
+						"The Story of the 2/4th Oxfordshire and Buckinghamshire Light Infantry" by <span>G. K. Rose</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							How cruel Celia's fate, who hence<br>
+Our heart's devotion cannot try;<br>
+Too pretty for our reverence,<br>
+Too ancient for our gallantry!
+							<div class="poet">"Celia" by <span>Alexander Pope</span></div>
+						</div>
+											<div class="poemQuote">
+							"And the bridegroom that's to be<br>
+At smiling wait,<br>
+With a face like mist to see,<br>
+With graceful gallantry<br>
+Will bow you to the gate."
+							<div class="poet">"The Eve Of All-Saints" by <span>Madison Julius Cawein</span></div>
+						</div>
+											<div class="poemQuote">
+							Then he proffered his fin and she took it —<br>
+Such gallantry none can dispute —<br>
+While the passengers cheered As the vessel they neared<br>
+And a broadside was fired in salute.
+							<div class="poet">"The Rhyme Of The Chivalrous Shark" by <span>Wallace Irwin</span></div>
+						</div>
+											<div class="poemQuote">
+							IF I had a lover, now, who would he be?<br>
+Yourself with your laughter, your gay gallantry?<br>
+Yet I'd know when you kissed me your heart was not mine<br>
+But kneeling in tears at a lost lady's shrine.
+							<div class="poet">"Words To An Irish Air" by <span>Aline Murray Kilmer</span></div>
+						</div>
+											<div class="poemQuote">
+							The Gordon Highlanders have gained a lasting fame<br>
+Which for ages to come will long remain :<br>
+The daring gallantry they displayed at the storming of Dargai,<br>
+Which will be handed down to posterity. 
+							<div class="poet">"The Storming of the Dargai Heights" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							THOU so many favours hast receiv'd,<br>
+Wondrous to tell, and hard to be believ'd,<br>
+Oh ! H—— D, to my lays attention lend,<br>
+Hear how two lovers boastingly contend ;<br>
+Like thee successful, such their bloomy youth,<br>
+Renown'd alike for gallantry and truth.
+							<div class="poet">"Tuesday, St. James's Coffee-House" by <span>Mary Wortley Montagu</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						After the canned tributes and lame jokes, the flourishes of gallantry and strained bonhomie among the senators, all that mattered was the image being sent forth by Ruth Bader Ginsburg.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1993/07/22/arts/critic-s-notebook-a-judicious-tv-image-with-a-flair-for-detail.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						EOD tech receives Silver Star for gallantry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.airforcetimes.com/news/2012/11/air-force-silver-star-deslauriers-112012w/" target="_blank" rel="external nofollow">airforcetimes.com</a>
+					</div>
+										<div class="usage">
+						Sgt Joseph Deslauriers, an explosive ordnance disposal technician, earned the medal for gallantry in action while serving in Afghanistan on Sep 23, 2011.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sofmag.com/eod-tech-earns-silver-star" target="_blank" rel="external nofollow">sofmag.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)"><a href="valor.html">valor</a>, <a href="valour.html">valour</a>, <a href="valorousness.html">valorousness</a>, <a href="valiance.html">valiance</a>, <a href="valiancy.html">valiancy</a>, </div><div class="synGroup" title="courtesy towards women"><a href="politesse.html">politesse</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="braveness.html">braveness</a>, <a href="bravery.html">bravery</a>, <a href="courage.html">courage</a>, <a href="courageousness.html">courageousness</a>, <a href="courtesy.html">courtesy</a>, <a href="good%20manners.html">good manners</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="bravery.html">bravery</a>, <a href="Croix%20de%20Guerre.html">Croix de Guerre</a>, <a href="Disgallant.html">Disgallant</a>, <a href="Druery.html">Druery</a>, <a href="game.html">game</a>, <a href="Grisette.html">Grisette</a>, <a href="Haiduk.html">Haiduk</a>, <a href="heroism.html">heroism</a>, <a href="jollity.html">jollity</a>, <a href="Lady-killing.html">Lady-killing</a>, <a href="paramour.html">paramour</a>, <a href="prowess.html">prowess</a>, <a href="rural.html">rural</a>, <a href="serenade.html">serenade</a>, <a href="Silver%20Star.html">Silver Star</a>, <a href="Silver%20Star%20Medal.html">Silver Star Medal</a>, <a href="Tenson.html">Tenson</a>, <a href="valor.html">valor</a>, <a href="Victoria%20Cross.html">Victoria Cross</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					fallantry, tallantry, hallantry, ballantry, vallantry, gqllantry, gwllantry, gsllantry, gzllantry, gaklantry, gaolantry, gaplantry, galkantry, galoantry, galpantry, gallqntry, gallwntry, gallsntry, gallzntry, gallabtry, gallahtry, gallajtry, gallamtry, gallanrry, gallanfry, gallangry, gallanyry, gallantey, gallantdy, gallantfy, gallantty, gallantrt, gallantrg, gallantrh, gallantru
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

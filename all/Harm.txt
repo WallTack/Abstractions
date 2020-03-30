@@ -1,0 +1,576 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>harm</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">harm</span> <span class="exp">cause or do harm to</span> <span class="quot">"These pills won't harm your system"</span></li><li><span class="tSpeech">n</span> <span class="term">harm</span> <span class="exp">the act of damaging something or someone</span> </li><li><span class="tSpeech">n</span> <span class="term">harm</span> <span class="exp">the occurrence of a change for the worse</span> </li><li><span class="tSpeech">n</span> <span class="term">harm</span> <span class="exp">any physical damage to the body caused by violence or accident or fracture etc.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Pine, spruce, or other evergreen wood should never be used in barbecues. These woods, when burning or smoking, can add harmful tar and resins to the food. Only hardwoods should be used for smoking and grilling, such as oak, pecan, hickory, maple, cherry, alder, apple, or mesquite, depending on the type of meat being cooked.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Harm</span> <span class="exp">Injury; hurt; damage; detriment; misfortune.</span> </li><li><span class="term">Harm</span> <span class="exp">That which causes injury, damage, or loss.</span> <span class="wuQuot">"We, ignorant of ourselves,<br>
+Beg often our own harms ."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Harm</span> <span class="exp">To hurt; to injure; to damage; to wrong.</span> <span class="wuQuot">"Though yet he never harmed me."</span><span class="wuQuot">"No ground of enmity between us known<br>
+Why he should mean me ill or seek to harm ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The Aztec Indians of Mexico believed turquoise would protect them from physical harm, and so warriors used these green and blue stones to decorate their battle shields.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">harm</span> <span class="exp">Physical or material injury; hurt; damage; detriment.</span> </li><li><span class="tSpeech">n</span> <span class="term">harm</span> <span class="exp">Moral injury; evil; mischief; wrong; wrong-fulness.</span> </li><li><span class="term">harm</span> <span class="exp">To injure; damage; inflict injury upon in any way; be detrimental to.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Chocolate not only does not promote tooth decay, it might prevent it. According to the American Dental Association, milk chocolate contains ingredients, such as calcium and phosphate, that might modify acid production in the mouth that leads to cavities. Some oils in chocolate might also prevent tooth decay. Chocolate does contain sugar, of course, but these are simple sugars that are less harmful than the complex sugars contained in other foods.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Harm</span> <span class="exp"><span class="itl">härm</span> injury: moral wrong</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Harm</span> <span class="exp">to injure</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mandell Creighton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Mandell Creighton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No people do so much harm as those who go about doing good.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ovid</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ovid.jpg" alt="Ovid">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“People are slow to believe that, which if believed would work them harm.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mao Zedong</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mao%20Zedong.jpg" alt="Mao%20Zedong">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To read too many books is harmful.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Georg C. Lichtenberg</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Georg%20C.%20Lichtenberg.jpg" alt="Georg%20C.%20Lichtenberg">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Once we know our weaknesses they cease to do us any harm.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Florence Nightingale</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Florence Nightingale">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The very first requirement in a hospital is that it should do the sick no harm.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Italian Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Italian Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Misfortune does not always result in harm.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>No harm, no foul</span> - There's no problem when no harm or damage is done, such as the time my sister-in-law stole the name we'd chosen for a boy and we both ended up having girls.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">harm</span>, <span class="wUets">hearm</span>, AS. <span class="wUets">hearm</span>,; akin to OS. <span class="wUets">harm</span>, G. <span class="wUets">harm</span>, grief, Icel. <span class="wUets">harmr</span>, Dan. <span class="wUets">harme</span>, Sw. <span class="wUets">harm</span>,; cf. OSlav. &amp; Russ. <span class="wUets">sram'</span>, shame, Skr. <span class="wUets">çrama</span>, toil, fatigue
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						I knew that there was harm, and felt that I might justly be punished.
+					</div>
+					<div class="uAuthor">
+						"Will Weatherhelm" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						This will not do harm, but good, if it is only used so far as to try whether the stage for hot treatment has been reached.
+					</div>
+					<div class="uAuthor">
+						"Papers on Health" by <span>John Kirk</span>					</div>
+										<div class="usage">
+						What harm was there in that, I should like to know?
+					</div>
+					<div class="uAuthor">
+						"The Dash for Khartoum" by <span>George Alfred Henty</span>					</div>
+										<div class="usage">
+						And yet, what harm to read this letter and return it to the sender?
+					</div>
+					<div class="uAuthor">
+						"The Lure of the Mask" by <span>Harold MacGrath</span>					</div>
+										<div class="usage">
+						It could do no harm to continue the watch that had been set upon him.
+					</div>
+					<div class="uAuthor">
+						"The Grell Mystery" by <span>Frank Froest</span>					</div>
+										<div class="usage">
+						He meant to do no harm, but he did great harm.
+					</div>
+					<div class="uAuthor">
+						"Eric, or Little by Little" by <span>Frederic W. Farrar</span>					</div>
+										<div class="usage">
+						At the same time, I take it, there can be no harm in hiding him a little.
+					</div>
+					<div class="uAuthor">
+						"The Death Shot" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						If we were wiser and stronger, and not so easily influenced for evil, I daresay it would do us no harm.
+					</div>
+					<div class="uAuthor">
+						"Janet's Love and Service" by <span>Margaret M Robertson</span>					</div>
+										<div class="usage">
+						Come, let us sell him to the Ishmaelites, and let us do him no harm, for he is our brother, our own flesh and blood.
+					</div>
+					<div class="uAuthor">
+						"The Children's Bible" by <span>Henry A. Sherman</span>					</div>
+										<div class="usage">
+						But suppose Bob had told already and harm was done?
+					</div>
+					<div class="uAuthor">
+						"Walter and the Wireless" by <span>Sara Ware Bassett</span>					</div>
+										<div class="usage">
+						But you are too wise to let them harm you.
+					</div>
+					<div class="uAuthor">
+						"A True Friend" by <span>Adeline Sergeant</span>					</div>
+										<div class="usage">
+						Still, Arethusa's never been and a little visit might not do her any harm.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Arethusa" by <span>Francis Barton Fox</span>					</div>
+										<div class="usage">
+						Harmful folkways.+ There are folkways which are positively harmful.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						Nobody wished them any harm, and the few people they had specially befriended, naturally, thought well of them.
+					</div>
+					<div class="uAuthor">
+						"Robert Elsmere" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						It would break his heart to think of harm coming to you.
+					</div>
+					<div class="uAuthor">
+						"Allison Bain" by <span>Margaret Murray Robertson</span>					</div>
+										<div class="usage">
+						Therefore a bad thought unexpressed does harm only to the individual who creates the thought.
+					</div>
+					<div class="uAuthor">
+						"The Eugenic Marriage, Vol. 3 (of 4)" by <span>W. Grant Hague</span>					</div>
+										<div class="usage">
+						A little of it will harm any one who drinks it; much of it would kill the drinker.
+					</div>
+					<div class="uAuthor">
+						"Child's Health Primer For Primary Classes" by <span>Jane Andrews</span>					</div>
+										<div class="usage">
+						Watch harm, catch harm.
+					</div>
+					<div class="uAuthor">
+						"The Proverbs of Scotland" by <span>Alexander Hislop</span>					</div>
+										<div class="usage">
+						We will give you lots of precious stones, and lots of gold, and will do you no harm!
+					</div>
+					<div class="uAuthor">
+						"The Chinese Fairy Book" by <span>Various</span>					</div>
+										<div class="usage">
+						They always escape from harm.
+					</div>
+					<div class="uAuthor">
+						"Jessica, the Heiress" by <span>Evelyn Raymond</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							He will sustain our weakest powers<br>
+With his almighty arm,<br>
+And watch our most unguarded hours<br>
+Against surprising harm.
+							<div class="poet">"Psalm 121" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							He had founde that Amarill<br>
+Soughte glorye more than love;<br>
+That she forcèd not his harmes<br>
+Her bewtye's power to prove.
+							<div class="poet">"The Faire Amarillis" by <span>Edward Dyer</span></div>
+						</div>
+											<div class="poemQuote">
+							Drink of this cup! it bears a charm<br>
+Of more than magic worth:<br>
+A spell to keep the soul from harm,<br>
+A gift from heaven to earth.
+							<div class="poet">"Drink Of This Cup" by <span>John Pierpont</span></div>
+						</div>
+											<div class="poemQuote">
+							"Now hush thee—hush thee Margaret,<br>
+"The mists will do no harm,<br>
+"And from the wind the little babe<br>
+"Lies sheltered on my arm."
+							<div class="poet">"Rudiger - A Ballad" by <span>Robert Southey</span></div>
+						</div>
+											<div class="poemQuote">
+							Hail! to our lady brave,<br>
+Whom I have sung before—<br>
+She may laugh at the fool and defy the knave,<br>
+Their power can harm no more.
+							<div class="poet">"The Queen's Triumph" by <span>Samuel Bamford</span></div>
+						</div>
+											<div class="poemQuote">
+							I am tired today but I am not<br>
+too tired. I am not tired at all.<br>
+There is the Pollock, white, harm<br>
+will not fall, his perfect hand
+							<div class="poet">"Digression On Number 1, 1948" by <span>Frank O Hara</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The charges against Churchill are tied to theft with the intent to harm others.
+					</div>
+					<div class="uAuthor">
+						<a href="http://woub.org/2012/06/29/second-arrest-made-guernsey-co-double-slaying" target="_blank" rel="external nofollow">woub.org</a>
+					</div>
+										<div class="usage">
+						 Guest Worker Programs Do a World of Harm.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1995/06/07/opinion/l-guest-worker-programs-do-a-world-of-harm-708995.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Selectman Knabel is just posturing – harmfully .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mvtimes.com/2012/05/23/selectman-knabel-just-posturing-harmfully-10805/" target="_blank" rel="external nofollow">mvtimes.com</a>
+					</div>
+										<div class="usage">
+						But it's not as simple as eating less fat, which tends to lower both LDL, the harmful kind of cholesterol that contributes to heart disease, and HDL , the protective variety.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/health/How-to-Lower-Bad-Cholesterol-LDL-Without-Reducing-HDL" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						Itasca, IL – Media coverage of car crashes may harm rather than help public health, according to two new studies published in the National Safety Council's Journal of Safety Research.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nsc.org/Pages/MediaCoverageofCarCrashesMaybeaHealthHazard.aspx" target="_blank" rel="external nofollow">nsc.org</a>
+					</div>
+										<div class="usage">
+						A column of yours stated that dark chocolate might not have a harmful effect on blood cholesterol.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.signonsandiego.com/uniontrib/20041208/news_lz1f8focus.html" target="_blank" rel="external nofollow">signonsandiego.com</a>
+					</div>
+										<div class="usage">
+						This site gives the silent majority a way to express their views without fear of harmful repercussions against their kids.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.delmartimes.net/2011/11/10/helpless-no-more-rate-those-teachers/" target="_blank" rel="external nofollow">delmartimes.net</a>
+					</div>
+										<div class="usage">
+						It harms every organ in your body.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vaildaily.com/article/20120102/AE/120109986/1112&amp;parentprofile=1" target="_blank" rel="external nofollow">vaildaily.com</a>
+					</div>
+										<div class="usage">
+						I do fear driving or doing anything that could cause harm on this day.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ironmountaindailynews.com/page/blogs.detail/display/1052/Friday-the-13th.html" target="_blank" rel="external nofollow">ironmountaindailynews.com</a>
+					</div>
+										<div class="usage">
+						Vatican tribunal denounces pope's butler theft as harmful to pope, Holy See , entire church.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/Religion/2012/10/23/Vatican-tribunal-denounces-pope-s-butler-theft-as-harmful-to-pope-Holy-See-entire-church.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<div class="usage">
+						Or ingest small amounts of a harmful substance if it could cure illness.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lovinlife.com/news/2011/oct/19/introduction-alternative-remedies-aromatherapy-acu/" target="_blank" rel="external nofollow">lovinlife.com</a>
+					</div>
+										<div class="usage">
+						In over 200 years of clinical use, no homeopathic product has ever been pulled off the market for any harmful side effects, negative drug interactions or addictions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chiroweb.com/archives/20/21/11.html" target="_blank" rel="external nofollow">chiroweb.com</a>
+					</div>
+										<div class="usage">
+						The tribe sued federal officials this week to protect a threatened plant that it says will be harmed by snow made with treated wastewater.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kold.com/story/20122141/hopi-sues-to-halt-snowmaking-at-ariz-ski-resort" target="_blank" rel="external nofollow">kold.com</a>
+					</div>
+										<div class="usage">
+						Las Vegas Sun health reporter Marshall Allen talks with KVBC's Jeff Gillian about the Sun's hospital-care project, Do No Harm.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lasvegassun.com/videos/2010/jun/27/4100/" target="_blank" rel="external nofollow">lasvegassun.com</a>
+					</div>
+										<div class="usage">
+						 HRT May Do More Harm Than Good For Disease Prevention, Says US Preventive Services Task Force.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/health-news/articles/2012/10/25/hrt-not-recommended-for-disease-prevention-says-us-panel?s_cid=rss:hrt-not-recommended-for-disease-prevention-says-us-panel" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We have checked that restricting the P2VM extension to the 32 pixels is not harmful in terms of loss of information, since the 6 independent parameters of the 3 simultaneous complex correlated ﬂuxes are more than suﬃcently ﬁtted on 32 independent pixel values (24 would suﬃce in theory). 
+					</div>
+					<div class="uAuthor">
+						AMBER Task Force February 2008 run report
+					</div>
+										<div class="usage">
+						By combining HISQ c harm quark propagators with light valence HISQ quarks we obtained accurate results for the mass of the D and Ds mesons in . 
+					</div>
+					<div class="uAuthor">
+						Precision charm physics, m_c and alpha_s from lattice QCD
+					</div>
+										<div class="usage">
+						Hence, only the dispersion-induced distortion between the early and late wave packets, which is due to the period τ between the two dissociation processes, causes potential harm to the fringe pattern of the detection probability as a function of the arm length variations. 
+					</div>
+					<div class="uAuthor">
+						Non-classical correlations from dissociation time entanglement
+					</div>
+										<div class="usage">
+						Therefore an appropriate cutting or disturbing in a good way could unify many of these islands. A second aspect: It is possible that a very rapid cutting is not so harmful for the plasma. 
+					</div>
+					<div class="uAuthor">
+						New Revelation of Lightning Ball Observation and Proposal for a Nuclear Reactor Fusion Experiment
+					</div>
+										<div class="usage">
+						As a consequence, few gradient terms are missing on subsequent formulae of , yet these missing terms do not harm the argument made there. 
+					</div>
+					<div class="uAuthor">
+						Non-negative Ricci curvature on closed manifolds under Ricci flow
+					</div>
+										<div class="usage">
+						Armstrong, 2007: Signiﬁcance tests harm progress in fo recasting.
+					</div>
+					<div class="uAuthor">
+						Significance Tests in Climate Science
+					</div>
+										<div class="usage">
+						Therefore, Nielsen and Ninomiya here are implicitly assuming that we have free will to choose between histories whose imaginary actions are close enough and somehow the histories with less harm to humans are more probable. 
+					</div>
+					<div class="uAuthor">
+						LHC card games: bringing about retrocausality?
+					</div>
+										<div class="usage">
+						Since they have zero sum, it does not harm to make a choice once and for all, so that in practice only one kind of wire is used. 
+					</div>
+					<div class="uAuthor">
+						Notes on TQFT Wire Models and Coherence Equations for SU(3) Triangular Cells
+					</div>
+										<div class="usage">
+						Thus a component of a system is safety critical within that system if it can be hypothetically replaced by another component in such a way that known theory makes the prediction of harmful consequences from a hypothetical operation very plausible. 
+					</div>
+					<div class="uAuthor">
+						Informal Control code logic
+					</div>
+										<div class="usage">
+						For this deﬁnition to make real sense U needs to know in addition that some M can be imagined which, when installed inside R will allow its adequate operation thus avoiding harmful consequences. 
+					</div>
+					<div class="uAuthor">
+						Informal Control code logic
+					</div>
+										<div class="usage">
+						They think loop does not do much harm if it is not nested. 
+					</div>
+					<div class="uAuthor">
+						A Factorial Experiment on Scalability of Search Based Software Testing
+					</div>
+										<div class="usage">
+						These violations, however, are not harmful; they express equivalent runs of a system. 
+					</div>
+					<div class="uAuthor">
+						Maximal Structuring of Acyclic Process Models
+					</div>
+										<div class="usage">
+						Fortunately, the observed period changes are small and do not harm the effectiveness of frequency detection by Fourier techniques. 
+					</div>
+					<div class="uAuthor">
+						Large Magellanic Cloud Cepheids in the ASAS data
+					</div>
+										<div class="usage">
+						Although this overhead decreases the performance of the tests, it did not harm the test results. 
+					</div>
+					<div class="uAuthor">
+						Testing MapReduce-Based Systems
+					</div>
+										<div class="usage">
+						Each RP station is composed of two units, in order to have a lever harm for a better local track reconstruction and a higher eﬃciency of trigger selection by track angle. 
+					</div>
+					<div class="uAuthor">
+						Summary of Physics Results from the TOTEM Experiment
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the act of damaging something or someone"><a href="hurt.html">hurt</a>, <a href="scathe.html">scathe</a>, </div><div class="synGroup" title="the occurrence of a change for the worse"><a href="impairment.html">impairment</a>, </div><div class="synGroup" title="any physical damage to the body caused by violence or accident or fracture etc."><a href="trauma.html">trauma</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="alteration.html">alteration</a>, <a href="change.html">change</a>, <a href="change%20of%20integrity.html">change of integrity</a>, <a href="health%20problem.html">health problem</a>, <a href="ill%20health.html">ill health</a>, <a href="injure.html">injure</a>, <a href="modification.html">modification</a>, <a href="unhealthiness.html">unhealthiness</a>, <a href="wound.html">wound</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="birth%20trauma.html">birth trauma</a>, <a href="bite.html">bite</a>, <a href="blast%20trauma.html">blast trauma</a>, <a href="bleeding.html">bleeding</a>, <a href="blunt%20trauma.html">blunt trauma</a>, <a href="brain%20damage.html">brain damage</a>, <a href="break.html">break</a>, <a href="bruise.html">bruise</a>, <a href="bump.html">bump</a>, <a href="burn.html">burn</a>, <a href="contusion.html">contusion</a>, <a href="cryopathy.html">cryopathy</a>, <a href="defacement.html">defacement</a>, <a href="defloration.html">defloration</a>, <a href="deformation.html">deformation</a>, <a href="detriment.html">detriment</a>, <a href="disfiguration.html">disfiguration</a>, <a href="disfigurement.html">disfigurement</a>, <a href="dislocation.html">dislocation</a>, <a href="distortion.html">distortion</a>, <a href="electric%20shock.html">electric shock</a>, <a href="fracture.html">fracture</a>, <a href="frostbite.html">frostbite</a>, <a href="haemorrhage.html">haemorrhage</a>, <a href="hemorrhage.html">hemorrhage</a>, <a href="hurt.html">hurt</a>, <a href="impairment.html">impairment</a>, <a href="insect%20bite.html">insect bite</a>, <a href="intravasation.html">intravasation</a>, <a href="ladder.html">ladder</a>, <a href="lesion.html">lesion</a>, <a href="penetrating%20injury.html">penetrating injury</a>, <a href="penetrating%20trauma.html">penetrating trauma</a>, <a href="pinch.html">pinch</a>, <a href="pull.html">pull</a>, <a href="ravel.html">ravel</a>, <a href="run.html">run</a>, <a href="rupture.html">rupture</a>, <a href="sicken.html">sicken</a>, <a href="sting.html">sting</a>, <a href="strain.html">strain</a>, <a href="twist.html">twist</a>, <a href="wale.html">wale</a>, <a href="weal.html">weal</a>, <a href="welt.html">welt</a>, <a href="wheal.html">wheal</a>, <a href="whiplash.html">whiplash</a>, <a href="whiplash%20injury.html">whiplash injury</a>, <a href="wound.html">wound</a>, <a href="wounding.html">wounding</a>, <a href="wrench.html">wrench</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="damage.html">damage</a>, <a href="injure.html">injure</a>, <a href="injurious.html">injurious</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20bull%20in%20a%20china-shop.html">A bull in a china-shop</a>, <a href="accident.html">accident</a>, <a href="Accloy.html">Accloy</a>, <a href="accursed.html">accursed</a>, <a href="Adiaphorous.html">Adiaphorous</a>, <a href="alternative%20energy.html">alternative energy</a>, <a href="amulet.html">amulet</a>, <a href="anathemise.html">anathemise</a>, <a href="anathemize.html">anathemize</a>, <a href="And.html">And</a>, <a href="animosity.html">animosity</a>, <a href="annoy.html">annoy</a>, <a href="apprehensive.html">apprehensive</a>, <a href="Assault.html">Assault</a>, <a href="attractive%20nuisance.html">attractive nuisance</a>, <a href="bad.html">bad</a>, <a href="bad%20fairy.html">bad fairy</a>, <a href="bad%20person.html">bad person</a>, <a href="badly.html">badly</a>, <a href="bane.html">bane</a>, <a href="bedamn.html">bedamn</a>, <a href="beshrew.html">beshrew</a>, <a href="biodegradable%20pollution.html">biodegradable pollution</a>, <a href="blackmail.html">blackmail</a>, <a href="Blackmailing.html">Blackmailing</a>, <a href="body%20guard.html">body guard</a>, <a href="buffer.html">buffer</a>, <a href="care.html">care</a>, <a href="caution.html">caution</a>, <a href="charge.html">charge</a>, <a href="chemical%20weapon.html">chemical weapon</a>, <a href="CIS.html">CIS</a>, <a href="computer%20virus.html">computer virus</a>, <a href="conserve.html">conserve</a>, <a href="conserved.html">conserved</a>, <a href="contributory%20negligence.html">contributory negligence</a>, <a href="Corsned.html">Corsned</a>, <a href="Coward.html">Coward</a>, <a href="cowardice.html">cowardice</a>, <a href="cowardly.html">cowardly</a>, <a href="curse.html">curse</a>, <a href="damage.html">damage</a>, <a href="damaging.html">damaging</a>, <a href="damn.html">damn</a>, <a href="damnable.html">damnable</a>, <a href="damnum.html">damnum</a>, <a href="danger.html">danger</a>, <a href="dangerous.html">dangerous</a>, <a href="dangerously.html">dangerously</a>, <a href="dangerousness.html">dangerousness</a>, <a href="defame.html">defame</a>, <a href="defence.html">defence</a>, <a href="defend.html">defend</a>, <a href="defense.html">defense</a>, <a href="deliver.html">deliver</a>, <a href="Deliverer.html">Deliverer</a>, <a href="deprecation.html">deprecation</a>, <a href="Dere.html">Dere</a>, <a href="detriment.html">detriment</a>, <a href="detrimental.html">detrimental</a>, <a href="devote.html">devote</a>, <a href="devoted.html">devoted</a>, <a href="disadvantage.html">disadvantage</a>, <a href="disarm.html">disarm</a>, <a href="disaster.html">disaster</a>, <a href="disfavor.html">disfavor</a>, <a href="disfavour.html">disfavour</a>, <a href="Disserve.html">Disserve</a>, <a href="disservice.html">disservice</a>, <a href="Disserviceable.html">Disserviceable</a>, <a href="distress.html">distress</a>, <a href="do.html">do</a>, <a href="dragon.html">dragon</a>, <a href="Endamage.html">Endamage</a>, <a href="Endamagement.html">Endamagement</a>, <a href="Entame.html">Entame</a>, <a href="envy.html">envy</a>, <a href="escape.html">escape</a>, <a href="evil.html">evil</a>, <a href="evil%20eye.html">evil eye</a>, <a href="evil%20spirit.html">evil spirit</a>, <a href="Evil-eye.html">Evil-eye</a>, <a href="fair.html">fair</a>, <a href="fascination.html">fascination</a>, <a href="fear.html">fear</a>, <a href="fender.html">fender</a>, <a href="forethought.html">forethought</a>, <a href="gain.html">gain</a>, <a href="good.html">good</a>, <a href="grave.html">grave</a>, <a href="grievous.html">grievous</a>, <a href="grill.html">grill</a>, <a href="guard.html">guard</a>, <a href="guinea%20pig.html">guinea pig</a>, <a href="hacker.html">hacker</a>, <a href="harmful.html">harmful</a>, <a href="harmfulness.html">harmfulness</a>, <a href="harmless.html">harmless</a>, <a href="Haro.html">Haro</a>, <a href="hazard.html">hazard</a>, <a href="hurt.html">hurt</a>, <a href="Hurter.html">Hurter</a>, <a href="hurtful.html">hurtful</a>, <a href="Hurtless.html">Hurtless</a>, <a href="ill.html">ill</a>, <a href="Ill-wisher.html">Ill-wisher</a>, <a href="Impassible.html">Impassible</a>, <a href="imprecate.html">imprecate</a>, <a href="impunity.html">impunity</a>, <a href="incalculable.html">incalculable</a>, <a href="injure.html">injure</a>, <a href="injurious.html">injurious</a>, <a href="injuriousness.html">injuriousness</a>, <a href="injury.html">injury</a>, <a href="injustice.html">injustice</a>, <a href="innocuous.html">innocuous</a>, <a href="innoxious.html">innoxious</a>, <a href="inoffensive.html">inoffensive</a>, <a href="intended.html">intended</a>, <a href="inviolable.html">inviolable</a>, <a href="jactitation.html">jactitation</a>, <a href="keep.html">keep</a>, <a href="keep%20up.html">keep up</a>, <a href="legal%20injury.html">legal injury</a>, <a href="life-threatening.html">life-threatening</a>, <a href="loath.html">loath</a>, <a href="loss.html">loss</a>, <a href="lumber.html">lumber</a>, <a href="machinate.html">machinate</a>, <a href="maintain.html">maintain</a>, <a href="maledict.html">maledict</a>, <a href="malefic.html">malefic</a>, <a href="maleficent.html">maleficent</a>, <a href="Maleficiate.html">Maleficiate</a>, <a href="Maleficience.html">Maleficience</a>, <a href="Maleficient.html">Maleficient</a>, <a href="malice.html">malice</a>, <a href="malign.html">malign</a>, <a href="malignant.html">malignant</a>, <a href="Mar.html">Mar</a>, <a href="maul.html">maul</a>, <a href="mayhem.html">mayhem</a>, <a href="menace.html">menace</a>, <a href="mercy.html">mercy</a>, <a href="mermaid.html">mermaid</a>, <a href="minus.html">minus</a>, <a href="mischief.html">mischief</a>, <a href="mischief-making.html">mischief-making</a>, <a href="mischievous.html">mischievous</a>, <a href="misfortune.html">misfortune</a>, <a href="miss.html">miss</a>, <a href="negative.html">negative</a>, <a href="nocent.html">nocent</a>, <a href="Nocument.html">Nocument</a>, <a href="obnoxious.html">obnoxious</a>, <a href="offend.html">offend</a>, <a href="offense.html">offense</a>, <a href="papoose.html">papoose</a>, <a href="parry.html">parry</a>, <a href="perfidious.html">perfidious</a>, <a href="perilous.html">perilous</a>, <a href="plight.html">plight</a>, <a href="Plot-proof.html">Plot-proof</a>, <a href="precaution.html">precaution</a>, <a href="prejudicial.html">prejudicial</a>, <a href="prejudicious.html">prejudicious</a>, <a href="preserve.html">preserve</a>, <a href="preserver.html">preserver</a>, <a href="proof.html">proof</a>, <a href="protect.html">protect</a>, <a href="protecting.html">protecting</a>, <a href="protection.html">protection</a>, <a href="pursued.html">pursued</a>, <a href="relieve.html">relieve</a>, <a href="reprieve.html">reprieve</a>, <a href="rescue.html">rescue</a>, <a href="rescuer.html">rescuer</a>, <a href="reservoir.html">reservoir</a>, <a href="respite.html">respite</a>, <a href="revenge.html">revenge</a>, <a href="risk.html">risk</a>, <a href="rue.html">rue</a>, <a href="ruin.html">ruin</a>, <a href="sadism.html">sadism</a>, <a href="safe.html">safe</a>, <a href="safeness.html">safeness</a>, <a href="safety.html">safety</a>, <a href="salvage.html">salvage</a>, <a href="salvation.html">salvation</a>, <a href="salve.html">salve</a>, <a href="save.html">save</a>, <a href="Savior.html">Savior</a>, <a href="Saviour.html">Saviour</a>, <a href="Scath.html">Scath</a>, <a href="scathe.html">scathe</a>, <a href="Scatheful.html">Scatheful</a>, <a href="scot%20free.html">scot free</a>, <a href="screen.html">screen</a>, <a href="security.html">security</a>, <a href="self-preservation.html">self-preservation</a>, <a href="serious.html">serious</a>, <a href="severe.html">severe</a>, <a href="Shend.html">Shend</a>, <a href="Shendship.html">Shendship</a>, <a href="shield.html">shield</a>, <a href="shielding.html">shielding</a>, <a href="Shonde.html">Shonde</a>, <a href="singe.html">singe</a>, <a href="sinister.html">sinister</a>, <a href="spar.html">spar</a>, <a href="spare.html">spare</a>, <a href="sparing.html">sparing</a>, <a href="squeaker.html">squeaker</a>, <a href="strain.html">strain</a>, <a href="talebearing.html">talebearing</a>, <a href="tease.html">tease</a>, <a href="teen.html">teen</a>, <a href="thermal%20pollution.html">thermal pollution</a>, <a href="threat.html">threat</a>, <a href="To%20be%20in%20mischief.html">To be in mischief</a>, <a href="to%20do%20a%20job%20on.html">to do a job on</a>, <a href="To%20play%20the%20mischief.html">To play the mischief</a>, <a href="To%20save%20one%27s%20bacon.html">To save one's bacon</a>, <a href="To%20swear%20the%20peace%20against%20one.html">To swear the peace against one</a>, <a href="tort.html">tort</a>, <a href="touch.html">touch</a>, <a href="Unharmful.html">Unharmful</a>, <a href="uninjured.html">uninjured</a>, <a href="unsafe.html">unsafe</a>, <a href="vengeance.html">vengeance</a>, <a href="venomous.html">venomous</a>, <a href="violate.html">violate</a>, <a href="virus.html">virus</a>, <a href="Ward.html">Ward</a>, <a href="warn.html">warn</a>, <a href="warrant.html">warrant</a>, <a href="Wem.html">Wem</a>, <a href="Wergild.html">Wergild</a>, <a href="Without.html">Without</a>, <a href="wound.html">wound</a>, <a href="wrong.html">wrong</a>, <a href="Wronger.html">Wronger</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					garm, yarm, jarm, narm, barm, hqrm, hwrm, hsrm, hzrm, haem, hadm, hafm, hatm, harn, harj, hark
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

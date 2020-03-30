@@ -1,0 +1,578 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>atmosphere</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/76/39/10060.jpg" alt="ATMOSPHERE IN OUR RIVER BUNGALOWS">
+							<div class="caption">ATMOSPHERE IN OUR RIVER BUNGALOWS</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">a distinctive but intangible quality surrounding a person or thing</span> <span class="quot">"an air of mystery","the house had a neglected air","an atmosphere of defeat pervaded the candidate's headquarters","the place had an aura of romance"</span></li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">the mass of air surrounding the Earth</span> <span class="quot">"there was great heat as the comet entered the atmosphere","it was exposed to the air"</span></li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">the envelope of gases surrounding any celestial body</span> </li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">a unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade</span> </li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">the weather or climate at some place</span> <span class="quot">"the atmosphere was thick with fog"</span></li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">a particular environment or surrounding influence</span> <span class="quot">"there was an atmosphere of excitement"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Even when all the molecules in a single breath of air have been dispersed evenly in the earth's atmosphere, there will still be one or two of the same ones taken into the lungs with every subsequent breath. Every time you breathe in, you inhale one or two of the same molecules that you inhaled with the first breath you took as a baby.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Atmosphere</span> <span class="exp">A supposed medium around various bodies; as, <span class="wUex">electrical atmosphere</span>, a medium formerly supposed to surround electrical bodies.</span> </li><li><span class="term">Atmosphere</span> <span class="exp"><span class="wuFld">(Physics)</span> Any gaseous envelope or medium.</span> </li><li><span class="term">Atmosphere</span> <span class="exp">Any surrounding or pervading influence or condition.</span> <span class="wuQuot">"The chillest of social atmospheres ."</span></li><li><span class="term">Atmosphere</span> <span class="exp">The portion of air in any locality, or affected by a special physical or sanitary condition; as, the <span class="wUex">atmosphere</span> of the room; a moist or noxious <span class="wUex">atmosphere</span>.
+         </span> </li><li><span class="term">Atmosphere</span> <span class="exp">The pressure or weight of the air at the sea level, on a unit of surface, or about 14.7 lbs. to the sq. inch.</span> <span class="wuQuot">"Hydrogen was liquefied under a pressure of 650 atmospheres ."</span></li><li><span class="term">Atmosphere</span> <span class="exp"><span class="wuFld">(Physics)</span> The whole mass of aëriform fluid surrounding the earth; -- applied also to the gaseous envelope of any celestial orb, or other body; as, the <span class="wUex">atmosphere</span> of Mars.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The USSR set off the largest nuclear explosion in history, detonating a 50 megaton bomb (2600 times the Hiroshima bomb) in an atmospheric test over the Novaya Zemla Islands, October 30 1961.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">The aëriform fluid which surrounds the earth, and extends to an undetermined height above its surface; the air. It is a mechanical mixture of 79 parts by volume of nitrogen and 21 of oxygen, with a trace of carbon dioxid and a variable quantity of aqueous vapor, ammonia, ozone, and organic matter. The composition of the normal atmosphere varies but slightly in different localities, although near towns it usually contains impurities, such as sulphuric acid, hydrochloric acid, etc. The movements of the atmosphere constitute the winds, and in it are formed or produced clouds, rain, and snow. Its density is greatest at the earth's surface, and decreases as the height above the earth increases. The atmosphere, like other bodies, gravitates toward the earth, and therefore has weight and exerts pressure. Its average weight at the level of the sea is about 15 pounds (14.7) to the square inch.</span> </li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">A conventional unit of atmospheric pressure. An atmosphere is in English use the pressure of a vertical column of 30 inches of mercury at the freezing-point at London; in French use it is the pressure of 760 millimeters of mercury at the freezing-point at Paris. For the absolute atmosphere in the C. G. S. (centimeter-gram-second) system, see absolute. The weight of the atmosphere to the square inch is commonly employed as a convenient unit for pressures arising from other causes, such as the weight of liquids, the force of steam, etc.: thus, a pressure in a steam-boiler of 3 atmospheres means a pressure equal to 45 pounds per square inch.</span> </li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">The gaseous envelop surrounding any of the heavenly bodies.</span> </li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">Any gaseous medium: as, “an atmosphere of cold oxygen,” Miller.</span> </li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">An assumed outer envelop of force, effluvia, etc., surrounding a body: as, an electrical atmosphere.</span> </li><li><span class="tSpeech">n</span> <span class="term">atmosphere</span> <span class="exp">Figuratively, intellectual or moral environment; pervading influence.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										What we call the sky is merely the limit of our vision into the atmosphere. The sky, like the horizon, is always as far away as one can see.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Atmosphere</span> <span class="exp"><span class="itl">at′mo-sfēr</span> the gaseous envelope that surrounds the earth or any of the heavenly bodies: any gaseous medium: a conventional unit of atmospheric pressure:</span> </li><li><span class="tSpeech">n</span> <span class="term">Atmosphere</span> <span class="exp"><span class="itl">at′mo-sfēr</span> (<span class="itl">fig.</span>) any surrounding influence</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Frank Smith</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Frank Smith">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Neither comprehension nor learning can take place in an atmosphere of anxiety.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry David Thoreau</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20David%20Thoreau.jpg" alt="Henry%20David%20Thoreau">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Behave so the aroma of your actions may enhance the general sweetness of the atmosphere.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dorothy Parker</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Dorothy%20Parker.jpg" alt="Dorothy%20Parker">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The best way to keep children at home is to make the home a pleasant atmosphere and let the air out of the tires.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Baudelaire</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Baudelaire.jpg" alt="Charles%20Baudelaire">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The life of our city is rich in poetic and marvelous subjects. We are enveloped and steeped as though in an atmosphere of the marvelous; but we do not notice it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dag Hammarskjold</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Dag%20Hammarskjold.jpg" alt="Dag%20Hammarskjold">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every deed and every relationship is surrounded by an atmosphere of silence. Friendship needs no words -- it is solitude delivered from the anguish of loneliness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Paul Richter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20Paul%20Richter.jpg" alt="Jean%20Paul%20Richter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The conscience of children is formed by the influences that surround them; their notions of good and evil are the result of the moral atmosphere they breathe.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Gr.  vapor (akin to Skr. <span class="wUets">ātman</span>, breath, soul, G. <span class="wUets">athem</span>, breath) +  sphere: cf. F. <span class="wUets">atmosphère</span>,. See <span class="wUer">Sphere</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr. <i>atmos</i>, air, <i>sphaira</i>, a sphere.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Of course, as soon as we enter an atmosphere, it behoves us to travel slowly to avoid overheating.
+					</div>
+					<div class="uAuthor">
+						"Pharaoh's Broker" by <span>Ellsworth Douglass</span>					</div>
+										<div class="usage">
+						He relieved the somewhat sordid atmosphere which pervaded the chamber.
+					</div>
+					<div class="uAuthor">
+						"The Day of Judgment" by <span>Joseph Hocking</span>					</div>
+										<div class="usage">
+						Between the earth and space, however, is interposed the atmosphere, and at the bottom of the atmosphere we live.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books - Volume 15 - Science" by <span>Various</span>					</div>
+										<div class="usage">
+						One of the many names given to those solid masses or stones which occasionally fall from the atmosphere to the surface of the earth.
+					</div>
+					<div class="uAuthor">
+						"The Sailor's Word-Book" by <span>William Henry Smyth</span>					</div>
+										<div class="usage">
+						The atmosphere was pallid with haze and dense with mystery.
+					</div>
+					<div class="uAuthor">
+						"A Son of Hagar" by <span>Sir Hall Caine</span>					</div>
+										<div class="usage">
+						Thus the little store stood in an atmosphere that thought, breathed, and talked of the theater.
+					</div>
+					<div class="uAuthor">
+						"Charles Frohman: Manager and Man" by <span>Isaac Frederick Marcosson and Daniel Frohman</span>					</div>
+										<div class="usage">
+						And there is something wholesome in such an atmosphere, the atmosphere of the West, at least by contrast.
+					</div>
+					<div class="uAuthor">
+						"A Spoil of Office" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						It is perfectly amazing to what a degree the physical conditions of the atmosphere appear to be bound up with one's own mental atmosphere.
+					</div>
+					<div class="uAuthor">
+						"Antony Gray,--Gardener" by <span>Leslie Moore</span>					</div>
+										<div class="usage">
+						Along the whole coast of Peru the atmosphere is almost uniformly in a state of repose.
+					</div>
+					<div class="uAuthor">
+						"Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the Andes, into the Primeval Forests" by <span>J. J. von Tschudi</span>					</div>
+										<div class="usage">
+						But when the atmosphere is colder than the lake, the colder surface of the water will descend, for the very reason that the warmer will not.
+					</div>
+					<div class="uAuthor">
+						"Conversations on Chemistry, V. 1-2" by <span>Jane Marcet</span>					</div>
+										<div class="usage">
+						An atmosphere of uneasiness pervaded the dining-room.
+					</div>
+					<div class="uAuthor">
+						"The Dead Command" by <span>Vicente Blasco Ibáñez</span>					</div>
+										<div class="usage">
+						In this hot, steamy atmosphere plants and trees grow in luxuriant abundance.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Nature" by <span>Francis Younghusband</span>					</div>
+										<div class="usage">
+						It seemed to suggest the still atmosphere of some eerie psychological story.
+					</div>
+					<div class="uAuthor">
+						"What I Saw in America" by <span>G. K. Chesterton</span>					</div>
+										<div class="usage">
+						The chemical nature of the atmosphere was then a discovery of barely twenty years' standing.
+					</div>
+					<div class="uAuthor">
+						"Manures and the principles of manuring" by <span>Charles Morton Aikman</span>					</div>
+										<div class="usage">
+						It creates atmosphere for the number.
+					</div>
+					<div class="uAuthor">
+						"The Art of Stage Dancing" by <span>Ned Wayburn</span>					</div>
+										<div class="usage">
+						What can be told about the shooting-stars which so often dash into our atmosphere and perish in a streak of splendour?
+					</div>
+					<div class="uAuthor">
+						"The Story of the Heavens" by <span>Robert Stawell Ball</span>					</div>
+										<div class="usage">
+						This atmosphere was disturbing.
+					</div>
+					<div class="uAuthor">
+						"The Orchard of Tears" by <span>Sax Rohmer</span>					</div>
+										<div class="usage">
+						Usually, however, they are so small that on entering our atmosphere they become fused by the friction and changed to dust.
+					</div>
+					<div class="uAuthor">
+						"To Mars via The Moon" by <span>Mark Wicks</span>					</div>
+										<div class="usage">
+						Atmospheric pressure had its eager advocates.
+					</div>
+					<div class="uAuthor">
+						"Lives of the Engineers The Locomotive. George and Robert Stephenson" by <span>Samuel Smiles</span>					</div>
+										<div class="usage">
+						In a pure atmosphere the highest temperatures are comfortable, but in a foul one they become insupportable.
+					</div>
+					<div class="uAuthor">
+						"The Turkish Bath" by <span>Robert Owen Allsop</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Then softly downward falling,<br>
+If we listen, we can hear,<br>
+From a purer atmosphere,<br>
+A warning and a calling.
+							<div class="poet">"Warning" by <span>Marietta Holley</span></div>
+						</div>
+											<div class="poemQuote">
+							"And through another atmosphere,<br>
+My spirit seemed to gaze<br>
+For never more wore life to me<br>
+The hues of other days.
+							<div class="poet">"The Vesper Chime" by <span>Mary Gardiner Horsford  </span></div>
+						</div>
+											<div class="poemQuote">
+							Dusty vehicles together;<br>
+Darkies with the horses near<br>
+Tied to trees; the atmosphere<br>
+Redolent of bark and leather.
+							<div class="poet">"One Day And Another: A Lyrical Eclogue – Part II" by <span>Madison Julius Cawein</span></div>
+						</div>
+											<div class="poemQuote">
+							Still from the ground it sprouted,<br>
+Statelier year by year,<br>
+Till loveliness clung about it,<br>
+And was its atmosphere.
+							<div class="poet">"A Snow-White Lily" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							But is it God?—Once more the fear<br>
+Of No God loads my breath:<br>
+Amid a sunless atmosphere<br>
+I fight again with death.
+							<div class="poet">"The Disciple" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							Come to me, O ye children!<br>
+And whisper in my ear<br>
+What the birds and the winds are singing<br>
+In your sunny atmosphere. 
+							<div class="poet">"Children. (Birds Of Passage. Flight The First)" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						London Olympic atmosphere drastically different from 1948.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/sports/2012/06/29/london-olympic-atmosphere-drastically-from-148/" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Baylor's Christian atmosphere a drawing card for hoops recruits.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wacotrib.com/blogs/staff/college_football/Ch.html" target="_blank" rel="external nofollow">wacotrib.com</a>
+					</div>
+										<div class="usage">
+						A suite retreat evokes a resort atmosphere in the home.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/classified/realestate/advice/chi-master-suite_chomes_1128nov28,0,7070052.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						But others say an anti-pork atmosphere in Washington means their concerns are overblown.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Elections/House/2012/0301/David-Dreier-to-leave-Congress-Is-California-losing-its-clout" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Twister-like swirl kicked up column half a mile up into Red Planet's atmosphere.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/46873857/ns/technology_and_science/t/nasa-re-creates-huge-mars-dust-devil--d-video/" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						'The Dynamiter ' review: Southern drama long on atmosphere, short on momentum.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/movies/index.ssf/2012/09/the_dynamiter_review.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						6 Wild Tricks of Earth's Complicated Atmosphere.
+					</div>
+					<div class="uAuthor">
+						<a href="http://discovermagazine.com/2012/extreme-earth/06-wild-tricks-earths-complicated-atmosphere/article_view?b_start:int=1&amp;-C=" target="_blank" rel="external nofollow">discovermagazine.com</a>
+					</div>
+										<div class="usage">
+						This upscale downtown bar and grill offers Northern Indian cuisine in a romantic atmosphere that's perfect for a date or special occasion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.portlandmercury.com/portland/east-india-co-grill-and-bar/Location?oid=535867" target="_blank" rel="external nofollow">portlandmercury.com</a>
+					</div>
+										<div class="usage">
+						HUNDREDS of rockets roar to life every year, some trailing clouds of toxic exhaust that chew up the life-protecting ozone shield high in the atmosphere.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1991/05/14/news/some-say-the-rockets-red-glare-is-eating-away-at-the-ozone-layer.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						If it's atmospheric you're looking for, iPoe doesn't disappoint.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.schoollibraryjournal.com/touchandgo/2012/05/14/an-interactive-edgar-allan-poe-collection-for-ios/" target="_blank" rel="external nofollow">blog.schoollibraryjournal.com</a>
+					</div>
+										<div class="usage">
+						Olenjack's Grille delivers exciting flavor combinations in a sophisticated-casual atmosphere.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fwweekly.com/2007/04/18/effortless-elegance/" target="_blank" rel="external nofollow">fwweekly.com</a>
+					</div>
+										<div class="usage">
+						 Electric atmosphere and patriotic pride are order of the day.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.belfasttelegraph.co.uk/news/local-national/uk/royal-wedding-electric-atmosphere-and-patriotic-pride-are-order-of-the-day-15149120.html" target="_blank" rel="external nofollow">belfasttelegraph.co.uk</a>
+					</div>
+										<div class="usage">
+						 Electric atmosphere at Academy game.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.socceramerica.com/article/48894/electric-atmosphere-at-academy-game.html" target="_blank" rel="external nofollow">socceramerica.com</a>
+					</div>
+										<div class="usage">
+						Oxygen-free, nitrogen-hydrocarbon heat-treating atmospheres can offer improved part quality and cost benefits compared to conventional endothermic atmosphere and vacuum processes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.industrialheating.com/Articles/Feature_Article/BNP_GUID_9-5-2006_A_10000000000000816041" target="_blank" rel="external nofollow">industrialheating.com</a>
+					</div>
+										<div class="usage">
+						Dark Atmospheric Lighthouse Shining A Beacon Off Into The Night Mist And Fog In A Storm Warning Of Dangerous Weather Conditions, Cape Byron Lighthouse Australia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marconews.com/news/2012/oct/25/superstition-st-elmos-fire-and-the-haunted-of/" target="_blank" rel="external nofollow">marconews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Figure 13 shows the spin evolution of the atmosphere assuming that the whole atmosphere rigidly rotates. 
+					</div>
+					<div class="uAuthor">
+						Rotational Evolution During Type I X-Ray Bursts
+					</div>
+										<div class="usage">
+						F I G . 1 3 . — The spin evolution of the atmosphere for convective (s atmosphere. 
+					</div>
+					<div class="uAuthor">
+						Rotational Evolution During Type I X-Ray Bursts
+					</div>
+										<div class="usage">
+						Even in the best atmospheric conditions, the zenith sky opacity of the atmosphere at 450µm is ∼ 0.6, and therefore the accuracy of the ﬁnal 450µm ﬂuxes depends critically on the accuracy of the extinction correction. 
+					</div>
+					<div class="uAuthor">
+						The SCUBA Local Universe Galaxy Survey II. 450 micron data - evidence for cold dust in bright IRAS Galaxies
+					</div>
+										<div class="usage">
+						Atmospheric neutrinos are produced by the interactions of the primary cosmic rays on nuclei of the Earth atmosphere. 
+					</div>
+					<div class="uAuthor">
+						Neutrino Oscillations. Theory and Experiment
+					</div>
+										<div class="usage">
+						This is done by unfolding the effect of the atmosphere transmission using, in this preliminary analysis, a standard atmosphere model to deal with Rayleigh and aerosol components. 
+					</div>
+					<div class="uAuthor">
+						Performance of the Pierre Auger Fluorescence Detector and Analysis of well recontructed events
+					</div>
+										<div class="usage">
+						Finally, we have proved that the coupled atmosphere-ocean model is ergodic under suitable conditions for physical parameters and randomness, and thus for any observable of the coupled atmosphere-ocean ﬂows, its time average approximates the statistical ensemble average, as long as the time interval is suﬃciently long. 
+					</div>
+					<div class="uAuthor">
+						Stochastic Dynamics of a Coupled Atmosphere--Ocean Model
+					</div>
+										<div class="usage">
+						We consider a two-dimensional coupled atmosphere-ocean model in the latitudedepth plane, with atmospheric dynamics highly simpliﬁed, i.e., the atmospheric dynamics is described by an energy balance model. 
+					</div>
+					<div class="uAuthor">
+						Stochastic Dynamics of a Coupled Atmosphere--Ocean Model
+					</div>
+										<div class="usage">
+						Sagan &amp; Salpeter (1976) discuss many aspects of a possible Jovian biology, an investigation motivated mainly by the fact that contemporary Jovian atmosphere has many similarities to the primitive terrestrial atmosphere. 
+					</div>
+					<div class="uAuthor">
+						The Aleph Cosmological Principle
+					</div>
+										<div class="usage">
+						Two subsequent triplets of colunms are the mean abundances in the atmosphere of δ Sct for three sets or atmospheric parameters: the best values, and effective temperature and surface gravity shifted by -0.2 dex and +100 K respectively. 
+					</div>
+					<div class="uAuthor">
+						About the chemical composition of delta Scuti - the prototype of the class of pulsating variables
+					</div>
+										<div class="usage">
+						Atmospheric muons, produced in the upper atmosphere by the interaction of cosmic rays, can be discarded because of their downward direction. 
+					</div>
+					<div class="uAuthor">
+						ANTARES Status &amp; Milestones : News from Deep-Sea
+					</div>
+										<div class="usage">
+						We have inferred the presence of carbon monoxide, and perhaps water, in the atmosphere of TrES-1 and have determined that both atmospheres are hot (∼1000-2000 K). 
+					</div>
+					<div class="uAuthor">
+						Theoretical Interpretation of the Measurements of the Secondary Eclipses of TrES-1 and HD209458b
+					</div>
+										<div class="usage">
+						In all our ﬁgures, the shaded region is the background of atmospheric neutrinos, computed as predicted by FLUKA (at the SuperKamiokande site) and taking into account atmospheric oscillations. 
+					</div>
+					<div class="uAuthor">
+						Spectra of neutrinos from dark matter annihilations
+					</div>
+										<div class="usage">
+						Eν &gt;∼ 10 GeV (because due to two factors: I. the ﬂux of atmospheric (ν ) only at low energy atmospheric µ± decay in the atmosphere producing (ν ) e rather than colliding with the Earth). 
+					</div>
+					<div class="uAuthor">
+						Spectra of neutrinos from dark matter annihilations
+					</div>
+										<div class="usage">
+						II. atmospheric (ν ) τ are generated almost only through atmospheric oscillations, that at baseline 2R⊕ and at large energies Eν give a small Pµτ ≈ (40 GeV/Eν )2 . 
+					</div>
+					<div class="uAuthor">
+						Spectra of neutrinos from dark matter annihilations
+					</div>
+										<div class="usage">
+						Napiwotzki et al. 1999) we have validated the results with an independent analysis technique (FITSB2; Napiwotzki et al. 2004) and a different set of model atmospheres (the LTE atmospheres used by Koester et al. 2001). 
+					</div>
+					<div class="uAuthor">
+						New Praesepe white dwarfs and the initial mass-final mass relation
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the mass of air surrounding the Earth"><a href="air.html">air</a>, </div><div class="synGroup" title="a unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade"><a href="standard%20atmosphere.html">standard atmosphere</a>, <a href="atm.html">atm</a>, <a href="standard%20pressure.html">standard pressure</a>, </div><div class="synGroup" title="the weather or climate at some place"><a href="atmospheric%20state.html">atmospheric state</a>, </div><div class="synGroup" title="a particular environment or surrounding influence"><a href="ambiance.html">ambiance</a>, <a href="ambience.html">ambience</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="atmospheric%20condition.html">atmospheric condition</a>, <a href="condition.html">condition</a>, <a href="conditions.html">conditions</a>, <a href="gas.html">gas</a>, <a href="part.html">part</a>, <a href="pressure%20unit.html">pressure unit</a>, <a href="quality.html">quality</a>, <a href="region.html">region</a>, <a href="status.html">status</a>, <a href="weather.html">weather</a>, <a href="weather%20condition.html">weather condition</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="stp.html">stp</a>, <a href="air%20mass.html">air mass</a>, <a href="airspace.html">airspace</a>, <a href="anticyclone.html">anticyclone</a>, <a href="cyclone.html">cyclone</a>, <a href="feel.html">feel</a>, <a href="feeling.html">feeling</a>, <a href="flavor.html">flavor</a>, <a href="flavour.html">flavour</a>, <a href="fog.html">fog</a>, <a href="fogginess.html">fogginess</a>, <a href="genius%20loci.html">genius loci</a>, <a href="gloom.html">gloom</a>, <a href="gloominess.html">gloominess</a>, <a href="glumness.html">glumness</a>, <a href="look.html">look</a>, <a href="miasm.html">miasm</a>, <a href="miasma.html">miasma</a>, <a href="murk.html">murk</a>, <a href="murkiness.html">murkiness</a>, <a href="mystique.html">mystique</a>, <a href="note.html">note</a>, <a href="s.t.p..html">s.t.p.</a>, <a href="sky.html">sky</a>, <a href="smell.html">smell</a>, <a href="spirit.html">spirit</a>, <a href="tone.html">tone</a>, <a href="vibe.html">vibe</a>, <a href="vibration.html">vibration</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="atmospheric.html">atmospheric</a>, <a href="atmospherical.html">atmospherical</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="acetylene.html">acetylene</a>, <a href="acid%20precipitation.html">acid precipitation</a>, <a href="acid%20rain.html">acid rain</a>, <a href="actinism.html">actinism</a>, <a href="aerial.html">aerial</a>, <a href="aerially.html">aerially</a>, <a href="A%C3%ABrography.html">Aërography</a>, <a href="aerolite.html">aerolite</a>, <a href="aerology.html">aerology</a>, <a href="A%C3%ABroscopy.html">Aëroscopy</a>, <a href="aerospace.html">aerospace</a>, <a href="A%C3%ABrosphere.html">Aërosphere</a>, <a href="air.html">air</a>, <a href="air%20hole.html">air hole</a>, <a href="air%20pollution.html">air pollution</a>, <a href="air%20pressure.html">air pressure</a>, <a href="air%20space.html">air space</a>, <a href="airburst.html">airburst</a>, <a href="airless.html">airless</a>, <a href="airspace.html">airspace</a>, <a href="airy.html">airy</a>, <a href="alien.html">alien</a>, <a href="aloft.html">aloft</a>, <a href="Alpenglow.html">Alpenglow</a>, <a href="ambiance.html">ambiance</a>, <a href="ambience.html">ambience</a>, <a href="ambient.html">ambient</a>, <a href="aneroid%20barometer.html">aneroid barometer</a>, <a href="anticyclone.html">anticyclone</a>, <a href="anticyclonic.html">anticyclonic</a>, <a href="Antimephitic.html">Antimephitic</a>, <a href="Antimonsoon.html">Antimonsoon</a>, <a href="antitrades.html">antitrades</a>, <a href="Ar.html">Ar</a>, <a href="argon.html">argon</a>, <a href="Astronomical%20refraction.html">Astronomical refraction</a>, <a href="atmospheric.html">atmospheric</a>, <a href="atmospheric%20condition.html">atmospheric condition</a>, <a href="atmospheric%20electricity.html">atmospheric electricity</a>, <a href="Atmospheric%20engine.html">Atmospheric engine</a>, <a href="Atmospheric%20line.html">Atmospheric line</a>, <a href="atmospheric%20phenomenon.html">atmospheric phenomenon</a>, <a href="atmospheric%20pressure.html">atmospheric pressure</a>, <a href="Atmospheric%20railway.html">Atmospheric railway</a>, <a href="Atmospheric%20refraction.html">Atmospheric refraction</a>, <a href="Atmospheric%20tides.html">Atmospheric tides</a>, <a href="atmospherical.html">atmospherical</a>, <a href="Atmospherically.html">Atmospherically</a>, <a href="Atmospherology.html">Atmospherology</a>, <a href="atomic%20number%2018.html">atomic number 18</a>, <a href="atomic%20number%2054.html">atomic number 54</a>, <a href="atomic%20number%207.html">atomic number 7</a>, <a href="atomic%20number%208.html">atomic number 8</a>, <a href="aura.html">aura</a>, <a href="Aureola.html">Aureola</a>, <a href="aureole.html">aureole</a>, <a href="B.Th.U..html">B.Th.U.</a>, <a href="balloon.html">balloon</a>, <a href="Barbison%20school.html">Barbison school</a>, <a href="Barbizon%20school.html">Barbizon school</a>, <a href="bareness.html">bareness</a>, <a href="baric.html">baric</a>, <a href="barograph.html">barograph</a>, <a href="barometer.html">barometer</a>, <a href="Baroscope.html">Baroscope</a>, <a href="Barothermograph.html">Barothermograph</a>, <a href="biosphere.html">biosphere</a>, <a href="blackdamp.html">blackdamp</a>, <a href="bleakness.html">bleakness</a>, <a href="blue.html">blue</a>, <a href="Bower-Barff%20process.html">Bower-Barff process</a>, <a href="Break-up.html">Break-up</a>, <a href="breakup.html">breakup</a>, <a href="British%20thermal%20unit.html">British thermal unit</a>, <a href="BTU.html">BTU</a>, <a href="buoyancy.html">buoyancy</a>, <a href="caisson%20disease.html">caisson disease</a>, <a href="Calorie.html">Calorie</a>, <a href="calorimeter.html">calorimeter</a>, <a href="carbon.html">carbon</a>, <a href="carbon%20cycle.html">carbon cycle</a>, <a href="carry.html">carry</a>, <a href="censer.html">censer</a>, <a href="Centrosphere.html">Centrosphere</a>, <a href="Chaomancy.html">Chaomancy</a>, <a href="chaos.html">chaos</a>, <a href="Cheese-press.html">Cheese-press</a>, <a href="chill.html">chill</a>, <a href="chokedamp.html">chokedamp</a>, <a href="chromosphere.html">chromosphere</a>, <a href="cirrus.html">cirrus</a>, <a href="climate.html">climate</a>, <a href="clit.html">clit</a>, <a href="cloud.html">cloud</a>, <a href="coke.html">coke</a>, <a href="comity.html">comity</a>, <a href="compressed%20air.html">compressed air</a>, <a href="conditions.html">conditions</a>, <a href="conductivity.html">conductivity</a>, <a href="congenial.html">congenial</a>, <a href="contagion.html">contagion</a>, <a href="convection.html">convection</a>, <a href="corona.html">corona</a>, <a href="corona%20discharge.html">corona discharge</a>, <a href="corposant.html">corposant</a>, <a href="counterglow.html">counterglow</a>, <a href="cozy.html">cozy</a>, <a href="cryophorus.html">cryophorus</a>, <a href="crystal.html">crystal</a>, <a href="cyclonal.html">cyclonal</a>, <a href="cyclone.html">cyclone</a>, <a href="cyclonic.html">cyclonic</a>, <a href="cyclonical.html">cyclonical</a>, <a href="damp.html">damp</a>, <a href="dasymeter.html">dasymeter</a>, <a href="Deliquescence.html">Deliquescence</a>, <a href="deliquescent.html">deliquescent</a>, <a href="Depression%20of%20the%20dewpoint.html">Depression of the dewpoint</a>, <a href="desolation.html">desolation</a>, <a href="determine.html">determine</a>, <a href="dew.html">dew</a>, <a href="Dew-point.html">Dew-point</a>, <a href="Distanceless.html">Distanceless</a>, <a href="draft.html">draft</a>, <a href="dross.html">dross</a>, <a href="dust.html">dust</a>, <a href="ebullition.html">ebullition</a>, <a href="Echo.html">Echo</a>, <a href="Eduction-pipe.html">Eduction-pipe</a>, <a href="effloresce.html">effloresce</a>, <a href="Electric%20aura.html">Electric aura</a>, <a href="electric%20glow.html">electric glow</a>, <a href="emanation.html">emanation</a>, <a href="Epigene.html">Epigene</a>, <a href="equilibrium.html">equilibrium</a>, <a href="estraterrestrial%20body.html">estraterrestrial body</a>, <a href="ether.html">ether</a>, <a href="ethereal.html">ethereal</a>, <a href="exhaust%20pipe.html">exhaust pipe</a>, <a href="extraterrestrial.html">extraterrestrial</a>, <a href="extraterrestrial%20being.html">extraterrestrial being</a>, <a href="extraterrestrial%20object.html">extraterrestrial object</a>, <a href="Fahrenheit.html">Fahrenheit</a>, <a href="faint.html">faint</a>, <a href="Falling%20stone.html">Falling stone</a>, <a href="feel.html">feel</a>, <a href="feeling.html">feeling</a>, <a href="filter.html">filter</a>, <a href="flashing.html">flashing</a>, <a href="flavor.html">flavor</a>, <a href="flavour.html">flavour</a>, <a href="flush.html">flush</a>, <a href="fog.html">fog</a>, <a href="fogginess.html">fogginess</a>, <a href="foggy.html">foggy</a>, <a href="Forcer.html">Forcer</a>, <a href="fresco.html">fresco</a>, <a href="frost.html">frost</a>, <a href="Frost%20smoke.html">Frost smoke</a>, <a href="Frost-smoke.html">Frost-smoke</a>, <a href="frostbite.html">frostbite</a>, <a href="fug.html">fug</a>, <a href="gamma%20ray.html">gamma ray</a>, <a href="genius%20loci.html">genius loci</a>, <a href="geosphere.html">geosphere</a>, <a href="global%20warming.html">global warming</a>, <a href="gloom.html">gloom</a>, <a href="gloominess.html">gloominess</a>, <a href="glumness.html">glumness</a>, <a href="Graphoscope.html">Graphoscope</a>, <a href="grayness.html">grayness</a>, <a href="greenhouse%20effect.html">greenhouse effect</a>, <a href="greenhouse%20warming.html">greenhouse warming</a>, <a href="hail.html">hail</a>, <a href="halo.html">halo</a>, <a href="haze.html">haze</a>, <a href="hazy.html">hazy</a>, <a href="HCFC.html">HCFC</a>, <a href="heatstroke.html">heatstroke</a>, <a href="helium.html">helium</a>, <a href="High%20steam.html">High steam</a>, <a href="high-pressure.html">high-pressure</a>, <a href="High-pressure%20steam.html">High-pressure steam</a>, <a href="Hollywood.html">Hollywood</a>, <a href="homelike.html">homelike</a>, <a href="Hospitalism.html">Hospitalism</a>, <a href="Humect.html">Humect</a>, <a href="humid.html">humid</a>, <a href="humidity.html">humidity</a>, <a href="humidness.html">humidness</a>, <a href="hyaline.html">hyaline</a>, <a href="hydrochlorofluorocarbon.html">hydrochlorofluorocarbon</a>, <a href="hydrology.html">hydrology</a>, <a href="Hydrometeor.html">Hydrometeor</a>, <a href="Hydrometeorology.html">Hydrometeorology</a>, <a href="hydrosphere.html">hydrosphere</a>, <a href="Hygrograph.html">Hygrograph</a>, <a href="Hygrology.html">Hygrology</a>, <a href="hygrometer.html">hygrometer</a>, <a href="Hygrometric.html">Hygrometric</a>, <a href="Hygrometry.html">Hygrometry</a>, <a href="hygroscope.html">hygroscope</a>, <a href="hygroscopic.html">hygroscopic</a>, <a href="hyperbaric%20chamber.html">hyperbaric chamber</a>, <a href="Hyperborean.html">Hyperborean</a>, <a href="ice.html">ice</a>, <a href="icebreaker.html">icebreaker</a>, <a href="incandescent%20lamp.html">incandescent lamp</a>, <a href="Incandescent%20light.html">Incandescent light</a>, <a href="Incandescent%20light%20bulb.html">Incandescent light bulb</a>, <a href="incubator.html">incubator</a>, <a href="Indian%20summer.html">Indian summer</a>, <a href="Indicator%20card.html">Indicator card</a>, <a href="industrial%20air%20pollution.html">industrial air pollution</a>, <a href="informal.html">informal</a>, <a href="inhaler.html">inhaler</a>, <a href="International.html">International</a>, <a href="interplanetary.html">interplanetary</a>, <a href="intimate.html">intimate</a>, <a href="inversion.html">inversion</a>, <a href="ionosphere.html">ionosphere</a>, <a href="Irrespirable.html">Irrespirable</a>, <a href="Isobaric.html">Isobaric</a>, <a href="John%20Tyndall.html">John Tyndall</a>, <a href="kilocalorie.html">kilocalorie</a>, <a href="kilogram%20calorie.html">kilogram calorie</a>, <a href="Koniscope.html">Koniscope</a>, <a href="krypton.html">krypton</a>, <a href="large%20calorie.html">large calorie</a>, <a href="lenticel.html">lenticel</a>, <a href="levitate.html">levitate</a>, <a href="levitation.html">levitation</a>, <a href="lick.html">lick</a>, <a href="lift.html">lift</a>, <a href="lightning.html">lightning</a>, <a href="lime.html">lime</a>, <a href="lithophyte.html">lithophyte</a>, <a href="lithophytic%20plant.html">lithophytic plant</a>, <a href="lithosphere.html">lithosphere</a>, <a href="look.html">look</a>, <a href="Looming.html">Looming</a>, <a href="Low-pressure%20steam.html">Low-pressure steam</a>, <a href="M.html">M</a>, <a href="malaria.html">malaria</a>, <a href="Malarious.html">Malarious</a>, <a href="mass.html">mass</a>, <a href="medium.html">medium</a>, <a href="meteor.html">meteor</a>, <a href="meteor%20shower.html">meteor shower</a>, <a href="meteor%20stream.html">meteor stream</a>, <a href="Meteoric%20stones.html">Meteoric stones</a>, <a href="meteorite.html">meteorite</a>, <a href="meteoroid.html">meteoroid</a>, <a href="meteorologic.html">meteorologic</a>, <a href="meteorological.html">meteorological</a>, <a href="meteorologist.html">meteorologist</a>, <a href="meteorology.html">meteorology</a>, <a href="miasm.html">miasm</a>, <a href="miasma.html">miasma</a>, <a href="Microbarograph.html">Microbarograph</a>, <a href="micrometeor.html">micrometeor</a>, <a href="micrometeorite.html">micrometeorite</a>, <a href="micrometeoroid.html">micrometeoroid</a>, <a href="Microzyme.html">Microzyme</a>, <a href="millimeter%20of%20mercury.html">millimeter of mercury</a>, <a href="mist.html">mist</a>, <a href="misty.html">misty</a>, <a href="mm%20Hg.html">mm Hg</a>, <a href="moist.html">moist</a>, <a href="moon.html">moon</a>, <a href="mother.html">mother</a>, <a href="mould.html">mould</a>, <a href="mummy.html">mummy</a>, <a href="murk.html">murk</a>, <a href="murkiness.html">murkiness</a>, <a href="N.html">N</a>, <a href="nakedness.html">nakedness</a>, <a href="Natural%20draught.html">Natural draught</a>, <a href="neon.html">neon</a>, <a href="Nephelosphere.html">Nephelosphere</a>, <a href="nitrogen.html">nitrogen</a>, <a href="Noncondensing.html">Noncondensing</a>, <a href="nose%20cone.html">nose cone</a>, <a href="nosocomial.html">nosocomial</a>, <a href="nuclear%20winter.html">nuclear winter</a>, <a href="nutritionist%27s%20calorie.html">nutritionist's calorie</a>, <a href="O.html">O</a>, <a href="ocellus.html">ocellus</a>, <a href="ogive.html">ogive</a>, <a href="olfaction.html">olfaction</a>, <a href="outer%20space.html">outer space</a>, <a href="oxygen.html">oxygen</a>, <a href="ozone.html">ozone</a>, <a href="Ozonometer.html">Ozonometer</a>, <a href="Ozonometry.html">Ozonometry</a>, <a href="P.html">P</a>, <a href="paleoclimatology.html">paleoclimatology</a>, <a href="Panspermatism.html">Panspermatism</a>, <a href="Paragr%C3%AAle.html">Paragrêle</a>, <a href="Paramo.html">Paramo</a>, <a href="Paranthelion.html">Paranthelion</a>, <a href="parhelic%20circle.html">parhelic circle</a>, <a href="parhelic%20ring.html">parhelic ring</a>, <a href="Pasteurism.html">Pasteurism</a>, <a href="photosphere.html">photosphere</a>, <a href="physiography.html">physiography</a>, <a href="plenum.html">plenum</a>, <a href="precipitation.html">precipitation</a>, <a href="pressure.html">pressure</a>, <a href="protoplasm.html">protoplasm</a>, <a href="psychrometer.html">psychrometer</a>, <a href="Psychrometry.html">Psychrometry</a>, <a href="Pythogenic.html">Pythogenic</a>, <a href="Radioconductor.html">Radioconductor</a>, <a href="rain.html">rain</a>, <a href="Rain%20band.html">Rain band</a>, <a href="Rainband.html">Rainband</a>, <a href="rainfall.html">rainfall</a>, <a href="rare.html">rare</a>, <a href="refraction.html">refraction</a>, <a href="region.html">region</a>, <a href="reproduce.html">reproduce</a>, <a href="rocket.html">rocket</a>, <a href="rot.html">rot</a>, <a href="safety%20valve.html">safety valve</a>, <a href="Saint%20Elmo%27s%20fire.html">Saint Elmo's fire</a>, <a href="Saint%20Elmo%27s%20light.html">Saint Elmo's light</a>, <a href="Saint%20Ulmo%27s%20fire.html">Saint Ulmo's fire</a>, <a href="Saint%20Ulmo%27s%20light.html">Saint Ulmo's light</a>, <a href="Saturn.html">Saturn</a>, <a href="scintillation.html">scintillation</a>, <a href="shooting%20star.html">shooting star</a>, <a href="show.html">show</a>, <a href="shrink.html">shrink</a>, <a href="siphon.html">siphon</a>, <a href="Siphon%20barometer.html">Siphon barometer</a>, <a href="sky.html">sky</a>, <a href="skylight.html">skylight</a>, <a href="smell.html">smell</a>, <a href="smokehouse.html">smokehouse</a>, <a href="smoky.html">smoky</a>, <a href="Smothery.html">Smothery</a>, <a href="Snifting%20valve.html">Snifting valve</a>, <a href="snow.html">snow</a>, <a href="solar%20constant.html">solar constant</a>, <a href="solar%20halo.html">solar halo</a>, <a href="Sond.html">Sond</a>, <a href="Sonde.html">Sonde</a>, <a href="sounding%20rocket.html">sounding rocket</a>, <a href="space.html">space</a>, <a href="space%20probe.html">space probe</a>, <a href="space%20shuttle.html">space shuttle</a>, <a href="space%20travel.html">space travel</a>, <a href="spacefaring.html">spacefaring</a>, <a href="spaceflight.html">spaceflight</a>, <a href="spectrum.html">spectrum</a>, <a href="spirit.html">spirit</a>, <a href="spray.html">spray</a>, <a href="St.%20Elmo%27s%20fire.html">St. Elmo's fire</a>, <a href="steam.html">steam</a>, <a href="stifling.html">stifling</a>, <a href="still.html">still</a>, <a href="Stive.html">Stive</a>, <a href="storm.html">storm</a>, <a href="sultry.html">sultry</a>, <a href="Sun.html">Sun</a>, <a href="Sunglow.html">Sunglow</a>, <a href="Sympiesometer.html">Sympiesometer</a>, <a href="terminal%20velocity.html">terminal velocity</a>, <a href="Thermobarometer.html">Thermobarometer</a>, <a href="thermometer.html">thermometer</a>, <a href="thermometry.html">thermometry</a>, <a href="thick.html">thick</a>, <a href="thunder.html">thunder</a>, <a href="thunderstorm.html">thunderstorm</a>, <a href="tin.html">tin</a>, <a href="titan.html">titan</a>, <a href="tone.html">tone</a>, <a href="tornado.html">tornado</a>, <a href="torr.html">torr</a>, <a href="Torricellian.html">Torricellian</a>, <a href="Torricellian%20vacuum.html">Torricellian vacuum</a>, <a href="tranquil.html">tranquil</a>, <a href="Transmissive.html">Transmissive</a>, <a href="treat.html">treat</a>, <a href="turbulence.html">turbulence</a>, <a href="twilight.html">twilight</a>, <a href="Tyndall.html">Tyndall</a>, <a href="Ultragaseous.html">Ultragaseous</a>, <a href="undercurrent.html">undercurrent</a>, <a href="Undersky.html">Undersky</a>, <a href="unit.html">unit</a>, <a href="Upas.html">Upas</a>, <a href="Upper%20world.html">Upper world</a>, <a href="vacuum.html">vacuum</a>, <a href="Vacuum%20brake.html">Vacuum brake</a>, <a href="Vacuum%20valve.html">Vacuum valve</a>, <a href="valve.html">valve</a>, <a href="vapor.html">vapor</a>, <a href="vapour.html">vapour</a>, <a href="Venus.html">Venus</a>, <a href="volatile.html">volatile</a>, <a href="volatility.html">volatility</a>, <a href="water.html">water</a>, <a href="water%20vapor.html">water vapor</a>, <a href="water%20vapour.html">water vapour</a>, <a href="weather.html">weather</a>, <a href="weather%20condition.html">weather condition</a>, <a href="weatherglass.html">weatherglass</a>, <a href="weep.html">weep</a>, <a href="wetness.html">wetness</a>, <a href="whirlwind.html">whirlwind</a>, <a href="Whither.html">Whither</a>, <a href="wind.html">wind</a>, <a href="windage.html">windage</a>, <a href="Xe.html">Xe</a>, <a href="xenon.html">xenon</a>, <a href="yeast.html">yeast</a>, <a href="zero.html">zero</a>, <a href="Zinc%20amyle.html">Zinc amyle</a>, <a href="Zinc%20ethyl.html">Zinc ethyl</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qtmosphere, wtmosphere, stmosphere, ztmosphere, armosphere, afmosphere, agmosphere, aymosphere, atnosphere, atjosphere, atkosphere, atmisphere, atmksphere, atmlsphere, atmpsphere, atmoaphere, atmowphere, atmodphere, atmoxphere, atmozphere, atmoaphere, atmosohere, atmoslhere, atmospgere, atmospyere, atmospjere, atmospnere, atmospbere, atmosphwre, atmosphsre, atmosphdre, atmosphrre, atmospheee, atmosphede, atmosphefe, atmosphete, atmospherw, atmosphers, atmospherd, atmospherr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

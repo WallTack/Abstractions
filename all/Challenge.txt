@@ -1,0 +1,568 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>challenge</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">challenge</span> <span class="exp">raise a formal objection in a court of law</span> </li><li><span class="tSpeech">v</span> <span class="term">challenge</span> <span class="exp">ask for identification</span> <span class="quot">"The illegal immigrant was challenged by the border guard"</span></li><li><span class="tSpeech">v</span> <span class="term">challenge</span> <span class="exp">issue a challenge to</span> <span class="quot">"Fischer challenged Spassky to a match"</span></li><li><span class="tSpeech">v</span> <span class="term">challenge</span> <span class="exp">take exception to</span> <span class="quot">"She challenged his claims"</span></li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">a demand by a sentry for a password or identification</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">questioning a statement and demanding an explanation</span> <span class="quot">"his challenge of the assumption that Japan is still our enemy"</span></li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">a formal objection to the selection of a particular person as a juror</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">a call to engage in a contest or fight</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">a demanding or stimulating situation</span> <span class="quot">"they reacted irrationally to the challenge of Russian power"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Seven asteroids were especially named for the Challenger astronauts who were killed in the 1986 failed launch of the space shuttle									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Challenge</span> <span class="exp">A claim or demand.</span> <span class="wuQuot">"There must be no challenge of superiority."</span></li><li><span class="term">Challenge</span> <span class="exp"><span class="wuFld">(Law)</span> An exception to a juror or to a member of a court martial, coupled with a demand that he should be held incompetent to act; the claim of a party that a certain person or persons shall not sit in trial upon him or his cause.</span> </li><li><span class="term">Challenge</span> <span class="exp">An exception to a person as not legally qualified to vote. The challenge must be made when the ballot is offered.</span> </li><li><span class="term">Challenge</span> <span class="exp">An invitation to engage in a contest or controversy of any kind; a defiance; specifically, a summons to fight a duel; also, the letter or message conveying the summons.</span> <span class="wuQuot">"A challenge to controversy."</span></li><li><span class="term">Challenge</span> <span class="exp">The act of a sentry in halting any one who appears at his post, and demanding the countersign.</span> </li><li><span class="term">Challenge</span> <span class="exp"><span class="wuFld">(Hunting)</span> The opening and crying of hounds at first finding the scent of their game.</span> </li><li><span class="tSpeech">v. i</span> <span class="term">Challenge</span> <span class="exp">To assert a right; to claim a place.</span> <span class="wuQuot">"Where nature doth with merit challenge ."</span></li><li><span class="term">Challenge</span> <span class="exp">To call to a contest of any kind; to call to answer; to defy.</span> <span class="wuQuot">"I challenge any man to make any pretense to power by right of fatherhood."</span></li><li><span class="term">Challenge</span> <span class="exp">To call, invite, or summon to answer for an offense by personal combat.</span> <span class="wuQuot">"By this I challenge him to single fight."</span></li><li><span class="term">Challenge</span> <span class="exp">To censure; to blame.</span> <span class="wuQuot">"He complained of the emperors . . . and challenged them for that he had no greater revenues . . . from them."</span></li><li><span class="term">Challenge</span> <span class="exp">To claim as due; to demand as a right.</span> <span class="wuQuot">"Challenge better terms."</span></li><li><span class="term">Challenge</span> <span class="exp"><span class="wuFld">(Law)</span> To object to or take exception to, as to a juror, or member of a court.</span> </li><li><span class="term">Challenge</span> <span class="exp">To object to the reception of the vote of, as on the ground that the person in not qualified as a voter.</span> </li><li><span class="term">Challenge</span> <span class="exp"><span class="wuFld">(Mil)</span> To question or demand the countersign from (one who attempts to pass the lines); as, the sentinel <span class="wUex">challenged</span> us, with  “Who comes there?”
+         </span> </li><li><span class="term">Challenge</span> <span class="exp">To take exception to; question; as, to <span class="wUex">challenge</span> the accuracy of a statement or of a quotation.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In Washington D.C. it is illegal to post a notice in public which calls another person a 'coward' for refusing to accept a challenge to duel.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">Accusation; charge.</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">A claim or demand; pretension.</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">A summons or invitation to a duel; a calling upon one to engage in single combat, as for the vindication of the challenger's honor; a defiance.</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">Hence An invitation to a contest or trial of any kind: as, a challenge to a rubber at whist; a challenge to a public debate; “a challenge to controversy,”</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">The letter or message containing the summons to a combat or contest.</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">Milit., the act of a sentry in demanding the countersign from any one who approaches his post.</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">In hunting, the opening cry of hounds on first finding the scent of their game.</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">A calling in question; an exception taken, as to the tenability of a proposition, or a person's right to do something or to hold something.</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">In law, an objection to a juror; the claim of a party that a certain juror shall not sit in the cause. The right of challenge is given in both civil and criminal trials, for certain reasons which are supposed to disqualify a juror to be an impartial judge. The challenge may extend either to the whole panel or body of jurors, called a challenge to the array, or only to particular jurors, called a challenge to the polls. Both of these challenges are subdivided into principal challenges (or challenges for principal cause) and challenges to the favor. A principal challenge is a challenge which alleges a fact of such a nature that, if proved, the juror is disqualified as a matter of law, without inquiring whether he is actually impartial: as, that one or more of the jury are returned at the nomination of the other party, or are nearly related to the other party. A challenge to the favor consists in the allegation by the party of a cause that might probably bias, and the raising of the question whether the juror is in fact impartial: as, a statement that a juror has already formed an opinion, or is prejudiced against the party. A peremptory challenge, allowed by statute in many jurisdictions, is a challenge of jurors, to a limited number, to be taken without showing any cause at all.</span> </li><li><span class="term">challenge</span> <span class="exp">To accuse; call to answer; censure.</span> </li><li><span class="term">challenge</span> <span class="exp">To lay claim to; demand as due or as a right: as, the Supreme Being challenges our reverence and homage.</span> </li><li><span class="term">challenge</span> <span class="exp">To call, invite, or summon to single combat or duel.</span> </li><li><span class="term">challenge</span> <span class="exp">To call to a contest; call into opposing activity; invite to a trial; defy: as, to challenge a man to prove what he asserts (implying defiance).</span> </li><li><span class="term">challenge</span> <span class="exp">To take exception to; object to (a person or thing); call in question: as, to challenge the accuracy of a statement. Specifically</span> </li><li><span class="term">challenge</span> <span class="exp">In law, to object or take exception to, as a juror or jury panel. See challenge, n., 9—7. Milit., to demand the countersign from: as, a sentry is bound to challenge every person appearing near his post. See challenge, n., 6.</span> </li><li><span class="term">challenge</span> <span class="exp">In hunting, to whimper or cry when the scent of game is first discovered: said of a hound.</span> </li><li><span class="tSpeech">n</span> <span class="term">challenge</span> <span class="exp">In the East Indies, an exception taken by a ryot to the assessment of a neighbor's holding when it is less than that of his own poorer holding, accompanied by an offer to take over the neighbor's holding at a higher assessment, and a claim for the assessment on his own to be correspondingly reduced.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The term "throw one's hat in the ring" comes from boxing, where throwing a hat into the ring once signified a challenge. Today it nearly always signifies political candidacy.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">v.t</span> <span class="term">Challenge</span> <span class="exp"><span class="itl">chal′enj</span> to call on one to settle a matter by fighting or by any kind of contest: to claim as one's own: to accuse; to object to</span> </li><li><span class="tSpeech">n</span> <span class="term">Challenge</span> <span class="exp">a summons to a contest of any kind, but esp. a duel: a calling of any one or anything in question: exception to a juror: the demand of a sentry</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Terry Bradshaw</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Terry Bradshaw">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When you've got something to prove, there's nothing greater than a challenge.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Nancy Lopez</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Nancy Lopez">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I love the challenge.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bernice Johnson Reagon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bernice Johnson Reagon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Michael Sky</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Michael Sky">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The real challenge (in life) is to choose, hold, and operate through intelligent, uplifting, and fully empowering beliefs.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Yoshihisa Tabuchi</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Yoshihisa Tabuchi">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It's always the challenge of the future, this feeling of excitement, that drives me.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Les Brown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Les%20Brown.jpg" alt="Les%20Brown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Be determined to handle any challenge in a way that will make you grow.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">chalengen</span>, to accuse, claim, OF. <span class="wUets">chalengier</span>, <span class="wUets">chalongier</span>, to claim, accuse, dispute, fr. L. <span class="wUets">calumniar</span>, to attack with false accusations. See <span class="wUer">Challenge</span> (n.), and cf. <span class="wUer">Calumniate</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Now let those pesty scientists challenge him with the question of whether any E's would be listening to their review.
+					</div>
+					<div class="uAuthor">
+						"Eight Keys to Eden" by <span>Mark Irvin Clifton</span>					</div>
+										<div class="usage">
+						They passed on, getting well round to the farther side of the kopje before they were challenged again.
+					</div>
+					<div class="uAuthor">
+						"The Kopje Garrison" by <span>George Manville Fenn</span>					</div>
+										<div class="usage">
+						By their attitude, and in their looks, both the challenged and challenger showed a full, firm determination to fight.
+					</div>
+					<div class="uAuthor">
+						"The Free Lances" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						The eyes of the girl whose glove he had trodden upon still challenged him from the starlit darkness, eyes made of starlit darkness themselves.
+					</div>
+					<div class="uAuthor">
+						"A Modern Mercenary" by <span>Kate Prichard and Hesketh Vernon Hesketh-Prichard</span>					</div>
+										<div class="usage">
+						He cried out roughly a challenge to the elements.
+					</div>
+					<div class="uAuthor">
+						"Heart of the Blue Ridge" by <span>Waldron Baily</span>					</div>
+										<div class="usage">
+						But he stepped forward, with a grim sort of deliberation, with his challenging gaze locked on mine.
+					</div>
+					<div class="uAuthor">
+						"The Prairie Child" by <span>Arthur Stringer</span>					</div>
+										<div class="usage">
+						That a man could appear at once so composed and so challenging was unique.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: Land of the Infidel" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						Challenge anyone in Nottingham; I dare swear some lad will be found who shall show you how to grip and throw.
+					</div>
+					<div class="uAuthor">
+						"Robin Hood" by <span>Paul Creswick</span>					</div>
+										<div class="usage">
+						The antagonist who had come in answer to the giant's challenge was less extravagant in appearance and more compact in form.
+					</div>
+					<div class="uAuthor">
+						"In the Morning of Time" by <span>Charles G. D. Roberts</span>					</div>
+										<div class="usage">
+						To his latent, cruel smile she replied with brilliant challenge.
+					</div>
+					<div class="uAuthor">
+						"The Rainbow" by <span>D. H. (David Herbert) Lawrence</span>					</div>
+										<div class="usage">
+						Eli's fine shot had not only awed him; he felt it, uneasily, as a challenge.
+					</div>
+					<div class="uAuthor">
+						"Shaman" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						She commanded and the image challenged.
+					</div>
+					<div class="uAuthor">
+						"The Web of the Golden Spider" by <span>Frederick Orin Bartlett</span>					</div>
+										<div class="usage">
+						A challenge was a challenge.
+					</div>
+					<div class="uAuthor">
+						"The Prisoner" by <span>Alice Brown</span>					</div>
+										<div class="usage">
+						It's a challenge which ain't fer the present zacly.
+					</div>
+					<div class="uAuthor">
+						"The Night Riders" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						The best and simplest way of doing this is by means of bold challenge.
+					</div>
+					<div class="uAuthor">
+						"The Red Hand of Ulster" by <span>George A. Birmingham</span>					</div>
+										<div class="usage">
+						His eyes met Nan's, and each felt the moment was a sort of challenge.
+					</div>
+					<div class="uAuthor">
+						"Nan of Music Mountain" by <span>Frank H. Spearman</span>					</div>
+										<div class="usage">
+						Why does this experienced guard so far forget the customary forms as to challenge the guard on duty?
+					</div>
+					<div class="uAuthor">
+						"College Teaching" by <span>Paul Klapper</span>					</div>
+										<div class="usage">
+						In her eyes was a challenge which defied all protest.
+					</div>
+					<div class="uAuthor">
+						"The Golden Woman" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						The directness of his challenge was startling, and roused in her a belated defensiveness.
+					</div>
+					<div class="uAuthor">
+						"The Twins of Suffering Creek" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						One man took a stride forward and pointed the stick at her in a way which seemed like a challenge.
+					</div>
+					<div class="uAuthor">
+						"The Haunters of the Silences" by <span>Charles G. D. Roberts</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Don Diego de Ordonez<br>
+Sallied forth in front of all,<br>
+And shouted loud his challenge<br>
+To the warders on the wall. 
+							<div class="poet">"The Challenge. (Birds Of Passage. Flight The Third)" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+											<div class="poemQuote">
+							Wildered sorely, wildered sorely,<br>
+In oblivion mouldering,<br>
+To be challenged now for music<br>
+That the dead were wont to sing!
+							<div class="poet">"The Old Piano" by <span>Roden Berkeley Wriothesley Noel</span></div>
+						</div>
+											<div class="poemQuote">
+							Whoever says that there are others<br>
+who can be compared to you,<br>
+whoever burns for your love,<br>
+I challenge them all to a duel!
+							<div class="poet">"Don Juan's Serenade" by <span>Aleksey Konstantinovich Tolstoy</span></div>
+						</div>
+											<div class="poemQuote">
+							The poverty-stricken millions<br>
+Who challenge our wine and bread,<br>
+And impeach us all as traitors,<br>
+Both the living and the dead. 
+							<div class="poet">"The Challenge. (Birds Of Passage. Flight The Third)" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+											<div class="poemQuote">
+							No other voice nor sound is there,<br>
+In the army of the grave;<br>
+No other challenge breaks the air,<br>
+But the rushing of Life's wave.
+							<div class="poet">"Voices Of The Night : The Beleaguered City" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+											<div class="poemQuote">
+							When Mussolini challenged us,<br>
+He knew the weakness of the men;<br>
+To feed and pat them on the back<br>
+Was all, to get them in the pen.
+							<div class="poet">"The Brutal Crime" by <span>Marcus Mosiah Garvey</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						How will our still divided government deal with our mounting threats and challenges.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/11/07/opinion/after-the-election-fear-is-our-only-chance-at-unity.html?n=Top%2FNews%2FScience%2FTopics%2FGlobal%20Warming" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						We're a nonprofit that provides an array of employment and training, behavioral-health and residential community-support services for people experiencing mental, physical, developmental and emotional challenges.
+					</div>
+					<div class="uAuthor">
+						<a href="http://readingeagle.com/article.aspx?id=420422" target="_blank" rel="external nofollow">readingeagle.com</a>
+					</div>
+										<div class="usage">
+						At the heart of the ATA 's challenge to the new rules — scheduled to take effect in July 2013 — are changes to the 34-hour weekly restart provision.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.joc.com/regulation/ata-takes-anti-fatigue-driver-work-rule-court" target="_blank" rel="external nofollow">joc.com</a>
+					</div>
+										<div class="usage">
+						 ATA president and CEO Nicholas Calio continues to challenge Europe's ETS.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ainonline.com/aviation-news/ain-air-transport-perspective/2011-10-20/ata-chief-vows-continued-fight-against-ets" target="_blank" rel="external nofollow">ainonline.com</a>
+					</div>
+										<div class="usage">
+						SANTIAGO, Chile (AP) — The second annual Solar Challenge has begun in Chile's Atacama desert , where 15 solar-powered cars rolled out of an old salt mine Thursday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wdbj7.com/news/sns-bc-lt--chile-solar-race-20121115,0,2691498.story" target="_blank" rel="external nofollow">wdbj7.com</a>
+					</div>
+										<div class="usage">
+						EDITOR'S NOTE: This opinion piece by Sun columnist Jim Porter originally ran in the Sept 28, 2012, edition of the Sierra Sun, but due to technological challenges, it was never was published online until now.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sierrasun.com/article/20121105/NEWS/121109960/1022&amp;parentprofile=1" target="_blank" rel="external nofollow">sierrasun.com</a>
+					</div>
+										<div class="usage">
+						We're watching the meltdown of another story that was too good to be true, too vivid and contemporary to challenge: the runaway California Prius.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.citybeat.com/cincinnati/article-20267-frenzied_coverage_of_toyota_problems_short_on_skepticism_and_attribution.html" target="_blank" rel="external nofollow">citybeat.com</a>
+					</div>
+										<div class="usage">
+						Joshua Wade, 17, of Colebrook, is both the 2011 Vex Robotics World Champion in the Programming Skills Challenge and The Robotics Skills Challenge.
+					</div>
+					<div class="uAuthor">
+						<a href="http://starbeacon.com/communityphotos/x338299897/The-Bird-Feeder-Video" target="_blank" rel="external nofollow">starbeacon.com</a>
+					</div>
+										<div class="usage">
+						Democratic US Sen Tom Carper of Delaware has easily won re-election to a third term, beating back challenges from Republican and Independent challengers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/wpvi/story?section=news/politics&amp;id=8876116&amp;rss=rss-wpvi-article-8876116" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						Through the Challenge Home program and its original Builders Challenge specifications, DOE said it has certified more than 13,500 homes that are saving consumers more than $10 million each year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.achrnews.com/articles/120955-sept--18--2012--doe-announces-new-partnership-to-certify-net-zero-energy-ready-homes?WT.rss_f=Breaking+News&amp;WT.rss_a=Sept.+18%2C+2012%3A+DOE+Announces+New+Partnership+to+Certify+Net+Zero-Energy+Ready+Homes&amp;WT.rss_ev" target="_blank" rel="external nofollow">achrnews.com</a>
+					</div>
+										<div class="usage">
+						The author explains the current status of India, the challenges, and recommendations that may alleviate these challenges.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.biopharminternational.com/biopharm/Outsourcing/Development-and-Commercialization-of-Biosimilars-i/ArticleStandard/Article/detail/746277?contextCategoryId=43001&amp;ref=25" target="_blank" rel="external nofollow">biopharminternational.com</a>
+					</div>
+										<div class="usage">
+						Rachel's Challenge: Corydon Central High School steps to the challenge.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.whas11.com/community/rachels-challenge/Rachels-Challange--140948533.html" target="_blank" rel="external nofollow">whas11.com</a>
+					</div>
+										<div class="usage">
+						Rachel's Challenge: Corydon Central accepts the challenge.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.whas11.com/community/rachels-challenge/Rachels-Challenge-Corydon-Central-accepts-the-challenge-134464658.html" target="_blank" rel="external nofollow">whas11.com</a>
+					</div>
+										<div class="usage">
+						The US Department of Energy ( DOE ) has decided to change the Builders Challenge program's name to the DOE Challenge Home.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.greenbuildermag.com/News/Headlines/U-S--Department-of-Energy-to-Use-RESNET-HERS-Index" target="_blank" rel="external nofollow">greenbuildermag.com</a>
+					</div>
+										<div class="usage">
+						After mounting a tough challenge against San Bernardino County Supervisor Neil Derry , challenger James Ramos notched a victory in the 3rd District supervisorial race in the Tuesday, Nov 6 election.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pe.com/local-news/politics/imran-ghori-headlines/20121106-s.b.-county-supervisors-ramos-ousts-incumbent-derry.ece" target="_blank" rel="external nofollow">pe.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						It can be seen that the rate is at the range of O(1) events per kg of CsI(Tl) per day [≡ “pkd”]3 at about 100 keV threshold at a reactor neutrino ﬂux of 1013 cm−2 s−1 , which poses formidable experimental challenge in terms of background control. 
+					</div>
+					<div class="uAuthor">
+						A CsI(Tl) Scintillating Crystal Detector for the Studies of Low Energy Neutrino Interactions
+					</div>
+										<div class="usage">
+						As a result, the experimental challenge becomes much more focussed - the control and understanding of the internal radio-purity and long-lived cosmic-induced background of the CsI(Tl) crystal itself. 
+					</div>
+					<div class="uAuthor">
+						A CsI(Tl) Scintillating Crystal Detector for the Studies of Low Energy Neutrino Interactions
+					</div>
+										<div class="usage">
+						The experimental challenge is focussed and therefore more elaborate procedures can be deployed to study and enhance the radio-purity of this one material as the experiment evolves. 
+					</div>
+					<div class="uAuthor">
+						A CsI(Tl) Scintillating Crystal Detector for the Studies of Low Energy Neutrino Interactions
+					</div>
+										<div class="usage">
+						The extraction of the full scattering amplitude (moduli and phases of A(k , θ) and B (k , θ)) from measurements is a very challenging question in quantum mechanics and intimately related to the longstanding phase problem in structure physics. 
+					</div>
+					<div class="uAuthor">
+						Violation of pseudospin symmetry in nucleon-nucleus scattering: exact relations
+					</div>
+										<div class="usage">
+						Here we challenge this conventional point of view based on a mathematical proof. 
+					</div>
+					<div class="uAuthor">
+						Critical behavior of n-vector model with quenched randomness
+					</div>
+										<div class="usage">
+						In general it is a challenging task, given a ﬂat metric, to ﬁnd it s ﬂat coordinates. 
+					</div>
+					<div class="uAuthor">
+						Solutions to WDVV from generalized Drinfeld-Sokolov hierarchies
+					</div>
+										<div class="usage">
+						The next challenge is to bound the convergence rate of cM (n, q) to c∞ (n, q). 
+					</div>
+					<div class="uAuthor">
+						Random matrix theory over finite fields: a survey
+					</div>
+										<div class="usage">
+						One ongoing challenge in the sub ject (posed by Hardy) has been to ﬁnd a proof of the Rogers-Ramanujan identities which is both motivated and simple. 
+					</div>
+					<div class="uAuthor">
+						Random matrix theory over finite fields: a survey
+					</div>
+										<div class="usage">
+						The most challenging problem right now is to understand the radiative torque mechanism. 
+					</div>
+					<div class="uAuthor">
+						Physics of Grain Alignment
+					</div>
+										<div class="usage">
+						Like many statistical physics problems, exact solutions for the distribution of masses of such ramiﬁed or stringy ob jects and their geometry vis-a-vis measuring their fractal dimension by complete analytical means, are still a challenge even in one dimension. 
+					</div>
+					<div class="uAuthor">
+						Formation of a New Class of Random Fractals in Fragmentation with Mass Loss
+					</div>
+										<div class="usage">
+						From a planning and control viewpoint, metamorphic robots pose several interesting research challenges. 
+					</div>
+					<div class="uAuthor">
+						Multiagent Control of Self-reconfigurable Robots
+					</div>
+										<div class="usage">
+						Distributed MEMS: New challenges for computation. 
+					</div>
+					<div class="uAuthor">
+						Multiagent Control of Self-reconfigurable Robots
+					</div>
+										<div class="usage">
+						It is from that initial challenge that this paper has evolved. 
+					</div>
+					<div class="uAuthor">
+						Random walks on wreath products of groups
+					</div>
+										<div class="usage">
+						It will be a real challenge to model early dust and to do so, we will need the rest infrared emission in great detail because it is the only property we can observe—no extinction curve, no chemistry, etc. 
+					</div>
+					<div class="uAuthor">
+						Cosmic Dust in the 21st Century
+					</div>
+										<div class="usage">
+						These results challenge those obtained from optical-UV observations, by revealing luminous to very luminous phases in galaxy evolution at substantial redshifts, likely corresponding to violent events of star-formation in massive systems. 
+					</div>
+					<div class="uAuthor">
+						High-Redshift Galaxies: The Far-Infrared and Sub-Millimeter View
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="raise a formal objection in a court of law"><a href="take%20exception.html">take exception</a>, </div><div class="synGroup" title="take exception to"><a href="dispute.html">dispute</a>, <a href="gainsay.html">gainsay</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bespeak.html">bespeak</a>, <a href="bid.html">bid</a>, <a href="call%20for.html">call for</a>, <a href="contend.html">contend</a>, <a href="contest.html">contest</a>, <a href="demand.html">demand</a>, <a href="inquiring.html">inquiring</a>, <a href="invite.html">invite</a>, <a href="object.html">object</a>, <a href="objection.html">objection</a>, <a href="quest.html">quest</a>, <a href="questioning.html">questioning</a>, <a href="repugn.html">repugn</a>, <a href="request.html">request</a>, <a href="situation.html">situation</a>, <a href="speech%20act.html">speech act</a>, <a href="state%20of%20affairs.html">state of affairs</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="action.html">action</a>, <a href="appeal.html">appeal</a>, <a href="call.html">call</a>, <a href="call%20into%20question.html">call into question</a>, <a href="call%20one%27s%20bluff.html">call one's bluff</a>, <a href="call%20out.html">call out</a>, <a href="call-out.html">call-out</a>, <a href="calling%20into%20question.html">calling into question</a>, <a href="confrontation.html">confrontation</a>, <a href="counterchallenge.html">counterchallenge</a>, <a href="dare.html">dare</a>, <a href="daring.html">daring</a>, <a href="defiance.html">defiance</a>, <a href="defy.html">defy</a>, <a href="demand%20for%20explanation.html">demand for explanation</a>, <a href="demand%20for%20identification.html">demand for identification</a>, <a href="gantlet.html">gantlet</a>, <a href="gauntlet.html">gauntlet</a>, <a href="impeach.html">impeach</a>, <a href="impugn.html">impugn</a>, <a href="litigate.html">litigate</a>, <a href="oppugn.html">oppugn</a>, <a href="process.html">process</a>, <a href="provoke.html">provoke</a>, <a href="question.html">question</a>, <a href="remand.html">remand</a>, <a href="remit.html">remit</a>, <a href="send%20back.html">send back</a>, <a href="stimulate.html">stimulate</a>, <a href="sue.html">sue</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="challengeable.html">challengeable</a>, <a href="challenger.html">challenger</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="alarm.html">alarm</a>, <a href="answer.html">answer</a>, <a href="appeal.html">appeal</a>, <a href="array%2C%20favor%2C%20polls.html">array, favor, polls</a>, <a href="Aryan.html">Aryan</a>, <a href="attack.html">attack</a>, <a href="banter.html">banter</a>, <a href="Becall.html">Becall</a>, <a href="bowl.html">bowl</a>, <a href="brave.html">brave</a>, <a href="butt.html">butt</a>, <a href="call.html">call</a>, <a href="Call%20in%20question.html">Call in question</a>, <a href="call%20into%20question.html">call into question</a>, <a href="call%20out.html">call out</a>, <a href="call-out.html">call-out</a>, <a href="calling%20into%20question.html">calling into question</a>, <a href="cartel.html">cartel</a>, <a href="Cast%20in%20one%27s%20teeth.html">Cast in one's teeth</a>, <a href="Challenge%20for%20favor.html">Challenge for favor</a>, <a href="Challenge%20to%20the%20favor.html">Challenge to the favor</a>, <a href="champion.html">champion</a>, <a href="charge.html">charge</a>, <a href="claim.html">claim</a>, <a href="come.html">come</a>, <a href="command.html">command</a>, <a href="confront.html">confront</a>, <a href="confrontation.html">confrontation</a>, <a href="contest.html">contest</a>, <a href="counterchallenge.html">counterchallenge</a>, <a href="dare.html">dare</a>, <a href="daring.html">daring</a>, <a href="defend.html">defend</a>, <a href="defiance.html">defiance</a>, <a href="defy.html">defy</a>, <a href="demand%20for%20explanation.html">demand for explanation</a>, <a href="despite.html">despite</a>, <a href="dilatory%20plea.html">dilatory plea</a>, <a href="duel.html">duel</a>, <a href="envy.html">envy</a>, <a href="forbid.html">forbid</a>, <a href="gage.html">gage</a>, <a href="gantlet.html">gantlet</a>, <a href="gauntlet.html">gauntlet</a>, <a href="glove.html">glove</a>, <a href="guard.html">guard</a>, <a href="hacker.html">hacker</a>, <a href="hail.html">hail</a>, <a href="Hang%20out%20the%20red%20flag.html">Hang out the red flag</a>, <a href="heckle.html">heckle</a>, <a href="herald.html">herald</a>, <a href="hold.html">hold</a>, <a href="impeach.html">impeach</a>, <a href="Mischallenge.html">Mischallenge</a>, <a href="oppugn.html">oppugn</a>, <a href="pass.html">pass</a>, <a href="pawn.html">pawn</a>, <a href="Peremptory%20challenge.html">Peremptory challenge</a>, <a href="Principal%20challenge.html">Principal challenge</a>, <a href="Provocatory.html">Provocatory</a>, <a href="provoke.html">provoke</a>, <a href="quarrel.html">quarrel</a>, <a href="query.html">query</a>, <a href="question.html">question</a>, <a href="qui%20vive.html">qui vive</a>, <a href="receive.html">receive</a>, <a href="recusation.html">recusation</a>, <a href="recuse.html">recuse</a>, <a href="Revie.html">Revie</a>, <a href="rise.html">rise</a>, <a href="robustness.html">robustness</a>, <a href="satisfaction.html">satisfaction</a>, <a href="Scalp-lock.html">Scalp-lock</a>, <a href="sentinel.html">sentinel</a>, <a href="stump.html">stump</a>, <a href="swallow.html">swallow</a>, <a href="tackle.html">tackle</a>, <a href="take%20on.html">take on</a>, <a href="Take%20up%20the%20gauntlet.html">Take up the gauntlet</a>, <a href="Take%20up%20the%20glove.html">Take up the glove</a>, <a href="Throw%20down%20the%20gauntlet.html">Throw down the gauntlet</a>, <a href="Throw%20down%20the%20glove.html">Throw down the glove</a>, <a href="Throw%20in%20one%27s%20teeth.html">Throw in one's teeth</a>, <a href="To%20call%20out.html">To call out</a>, <a href="To%20challenge%20to%20the.html">To challenge to the</a>, <a href="To%20enter%20the%20lists.html">To enter the lists</a>, <a href="To%20fling%20down.html">To fling down</a>, <a href="To%20take%20up%20the%20gauntlet.html">To take up the gauntlet</a>, <a href="To%20take%20up%20the%20glove.html">To take up the glove</a>, <a href="To%20throw%20down%20the%20gauntlet.html">To throw down the gauntlet</a>, <a href="To%20throw%20down%20the%20glove.html">To throw down the glove</a>, <a href="trier.html">trier</a>, <a href="Trior.html">Trior</a>, <a href="unchallengeable.html">unchallengeable</a>, <a href="underlie.html">underlie</a>, <a href="undertake.html">undertake</a>, <a href="vie.html">vie</a>, <a href="Wager%20of%20battel.html">Wager of battel</a>, <a href="Wager%20of%20battle.html">Wager of battle</a>, <a href="Warrandice.html">Warrandice</a>, <a href="watchword.html">watchword</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xhallenge, dhallenge, fhallenge, vhallenge, cgallenge, cyallenge, cjallenge, cnallenge, cballenge, chqllenge, chwllenge, chsllenge, chzllenge, chaklenge, chaolenge, chaplenge, chalkenge, chaloenge, chalpenge, challwnge, challsnge, challdnge, challrnge, challebge, challehge, challejge, challemge, challenfe, challente, challenhe, challenbe, challenve, challengw, challengs, challengd, challengr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

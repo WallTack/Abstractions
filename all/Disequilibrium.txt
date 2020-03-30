@@ -1,0 +1,215 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>disequilibrium</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">disequilibrium</span> <span class="exp">loss of equilibrium attributable to an unstable situation in which some forces outweigh others</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">disequilibrium</span> <span class="exp">An imperfect equilibrium, as of intellectual and moral faculties.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+																		
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Remy De Gourmont</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Remy%20De%20Gourmont.jpg" alt="Remy%20De%20Gourmont">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nothing exists except by virtue of a disequilibrium, an injustice. All existence is a theft paid for by other existences; no life flowers except on a cemetery.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						To that abstention, the disequilibrium of Italian political life, from first to last, is largely due.
+					</div>
+					<div class="uAuthor">
+						"The Liberation of Italy" by <span>Countess Evelyn Martinengo-Cesaresco</span>					</div>
+										<div class="usage">
+						The danger of war as a result of imperialism is immensely increased by the disunion and disequilibrium of Europe.
+					</div>
+					<div class="uAuthor">
+						"American World Policies" by <span>Walter E. Weyl</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Here you can view a one-hour video that asks, "In what ways can art convey equilibrium or disequilibrium".
+					</div>
+					<div class="uAuthor">
+						<a href="http://mauitime.com/Articles-Arts-and-Entertainment-i-2012-07-05-76852.113117-ART-21-And-The-Producers-And-Paula-Fuga-And-Makawao-Rodeo.html" target="_blank" rel="external nofollow">mauitime.com</a>
+					</div>
+										<div class="usage">
+						For many, this state of disequilibrium is one to be avoided at all costs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.christiancentury.org/blogs/archive/2012-10/facing-uncertainty" target="_blank" rel="external nofollow">christiancentury.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The Hardy–Weinberg disequilibrium coeﬃcient and its use to detect the underlying genetic model is given in Section 3. 
+					</div>
+					<div class="uAuthor">
+						Robust Tests in Genome-Wide Scans under Incomplete Linkage Disequilibrium
+					</div>
+										<div class="usage">
+						The Hardy–Weinberg disequilibrium (HWD) coeﬃcient in cases or between cases and controls has been used to detect association (Nielsen, Ehm and Weir, 1998; Zaykin and Nielsen, 2000; Song and Elston, 2006). 
+					</div>
+					<div class="uAuthor">
+						Robust Tests in Genome-Wide Scans under Incomplete Linkage Disequilibrium
+					</div>
+										<div class="usage">
+						In this article we studied genetic models under a general imperfect (or incomplete) LD model with linkage disequilibrium between linked marker locus and functional locus. 
+					</div>
+					<div class="uAuthor">
+						Robust Tests in Genome-Wide Scans under Incomplete Linkage Disequilibrium
+					</div>
+										<div class="usage">
+						The power to detect a true association is reduced when the linkage disequilibrium decreases, while the model uncertainty increases, complicating the choice of a single association statistic. 
+					</div>
+					<div class="uAuthor">
+						Robust Tests in Genome-Wide Scans under Incomplete Linkage Disequilibrium
+					</div>
+										<div class="usage">
+						Detecting marker-disease association by testing for HardyWeinberg disequilibrium at a marker locus. 
+					</div>
+					<div class="uAuthor">
+						Robust Tests in Genome-Wide Scans under Incomplete Linkage Disequilibrium
+					</div>
+										<div class="usage">
+						Song, K. and Elston, R. C. (2006). A powerful method of combining measures of association and Hardy-Weinberg disequilibrium for ﬁne-mapping in case-control studies. 
+					</div>
+					<div class="uAuthor">
+						Robust Tests in Genome-Wide Scans under Incomplete Linkage Disequilibrium
+					</div>
+										<div class="usage">
+						Hardy-Weinberg disequilibrium (HWD) ﬁne mapping for case-control samples. 
+					</div>
+					<div class="uAuthor">
+						Robust Tests in Genome-Wide Scans under Incomplete Linkage Disequilibrium
+					</div>
+										<div class="usage">
+						Modelling linkage disequilibrium and identifying recombination hotspots using snp data. 
+					</div>
+					<div class="uAuthor">
+						Using linear predictors to impute allele frequencies from summary or pooled genotype data
+					</div>
+										<div class="usage">
+						Accounting for decay of linkage disequilibrium in haplotype inference and missing-data imputation. 
+					</div>
+					<div class="uAuthor">
+						Using linear predictors to impute allele frequencies from summary or pooled genotype data
+					</div>
+										<div class="usage">
+						Prospects for whole-genome linkage disequilibrium mapping of common disease genes. 
+					</div>
+					<div class="uAuthor">
+						Asymptotic optimality of the Westfall--Young permutation procedure for multiple testing under dependence
+					</div>
+										<div class="usage">
+						For data generated under the exponential growth model, S4, as well as S3 (homozygosity), S6 (mean number of pair-wise differences between haplotypes) and S9 (linkage disequilibrium), appear to be favoured by the model selection approach. 
+					</div>
+					<div class="uAuthor">
+						Considerate Approaches to Achieving Sufficiency for ABC model selection
+					</div>
+										<div class="usage">
+						Remark: We speak of S’s disequilibrium in terms of temperature for convenience only. 
+					</div>
+					<div class="uAuthor">
+						Violation of the zeroth law of thermodynamics for a non-ergodic interaction
+					</div>
+										<div class="usage">
+						In particular, S adopts the level-occupation probabilities of the reservoir and it takes no energy to maintain this disequilibrium. 
+					</div>
+					<div class="uAuthor">
+						Violation of the zeroth law of thermodynamics for a non-ergodic interaction
+					</div>
+										<div class="usage">
+						However, only if S’s levels are equally spaced can one still speak of temperature. (A similar result in different circumstances was found in .) The disequilibrium, however surprising, is not by itself a consequence of non-ergodicity. 
+					</div>
+					<div class="uAuthor">
+						Violation of the zeroth law of thermodynamics for a non-ergodic interaction
+					</div>
+										<div class="usage">
+						Thus when contact is broken there can be interaction energy, γ Tr(ρ(∆t)V ), whose elimination requires external work and thus maintains the disequilibrium . 
+					</div>
+					<div class="uAuthor">
+						Violation of the zeroth law of thermodynamics for a non-ergodic interaction
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="equilibrium.html">equilibrium</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="situation.html">situation</a>, <a href="state%20of%20affairs.html">state of affairs</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="imbalance.html">imbalance</a>, <a href="instability.html">instability</a>, <a href="unbalance.html">unbalance</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="imbalance.html">imbalance</a>, <a href="instability.html">instability</a>, <a href="unbalance.html">unbalance</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					sisequilibrium, eisequilibrium, fisequilibrium, cisequilibrium, xisequilibrium, sisequilibrium, dusequilibrium, djsequilibrium, dksequilibrium, dosequilibrium, diaequilibrium, diwequilibrium, didequilibrium, dixequilibrium, dizequilibrium, diaequilibrium, diswquilibrium, dissquilibrium, disdquilibrium, disrquilibrium, disewuilibrium, diseauilibrium, disesuilibrium, diseqyilibrium, diseqhilibrium, diseqjilibrium, diseqiilibrium, disequulibrium, disequjlibrium, disequklibrium, disequolibrium, disequikibrium, disequioibrium, disequipibrium, disequilubrium, disequiljbrium, disequilkbrium, disequilobrium, disequilivrium, disequiligrium, disequilihrium, disequilinrium, disequilibeium, disequilibdium, disequilibfium, disequilibtium, disequilibruum, disequilibrjum, disequilibrkum, disequilibroum
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

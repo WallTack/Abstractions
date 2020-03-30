@@ -1,0 +1,430 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>communism</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">communism</span> <span class="exp">a political theory favoring collectivism in a classless society</span> </li><li><span class="tSpeech">n</span> <span class="term">communism</span> <span class="exp">a form of socialism that abolishes private ownership</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Karl Marx and Friedrich Engels, the fathers of communism, wrote 500 articles for the "New York Tribune" from 1851 to 1862.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Communism</span> <span class="exp">A scheme of equalizing the social conditions of life; specifically, a scheme which contemplates the abolition of inequalities in the possession of property, as by distributing all wealth equally to all, or by holding all wealth in common for the equal use and advantage of all.<span class="wuNote">☞ At different times, and in different countries, various schemes pertaining to socialism in government and the conditions of domestic life, as well as in the distribution of wealth, have been called <ex>communism</ex>.</span></span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">communism</span> <span class="exp">An economic system, or theory, which rests upon the total or partial abolition of the right of private property, actual ownership being ascribed to the community as a whole or to the state. The right of the state to control the means of production, and also the distribution and consumption of the products of industry, is in general especially emphasized by the advocates of the theory. In some communistic schemes the right of the individual to the control of his own labor is also denied, each one being required to do that which is most advantageous to the community as a whole. Such theories, differing in details, have frequently been advanced—by Plato in his “Republic,” by Sir Thomas More in his “Utopia,” and in recent times by many writers—and have not infrequently been carried into execution on a small scale, as in the Oneida Community. See community.</span> </li><li><span class="tSpeech">n</span> <span class="term">communism</span> <span class="exp">Communalism.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Communism</span> <span class="exp"><span class="itl">kom′ū-nizm</span> a theory or condition of things according to which private property should be abolished, and all things held in common</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Vladimir Ilyich Lenin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Vladimir%20Ilyich%20Lenin.jpg" alt="Vladimir%20Ilyich%20Lenin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Communism is Soviet power plus the electrification of the whole country.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Karl Marx</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Karl%20Marx.jpg" alt="Karl%20Marx">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A specter is haunting Europe -- the specter of communism.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Orwell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Orwell.jpg" alt="George%20Orwell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The Communism of the English intellectual is something explicable enough. It is the patriotism of the deracinated.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Pierre Joseph Proudhon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Pierre Joseph Proudhon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Communism is inequality, but not as property is. Property is exploitation of the weak by the strong. Communism is exploitation of the strong by the weak.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ernest Renan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ernest%20Renan.jpg" alt="Ernest%20Renan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Communism is in conflict with human nature.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Will Rogers</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Will%20Rogers.jpg" alt="Will%20Rogers">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Communism to me is one-third practice and two-thirds explanation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">communisme</span>, fr. <span class="wUets">commun</span>, common
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Bosnia contains various iron works and coal mines, where profession is made of Communism.
+					</div>
+					<div class="uAuthor">
+						"The Birth of Yugoslavia, Volume 2" by <span>Henry Baerlein</span>					</div>
+										<div class="usage">
+						Higgins and Kropotkin have here put co-operative socialism or communism in a nutshell both as to its aim and program.
+					</div>
+					<div class="uAuthor">
+						"Communism and Christianism" by <span>William Montgomery Brown</span>					</div>
+										<div class="usage">
+						The abolition of existing property relations is not at all a distinctive feature of Communism.
+					</div>
+					<div class="uAuthor">
+						"Manifesto of the Communist Party" by <span>Karl Marx</span>					</div>
+										<div class="usage">
+						The conflict was one of principles: communism against individualism.
+					</div>
+					<div class="uAuthor">
+						"A History of the English Church in New Zealand" by <span>Henry Thomas Purchas</span>					</div>
+										<div class="usage">
+						Communism in its grossest form was recommended by Diogenes of Sinope.
+					</div>
+					<div class="uAuthor">
+						"The History of Freedom" by <span>John Emerich Edward Dalberg-Acton</span>					</div>
+										<div class="usage">
+						This desperate act of Communism that tough-headed old lawyer, Prynne, opposed tooth and nail.
+					</div>
+					<div class="uAuthor">
+						"Old and New London" by <span>Walter Thornbury</span>					</div>
+										<div class="usage">
+						The basis of his view is a belief in an ancient communism in women.
+					</div>
+					<div class="uAuthor">
+						"The Position of Woman in Primitive Society" by <span>C. Gasquoine Hartley</span>					</div>
+										<div class="usage">
+						THE COMMUNISM OF CAPITAL.
+					</div>
+					<div class="uAuthor">
+						"Belford's Magazine, Volume II, No. 8, January, 1889" by <span>Various</span>					</div>
+										<div class="usage">
+						Kropotkin has finally broken with the Communism of Proudhon, and placed Anarchist Communism in its stead.
+					</div>
+					<div class="uAuthor">
+						"Anarchism" by <span>E. V. Zenker</span>					</div>
+										<div class="usage">
+						An ascetic communism patterned on that of Sparta was the first form which the new teachings assumed.
+					</div>
+					<div class="uAuthor">
+						"Landmarks of Scientific Socialism" by <span>Friedrich Engels</span>					</div>
+										<div class="usage">
+						The communism of the common school accompanies the evils.
+					</div>
+					<div class="uAuthor">
+						"Belford's Magazine, Vol 2, December 1888" by <span>Various</span>					</div>
+										<div class="usage">
+						Membership in the Party or sympathy toward communism was the chain that linked this upper class together.
+					</div>
+					<div class="uAuthor">
+						"Area Handbook for Albania" by <span>Eugene K. Keefe</span>					</div>
+										<div class="usage">
+						International communism dominated all Bulgaria's foreign policies.
+					</div>
+					<div class="uAuthor">
+						"Area Handbook for Bulgaria" by <span>Eugene K. Keefe, Violeta D. Baluyut, William Giloane, Anne K. Long, James M. Moore, and Neda A. Walpole</span>					</div>
+										<div class="usage">
+						It is for these reasons which I have explained here as simply as possible that equalitarian communism remained vanquished.
+					</div>
+					<div class="uAuthor">
+						"Essays on the Materialistic Conception of History" by <span>Antonio Labriola</span>					</div>
+										<div class="usage">
+						There were also during the Middle Ages strange heretical sects, among whom such communism existed, like the polyandria of the ancient Hindoos.
+					</div>
+					<div class="uAuthor">
+						"Legends of Florence Collected from the People, First Series" by <span>Charles Godfrey Leland</span>					</div>
+										<div class="usage">
+						The Mormons speak of us as Gentiles, yet in reality they take our creed and add to it polygamy and communism.
+					</div>
+					<div class="uAuthor">
+						"The Religious Life of London" by <span>J. Ewing Ritchie</span>					</div>
+										<div class="usage">
+						The Zadruga of southern Slavonia offers the best still existing illustration of such a family communism.
+					</div>
+					<div class="uAuthor">
+						"The Origin of the Family Private Property and the State" by <span>Frederick Engels</span>					</div>
+										<div class="usage">
+						Assailed by communism, by Rome.
+					</div>
+					<div class="uAuthor">
+						"The Expositor's Bible: The Book of Exodus" by <span>G. A. Chadwick</span>					</div>
+										<div class="usage">
+						Could Sylvia talk communism, even parrot-like, and deny him the rights of a brother?
+					</div>
+					<div class="uAuthor">
+						"The Guarded Heights" by <span>Wadsworth Camp</span>					</div>
+										<div class="usage">
+						The hero rehearses a plan for the salvation of the world, which is simply crude communism.
+					</div>
+					<div class="uAuthor">
+						"The International Monthly, Volume 3, No. 4, July, 1851" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Whenever Communism's snaky head<br>
+Is raised against the heel of Capital,<br>
+I want it crushed 'neath Law's majestic tread,<br>
+And yet would heed poor honest labor's call.
+							<div class="poet">"The Great Strike" by <span>Albery Allson Whitman</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Top Obama capitalist praising communism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/on-air/special-report-bret-baier/2012/12/11/grapevine-top-obama-capitalist-praising-communism" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						One of the president's top capitalists says communism works.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/on-air/special-report-bret-baier/2012/12/11/grapevine-top-obama-capitalist-praising-communism" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						His rags-to- riches tale is remarkable not just for its trajectory but for the way he has thrived amid China's seemingly impossible conflation of capitalism and communism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-10-31/zong-tops-china-billionaires-as-communist-to-capitalist" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						Head of Obama's Jobs Council: 'State-Run Communism ' Actually 'Works'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wjrr.com/cc-common/news/sections/newsarticle.html?feed=104707&amp;article=10633004" target="_blank" rel="external nofollow">wjrr.com</a>
+					</div>
+										<div class="usage">
+						Obama's jobs council head and the CEO of GE Jeffrey Immelt believes that Communism is alive and well in China.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wjrr.com/cc-common/news/sections/newsarticle.html?feed=104707&amp;article=10633004" target="_blank" rel="external nofollow">wjrr.com</a>
+					</div>
+										<div class="usage">
+						President Bush, attending the dedication of a memorial to an estimated 100 million victims of communist regimes, yesterday compared the fight against radical Islam to the Cold War battle against totalitarian communism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2007/06/12/AR2007061201125.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The simple but stirring Memorial to the Victims of Communism captures that agony with six sculptures of a man in progressive decay.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.time.com/time/travel/cityguide/article/0,31489,1925095_1921770_1921733,00.html" target="_blank" rel="external nofollow">time.com</a>
+					</div>
+										<div class="usage">
+						 Communism &amp; The Cold War.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wpr.org/book/980111a.htm" target="_blank" rel="external nofollow">wpr.org</a>
+					</div>
+										<div class="usage">
+						What is this communism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.harpers.org/subjects/LaborUnionsAndCommunism" target="_blank" rel="external nofollow">harpers.org</a>
+					</div>
+										<div class="usage">
+						I am grateful to Arch Puddington, himself a stalwart ally of the forces of freedom during the cold war, for his thoughtful review of my book, The Final Revolution: The Resistance Church and the Collapse of Communism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commentarymagazine.com/article/the-pope-and-communism" target="_blank" rel="external nofollow">commentarymagazine.com</a>
+					</div>
+										<div class="usage">
+						"Faith in Marxism and a belief in socialism and communism is the political soul of a Communist and the spiritual pillar that allows a Communist to withstand any test," Mr Xi said.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/11/20/world/asia/new-communist-party-chief-in-china-denounces-corruption.html?_r=0" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The secretive rituals of communism seem so old-fashioned, so far removed from the reality of people's everyday lives here, both from the dynamic, throbbing parts of the economy to the countryside, where people feel they're being left behind.
+					</div>
+					<div class="uAuthor">
+						<a href="http://netnebraska.org/node/826609" target="_blank" rel="external nofollow">netnebraska.org</a>
+					</div>
+										<div class="usage">
+						In other words, he explained, anti-communism was a defining feature of conservatism his entire.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/opinion/sunday-commentary/20121124-jonah-goldberg-rethinking-my-criticism-of-compassionate-conservatism.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						Growing up, I felt our nation was united by several core beliefs: Opposition to communism, pride in our space program and agreement in the greatness and goodness of America.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/garyshapiro/2011/11/02/where-are-our-leaders-blaming-and-dividing/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						European Union member state's seventh free general election since the fall of communism in 1989.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baltimoresun.com/news/nation-world/sns-rt-us-romania-politics-factboxbre8b8030-20121209,0,6173746.story" target="_blank" rel="external nofollow">baltimoresun.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The latter through the centuries has given us the Magna Carta, the Declaration of Independence, the Bil l of Rights, and, with the trivial changes of sign, marxism, communism, socialism, and all the other perversims. 
+					</div>
+					<div class="uAuthor">
+						And free lunch for all...
+					</div>
+										<div class="usage">
+						This theme contains various national (opposition, corruption and Russia), international (Chechnya, NATO, Poland and Ukraine) and general (socialism, democracy and anti-communism) political topics. 
+					</div>
+					<div class="uAuthor">
+						Inference of the Russian drug community from one of the largest social networks in the Russian Federation
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ideology.html">ideology</a>, <a href="political%20orientation.html">political orientation</a>, <a href="political%20theory.html">political theory</a>, <a href="socialism.html">socialism</a>, <a href="socialist%20economy.html">socialist economy</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bolshevism.html">bolshevism</a>, <a href="castroism.html">castroism</a>, <a href="leninism.html">leninism</a>, <a href="maoism.html">maoism</a>, <a href="marxism.html">marxism</a>, <a href="marxism-leninism.html">marxism-leninism</a>, <a href="trotskyism.html">trotskyism</a>, <a href="collectivism.html">collectivism</a>, <a href="sovietism.html">sovietism</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="communist.html">communist</a>, <a href="communist.html">communist</a>, <a href="communistic.html">communistic</a>, <a href="communize.html">communize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Amorphism.html">Amorphism</a>, <a href="Aspheterism.html">Aspheterism</a>, <a href="Bolshevism.html">Bolshevism</a>, <a href="canonist.html">canonist</a>, <a href="Castroism.html">Castroism</a>, <a href="Cenogamy.html">Cenogamy</a>, <a href="collectivism.html">collectivism</a>, <a href="commie.html">commie</a>, <a href="communalism.html">communalism</a>, <a href="communisation.html">communisation</a>, <a href="Communist.html">Communist</a>, <a href="communistic.html">communistic</a>, <a href="communization.html">communization</a>, <a href="Dalton%20Trumbo.html">Dalton Trumbo</a>, <a href="deviationism.html">deviationism</a>, <a href="deviationist.html">deviationist</a>, <a href="Icarian.html">Icarian</a>, <a href="Karl%20Marx.html">Karl Marx</a>, <a href="Maoism.html">Maoism</a>, <a href="Marx.html">Marx</a>, <a href="Marxism.html">Marxism</a>, <a href="MEK.html">MEK</a>, <a href="MKO.html">MKO</a>, <a href="Mujahidin-e%20Khalq%20Organization.html">Mujahidin-e Khalq Organization</a>, <a href="People%27s%20Mujahidin%20of%20Iran.html">People's Mujahidin of Iran</a>, <a href="socialism.html">socialism</a>, <a href="sovietism.html">sovietism</a>, <a href="tovarich.html">tovarich</a>, <a href="tovarisch.html">tovarisch</a>, <a href="Trotskyism.html">Trotskyism</a>, <a href="Truman%20doctrine.html">Truman doctrine</a>, <a href="Trumbo.html">Trumbo</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xommunism, dommunism, fommunism, vommunism, cimmunism, ckmmunism, clmmunism, cpmmunism, conmunism, cojmunism, cokmunism, comnunism, comjunism, comkunism, commynism, commhnism, commjnism, comminism, commubism, commuhism, commujism, commumism, communusm, communjsm, communksm, communosm, communiam, communiwm, communidm, communixm, communizm, communiam, communisn, communisj, communisk
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

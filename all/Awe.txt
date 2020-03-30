@@ -1,0 +1,545 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>awe</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">awe</span> <span class="exp">inspire awe in</span> <span class="quot">"The famous professor awed the undergraduates"</span></li><li><span class="tSpeech">n</span> <span class="term">awe</span> <span class="exp">an overwhelming feeling of wonder or admiration</span> <span class="quot">"he stared over the edge with a feeling of awe"</span></li><li><span class="tSpeech">n</span> <span class="term">awe</span> <span class="exp">a feeling of profound respect for someone or something</span> <span class="quot">"the fear of God","the Chinese reverence for the dead","the French treat food with gentle reverence","his respect for the law bordered on veneration"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Awe</span> <span class="exp">Dread; great fear mingled with respect.</span> <span class="wuQuot">"His frown was full of terror, and his voice<br>
+Shook the delinquent with such fits of awe ."</span></li><li><span class="term">Awe</span> <span class="exp">The emotion inspired by something dreadful and sublime; an undefined sense of the dreadful and the sublime; reverential fear, or solemn wonder; profound reverence.</span> <span class="wuQuot">"There is an awe in mortals' joy,<br>
+A deep mysterious fear."</span><span class="wuQuot">"To tame the pride of that power which held the Continent in awe ."</span><span class="wuQuot">"The solitude of the desert, or the loftiness of the mountain, may fill the mind with awe the sense of our own littleness in some greater presence or power."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Awe</span> <span class="exp">To strike with fear and reverence; to inspire with awe; to control by inspiring dread.</span> <span class="wuQuot">"That same eye whose bend doth awe the world."</span><span class="wuQuot">"His solemn and pathetic exhortation awed and melted the bystanders."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">awe</span> <span class="exp">Dread; fear, as of something evil.</span> </li><li><span class="tSpeech">n</span> <span class="term">awe</span> <span class="exp">Fear mingled with admiration or reverence; reverential fear; feeling inspired by something sublime, not necessarily partaking of the nature of fear or dread.</span> </li><li><span class="tSpeech">n</span> <span class="term">awe</span> <span class="exp">Overawing influence.</span> </li><li><span class="tSpeech">n</span> <span class="term">awe</span> <span class="exp">Synonyms Reverence, Veneration, etc. See reverence, n.</span> </li><li><span class="term">awe</span> <span class="exp">To inspire with fear or dread; terrify; control or restrain by the influence of fear.</span> </li><li><span class="term">awe</span> <span class="exp">To strike with awe, reverence, or respect; influence by exciting profound respect or reverential fear.</span> </li><li><span class="term">awe</span> <span class="exp">To owe.</span> </li><li><span class="tSpeech">n</span> <span class="term">awe</span> <span class="exp">One of the float-boards of an undershot water-wheel, on which the water acts.</span> </li><li><span class="tSpeech">n</span> <span class="term">awe</span> <span class="exp">One of the sails of a windmill.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Awe</span> <span class="exp"><span class="itl">aw</span> reverential fear, or wonder: dread:</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Awe</span> <span class="exp">to strike with or influence by fear</span> </li><li><span class="tSpeech">n</span> <span class="term">Awe</span> <span class="exp"><span class="itl">aw</span> (<span class="itl">arch.</span>) power to inspire awe</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Gross and obscure natures, however decorated, seem impure shambles; but character gives splendor to youth, and awe to wrinkled skin and gray hairs.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Davenport</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles Davenport">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Custom, that unwritten law, By which the people keep even kings in awe.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">David Sarnoff</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="David Sarnoff">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We cannot banish dangers, but we can banish fears. We must not demean life by standing in awe of death.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Albert Einstein</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Albert%20Einstein.jpg" alt="Albert%20Einstein">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He who can no longer pause to wonder and stand rapt in awe is as good as dead; his eyes are closed.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James G. Frazer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="James G. Frazer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The awe and dread with which the untutored savage contemplates his mother-in-law are amongst the most familiar facts of anthropology.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Llewelyn Powys</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Llewelyn Powys">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No sight is more provocative of awe than is the night sky.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Awe inspiring</span> - Something or someone that is awe inspiring amazes people in a slightly frightening but positive way.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">aȝe</span>, <span class="wUets">aghe</span>, fr. Icel. <span class="wUets">agi</span>,; akin to AS. <span class="wUets">ege</span>, <span class="wUets">ōga</span>, Goth. <span class="wUets">agis</span>, Dan. <span class="wUets">ave</span>, chastisement, fear, Gr. <span class="wUgrk">'a`chos</span> pain, distress, from the same root as E. <span class="wUets">ail</span>,. √3. Cf. <span class="wUer">Ugly</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Ice. <i>agi</i>, A.S. <i>ege</i>, fear; cog. with Gael. <i>eaghal</i>; Gr. <i>achos</i>, anguish.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Involuntarily she breathed a soft little exclamation of awe and delight.
+					</div>
+					<div class="uAuthor">
+						"A Voice in the Wilderness" by <span>Grace Livingston Hill</span>					</div>
+										<div class="usage">
+						The boys climbed slowly up the steep ascent, casting awed glances to right and left.
+					</div>
+					<div class="uAuthor">
+						"Penelope and the Others" by <span>Amy Walton</span>					</div>
+										<div class="usage">
+						One morning Edwin was busy in the shop with his own private minion, the paper boy, who went in awe of him.
+					</div>
+					<div class="uAuthor">
+						"Clayhanger" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						The elder woman, for all her gentleness and apparent timidity, had a bold spirit that stood in no awe of the high and mighty.
+					</div>
+					<div class="uAuthor">
+						"Before the Dawn" by <span>Joseph Alexander Altsheler</span>					</div>
+										<div class="usage">
+						To me, as I looked over the bulwarks, the scene was inexpressibly strange, and grand, and awe-producing.
+					</div>
+					<div class="uAuthor">
+						"My First Voyage to Southern Seas" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						With what awe does the first acquaintance with death impress us!
+					</div>
+					<div class="uAuthor">
+						"The King's Own" by <span>Captain Frederick Marryat</span>					</div>
+										<div class="usage">
+						She stood in awe of her.
+					</div>
+					<div class="uAuthor">
+						"Rattlin the Reefer" by <span>Edward Howard</span>					</div>
+										<div class="usage">
+						The girl looked at him in awe.
+					</div>
+					<div class="uAuthor">
+						"The Man of the Desert" by <span>Grace Livingston Hill</span>					</div>
+										<div class="usage">
+						He thinks my awe and fear of him are love.
+					</div>
+					<div class="uAuthor">
+						"Tarrano the Conqueror" by <span>Raymond King Cummings</span>					</div>
+										<div class="usage">
+						Miss Altifiorla rose with a look of awe, Mrs. Western with a feeling of anger that was almost dominated by fear.
+					</div>
+					<div class="uAuthor">
+						"Kept in the Dark" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						He was glad that it should awe and move her thus.
+					</div>
+					<div class="uAuthor">
+						"Wisdom, Wit, and Pathos of Ouida" by <span>Ouida</span>					</div>
+										<div class="usage">
+						And there was still in all souls a certain unearthly awe of the recently invented and as yet rather rare steamboats.
+					</div>
+					<div class="uAuthor">
+						"Memoirs" by <span>Charles Godfrey Leland</span>					</div>
+										<div class="usage">
+						There is one thing, gentlemen of the jury, of which they stand in awe, and it is in your hands to give them one more lesson.
+					</div>
+					<div class="uAuthor">
+						"Tess of the Storm Country" by <span>Grace Miller White</span>					</div>
+										<div class="usage">
+						Was this big westerner really awed by the situation we were facing?
+					</div>
+					<div class="uAuthor">
+						"The Black Wolf Pack" by <span>Dan Beard</span>					</div>
+										<div class="usage">
+						We'll take rooms at the Parker House which used to fill me with silent awe.
+					</div>
+					<div class="uAuthor">
+						"A Daughter of the Middle Border" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						After a time she rose timidly, awed by the glamour and the strangeness of it all, and looked out.
+					</div>
+					<div class="uAuthor">
+						"The Adventures of Maya the Bee" by <span>Waldemar Bonsels</span>					</div>
+										<div class="usage">
+						An awe squeezed at his throat.
+					</div>
+					<div class="uAuthor">
+						"Erik Dorn" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						The country all around is full of fierce natives, who hold the palace in awe and prevent others from reaching it.
+					</div>
+					<div class="uAuthor">
+						"Frank Merriwell Down South" by <span>Burt L. Standish</span>					</div>
+										<div class="usage">
+						How terrible a thing, if the realm of smallness were suddenly to emerge, consume this awe inspiring drug!
+					</div>
+					<div class="uAuthor">
+						"Beyond the Vanishing Point" by <span>Raymond King Cummings</span>					</div>
+										<div class="usage">
+						With a caution akin to awe she approached the windfall where a cyclone years before had levelled a wide swath through the heavy growth.
+					</div>
+					<div class="uAuthor">
+						"The Black Phantom" by <span>Leo Edward Miller</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							It is with awe<br>
+That I beheld<br>
+Fresh leaves, green leaves,<br>
+Bright in the sun.
+							<div class="poet">"It is with awe" by <span>Matsuo Basho</span></div>
+						</div>
+											<div class="poemQuote">
+							Then by a little pool<br>
+A lovely child he saw;<br>
+A harmless thing and beautiful,<br>
+And yet so full of awe, 
+							<div class="poet">"The Legend of St. Austin and the Child" by <span>Katharine Tynan</span></div>
+						</div>
+											<div class="poemQuote">
+							Seem all my thoughts and prayers<br>
+When He but speaks Thy Law;<br>
+Out of my heart the tares<br>
+Are torn by awe!
+							<div class="poet">"Mary At Nazareth" by <span>Cale Young Rice</span></div>
+						</div>
+											<div class="poemQuote">
+							While I hearken to Thy law,<br>
+Fill my soul with humble awe<br>
+Till Thy Gospel bring to me<br>
+Life and immortality.
+							<div class="poet">"To the Temple I Repair" by <span>James Montgomery</span></div>
+						</div>
+											<div class="poemQuote">
+							These were his fields Elysian:<br>
+With mystic eyes he saw<br>
+The sowers planting vision,<br>
+The reapers gleaming awe.
+							<div class="poet">"The Poet's Town" by <span>John Gneisenau Neihardt</span></div>
+						</div>
+											<div class="poemQuote">
+							No eyes would close in slumber<br>
+Within our little bark;<br>
+What charmed us so in daylight<br>
+So awed us in the dark.
+							<div class="poet">"Lake Como" by <span>Abram Joseph Ryan</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Authorities in Awe of Drug Runners' Jungle-Built, Kevlar- Coated Supersubs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wired.com/magazine/2011/03/ff_drugsub/" target="_blank" rel="external nofollow">wired.com</a>
+					</div>
+										<div class="usage">
+						Robert Mathis was impressed but hardly in awe after being part of the Indianapolis Colts ' dramatic - 7:21 pm.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.indystar.com/viewart/20121208/SPORTS03/121208002/Former-Colt-Jerry-Brown-killed-accident-involving-Cowboys-teammate?odyssey=mod%7Cnewswell%7Ctext%7CIndianapolis%20Sports%7Cs" target="_blank" rel="external nofollow">indystar.com</a>
+					</div>
+										<div class="usage">
+						Remember years ago (a.k.a 2008) when someone would bust out an iPhone in a group of people to be met with the same type of awe directed at owners of Laserdiscs (remember Laserdiscs?).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ocweekly.com/2012-12-06/culture/trendzilla-iphone-jasmintcreations-photojojo-holga/" target="_blank" rel="external nofollow">ocweekly.com</a>
+					</div>
+										<div class="usage">
+						Critics in awe of the veteran actor's performance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.blackenterprise.com/news/denzel-washington-courting-another-oscar/" target="_blank" rel="external nofollow">blackenterprise.com</a>
+					</div>
+										<div class="usage">
+						Even though the stereotype is that men don't cry and that crying is a sign of weakness, when a man in a leadership position shows such raw emotion, most people talk about with a sense of awe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wibw.com/blogs/melissa/13526622.html" target="_blank" rel="external nofollow">wibw.com</a>
+					</div>
+										<div class="usage">
+						The theme draws from stories of indigenous cultures in the South Pacific that have been awed by the advanced technology of American visitors, forming cults and rituals to beckon them and their airplanes back.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www1.sfbg.com/pixel_vision/2012/12/03/burning-mans-new-cargo-cult-art-theme-intrigues" target="_blank" rel="external nofollow">sfbg.com</a>
+					</div>
+										<div class="usage">
+						Whenever I travel west to visit the Mother Jones mother ship in San Francisco, I'm awed by the number of trash bins.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.motherjones.com/environment/2012/09/why-doesnt-your-city-have-curbside-composting" target="_blank" rel="external nofollow">motherjones.com</a>
+					</div>
+										<div class="usage">
+						As crews began to saw away at the enormous trunk of the state's next Christmas tree, Friday morning, a large crowd of Jackson residents watched in awe at what they were seeing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wilx.com/news/localnews/headlines/State-Christmas-Tree-Cut-Down-in-Jackson-177020561.html" target="_blank" rel="external nofollow">wilx.com</a>
+					</div>
+										<div class="usage">
+						Daredevil's sky jump provides global moment of awe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.saukvalley.com/2012/10/15/daredevils-sky-jump-provides-global-moment-of-awe/ap8j6yk/" target="_blank" rel="external nofollow">saukvalley.com</a>
+					</div>
+										<div class="usage">
+						Daredevil's 24-mile jump from edge of space gives millions on Earth collective moment of awe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/news/2012/10/15/Daredevil-s-24-mile-jump-from-edge-of-space-gives-millions-on-Earth-collective-moment-of-awe.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<div class="usage">
+						 Daredevil 's sky jump provides global moment of awe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.saukvalley.com/2012/10/15/daredevils-sky-jump-provides-global-moment-of-awe/ap8j6yk/" target="_blank" rel="external nofollow">saukvalley.com</a>
+					</div>
+										<div class="usage">
+						 Daredevil 's 24-mile jump from edge of space gives millions on Earth collective moment of awe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/news/2012/10/15/Daredevil-s-24-mile-jump-from-edge-of-space-gives-millions-on-Earth-collective-moment-of-awe.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<div class="usage">
+						 Dawes awes Taft Ballroom crowd.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wnku.org/post/dawes-awes-taft-ballroom-crowd" target="_blank" rel="external nofollow">wnku.org</a>
+					</div>
+										<div class="usage">
+						"I am constantly in awe of Debra ( Dexter 's lieutenant sister, played by Jennifer Carpenter) and their dynamic.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/story/life/people/2012/12/13/dexter-s-strahovski-talks-sexy-sweet-serial-killers/1768621/" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						 Dismantling a Civil War-era barn in Bethel Township, Philip Hess is in awe of the ingenuity and workmanship Pennsylvania German artisans put into building the nearly 4,500-square-foot structure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://readingeagle.com/article.aspx?id=%20228187" target="_blank" rel="external nofollow">readingeagle.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The fact that GZ’s ﬁnal results for γGZ ϕ (T ) have been questioned, however, does not imply that their inﬂuence functional approach, as such, is fundamentally ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						Influence Functional for Decoherence of Interacting Electrons in Disordered Conductors
+					</div>
+										<div class="usage">
+						Consequently, unless these degeneracies are properly taken into account (by, e.g., symmetrizing over all possibilities or ordering the results by norm), any test which is derived from the notion of summing multipole or normal vectors is ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						Alignment tests for low CMB multipoles
+					</div>
+										<div class="usage">
+						The derivation of the latter in the paper is shown to be ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						The physics of space and time II: A reassessment of Einstein's 1905 special relativity paper
+					</div>
+										<div class="usage">
+						But even in more sophisticated setups where zero-temperature detectors and ﬁnite-temperature sources are represented by differen t metallic leads (in close resemblance to the original Bell proposal) the Bell test based on Eq. (3) is ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						Finite-temperature Bell test for quasiparticle entanglement in the Fermi sea
+					</div>
+										<div class="usage">
+						This is held to be the original waterfall approach but it is a scheme which Royce’s paper claims is ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						ECSS in the eXtreme
+					</div>
+										<div class="usage">
+						Peer review: a ﬂawed process at the heart of science and journals (2006). 
+					</div>
+					<div class="uAuthor">
+						Accelerating the pace of discovery by changing the peer review algorithm
+					</div>
+										<div class="usage">
+						This argument is certainly ﬂawed as countries who want to have the nuclear weapon capacity will most likely choose the simpler way to make a bomb using Pu239 or U235. 
+					</div>
+					<div class="uAuthor">
+						The Future of Nuclear Energy: Facts and Fiction Chapter IV: Energy from Breeder Reactors and from Fusion?
+					</div>
+										<div class="usage">
+						This result makes the identiﬁcation of the term “local” with “not violating any Bell inequality” seem ﬂawed, since nonlocality should not be creatable by local actions on any local state. 
+					</div>
+					<div class="uAuthor">
+						Quantum Entanglement and Geometry
+					</div>
+										<div class="usage">
+						The speciﬁc form of argumentation (and in particular the assumptions on which it is based) that makes use of the precautionary principle should be compared with Peterson’s impossibility proofs in in order to guarantee that the argument that one actually makes use of is not ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						Informal Control code logic
+					</div>
+										<div class="usage">
+						If no such M is conceivable there is no basis for the assumption that M is a safety critical component of R because the design of R itself is essentially ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						Informal Control code logic
+					</div>
+										<div class="usage">
+						Our ﬁrst point is that regarding the test set (“XG-SAT”) that he claims to prove, for a particular and rather complex and clever set Lz that he deﬁnes, is in NP[Lz ] but is not in P[Lz ], his proof that his test set belongs to NP[Lz ] seems ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						Barbosa, Uniform Polynomial Time Bounds, and Promises
+					</div>
+										<div class="usage">
+						We suspect that many GoF tests used in the literature to test models of ﬁnancial returns are fundamentally ﬂawed because of the long-ranged volatility correlations. 
+					</div>
+					<div class="uAuthor">
+						Goodness-of-Fit tests with Dependent Observations
+					</div>
+										<div class="usage">
+						Thus, the notion of “trivial” (and thus ﬂawed”) deserves more comment. 
+					</div>
+					<div class="uAuthor">
+						A New General Method to Generate Random Modal Formulae for Testing Decision Procedures
+					</div>
+										<div class="usage">
+						In the work by Achlioptas et al. (1997) ﬂawed problems are tho se solvable in linear time by standard CSP procedures, due to the undesired presence of implicit unary constraints causing some variable’s value to be inadmissible. A similar notion holds for SAT (Mitchell et al., 1992) and QBF (Gent &amp; Walsh, 1999). 
+					</div>
+					<div class="uAuthor">
+						A New General Method to Generate Random Modal Formulae for Testing Decision Procedures
+					</div>
+										<div class="usage">
+						Auslander claimed to prove that the Euler characteristic vanishes for a compact complete aﬃne manifold, but his proof was ﬂawed. 
+					</div>
+					<div class="uAuthor">
+						Two papers which changed my life: Milnor's seminal work on flat manifolds and flat bundles
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a feeling of profound respect for someone or something"><a href="veneration.html">veneration</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="admiration.html">admiration</a>, <a href="affright.html">affright</a>, <a href="emotion.html">emotion</a>, <a href="fright.html">fright</a>, <a href="frighten.html">frighten</a>, <a href="scare.html">scare</a>, <a href="wonder.html">wonder</a>, <a href="wonderment.html">wonderment</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="cow.html">cow</a>, <a href="overawe.html">overawe</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="fear.html">fear</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abash.html">abash</a>, <a href="adore.html">adore</a>, <a href="agape.html">agape</a>, <a href="albatross.html">albatross</a>, <a href="amazing.html">amazing</a>, <a href="astonishment.html">astonishment</a>, <a href="awe-inspiring.html">awe-inspiring</a>, <a href="Awe-stricken.html">Awe-stricken</a>, <a href="Awe-strike.html">Awe-strike</a>, <a href="Awe-struck.html">Awe-struck</a>, <a href="aweless.html">aweless</a>, <a href="awesome.html">awesome</a>, <a href="awful.html">awful</a>, <a href="awfully.html">awfully</a>, <a href="awfulness.html">awfulness</a>, <a href="awing.html">awing</a>, <a href="awless.html">awless</a>, <a href="Awsome.html">Awsome</a>, <a href="candid.html">candid</a>, <a href="captivation.html">captivation</a>, <a href="colossal.html">colossal</a>, <a href="cow.html">cow</a>, <a href="divinity.html">divinity</a>, <a href="dread.html">dread</a>, <a href="dreadful.html">dreadful</a>, <a href="eery.html">eery</a>, <a href="empyreal.html">empyreal</a>, <a href="empyrean.html">empyrean</a>, <a href="fascinate.html">fascinate</a>, <a href="fascination.html">fascination</a>, <a href="fear.html">fear</a>, <a href="fearful.html">fearful</a>, <a href="fearfully.html">fearfully</a>, <a href="fearfulness.html">fearfulness</a>, <a href="fetish.html">fetish</a>, <a href="gaping.html">gaping</a>, <a href="grip.html">grip</a>, <a href="majestic.html">majestic</a>, <a href="majesty.html">majesty</a>, <a href="Manito.html">Manito</a>, <a href="marveller.html">marveller</a>, <a href="mysterious.html">mysterious</a>, <a href="mystery.html">mystery</a>, <a href="overawe.html">overawe</a>, <a href="overawed.html">overawed</a>, <a href="pious.html">pious</a>, <a href="prodigious.html">prodigious</a>, <a href="religion.html">religion</a>, <a href="religiosity.html">religiosity</a>, <a href="Revere.html">Revere</a>, <a href="reverence.html">reverence</a>, <a href="reverent.html">reverent</a>, <a href="reverential.html">reverential</a>, <a href="reverently.html">reverently</a>, <a href="Seven%20Wonders%20of%20the%20Ancient%20World.html">Seven Wonders of the Ancient World</a>, <a href="Seven%20Wonders%20of%20the%20World.html">Seven Wonders of the World</a>, <a href="solemn.html">solemn</a>, <a href="solemnity.html">solemnity</a>, <a href="spellbind.html">spellbind</a>, <a href="stand.html">stand</a>, <a href="stupendous.html">stupendous</a>, <a href="sublime.html">sublime</a>, <a href="terrible.html">terrible</a>, <a href="terribly.html">terribly</a>, <a href="transfix.html">transfix</a>, <a href="tremendous.html">tremendous</a>, <a href="tremendously.html">tremendously</a>, <a href="venerable.html">venerable</a>, <a href="venerate.html">venerate</a>, <a href="veneration.html">veneration</a>, <a href="wonderer.html">wonderer</a>, <a href="wonderful.html">wonderful</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qwe, wwe, swe, zwe, aqe, aae, ase, aee, aww, aws, awd, awr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

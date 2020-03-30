@@ -1,0 +1,557 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>persistence</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">persistence</span> <span class="exp">the act of persisting or persevering; continuing or repeating behavior</span> <span class="quot">"his perseveration continued to the point where it was no longer appropriate"</span></li><li><span class="tSpeech">n</span> <span class="term">persistence</span> <span class="exp">persistent determination</span> </li><li><span class="tSpeech">n</span> <span class="term">persistence</span> <span class="exp">the property of a continuous and connected period of time</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The longest hiccups on record was by an American pig farmer whose hiccups persisted from 1922 to 1987									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Persistence</span> <span class="exp">The <span class="wUex">persistence</span> of motion.</span> </li><li><span class="term">Persistence</span> <span class="exp">The continuance of an effect after the cause which first gave rise to it is removed</span> </li><li><span class="term">Persistence</span> <span class="exp">The quality or state of being persistent; staying or continuing quality; hence, in an unfavorable sense, doggedness; obstinacy.</span> </li><li><span class="term">Persistence</span> <span class="exp">Visual <span class="wUex">persistence</span>, or <span class="wUex">persistence</span> of the visual impression; auditory <span class="wUex">persistence</span>, etc.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The correct name for the capital city of Thailand is rung Thep, and it's been this way for over 130 years. Foreigners persist on calling it Bangkok.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">persistence</span> <span class="exp">The quality of being persistent; steady or firm adherence to or continuance in state, course of action, or pursuit that has been entered upon; especially (of persons), a more or less obstinate perserverance; perserverance notwithstanding opposition, warning, remonstrane, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">persistence</span> <span class="exp">The continuance of an effect after the cause which first gave rise to it is removed: as, the persistence of the impression of light on the retina after the luminous object is withdrawn; the persistence of force.</span> </li><li><span class="tSpeech">n</span> <span class="term">persistence</span> <span class="exp">In electricity, the time-constant of a circuit in which current is beginning to flow; the time required for an electric current to rise to or .634 of its final value.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Persistence</span> <span class="exp">quality of being persistent: perseverance: obstinacy: duration, esp. of an effect after the exciting cause has been removed</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Publius Cornelius Tacitus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Publius%20Cornelius%20Tacitus.jpg" alt="Publius%20Cornelius%20Tacitus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The brave and bold persist even against fortune; the timid and cowardly rush to despair though fear alone.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Herbert Kaufman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Herbert Kaufman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Failure is only postponed success as long as courage coaches ambition. The habit of persistence is the habit of victory.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Failure is the path of least persistence”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Ward Beecher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Ward%20Beecher.jpg" alt="Henry%20Ward%20Beecher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no faculty of the human soul so persistent and universal as that of hatred.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edward Eggleston</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Edward Eggleston">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Persistent people begin their success where others end in failure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Woody Hayes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Woody Hayes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Paralyze resistance with persistence.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					See <span class="wUer">Persistent</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>persistĕre</i>—<i>per</i>, through, <i>sistĕre</i>, to cause to stand—<i>stāre</i>, to stand.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						If he persists in saying to me what he likes, he'll be hearing things that he don't like.
+					</div>
+					<div class="uAuthor">
+						"The Comedies of Terence" by <span>Publius Terentius Afer, (AKA) Terence</span>					</div>
+										<div class="usage">
+						These and other less probable possible causes are canvassed by Oswald with much tact and persistence.
+					</div>
+					<div class="uAuthor">
+						"Oswald Langdon" by <span>Carson Jay Lee</span>					</div>
+										<div class="usage">
+						But even in the adult the desire for play powerfully persists.
+					</div>
+					<div class="uAuthor">
+						"Human Traits and their Social Significance" by <span>Irwin Edman</span>					</div>
+										<div class="usage">
+						And though he strove to put all his belief in her word about herself, he was conscious of a persistent doubt, and was angered by it.
+					</div>
+					<div class="uAuthor">
+						"Joan of Arc of the North Woods" by <span>Holman Day</span>					</div>
+										<div class="usage">
+						Persist in these efforts for at least an hour before deciding to resort to other and more dangerous modes of treatment.
+					</div>
+					<div class="uAuthor">
+						"Special Report on Diseases of the Horse" by <span>United States Department of Agriculture</span>					</div>
+										<div class="usage">
+						The Scotch-Irish blood carries a mighty persistent corpuscle.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great, Volume 11 (of 14)" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						To her utter surprise Mrs. Mangenborn still persisted.
+					</div>
+					<div class="uAuthor">
+						"The Music Master" by <span>Charles Klein</span>					</div>
+										<div class="usage">
+						The fragrance persisted; the ghastly smell of mould and corruption was gone.
+					</div>
+					<div class="uAuthor">
+						"The Thing from the Lake" by <span>Eleanor M. Ingram</span>					</div>
+										<div class="usage">
+						The Princess made no movement or sign; the grim smile persisted on her lips.
+					</div>
+					<div class="uAuthor">
+						"The King's Mirror" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						Persistency.+ Asiatic fixity of the mores is extreme, but the element of persistency in the mores is always characteristic of them.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						There were other examples of the same persistent vitality, or absence of putrefaction.
+					</div>
+					<div class="uAuthor">
+						"Fragments of science, V. 1-2" by <span>John Tyndall</span>					</div>
+										<div class="usage">
+						Persistence in a task in spite of stimuli in his environment which would tend to distract his attention.
+					</div>
+					<div class="uAuthor">
+						"Spontaneous Activity in Education" by <span>Maria Montessori</span>					</div>
+										<div class="usage">
+						This fondness for my schoolmaster persisted simultaneously with the passion for the girl.
+					</div>
+					<div class="uAuthor">
+						"The Sexual Life of the Child" by <span>Albert Moll</span>					</div>
+										<div class="usage">
+						For Violet persisted in her strange refusal, in spite of Ranny's remonstrances, his entreaties, his appeals.
+					</div>
+					<div class="uAuthor">
+						"The Combined Maze" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						Then he threw the brush aside, apparently taking no more interest in that over which he had worked so persistently.
+					</div>
+					<div class="uAuthor">
+						"Man And His Ancestor" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						It was not a hovel, it was a pioneer cabin persisting into a settled community, that was all.
+					</div>
+					<div class="uAuthor">
+						"A Son of the Middle Border" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						By persistent thinking you can undo any condition which exists.
+					</div>
+					<div class="uAuthor">
+						"The Heart of the New Thought" by <span>Ella Wheeler Wilcox</span>					</div>
+										<div class="usage">
+						Still that is hardly enough in itself to account for the persistence of supernaturalism.
+					</div>
+					<div class="uAuthor">
+						"Religion &amp; Sex" by <span>Chapman Cohen</span>					</div>
+										<div class="usage">
+						So long as spasmodic colic is unrelieved, retention of water from spasm of the neck of the bladder usually persists.
+					</div>
+					<div class="uAuthor">
+						"Special Report on Diseases of Cattle" by <span>U.S. Department of Agriculture</span>					</div>
+										<div class="usage">
+						Then he wondered why such foolish conceits at such times persist in shouldering death itself out of a man's thoughts.
+					</div>
+					<div class="uAuthor">
+						"The Missourian" by <span>Eugene P. (Eugene Percy) Lyle</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							All night the sound had<br>
+come back again,<br>
+and again falls<br>
+this quite, persistent rain.
+							<div class="poet">"The Rain" by <span>Robert Creeley</span></div>
+						</div>
+											<div class="poemQuote">
+							I held my words because there grew<br>
+About my life persistent pride;<br>
+And you were loved, who never knew<br>
+What love could hide!
+							<div class="poet">"At Dusk" by <span>Henry Kendall</span></div>
+						</div>
+											<div class="poemQuote">
+							And then he sings; the little room<br>
+Is full of his persistent glee;<br>
+I almost fancy that the gloom<br>
+Trembles, so loud of voice is he.
+							<div class="poet">"The Cricket's Song" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							The lesser favourites of the place<br>
+At dinner keep their distance;<br>
+But by my chair one grizzled face<br>
+Begs on with brave persistence.
+							<div class="poet">"Rover" by <span>Henry Kendall</span></div>
+						</div>
+											<div class="poemQuote">
+							Ah! why for ever on the wing<br>
+Persists my wearied soul to roam?<br>
+Why, ever cheated, strives to bring<br>
+Or pleasure or contentment home?
+							<div class="poet">"Ode to Indolence" by <span>William Shenstone</span></div>
+						</div>
+											<div class="poemQuote">
+							You who can not wear yourselves out<br>
+By persisting to successes,<br>
+You who can only speak,<br>
+Who can not steel yourselves into reiteration;
+							<div class="poet">"The Rest" by <span>Ezra Pound</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Why Engineering, Science Gender Gap Persists.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/newshour/rundown/2012/04/science-engineering-and-the-gender-gap.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Stay alert and be persistent in your prayers for all believers everywhere.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.praise1065.com/DailyVerse/Story.aspx?ID=1762268" target="_blank" rel="external nofollow">praise1065.com</a>
+					</div>
+										<div class="usage">
+						Steve Whysall explains the organic way to eradicate it as well as eco-friendly strategies for dealing with other persistent weed problems.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/life/in-the-garden/Video+eradicate+morning+glory+other+weeds/3199505/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						But polio persisted, eating up billions of dollars.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052702303348504575184093239615022.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Gray squirrels are persistent and clever members of the rodent family.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gasparillagazette.com/page/content.detail/id/506854/The-ever-so-clever-gray-squirrel-entertains--annoys.html?nav=5047" target="_blank" rel="external nofollow">gasparillagazette.com</a>
+					</div>
+										<div class="usage">
+						1.1 This guide is designed to demonstrate the compatibility of topical antimicrobial products and the ability to maintain persistent activity exhibited by products used in health care setting.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.astm.org/DATABASE.CART/WORKITEMS/WK36911.htm" target="_blank" rel="external nofollow">astm.org</a>
+					</div>
+										<div class="usage">
+						Fall-like weather to persist all week.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.annistonstar.com/pages/full_story/push?article-Our+rights+are+fading+away%20&amp;id=20182506" target="_blank" rel="external nofollow">annistonstar.com</a>
+					</div>
+										<div class="usage">
+						Forest fires persist in ignoring calendar.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.durangoherald.com/article/20121102/NEWS01/121109904/0/taxonomy/Forest-fires-persist-in-ignoring-calendar" target="_blank" rel="external nofollow">durangoherald.com</a>
+					</div>
+										<div class="usage">
+						Power Outages Persist In Town, But Farmington Plans To Reopen Schools.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.courant.com/community/farmington/hc-farmington-storm-prep-20121025,0,6573244.story" target="_blank" rel="external nofollow">courant.com</a>
+					</div>
+										<div class="usage">
+						OPEC trimmed its forecast for world oil demand growth in 2013 due to a slowing global economy and said it expected a trend for ample supply to persist, reinforcing its message that producers are doing enough to tackle high prices.
+					</div>
+					<div class="uAuthor">
+						<a href="http://whbl.com/news/articles/2012/oct/10/opec-says-ample-oil-supply-to-persist-in-2013/" target="_blank" rel="external nofollow">whbl.com</a>
+					</div>
+										<div class="usage">
+						Psychiatric Disorders Often Persist in Juvenile Offenders.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/health-news/news/articles/2012/10/01/psychiatric-disorders-often-persist-in-juvenile-offenders" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						Pirates 2, Reds 1: Reds' scoring struggles persist in loss to Pirates.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dispatch.com/content/stories/sports/2012/09/30/reds-scoring-struggles-persist-in-loss-to-pirates.html" target="_blank" rel="external nofollow">dispatch.com</a>
+					</div>
+										<div class="usage">
+						Fewer Philly schools ' persistently dangerous'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/news/20120906_Fewer_Philly_schools__persistently_dangerous_.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						THE NUMBER of " persistently dangerous" schools in the Philadelphia School District has dropped for the second year in a row, according to statistics released Wednesday by the state Department of Education.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/news/20120906_Fewer_Philly_schools__persistently_dangerous_.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						 Persistently in the Personal Ensign Invitational.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bloodhorse.com/horse-racing/articles/58641/beldame-next-on-agenda-for-persistently" target="_blank" rel="external nofollow">bloodhorse.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Li, Persistent homoclinic orbits for nonlinear Schr¨odinger equation under singular perturbation, Submitted (2001). T. 
+					</div>
+					<div class="uAuthor">
+						Melnikov Analysis for Singularly Perturbed DSII Equation
+					</div>
+										<div class="usage">
+						Li et al., Persistent homoclinic orbits for a perturbed nonlinear Schr¨odinger equation, Comm. 
+					</div>
+					<div class="uAuthor">
+						Melnikov Analysis for Singularly Perturbed DSII Equation
+					</div>
+										<div class="usage">
+						We have thereby clariﬁed the relation between gap anisotropy and persistence of the oscillation. 
+					</div>
+					<div class="uAuthor">
+						Theory of de Haas-van Alphen Effect in Type-II Superconductors
+					</div>
+										<div class="usage">
+						The relationship between these clusters, deﬁned from persistent density ﬂuctuations and the self-bound clusters is not yet understood. 
+					</div>
+					<div class="uAuthor">
+						Clusters in Simple Fluids
+					</div>
+										<div class="usage">
+						One can add mass as a perturbation to the exact solution and the CTC persist. 
+					</div>
+					<div class="uAuthor">
+						Closed timelike curves in general relativity
+					</div>
+										<div class="usage">
+						This property raises the question whether an initial bias persists along the entire walk, and affects the distribution of the end points. 
+					</div>
+					<div class="uAuthor">
+						The persistence length of two dimensional self avoiding random walks
+					</div>
+										<div class="usage">
+						This problem was ﬁrst considered by Grassberger , who investigated the dependence of the persistence length on the number of steps of two-dimensional SAWs. 
+					</div>
+					<div class="uAuthor">
+						The persistence length of two dimensional self avoiding random walks
+					</div>
+										<div class="usage">
+						The persistence length of an SAW (cid:1)xn (cid:2), is deﬁned as the average displacement of the end point, of an n-step walk, along the direction of the ﬁrst step. 
+					</div>
+					<div class="uAuthor">
+						The persistence length of two dimensional self avoiding random walks
+					</div>
+										<div class="usage">
+						Later scanning MC studies [3–5] found that the persistence length data could be ﬁtted equally well by a power law and by a logarithmic function. 
+					</div>
+					<div class="uAuthor">
+						The persistence length of two dimensional self avoiding random walks
+					</div>
+										<div class="usage">
+						In this letter we revisit this problem, and show that the persistence length of a twodimensional SAW does not diverge, neither as a power law nor logarithmically, but rather converges to a constant. 
+					</div>
+					<div class="uAuthor">
+						The persistence length of two dimensional self avoiding random walks
+					</div>
+										<div class="usage">
+						Finally, we note that the persistence length of a two-dimensional random walk which starts at the origin and has an excluded site (trap) at (−1, 0), diverges logarithmically in n . 
+					</div>
+					<div class="uAuthor">
+						The persistence length of two dimensional self avoiding random walks
+					</div>
+										<div class="usage">
+						It seems that this problem is analogous to the persistency problem for SAW, and one would expect a similar divergence of the persistence length. 
+					</div>
+					<div class="uAuthor">
+						The persistence length of two dimensional self avoiding random walks
+					</div>
+										<div class="usage">
+						As a result the bias at the origin affects a smaller fraction of the walks, and it does not reﬂect itself in a divergence of the persistence length. 
+					</div>
+					<div class="uAuthor">
+						The persistence length of two dimensional self avoiding random walks
+					</div>
+										<div class="usage">
+						No resolution has become available and problems with quantum normal ordering persist. 
+					</div>
+					<div class="uAuthor">
+						Spinors in Quantum Geometrical Theory
+					</div>
+										<div class="usage">
+						An observer who sees a negative energy density of magnitude |ρm | will not see it persist for a time longer than about |ρm |−1/4 . 
+					</div>
+					<div class="uAuthor">
+						The Classical Singularity Theorems and their Quantum Loopholes
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the act of persisting or persevering; continuing or repeating behavior"><a href="perseveration.html">perseveration</a>, </div><div class="synGroup" title="persistent determination"><a href="persistency.html">persistency</a>, <a href="tenacity.html">tenacity</a>, <a href="tenaciousness.html">tenaciousness</a>, <a href="pertinacity.html">pertinacity</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="continuance.html">continuance</a>, <a href="continuation.html">continuation</a>, <a href="determination.html">determination</a>, <a href="durability.html">durability</a>, <a href="enduringness.html">enduringness</a>, <a href="lastingness.html">lastingness</a>, <a href="purpose.html">purpose</a>, <a href="strength.html">strength</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="continuous.html">continuous</a>, <a href="dogged.html">dogged</a>, <a href="persevere.html">persevere</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Accidental%20color.html">Accidental color</a>, <a href="Anorthoscope.html">Anorthoscope</a>, <a href="assiduity.html">assiduity</a>, <a href="assiduously.html">assiduously</a>, <a href="Casehardened.html">Casehardened</a>, <a href="Chromatrope.html">Chromatrope</a>, <a href="conservation.html">conservation</a>, <a href="consistence.html">consistence</a>, <a href="Continuer.html">Continuer</a>, <a href="Cycloscope.html">Cycloscope</a>, <a href="diakinesis.html">diakinesis</a>, <a href="doggedness.html">doggedness</a>, <a href="endurance.html">endurance</a>, <a href="energy.html">energy</a>, <a href="Enorthotrope.html">Enorthotrope</a>, <a href="Importuner.html">Importuner</a>, <a href="infantilism.html">infantilism</a>, <a href="insatiably.html">insatiably</a>, <a href="insist.html">insist</a>, <a href="insistence.html">insistence</a>, <a href="Insisture.html">Insisture</a>, <a href="intensive.html">intensive</a>, <a href="invariance.html">invariance</a>, <a href="Inveteracy.html">Inveteracy</a>, <a href="Kaleidophone.html">Kaleidophone</a>, <a href="Kinetoscope.html">Kinetoscope</a>, <a href="Menobranchus.html">Menobranchus</a>, <a href="Menopoma.html">Menopoma</a>, <a href="Metopism.html">Metopism</a>, <a href="obduracy.html">obduracy</a>, <a href="on.html">on</a>, <a href="onset.html">onset</a>, <a href="Outgaze.html">Outgaze</a>, <a href="outwear.html">outwear</a>, <a href="Peninsularity.html">Peninsularity</a>, <a href="perseverance.html">perseverance</a>, <a href="persistency.html">persistency</a>, <a href="persistently.html">persistently</a>, <a href="Phenakistoscope.html">Phenakistoscope</a>, <a href="ply.html">ply</a>, <a href="Primordialism.html">Primordialism</a>, <a href="push.html">push</a>, <a href="Stereotypy.html">Stereotypy</a>, <a href="stiff.html">stiff</a>, <a href="stubborn.html">stubborn</a>, <a href="stubbornness.html">stubbornness</a>, <a href="Subjective%20color.html">Subjective color</a>, <a href="tease.html">tease</a>, <a href="Thaumatrope.html">Thaumatrope</a>, <a href="To%20harp%20on%20one%20string.html">To harp on one string</a>, <a href="unsatiably.html">unsatiably</a>, <a href="Veliger.html">Veliger</a>, <a href="weary.html">weary</a>, <a href="will.html">will</a>, <a href="Zoetrope.html">Zoetrope</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oersistence, lersistence, pwrsistence, psrsistence, pdrsistence, prrsistence, peesistence, pedsistence, pefsistence, petsistence, peraistence, perwistence, perdistence, perxistence, perzistence, peraistence, persustence, persjstence, perskstence, persostence, persiatence, persiwtence, persidtence, persixtence, persiztence, persiatence, persisrence, persisfence, persisgence, persisyence, persistwnce, persistsnce, persistdnce, persistrnce, persistebce, persistehce, persistejce, persistemce, persistenxe, persistende, persistenfe, persistenve, persistencw, persistencs, persistencd, persistencr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

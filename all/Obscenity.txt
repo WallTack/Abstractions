@@ -1,0 +1,447 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>obscenity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">obscenity</span> <span class="exp">an obscene act</span> </li><li><span class="tSpeech">n</span> <span class="term">obscenity</span> <span class="exp">the trait of behaving in an obscene manner</span> </li><li><span class="tSpeech">n</span> <span class="term">obscenity</span> <span class="exp">an offensive or indecent word or phrase</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Obscenity</span> <span class="exp">That quality in words or things which presents what is offensive to chastity or purity of mind; obscene or impure lanquage or acts; moral impurity; lewdness; obsceneness; as, the <span class="wUex">obscenity</span> of a speech, or a picture.</span> <span class="wuQuot">"Mr. Cowley asserts plainly, that obscenity has no place in wit."</span><span class="wuQuot">"No pardon vile obscenity should find."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">obscenity</span> <span class="exp">The state or character of being obscene; impurity or indecency in action, expression, or representation: licentiousness; lewdness.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Obscenity</span> <span class="exp">quality of being obscene: lewdness</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Georg C. Lichtenberg</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Georg%20C.%20Lichtenberg.jpg" alt="Georg%20C.%20Lichtenberg">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Many things about our bodies would not seem to us so filthy and obscene if we did not have the idea of nobility in our heads.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Bresson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert Bresson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In the NUDE, all that is not beautiful is obscene.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">D. H. Lawrence</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/D.%20H.%20Lawrence.jpg" alt="D.%20H.%20Lawrence">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Since obscenity is the truth of our passion today, it is the only stuff of art -- or almost the only stuff.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Miller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Miller.jpg" alt="Henry%20Miller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Obscenity is a cleansing process, whereas pornography only adds to the murk.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bertrand Russell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Bertrand%20Russell.jpg" alt="Bertrand%20Russell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Obscenity is whatever happens to shock some elderly and ignorant magistrate.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Anais Nin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Anais%20Nin.jpg" alt="Anais%20Nin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The violence and obscenity are left unadulterated, as manifestation of the mystery and pain which ever accompanies the act of creation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">obscentias</span>,: cf. F. <span class="wUets">obscénité</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>obscenus</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Now, I have an excellent vocabulary of slang, obscenity, and profanity; and you are going to hear most of it.
+					</div>
+					<div class="uAuthor">
+						"The Plastic Age" by <span>Percy Marks</span>					</div>
+										<div class="usage">
+						They are full of oaths and obscene songs.
+					</div>
+					<div class="uAuthor">
+						"Life of Lord Byron, Vol. II" by <span>Thomas Moore</span>					</div>
+										<div class="usage">
+						Over-crowding, disease, riot, and obscenity united to render these places very Pandemoniums.
+					</div>
+					<div class="uAuthor">
+						"Elizabeth Fry" by <span>Mrs. E. R. Pitman</span>					</div>
+										<div class="usage">
+						The lights flashed up, and "Spot" darted off on some catchy doggerel of an almost talented obscenity.
+					</div>
+					<div class="uAuthor">
+						"Adventures of a Despatch Rider" by <span>W. H. L. Watson</span>					</div>
+										<div class="usage">
+						Their highest idea of humour was an obscene story.
+					</div>
+					<div class="uAuthor">
+						"Oscar Wilde, Volume 1 (of 2)" by <span>Frank Harris</span>					</div>
+										<div class="usage">
+						Obscene = malbonmora, malcxasta.
+					</div>
+					<div class="uAuthor">
+						"English-Esperanto Dictionary" by <span>John Charles O'Connor and Charles Frederic Hayes</span>					</div>
+										<div class="usage">
+						A satyr on the mantelpiece whispered obscene secrets into the ears of Saint Cecilia.
+					</div>
+					<div class="uAuthor">
+						"The House of the Vampire" by <span>George Sylvester Viereck</span>					</div>
+										<div class="usage">
+						The cursings and obscenities that taint the air and brutalize life elsewhere, were in this quaint old settlement unknown.
+					</div>
+					<div class="uAuthor">
+						"The Romantic Settlement of Lord Selkirk's Colonists" by <span>George Bryce</span>					</div>
+										<div class="usage">
+						He is obscene, to be sure.
+					</div>
+					<div class="uAuthor">
+						"Adventures in Criticism" by <span>Sir Arthur Thomas Quiller-Couch</span>					</div>
+										<div class="usage">
+						Their habits were obscene and nocturnal.
+					</div>
+					<div class="uAuthor">
+						"Romance" by <span>Joseph Conrad and F.M. Hueffer</span>					</div>
+										<div class="usage">
+						Then he burst into a roar of obscene blasphemy.
+					</div>
+					<div class="uAuthor">
+						"Murder in the Gunroom" by <span>Henry Beam Piper</span>					</div>
+										<div class="usage">
+						Baael's stone obscene: Human sacrifices were offered on the altars of Baael.
+					</div>
+					<div class="uAuthor">
+						"The Vision of Sir Launfal" by <span>James Russell Lowell</span>					</div>
+										<div class="usage">
+						The conversation was decidedly light; often, indeed, obscene, in spite of the presence of ladies; but always witty.
+					</div>
+					<div class="uAuthor">
+						"The Wits and Beaux of Society" by <span>Grace Wharton and Philip Wharton</span>					</div>
+										<div class="usage">
+						His sincere ethical feeling made him recoil from the obscenity of a Poggio and the immorality of the early Italian humanists.
+					</div>
+					<div class="uAuthor">
+						"Erasmus and the Age of Reformation" by <span>Johan Huizinga</span>					</div>
+										<div class="usage">
+						Obscene exposure of his pouch-marks in a public square.
+					</div>
+					<div class="uAuthor">
+						"Letter of the Law" by <span>Alan Edward Nourse</span>					</div>
+										<div class="usage">
+						It was positively obscene!
+					</div>
+					<div class="uAuthor">
+						"The Alembic Plot" by <span>Ann Wilson</span>					</div>
+										<div class="usage">
+						There are those who would consider the electronic imitation of Talent an obscenity, and they have much influence.
+					</div>
+					<div class="uAuthor">
+						"A Matter of Honor" by <span>Ann Wilson</span>					</div>
+										<div class="usage">
+						A drunkard will howl you an obscene chorus the moment after he has wept about his dead child.
+					</div>
+					<div class="uAuthor">
+						"The House with the Green Shutters" by <span>George Douglas Brown</span>					</div>
+										<div class="usage">
+						Mr. Mortensen has also been very diligent against dealers in obscene pictures and postcards.
+					</div>
+					<div class="uAuthor">
+						"Fighting the Traffic in Young Girls" by <span>Various</span>					</div>
+										<div class="usage">
+						In Whitechapel the Fiend Alcohol is a dishevelled fury shrieking obscenities.
+					</div>
+					<div class="uAuthor">
+						"The Drunkard" by <span>Cyril Arthur Edward Ranger Gull</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							What I took in my hand<br>
+grew in weight. You must<br>
+understand it<br>
+was not obscene.
+							<div class="poet">"Song" by <span>Robert Creeley</span></div>
+						</div>
+											<div class="poemQuote">
+							I behold you stand<br>
+For a second enspasmed in oblivion,<br>
+Obscenely ecstasied<br>
+Sucking live blood<br>
+My blood.
+							<div class="poet">"The Mosquito" by <span>D H Lawrence</span></div>
+						</div>
+											<div class="poemQuote">
+							What adders came to shed their coats?<br>
+What coiled obscene<br>
+Small serpents with soft stretching throats<br>
+Caressed Faustine?
+							<div class="poet">"Faustine" by <span>Algernon Charles Swinburne</span></div>
+						</div>
+											<div class="poemQuote">
+							Where the shrines of foul idols were lighted on high,<br>
+And wantonness tempted the lust of the eye;<br>
+Midst rites of obsceneness, strange, loathsome, abhorred,<br>
+The blasphemer scoffed at the name of the Lord.
+							<div class="poet">"The Cities Of The Plain" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							So have I known those Insects fair<br>
+(Which curious Germans hold so rare)<br>
+Still vary shapes and dyes;<br>
+Still gain new Titles with new forms;<br>
+First grubs obscene, then wriggling worms,<br>
+Then painted butterflies.
+							<div class="poet">"Phyrne" by <span>Alexander Pope</span></div>
+						</div>
+											<div class="poemQuote">
+							HE had said, "Thank God for my body obscene,<br>
+For the lust that oppresses life, choking me;<br>
+Hereby shall I prove my faith serene,<br>
+Hereby shall my flesh's mortality,<br>
+Dire flame of passion, foul, unclean.<br>
+To my holy faith yield subsidy."
+							<div class="poet">"The Apostate" by <span>E J Rupert Atkinson</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						When cops arrested him, he barraged them with obscenities, tried to escape custody, and spewed bizarre anti-Semitic remarks.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/news/national/mel_anti_jew_spew_dwi_wiped_off_ZUGpyqgUDk4vk93yoalnFM" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						John Edwards Meets Second Life 'Feces Spewing Obscenity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.wired.com/tableofmalcontents/2007/03/john_edwards_me.html" target="_blank" rel="external nofollow">blog.wired.com</a>
+					</div>
+										<div class="usage">
+						An obscene amount of spending.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newsandsentinel.com/page/content.comment/id/567364/An-obscene-amount-of-spending.html?nav=5055&amp;sortTypeOrder=2" target="_blank" rel="external nofollow">newsandsentinel.com</a>
+					</div>
+										<div class="usage">
+						Bare-Breasted Statue Remains, Jury Refuses Obscenity Finding.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kcur.org/term/overland-park-arboretum-and-botanical-gardens-0" target="_blank" rel="external nofollow">kcur.org</a>
+					</div>
+										<div class="usage">
+						Obscene gesture photo at Arlington Cemetery stirs anger.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.democratandchronicle.com/usatoday/article/1718971?odyssey=mod%7Cnewswell%7Ctext%7CLocal%20News%7Cs" target="_blank" rel="external nofollow">democratandchronicle.com</a>
+					</div>
+										<div class="usage">
+						There's concern in a Pulaski County neighborhood over a man, some say, is asking children to do obscene things.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wkyt.com/home/headlines/Parents-told-to-be-on-alert-for-making-obscene-request-of--173311751.html?site=full" target="_blank" rel="external nofollow">wkyt.com</a>
+					</div>
+										<div class="usage">
+						Talk about the automotive world, but skip the political rhetoric, hate speech, and obscenities.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.autoweek.com/article/20121213/detroit/121219952" target="_blank" rel="external nofollow">autoweek.com</a>
+					</div>
+										<div class="usage">
+						The obscenity of the shootout.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.socceramerica.com/article/27152/the-obscenity-of-the-shootout.html" target="_blank" rel="external nofollow">socceramerica.com</a>
+					</div>
+										<div class="usage">
+						 Obscenity and free speech.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/opinion/la-op-dustup-2008-jun30-jul3,0,4673895.storygallery" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						A video of Wyoming Cowboys football coach Dave Christensen delivering an obscenity-laden outburst to Air Force coach Troy Calhoun last week has been released on YouTube.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kgab.com/christensens-outburst-on-video-strong-language/" target="_blank" rel="external nofollow">kgab.com</a>
+					</div>
+										<div class="usage">
+						Obscenely large burgers you would only finish on a dare.
+					</div>
+					<div class="uAuthor">
+						<a href="http://seattlemag.com/article/dining/7-over-top-big-burgers" target="_blank" rel="external nofollow">seattlemag.com</a>
+					</div>
+										<div class="usage">
+						FCC fines for indecency and obscenity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/magazine/archive/2004/05/air-pollution/302950/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						As the industry braces for new prosecutions, here's a look at an obscenity prosecution in l.a. Current and past supreme court cases, the notorious "cambria list," and prosecutors' strategies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wgbh/pages/frontline/shows/porn/" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						That rap is loud, aggressive, and often obscene is the least of it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commentarymagazine.com/article/rap-and-racism" target="_blank" rel="external nofollow">commentarymagazine.com</a>
+					</div>
+										<div class="usage">
+						 Ref fined for obscenities heard through microphone during Colts, Dolphins game.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theindychannel.com/sports/colts/ref-fined-for-obscenities-heard-through-microphone-during-colts-dolphins-game" target="_blank" rel="external nofollow">theindychannel.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the trait of behaving in an obscene manner"><a href="lewdness.html">lewdness</a>, <a href="bawdiness.html">bawdiness</a>, <a href="salaciousness.html">salaciousness</a>, <a href="salacity.html">salacity</a>, </div><div class="synGroup" title="an offensive or indecent word or phrase"><a href="smut.html">smut</a>, <a href="vulgarism.html">vulgarism</a>, <a href="filth.html">filth</a>, <a href="dirty%20word.html">dirty word</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="impropriety.html">impropriety</a>, <a href="indecency.html">indecency</a>, <a href="profanity.html">profanity</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bawdry.html">bawdry</a>, <a href="bawdy.html">bawdy</a>, <a href="dirtiness.html">dirtiness</a>, <a href="scatology.html">scatology</a>, <a href="smuttiness.html">smuttiness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="obscene.html">obscene</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="bawdiness.html">bawdiness</a>, <a href="bawdry.html">bawdry</a>, <a href="Brothelry.html">Brothelry</a>, <a href="chaste.html">chaste</a>, <a href="chastity.html">chastity</a>, <a href="Comstockery.html">Comstockery</a>, <a href="cruddy.html">cruddy</a>, <a href="decency.html">decency</a>, <a href="decent.html">decent</a>, <a href="dirtiness.html">dirtiness</a>, <a href="dirty.html">dirty</a>, <a href="filth.html">filth</a>, <a href="filthy.html">filthy</a>, <a href="foul.html">foul</a>, <a href="fulsome.html">fulsome</a>, <a href="indecency.html">indecency</a>, <a href="nastiness.html">nastiness</a>, <a href="nasty.html">nasty</a>, <a href="Nonny.html">Nonny</a>, <a href="Obsceneness.html">Obsceneness</a>, <a href="ribaldry.html">ribaldry</a>, <a href="scatology.html">scatology</a>, <a href="Sculduddery.html">Sculduddery</a>, <a href="smut.html">smut</a>, <a href="smuttiness.html">smuttiness</a>, <a href="smutty.html">smutty</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					ibscenity, kbscenity, lbscenity, pbscenity, ovscenity, ogscenity, ohscenity, onscenity, obacenity, obwcenity, obdcenity, obxcenity, obzcenity, obacenity, obsxenity, obsdenity, obsfenity, obsvenity, obscwnity, obscsnity, obscdnity, obscrnity, obscebity, obscehity, obscejity, obscemity, obscenuty, obscenjty, obscenkty, obscenoty, obsceniry, obscenify, obscenigy, obsceniyy, obscenitt, obscenitg, obscenith, obscenitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

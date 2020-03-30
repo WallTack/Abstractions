@@ -1,0 +1,526 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>bias</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">adj</span> <span class="term">bias</span> <span class="exp">slanting diagonally across the grain of a fabric</span> <span class="quot">"a bias fold"</span></li><li><span class="tSpeech">v</span> <span class="term">bias</span> <span class="exp">cause to be biased</span> </li><li><span class="tSpeech">v</span> <span class="term">bias</span> <span class="exp">influence in an unfair way</span> <span class="quot">"you are biasing my choice by telling me yours"</span></li><li><span class="tSpeech">n</span> <span class="term">bias</span> <span class="exp">a partiality that prevents objective consideration of an issue or situation</span> </li><li><span class="tSpeech">n</span> <span class="term">bias</span> <span class="exp">a line or cut across a fabric that is not at right angles to a side of the fabric</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Bias</span> <span class="exp">A leaning of the mind; propensity or prepossession toward an object or view, not leaving the mind indifferent; bent; inclination.</span> <span class="wuQuot">"Strong love is a bias upon the thoughts."</span><span class="wuQuot">"Morality influences men's lives, and gives a bias to all their actions."</span></li><li><span class="term">Bias</span> <span class="exp">A slant; a diagonal; as, to cut cloth on the <span class="wUex">bias</span>
+            .</span> </li><li><span class="term">Bias</span> <span class="exp">A wedge-shaped piece of cloth taken out of a garment (as the waist of a dress) to diminish its circumference.</span> </li><li><span class="term">Bias</span> <span class="exp">A weight on the side of the ball used in the game of bowls, or a tendency imparted to the ball, which turns it from a straight line.</span> <span class="wuQuot">"Being ignorant that there is a concealed bias within the spheroid, which will . . . swerve away."</span></li><li><span class="term">Bias</span> <span class="exp">Cut slanting or diagonally, as cloth.</span> </li><li><span class="tSpeech">adv</span> <span class="term">Bias</span> <span class="exp">In a slanting manner; crosswise; obliquely; diagonally; as, to cut cloth <span class="wUex">bias</span>
+         .</span> </li><li><span class="term">Bias</span> <span class="exp">Inclined to one side; swelled on one side.</span> </li><li><span class="tSpeech">v. t</span> <span class="term">Bias</span> <span class="exp">To incline to one side; to give a particular direction to; to influence; to prejudice; to prepossess.</span> <span class="wuQuot">"Me it had not biased in the one direction, nor should it have biased any just critic in the counter direction."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">bias</span> <span class="exp">An oblique or diagonal line; especially, a cut which is oblique to the texture of a fabric; hence, in dressmaking, a seam formed by bringing together two pieces thus cut; specifically, one of the front seams of a close-fitting waist: sometimes called a dart.</span> </li><li><span class="tSpeech">n</span> <span class="term">bias</span> <span class="exp">In bowling, a bulge or greater weight on one side of a bowl; a difference in the shape and weight of the two sides or poles of a bowl, causing it to curve in its course toward the lighter and less bulged side; hence, the curved course of such a bowl.</span> </li><li><span class="tSpeech">n</span> <span class="term">bias</span> <span class="exp">A one-sided tendency of the mind; undue propensity toward an object; a particular leaning or inclination; bent; specifically, in law, prejudice, as of a witness: used most frequently to denote prejudice and habits of thought which prevent the fair or dispassionate consideration of any subject or question.</span> </li><li><span class="tSpeech">n</span> <span class="term">bias</span> <span class="exp">Synonyms Propensity, Inclination, etc. (see bent), prepossession, predisposition, predilection, partiality.</span> </li><li><span class="term">bias</span> <span class="exp">Oblique; slanting; diagonal to the outline or to the texture: now used only or chiefly of fabrics or dress: as, a bias line (in former use) in a drawing; a bias piece in a garment.</span> </li><li><span class="term">bias</span> <span class="exp">Loaded or swelled on one side, like a biased bowl.</span> </li><li><span class="term">bias</span> <span class="exp">In a slanting manner; obliquely.</span> </li><li><span class="term">bias</span> <span class="exp">To give a bias to, as a bowl; furnish with a bias. See bias, n., 2.</span> </li><li><span class="term">bias</span> <span class="exp">To incline to one side; give a particular direction to the mind of; prejudice; warp: prepossess: as, the judgment is often biased by interest.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Bias</span> <span class="exp"><span class="itl">bī′as</span> a bulge or greater weight on one side of a bowl (in the game of bowling), making it slope or turn to one side: a slant or leaning to one side: a one-sided inclination of the mind, prejudice: any special influence that sways the mind</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Bias</span> <span class="exp">to cause to turn to one side: to prejudice or prepossess:—<span class="itl">pa.p.</span> bī′ased or bī′assed</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Richard Thalheimer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Richard Thalheimer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Have a bias toward action -- let's see something happen now. You can break that big plan into small steps and take the first step right away.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas J. Peters</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20J.%20Peters.jpg" alt="Thomas%20J.%20Peters">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Good managers have a bias for action.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Barnett</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Lord Barnett">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Bias and impartiality is in the eye of the beholder.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">S. G. Tallentyre</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="S. G. Tallentyre">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The crowning blessing of life is to be born with a bias to some pursuit.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To know the true reality of yourself, you must be aware not only of your conscious thoughts, but also of your unconscious prejudices, bias and habits.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">biasis</span>, perh. fr. LL. <span class="wUets">bifax</span>, two-faced; L. <span class="wUets">bis</span>, + <span class="wUets">facies</span>, face. See <span class="wUer">Bi-</span>, and cf. <span class="wUer">Face</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						As time went on the bias of the court against the accused waxed rather than waned.
+					</div>
+					<div class="uAuthor">
+						"Fray Luis de León" by <span>James Fitzmaurice-Kelly</span>					</div>
+										<div class="usage">
+						The Codex has also been accused of theological bias; for in John i.
+					</div>
+					<div class="uAuthor">
+						"Roman Mosaics" by <span>Hugh Macmillan</span>					</div>
+										<div class="usage">
+						It is not Catholics only who might be thought biased upon such a point, but others also who feel this.
+					</div>
+					<div class="uAuthor">
+						"The Purpose of the Papacy" by <span>John S. Vaughan</span>					</div>
+										<div class="usage">
+						More than half is left to nature, but his scarce perceptible touches bias nature.
+					</div>
+					<div class="uAuthor">
+						"Idolatry" by <span>Julian Hawthorne</span>					</div>
+										<div class="usage">
+						This would at once give a large bias favourable to their party views in every election for members to serve in the Assembly.
+					</div>
+					<div class="uAuthor">
+						"Blackwood's Edinburgh Magazine -- Volume 55, No. 340, February, 1844" by <span>Various</span>					</div>
+										<div class="usage">
+						Bias counts for more in self-examination than in an examination of others.
+					</div>
+					<div class="uAuthor">
+						"The Ascent of the Soul" by <span>Amory H. Bradford</span>					</div>
+										<div class="usage">
+						The accounts which we have of many other trials are so brief and so biased that it is not fair for us to hazard a judgment.
+					</div>
+					<div class="uAuthor">
+						"The Women of the Caesars" by <span>Guglielmo Ferrero</span>					</div>
+										<div class="usage">
+						They were merely confirmatory of the already existing bias which Marathon had created.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Vol. 1" by <span>Various</span>					</div>
+										<div class="usage">
+						Well, 'Bias Smith, who lives over to West Eastborough, he is the best talker we've got in town meetin'.
+					</div>
+					<div class="uAuthor">
+						"Quincy Adams Sawyer and Mason's Corner Folks" by <span>Charles Felton Pidgin</span>					</div>
+										<div class="usage">
+						Theoretically it gives only the plainest facts, uncolored by any bias.
+					</div>
+					<div class="uAuthor">
+						"The Clarion" by <span>Samuel Hopkins Adams</span>					</div>
+										<div class="usage">
+						The author's discipline is seldom without a bias.
+					</div>
+					<div class="uAuthor">
+						"The Works of John Dryden, Vol. 6 (of 18)" by <span>John Dryden</span>					</div>
+										<div class="usage">
+						His genius, when it pursued its bias, found instinctive utterance in elegy and idyl, in meditative rhetoric and pastoral melody.
+					</div>
+					<div class="uAuthor">
+						"Renaissance in Italy, Volumes 1 and 2" by <span>John Addington Symonds</span>					</div>
+										<div class="usage">
+						Soon after daybreak next morning we reached the Bias river.
+					</div>
+					<div class="uAuthor">
+						"Forty-one years in India" by <span>Frederick Sleigh Roberts</span>					</div>
+										<div class="usage">
+						This deception often is designed to make an action seem biased or prejudicial.
+					</div>
+					<div class="uAuthor">
+						"Sequential Problem Solving" by <span>Fredric Lozo</span>					</div>
+										<div class="usage">
+						I have first to say, therefore, that if I have had a bias, it was always a bias in favour of democracy, and therefore of tradition.
+					</div>
+					<div class="uAuthor">
+						"Orthodoxy" by <span>G. K. Chesterton</span>					</div>
+										<div class="usage">
+						The author was well disposed; but could not entirely get the better of his original bias.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						The Latitudinarian party in the English Church had, almost without exception, a slight bias toward Puritan opinions.
+					</div>
+					<div class="uAuthor">
+						"The English Church in the Eighteenth Century" by <span>Charles J. Abbey and John H. Overton</span>					</div>
+										<div class="usage">
+						His judgment of men and measures was as free from local prejudice and partisan bias as any man's I ever met.
+					</div>
+					<div class="uAuthor">
+						"Memorial Addresses on the Life and Character of William H. F. Lee (A Representative from Virginia)" by <span>Various</span>					</div>
+										<div class="usage">
+						Hence bias, if not accurate knowledge, led them to respect all forms of eastern mysticism.
+					</div>
+					<div class="uAuthor">
+						"Hinduism and Buddhism, An Historical Sketch, Vol. 3 (of 3)" by <span>Charles Eliot</span>					</div>
+										<div class="usage">
+						A bias so striking in the immortal Herodotus is hardly shared by your modern encyclopaedist.
+					</div>
+					<div class="uAuthor">
+						"Masques &amp; Phases" by <span>Robert Ross</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Night-dreams trace on Memory's wall<br>
+Shadows of the thoughts of day,<br>
+And thy fortunes, as they fall,<br>
+The bias of the will betray.
+							<div class="poet">"Quatrains" by <span>Ralph Waldo Emerson</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh, listen to the plaintiff's case:<br>
+Observe the features of her face -<br>
+The broken-hearted bride!<br>
+Condole with her distress of mind -<br>
+From bias free of every kind,<br>
+This trial must be tried!
+							<div class="poet">"The Usher's Charge" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							When biased thinking has vanished into space<br>
+No phony facades, eight dharmas, nor hopes and fears,<br>
+A keeper and kept refined until they're gone<br>
+This way of keeping samaya, it works quite well
+							<div class="poet">"The Profound Definitive Meaning" by <span>Jetsun Milarepa</span></div>
+						</div>
+											<div class="poemQuote">
+							USHER And when, amid the plaintiff's shrieks,<br>
+The ruffianly defendant speaks—<br>
+Upon the other side;<br>
+What he may say you needn't mind—-<br>
+From bias free of every kind,<br>
+This trial must be tried!
+							<div class="poet">"Trial" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							USHER Oh, listen to the plaintiff's case:<br>
+Observe the features of her face—<br>
+The broken-hearted bride.<br>
+Condole with her distress of mind:<br>
+From bias free of every kind,<br>
+This trial must be tried!
+							<div class="poet">"Trial" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							Whom nothing can procure,<br>
+When the wide world runnes bias, from his will<br>
+To writhe his limbes, and share, not mend the ill.<br>
+This is the Mark-man, safe and sure,<br>
+Who still is right, and prayes to be so still.
+							<div class="poet">"Constancie" by <span>George Herbert</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A public law school faces trial over accusation of liberal bias.
+					</div>
+					<div class="uAuthor">
+						<a href="http://hawaiitribune-herald.com/sections/news/nation/public-law-school-faces-trial-over-accusation-liberal-bias.html" target="_blank" rel="external nofollow">hawaiitribune-herald.com</a>
+					</div>
+										<div class="usage">
+						Ravi was convicted of bias intimidation last week and was sentenced to 30 days in jail.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Latest-News-Wires/2012/0529/Rutgers-webcam-case-Dharun-Ravi-publically-apologizes" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Conduct a ILS round robin study to update the Precision and Bias statement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.astm.org/DATABASE.CART/WORKITEMS/WK33449.htm" target="_blank" rel="external nofollow">astm.org</a>
+					</div>
+										<div class="usage">
+						Two Nashville men want to sue ABC and the creators of "The Bachelor" for racial bias because they have yet to feature a person of color in the title role in 23 seasons.
+					</div>
+					<div class="uAuthor">
+						<a href="http://k945.com/the-bachelor-faces-racial-discrimination-lawsuit/" target="_blank" rel="external nofollow">k945.com</a>
+					</div>
+										<div class="usage">
+						Bias against African American professionals was found in pay, hiring, promotions, assignments, and other areas.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.insightnews.com/business/3955-new-data-exposes-dramatic-racial-discrimination-in-us-advertising-industry" target="_blank" rel="external nofollow">insightnews.com</a>
+					</div>
+										<div class="usage">
+						Either you are biased or the editor who chose "clambers" is ignorant of its connotation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/Letters-to-the-Editor/2012/10/24/Blade-bias-cuts-into-readership.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<div class="usage">
+						Blade shows a pro-Romney bias.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/Letters-to-the-Editor/2012/10/24/Blade-bias-cuts-into-readership.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<div class="usage">
+						JEFF WEACHTER sounds like a parent sometimes when he talks about LeSean McCoy, biased and proud and hopeful and the rest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/sports/eagles/20090428_Rich_Hofmann__Will_young_running_back_become_real_McCoy_for_Eagles_.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						Last week, I wrote about the trend in political reporters confessing their bias for an exciting, close primary race.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cjr.org/the_kicker/pew_on_gingrichs_receding_stor.php" target="_blank" rel="external nofollow">cjr.org</a>
+					</div>
+										<div class="usage">
+						Conservatives see Crowley's Libya retort as bias.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/election-2012/wp/2012/10/16/conservatives-see-crowleys-libya-retort-as-bias/" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Some conservatives on Twitter saw moderator Candy Crowley's response to Mitt Romney as a sign she was biased in favor of Obama.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/election-2012/wp/2012/10/16/conservatives-see-crowleys-libya-retort-as-bias/" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The Jets' right-side bias is shown mostly in Shonn Greene, who ran to the right 71 times and to the left just 28 times.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052748704009804575308900439309376.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Bias in a measurement system is the difference between the actual measurements taken, and the true value (often called "reference") of what is being measured.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.qualitymag.com/articles/83686-walker-runn-stumbles-on-a-case-of-bias" target="_blank" rel="external nofollow">qualitymag.com</a>
+					</div>
+										<div class="usage">
+						This simple manipulation produced a significant bias.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychologytoday.com/blog/the-hidden-brain/201010/senile-mccain-extremist-obama" target="_blank" rel="external nofollow">psychologytoday.com</a>
+					</div>
+										<div class="usage">
+						Rutgers' urban bias gives Newark campus short shrift .
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.nj.com/njv_guest_blog/2012/01/rutgers_urban_bias_gives_newar.html" target="_blank" rel="external nofollow">blog.nj.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Allowing for a shift in the overall amplitude with a bias factor b where P (k)P SC z = b2P (k), we obtain a best-ﬁtting bias b = 4.5 with a χ2 = 155 which is an extremely poor ﬁt to 22 data points with one free parameter. 
+					</div>
+					<div class="uAuthor">
+						CMB Constraints on a Baryonic Dark Matter-Dominated Universe
+					</div>
+										<div class="usage">
+						On the other hand, according to a result based on the study of a random walk, it is known that the probability of laminar length(L) is proportional to L−3/2 e−L/Ls , where Ls is the length at which the systematic drift due to the bias and the diffusion spread of random variable without bias become comparable [5,7,14]. 
+					</div>
+					<div class="uAuthor">
+						Mechanism of synchronization in a random dynamical system
+					</div>
+										<div class="usage">
+						In the simplest version of exponential biasing, the inter collision distance is sampled from the importance density b exp(−bx), where the biasing parameter b has to be optimized for minimum variance. 
+					</div>
+					<div class="uAuthor">
+						Monte Carlo: Basics
+					</div>
+										<div class="usage">
+						This collection deﬁcit is conjectured to be induced by a parasitic path to the bias grid, introduced to apply reverse bias to all the pixel cells during wafer testing of the devices . 
+					</div>
+					<div class="uAuthor">
+						Performance of prototype BTeV silicon pixel detectors in a high energy pion beam
+					</div>
+										<div class="usage">
+						We see that amplitude estimates are biased when the source locations are estimated, and that the bias is larger for Ψ. 
+					</div>
+					<div class="uAuthor">
+						On Optimal Detection of Point Sources in CMB Maps
+					</div>
+										<div class="usage">
+						In fact, the corresponding left-biased and right-biased forms · ←−&amp; · and · −→&amp; · can be regarded as syntactic sugar deﬁned in terms of strategy extension. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						That is, we attempt to simulate left-biased type-dependent choice by left-biased choice controlled by success and failure. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						Let ( ˜Pj ) be a size-biased permutation of the normalized lengths (Pi ) := (Ji /T ) and let ( ˜Jj ) = (T ˜Pj ) be the corresponding size-biased permutation of the ranked lengths (Ji ). 
+					</div>
+					<div class="uAuthor">
+						Poisson-Kingman partitions
+					</div>
+										<div class="usage">
+						This is a random walk with bias to the right, where the strength of the bias is given by the parameter β . 
+					</div>
+					<div class="uAuthor">
+						The speed of biased random walk on percolation clusters
+					</div>
+										<div class="usage">
+						We now derive a relation between the mean square displacement in the absence of bias, and the mean displacement of the particle in the presence of bias, reﬂecting the ﬂuctuation–dissipation relation valid within linear response theory (see [46, 47, 48, 49] for related work). 
+					</div>
+					<div class="uAuthor">
+						Aging Continuous Time Random Walks
+					</div>
+										<div class="usage">
+						This procedure corresponds to a (biased) random walk of a particle on the line: we can imagine that a biased coin with probabilities of head/tail p↑/p↓ is ﬂipped. 
+					</div>
+					<div class="uAuthor">
+						Quantum random walks - an introductory overview
+					</div>
+										<div class="usage">
+						Many previous attempts to fabricate thick silicon detectors have failed because either the detectors break down when the bias voltage is applied or the bias required causes large dark currents, leading to poor performance. 
+					</div>
+					<div class="uAuthor">
+						Relativistic Astrophysics Explorer
+					</div>
+										<div class="usage">
+						Suppose that attached to each site z ∈ Z is a coin with bias θ(z ), and only ﬁnitely many of these coins have non-zero bias. 
+					</div>
+					<div class="uAuthor">
+						Identifying several biased coins encountered by a hidden random walk
+					</div>
+										<div class="usage">
+						A coin toss with bias θ is a {−1, 1}-valued random variable with expected value θ, and a fair coin is a coin toss with bias zero. 
+					</div>
+					<div class="uAuthor">
+						Identifying several biased coins encountered by a hidden random walk
+					</div>
+										<div class="usage">
+						Suppose that attached to each site z ∈ Z is a coin with bias θ(z), and only ﬁnitely many of these coins have non-zero bias. 
+					</div>
+					<div class="uAuthor">
+						Identifying several biased coins encountered by a hidden random walk
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="cause to be biased"><a href="predetermine.html">predetermine</a>, </div><div class="synGroup" title="a partiality that prevents objective consideration of an issue or situation"><a href="prejudice.html">prejudice</a>, <a href="preconception.html">preconception</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="partiality.html">partiality</a>, <a href="partisanship.html">partisanship</a>, <a href="prejudice.html">prejudice</a>, <a href="prepossess.html">prepossess</a>, <a href="straight%20line.html">straight line</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="islamophobia.html">islamophobia</a>, <a href="angle.html">angle</a>, <a href="experimenter%20bias.html">experimenter bias</a>, <a href="handicap.html">handicap</a>, <a href="homophobia.html">homophobia</a>, <a href="irrational%20hostility.html">irrational hostility</a>, <a href="racism.html">racism</a>, <a href="slant.html">slant</a>, <a href="taboo.html">taboo</a>, <a href="tabu.html">tabu</a>, <a href="tendentiousness.html">tendentiousness</a>, <a href="weight.html">weight</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="diagonal.html">diagonal</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="affection.html">affection</a>, <a href="angle.html">angle</a>, <a href="bent.html">bent</a>, <a href="Biasing.html">Biasing</a>, <a href="bowl.html">bowl</a>, <a href="candid.html">candid</a>, <a href="cant.html">cant</a>, <a href="challenge.html">challenge</a>, <a href="Challenge%20for%20favor.html">Challenge for favor</a>, <a href="Challenge%20to%20the%20favor.html">Challenge to the favor</a>, <a href="Clinamen.html">Clinamen</a>, <a href="color.html">color</a>, <a href="colour.html">colour</a>, <a href="crosscut.html">crosscut</a>, <a href="disinterestedly.html">disinterestedly</a>, <a href="disinterestedness.html">disinterestedness</a>, <a href="dispassionate.html">dispassionate</a>, <a href="distort.html">distort</a>, <a href="double%20blind.html">double blind</a>, <a href="ear.html">ear</a>, <a href="engagement.html">engagement</a>, <a href="evenly.html">evenly</a>, <a href="experimenter%20bias.html">experimenter bias</a>, <a href="fair.html">fair</a>, <a href="fancy.html">fancy</a>, <a href="favor.html">favor</a>, <a href="ghetto.html">ghetto</a>, <a href="glass%20ceiling.html">glass ceiling</a>, <a href="guide.html">guide</a>, <a href="impartial.html">impartial</a>, <a href="impartiality.html">impartiality</a>, <a href="impartially.html">impartially</a>, <a href="Impartialness.html">Impartialness</a>, <a href="independent.html">independent</a>, <a href="indifference.html">indifference</a>, <a href="indifferent.html">indifferent</a>, <a href="influence.html">influence</a>, <a href="just.html">just</a>, <a href="leaning.html">leaning</a>, <a href="LED.html">LED</a>, <a href="light-emitting%20diode.html">light-emitting diode</a>, <a href="merit.html">merit</a>, <a href="nationality.html">nationality</a>, <a href="nonpartisan.html">nonpartisan</a>, <a href="nonpartizan.html">nonpartizan</a>, <a href="nonsubjective.html">nonsubjective</a>, <a href="objective.html">objective</a>, <a href="one-sidedly.html">one-sidedly</a>, <a href="partiality.html">partiality</a>, <a href="partially.html">partially</a>, <a href="penchant.html">penchant</a>, <a href="ply.html">ply</a>, <a href="predispose.html">predispose</a>, <a href="prejudice.html">prejudice</a>, <a href="prepossess.html">prepossess</a>, <a href="prepossession.html">prepossession</a>, <a href="proclivity.html">proclivity</a>, <a href="propensity.html">propensity</a>, <a href="respect.html">respect</a>, <a href="set.html">set</a>, <a href="Seven%20sages.html">Seven sages</a>, <a href="Seven%20wise%20men.html">Seven wise men</a>, <a href="side.html">side</a>, <a href="slant.html">slant</a>, <a href="solicit.html">solicit</a>, <a href="subjective.html">subjective</a>, <a href="sunburst%20pleat.html">sunburst pleat</a>, <a href="sunray%20pleat.html">sunray pleat</a>, <a href="sway.html">sway</a>, <a href="tendentiousness.html">tendentiousness</a>, <a href="To%20have%20respect%20of%20persons.html">To have respect of persons</a>, <a href="twist.html">twist</a>, <a href="Unbias.html">Unbias</a>, <a href="unbiased.html">unbiased</a>, <a href="unbiassed.html">unbiassed</a>, <a href="uninfluenced.html">uninfluenced</a>, <a href="Unpassionate.html">Unpassionate</a>, <a href="unprejudiced.html">unprejudiced</a>, <a href="weight.html">weight</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					vias, gias, hias, nias, buas, bjas, bkas, boas, biqs, biws, biss, bizs, biaa, biaw, biad, biax, biaz, biaa
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

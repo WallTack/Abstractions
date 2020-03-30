@@ -1,0 +1,538 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>contemplation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">contemplation</span> <span class="exp">a long and thoughtful observation</span> </li><li><span class="tSpeech">n</span> <span class="term">contemplation</span> <span class="exp">a calm, lengthy, intent consideration</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Contemplation</span> <span class="exp">Holy meditation.</span> <span class="wuQuot">"To live in prayer and contemplation ."</span></li><li><span class="term">Contemplation</span> <span class="exp">The act of looking forward to an event as about to happen; expectation; the act of intending or purposing.</span> <span class="wuQuot">"In contemplation of returning at an early date, he left."</span></li><li><span class="term">Contemplation</span> <span class="exp">The act of the mind in considering with attention; continued attention of the mind to a particular subject; meditation; musing; study.</span> <span class="wuQuot">"In contemplation of created things,<br>
+By steps we may ascend to God."</span><span class="wuQuot">"Contemplation is keeping the idea which is brought into the mind for some time actually in view."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">contemplation</span> <span class="exp">The act of looking attentively or steadfastly at anything.</span> </li><li><span class="tSpeech">n</span> <span class="term">contemplation</span> <span class="exp">The act of holding an idea continuously before the mind; mental vision; the thinking long of anything in a somewhat passive way.</span> </li><li><span class="tSpeech">n</span> <span class="term">contemplation</span> <span class="exp">Continued or steadfast thinking in general, without reference to a particular object; musing; reverie.</span> </li><li><span class="tSpeech">n</span> <span class="term">contemplation</span> <span class="exp">Religious meditation.</span> </li><li><span class="tSpeech">n</span> <span class="term">contemplation</span> <span class="exp">The act of intending, purposing, or considering, with a view to carrying into effect; expectation with intention.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Contemplation</span> <span class="exp">continued study of a particular subject: a meditation written, or a subject for such</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ambrose Bierce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ambrose%20Bierce.jpg" alt="Ambrose%20Bierce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Happiness is an agreeable sensation, arising from contemplating the misery of others.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joseph Joubert</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Joseph Joubert">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Logic works, metaphysics contemplates.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Kaspar Lavater</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Kaspar%20Lavater.jpg" alt="Johann%20Kaspar%20Lavater">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He is incapable of truly good action who finds not a pleasure in contemplating the good actions of others.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marcelene Cox</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marcelene Cox">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When a man does a household job, he goes through three periods: contemplating how it will be done; contemplating when it will be done; and contemplating.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Simone Weil</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Simone%20Weil.jpg" alt="Simone%20Weil">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Purity is the power to contemplate defilement.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Francis Bacon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Francis%20Bacon.jpg" alt="Francis%20Bacon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A man who contemplates revenge keeps his wounds green.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">contemplation</span>, L. <span class="wUets">contemplatio</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>contemplāri</i>, <i>-ātus</i>, to mark out carefully a <i>templum</i> or place for auguries—<i>con</i>, sig. completeness, and <i>templum</i>. See <b>Consider</b> and <b>Temple</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The more she contemplates them the sadder she becomes.
+					</div>
+					<div class="uAuthor">
+						"An Outcast" by <span>F. Colburn Adams</span>					</div>
+										<div class="usage">
+						Again, the true means of evoking true repentance is the contemplation of the Cross.
+					</div>
+					<div class="uAuthor">
+						"Expositions of Holy Scripture" by <span>Alexander Maclaren</span>					</div>
+										<div class="usage">
+						He stood there, with a hand contemplatively under his chin, as though absorbed by an interest in the scene purely impersonal.
+					</div>
+					<div class="uAuthor">
+						"Tarrano the Conqueror" by <span>Raymond King Cummings</span>					</div>
+										<div class="usage">
+						Samuel Ravenshaw loved to contemplate this view through the medium of smoke.
+					</div>
+					<div class="uAuthor">
+						"The Red Man's Revenge" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						More, it is probable that you are, or have been, an actual contemplative too.
+					</div>
+					<div class="uAuthor">
+						"Practical Mysticism" by <span>Evelyn Underhill</span>					</div>
+										<div class="usage">
+						By the air of indifference that she affects I could wager that she contemplates playing them some trick!
+					</div>
+					<div class="uAuthor">
+						"French and Oriental Love in a Harem" by <span>Mario Uchard</span>					</div>
+										<div class="usage">
+						Those projects contemplated enquiry and reform.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Upper Canada Rebellion, Volume 1" by <span>John Charles Dent</span>					</div>
+										<div class="usage">
+						Roger sat in silent contemplation, now of the fire, now of the stars.
+					</div>
+					<div class="uAuthor">
+						"The Forbidden Trail" by <span>Honoré Willsie</span>					</div>
+										<div class="usage">
+						Lastly, in the contemplative life the contemplation of truth is sought as being man's perfection.
+					</div>
+					<div class="uAuthor">
+						"On Prayer and The Contemplative Life" by <span>St. Thomas Aquinas</span>					</div>
+										<div class="usage">
+						This ordinance contemplated the division of the land north of the thirty-first parallel into fourteen or sixteen States.
+					</div>
+					<div class="uAuthor">
+						"Union and Democracy" by <span>Allen Johnson</span>					</div>
+										<div class="usage">
+						The inquiries instituted at this period were turned to an account more extensive than originally contemplated.
+					</div>
+					<div class="uAuthor">
+						"The Modern Scottish Minstrel, Volumes I-VI." by <span>Various</span>					</div>
+										<div class="usage">
+						Murder is not a particularly pleasant subject for contemplation.
+					</div>
+					<div class="uAuthor">
+						"Paul Patoff" by <span>F. Marion Crawford</span>					</div>
+										<div class="usage">
+						It I have never contemplated, even for an instant, knowing it would not do.
+					</div>
+					<div class="uAuthor">
+						"The Death Shot" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						It was deemed expedient to throw the veil of great secrecy over the enterprise in which he was contemplating to engage.
+					</div>
+					<div class="uAuthor">
+						"Benjamin Franklin, A Picture of the Struggles of Our Infant Nation One Hundred Years Ago" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						But the theory that it might be a hoax grew more and more implausible as he contemplated it.
+					</div>
+					<div class="uAuthor">
+						"The Monk of Hambleton" by <span>Armstrong Livingston</span>					</div>
+										<div class="usage">
+						He even contemplated the chance that she might be dead with normal equanimity.
+					</div>
+					<div class="uAuthor">
+						"The Destroying Angel" by <span>Louis Joseph Vance</span>					</div>
+										<div class="usage">
+						She contemplated the possibility of resistance.
+					</div>
+					<div class="uAuthor">
+						"A Struggle for Rome, Vol. 2 (of 3)" by <span>Felix Dahn</span>					</div>
+										<div class="usage">
+						He leaned upon his elbows at the window contemplating his work, and was happy.
+					</div>
+					<div class="uAuthor">
+						"Toilers of the Sea" by <span>Victor Hugo</span>					</div>
+										<div class="usage">
+						We contemplated this sight in utter astonishment, and gave this island the name of Isla de Sacrificios.
+					</div>
+					<div class="uAuthor">
+						"The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2)" by <span>Bernal Diaz del Castillo</span>					</div>
+										<div class="usage">
+						The hopeful love does no violence to nature such as is contemplated by the hopeless sentiment.
+					</div>
+					<div class="uAuthor">
+						"The Goddess of Atvatabar" by <span>William R. Bradshaw</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							O CONTEMPLATION! when to Memory's eyes<br>
+The visions of the long-past days arise,<br>
+Thy holy power imparts the best relief,<br>
+And the calm'd Spirit loves the joy of grief.
+							<div class="poet">"To Contemplation" by <span>Robert Southey</span></div>
+						</div>
+											<div class="poemQuote">
+							Fit rosary for a queen, in shape and hue,<br>
+When Contemplation tells her pensive beads<br>
+Of mortal thoughts, forever old and new.<br>
+Fit for a queen? Why, surely then for you!
+							<div class="poet">"In A Copy Of Omar Khayyam" by <span>James Russell Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							Or is 't thy wont to muse and mouse at once,<br>
+Entice thy prey with airs of meditation,<br>
+And with the unvarying habits of a dunce,<br>
+To dine in solemn depths of contemplation?
+							<div class="poet">"To a Captive Owl" by <span>Henry Timrod</span></div>
+						</div>
+											<div class="poemQuote">
+							If not quite true, as I have told it you,<br>
+This tale of mutual extermination,<br>
+To minds perplexed with threats of what comes next,<br>
+Perhaps may furnish food for contemplation.
+							<div class="poet">"How To Not Settle It" by <span>Oliver Wendell Holmes</span></div>
+						</div>
+											<div class="poemQuote">
+							My Muse contemplative delights to stray,<br>
+Where the green sod conceals the mould'ring clay:<br>
+In hallow'd shades she glories to recline,<br>
+And pensive bend before thy sable shrine!
+							<div class="poet">"Ode on Death" by <span>Emma Lyon</span></div>
+						</div>
+											<div class="poemQuote">
+							We fain would stand contemplative,<br>
+All innocent as meadow grass;<br>
+In human goodness fain believe,<br>
+Believe a cloud is formed to pass;<br>
+Its shadows chase with draughts of hippocras.
+							<div class="poet">"The Call" by <span>George Meredith</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						With its numbers down and its stars leaving, a progressive party contemplates its prospects.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfbg.com/2010/03/11/green-partys-nadir" target="_blank" rel="external nofollow">sfbg.com</a>
+					</div>
+										<div class="usage">
+						So I'm mystified that so many cooks reflexively reach for the sugar when they contemplate sweet potatoes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2001/11/14/dining/sweet-potatoes-with-nary-a-marshmallow-in-sight.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Whether it involves contemplation and Platonic dialectic or your everyday orgy, wine is inextricably linked to Greek history.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.out.com/lifestyle/liquidity/2012/05/15/greek-wine-Frederick-Wildman" target="_blank" rel="external nofollow">out.com</a>
+					</div>
+										<div class="usage">
+						A possibility we may have to contemplate.
+					</div>
+					<div class="uAuthor">
+						<a href="http://observer.com/2002/04/second-holocaust-roths-invention-isnt-novelistic/" target="_blank" rel="external nofollow">observer.com</a>
+					</div>
+										<div class="usage">
+						The Republican nominee for US Senate in Pennsylvania suggested that a woman who was impregnated by a rapist faces a similar decision to one contemplating whether to give birth to a child out of wedlock .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-08-27/republican-candidate-likens-rape-pregnancy-to-out-of-wedlock-one" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						While US pork producers contemplate boosting weaning age, Danish producers have excelled at the management practice for years.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nationalhogfarmer.com/mag/farming_danes_outshine_us" target="_blank" rel="external nofollow">nationalhogfarmer.com</a>
+					</div>
+										<div class="usage">
+						An Oystering Community Contemplates Life Without Oysters.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.krvs.org/node/1102" target="_blank" rel="external nofollow">krvs.org</a>
+					</div>
+										<div class="usage">
+						Cattle on the Benton Crossing Road can contemplate cyclists, or they can play baseball at the Whitmore Ballfields.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mammothtimes.com/content/udderly-amazing-cows-penned-whitmore-ballfields" target="_blank" rel="external nofollow">mammothtimes.com</a>
+					</div>
+										<div class="usage">
+						The Pet Shop Boys Breathe Life Into Contemplating Mortality on Elysium, Their 11th Album.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.emusician.com/eq-mag/0765/web-exclusive-pet-shop-boys-interview/149507" target="_blank" rel="external nofollow">emusician.com</a>
+					</div>
+										<div class="usage">
+						In his defense, the author says, "I was a fan of Jon's creative output long before either of us ever contemplated such foolishness".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasobserver.com/2012-05-10/music/pinkish-black-s-sinister-waltz-has-been-building-momentum-for-20-years/" target="_blank" rel="external nofollow">dallasobserver.com</a>
+					</div>
+										<div class="usage">
+						This milestone anniversary inspires a lot of us to contemplate what Elvis would be doing today if he were still alive.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.1055triplem.com/Elvis-at-75-Infomercial-Pitchman-/11278487?archive=1&amp;pid=92962" target="_blank" rel="external nofollow">1055triplem.com</a>
+					</div>
+										<div class="usage">
+						IN THE past few months, central bankers and currency traders have spent many hours contemplating the resilience of the dollar.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.economist.com/node/3630569" target="_blank" rel="external nofollow">economist.com</a>
+					</div>
+										<div class="usage">
+						It seems to me that, as a contemplative, I do not need to lock myself into solitude and lose all contact with the rest of the world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wnet/religionandethics/episodes/june-5-2009/thomas-merton-a-life-in-letters/1390/" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						I'm contemplating making this a running blog – handy household tips.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wgna.com/handy-household-hint-from-an-unhandy-person-volume-one/" target="_blank" rel="external nofollow">wgna.com</a>
+					</div>
+										<div class="usage">
+						Wall Street brokers often complain about how much work they have to do in such little time that they can't even contemplate taking a vacation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2001/12/23/national/portraits/POG-23YUEN.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This kernel is often suﬃciently simple that one can contemplate realizing it in the form of custom hardware: a specially designed board, reconﬁgurable chip, or custom LSI device. 
+					</div>
+					<div class="uAuthor">
+						GRAPE-6: A Petaflops Prototype
+					</div>
+										<div class="usage">
+						Deutsch’s proposal is widely considered to represent the ﬁrst blueprint for a quantum computer, in that it is suﬃciently speciﬁc and simple to allow real machines to be contemplated, but suﬃciently versatile to be a universal quantum simulator, though both points are debatable. 
+					</div>
+					<div class="uAuthor">
+						Quantum Computing
+					</div>
+										<div class="usage">
+						However, if we wish to contemplate a quantum computer it is necessary to ﬁnd a system which is suﬃciently controllable to allow quantum logic gates to be applied at will, and yet is suﬃciently complicated to store many qubits of quantum information. 
+					</div>
+					<div class="uAuthor">
+						Quantum Computing
+					</div>
+										<div class="usage">
+						Such experiments are now being contemplated. 
+					</div>
+					<div class="uAuthor">
+						Quantum Computing
+					</div>
+										<div class="usage">
+						In section 8 we examined some experimental systems, and found that we can only contemplate ‘computers’ of a few tens of qubits and perhaps some thousands of gates. 
+					</div>
+					<div class="uAuthor">
+						Quantum Computing
+					</div>
+										<div class="usage">
+						However, it is clear that if timelike compactiﬁcations of type II theories are contemplated, one is led ineluctably to consider type I I ∗ theories. 
+					</div>
+					<div class="uAuthor">
+						Timelike T-Duality, de Sitter Space, Large $N$ Gauge Theories and Topological Field Theory
+					</div>
+										<div class="usage">
+						To bridge this gulf between our two most basic principles at least phenomenologically, Penrose invites us to contemplate an intermediate physical situation for which the notion of quantum superposition is at best approximately meaningful. 
+					</div>
+					<div class="uAuthor">
+						Why the Quantum Must Yield to Gravity
+					</div>
+										<div class="usage">
+						By simply refusing even to contemplate the alternative possible experimental choices Bohr could have protected quantum theory from challenges pertaining to possible nonlocal inﬂuences, but only at the expense of a closed mindedness that he did not embrace. 
+					</div>
+					<div class="uAuthor">
+						Nonlocality, Counterfactual, and Consistent Histories
+					</div>
+										<div class="usage">
+						Thus, it is practical to contemplate solid state quantum computers based on single electron spins. 
+					</div>
+					<div class="uAuthor">
+						A Self Assembled Nanoelectronic Quantum Computer Based on the Rashba Effect in Quantum Dots
+					</div>
+										<div class="usage">
+						Last year this parameter was bounded a bit more weakly (∆ms &gt; 12.4 ps−1 ) so that the ﬁnal ρ − η plane ﬁt permitted values of ρ &lt; 0. 12 With the present bound, however, one cannot contemplate any longer negative values for ρ— a point emphasized by Deshpande 13 at this meeting. 
+					</div>
+					<div class="uAuthor">
+						BCP3: Summary of Theory
+					</div>
+										<div class="usage">
+						In this section we want to contemplate the possibility of some rules of action of the symmetry generators on the transformation parameters, just to show that such rules of action can be introduced in a logically-consistent way. 
+					</div>
+					<div class="uAuthor">
+						First results of the Noether theorem for Hopf-algebra spacetime symmetries
+					</div>
+										<div class="usage">
+						Hamiltonian itself, we might also contemplate a parallel assumption of some equally arbitrary, phenomenologically motivated time dependence of some other observable quantities. 
+					</div>
+					<div class="uAuthor">
+						Which operator generates time evolution in Quantum Mechanics?
+					</div>
+										<div class="usage">
+						Instruction sequences testing is considered a new topic for which deﬁnitions may be freely contemplated without being restricted by existing views on software testing. 
+					</div>
+					<div class="uAuthor">
+						About Instruction Sequence Testing
+					</div>
+										<div class="usage">
+						The Heaviside function can be motivated by contemplation of Fig. 1(a). 
+					</div>
+					<div class="uAuthor">
+						Bayesian analysis of polarization measurements
+					</div>
+										<div class="usage">
+						As stated above, we now consider the scenario where a coalition S contemplates breaking off from the grand coalition. 
+					</div>
+					<div class="uAuthor">
+						Coalitional Beliefs of Cournot Network Agents
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a calm, lengthy, intent consideration"><a href="reflection.html">reflection</a>, <a href="reflexion.html">reflexion</a>, <a href="rumination.html">rumination</a>, <a href="musing.html">musing</a>, <a href="thoughtfulness.html">thoughtfulness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="consideration.html">consideration</a>, <a href="stare.html">stare</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="cogitation.html">cogitation</a>, <a href="introspection.html">introspection</a>, <a href="meditation.html">meditation</a>, <a href="retrospect.html">retrospect</a>, <a href="self-contemplation.html">self-contemplation</a>, <a href="self-examination.html">self-examination</a>, <a href="speculation.html">speculation</a>, <a href="study.html">study</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="contemplate.html">contemplate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abeyance.html">abeyance</a>, <a href="abstract.html">abstract</a>, <a href="abstractedly.html">abstractedly</a>, <a href="abstractness.html">abstractness</a>, <a href="Accidental%20colors.html">Accidental colors</a>, <a href="action.html">action</a>, <a href="active.html">active</a>, <a href="Anchoret.html">Anchoret</a>, <a href="apprehension.html">apprehension</a>, <a href="beauty.html">beauty</a>, <a href="behold.html">behold</a>, <a href="carry.html">carry</a>, <a href="catharsis.html">catharsis</a>, <a href="citizen.html">citizen</a>, <a href="cogitation.html">cogitation</a>, <a href="cogitative.html">cogitative</a>, <a href="consideration.html">consideration</a>, <a href="Contemplance.html">Contemplance</a>, <a href="Contemplant.html">Contemplant</a>, <a href="contemplate.html">contemplate</a>, <a href="contemplative.html">contemplative</a>, <a href="Contemplatively.html">Contemplatively</a>, <a href="Contemplator.html">Contemplator</a>, <a href="contentment.html">contentment</a>, <a href="corporation.html">corporation</a>, <a href="Corporeal%20property.html">Corporeal property</a>, <a href="ecstasy.html">ecstasy</a>, <a href="envy.html">envy</a>, <a href="eremite.html">eremite</a>, <a href="eye.html">eye</a>, <a href="field.html">field</a>, <a href="full.html">full</a>, <a href="gymnosophist.html">gymnosophist</a>, <a href="hereditament.html">hereditament</a>, <a href="Hesychast.html">Hesychast</a>, <a href="In%20one%27s%20mind%27s%20eye.html">In one's mind's eye</a>, <a href="incorporeal.html">incorporeal</a>, <a href="inference.html">inference</a>, <a href="introspection.html">introspection</a>, <a href="juridical.html">juridical</a>, <a href="land.html">land</a>, <a href="mean.html">mean</a>, <a href="meaning.html">meaning</a>, <a href="meditate.html">meditate</a>, <a href="meditation.html">meditation</a>, <a href="melancholy.html">melancholy</a>, <a href="mind.html">mind</a>, <a href="monastic.html">monastic</a>, <a href="Monk.html">Monk</a>, <a href="Muller.html">Muller</a>, <a href="Muse.html">Muse</a>, <a href="muser.html">muser</a>, <a href="musing.html">musing</a>, <a href="navel-gazing.html">navel-gazing</a>, <a href="Omphalopsychite.html">Omphalopsychite</a>, <a href="omphaloskepsis.html">omphaloskepsis</a>, <a href="ponderer.html">ponderer</a>, <a href="prospect.html">prospect</a>, <a href="quietism.html">quietism</a>, <a href="reflection.html">reflection</a>, <a href="reflectiveness.html">reflectiveness</a>, <a href="reflectivity.html">reflectivity</a>, <a href="reflexion.html">reflexion</a>, <a href="resentment.html">resentment</a>, <a href="respect.html">respect</a>, <a href="rest.html">rest</a>, <a href="retrospect.html">retrospect</a>, <a href="romantic.html">romantic</a>, <a href="rosary.html">rosary</a>, <a href="ruminator.html">ruminator</a>, <a href="run.html">run</a>, <a href="self-contemplation.html">self-contemplation</a>, <a href="self-examination.html">self-examination</a>, <a href="Situs.html">Situs</a>, <a href="speculation.html">speculation</a>, <a href="spell.html">spell</a>, <a href="stargazing.html">stargazing</a>, <a href="stoic.html">stoic</a>, <a href="studious.html">studious</a>, <a href="study.html">study</a>, <a href="thanatopsis.html">thanatopsis</a>, <a href="Theocrasy.html">Theocrasy</a>, <a href="Theopathy.html">Theopathy</a>, <a href="theory.html">theory</a>, <a href="unfold.html">unfold</a>, <a href="Uranoscopy.html">Uranoscopy</a>, <a href="vested.html">vested</a>, <a href="Zwinglian.html">Zwinglian</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xontemplation, dontemplation, fontemplation, vontemplation, cintemplation, ckntemplation, clntemplation, cpntemplation, cobtemplation, cohtemplation, cojtemplation, comtemplation, conremplation, confemplation, congemplation, conyemplation, contwmplation, contsmplation, contdmplation, contrmplation, contenplation, contejplation, contekplation, contemolation, contemllation, contempkation, contempoation, contemppation, contemplqtion, contemplwtion, contemplstion, contemplztion, contemplarion, contemplafion, contemplagion, contemplayion, contemplatuon, contemplatjon, contemplatkon, contemplatoon, contemplatiin, contemplatikn, contemplatiln, contemplatipn, contemplatiob, contemplatioh, contemplatioj, contemplatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

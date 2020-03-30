@@ -1,0 +1,508 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>scarcity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">scarcity</span> <span class="exp">a small and inadequate amount</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Scarcity</span> <span class="exp">The quality or condition of being scarce; smallness of quantity in proportion to the wants or demands; deficiency; lack of plenty; short supply; penury; as, a <span class="wUex">scarcity</span> of grain; a great <span class="wUex">scarcity</span> of beauties.</span> <span class="wuQuot">"A scarcity of snow would raise a mutiny at Naples."</span><span class="wuQuot">"Praise . . . owes its value to its scarcity ."</span><span class="wuQuot">"The value of an advantage is enhanced by its scarceness ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">scarcity</span> <span class="exp">Sparingness; parsimony; niggardliness; stinginess.</span> </li><li><span class="tSpeech">n</span> <span class="term">scarcity</span> <span class="exp">The state or condition of being scarce; smallness of quantity or number, or smallness in proportion to the wants or demands; absolutely, deficiency of things necessary to the subsistence of man; dearth; want; famine.</span> </li><li><span class="tSpeech">n</span> <span class="term">scarcity</span> <span class="exp">Synonyms Scarcity, Dearth, Famine. Scarcity of the necessities of life is not so severe as dearth, nor dearth so severe as famine. Primarily, dearth is a scarcity that is felt in high prices, and famine such scarcity that people have to go hungry; but both are generally stronger than their derivation would suggest, famine often standing for extreme difficulty in getting anything whatever to support life.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Scarcity</span> <span class="exp">state of being scarce: deficiency: rareness: niggardliness: want: famine</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Fuller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Fuller.jpg" alt="Thomas%20Fuller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is a scarcity of friendship, but not of friends.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Wayne Dyer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Wayne%20Dyer.jpg" alt="Wayne%20Dyer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas A. Edison</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20A.%20Edison.jpg" alt="Thomas%20A.%20Edison">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To my mind the old masters are not art; their value is in their scarcity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Praise, like gold and diamonds, owes its value only to its scarcity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Love Peacock</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Thomas Love Peacock">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The waste of plenty is the resource of scarcity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Pien Ch'Iao</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Pien Ch'Iao">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men worry over the great number of diseases, while doctors worry over the scarcity of effective remedies.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>escars</i> (Fr. <i>échars</i>), niggardly—Low L. <i>scarpsus</i>=<i>ex-carpsus</i>, for L. <i>excerptus</i>, pa.p. of <i>excerpēre</i>—<i>ex</i>, out of, <i>carpēre</i>, to pick.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Then the scarcity or fullness of the crops is determined.
+					</div>
+					<div class="uAuthor">
+						"Hebraic Literature; Translations from the Talmud, Midrashim and Kabbala" by <span>Various</span>					</div>
+										<div class="usage">
+						Polyandry is found almost exclusively in poor countries, where there is always a scarcity of females.
+					</div>
+					<div class="uAuthor">
+						"White Shadows in the South Seas" by <span>Frederick O'Brien</span>					</div>
+										<div class="usage">
+						A scarcity of beef and a sharp rise in prices brought the round-up earlier than usual.
+					</div>
+					<div class="uAuthor">
+						"Mavericks" by <span>William MacLeod Raine</span>					</div>
+										<div class="usage">
+						Yet the comparative scarcity of yellow in fruits, while it is the most common tint of fading leaves, is against this supposition.
+					</div>
+					<div class="uAuthor">
+						"Darwinism (1889)" by <span>Alfred Russel Wallace</span>					</div>
+										<div class="usage">
+						This has caused a fear of failure in next year's crops from scarcity of men in that section.
+					</div>
+					<div class="uAuthor">
+						"Continental Monthly - Volume 1 - Issue 3" by <span>Various</span>					</div>
+										<div class="usage">
+						It appeared that in a period of scarcity there was left in this peasant's village only one unbroken bale of rice.
+					</div>
+					<div class="uAuthor">
+						"The Foundations of Japan" by <span>J.W. Robertson Scott</span>					</div>
+										<div class="usage">
+						About a month before Easter there comes to the farmhouse a scarcity of eggs.
+					</div>
+					<div class="uAuthor">
+						"Around The Tea-Table" by <span>T. De Witt Talmage</span>					</div>
+										<div class="usage">
+						Their scarcity may be accounted for by the fact that they were melted down under the type of Alexander.
+					</div>
+					<div class="uAuthor">
+						"The Bay State Monthly, Vol. II, No. 6, March, 1885" by <span>Various</span>					</div>
+										<div class="usage">
+						Mark was not brought up luxuriously in the Lima Street Mission House, and the scarcity of toys stimulated his imagination.
+					</div>
+					<div class="uAuthor">
+						"The Altar Steps" by <span>Compton MacKenzie</span>					</div>
+										<div class="usage">
+						The scarcity of flint must have rendered these weapons of great value in other districts.
+					</div>
+					<div class="uAuthor">
+						"An Illustrated History of Ireland from AD 400 to 1800" by <span>Mary Frances Cusack</span>					</div>
+										<div class="usage">
+						The scarcity of money is frightful.
+					</div>
+					<div class="uAuthor">
+						"Punch, or the London Charivari, Vol. 1, September 12, 1841" by <span>Various</span>					</div>
+										<div class="usage">
+						Game: effect of scarcity of, 143; preparation of, for food, 138.
+					</div>
+					<div class="uAuthor">
+						"Sex and Society" by <span>William I. Thomas</span>					</div>
+										<div class="usage">
+						The great trouble is the scarcity of water and the intense heat.
+					</div>
+					<div class="uAuthor">
+						"Scientific American Supplement, No. 829, November 21, 1891" by <span>Various</span>					</div>
+										<div class="usage">
+						Owing to the scarcity of wood on the high veldt, kraal fuel used formerly to be the staple substitute.
+					</div>
+					<div class="uAuthor">
+						"Origin of the Anglo-Boer War Revealed (2nd ed.)" by <span>C. H. Thomas</span>					</div>
+										<div class="usage">
+						Another scarcity is water.
+					</div>
+					<div class="uAuthor">
+						"With Rimington" by <span>L. March Phillipps</span>					</div>
+										<div class="usage">
+						Of course it was the scarcity of men that gave them the opportunity.
+					</div>
+					<div class="uAuthor">
+						"Windjammers and Sea Tramps" by <span>Walter Runciman</span>					</div>
+										<div class="usage">
+						From scarcity of grass, horses were here seen to feed on boughs so high as to be obliged to stand on stones, to get at their food.
+					</div>
+					<div class="uAuthor">
+						"Journals of Travels in Assam, Burma, Bhootan, Afghanistan and TheNeighbouring Countries" by <span>William Griffith</span>					</div>
+										<div class="usage">
+						Miss Lucinda's visits to her brother were reminiscent of a multiplicity of children and a scarcity of room.
+					</div>
+					<div class="uAuthor">
+						"Miss Mink's Soldier and Other Stories" by <span>Alice Hegan Rice</span>					</div>
+										<div class="usage">
+						There was great scarcity of ordnance stores, but, happily, an abundant supply of subsistence stores.
+					</div>
+					<div class="uAuthor">
+						"General Scott" by <span>General Marcus J. Wright</span>					</div>
+										<div class="usage">
+						Let it be your care to see that the scarcity of this one year does not bring ruin on us all.
+					</div>
+					<div class="uAuthor">
+						"The Letters of Cassiodorus" by <span>Cassiodorus (AKA Magnus Aurelius Cassiodorus Senator)</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Thoughtful for Winter's future sorrow,<br>
+Its gloom and scarcity;<br>
+Prescient to-day, of want to-morrow,<br>
+Toiled quiet Memory. 
+							<div class="poet">"Winter Stores" by <span>Charlotte Bronte</span></div>
+						</div>
+											<div class="poemQuote">
+							John's fortune consisted of his coble, three oars, and his fishing-gear,<br>
+Besides his two stout boys, John and James, he loved most dear.<br>
+And no matter how the wind might blow, or the rain pelt,<br>
+Or scarcity of fish, John little sorrow felt. 
+							<div class="poet">"John Rouat the Fisherman" by <span>William Topaz McGonagall</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Water scarcity could result from China's coal expansion, says Greenpeace .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.waterworld.com/content/ww/en/articles/2012/08/water-scarcity-could-result-from-chinas-coal-expansion-says-greenpeace.html" target="_blank" rel="external nofollow">waterworld.com</a>
+					</div>
+										<div class="usage">
+						She noted the scarcity of medical supplies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.oregonlive.com/myoregon/2012/11/gazas_humanitarian_situation.html" target="_blank" rel="external nofollow">blog.oregonlive.com</a>
+					</div>
+										<div class="usage">
+						Politics in the Age of Scarcity by Richard J Barnet Simon and Schuster, 349 pp.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/articles/archives/1980/nov/06/a-populist-vision/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<div class="usage">
+						Scarcity on the airwaves will have campaigns scrambling this cycle.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.campaignsandelections.com/magazine/us-edition/314232/could-we-run-out-of-airtime.thtml" target="_blank" rel="external nofollow">campaignsandelections.com</a>
+					</div>
+										<div class="usage">
+						The New Geopolitics of Food Scarcity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wnyc.org/shows/lopate/2012/oct/02/new-geopolitics-food-scarcity/" target="_blank" rel="external nofollow">wnyc.org</a>
+					</div>
+										<div class="usage">
+						Why Scarcity May Be Your Best Competitive Advantage.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.inc.com/jon-burgstone/why-scarcity-may-be-your-best-competitive-advantage.html" target="_blank" rel="external nofollow">inc.com</a>
+					</div>
+										<div class="usage">
+						The End of Spectrum Scarcity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity" target="_blank" rel="external nofollow">spectrum.ieee.org</a>
+					</div>
+										<div class="usage">
+						The Theory of Scarcity in Dating.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newsletterjournal.com/tag/scarcity" target="_blank" rel="external nofollow">newsletterjournal.com</a>
+					</div>
+										<div class="usage">
+						PCAST report concludes spectrum scarcity 'an illusion'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://broadcastengineering.com/legislation/pcast-report-concludes-spectrum-scarcity-illusion" target="_blank" rel="external nofollow">broadcastengineering.com</a>
+					</div>
+										<div class="usage">
+						Planning For Arizona's Water Scarcity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kjzz.org/content/1109/planning-arizonas-water-scarcity" target="_blank" rel="external nofollow">kjzz.org</a>
+					</div>
+										<div class="usage">
+						Karen Smith, former deputy director of the Arizona Department of Water resources, explains the water scarcity problem in Arizona and which steps should be taken now to prevent future disaster.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kjzz.org/content/1109/planning-arizonas-water-scarcity" target="_blank" rel="external nofollow">kjzz.org</a>
+					</div>
+										<div class="usage">
+						Morgan's Corner: Scarcity of Dem signs for Obama sure says a lot.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/hudson/voices/index.ssf/2012/10/morgans_corner_scarcity_of_dem.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Parts Scarcity Forces Toyota To Close US Factories.
+					</div>
+					<div class="uAuthor">
+						<a href="http://weku.fm/post/parts-scarcity-forces-toyota-close-us-factories" target="_blank" rel="external nofollow">weku.fm</a>
+					</div>
+										<div class="usage">
+						Tucson News NowCreating Hope Act Tackles Scarcity of Pediatric Drugs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fox11az.com/story/19303764/creating-hope-act-tackles-scarcity-of-pediatric-drugs" target="_blank" rel="external nofollow">fox11az.com</a>
+					</div>
+										<div class="usage">
+						The Psychology of Scarcity VS the Psychology of Plenty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychologytoday.com/blog/in-the-face-adversity/201203/the-psychology-scarcity-vs-the-psychology-plenty-0" target="_blank" rel="external nofollow">psychologytoday.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Therefore, it is possible that the seeming scarcity of photometric ESPs could be caused, at least in part, by the detectors used. 
+					</div>
+					<div class="uAuthor">
+						A rigorous comparison of different planet detection algorithms
+					</div>
+										<div class="usage">
+						A related matter is the scarcity of strings that are naturally (or “critically”) four dimensional. 
+					</div>
+					<div class="uAuthor">
+						Untwisting the twistor superstring
+					</div>
+										<div class="usage">
+						Due to the scarcity of data in the 2–3 GeV mass region, even such a simpliﬁed procedure is not possible at present in the [56, 4+ ] multiplet. 
+					</div>
+					<div class="uAuthor">
+						The $[56,4^+]$ baryon multiplet in the $1/N_c$ expansion of QCD
+					</div>
+										<div class="usage">
+						Due to the scarcity of data in the 2–3 GeV mass region, even such a simpliﬁed procedure is not possible at present in the [56, 4+ ] multiplet. 
+					</div>
+					<div class="uAuthor">
+						Highly Excited Baryons in Large $N_c$ QCD
+					</div>
+										<div class="usage">
+						Given the scarcity of antineutrino cross section measurements at low energy, such data will be especially important for future CP violation searches in the neutrino sector. 
+					</div>
+					<div class="uAuthor">
+						NuFact05 Working Group 2 Summary: Experimental Results in Neutrino Scattering Physics
+					</div>
+										<div class="usage">
+						Unfortunately, the scarcity of detections does not allow more thorough investigations on the nature of these oscillations and their relation to the spectral characteristics of the associated emission. 
+					</div>
+					<div class="uAuthor">
+						States and transitions in black-hole binaries
+					</div>
+										<div class="usage">
+						Another rather surprising observation is the relative scarcity of microﬂaring events. 
+					</div>
+					<div class="uAuthor">
+						The Structure and Dynamics of the Upper Chromosphere and Lower Transition Region as Revealed by the Subarcsecond VAULT Observations
+					</div>
+										<div class="usage">
+						Biospectroscopy suffers from extreme scarcity of statistically independent samples, but small sample size problems are common also in many other ﬁelds of application. 
+					</div>
+					<div class="uAuthor">
+						Sample Size Planning for Classification Models
+					</div>
+										<div class="usage">
+						Polarized hadronic collisions, which are another way to investigate this research ﬁeld, have accomplished little progress due to the scarcity of the data in appropriate kinematic regions, and a low energy range, so far accessible to very few dedicated experiments. 
+					</div>
+					<div class="uAuthor">
+						Polarized Parton Distributions and QCD Spin Tests at RHIC-BNL
+					</div>
+										<div class="usage">
+						At the smallest N4 , at least, we now can understand that the energy density is cutoff by the scarcity of lattice momenta. 
+					</div>
+					<div class="uAuthor">
+						Thermodynamics of free domain wall and overlap fermions
+					</div>
+										<div class="usage">
+						The high-signiﬁcance limits are also hard to calculate due to the scarcity of samples in these regions. 
+					</div>
+					<div class="uAuthor">
+						Cosmological parameters from CMB and other data: a Monte-Carlo approach
+					</div>
+										<div class="usage">
+						By contrast, there is an extreme scarcity of results concerning the effects of polymer additives on decaying turbulence. 
+					</div>
+					<div class="uAuthor">
+						Drag Reduction by Polymer Additives in Decaying Turbulence
+					</div>
+										<div class="usage">
+						Whether a Bose-Einstein condensate forms or not is not relevant to this argument since it links the property of superﬂuidity to the scarcity of excited states. 
+					</div>
+					<div class="uAuthor">
+						Teaching superfluidity at the introductory level
+					</div>
+										<div class="usage">
+						A possible reason for the scarcity of results related to evaluating higher-rank Whittaker functions is that, until recently, there were no explicitly known examples of generic Maass forms for SL(3, Z). 
+					</div>
+					<div class="uAuthor">
+						Evaluating Whittaker functions and Maass forms for SL(3,Z)
+					</div>
+										<div class="usage">
+						Due to the scarcity of the data, we used 0.3 for Twitter since this choice weights past observations more heavily. 
+					</div>
+					<div class="uAuthor">
+						Dynamic PageRank using Evolving Teleportation
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a small and inadequate amount"><a href="scarceness.html">scarceness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="abundance.html">abundance</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="deficiency.html">deficiency</a>, <a href="inadequacy.html">inadequacy</a>, <a href="insufficiency.html">insufficiency</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="dearth.html">dearth</a>, <a href="infrequency.html">infrequency</a>, <a href="paucity.html">paucity</a>, <a href="rareness.html">rareness</a>, <a href="rarity.html">rarity</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="scarce.html">scarce</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Bergmeal.html">Bergmeal</a>, <a href="Bergmehl.html">Bergmehl</a>, <a href="Calochortus%20nuttallii.html">Calochortus nuttallii</a>, <a href="dear.html">dear</a>, <a href="dearth.html">dearth</a>, <a href="Derth.html">Derth</a>, <a href="drought.html">drought</a>, <a href="famine.html">famine</a>, <a href="food.html">food</a>, <a href="handfast.html">handfast</a>, <a href="Honey%20ant.html">Honey ant</a>, <a href="hungry.html">hungry</a>, <a href="infrequency.html">infrequency</a>, <a href="lecanora.html">lecanora</a>, <a href="letter.html">letter</a>, <a href="paucity.html">paucity</a>, <a href="Phytogeography.html">Phytogeography</a>, <a href="poverty.html">poverty</a>, <a href="rareness.html">rareness</a>, <a href="rarity.html">rarity</a>, <a href="ration.html">ration</a>, <a href="scant.html">scant</a>, <a href="scarce.html">scarce</a>, <a href="scarceness.html">scarceness</a>, <a href="sego%20lily.html">sego lily</a>, <a href="Straitness.html">Straitness</a>, <a href="stringency.html">stringency</a>, <a href="stringent.html">stringent</a>, <a href="tight.html">tight</a>, <a href="tightness.html">tightness</a>, <a href="token.html">token</a>, <a href="want.html">want</a>, <a href="yttrium.html">yttrium</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					acarcity, wcarcity, dcarcity, xcarcity, zcarcity, acarcity, sxarcity, sdarcity, sfarcity, svarcity, scqrcity, scwrcity, scsrcity, sczrcity, scaecity, scadcity, scafcity, scatcity, scarxity, scardity, scarfity, scarvity, scarcuty, scarcjty, scarckty, scarcoty, scarciry, scarcify, scarcigy, scarciyy, scarcitt, scarcitg, scarcith, scarcitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

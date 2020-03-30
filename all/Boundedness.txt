@@ -1,0 +1,160 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>boundedness</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">boundedness</span> <span class="exp">the quality of being finite</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">boundedness</span> <span class="exp">The quality of being bounded, limited, or circumscribed; limited extent or range.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+																		
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+				
+								<br class="cBoth">
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Therefore πn (∆) = span {D(t, n) | t ∈ N} and hence condition 1◦ of [15, 2.1] follows from the boundedness of (22) as n → ∞. 
+					</div>
+					<div class="uAuthor">
+						Invariant subspaces of Voiculescu's circular operator
+					</div>
+										<div class="usage">
+						The boundedness of Ig (a) implies that we can ignore the ﬁrst few n for the price of increasing the constant C1 . 
+					</div>
+					<div class="uAuthor">
+						Fast graphs for the random walker
+					</div>
+										<div class="usage">
+						Thus we can apply Theorem 3.2, whereis the boundedness of the density of the invariant measures follows. 
+					</div>
+					<div class="uAuthor">
+						Perron-Frobenius spectrum for random maps and its approximation
+					</div>
+										<div class="usage">
+						Still, also in these examples without convergence of the mean, under the assumption of uniform boundedness of the distribution, selfaveraging in the sense of Theorem 1 would hold. 
+					</div>
+					<div class="uAuthor">
+						Universal bounds on the selfaveraging of random diffraction measures
+					</div>
+										<div class="usage">
+						The functor M 7→ T ⊗L B M is an equivalence D(Mod B ) → D(Mod A) preserving boundedness. 
+					</div>
+					<div class="uAuthor">
+						Dualizing Complexes and Tilting Complexes over Simple Rings
+					</div>
+										<div class="usage">
+						Eichhorn, The boundedness of connection coeﬃcients and their derivatives, Math. 
+					</div>
+					<div class="uAuthor">
+						Relative Zeta Functions, Determinants, Torsion, Index Theorems and Invariants for Open Manifolds
+					</div>
+										<div class="usage">
+						Nevertheless, there is a simple analytic criterion — the uniform boundedness of the energy of the map and the L2 norm of α — that ensures that the moduli space is compact. 
+					</div>
+					<div class="uAuthor">
+						Family Gromov-Witten Invariants for Kahler Surfaces
+					</div>
+										<div class="usage">
+						Except for the self-adjointness condition when we consider eigenvalues, the only assumptions on the distribution of the matrix entries are independence and boundedness. 
+					</div>
+					<div class="uAuthor">
+						Concentration of norms and eigenvalues of random matrices
+					</div>
+										<div class="usage">
+						We note that aside from the uniform boundedness assumption, the distributions of the independent entries of X in Theorems 1 and 2 are completely arbitrary. 
+					</div>
+					<div class="uAuthor">
+						Concentration of norms and eigenvalues of random matrices
+					</div>
+										<div class="usage">
+						Domar, Uniform boundedness in families related to subharmonic functions, J. 
+					</div>
+					<div class="uAuthor">
+						A generalized mean value inequality for subharmonic functions and applications
+					</div>
+										<div class="usage">
+						Boundedness of solutions to variational problems under general growth conditions. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						In , boundedness of the absolute ﬁrst moment has been proved for d = 2, but no exponential decay of the correlations. 
+					</div>
+					<div class="uAuthor">
+						Localization-delocalization phenomena for random interfaces
+					</div>
+										<div class="usage">
+						In order to treat A(z ) and B (z ) in weighted L2 -spaces and weighted Sobolev spaces, we need terminology and a boundedness result on pseudodifferential operators in these spaces. 
+					</div>
+					<div class="uAuthor">
+						Generalized eigenfunctions of relativistic Schroedinger operators I
+					</div>
+										<div class="usage">
+						Actually, we shall obtain two suﬃcient conditions (see Lemmas 5.2 and 5.3 below), either of which is suitable for showing the boundedness of generalized eigenfunctions of √−∆ + V (x) on R3 . 
+					</div>
+					<div class="uAuthor">
+						Generalized eigenfunctions of relativistic Schroedinger operators I
+					</div>
+										<div class="usage">
+						On the other hand, we are going to show a few boundedness results on G0 in the framework of weighted L2 -spaces as well as in some other frameworks. 
+					</div>
+					<div class="uAuthor">
+						Generalized eigenfunctions of relativistic Schroedinger operators I
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="infiniteness.html">infiniteness</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="quality.html">quality</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="finite.html">finite</a>
+				</div>
+												
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					voundedness, goundedness, houndedness, noundedness, biundedness, bkundedness, blundedness, bpundedness, boyndedness, bohndedness, bojndedness, boindedness, boubdedness, bouhdedness, boujdedness, boumdedness, bounsedness, bouneedness, bounfedness, bouncedness, bounxedness, bounsedness, boundwdness, boundsdness, boundddness, boundrdness, boundesness, boundeeness, boundefness, boundecness, boundexness, boundesness, boundedbess, boundedhess, boundedjess, boundedmess, boundednwss, boundednsss, boundedndss, boundednrss, boundedneas, boundednews, boundedneds, boundednexs, boundednezs, boundedneas, boundednesa, boundednesw, boundednesd, boundednesx
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

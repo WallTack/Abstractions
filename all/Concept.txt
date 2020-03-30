@@ -1,0 +1,573 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>concept</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">concept</span> <span class="exp">an abstract or general idea inferred or derived from specific instances</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The early occurrence of a fetus yawning is at eleven weeks after conception									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Concept</span> <span class="exp">An abstract general conception; a notion; a universal.</span> <span class="wuQuot">"The words conception concept notion , should be limited to the thought of what can not be represented in the imagination; as, the thought suggested by a general term."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Animal gestation periods: the shortest is the American opossum, which bears its young 12 to 13 days after conception; the longest is the Asiatic elephant, taking 608 days, or just over 20 months.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">concept</span> <span class="exp">A general notion; the predicate of a (possible) judgment; a complex of characters; the immediate object of thought in simple apprehension. Conception is applied to both the act and the object in conceiving; concept is restricted to the object.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Pregnancy in humans lasts on average about 270 days (from conception to birth).
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Concept</span> <span class="exp"><span class="itl">kon′sept</span> a thing conceived, a general notion</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Pablo Picasso</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Pablo%20Picasso.jpg" alt="Pablo%20Picasso">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Through art we express our conception of what nature is not.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charlotte P. Gillman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charlotte P. Gillman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A concept is stronger than a fact.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Albert Camus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Albert%20Camus.jpg" alt="Albert%20Camus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The only conception of freedom I can have is that of the prisoner or the individual in the midst of the State. The only one I know is freedom of thought and action.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Lennon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Lennon.jpg" alt="John%20Lennon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“God is a concept by which we measure our pain.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jorge Luis Borges</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jorge%20Luis%20Borges.jpg" alt="Jorge%20Luis%20Borges">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One concept corrupts and confuses the others. I am not speaking of the Evil whose limited sphere is ethics; I am speaking of the infinite.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Linda Blandford</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Linda Blandford">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Justice is a concept. Muscle is the reality.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">conceptus</span>,cf. neut. <span class="wUets">conceptum</span>, fetus), p. p. of <span class="wUets">concipere</span>, to conceive: cf. F. <span class="wUets">concept</span>,. See <span class="wUer">Conceit</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>concipĕre</i>, <i>-ceptum</i>, to conceive.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Such a conception commends itself to the intellect of man by its majestic grandeur.
+					</div>
+					<div class="uAuthor">
+						"History of the Intellectual Development of Europe, Volume I (of 2)" by <span>John William Draper</span>					</div>
+										<div class="usage">
+						The concept of reaction covers the ground.
+					</div>
+					<div class="uAuthor">
+						"Psychology" by <span>Robert S. Woodworth</span>					</div>
+										<div class="usage">
+						This conception of God revealed itself as so essential to the prophets that their intense national feeling was modified.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 6, Slice 3" by <span>Various</span>					</div>
+										<div class="usage">
+						The latter conception is Christian.
+					</div>
+					<div class="uAuthor">
+						"The Lords of the Ghostland" by <span>Edgar Saltus</span>					</div>
+										<div class="usage">
+						The concept is not the conceptual image, and forming the image is not conception.
+					</div>
+					<div class="uAuthor">
+						"Logic, Inductive and Deductive" by <span>William Minto</span>					</div>
+										<div class="usage">
+						He had no conception of the nature of the relationship he was building up.
+					</div>
+					<div class="uAuthor">
+						"The "Genius"" by <span>Theodore Dreiser</span>					</div>
+										<div class="usage">
+						Emotional response will accompany every vital mental conception.
+					</div>
+					<div class="uAuthor">
+						"Vocal Expression" by <span>Katherine Jewell Everts</span>					</div>
+										<div class="usage">
+						But Israel's conception of Sheol shows very striking resemblances with the Babylonian conception.
+					</div>
+					<div class="uAuthor">
+						"The Christian View of the Old Testament" by <span>Frederick Carl Eiselen</span>					</div>
+										<div class="usage">
+						The conception of the cloud as sea, rock and wall, recurs very frequently in mythology.
+					</div>
+					<div class="uAuthor">
+						"Bible Myths and their Parallels in other Religions" by <span>T. W. Doane</span>					</div>
+										<div class="usage">
+						Let us see what the religion of the present with its more realistic conception of life has to say about salvation.
+					</div>
+					<div class="uAuthor">
+						"The Next Step in Religion" by <span>Roy Wood Sellars</span>					</div>
+										<div class="usage">
+						And as no changes occur in this condition the particular concept time is transformed into the general concept existence.
+					</div>
+					<div class="uAuthor">
+						"Landmarks of Scientific Socialism" by <span>Friedrich Engels</span>					</div>
+										<div class="usage">
+						The change in terminology is chiefly the result of modern conceptions of zoology.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 6, Slice 7" by <span>Various</span>					</div>
+										<div class="usage">
+						The conception is significant, and the story as written is significant because the conception is set forth whole and unmarred.
+					</div>
+					<div class="uAuthor">
+						"The Technique of Fiction Writing" by <span>Robert Saunders Dowst</span>					</div>
+										<div class="usage">
+						In the beginnings of law men had no more ambitious conception than a peaceable ordering of society at any cost.
+					</div>
+					<div class="uAuthor">
+						"An Introduction to the Philosophy of Law" by <span>Roscoe Pound</span>					</div>
+										<div class="usage">
+						To do this we must adapt ourselves to a manner of life and to conceptions and feelings widely different from our own.
+					</div>
+					<div class="uAuthor">
+						"Greek Women" by <span>Mitchell Carroll</span>					</div>
+										<div class="usage">
+						Conception is our only trustworthy instrument, conception and the Absolute working hand in hand.
+					</div>
+					<div class="uAuthor">
+						"Essays in Radical Empiricism" by <span>William James</span>					</div>
+										<div class="usage">
+						Thoughts without content are empty, perceptions without conceptions are blind.
+					</div>
+					<div class="uAuthor">
+						"Kant's Theory of Knowledge" by <span>Harold Arthur Prichard</span>					</div>
+										<div class="usage">
+						The whole concept is far-fetched.
+					</div>
+					<div class="uAuthor">
+						"The Ties That Bind" by <span>Walter Miller</span>					</div>
+										<div class="usage">
+						CONVENT OF LA CONCEPTION.
+					</div>
+					<div class="uAuthor">
+						"The Pictureque Antiquities of Spain;" by <span>Nathaniel Armstrong Wells</span>					</div>
+										<div class="usage">
+						As everybody knows, the very conception of a "Christ" is purely Jewish.
+					</div>
+					<div class="uAuthor">
+						"Essays Upon Some Controverted Questions" by <span>Thomas H. Huxley</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Hush, be still. Outer space<br>
+Is a concept, not a place.<br>
+Try no more. Where we are<br>
+Never can be sky or star. From prison, in a prison, we fly; There's no way into the sky.
+							<div class="poet">"Science-fiction Cradlesong" by <span>C S Lewis</span></div>
+						</div>
+											<div class="poemQuote">
+							Eke my conception of no girl to gaze upon,<br>
+O my Myrtilla, includes all the rest,<br>
+Saving the one that I'm spilling this praise upon--<br>
+You, as it isn't unlikely you've guessed.
+							<div class="poet">"Notions" by <span>Franklin Pierce Adams</span></div>
+						</div>
+											<div class="poemQuote">
+							Thy plan is best, though it may not agree<br>
+With my conceptions of my needs and rights,<br>
+And faith may fail to scale its azure heights;<br>
+Yet still I trust, and leave my cause with Thee.
+							<div class="poet">"God's Plan Is Best" by <span>Joseph Horatio Chant</span></div>
+						</div>
+											<div class="poemQuote">
+							I see thee stand by Freedom's fane,<br>
+Pouring the persuasive strain,<br>
+Giving vast conceptions birth:<br>
+Hark! I hear thy thunder's sound<br>
+Shake the Forum round and round,<br>
+Shake the pillars of the earth!
+							<div class="poet">"Ode To Eloquence " by <span>Henry Carey</span></div>
+						</div>
+											<div class="poemQuote">
+							PRET. That's all very well, but I can't throw myself into a part<br>
+that has already lasted a twelvemonth, when I have to make love<br>
+to my father. It interferes with my conception of the<br>
+characters. It spoils the part.
+							<div class="poet">"Thespis: Act II" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							Good from the good,—to the reason this is not hard of conception;<br>
+But the genius has power good from the bad to evoke.<br>
+'Tis the conceived alone, that thou, imitator, canst practise;<br>
+Food the conceived never is, save to the mind that conceives.
+							<div class="poet">"The Imitator" by <span>Friedrich von Schiller</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Of all the popular restaurant concepts out there, the one that never ceases to amaze me is the coffee shop.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chattanoogapulse.com/articles/give-me-a-coffee-break!" target="_blank" rel="external nofollow">chattanoogapulse.com</a>
+					</div>
+										<div class="usage">
+						Caltech student's micro cold storage concept wins $20,000 grant.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pasadenastarnews.com/rss/ci_22024062?source=rss" target="_blank" rel="external nofollow">pasadenastarnews.com</a>
+					</div>
+										<div class="usage">
+						Parisian concept store Colette will celebrate its 15th anniversary with afternoon festivities in and around Paris' Tuileries Garden on March 10 and 11.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sportswearnet.com/fashionnews/pages/protected/COLETTE-CELEBRATES-15TH-ANNIVERSARY-WITH-CARNAVAL_5059.html" target="_blank" rel="external nofollow">sportswearnet.com</a>
+					</div>
+										<div class="usage">
+						But don't mistake the high concept as film for arthouse audiences.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/entertainment/movies/article/1259995--tabu-review-love-and-colonialism" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						It might seem fitting, in an industry centered around gambling, for one operation to gamble on two new restaurant concepts in less than a year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://fesmag.com/departments/segment-spotlight/10161-q-a-james-johnson,-regional-director-comanche-red-river-casino,-devol,-okla" target="_blank" rel="external nofollow">fesmag.com</a>
+					</div>
+										<div class="usage">
+						When was the concept of home theater first conceived.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.electronichouse.com/article/home_theaters_come_of_age/Silver" target="_blank" rel="external nofollow">electronichouse.com</a>
+					</div>
+										<div class="usage">
+						This artist's concept depicts a cometlike tail of a possible disintegrating super Mercury-size planet candidate as it transits, or crosses, its parent star, named KIC 12557548.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-205_162-57506551/disintegrating-alien-planet-has-comet-like-tail/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Moving Products From Concept to Commercialization .
+					</div>
+					<div class="uAuthor">
+						<a href="http://wkar.org/node/17633" target="_blank" rel="external nofollow">wkar.org</a>
+					</div>
+										<div class="usage">
+						Neither capitalism nor communism, new concept protects resources.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.citybeat.com/cincinnati/article-23311-rethinking_the_common_good.html" target="_blank" rel="external nofollow">citybeat.com</a>
+					</div>
+										<div class="usage">
+						More restaurant concepts are pushing aside the two-tops and setting a communal table into their dining room floor plans.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nrn.com/article/communal-tables-promote-shared-experience" target="_blank" rel="external nofollow">nrn.com</a>
+					</div>
+										<div class="usage">
+						Women who take a multivitamin every day around the time of conception appear to have a reduced risk for delivering low-birth-weight babies, a new study shows.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mysuncoast.com/webmd/pregnancy/story/Vitamins-May-Lower-Risk-of-Birth-Complication/Fe3hXtHnmUGmOBWMZNx1rA.cspx" target="_blank" rel="external nofollow">mysuncoast.com</a>
+					</div>
+										<div class="usage">
+						Northwest energy storage concepts explored.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbian.com/news/2012/feb/06/nw-study-of-storing-compressed-air-underground/" target="_blank" rel="external nofollow">columbian.com</a>
+					</div>
+										<div class="usage">
+						If so, "a month or two in advance of conception is the time you'll need to get the medication out of your system," says Dr Mazzullo.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wpbf.com/4-tips-for-couples-trying-to-conceive/-/8789538/16903306/-/format/rsss_2.0/item/1/-/57i64iz/-/index.html" target="_blank" rel="external nofollow">wpbf.com</a>
+					</div>
+										<div class="usage">
+						INTERVIEWS Apocalypse, Wow: Behind Prince Rama's Concept Album .
+					</div>
+					<div class="uAuthor">
+						<a href="http://spin.com/articles/prince-rama-concept-album-top-10-hits" target="_blank" rel="external nofollow">spin.com</a>
+					</div>
+										<div class="usage">
+						Just like 'Clockwork,' Rush returns with a concept album .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.goldminemag.com/article/just-like-clockwork-rush-returns-with-a-concept-album" target="_blank" rel="external nofollow">goldminemag.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In the course of this work we have frequently seen that a concept introduced or a result obtained has been the generalization of the corresponding concept or result in complex analysis. 
+					</div>
+					<div class="uAuthor">
+						Bicomplex algebra and function theory
+					</div>
+										<div class="usage">
+						If we map the concept of ’distance’ in the generalized Steiner’s problem onto the concept of ’force potential’ in the Filed Theory, we will obtain another equivalent form of the generalized problem. 
+					</div>
+					<div class="uAuthor">
+						Generalized Steiner's Problem and its Solution with the Concepts in Field Thoery
+					</div>
+										<div class="usage">
+						Now, the teacher generates a sequence of N examples referring to a single concept Rk , and the task of the student is to guess the k (i.e. to learn the concept Gk ), hopefully with high conﬁdence. 
+					</div>
+					<div class="uAuthor">
+						Harmonic mean, random polynomials and stochastic matrices
+					</div>
+										<div class="usage">
+						These are known as Bogoliubov’s transformations and stay at the basis of the concept of quasiparticle, which is one of the most important concepts in quantum many-body theory. 
+					</div>
+					<div class="uAuthor">
+						Helium nanodroplets and trapped Bose-Einstein condensates as prototypes of finite quantum fluids
+					</div>
+										<div class="usage">
+						Weyl introduced the concept of gauge transformation into physics[4, 5], which is one of the most important concepts in modern physics, though his original theory is not successful. 
+					</div>
+					<div class="uAuthor">
+						Gauge Theory of Gravity
+					</div>
+										<div class="usage">
+						For this model, another concept, the spinon concept, is commonly used . A spinon is deﬁned as an “entity” associated with a ±1/2 spin value and the groundstate of this isotropic hamiltonian is made of pairs of spinons. 
+					</div>
+					<div class="uAuthor">
+						Elementary Excitations in Quantum Antiferromagnetic Chains: Dyons, Spinons and Breathers
+					</div>
+										<div class="usage">
+						The quantum ﬁeld theory of the standard model of particle physics is built upon the geometrical concepts of gauge ﬁelds and the Dirac operator on spinors, concepts which have no obvious relation to those used in geometric quantization. 
+					</div>
+					<div class="uAuthor">
+						Quantum Field Theory and Representation Theory: A Sketch
+					</div>
+										<div class="usage">
+						It is our ob jective in this section to demonstrate that not just the electrostatic ﬁeld is an abstract concept, but so is the concept of the electric “charge”. 
+					</div>
+					<div class="uAuthor">
+						Electrodynamics and the Mass-Energy Equivalence Principle
+					</div>
+										<div class="usage">
+						It is already clear from this expression, since Coulomb’s law has been generated automatically without the necessity for a ﬁeld equation, that the concept of “ﬁeld” is indeed an abstract concept. 
+					</div>
+					<div class="uAuthor">
+						Electrodynamics and the Mass-Energy Equivalence Principle
+					</div>
+										<div class="usage">
+						Perhaps the only concept that is radically new here is the concept of the quantization of the radius. 
+					</div>
+					<div class="uAuthor">
+						Electrodynamics and the Mass-Energy Equivalence Principle
+					</div>
+										<div class="usage">
+						Secondly, the concept of the “electric charge” proved to be an abstract concept, just like the “ﬁeld” concept. 
+					</div>
+					<div class="uAuthor">
+						Electrodynamics and the Mass-Energy Equivalence Principle
+					</div>
+										<div class="usage">
+						We have pointed out that the concept of randomness as a consequence of a lack of information is not totally satisfactory, and that there is a need for a new concept of ob jective randomness, perhaps in the form of a new principle of physics. 
+					</div>
+					<div class="uAuthor">
+						From Knowledge, Knowability and the Search for Objective Randomness to a New Vision of Complexity
+					</div>
+										<div class="usage">
+						The concept of multiple alignment in the SP framework is similar to that concept in bioinformatics but there are important differences described in Wolff (2003b). 
+					</div>
+					<div class="uAuthor">
+						Towards an Intelligent Database System Founded on the SP Theory of Computing and Cognition
+					</div>
+										<div class="usage">
+						In this Section, I discuss some general facts about groupoids; I brie ﬂy discuss the concept of product groupoid, and, in more details, the concept of left and right G -spaces, for a general groupoid G . 
+					</div>
+					<div class="uAuthor">
+						Holonomy and parallel transport in the differential geometry of the space of loops and the groupoid of generalized gauge transformations
+					</div>
+										<div class="usage">
+						In Part I of this series [MSp] we introduced the concept of second order freeness as the mathematical concept for dealing with the large N limit of ﬂuctuations of N × N -random matrices. 
+					</div>
+					<div class="uAuthor">
+						Second Order Freeness and Fluctuations of Random Matrices: II. Unitary Random Matrices
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an abstract or general idea inferred or derived from specific instances"><a href="conception.html">conception</a>, <a href="construct.html">construct</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="idea.html">idea</a>, <a href="thought.html">thought</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abstract.html">abstract</a>, <a href="abstraction.html">abstraction</a>, <a href="attribute.html">attribute</a>, <a href="category.html">category</a>, <a href="conceptualisation.html">conceptualisation</a>, <a href="conceptuality.html">conceptuality</a>, <a href="conceptualization.html">conceptualization</a>, <a href="dimension.html">dimension</a>, <a href="division.html">division</a>, <a href="fact.html">fact</a>, <a href="hypothesis.html">hypothesis</a>, <a href="law.html">law</a>, <a href="law%20of%20nature.html">law of nature</a>, <a href="lexicalized%20concept.html">lexicalized concept</a>, <a href="linguistic%20rule.html">linguistic rule</a>, <a href="natural%20law.html">natural law</a>, <a href="notion.html">notion</a>, <a href="part.html">part</a>, <a href="possibility.html">possibility</a>, <a href="property.html">property</a>, <a href="quantity.html">quantity</a>, <a href="regulation.html">regulation</a>, <a href="rule.html">rule</a>, <a href="section.html">section</a>, <a href="theory.html">theory</a>, <a href="whole.html">whole</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="conceive.html">conceive</a>, <a href="conceptual.html">conceptual</a>, <a href="conceptualise.html">conceptualise</a>, <a href="conceptualize.html">conceptualize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absolutist.html">absolutist</a>, <a href="abstract.html">abstract</a>, <a href="abstract%20entity.html">abstract entity</a>, <a href="abstraction.html">abstraction</a>, <a href="Alfred%20Russel%20Wallace.html">Alfred Russel Wallace</a>, <a href="arborvirus.html">arborvirus</a>, <a href="arbovirus.html">arbovirus</a>, <a href="aspect.html">aspect</a>, <a href="augmentation.html">augmentation</a>, <a href="beau%20ideal.html">beau ideal</a>, <a href="benefit%20album.html">benefit album</a>, <a href="Cabalism.html">Cabalism</a>, <a href="Cassirer.html">Cassirer</a>, <a href="categorial.html">categorial</a>, <a href="category.html">category</a>, <a href="chain.html">chain</a>, <a href="cognition.html">cognition</a>, <a href="conception.html">conception</a>, <a href="conceptional.html">conceptional</a>, <a href="conceptualisation.html">conceptualisation</a>, <a href="conceptuality.html">conceptuality</a>, <a href="conceptualization.html">conceptualization</a>, <a href="concretion.html">concretion</a>, <a href="cross-division.html">cross-division</a>, <a href="determination.html">determination</a>, <a href="dialectic.html">dialectic</a>, <a href="embodiment.html">embodiment</a>, <a href="Ernst%20Cassirer.html">Ernst Cassirer</a>, <a href="ether.html">ether</a>, <a href="extension.html">extension</a>, <a href="externalize.html">externalize</a>, <a href="fact.html">fact</a>, <a href="Fechner%27s%20law.html">Fechner's law</a>, <a href="Friedrich%20Wilhelm%20Nietzsche.html">Friedrich Wilhelm Nietzsche</a>, <a href="Hermann%20Minkowski.html">Hermann Minkowski</a>, <a href="hypostasis.html">hypostasis</a>, <a href="hypothesis.html">hypothesis</a>, <a href="icon.html">icon</a>, <a href="ideational.html">ideational</a>, <a href="idol.html">idol</a>, <a href="immunity.html">immunity</a>, <a href="indistinctness.html">indistinctness</a>, <a href="intellect.html">intellect</a>, <a href="intention.html">intention</a>, <a href="judgment.html">judgment</a>, <a href="Kabbalism.html">Kabbalism</a>, <a href="lexicalisation.html">lexicalisation</a>, <a href="lexicalization.html">lexicalization</a>, <a href="lexicalized%20concept.html">lexicalized concept</a>, <a href="Lise%20Meitner.html">Lise Meitner</a>, <a href="Magnetic%20fluid.html">Magnetic fluid</a>, <a href="Manifoldness.html">Manifoldness</a>, <a href="Mazdaism.html">Mazdaism</a>, <a href="Meitner.html">Meitner</a>, <a href="Minkowski.html">Minkowski</a>, <a href="More.html">More</a>, <a href="Nietzsche.html">Nietzsche</a>, <a href="notion.html">notion</a>, <a href="notional.html">notional</a>, <a href="nuisance.html">nuisance</a>, <a href="number.html">number</a>, <a href="paragon.html">paragon</a>, <a href="percept.html">percept</a>, <a href="perception.html">perception</a>, <a href="perceptual%20experience.html">perceptual experience</a>, <a href="perfection.html">perfection</a>, <a href="Physitheism.html">Physitheism</a>, <a href="possibility.html">possibility</a>, <a href="power%20law.html">power law</a>, <a href="quantity.html">quantity</a>, <a href="rational.html">rational</a>, <a href="reciprocal.html">reciprocal</a>, <a href="reify.html">reify</a>, <a href="Rutherford%20atom.html">Rutherford atom</a>, <a href="schema.html">schema</a>, <a href="shape.html">shape</a>, <a href="simple.html">simple</a>, <a href="Sir%20Thomas%20More.html">Sir Thomas More</a>, <a href="Stevens%27%20law.html">Stevens' law</a>, <a href="Stevens%27%20power%20law.html">Stevens' power law</a>, <a href="tensor.html">tensor</a>, <a href="theory.html">theory</a>, <a href="Thomas%20More.html">Thomas More</a>, <a href="thought.html">thought</a>, <a href="tribute%20album.html">tribute album</a>, <a href="true.html">true</a>, <a href="universal.html">universal</a>, <a href="Wallace.html">Wallace</a>, <a href="Weber%27s%20law.html">Weber's law</a>, <a href="Weber-Fechner%20law.html">Weber-Fechner law</a>, <a href="Zoroastrianism.html">Zoroastrianism</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xoncept, doncept, foncept, voncept, cincept, ckncept, clncept, cpncept, cobcept, cohcept, cojcept, comcept, conxept, condept, confept, convept, concwpt, concspt, concdpt, concrpt, conceot, concelt, concepr, concepf, concepg, concepy
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

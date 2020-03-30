@@ -1,0 +1,553 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>profession</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">an occupation requiring special education (especially in the liberal arts or sciences)</span> </li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">affirmation of acceptance of some religion or faith</span> <span class="quot">"a profession of Christianity"</span></li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">an open avowal (true or false) of some belief or opinion</span> <span class="quot">"a profession of disagreement"</span></li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">the body of people in a learned occupation</span> <span class="quot">"the news spread rapidly through the medical profession","they formed a community of scientists"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Arthur Conan Doyle, author of the Sherlock Holmes stories, was an ophthalmologist by profession									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Profession</span> <span class="exp">That of which one professed knowledge; the occupation, if not mechanical, agricultural, or the like, to which one devotes one's self; the business which one professes to understand, and to follow for subsistence; calling; vocation; employment; as, the <span class="wUex">profession</span> of arms; the <span class="wUex">profession</span> of a clergyman, lawyer, or physician; the <span class="wUex">profession</span> of lecturer on chemistry.
+         </span> <span class="wuQuot">"Hi tried five or six professions in turn."</span></li><li><span class="term">Profession</span> <span class="exp">That which one professed; a declaration; an avowal; a claim; as, his <span class="wUex">professions</span> are insincere.</span> <span class="wuQuot">"The Indians quickly perceive the coincidence or the contradiction between professions and conduct."</span></li><li><span class="term">Profession</span> <span class="exp"><span class="wuFld">(Eccl. Law)</span> The act of entering, or becoming a member of, a religious order.</span> </li><li><span class="term">Profession</span> <span class="exp">The act of professing or claiming; open declaration; public avowal or acknowledgment; as, <span class="wUex">professions</span> of friendship; a <span class="wUex">profession</span> of faith.
+         </span> <span class="wuQuot">"A solemn vow, promise, and profession ."</span></li><li><span class="term">Profession</span> <span class="exp">The collective body of persons engaged in a calling; as, the <span class="wUex">profession</span> distrust him.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">The act of professing; open declaration; public avowal or acknowledgment of one's sentiments or belief.</span> </li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">That which is professed; a declaration; a representation or protestation; pretense; specifically, an open and formal avowal of Christian faith and purpose.</span> </li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">The calling or occupation which one professes to understand and to follow; vocation; specifically, a vocation in which a professed knowledge of some department of science or learning is used by its practical application to affairs of others, either in advising, guiding, or teaching them, or in serving their interests or welfare in the practice of an art founded on it. Formerly theology, law, and medicine were specifically known as the professions; but, as the applications of science and learning are extended to other departments of affairs, other vocations also receive the name. The word implies professed attainments in special knowledge, as distinguished from mere skill; a practical dealing with affairs, as distinguished from mere study or investigation; and an application of such knowledge to uses for others as a vocation, as distinguished from its pursuit for one's own purposes. In professions strictly so called a preliminary examination as to qualifications is usually demanded by law or usage, and a license or other official authority founded thereon required. In law the significance of the word has been contested under statutes imposing taxes on persons pursuing any “occupation, trade, or profession,” and under statutes authorizing arrest in civil actions for misconduct in a “professional employment”; and it has been, in the former use, held clearly to include the vocation of an attorney, and upon the same principle would doubtless include physicians, unless the mention of trade, etc., in the same clause of the statute be ground for interpreting the statute as relating only to business vocations. Professional employment, in statutes allowing arrest, is regarded as not including a private agency like that of a factor or a real-estate broker, which can be taken up and laid down at pleasure.</span> </li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">The collective body of persons engaged in a calling: as, practices disgraceful to the profession; to be at the head of one's profession.</span> </li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">The act by which a novice enters into a religious order and takes its vows. In the Roman Catholic Church he or she must be at least sixteen years of age and must have completed a year of probation.</span> </li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">Character; nature.</span> </li><li><span class="tSpeech">n</span> <span class="term">profession</span> <span class="exp">Synonyms Vocation, Business, etc. See occupation.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Profession</span> <span class="exp">the act of professing: open declaration: pretence: an employment not mechanical and requiring some degree of learning: calling or known employment: the collective body of persons engaged in any profession: entrance into a religious order</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Jacques Rousseau</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20Jacques%20Rousseau.jpg" alt="Jean%20Jacques%20Rousseau">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The training of children is a profession, where we must know how to waste time in order to save it”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Corra May Harris</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Corra May Harris">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The bravest thing you can do when you are not brave is to profess courage and act accordingly.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Will Rogers</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Will%20Rogers.jpg" alt="Will%20Rogers">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Being a hero is about the shortest lived profession on earth.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mark Twain</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mark%20Twain.jpg" alt="Mark%20Twain">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Humor must not professedly teach and it must not professedly preach, but it must do both if it would live forever.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Elbert Hubbard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Elbert%20Hubbard.jpg" alt="Elbert%20Hubbard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Live truth instead of professing it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Hazlitt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Hazlitt.jpg" alt="William%20Hazlitt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“People of genius do not excel in any profession because they work in it, they work in it because they excel.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F., fr. L. <span class="wUets">professio</span>,. See <span class="wUer">Profess</span> (v.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>profès</i>, professed, said of a member of a religious order—L. <i>professus</i>, perf. p. of <i>profitēri</i>—<i>pro</i>, publicly, <i>fatēri</i>, to confess.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						You have taken upon you the profession of Christianity.
+					</div>
+					<div class="uAuthor">
+						"Food for the Lambs; or, Helps for Young Christians" by <span>Charles Ebert Orr</span>					</div>
+										<div class="usage">
+						Truth professed has no transforming power; truth received and fed upon can revolutionise a man's whole character.
+					</div>
+					<div class="uAuthor">
+						"Expositions of Holy Scripture: Romans Corinthians (To II Corinthians, Chap. V)" by <span>Alexander Maclaren</span>					</div>
+										<div class="usage">
+						His was the profession that was and ever should be the elect.
+					</div>
+					<div class="uAuthor">
+						"The Last Shot" by <span>Frederick Palmer</span>					</div>
+										<div class="usage">
+						Music was with them a pastime, not a profession.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys To the Homes of the Great, Volume 3 (of 14)" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						Charles was a professed Protestant; James was a professed papist.
+					</div>
+					<div class="uAuthor">
+						"Brave Men and Women" by <span>O.E. Fuller</span>					</div>
+										<div class="usage">
+						He was a facetious little fellow, and, it was said, very clever in his profession.
+					</div>
+					<div class="uAuthor">
+						"Poor Jack" by <span>Frederick Marryat</span>					</div>
+										<div class="usage">
+						His college mates had talked over professions, and agreed that law was a good one in New York.
+					</div>
+					<div class="uAuthor">
+						"The Honorable Peter Stirling and What People Thought of Him" by <span>Paul Leicester Ford</span>					</div>
+										<div class="usage">
+						A moral tone ought to be infused into the profession which should drive such men out of it.
+					</div>
+					<div class="uAuthor">
+						"Speeches and Letters of Abraham Lincoln, 1832-1865" by <span>Abraham Lincoln</span>					</div>
+										<div class="usage">
+						I think I may say that I am doing fairly well in my profession.
+					</div>
+					<div class="uAuthor">
+						"Second Plays" by <span>A. A. Milne</span>					</div>
+										<div class="usage">
+						Esther arrives here tomorrow to stay with us for a fortnight before she is professed.
+					</div>
+					<div class="uAuthor">
+						"The Altar Steps" by <span>Compton MacKenzie</span>					</div>
+										<div class="usage">
+						In the first place, I unhesitatingly profess my belief in the absolute freedom of man's will.
+					</div>
+					<div class="uAuthor">
+						"Life and Labors of Elder John Kline, the Martyr Missionary" by <span>John Kline</span>					</div>
+										<div class="usage">
+						The first was, from the nature of the case, all profession and promise.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						About a quarter of the population are Tamils professing Hinduism.
+					</div>
+					<div class="uAuthor">
+						"Hinduism and Buddhism, An Historical Sketch, Vol. 3 (of 3)" by <span>Charles Eliot</span>					</div>
+										<div class="usage">
+						Education is not a profession in the sense that medicine and law are professions.
+					</div>
+					<div class="uAuthor">
+						"Craftsmanship in Teaching" by <span>William Chandler Bagley</span>					</div>
+										<div class="usage">
+						The change is most perceptible among the educated classes and in the learned professions.
+					</div>
+					<div class="uAuthor">
+						"The Catholic World; Volume I, Issues 1-6" by <span>E. Rameur</span>					</div>
+										<div class="usage">
+						The public are loyal to the profession of medicine, and seldom do we hear of any members of that calling who abuse their high privileges.
+					</div>
+					<div class="uAuthor">
+						"The Doctor in History, Literature, Folk-Lore, Etc." by <span>Various</span>					</div>
+										<div class="usage">
+						Each theory professes to desire the fullest development and freedom of the individual.
+					</div>
+					<div class="uAuthor">
+						"Ethics" by <span>John Dewey and James Hayden Tufts</span>					</div>
+										<div class="usage">
+						He was made for his profession, and not his profession for him, which is too often the case.
+					</div>
+					<div class="uAuthor">
+						"Sketches of Successful New Hampshire Men" by <span>Various</span>					</div>
+										<div class="usage">
+						He had a paternal uncle named Antonio, by profession a tailor, who educated his two sons, Agostino and Annibale, at home.
+					</div>
+					<div class="uAuthor">
+						"The History of Painting in Italy, Vol. V (of 6)" by <span>Luigi Antonio Lanzi</span>					</div>
+										<div class="usage">
+						Compare this, professing Christian, with your actual life.
+					</div>
+					<div class="uAuthor">
+						"Bible Emblems" by <span>Edward E. Seelye</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Nor that I meane, henceforth<br>
+This strange will to professe:<br>
+I never will betray such trust<br>
+And fall to ficklenesse.
+							<div class="poet">"A Fancy" by <span>Edward Dyer</span></div>
+						</div>
+											<div class="poemQuote">
+							The isles shall know the righteousness<br>
+Of our incarnate God,<br>
+And nations yet unborn profess<br>
+Salvation in his blood.
+							<div class="poet">"Psalm 22  part 2" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Who hate a freedom-loving press,<br>
+The truth, and all who it profess,<br>
+Who don't believe in our success?<br>
+The Copperheads.
+							<div class="poet">"The Copperheads" by <span>Anonymous Americas</span></div>
+						</div>
+											<div class="poemQuote">
+							I to my chimney's shine<br>
+Brought him, as Love professes,<br>
+And chafed his hands with mine,<br>
+And dried his dropping tresses.
+							<div class="poet">"The Cheat Of Cupid; Or, The Ungentle Guest" by <span>Robert Herrick</span></div>
+						</div>
+											<div class="poemQuote">
+							Then shall my Delia's self declare<br>
+That I professed the truth,<br>
+And have preserved my little share<br>
+In everlasting youth.
+							<div class="poet">"Apology To Delia : For Desiring A Lock Of Her Hair" by <span>William Cowper</span></div>
+						</div>
+											<div class="poemQuote">
+							More honour to the law profess,<br>
+But giving more we give it less.<br>
+Its heavy yoke in vain we draw,<br>
+By turning gospel into law.
+							<div class="poet">"The Believer's Principles : Chap. II." by <span>Ralph Erskine</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The Profession Technical Communication .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.stc.org/education/online-education/recorded-seminars/item/going-green-as-a-technical-communicator-2?category_id=88" target="_blank" rel="external nofollow">stc.org</a>
+					</div>
+										<div class="usage">
+						In a profession that relies on backup, being shunned by fellow officers can be career ending.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.officer.com/article/10233064/contagious-vs-conditioned-shooting" target="_blank" rel="external nofollow">officer.com</a>
+					</div>
+										<div class="usage">
+						Robert C Baldwin, CMRP, Editor T he maintenance and reliability workforce is aging and youngsters are choosing other professions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mt-online.com/september2003/time-out-an-implicit-training-ingredient?Itemid=90" target="_blank" rel="external nofollow">mt-online.com</a>
+					</div>
+										<div class="usage">
+						Are people losing respect for the CIO profession, or have they just lost their perspective.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.informationweek.com/byte/are-we-giving-cios-an-inferiority-comple/240012735?cid=SBX_byte_related_commentary_Executive_insights/interviews_whats_killing_apm&amp;itc=SBX_byte_related_commentary_Executive_insights/interviews_whats_killing_apm" target="_blank" rel="external nofollow">informationweek.com</a>
+					</div>
+										<div class="usage">
+						This time, he's professing his love to Federal Donuts.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.citypaper.net/blogs/mealticket/SNACKTIME-March-30-2012.html" target="_blank" rel="external nofollow">citypaper.net</a>
+					</div>
+										<div class="usage">
+						Unparalleled Service to the Chiropractic Profession.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chiroweb.com/archives/13/19/23.html" target="_blank" rel="external nofollow">chiroweb.com</a>
+					</div>
+										<div class="usage">
+						File the teaching profession under this category.
+					</div>
+					<div class="uAuthor">
+						<a href="http://973thedawg.com/head-of-the-class-theadvertiser-com-the-advertiser/" target="_blank" rel="external nofollow">973thedawg.com</a>
+					</div>
+										<div class="usage">
+						 Legal Profession Makes a Case for its Critics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.slate.com/blogs/breakingviews/2012/05/01/u_s_legal_profession_makes_a_case_for_its_critics_.html" target="_blank" rel="external nofollow">slate.com</a>
+					</div>
+										<div class="usage">
+						Diversity, inclusion initiatives becoming more widespread in State Bar, legal profession .
+					</div>
+					<div class="uAuthor">
+						<a href="http://milawyersweekly.com/news/2011/09/09/diversity-inclusion-initiatives-becoming-more-widespread-in-state-bar-legal-profession/" target="_blank" rel="external nofollow">milawyersweekly.com</a>
+					</div>
+										<div class="usage">
+						And She Might Go into the Legal Profession .
+					</div>
+					<div class="uAuthor">
+						<a href="http://therockstation99x.com/casey-anthony-is-a-free-woman-and-she-might-go-into-the-legal-profession/" target="_blank" rel="external nofollow">therockstation99x.com</a>
+					</div>
+										<div class="usage">
+						NYSBA Adopts Report On Legal Profession 's Future.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metrocorpcounsel.com/announcements/13849/nysba-adopts-report-legal-professions-future" target="_blank" rel="external nofollow">metrocorpcounsel.com</a>
+					</div>
+										<div class="usage">
+						NYCLA's 96th Annual Dinner Celebrates Diversity In The Legal Profession .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metrocorpcounsel.com/announcements/13482/nyclas-96th-annual-dinner-celebrates-diversity-legal-profession" target="_blank" rel="external nofollow">metrocorpcounsel.com</a>
+					</div>
+										<div class="usage">
+						Not many celebrity chefs have risen to the top of the culinary profession as quietly as Michelle Bernstein has.
+					</div>
+					<div class="uAuthor">
+						<a href="http://restaurant-hospitality.com/bookreport/secrets_stealthy_star_0209" target="_blank" rel="external nofollow">restaurant-hospitality.com</a>
+					</div>
+										<div class="usage">
+						Success as a novelist hasn't lured Jackson obstetrician away from his chosen profession.
+					</div>
+					<div class="uAuthor">
+						<a href="http://msbusiness.com/blog/2011/04/10/not-ready-to-give-up-stethoscope/" target="_blank" rel="external nofollow">msbusiness.com</a>
+					</div>
+										<div class="usage">
+						Calipari professes love for his job to Tip-Off Luncheon crowd, despite aging rapidly.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kentucky.com/2012/10/10/2367090/uk-basketball-calipari-professes.html" target="_blank" rel="external nofollow">kentucky.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Profess-Reg. &amp; Ord.publico Eruditorum Examini modeste sub jicit Sven Gustaf Sommelius, Stipendiarius Regius &amp; Palmcreutzianus Lundensis.
+					</div>
+					<div class="uAuthor">
+						On the Complete Solution to the Most General Fifth Degree Polynomial
+					</div>
+										<div class="usage">
+						Possibly this was why later on I have chosen Natural Sciences and Mathematics for my profession. 
+					</div>
+					<div class="uAuthor">
+						On the concept of normal shift in non-metric geometry
+					</div>
+										<div class="usage">
+						However, improvements in child care and parental leave policies cannot be easily achieved through individual contributions, but are well within reach of funding agencies – as long as these issues are put on the high-priority list for the profession. 
+					</div>
+					<div class="uAuthor">
+						Challenges facing young astrophysicists
+					</div>
+										<div class="usage">
+						As academics, we do enjoy certain ﬂexibility in our profession, and therefore such a facility (or facilities recommended by the institution) should afford ﬂexible part-time options, rather than a binary full-week-or-nothing policy. 
+					</div>
+					<div class="uAuthor">
+						Challenges facing young astrophysicists
+					</div>
+										<div class="usage">
+						Many institutions now offer extended time for tenure review for both male and female parents, and we believe that this policy should become the norm of the profession. 
+					</div>
+					<div class="uAuthor">
+						Challenges facing young astrophysicists
+					</div>
+										<div class="usage">
+						How can this be? Don’t the engineers and biologists need to study physics? It’s basic! Unfortunately this is an indication that our perceptions of our profession and teaching may be culturally biased. 
+					</div>
+					<div class="uAuthor">
+						The role of context and culture in teaching physics: The implication of disciplinary differences
+					</div>
+										<div class="usage">
+						The broad cultural elements we all learn from being part of a community – a profession, a nation, a family, a religion – plays a role in how we interpret what we see and do. 
+					</div>
+					<div class="uAuthor">
+						The role of context and culture in teaching physics: The implication of disciplinary differences
+					</div>
+										<div class="usage">
+						There is an old dictum, “Every man is a debtor to his profession.” Such a debt is the most obvious in mathematics where every past discovery provides a perpetual free lunch for future generations, until the end of time or civilization − whichever comes ﬁrst. 
+					</div>
+					<div class="uAuthor">
+						And free lunch for all...
+					</div>
+										<div class="usage">
+						In some cases these technologies turn out to be much less than they appeared to be, while other technologies do substantially advance our profession. 
+					</div>
+					<div class="uAuthor">
+						Concrete uses of XML in software development and data analysis
+					</div>
+										<div class="usage">
+						Over the last ten years statistical physicists have used the conceptual toolbox of their profession for understanding some aspects of the dynamical evolution of eco-systems which include, for example, the “generic” trends in the statistics of the data on speciation and extinction [15, 16, 17]. 
+					</div>
+					<div class="uAuthor">
+						Evolutionary ecology in-silico: Does mathematical modelling help in understanding the "generic" trends?
+					</div>
+										<div class="usage">
+						The privileged place of the CRTI-B allows us to regroup numerous actors representing the different professions of the construction sector around the Build-IT project, and to think together about real needs of the digital cooperation. 
+					</div>
+					<div class="uAuthor">
+						IT services design to support coordination practices in the Luxembourguish AEC sector
+					</div>
+										<div class="usage">
+						For example, a paper published in the KDD (Knowledge Discovery and Data Mining) Conference would be classiﬁed under “Data Mining”, while a paper published in the Journal of Information Professing and Management would be classiﬁed under “Information Retrieval”. 
+					</div>
+					<div class="uAuthor">
+						Information Diffusion in Computer Science Citation Networks
+					</div>
+										<div class="usage">
+						Ref 34). Another study trained a group of corporate professionals in Toulmin structures and then had them try to apply this tool to diagram an argument relevant to their profession. 
+					</div>
+					<div class="uAuthor">
+						Analyzing Problem Solving Using Math in Physics: Epistemological Framing via Warrants
+					</div>
+										<div class="usage">
+						In particular I think I speak for all of us when I profess the chiral community’s indebtedness to Ting-Wai Chiu for doing so much to produce an inspiring and enjoyable meeting. 
+					</div>
+					<div class="uAuthor">
+						Summary Talk at Chiral '99
+					</div>
+										<div class="usage">
+						Gore was a civil engineer by profession and served in India for 11 years before retiring to pursue his astronomical interests. 
+					</div>
+					<div class="uAuthor">
+						John Ellard Gore: of immensity and minuteness
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an open avowal (true or false) of some belief or opinion"><a href="professing.html">professing</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="affirmation.html">affirmation</a>, <a href="avouchment.html">avouchment</a>, <a href="avowal.html">avowal</a>, <a href="business.html">business</a>, <a href="job.html">job</a>, <a href="line.html">line</a>, <a href="line%20of%20work.html">line of work</a>, <a href="occupation.html">occupation</a>, <a href="occupational%20group.html">occupational group</a>, <a href="vocation.html">vocation</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="architecture.html">architecture</a>, <a href="bar.html">bar</a>, <a href="business%20community.html">business community</a>, <a href="businessmen.html">businessmen</a>, <a href="community%20of%20scholars.html">community of scholars</a>, <a href="economics%20profession.html">economics profession</a>, <a href="education.html">education</a>, <a href="engineering.html">engineering</a>, <a href="health%20profession.html">health profession</a>, <a href="journalism.html">journalism</a>, <a href="learned%20profession.html">learned profession</a>, <a href="legal%20community.html">legal community</a>, <a href="legal%20profession.html">legal profession</a>, <a href="literature.html">literature</a>, <a href="politics.html">politics</a>, <a href="priesthood.html">priesthood</a>, <a href="technology.html">technology</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="profess.html">profess</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-ship.html">-ship</a>, <a href="accountant.html">accountant</a>, <a href="acknowledgment.html">acknowledgment</a>, <a href="Acrobatism.html">Acrobatism</a>, <a href="acting.html">acting</a>, <a href="actuary.html">actuary</a>, <a href="adherent.html">adherent</a>, <a href="amateurism.html">amateurism</a>, <a href="Antiburgher.html">Antiburgher</a>, <a href="Antonomasia.html">Antonomasia</a>, <a href="Apostacy.html">Apostacy</a>, <a href="apostasy.html">apostasy</a>, <a href="apostate.html">apostate</a>, <a href="apostatize.html">apostatize</a>, <a href="Apostolicism.html">Apostolicism</a>, <a href="apothecary.html">apothecary</a>, <a href="apprentice.html">apprentice</a>, <a href="apprenticeship.html">apprenticeship</a>, <a href="architect.html">architect</a>, <a href="architecture.html">architecture</a>, <a href="art.html">art</a>, <a href="Athanasian%20Creed.html">Athanasian Creed</a>, <a href="Athletism.html">Athletism</a>, <a href="attorneyship.html">attorneyship</a>, <a href="Augural.html">Augural</a>, <a href="bank.html">bank</a>, <a href="banner.html">banner</a>, <a href="Baptist.html">Baptist</a>, <a href="bar.html">bar</a>, <a href="benediction.html">benediction</a>, <a href="biretta.html">biretta</a>, <a href="board.html">board</a>, <a href="brain-worker.html">brain-worker</a>, <a href="brainworker.html">brainworker</a>, <a href="Bred%20to%20arms.html">Bred to arms</a>, <a href="brother.html">brother</a>, <a href="brotherhood.html">brotherhood</a>, <a href="Buckeen.html">Buckeen</a>, <a href="business.html">business</a>, <a href="caduceus.html">caduceus</a>, <a href="calling.html">calling</a>, <a href="canon.html">canon</a>, <a href="cant.html">cant</a>, <a href="Canting.html">Canting</a>, <a href="capacity.html">capacity</a>, <a href="caste.html">caste</a>, <a href="character.html">character</a>, <a href="chief.html">chief</a>, <a href="Christendom.html">Christendom</a>, <a href="christianly.html">christianly</a>, <a href="church.html">church</a>, <a href="clergy.html">clergy</a>, <a href="cloth.html">cloth</a>, <a href="colleague.html">colleague</a>, <a href="composer.html">composer</a>, <a href="confession.html">confession</a>, <a href="Confessionist.html">Confessionist</a>, <a href="confessor.html">confessor</a>, <a href="Confraternity.html">Confraternity</a>, <a href="confrere.html">confrere</a>, <a href="consideration.html">consideration</a>, <a href="consistence.html">consistence</a>, <a href="consistency.html">consistency</a>, <a href="cordon.html">cordon</a>, <a href="correspondent.html">correspondent</a>, <a href="costume.html">costume</a>, <a href="counselor.html">counselor</a>, <a href="cowl.html">cowl</a>, <a href="credit.html">credit</a>, <a href="creed.html">creed</a>, <a href="dancer.html">dancer</a>, <a href="Dancing%20girl.html">Dancing girl</a>, <a href="dentist.html">dentist</a>, <a href="dentistry.html">dentistry</a>, <a href="designation.html">designation</a>, <a href="desk.html">desk</a>, <a href="diploma.html">diploma</a>, <a href="disbar.html">disbar</a>, <a href="dispense.html">dispense</a>, <a href="Disprofess.html">Disprofess</a>, <a href="distinguished.html">distinguished</a>, <a href="Doctor.html">Doctor</a>, <a href="doctoral.html">doctoral</a>, <a href="double-dealing.html">double-dealing</a>, <a href="Education.html">Education</a>, <a href="efficiency.html">efficiency</a>, <a href="eminence.html">eminence</a>, <a href="engineering.html">engineering</a>, <a href="enter.html">enter</a>, <a href="entertainer.html">entertainer</a>, <a href="enthusiasm.html">enthusiasm</a>, <a href="etcher.html">etcher</a>, <a href="etiquette.html">etiquette</a>, <a href="event%20planner.html">event planner</a>, <a href="examination.html">examination</a>, <a href="examine.html">examine</a>, <a href="expert.html">expert</a>, <a href="extracurricular.html">extracurricular</a>, <a href="Extraprofessional.html">Extraprofessional</a>, <a href="faculty.html">faculty</a>, <a href="faker.html">faker</a>, <a href="farrier.html">farrier</a>, <a href="father.html">father</a>, <a href="fellow.html">fellow</a>, <a href="first%20lady.html">first lady</a>, <a href="follow.html">follow</a>, <a href="following.html">following</a>, <a href="Forester.html">Forester</a>, <a href="fraternity.html">fraternity</a>, <a href="function.html">function</a>, <a href="godfather.html">godfather</a>, <a href="goliard.html">goliard</a>, <a href="graver.html">graver</a>, <a href="Hatchment.html">Hatchment</a>, <a href="haunt.html">haunt</a>, <a href="head.html">head</a>, <a href="Head-hunter.html">Head-hunter</a>, <a href="health%20care.html">health care</a>, <a href="healthcare.html">healthcare</a>, <a href="heretic.html">heretic</a>, <a href="Hetaera.html">Hetaera</a>, <a href="homage.html">homage</a>, <a href="honor.html">honor</a>, <a href="horticulturist.html">horticulturist</a>, <a href="humorist.html">humorist</a>, <a href="in%20name.html">in name</a>, <a href="In%20word.html">In word</a>, <a href="incompatible.html">incompatible</a>, <a href="ineffable.html">ineffable</a>, <a href="instruction.html">instruction</a>, <a href="instrumentalist.html">instrumentalist</a>, <a href="irregular.html">irregular</a>, <a href="jargon.html">jargon</a>, <a href="journalism.html">journalism</a>, <a href="Journalize.html">Journalize</a>, <a href="judicature.html">judicature</a>, <a href="junior.html">junior</a>, <a href="juristic.html">juristic</a>, <a href="Juristical.html">Juristical</a>, <a href="laity.html">laity</a>, <a href="law.html">law</a>, <a href="Law%20lords.html">Law lords</a>, <a href="Law-list.html">Law-list</a>, <a href="Law-lord.html">Law-lord</a>, <a href="lawyer.html">lawyer</a>, <a href="lay.html">lay</a>, <a href="layman.html">layman</a>, <a href="learning.html">learning</a>, <a href="legal.html">legal</a>, <a href="Letter-writer.html">Letter-writer</a>, <a href="Liberal%20education.html">Liberal education</a>, <a href="license.html">license</a>, <a href="licentiate.html">licentiate</a>, <a href="literary.html">literary</a>, <a href="literature.html">literature</a>, <a href="litterateur.html">litterateur</a>, <a href="locum.html">locum</a>, <a href="locum%20tenens.html">locum tenens</a>, <a href="martyr.html">martyr</a>, <a href="medical.html">medical</a>, <a href="medicine.html">medicine</a>, <a href="Mennonite.html">Mennonite</a>, <a href="military.html">military</a>, <a href="ministry.html">ministry</a>, <a href="misanthropic.html">misanthropic</a>, <a href="Misprofess.html">Misprofess</a>, <a href="musician.html">musician</a>, <a href="mystery.html">mystery</a>, <a href="nerd.html">nerd</a>, <a href="nonprofessional.html">nonprofessional</a>, <a href="normal%20school.html">normal school</a>, <a href="novice.html">novice</a>, <a href="nursing.html">nursing</a>, <a href="occupation.html">occupation</a>, <a href="old%20boy%20network.html">old boy network</a>, <a href="old-timer.html">old-timer</a>, <a href="order.html">order</a>, <a href="ornament.html">ornament</a>, <a href="Ostent.html">Ostent</a>, <a href="outsider.html">outsider</a>, <a href="Pantagruelism.html">Pantagruelism</a>, <a href="paraprofessional.html">paraprofessional</a>, <a href="patron%20saint.html">patron saint</a>, <a href="Peculium.html">Peculium</a>, <a href="pedagogy.html">pedagogy</a>, <a href="pedantry.html">pedantry</a>, <a href="people.html">people</a>, <a href="physic.html">physic</a>, <a href="player.html">player</a>, <a href="political.html">political</a>, <a href="politics.html">politics</a>, <a href="populace.html">populace</a>, <a href="practice.html">practice</a>, <a href="practice%20of%20law.html">practice of law</a>, <a href="practice%20of%20medicine.html">practice of medicine</a>, <a href="Practicer.html">Practicer</a>, <a href="practician.html">practician</a>, <a href="practise.html">practise</a>, <a href="practitioner.html">practitioner</a>, <a href="prepare.html">prepare</a>, <a href="prince.html">prince</a>, <a href="private%20practice.html">private practice</a>, <a href="profess.html">profess</a>, <a href="professed.html">professed</a>, <a href="professedly.html">professedly</a>, <a href="professional.html">professional</a>, <a href="professional%20association.html">professional association</a>, <a href="professionalism.html">professionalism</a>, <a href="Professionalist.html">Professionalist</a>, <a href="professionally.html">professionally</a>, <a href="professor.html">professor</a>, <a href="profitable.html">profitable</a>, <a href="proprietary.html">proprietary</a>, <a href="pursue.html">pursue</a>, <a href="pursuit.html">pursuit</a>, <a href="quack.html">quack</a>, <a href="quality.html">quality</a>, <a href="quill.html">quill</a>, <a href="Rajput.html">Rajput</a>, <a href="Rebaptism.html">Rebaptism</a>, <a href="rebus.html">rebus</a>, <a href="recant.html">recant</a>, <a href="recognisance.html">recognisance</a>, <a href="recognizance.html">recognizance</a>, <a href="religion.html">religion</a>, <a href="religionism.html">religionism</a>, <a href="renounce.html">renounce</a>, <a href="report.html">report</a>, <a href="retired.html">retired</a>, <a href="reverend.html">reverend</a>, <a href="Rhapsodist.html">Rhapsodist</a>, <a href="Saintism.html">Saintism</a>, <a href="season.html">season</a>, <a href="sectary.html">sectary</a>, <a href="sedentary.html">sedentary</a>, <a href="serious.html">serious</a>, <a href="Service.html">Service</a>, <a href="settle.html">settle</a>, <a href="settlement.html">settlement</a>, <a href="ship.html">ship</a>, <a href="shop.html">shop</a>, <a href="Shoppy.html">Shoppy</a>, <a href="sign%20of%20the%20cross.html">sign of the cross</a>, <a href="Singer.html">Singer</a>, <a href="Socratic.html">Socratic</a>, <a href="soldier.html">soldier</a>, <a href="specialist.html">specialist</a>, <a href="stability.html">stability</a>, <a href="stage.html">stage</a>, <a href="state.html">state</a>, <a href="stock-in-trade.html">stock-in-trade</a>, <a href="study.html">study</a>, <a href="surgeon.html">surgeon</a>, <a href="sword.html">sword</a>, <a href="talk%20shop.html">talk shop</a>, <a href="teaching.html">teaching</a>, <a href="Technic.html">Technic</a>, <a href="technical.html">technical</a>, <a href="technicality.html">technicality</a>, <a href="technically.html">technically</a>, <a href="Technicals.html">Technicals</a>, <a href="term.html">term</a>, <a href="testament.html">testament</a>, <a href="testimony.html">testimony</a>, <a href="The%20cloth.html">The cloth</a>, <a href="The%20long%20robe.html">The long robe</a>, <a href="The%20robe.html">The robe</a>, <a href="theology.html">theology</a>, <a href="To%20smell%20of%20the%20shop.html">To smell of the shop</a>, <a href="Toothdrawer.html">Toothdrawer</a>, <a href="train.html">train</a>, <a href="training.html">training</a>, <a href="training%20college.html">training college</a>, <a href="Tridentine.html">Tridentine</a>, <a href="Unchristianize.html">Unchristianize</a>, <a href="university.html">university</a>, <a href="unprofessional.html">unprofessional</a>, <a href="vocation.html">vocation</a>, <a href="war.html">war</a>, <a href="Wiredraw.html">Wiredraw</a>, <a href="work.html">work</a>, <a href="writer.html">writer</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					orofession, lrofession, peofession, pdofession, pfofession, ptofession, prifession, prkfession, prlfession, prpfession, prodession, proression, progession, provession, procession, profwssion, profsssion, profdssion, profrssion, profeasion, profewsion, profedsion, profexsion, profezsion, profeasion, profesaion, profeswion, profesdion, profesxion, profeszion, profesaion, professuon, professjon, professkon, professoon, professiin, professikn, professiln, professipn, professiob, professioh, professioj, professiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,549 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>gratitude</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">gratitude</span> <span class="exp">a feeling of thankfulness and appreciation</span> <span class="quot">"he was overwhelmed with gratitude for their help"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										When you give someone roses, the color can have a meaning. The meaning of rose colors: Red = Love and respect, Deep pink = Gratitude, appreciation, Light pink = Admiration, sympathy White = Reverence, humility, Yellow = Joy, gladness,Orange = Enthusiasm, desire, Red &amp; yellow blend = Gaiety, joviality,Pale blended tones = Sociability, friendship									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Gratitude</span> <span class="exp">The state of being grateful; warm and friendly feeling toward a benefactor; kindness awakened by a favor received; thankfulness.</span> <span class="wuQuot">"The debt immense of endless gratitude."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">gratitude</span> <span class="exp">The state or quality of being grateful or thankful; a warm and friendly feeling in response to a favor or favors received; thankfulness.</span> </li><li><span class="tSpeech">n</span> <span class="term">gratitude</span> <span class="exp">Synonyms See grateful.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Gratitude</span> <span class="exp"><span class="itl">grat′i-tūd</span> warm and friendly feeling towards a benefactor: thankfulness.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sir Walter Scott</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sir%20Walter%20Scott.jpg" alt="Sir%20Walter%20Scott">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ambition breaks the ties of blood, and forgets the obligations of gratitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oliver Goldsmith</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oliver%20Goldsmith.jpg" alt="Oliver%20Goldsmith">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Fear guides more than gratitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Eliot.jpg" alt="George%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Friendships begin with liking or gratitude roots that can be pulled up.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Ward Beecher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Ward%20Beecher.jpg" alt="Henry%20Ward%20Beecher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Next to ingratitude the most painful thing to bear is gratitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Ward Beecher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Ward%20Beecher.jpg" alt="Henry%20Ward%20Beecher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Gratitude is the fairest blossom which springs from the soul.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marcus T. Cicero</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marcus%20T.%20Cicero.jpg" alt="Marcus%20T.%20Cicero">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Gratitude is not only the greatest of virtues, but the parent of all the others.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">gratitude</span>, LL. <span class="wUets">gratitudo</span>, from <span class="wUets">gratus</span>, agreeable, grateful. See <span class="wUer">Grate</span> (a.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—Low L. <i>gratitudo</i>—-L. <i>gratus</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He emerged from that building, a little later, with a radiant face, and a heart throbbing with gratitude.
+					</div>
+					<div class="uAuthor">
+						"The Genius" by <span>Margaret Horton Potter</span>					</div>
+										<div class="usage">
+						Love does not come at will; and of goodness it is not born, nor of gratitude, nor of any right or reason on the earth.
+					</div>
+					<div class="uAuthor">
+						"Wisdom, Wit, and Pathos of Ouida" by <span>Ouida</span>					</div>
+										<div class="usage">
+						Second, a heart full of gratitude to God for this free gift.
+					</div>
+					<div class="uAuthor">
+						"Gathering Jewels" by <span>James Knowles and Matilda Darroch Knowles</span>					</div>
+										<div class="usage">
+						Her gratitude to me then must be very feeble.
+					</div>
+					<div class="uAuthor">
+						"The International Magazine, Volume 2, No. 2, January, 1851" by <span>Various</span>					</div>
+										<div class="usage">
+						The gratitude of the Prince was profuse.
+					</div>
+					<div class="uAuthor">
+						"The False Chevalier" by <span>William Douw Lighthall</span>					</div>
+										<div class="usage">
+						Every one also hastened to testify his gratitude to our old pilot, who, next to God, justly merited the title of our preserver.
+					</div>
+					<div class="uAuthor">
+						"Perils and Captivity" by <span>Charlotte-Adélaïde [née Picard] Dard</span>					</div>
+										<div class="usage">
+						If God had blessed you, you should show your gratitude.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great, Volume 7" by <span>Elbert  Hubbard</span>					</div>
+										<div class="usage">
+						He has obligations of gratitude to bind him to me: his dependence upon my uncle is through my means.
+					</div>
+					<div class="uAuthor">
+						"The Comedies of William Congreve Volume 1 [of 2]" by <span>William Congreve</span>					</div>
+										<div class="usage">
+						I repeat it, that no present was ever received by me with more sincere gratitude.
+					</div>
+					<div class="uAuthor">
+						"Hortense, Makers of History Series" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						George had nothing but words of gratitude about the doctors and nurses.
+					</div>
+					<div class="uAuthor">
+						"The Better Germany in War Time" by <span>Harold Picton</span>					</div>
+										<div class="usage">
+						Whichsoever of these we avert, we shall earn gratitude proportionate to the terrible magnitude of the danger.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books--Volume 14--Philosophy and Economics" by <span>Various</span>					</div>
+										<div class="usage">
+						Anything more would be a burden, but his heart is warm with gratitude to his brothers.
+					</div>
+					<div class="uAuthor">
+						"Deerfoot in The Mountains" by <span>Edward S. Ellis</span>					</div>
+										<div class="usage">
+						Jordan took him by the hand; it was his way of displaying gratitude.
+					</div>
+					<div class="uAuthor">
+						"The Goose Man" by <span>Jacob Wassermann</span>					</div>
+										<div class="usage">
+						She had offered him her lips in gratitude; they had kindled in him the flames of passion.
+					</div>
+					<div class="uAuthor">
+						"The Kingdom Round the Corner" by <span>Coningsby Dawson</span>					</div>
+										<div class="usage">
+						I could take the money to him and earn his gratitude, or use the money for mine own ends.
+					</div>
+					<div class="uAuthor">
+						"The Bronze Eagle" by <span>Emmuska Orczy, Baroness Orczy</span>					</div>
+										<div class="usage">
+						Mind, I claim no gratitude, as I shall expect your father to pay me what I have advanced.
+					</div>
+					<div class="uAuthor">
+						"The Bertrams" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						I owe him no gratitude.
+					</div>
+					<div class="uAuthor">
+						"A Coin of Edward VII" by <span>Fergus Hume</span>					</div>
+										<div class="usage">
+						They say some nations have no words for gratitude.
+					</div>
+					<div class="uAuthor">
+						"Hopes and Fears scenes from the life of a spinster" by <span>Charlotte M. Yonge</span>					</div>
+										<div class="usage">
+						You owe him gratitude.
+					</div>
+					<div class="uAuthor">
+						"Shirley" by <span>Charlotte Brontë</span>					</div>
+										<div class="usage">
+						They came to call on us the next day, and to thank us, and specially Gerald, with tears of gratitude.
+					</div>
+					<div class="uAuthor">
+						"Happy Days for Boys and Girls" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Obliged a thousand several ways,<br>
+It ne'er can break her chains,<br>
+While passion which her beauties raise<br>
+My gratitude maintains.<br>
+
+							<div class="poet">"Songs Set To Music: 11. Set" by <span>Matthew Prior</span></div>
+						</div>
+											<div class="poemQuote">
+							Tardy the offering is and weak;--<br>
+Yet were I happy if I knew<br>
+These children had the power to speak<br>
+My love and gratitude to you.
+							<div class="poet">"To Mary Field French" by <span>Eugene Field</span></div>
+						</div>
+											<div class="poemQuote">
+							Then let our gratitude now raise<br>
+(A tribute we shou'd ever pay!)<br>
+Our voices to our Maker's praise,<br>
+On ev'ry meal, and ev'ry day!<br>
+
+							<div class="poet">"Another, After Meat" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							He shar'd her feelings. "Bless your den,"<br>
+He said, as he withdrew,<br>
+"For gratitude has fled from men,<br>
+And seems to live with you!"
+							<div class="poet">"The Panther" by <span>William Hayley</span></div>
+						</div>
+											<div class="poemQuote">
+							Between the passing and the coming season,<br>
+This stormy interlude<br>
+Gives to our winter-wearied hearts a reason<br>
+For trustful gratitude.
+							<div class="poet">"The Wind Of March" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							And, while with gratitude we dwell<br>
+On all his tears of love and woe,<br>
+Let death's chill tide before us swell!<br>
+Let its still waters darkly flow!
+							<div class="poet">"Hymns for Communion I" by <span>John Pierpont</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Sem graduates with honor, gratitude .
+					</div>
+					<div class="uAuthor">
+						<a href="http://timesleader.com/stories/Sem-graduates-with-honor-gratitude,156255?category_id=487&amp;town_id=1&amp;sub_type=stories" target="_blank" rel="external nofollow">timesleader.com</a>
+					</div>
+										<div class="usage">
+						Focus on FaithCultivate an attitude of gratitude .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nevadaiowajournal.com/opinion/columnists/focus-on-faith-cultivate-an-attitude-of-gratitude/" target="_blank" rel="external nofollow">nevadaiowajournal.com</a>
+					</div>
+										<div class="usage">
+						Let's Get an Attitude of Gratitude .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wkyt.com/blogs/mrsbscorner/53356032.html" target="_blank" rel="external nofollow">wkyt.com</a>
+					</div>
+										<div class="usage">
+						 Gratitude is an individual perspective that must be cultivated.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.katu.com/amnw/segments/The-Health-Benefits-of-Gratitude-182565221.html" target="_blank" rel="external nofollow">katu.com</a>
+					</div>
+										<div class="usage">
+						Deep gratitude to the tea party.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.auburnjournal.com/article/reader-input-deep-gratitude-tea-party" target="_blank" rel="external nofollow">auburnjournal.com</a>
+					</div>
+										<div class="usage">
+						 Gratitude from library friends.
+					</div>
+					<div class="uAuthor">
+						<a href="http://daily-jeff.com/opinion/2012/12/06/mailbox" target="_blank" rel="external nofollow">daily-jeff.com</a>
+					</div>
+										<div class="usage">
+						MAILBOX / Gratitude from library friends.
+					</div>
+					<div class="uAuthor">
+						<a href="http://daily-jeff.com/opinion/2012/12/06/mailbox" target="_blank" rel="external nofollow">daily-jeff.com</a>
+					</div>
+										<div class="usage">
+						Firefighters pay a debt of gratitude after Sandy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/video/watch/?id=50136275n" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						A need for gratitude .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theunion.com/news/3315859-113/gratitude-jan-local-agree" target="_blank" rel="external nofollow">theunion.com</a>
+					</div>
+										<div class="usage">
+						Egyptian President Mohammed Morsi is being credited with brokering the cease-fire Wednesday between Israel and Hamas, but the international gratitude and praise he is getting could come with a political price at home.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wvel.com/abc_news/article/Egypts_President_Morsi_Wins_US_and_Israeli_Gratitude_in_Gaza_Deal/A2115751341B11E2919EFEFDADE6840A/" target="_blank" rel="external nofollow">wvel.com</a>
+					</div>
+										<div class="usage">
+						 Gratitude in the workplace.
+					</div>
+					<div class="uAuthor">
+						<a href="http://portlandscw.trb.com/news/business/ct-biz-1126-work-advice-huppke-20121126,0,7751637.column" target="_blank" rel="external nofollow">portlandscw.trb.com</a>
+					</div>
+										<div class="usage">
+						Let's show our gratitude .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gazettenet.com/home/2969730-95/list-gratitude-organizations-action" target="_blank" rel="external nofollow">gazettenet.com</a>
+					</div>
+										<div class="usage">
+						Lincoln's attitude of gratitude .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.island-reporter.com/page/content.comment/id/520692/Faces-on-Faith--Lincoln-s-attitude-of-gratitude.html?nav=5011&amp;sortTypeOrder=2" target="_blank" rel="external nofollow">island-reporter.com</a>
+					</div>
+										<div class="usage">
+						Vail Daily columnist Jack Van Ens: Grow in gratitude .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vaildaily.com/article/20121123/EDITS/121129946/1021&amp;ParentProfile=1065" target="_blank" rel="external nofollow">vaildaily.com</a>
+					</div>
+										<div class="usage">
+						 Gratitude brings joy into lives.
+					</div>
+					<div class="uAuthor">
+						<a href="http://tmnews.com/stories/2012/11/22/opinion.547704.tms" target="_blank" rel="external nofollow">tmnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We express our gratitude for the hospitality of these institutions. 
+					</div>
+					<div class="uAuthor">
+						Occupation Time Fluctuations in Branching Systems
+					</div>
+										<div class="usage">
+						Let us complete this introduction with expressions of gratitude to Profs. A. 
+					</div>
+					<div class="uAuthor">
+						Stochastic version of the Erdos-Renyi limit theorem
+					</div>
+										<div class="usage">
+						This work was done while the author stayed in the Mathematical Sciences Research Institute, and he would like to express his gratitude to MSRI for their hospitality. 
+					</div>
+					<div class="uAuthor">
+						AF-embeddability of crossed products of Cuntz algebras
+					</div>
+										<div class="usage">
+						The author expresses the gratitude to Professor T. 
+					</div>
+					<div class="uAuthor">
+						The b-functions for prehomogeneous vector spaces of commutative parabolic type and generalized universal Verma modules
+					</div>
+										<div class="usage">
+						We would like to express our heartfelt gratitude to S. 
+					</div>
+					<div class="uAuthor">
+						Perturbative improvement of staggered fermions using fat links
+					</div>
+										<div class="usage">
+						We would like to express our gratitude to Prof. 
+					</div>
+					<div class="uAuthor">
+						Statistical properties of resonance widths for open Quantum Graphs
+					</div>
+										<div class="usage">
+						I would like to express my deep gratitude to the supervisor of my thesis, Prof. D. 
+					</div>
+					<div class="uAuthor">
+						The Arnold-Givental conjecture and moment Floer homology
+					</div>
+										<div class="usage">
+						Acknowledgments I want to express my gratitude to Klaus Aehlig for many invaluable discussions, especially on parser issues. 
+					</div>
+					<div class="uAuthor">
+						A novel approach to symbolic algebra
+					</div>
+										<div class="usage">
+						It is with a deep sense of gratitude that I acknowledge the help and the constant support I have received from him. 
+					</div>
+					<div class="uAuthor">
+						Arithmetic of algebraic groups
+					</div>
+										<div class="usage">
+						It is not possible to express my gratitude towards them in words. 
+					</div>
+					<div class="uAuthor">
+						Arithmetic of algebraic groups
+					</div>
+										<div class="usage">
+						On a ﬁnal note, I also wish to express my sincere gratitude to the two referees, Dominique Proust and Tony Fairall, who provided quick and useful reports that have improved the quality of this work. 
+					</div>
+					<div class="uAuthor">
+						Pulling out Threads from the Cosmic Tapestry: Defining Filaments of Galaxies
+					</div>
+										<div class="usage">
+						We express our gratitude to Jay Holberg for a helpful report on this manuscript. 
+					</div>
+					<div class="uAuthor">
+						New Praesepe white dwarfs and the initial mass-final mass relation
+					</div>
+										<div class="usage">
+						The author expresses deep gratitude to Professor M. 
+					</div>
+					<div class="uAuthor">
+						Generic section of a hyperplane arrangement and twisted Hurewicz maps
+					</div>
+										<div class="usage">
+						The authors express their deep gratitude to O.V.
+					</div>
+					<div class="uAuthor">
+						On some peculiarities of cosmic gamma-radiation in the energy range ~ 10^14 - 10^15 eV
+					</div>
+										<div class="usage">
+						I would like to express my gratitude to my advisor, Blaine Lawson, for proposing this problem and for all his help. I also want to thank Professor Mark Walker, for his useful remark and interesting on this topic. 
+					</div>
+					<div class="uAuthor">
+						Generalized Abel-Jacobi map on Lawson homology
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="ingratitude.html">ingratitude</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="feeling.html">feeling</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="appreciativeness.html">appreciativeness</a>, <a href="gratefulness.html">gratefulness</a>, <a href="thankfulness.html">thankfulness</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="acknowledge.html">acknowledge</a>, <a href="affection.html">affection</a>, <a href="Aggrate.html">Aggrate</a>, <a href="appreciate.html">appreciate</a>, <a href="appreciation.html">appreciation</a>, <a href="appreciative.html">appreciative</a>, <a href="appreciativeness.html">appreciativeness</a>, <a href="behold.html">behold</a>, <a href="beholden.html">beholden</a>, <a href="bind.html">bind</a>, <a href="bow.html">bow</a>, <a href="expressive.html">expressive</a>, <a href="faithful.html">faithful</a>, <a href="fall%20all%20over.html">fall all over</a>, <a href="fawn.html">fawn</a>, <a href="give%20thanks.html">give thanks</a>, <a href="grateful.html">grateful</a>, <a href="gratefully.html">gratefully</a>, <a href="gratefulness.html">gratefulness</a>, <a href="gratulatory.html">gratulatory</a>, <a href="Halleluiah.html">Halleluiah</a>, <a href="hallelujah.html">hallelujah</a>, <a href="Imperfect%20obligations.html">Imperfect obligations</a>, <a href="indebted.html">indebted</a>, <a href="ingrate.html">ingrate</a>, <a href="ingratiate.html">ingratiate</a>, <a href="ingratitude.html">ingratitude</a>, <a href="love.html">love</a>, <a href="obligation.html">obligation</a>, <a href="oblige.html">oblige</a>, <a href="offering.html">offering</a>, <a href="Peace-offering.html">Peace-offering</a>, <a href="penetrate.html">penetrate</a>, <a href="praise.html">praise</a>, <a href="recognise.html">recognise</a>, <a href="recognize.html">recognize</a>, <a href="remember.html">remember</a>, <a href="resentment.html">resentment</a>, <a href="thank.html">thank</a>, <a href="thank%20you.html">thank you</a>, <a href="Thank-offering.html">Thank-offering</a>, <a href="thankful.html">thankful</a>, <a href="thankfulness.html">thankfulness</a>, <a href="thankless.html">thankless</a>, <a href="thankless%20wretch.html">thankless wretch</a>, <a href="Thanksgiving.html">Thanksgiving</a>, <a href="Thankworthy.html">Thankworthy</a>, <a href="touch.html">touch</a>, <a href="tribute.html">tribute</a>, <a href="unappreciative.html">unappreciative</a>, <a href="ungrateful.html">ungrateful</a>, <a href="ungrateful%20person.html">ungrateful person</a>, <a href="ungratefulness.html">ungratefulness</a>, <a href="unkind.html">unkind</a>, <a href="unthankful.html">unthankful</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					fratitude, tratitude, hratitude, bratitude, vratitude, geatitude, gdatitude, gfatitude, gtatitude, grqtitude, grwtitude, grstitude, grztitude, graritude, grafitude, gragitude, grayitude, gratutude, gratjtude, gratktude, gratotude, gratirude, gratifude, gratigude, gratiyude, gratityde, gratithde, gratitjde, gratitide, gratituse, gratituee, gratitufe, gratituce, gratituxe, gratituse, gratitudw, gratituds, gratitudd, gratitudr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

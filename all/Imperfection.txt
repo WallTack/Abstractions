@@ -1,0 +1,530 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>imperfection</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">imperfection</span> <span class="exp">the state or an instance of being imperfect</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Imperfection</span> <span class="exp">The quality or condition of being imperfect; lack of perfection; incompleteness; deficiency; fault or blemish.</span> <span class="wuQuot">"Sent to my account<br>
+With all my imperfections on my head."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">imperfection</span> <span class="exp">The character or condition of being imperfect; want of perfection; defectiveness; faultiness.</span> </li><li><span class="tSpeech">n</span> <span class="term">imperfection</span> <span class="exp">An imperfect detail; a particular in which perfection is lacking; a defect, physical, mental, or moral.</span> </li><li><span class="tSpeech">n</span> <span class="term">imperfection</span> <span class="exp">Synonyms Defect, deficiency, incompleteness, fault, failing, weakness, frailty, foible, blemish, vice.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert H. Schuller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Robert%20H.%20Schuller.jpg" alt="Robert%20H.%20Schuller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Better to do something imperfectly than to do nothing perfectly.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Søren Kierkegaard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Søren Kierkegaard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It belongs to the imperfection of everything human that man can only attain his desire by passing through its opposite.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Wayne Dyer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Wayne%20Dyer.jpg" alt="Wayne%20Dyer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To sit in judgment of those things which you perceive to be wrong or imperfect is to be one more person who is part of judgment, evil or imperfection.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ernst Fischer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Ernst Fischer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“As machines become more and more efficient and perfect, so it will become clear that imperfection is the greatness of man.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Soros</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George Soros">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Once we realize that imperfect understanding is the human condition, there is no shame in being wrong, only in failing to correct our mistakes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">St. Augustine</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/St.%20Augustine.jpg" alt="St.%20Augustine">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“This is the very perfection of a man, to find out his own imperfections.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">imperfectio</span>,: cf. F. <span class="wUets">imperfection</span>,. See <span class="wUer">Imperfect</span> (a.) 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						We see how Jesus loved him notwithstanding his imperfections.
+					</div>
+					<div class="uAuthor">
+						"A Life of St. John for the Young" by <span>George Ludington Weed</span>					</div>
+										<div class="usage">
+						They were not spurious, nor, so far as we know, unauthentic; but rather imperfect.
+					</div>
+					<div class="uAuthor">
+						"Companion to the Bible" by <span>E. P. Barrows</span>					</div>
+										<div class="usage">
+						His knowledge is admired in the perfection of his works, but his works are full of imperfections, and of little permanence.
+					</div>
+					<div class="uAuthor">
+						"Superstition In All Ages (1732)" by <span>Jean Meslier</span>					</div>
+										<div class="usage">
+						Mnemonic illusion is thus distinct from mere forgetfulness or imperfect memory.
+					</div>
+					<div class="uAuthor">
+						"Illusions" by <span>James Sully</span>					</div>
+										<div class="usage">
+						The imperfection of this fortress I have already described, and the causes of that imperfection.
+					</div>
+					<div class="uAuthor">
+						"A General Sketch of the European War" by <span>Hilaire Belloc</span>					</div>
+										<div class="usage">
+						Hard water, being an imperfect solvent, is unsuitable for washing purposes.
+					</div>
+					<div class="uAuthor">
+						"The People's Common Sense Medical Adviser in Plain English" by <span>R. V. Pierce</span>					</div>
+										<div class="usage">
+						The fields of the sea are yet too imperfectly explored to afford us all the facts required to make out the whole story.
+					</div>
+					<div class="uAuthor">
+						"Outlines of the Earth's History" by <span>Nathaniel Southgate Shaler</span>					</div>
+										<div class="usage">
+						Thus all languages are, like us, imperfect.
+					</div>
+					<div class="uAuthor">
+						"Voltaire's Philosophical Dictionary" by <span>Voltaire</span>					</div>
+										<div class="usage">
+						And even now the nature and end of Christ's sacrifice are but very imperfectly understood.
+					</div>
+					<div class="uAuthor">
+						"Modern Skepticism: A Journey Through the Land of Doubt and Back Again" by <span>Joseph Barker</span>					</div>
+										<div class="usage">
+						Still those who are altogether unable to enjoy a joke are men of imperfect sympathies.
+					</div>
+					<div class="uAuthor">
+						"History of English Humour, Vol. 2 (of 2)" by <span>Alfred Guy Kingan L'Estrange</span>					</div>
+										<div class="usage">
+						Ports and air-scuttles there, are more apt to be imperfectly masked or thrown open heedlessly by servants.
+					</div>
+					<div class="uAuthor">
+						"Ordnance Instructions for the United States Navy." by <span>Bureau of Ordnance, USN</span>					</div>
+										<div class="usage">
+						We have a means, although an imperfect one, of endeavouring to discover if the communicators are really returning spirits.
+					</div>
+					<div class="uAuthor">
+						"Mrs. Piper &amp; the Society for Psychical Research" by <span>Michael Sage</span>					</div>
+										<div class="usage">
+						First: the symmetry is usually imperfect.
+					</div>
+					<div class="uAuthor">
+						"The Stones of Venice, Volume II (of 3)," by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						But he had all through his career an imperfect comprehension of the English people.
+					</div>
+					<div class="uAuthor">
+						"Studies in Contemporary Biography" by <span>James Bryce, Viscount Bryce</span>					</div>
+										<div class="usage">
+						The work of the renowned historian is only very imperfectly preserved to us in some other well-known manuscripts.
+					</div>
+					<div class="uAuthor">
+						"The Lost Manuscript" by <span>Gustav Freytag</span>					</div>
+										<div class="usage">
+						Our knowledge of this science is very imperfect, and leads to imperfect thought.
+					</div>
+					<div class="uAuthor">
+						"The Science of Being Well" by <span>Wallace Delois Wattles</span>					</div>
+										<div class="usage">
+						A layman's work may have the advantage of originality or the drawback of imperfect knowledge.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 2, Slice 3" by <span>Various</span>					</div>
+										<div class="usage">
+						This one also has humped segments, and the claspers of the thirteenth segment are imperfectly developed.
+					</div>
+					<div class="uAuthor">
+						"Butterflies and Moths" by <span>William S. Furneaux</span>					</div>
+										<div class="usage">
+						But it is evident the disease, its causes, and remedies, are as yet imperfectly understood.
+					</div>
+					<div class="uAuthor">
+						"Domestic Animals" by <span>Richard L. Allen</span>					</div>
+										<div class="usage">
+						Then the fire needs attention; the flame is imperfect and the gas hole needs cleaning.
+					</div>
+					<div class="uAuthor">
+						"My Attainment of the Pole" by <span>Frederick A. Cook</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							To trembling harmonies of field and cloud,<br>
+Of flesh and spirit was my worship vowed.<br>
+Let form, let music, let all quickening air<br>
+Fulfil in beauty my imperfect prayer.
+							<div class="poet">"The Poet's Testament" by <span>George Santayana</span></div>
+						</div>
+											<div class="poemQuote">
+							Yet seem'd her lip's ethereal charm the same;<br>
+That dear distinction every doubt removed;<br>
+Perish the lover, whose imperfect flame<br>
+Forgets one feature of the nymph he loved!
+							<div class="poet">"Elegy XXII. Written in the Year ----, When the Rights of Sepulture Were So Frequently Violated" by <span>William Shenstone</span></div>
+						</div>
+											<div class="poemQuote">
+							Then should the Pomander, which was before<br>
+A speaking sweet, mend by reflection,<br>
+And tell me more:<br>
+For pardon of my imperfection<br>
+Would warm and work it sweeter than before.
+							<div class="poet">"The Odour. 2 Cor. II. " by <span>George Herbert</span></div>
+						</div>
+											<div class="poemQuote">
+							"A boat at midnight sent alone<br>
+"To drift upon the moonless sea,<br>
+"A lute, whose leading chord is gone,<br>
+"A wounded bird that hath but one<br>
+"Imperfect wing to soar upon,<br>
+"Are like what I am without thee!
+							<div class="poet">"The Loves of the Angels" by <span>Thomas Moore</span></div>
+						</div>
+											<div class="poemQuote">
+							XXIII.<br>
+Thus, only, man through imperfection gains<br>
+Perfection, try'd in dreadful scenes. To bring<br>
+Good out of ill is God's prerogative;<br>
+To manifest himself the final cause,<br>
+Wherefore to human lot such woes befell.
+							<div class="poet">"Moral Evil No Accident" by <span>Thomas Odiorne</span></div>
+						</div>
+											<div class="poemQuote">
+							Each man is some man's servant; every soul<br>
+Is by some other's presence quite discrowned;<br>
+Each owes the next through all the imperfect round,<br>
+Yet not with mutual help; each man is his own goal,<br>
+And the whole earth must stop to pay him toll.
+							<div class="poet">"The Pioneer" by <span>James Russell Lowell</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The most famous female voices in underground music have often been imperfect.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.indyweek.com/indyweek/the-rise-of-intricacy-in-indie-rocks-female-voices/Content?oid=3140874" target="_blank" rel="external nofollow">indyweek.com</a>
+					</div>
+										<div class="usage">
+						We then restrict ourselves to single-good sealed-bid auctions, in which agents have (uncertain) independent private values and can introspect about their own (but not others') valuations through possibly costly and imperfect queries.
+					</div>
+					<div class="uAuthor">
+						<a href="http://aaai.org/Library/AAAI/2007/aaai07-022.php" target="_blank" rel="external nofollow">aaai.org</a>
+					</div>
+										<div class="usage">
+						Fixing hair in the mirror and never seeming satisfied because there are always imperfections.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.herald-journal.com/archives/2008/stories/kusha.html" target="_blank" rel="external nofollow">herald-journal.com</a>
+					</div>
+										<div class="usage">
+						So what if those jealous, overpaid big-city reporters at the Denver Post pointed out a few minor imperfections.
+					</div>
+					<div class="uAuthor">
+						<a href="http://csbj.com/hazlehurst/2010/02/03/streetlights-parks-libruls-no-problem/" target="_blank" rel="external nofollow">csbj.com</a>
+					</div>
+										<div class="usage">
+						Bills upbeat after 'imperfect' win over Dolphins.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.knoxnews.com/photos/2012/nov/16/285456/?enlarge=1" target="_blank" rel="external nofollow">knoxnews.com</a>
+					</div>
+										<div class="usage">
+						One of those imperfections once again was in protecting the ball, as John Goodman fumbled a punt return deep in his own territory late in the fourth quarter.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/notre-dame-football/post/_/id/702/punt-return-situated-remains-unsettled" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Stacy London says her show aims to help people "find perfection in their imperfection".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/04/20/AR2009042002413.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						 Suck Out Your Skin's Imperfections With a Magnet.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/daily/fashion/2009/04/magnet.html" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						Kimberly-Clark says some of the tampons have increased levels of bacteria, the presence of metal particles and imperfect raw materials.
+					</div>
+					<div class="uAuthor">
+						<a href="http://965kvki.com/thieves-steal-tampon-rejects/" target="_blank" rel="external nofollow">965kvki.com</a>
+					</div>
+										<div class="usage">
+						The company says there's a possibility that some may have increased levels of bacteria, imperfect raw materials and the presence of metallic particles, therefore they are being recalled.
+					</div>
+					<div class="uAuthor">
+						<a href="http://999ktdy.com/kotex-tampon-recall/" target="_blank" rel="external nofollow">999ktdy.com</a>
+					</div>
+										<div class="usage">
+						My imperfect understanding of Alzheimer's disease is that it is the slow, inexorable winnowing of memories, the body persisting as a vital part of the soul disappears.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.nj.com/njv_jim_dooley/2009/04/the_reaper.html" target="_blank" rel="external nofollow">blog.nj.com</a>
+					</div>
+										<div class="usage">
+						How do I restore imperfect wood floors.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.victorianhomesmag.com/restoration/" target="_blank" rel="external nofollow">victorianhomesmag.com</a>
+					</div>
+										<div class="usage">
+						Model CC497 Rub Brick Mop will smooth out imperfections, dressing down and removing form marks before a decorative concrete project.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forconstructionpros.com/product/10770447/kraft-tool-co-rub-brick-mop" target="_blank" rel="external nofollow">forconstructionpros.com</a>
+					</div>
+										<div class="usage">
+						Imperfections are welcomed with this recipe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/food/recipes/rustic-plum-tart/" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Fortunately, many small nicks, scratches and imperfections can be easily retouched.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.popularmechanics.com/cars/how-to/maintenance/how-to-fix-a-car-paint-scratch" target="_blank" rel="external nofollow">popularmechanics.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The time evolution U (t) of S is due to a time dependent Hamiltonian H (t) = H0 + Hc (t) which is the sum of a static term we would like to suppress (this term may represent imperfections in a quantum computer, for example), and a time dependent term which represents the control operations we are able to apply. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						As mentioned in section 2.3 naive random decoupling (NRD) can be used to stabilize arbitrary quantum algorithms against static imperfections in a rather simple way. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						Furthermore, let us focus our attention on the case of static imperfection in which the perturbing inﬂuence on such a quantum algorithms arises from unknown (but ﬁxed and time independent) Hamiltonian coupling H0 between the qubits constituting the quantum information processor. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						However, in the case of static imperfections considered here this possible complication is not relevant. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						According to an original proposal by Prosen and ˘Znidari˘c this characteristic feature of the ﬁdelity decay can be exploited for stabilizing a quantum algorithm against static imperfections. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						This method allows to stabilize quantum algorithms against static imperfections by converting the typically quadratic time dependences of the resulting ﬁdelity decays (29) into a linear ones. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						In order to discuss the stabilizing properties of this particular NRD methods let us consider the static imperfections of the previous section. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						Let us consider the stabilization properties of the PAREC method with respect to static imperfections which can be characterized by traceless perturbing Hamiltonians of the form δH = H0∆t/ ≡ (V − I tr V /N ) /δ with V chosen randomly from the Gaussian unitary ensemble (GUE). 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						To eliminate such GUE-governed static imperfections we have to choose an annihilator, such as P , as a random decoupling set. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						In section 3 it was shown that random decoupling can be used to stabilize quantum algorithms against static imperfections in an eﬃcient way. 
+					</div>
+					<div class="uAuthor">
+						Stabilization of quantum information by combined dynamical decoupling and detected-jump error correction
+					</div>
+										<div class="usage">
+						Pitaevskii L P 1961 Vortex lines in an imperfect bose gas Zh. 
+					</div>
+					<div class="uAuthor">
+						Lagrangian Densities and Principle of Least Action in Nonrelativistic Quantum Mechanics
+					</div>
+										<div class="usage">
+						To account for small radial velocity corrections and the imperfect normalization of spectra, we ﬁt the normalized extracted spectrum to the S´ersic proﬁle with ﬁve free parameters : a, b, c, λ0 and n. 
+					</div>
+					<div class="uAuthor">
+						The Milky Way's Circular Velocity Curve to 60 kpc and an Estimate of the Dark Matter Halo Mass from Kinematics of ~2400 SDSS Blue Horizontal Branch Stars
+					</div>
+										<div class="usage">
+						Finkbeiner (2004) estimated that an error of a factor of 2 is likely in some parts of the sky solely due to an imperfect extinction correction. 
+					</div>
+					<div class="uAuthor">
+						Separation of anomalous and synchrotron emissions using WMAP polarization data
+					</div>
+										<div class="usage">
+						Hence, in a random environment, we need to modify the iteration sequence in (44) to account for the partial imperfect information received by a sensor at each iteration. 
+					</div>
+					<div class="uAuthor">
+						Distributed Sensor Localization in Random Environments using Minimal Number of Anchor Nodes
+					</div>
+										<div class="usage">
+						We ﬁnd out that the data sets #1 and #3 are affected by poor image quality and/or imperfect beam overlap, and therefore, we use these data sets only for extracting the N -band spectra. 
+					</div>
+					<div class="uAuthor">
+						Spatially resolved dusty torus toward the red supergiant WOH G64 in the Large Magellanic Cloud
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the state or an instance of being imperfect"><a href="imperfectness.html">imperfectness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="perfection.html">perfection</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="state.html">state</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="defect.html">defect</a>, <a href="defectiveness.html">defectiveness</a>, <a href="failing.html">failing</a>, <a href="fault.html">fault</a>, <a href="faultiness.html">faultiness</a>, <a href="flaw.html">flaw</a>, <a href="wart.html">wart</a>, <a href="weakness.html">weakness</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="aberration.html">aberration</a>, <a href="absolute.html">absolute</a>, <a href="apologetic.html">apologetic</a>, <a href="bite.html">bite</a>, <a href="blemish.html">blemish</a>, <a href="blur.html">blur</a>, <a href="Brack.html">Brack</a>, <a href="burl.html">burl</a>, <a href="Cold%20shut.html">Cold shut</a>, <a href="cord.html">cord</a>, <a href="crudeness.html">crudeness</a>, <a href="decay.html">decay</a>, <a href="defect.html">defect</a>, <a href="Defectibility.html">Defectibility</a>, <a href="Defectible.html">Defectible</a>, <a href="defectiveness.html">defectiveness</a>, <a href="Defectuosity.html">Defectuosity</a>, <a href="deficiency.html">deficiency</a>, <a href="distinct.html">distinct</a>, <a href="Dys-.html">Dys-</a>, <a href="elegant.html">elegant</a>, <a href="Emaculate.html">Emaculate</a>, <a href="failing.html">failing</a>, <a href="fair.html">fair</a>, <a href="fault.html">fault</a>, <a href="flaw.html">flaw</a>, <a href="foible.html">foible</a>, <a href="frailty.html">frailty</a>, <a href="frieze.html">frieze</a>, <a href="gall.html">gall</a>, <a href="glass.html">glass</a>, <a href="Halfness.html">Halfness</a>, <a href="humility.html">humility</a>, <a href="illusion.html">illusion</a>, <a href="infirmity.html">infirmity</a>, <a href="insanity.html">insanity</a>, <a href="Judicial%20factor.html">Judicial factor</a>, <a href="knot.html">knot</a>, <a href="lameness.html">lameness</a>, <a href="malconformation.html">malconformation</a>, <a href="metamorphism.html">metamorphism</a>, <a href="mote.html">mote</a>, <a href="ordure.html">ordure</a>, <a href="purify.html">purify</a>, <a href="rase.html">rase</a>, <a href="rub.html">rub</a>, <a href="shortness.html">shortness</a>, <a href="sin.html">sin</a>, <a href="slub.html">slub</a>, <a href="Stop%20motion.html">Stop motion</a>, <a href="stria.html">stria</a>, <a href="thief.html">thief</a>, <a href="Unperfection.html">Unperfection</a>, <a href="Varisse.html">Varisse</a>, <a href="vice.html">vice</a>, <a href="Vicety.html">Vicety</a>, <a href="vicious.html">vicious</a>, <a href="viciousness.html">viciousness</a>, <a href="vileness.html">vileness</a>, <a href="wart.html">wart</a>, <a href="waster.html">waster</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					umperfection, jmperfection, kmperfection, omperfection, inperfection, ijperfection, ikperfection, imoerfection, imlerfection, impwrfection, impsrfection, impdrfection, imprrfection, impeefection, impedfection, impeffection, impetfection, imperdection, imperrection, impergection, impervection, impercection, imperfwction, imperfsction, imperfdction, imperfrction, imperfextion, imperfedtion, imperfeftion, imperfevtion, imperfecrion, imperfecfion, imperfecgion, imperfecyion, imperfectuon, imperfectjon, imperfectkon, imperfectoon, imperfectiin, imperfectikn, imperfectiln, imperfectipn, imperfectiob, imperfectioh, imperfectioj, imperfectiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

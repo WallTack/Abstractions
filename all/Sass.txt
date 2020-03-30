@@ -1,0 +1,362 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>sass</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">sass</span> <span class="exp">answer back in an impudent or insolent manner; </span> <span class="quot">"don't sass me!","The teacher punished the students who were sassing all morning"</span></li><li><span class="tSpeech">n</span> <span class="term">sass</span> <span class="exp">an impudent or insolent rejoinder</span> <span class="quot">"don't give me any of your sass"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">sass</span> <span class="exp">Same as sauce.</span> </li><li><span class="tSpeech">n</span> <span class="term">sass</span> <span class="exp">Vegetables, particularly those used in making sauces: as, garden sass.</span> </li><li><span class="tSpeech">n</span> <span class="term">sass</span> <span class="exp">Insolence; impudence.</span> </li><li><span class="term">sass</span> <span class="exp">To talk or reply saucily; be insolent in replying.</span> </li><li><span class="term">sass</span> <span class="exp">To sauce; be saucy to.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Sass</span> <span class="exp"><span class="itl">sas</span> (<span class="itl">coll.</span>) impudence: vegetables used in making sauces</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Sass</span> <span class="exp">to be insolent in replies</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Marie Saxe, better known under her Italianized name of Marie Sasse.
+					</div>
+					<div class="uAuthor">
+						"Style in Singing" by <span>W. E. Haslam</span>					</div>
+										<div class="usage">
+						It was that of Isaac Sass.
+					</div>
+					<div class="uAuthor">
+						"The Frontier Fort" by <span>W. H. G. Kingston</span>					</div>
+										<div class="usage">
+						He done sassed me too much, Miss Sally.
+					</div>
+					<div class="uAuthor">
+						"The Pleasant Street Partnership" by <span>Mary F. Leonard</span>					</div>
+										<div class="usage">
+						We can stand a little more of the same sort of sassing.
+					</div>
+					<div class="uAuthor">
+						"Letters from a Self-Made Merchant to His Son" by <span>George Horace Lorimer</span>					</div>
+										<div class="usage">
+						Cheek is a fine thing in its way, and on this occasion I developed enough brass to make a pan, and enough "sass" to fill it; but all in vain.
+					</div>
+					<div class="uAuthor">
+						"Memoirs" by <span>Charles Godfrey Leland</span>					</div>
+										<div class="usage">
+						One day gran'pappy sassed Mis' Polly White an' she told him dat if he didn' 'have hese'f dat she would put him in her pocket.
+					</div>
+					<div class="uAuthor">
+						"Slave Narratives: a Folk History of Slavery in the United States" by <span>Various</span>					</div>
+										<div class="usage">
+						They all shut up their sass when they spy yours truly!
+					</div>
+					<div class="uAuthor">
+						"The Rich Little Poor Boy" by <span>Eleanor Gates</span>					</div>
+										<div class="usage">
+						Annie sasses the entire factory.
+					</div>
+					<div class="uAuthor">
+						"Working With the Working Woman" by <span>Cornelia Stratton Parker</span>					</div>
+										<div class="usage">
+						The Sophomores may sneer at faculties and kings, but they wouldn't think of sassing you.
+					</div>
+					<div class="uAuthor">
+						"At Good Old Siwash" by <span>George Fitch</span>					</div>
+										<div class="usage">
+						Why, I even sassed Dad!
+					</div>
+					<div class="uAuthor">
+						"Tabitha at Ivy Hall" by <span>Ruth Alberta Brown</span>					</div>
+										<div class="usage">
+						Pa will shoot him again when they meet, if he gives Pa any sass.
+					</div>
+					<div class="uAuthor">
+						"The Grocery Man And Peck's Bad Boy Peck's Bad Boy and His Pa, No. 2 - 1883" by <span>George W. Peck</span>					</div>
+										<div class="usage">
+						Then maybe I'll learn to think twice before I sass once, as Mammy Riah says.
+					</div>
+					<div class="uAuthor">
+						"A Dixie School Girl" by <span>Gabrielle E. Jackson</span>					</div>
+										<div class="usage">
+						He couldn't do nothing, and he never loved that black-muzzled whelp from the time he sassed him in the depot.
+					</div>
+					<div class="uAuthor">
+						"The Mascot of Sweet Briar Gulch" by <span>Henry Wallace Phillips</span>					</div>
+										<div class="usage">
+						He won't sass 'round no mo', mos' certain.
+					</div>
+					<div class="uAuthor">
+						"Isle o' Dreams" by <span>Frederick F. Moore</span>					</div>
+										<div class="usage">
+						I've took garden sass to the Derwents' to Hawk Island, and I've found 'em eatin' breakfast at half past eight.
+					</div>
+					<div class="uAuthor">
+						"The Opened Shutters" by <span>Clara Louise Burnham</span>					</div>
+										<div class="usage">
+						The means by which sasses or flood-gates are allowed in fishings on navigable rivers.
+					</div>
+					<div class="uAuthor">
+						"The Sailor's Word-Book" by <span>William Henry Smyth</span>					</div>
+										<div class="usage">
+						You kin fling yer sass at white folks, but, honey, yuse er projeckin' wid death now!
+					</div>
+					<div class="uAuthor">
+						"The Clansman" by <span>Thomas Dixon</span>					</div>
+										<div class="usage">
+						You'se free wid yo' sass an' dat's all de freedom you got.
+					</div>
+					<div class="uAuthor">
+						"Colonel Carter's Christmas and The Romance of an Old-Fashioned Gentleman" by <span>F. Hopkinson Smith</span>					</div>
+										<div class="usage">
+						I axes you, politeful like, wha' you an' Miss Ann a goin' an' all you kin give me is sass.
+					</div>
+					<div class="uAuthor">
+						"The Comings of Cousin Ann" by <span>Emma Speed Sampson</span>					</div>
+										<div class="usage">
+						I thought of being accused of 'sassing' the Archangel Gabriel.
+					</div>
+					<div class="uAuthor">
+						"Secret Memoirs: The Story of Louise, Crown Princess" by <span>Henry W. Fischer</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Wunst I sassed my Pa, an' he<br>
+Won't stand that, an' punished me,--<br>
+Nen when he was gone that day,<br>
+I slipped out an' runned away.
+							<div class="poet">"The Runaway Boy" by <span>James Whitcomb Riley</span></div>
+						</div>
+											<div class="poemQuote">
+							De jay-bird squeal to de mockin'-bird: "Stop!<br>
+Don' gimme none o' yo' sass;<br>
+Better sing one song for de Baptis' crop,<br>
+Dey's mightily in de grass, grass,<br>
+Dey's mightily in de grass."
+							<div class="poet">"Uncle Jim's Baptist Revival Hymn" by <span>Sidney Lanier</span></div>
+						</div>
+											<div class="poemQuote">
+							I guess thet Adam found it thus,<br>
+Afore he hed to grapple<br>
+With thet conundrum Satan rais'd<br>
+About the blam'd old apple;<br>
+He found Time sort ov smart tew pass<br>
+Afore Eve took tew apple sass.
+							<div class="poet">"Old Spense" by <span>Isabella Valancy Crawford</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						 Sass arrived at the finish line of the more than 1,000-mile race on Wednesday at 11:25 a.m.
+					</div>
+					<div class="uAuthor">
+						<a href="http://newsminer.com/view/full_story/17886609/article-Brent-Sass-wins-Iditarod-Rookie-of-the-Year-?instance=iditarod2012story" target="_blank" rel="external nofollow">newsminer.com</a>
+					</div>
+										<div class="usage">
+						And Byron Sass of Byron, N.Y.
+					</div>
+					<div class="uAuthor">
+						<a href="http://observertoday.com/page/content.detail/id/563411/Mr--and-Mrs--Byron-Sass.html?nav=5054" target="_blank" rel="external nofollow">observertoday.com</a>
+					</div>
+										<div class="usage">
+						Martin Sass 's office in Midtown is filled with figures of bulls and bears.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2011/05/31/business/31sass.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Schuller unseats Sass for treasurer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.jsonline.com/news/statepolitics/106585693.html" target="_blank" rel="external nofollow">jsonline.com</a>
+					</div>
+										<div class="usage">
+						A decade of real spunk and sass .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bainbridgereview.com/business/19695089.html" target="_blank" rel="external nofollow">bainbridgereview.com</a>
+					</div>
+										<div class="usage">
+						She Loves Me' full of retro sass .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.evesun.com/news/stories/2008-03-14/3895/She-Loves-Me-full-of-retro-sass/" target="_blank" rel="external nofollow">evesun.com</a>
+					</div>
+										<div class="usage">
+						 SASs Goodnight Comes Out Swinging.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eweek.com/c/a/Channel/SASs-Goodnight-Comes-Out-Swinging/" target="_blank" rel="external nofollow">eweek.com</a>
+					</div>
+										<div class="usage">
+						 Sass and Dash From Ralph Lauren and Miguel Adrover.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2002/09/24/nyregion/review-fashion-sass-and-dash-from-ralph-lauren-and-miguel-adrover.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Sorry, folks, I had a busy week last week and couldn't get to the Importometer, but we're back and ready to sass.
+					</div>
+					<div class="uAuthor">
+						<a href="http://capenews.net/blogs/snark-infested_waters/2012/10/05/the-importometer-reading-for-october-5-2012/" target="_blank" rel="external nofollow">capenews.net</a>
+					</div>
+										<div class="usage">
+						A decade of real spunk and sass.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bainbridgereview.com/business/19695089.html" target="_blank" rel="external nofollow">bainbridgereview.com</a>
+					</div>
+										<div class="usage">
+						Dennis Ray "Shorty" Steffens , the son of Raymond and Pearl Sass Steffen , was born June 11, 1944 in Hartley.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.spencerdailyreporter.com/story/1565672.html" target="_blank" rel="external nofollow">spencerdailyreporter.com</a>
+					</div>
+										<div class="usage">
+						Sass &amp; the City: Time to get off the ban wagon.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.goerie.com/article/20120906/ENTERTAINMENT15/309069953/Sass-%26-the-City%3A-Time-to-get-off-the-ban-wagon" target="_blank" rel="external nofollow">goerie.com</a>
+					</div>
+										<div class="usage">
+						Above left, Fred Sass/The New York Times.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2011/07/10/nyregion/bikers-dream-of-turning-bronx-armory-into-a-velodrome.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						SASS &amp; THE CITY: When samples are ample .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.goerie.com/article/20120920/ENTERTAINMENT15/309209948/SASS-%26-THE-CITY%3A-When-samples-are-ample" target="_blank" rel="external nofollow">goerie.com</a>
+					</div>
+										<div class="usage">
+						SASS &amp; THE CITY: Kids, you better watch out.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.goerie.com/article/20121213/ENTERTAINMENT15/312139957/SASS-%26-THE-CITY%3A-Kids-you-better-watch-out" target="_blank" rel="external nofollow">goerie.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Sasse reviewed the different interpretations of the Mashhoon effect, and discussed a description of fermions in a storage ring in a Serret-Frenet tetrad frame, instead of the usual Hehl-Ni frame. M.J. 
+					</div>
+					<div class="uAuthor">
+						Summary Talk on Cosmology and Gravitation: XXII Brazilian National Meeting on Particles and Fields
+					</div>
+										<div class="usage">
+						Sasse delivered a contribution in collaboration with R.F. 
+					</div>
+					<div class="uAuthor">
+						Summary Talk on Cosmology and Gravitation: XXII Brazilian National Meeting on Particles and Fields
+					</div>
+										<div class="usage">
+						Ebeling et al. (1998; 2000) identiﬁed the ma jority of their (e)BCS clusters from the data base produced by running the Standard Software Analysis System (SASS) on the RASS data (Voges 1992). 
+					</div>
+					<div class="uAuthor">
+						The Cluster Mass Function from Weak Gravitational Lensing
+					</div>
+										<div class="usage">
+						The SASS data have a total exposure time of 360s with the ROSAT Position Sensitive Proportional Counter (PSPC), this exposure time being constant across the sky. 
+					</div>
+					<div class="uAuthor">
+						The Cluster Mass Function from Weak Gravitational Lensing
+					</div>
+										<div class="usage">
+						Photon event table (PET) ﬁles were extracted in a 2◦ × 2◦ region centered on each of the SASS-based cluster candidates. 
+					</div>
+					<div class="uAuthor">
+						The Cluster Mass Function from Weak Gravitational Lensing
+					</div>
+										<div class="usage">
+						SASS data, which led to serendipitous discoveries of additional clusters using a Voronoi tessellation and percolation algorithm (for full details, see Ebeling et al. 1998). 
+					</div>
+					<div class="uAuthor">
+						The Cluster Mass Function from Weak Gravitational Lensing
+					</div>
+										<div class="usage">
+						Sandage, A. 1995, in The Deep Universe, “Practical Cosmology: Inventing the Past,” 23rd Sass Fee Advanced Course in Astrophysics, ed. B. 
+					</div>
+					<div class="uAuthor">
+						The Tolman Surface Brightness Test for the Reality of the Expansion. III. HST Profile and Surface Brightness Data for Early-Type Galaxies in Three High-Redshift Clusters
+					</div>
+										<div class="usage">
+						Sass, J. (2005), ‘Portfolio optimization under transaction costs in the CRR model’, Math. 
+					</div>
+					<div class="uAuthor">
+						The fundamental theorem of asset pricing under proportional transaction costs
+					</div>
+										<div class="usage">
+						Bonhard, P., Sasse, M.A.: ’knowing me, knowing you’ – using proﬁles and social networking to improve recommender systems. 
+					</div>
+					<div class="uAuthor">
+						Interest-Based vs. Social Person-Recommenders in Social Networking Platforms
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an impudent or insolent rejoinder"><a href="sassing.html">sassing</a>, <a href="backtalk.html">backtalk</a>, <a href="back%20talk.html">back talk</a>, <a href="lip.html">lip</a>, <a href="mouth.html">mouth</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="answer.html">answer</a>, <a href="comeback.html">comeback</a>, <a href="counter.html">counter</a>, <a href="rejoinder.html">rejoinder</a>, <a href="replication.html">replication</a>, <a href="reply.html">reply</a>, <a href="respond.html">respond</a>, <a href="retort.html">retort</a>, <a href="return.html">return</a>, <a href="riposte.html">riposte</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="sassing.html">sassing</a>, <a href="sassy.html">sassy</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Sassolin.html">Sassolin</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					aass, wass, dass, xass, zass, aass, sqss, swss, ssss, szss, saas, saws, sads, saxs, sazs, saas, sasa, sasw, sasd, sasx, sasz, sasa
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

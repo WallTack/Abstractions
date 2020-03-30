@@ -1,0 +1,585 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>value</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">value</span> <span class="exp">estimate the value of</span> <span class="quot">"How would you rate his chances to become President?","Gold was rated highly among the Romans"</span></li><li><span class="tSpeech">v</span> <span class="term">value</span> <span class="exp">evaluate or estimate the nature, quality, ability, extent, or significance of</span> <span class="quot">"I will have the family jewels appraised by a professional","access all the factors when taking a risk"</span></li><li><span class="tSpeech">v</span> <span class="term">value</span> <span class="exp">regard highly; think much of</span> <span class="quot">"I respect his judgement","We prize his creativity"</span></li><li><span class="tSpeech">v</span> <span class="term">value</span> <span class="exp">fix or determine the value of; assign a value to</span> <span class="quot">"value the jewelry and art work in the estate"</span></li><li><span class="tSpeech">v</span> <span class="term">value</span> <span class="exp">hold dear</span> <span class="quot">"I prize these old photographs"</span></li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">relative darkness or lightness of a color</span> <span class="quot">"I establish the colors and principal values by organizing the painting into three values--dark, medium...and light"-Joe Hing Lowe"</span></li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">the quality (positive or negative) that renders something desirable or valuable</span> <span class="quot">"the Shakespearean Shylock is of dubious value in the modern world"</span></li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">a numerical quantity measured or assigned or computed</span> <span class="quot">"the value assigned was 16 milliseconds"</span></li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">an ideal accepted by some individual or group</span> <span class="quot">"he has old-fashioned values"</span></li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">the amount (of money or goods or services) that is considered to be a fair equivalent for something else</span> <span class="quot">"he tried to estimate the value of the produce at normal prices"</span></li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">(music) the relative duration of a musical note</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The property (ID, Facts) values on the Monopoly game board are the same today as they were in 1935									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Value</span> <span class="exp"><span class="wuFld">(Math)</span> Any particular quantitative determination; as, a function's <span class="wUex">value</span> for some special value of its argument.</span> </li><li><span class="term">Value</span> <span class="exp">Degree of lightness as conditioned by the presence of white or pale color, or their opposites.</span> </li><li><span class="term">Value</span> <span class="exp">Esteem; regard.</span> <span class="wuQuot">"My relation to the person was so near, and my value for him so great"</span></li><li><span class="term">Value</span> <span class="exp">In an artistical composition, the character of any one part in its relation to other parts and to the whole; -- often used in the plural; as, the <span class="wUex">values</span> are well given, or well maintained.</span> </li><li><span class="term">Value</span> <span class="exp">Precise signification; import; as, the <span class="wUex">value</span> of a word; the <span class="wUex">value</span> of a legal instrument
+         </span> </li><li><span class="term">Value</span> <span class="exp">That property of a color by which it is distinguished as bright or dark; luminosity.</span> </li><li><span class="term">Value</span> <span class="exp">The property or aggregate properties of a thing by which it is rendered useful or desirable, or the degree of such property or sum of properties; worth; excellence; utility; importance.</span> <span class="wuQuot">"Ye are all physicians of no value ."</span><span class="wuQuot">"Ye are of more value than many sparrows."</span><span class="wuQuot">"Cæsar is well acquainted with your virtue,<br>
+And therefore sets this value on your life."</span><span class="wuQuot">"Before events shall have decided on the value of the measures."</span></li><li><span class="term">Value</span> <span class="exp"><span class="wuFld">(Mus)</span> The relative length or duration of a tone or note, answering to <span class="wUex">quantity</span> in prosody; thus, a quarter note has the <span class="wUex">value</span> of two eighth notes.</span> </li><li><span class="term">Value</span> <span class="exp">The valuable ingredients to be obtained by treatment from any mass or compound; specif., the precious metals contained in rock, gravel, or the like; as, the vein carries good <span class="wUex">values</span>; the <span class="wUex">values</span> on the hanging walls.</span> </li><li><span class="term">Value</span> <span class="exp">To be worth; to be equal to in value.</span> <span class="wuQuot">"The peace between the French and us not values The cost that did conclude it."</span></li><li><span class="term">Value</span> <span class="exp">To estimate the value, or worth, of; to rate at a certain price; to appraise; to reckon with respect to number, power, importance, etc.</span> <span class="wuQuot">"The mind doth value every moment."</span><span class="wuQuot">"The queen is valued thirty thousand strong."</span><span class="wuQuot">"The king must take it ill,<br>
+That he's so slightly valued in his messenger."</span><span class="wuQuot">"Neither of them valued their promises according to rules of honor or integrity."</span></li><li><span class="term">Value</span> <span class="exp">To raise to estimation; to cause to have value, either real or apparent; to enhance in value.</span> <span class="wuQuot">"Some value themselves to their country by jealousies of the crown."</span></li><li><span class="term">Value</span> <span class="exp">To rate highly; to have in high esteem; to hold in respect and estimation; to appreciate; to prize; as, to <span class="wUex">value</span> one for his works or his virtues.</span> <span class="wuQuot">"Which of the dukes he values most."</span></li><li><span class="term">Value</span> <span class="exp">Valor.</span> </li><li><span class="term">Value</span> <span class="exp"><span class="wuFld">(Trade &amp; Polit. Econ)</span> Worth estimated by any standard of purchasing power, especially by the market price, or the amount of money agreed upon as an equivalent to the utility and cost of anything.</span> <span class="wuQuot">"An article may be possessed of the highest degree of utility, or power to minister to our wants and enjoyments, and may be universally made use of, without possessing exchangeable value ."</span><span class="wuQuot">"Value is the power to command commodities generally."</span><span class="wuQuot">"Value is the generic term which expresses power in exchange."</span><span class="wuQuot">"His design was not to pay him the value of his pictures, because they were above any price."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The lowest valued note in the world is the Hong Kong 1 cent note of which
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">Value which is socially recognized, in contrast with purely personal valuation. Thus an heirloom may be said to be of small intrinsic value, although highly valued by its possessor.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">Value as determined by ordinary market conditions, as contrasted with value with which an object is endowed by virtue of convention or governmental flat. Thus paper money is often said to be devoid of intrinsic value.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">In mathematics, the value of the function represented by the ordinate of a turning point.</span> </li><li><span class="term">value</span> <span class="exp">See cruise, 2.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">Worth; the property or properties of a thing in virtue of which it is useful or estimable, or the degree in which such a character is possessed; utility; importance; excellence: applied to both persons and things.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">Estimated or attributed worth; appreciation; valuation; esteem; regard.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">The amount of other commodities (commonly represented by money) for which a thing can be exchanged in open market: the ratio in which one thing exchanges against others; the command which one commodity has over others in traffic; in a restricted (and the common popular) sense, the amount of money for which a thing can be sold; price. In political economy value is distinguished from price, which is worth estimated in money, while value is worth estimated in commodities in general.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">Price equal to the intrinsic worth of a thing; real equivalent.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">Import; precise signification: as, the value of a word or phrase.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">In music, the relative length or duration of a tone signified by a note: as, a half-note has the value of two quarternotes, or four sixteenth-notes; to give a note its full value.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">In painting and the allied arts, relation of one object, part, or atmospheric plane of a picture to the others, with reference to light and shade, the idea of hue being abstracted. Thus, a picture in which the values are correct is one in which the distribution and interdependence of the light and dark parts correspond to nature, and particularly preserve the correct rendering of different distances from the observe; while a detail in a picture which is out of value is one which is too light or too dark in tone for the atmospheric plane which it should occupy, or for the proper rendering of its relations to other objects in the same plane.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">In mathematics, the special determination of a quantity. Quantities in mathematics are identified by their general definitions, as satisfying certain conditions, and are variable, or otherwise indeterminate. A completely determinate quantity, or, more precisely, the quantity of a completely determinate quantum, is a value. Value is distinguished from magnitude in that the latter refers only to a modulus, or numerical measure, neglecting in some measure distinctions of kind, while two quantities which are not equal have not the same value, though they may have the same magnitude.</span> </li><li><span class="tSpeech">n</span> <span class="term">value</span> <span class="exp">In biology, grade or rank in classification; valence: as, a group having the value of a family.</span> </li><li><span class="term">value</span> <span class="exp">To estimate the value or worth of; specifically, to rate at a certain price; appraise: as, to value lands or goods.</span> </li><li><span class="term">value</span> <span class="exp">To consider with respect to value, worth, or importance; rate, whether high or low; regard.</span> </li><li><span class="term">value</span> <span class="exp">Specifically, to rate high; have in high esteem; set much by; prize; appreciate; regard; hold in respect or estimation; reflexively, to pride (one's self).</span> </li><li><span class="term">value</span> <span class="exp">To reckon or estimate with respect to number or power; compute; compare (with another person or thing) with respect to price or excellence.</span> </li><li><span class="term">value</span> <span class="exp">To take account of; take into account; hence, to care for; consider as important.</span> </li><li><span class="term">value</span> <span class="exp">To raise to estimation; cause to have value, either real or apparent.</span> </li><li><span class="term">value</span> <span class="exp">To give out or represent as wealthy, or financially sound.</span> </li><li><span class="term">value</span> <span class="exp">To be worth; be equal in worth to; be an equivalent of.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The Mona-Lisa, now hanging in the Louvre museum in Paris, is valued today at $100,000,000.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Value</span> <span class="exp"><span class="itl">val′ū</span> worth: that which renders anything useful or estimable: the degree of this quality: esteem, regard: efficacy: importance: excellence: price: precise meaning: : :</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Value</span> <span class="exp">to estimate the worth of: to rate at a price: to esteem: to prize</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Value</span> <span class="exp">(<span class="itl">Shak.</span>) to be worth</span> </li><li><span class="tSpeech">n</span> <span class="term">Value</span> <span class="exp">a thing of value, a choice article—often in <span class="itl">pl.</span>—<span class="itl">ns.</span> <span class="bld">Val′uableness</span></span> </li><li><span class="tSpeech">n</span> <span class="term">Value</span> <span class="exp"><span class="itl">val′ū</span> (<span class="itl">mus.</span>) the relative length of a tone signified by a note</span> </li><li><span class="tSpeech">n</span> <span class="term">Value</span> <span class="exp"><span class="itl">val′ū</span> (<span class="itl">paint.</span>) relation of one part of a picture to the others with reference to light and shade and without reference to hue</span> </li><li><span class="tSpeech">n</span> <span class="term">Value</span> <span class="exp"><span class="itl">val′ū</span> (<span class="itl">math.</span>) the special determination of a quantity</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Paul Reichmann</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Paul Reichmann">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You build on cost and you borrow on value.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Hannah More</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Hannah%20More.jpg" alt="Hannah%20More">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is not so important to know everything as to know the exact value of everything, to appreciate what we learn, and to arrange what we know.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Benjamin Franklin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Benjamin%20Franklin.jpg" alt="Benjamin%20Franklin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One good husband is worth two good wives, for the scarcer things are, the more they are valued.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The average man's opinions are generally of more value to himself than to anyone else.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Publius Cornelius Tacitus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Publius%20Cornelius%20Tacitus.jpg" alt="Publius%20Cornelius%20Tacitus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Posterity gives every man his true value.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arthur Schopenhauer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Arthur%20Schopenhauer.jpg" alt="Arthur%20Schopenhauer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Style is what gives value and currency to thoughts.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Face value</span> - If you take something at face value, you accept the appearance rather than looking deeper into the matter.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OF. <span class="wUets">value</span>, fr. <span class="wUets">valoir</span>, p. p. <span class="wUets">valu</span>, to be worth, fr. L. <span class="wUets">valere</span>, to be strong, to be worth. See <span class="wUer">Valiant</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>value</i>, prop. the fem. of Fr. <i>valu</i>, pa.p. of <i>valoir</i>, to be worth—L. <i>valēre</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The skins and feathers are highly valued for decoration.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 6, Slice 6" by <span>Various</span>					</div>
+										<div class="usage">
+						To say that they have no value would be just as absurd as to say that works of literature or art have no literary or artistic value.
+					</div>
+					<div class="uAuthor">
+						"An Introduction to the Study of Comparative Religion" by <span>Frank Byron Jevons</span>					</div>
+										<div class="usage">
+						Either the buyer buys goods below their value or the seller sells them above their value.
+					</div>
+					<div class="uAuthor">
+						"Landmarks of Scientific Socialism" by <span>Friedrich Engels</span>					</div>
+										<div class="usage">
+						Potential value may be taken into account, and also good-will of the property in a business.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 6, Slice 7" by <span>Various</span>					</div>
+										<div class="usage">
+						We know the value of D from Townsend's experiments and the values of u from those of Zeleny.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 6, Slice 8" by <span>Various</span>					</div>
+										<div class="usage">
+						Value of stake $3,800.
+					</div>
+					<div class="uAuthor">
+						"History of the Kentucky Derby, 1875-1921" by <span>John Lawrence O'Connor</span>					</div>
+										<div class="usage">
+						In 1906 California produced 38,760,000 bushels of barley, valued at $20,930,400.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 5, Slice 1" by <span>Various</span>					</div>
+										<div class="usage">
+						Its value is a value of curiosity chiefly, a relative value.
+					</div>
+					<div class="uAuthor">
+						"A Short History of French Literature" by <span>George Saintsbury</span>					</div>
+										<div class="usage">
+						How Value depends upon Labour.# We now come to the great question whether value is produced by labour, or how it is connected with labour.
+					</div>
+					<div class="uAuthor">
+						"Political economy" by <span>W. Stanley Jevons</span>					</div>
+										<div class="usage">
+						The value of various styles.
+					</div>
+					<div class="uAuthor">
+						"Woman's Club Work and Programs" by <span>Caroline French Benton</span>					</div>
+										<div class="usage">
+						If English money was of the same value then as before, Hamburgh money must have risen in value.
+					</div>
+					<div class="uAuthor">
+						"On The Principles of Political Economy, and Taxation" by <span>David Ricardo</span>					</div>
+										<div class="usage">
+						Its form, its lack of definite flavor and odor, all add to its value as a food in sickness.
+					</div>
+					<div class="uAuthor">
+						"Dietetics for Nurses" by <span>Fairfax T. Proudfit</span>					</div>
+										<div class="usage">
+						Virtue has no value on its own account, but derives its value from the pleasure which accompanies it.
+					</div>
+					<div class="uAuthor">
+						"A Critical History of Greek Philosophy" by <span>W. T. Stace</span>					</div>
+										<div class="usage">
+						But the values conserved are not those created: they are the values postulated by philosophy as metaphysical reality.
+					</div>
+					<div class="uAuthor">
+						"Creative Intelligence" by <span>John Dewey, Addison W. Moore, Harold Chapman Brown, George H. Mead, Boyd H. Bode, Henry Waldgrave, Stuart James, Hayden Tufts, Horace M. Kallen</span>					</div>
+										<div class="usage">
+						The initial and final values of the ignored co-ordinates will in general be affected.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 8, Slice 9" by <span>Various</span>					</div>
+										<div class="usage">
+						Comments on the value or interest of the book as it appears to you.
+					</div>
+					<div class="uAuthor">
+						"A Guide for the Study of Animals" by <span>Worrallo Whitney</span>					</div>
+										<div class="usage">
+						For steel the best value (Amagat's) is 0.268.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 9, Slice 2" by <span>Various</span>					</div>
+										<div class="usage">
+						It fluctuates in value with the value of silver bullion.
+					</div>
+					<div class="uAuthor">
+						"Readings in Money and Banking" by <span>Chester Arthur Phillips</span>					</div>
+										<div class="usage">
+						Outline figures of value, "$3" on octagons in upper corners, value below in letters on either side of a large outline figure "3" on a shield.
+					</div>
+					<div class="uAuthor">
+						"History of the Postage Stamps of the United States of America" by <span>John Kerr Tiffany</span>					</div>
+										<div class="usage">
+						We can determine A and B if the values of x and dx/dt are given for a definite value of t, say t = 0.
+					</div>
+					<div class="uAuthor">
+						"The New Gresham Encyclopedia" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							'Tis she that lights the melting eye<br>
+With looks to anguish dear;<br>
+She knows the price of every sigh,<br>
+The value of a tear.
+							<div class="poet">"To Sensibility" by <span>Helen Maria Williams</span></div>
+						</div>
+											<div class="poemQuote">
+							Though this was done in days of yore,<br>
+The act was truly brave;<br>
+What value, pray, is life to man,<br>
+If that man be a slave?
+							<div class="poet">"Liberty Or Death" by <span>James Madison Bell</span></div>
+						</div>
+											<div class="poemQuote">
+							"For Mary Jones last night agreed,<br>
+Or near upon't, to be my wife:<br>
+The horse's value I don't heed,<br>
+I only want to save his life."
+							<div class="poet">"Abner And The Widow Jones" by <span>Robert Bloomfield</span></div>
+						</div>
+											<div class="poemQuote">
+							'You know the youth named Almaskhiti;<br>
+Courageous is he, bold and gay;<br>
+And priceless is the value of<br>
+His gun, his sword, or steed of gray.
+							<div class="poet">"Gamzrdeli" by <span>Akaki Tsereteli</span></div>
+						</div>
+											<div class="poemQuote">
+							Would you know our planet's value?<br>
+View the star-strewn dome of night!<br>
+In that shoreless sea of splendor<br>
+What is one faint wave of light?
+							<div class="poet">"Discouragement" by <span>John Lawson Stoddard</span></div>
+						</div>
+											<div class="poemQuote">
+							Majesty of the nature of man! In crowds shall I seek thee?<br>
+'Tis with only a few that thou hast made thine abode.<br>
+Only a few ever count; the rest are but blanks of no value,<br>
+And the prizes are hid 'neath the vain stir that they make.
+							<div class="poet">"Majestas Populi" by <span>Friedrich von Schiller</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Become a Valued Anomaly ' in Your Market.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cedmag.com/article-detail.cfm?id=10923225" target="_blank" rel="external nofollow">cedmag.com</a>
+					</div>
+										<div class="usage">
+						The Back-UPS CS offers the best value for protecting business and office computer systems.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pcmag.com/article2/0,2817,2347739,00.asp" target="_blank" rel="external nofollow">pcmag.com</a>
+					</div>
+										<div class="usage">
+						Saying that something has value is different from saying what it is.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nationalreview.com/articles/264336/two-views-marriage-appendix-jason-lee-steorts?pg=2" target="_blank" rel="external nofollow">nationalreview.com</a>
+					</div>
+										<div class="usage">
+						Chris Bevilacqua and CSTV were first to see value of around-the-clock college sports.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/rutgersfootball/index.ssf/2012/08/chris_bevilacqua_and_cstv_were.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						IAC/InterActive to use stock to buy search engine for deal valued providing 16 percent premium.
+					</div>
+					<div class="uAuthor">
+						<a href="http://money.cnn.com/2005/03/21/technology/askjeeves/index.htm" target="_blank" rel="external nofollow">money.cnn.com</a>
+					</div>
+										<div class="usage">
+						New assays from that core showed considerably lower values.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/business/resources/Former+Vancouver+geologist+pleads+guilty+massive+assay/7256654/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						But, is this value judgment safe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.firehouse.com/article/10516666/how-clean-is-clean-assuring-decontamination-efforts-are-adequate" target="_blank" rel="external nofollow">firehouse.com</a>
+					</div>
+										<div class="usage">
+						Zynga Spurning Sale Strands Owners at Worst Web Value.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-08-21/zynga-spurning-sale-strands-owners-at-worst-web-value" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						Achieving Value-Add through Supply Alliances.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ism.ws/education/content.cfm?ItemNumber=6044" target="_blank" rel="external nofollow">ism.ws</a>
+					</div>
+										<div class="usage">
+						However, far better value can be found among modestly growing companies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB50001424053111904034104578062440040328184.html?mod=WSJ_qtoverview_wsjlatest" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Retrieving the Value of the ObjectGUID Attribute .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.windowsitpro.com/article/active-directory-service-interfaces-adsi/rem-retrieving-the-value-of-the-objectguid-attribute" target="_blank" rel="external nofollow">windowsitpro.com</a>
+					</div>
+										<div class="usage">
+						They represent great value because of their growing location on the backside of Puligny and Chassagne.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winespectator.com/magazine/show/id/46800" target="_blank" rel="external nofollow">winespectator.com</a>
+					</div>
+										<div class="usage">
+						People value symmetry, proportions, averageness of faces.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2012/03/02/health/mental-health/beauty-brain-research/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Your Nov 16 article said that valued increased close to eight times 1972 values based on housing sale prices.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ldnews.com/letterseditor/ci_22073250" target="_blank" rel="external nofollow">ldnews.com</a>
+					</div>
+										<div class="usage">
+						With a declared value of $18,522 — and a street value many times that — the duck seizure was made possible by a concerted government agency effort.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/davidkroll/2012/12/08/toxic-rubber-ducks-halted-at-the-border/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						For α and (1 − α)/ν the value without error estimated is derived from the other, directly measured, value and the same authors’ value of ν . 
+					</div>
+					<div class="uAuthor">
+						Ground state numerical study of the three-dimensional random field Ising model
+					</div>
+										<div class="usage">
+						For each value of x, we have used different values of p, ranging from p = 0.0002 to p = 0.01, two for each x-value. 
+					</div>
+					<div class="uAuthor">
+						Scaling Properties of Random Walks on Small-World Networks
+					</div>
+										<div class="usage">
+						The values of α reported here correspond to the ﬁrst ﬁtted value, but error bars include the second ﬁtted value. 
+					</div>
+					<div class="uAuthor">
+						Driving rate effects in avalanche-mediated, first-order phase transitions
+					</div>
+										<div class="usage">
+						To test the uniformity of the distributions, we can use a χ2 test and a determination of a P -value that corresponds to the goodness-of-ﬁt distributional test of the P -values (a so-called ‘P -value of P -values’; Rukhin et al. 2001). 
+					</div>
+					<div class="uAuthor">
+						Random Numbers from Astronomical Imaging
+					</div>
+										<div class="usage">
+						In Fig. 6 we show ΣA (m, H ) as a function of the magnetization for two different values of R and several values of the external ﬁeld (we only consider positive values of H because of the symmetry Σ(m, −H ) = Σ(−m, H )). 
+					</div>
+					<div class="uAuthor">
+						Metastable states and T=0 hysteresis in the random-field Ising model on random graphs
+					</div>
+										<div class="usage">
+						With regard to our discussion at the end of Section 3.2 on the convergence of ¯ρ(t), we have observed the average value of g (t) under the SB heuristic to vary within only roughly 5% of the values obtained for the GMZ heuristic for most values of τ , the exceptions being τ = 2.4 (7.8%) and τ = 2.5 (6.3%). 
+					</div>
+					<div class="uAuthor">
+						A study of the edge-switching Markov-chain method for the generation of random graphs
+					</div>
+										<div class="usage">
+						By considering the ZN parafermionic spin chains, we could compare the value of the central charge of the pure system with the value of the entanglement entropy of the disordered one for each value of N . 
+					</div>
+					<div class="uAuthor">
+						Increasing of entanglement entropy from pure to random quantum critical chains
+					</div>
+										<div class="usage">
+						The resistance is given as a fixed value, and the values of the currents and voltages should be obtained as fixed values. BLNS2. 
+					</div>
+					<div class="uAuthor">
+						Benchmark Problems for Constraint Solving
+					</div>
+										<div class="usage">
+						The resistance is given as a fixed value, and the values of the currents and voltages should be obtained as fixed values. BNNS2. 
+					</div>
+					<div class="uAuthor">
+						Benchmark Problems for Constraint Solving
+					</div>
+										<div class="usage">
+						The resistance is given as a fixed value, and the values of the currents and voltages should be obtained as fixed values. BSS2. 
+					</div>
+					<div class="uAuthor">
+						Benchmark Problems for Constraint Solving
+					</div>
+										<div class="usage">
+						In the following lemma, intuitively, the values ki , ni , ri , and ci respectively represent the number of bits in the ith block of the sequence S , the number of bits in the ﬁrst i blocks, the value of a martingale after reading the ﬁrst ni bits, and a rational approximation to that value from below. 
+					</div>
+					<div class="uAuthor">
+						Dimension Extractors and Optimal Decompression
+					</div>
+										<div class="usage">
+						Because there are only n − 1 possible values of i but an inﬁnite number of values of λ, we have that there exists one region Ri that is picked as the zero-dimensional for at least two different values of λ. 
+					</div>
+					<div class="uAuthor">
+						Dispersion of Mass and the Complexity of Randomized Geometric Algorithms
+					</div>
+										<div class="usage">
+						As βp is decreased from some large value, the ﬁnite size of the circle allows the wave function to attain some nonzero value for all values of the angular parameter θp (the wave function can “see” itself around the circle). 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics and the Generalized Uncertainty Principle
+					</div>
+										<div class="usage">
+						By Lemma 11, if a variable takes either the value 0 or the value 1 in the core of a cluster C , then it is frozen to that value in C . 
+					</div>
+					<div class="uAuthor">
+						On the Solution-Space Geometry of Random Constraint Satisfaction Problems
+					</div>
+										<div class="usage">
+						The value function u(·) is convex, non-decreasing and [−∞, ∞)-valued, while v is concave, and (−∞, ∞]valued. 
+					</div>
+					<div class="uAuthor">
+						Utility Maximization with a Stochastic Clock and an Unbounded Random Endowment
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="regard highly; think much of"><a href="prize.html">prize</a>, <a href="prise.html">prise</a>, </div><div class="synGroup" title="hold dear"><a href="treasure.html">treasure</a>, <a href="appreciate.html">appreciate</a>, </div><div class="synGroup" title="the amount (of money or goods or services) that is considered to be a fair equivalent for something else"><a href="economic%20value.html">economic value</a>, </div><div class="synGroup" title="(music) the relative duration of a musical note"><a href="time%20value.html">time value</a>, <a href="note%20value.html">note value</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="disrespect.html">disrespect</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="amount.html">amount</a>, <a href="appraise.html">appraise</a>, <a href="assess.html">assess</a>, <a href="color%20property.html">color property</a>, <a href="consider.html">consider</a>, <a href="continuance.html">continuance</a>, <a href="determine.html">determine</a>, <a href="duration.html">duration</a>, <a href="evaluate.html">evaluate</a>, <a href="ideal.html">ideal</a>, <a href="judge.html">judge</a>, <a href="measure.html">measure</a>, <a href="numerical%20quantity.html">numerical quantity</a>, <a href="pass%20judgment.html">pass judgment</a>, <a href="quantity.html">quantity</a>, <a href="reckon.html">reckon</a>, <a href="regard.html">regard</a>, <a href="see.html">see</a>, <a href="set.html">set</a>, <a href="valuate.html">valuate</a>, <a href="view.html">view</a>, <a href="worth.html">worth</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="gdp.html">gdp</a>, <a href="gnp.html">gnp</a>, <a href="admire.html">admire</a>, <a href="argument.html">argument</a>, <a href="book%20value.html">book value</a>, <a href="censor.html">censor</a>, <a href="characteristic%20root%20of%20a%20square%20matrix.html">characteristic root of a square matrix</a>, <a href="cost.html">cost</a>, <a href="darkness.html">darkness</a>, <a href="do%20justice.html">do justice</a>, <a href="eigenvalue.html">eigenvalue</a>, <a href="eigenvalue%20of%20a%20matrix.html">eigenvalue of a matrix</a>, <a href="eigenvalue%20of%20a%20square%20matrix.html">eigenvalue of a square matrix</a>, <a href="face%20value.html">face value</a>, <a href="fear.html">fear</a>, <a href="float.html">float</a>, <a href="grade.html">grade</a>, <a href="gross%20domestic%20product.html">gross domestic product</a>, <a href="gross%20national%20product.html">gross national product</a>, <a href="importance.html">importance</a>, <a href="introject.html">introject</a>, <a href="invaluableness.html">invaluableness</a>, <a href="lightness.html">lightness</a>, <a href="look%20up%20to.html">look up to</a>, <a href="mark.html">mark</a>, <a href="market%20price.html">market price</a>, <a href="market%20value.html">market value</a>, <a href="mess%20of%20pottage.html">mess of pottage</a>, <a href="monetary%20standard.html">monetary standard</a>, <a href="monetary%20value.html">monetary value</a>, <a href="national%20income.html">national income</a>, <a href="nominal%20value.html">nominal value</a>, <a href="overestimate.html">overestimate</a>, <a href="overvalue.html">overvalue</a>, <a href="par%20value.html">par value</a>, <a href="parameter.html">parameter</a>, <a href="praise.html">praise</a>, <a href="preciousness.html">preciousness</a>, <a href="premium.html">premium</a>, <a href="price.html">price</a>, <a href="pricelessness.html">pricelessness</a>, <a href="principle.html">principle</a>, <a href="rate.html">rate</a>, <a href="reassess.html">reassess</a>, <a href="recognise.html">recognise</a>, <a href="recognize.html">recognize</a>, <a href="reevaluate.html">reevaluate</a>, <a href="revalue.html">revalue</a>, <a href="revere.html">revere</a>, <a href="reverence.html">reverence</a>, <a href="richness.html">richness</a>, <a href="scale%20value.html">scale value</a>, <a href="score.html">score</a>, <a href="standard.html">standard</a>, <a href="standardise.html">standardise</a>, <a href="standardize.html">standardize</a>, <a href="think%20the%20world%20of.html">think the world of</a>, <a href="toll.html">toll</a>, <a href="underestimate.html">underestimate</a>, <a href="undervalue.html">undervalue</a>, <a href="unimportance.html">unimportance</a>, <a href="valuableness.html">valuableness</a>, <a href="venerate.html">venerate</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="evaluate.html">evaluate</a>, <a href="measure.html">measure</a>, <a href="rating.html">rating</a>, <a href="respect.html">respect</a>, <a href="respecter.html">respecter</a>, <a href="valuate.html">valuate</a>, <a href="valuer.html">valuer</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A.html">A</a>, <a href="A%20dead%20dog.html">A dead dog</a>, <a href="A%20fly%20in%20the%20ointment.html">A fly in the ointment</a>, <a href="Aam.html">Aam</a>, <a href="Abditory.html">Abditory</a>, <a href="Aberration%20constant.html">Aberration constant</a>, <a href="Above%20par.html">Above par</a>, <a href="Abramis%20brama.html">Abramis brama</a>, <a href="abscissa.html">abscissa</a>, <a href="Absolute%20constant.html">Absolute constant</a>, <a href="accent.html">accent</a>, <a href="account.html">account</a>, <a href="accuracy.html">accuracy</a>, <a href="accurate.html">accurate</a>, <a href="acetylene.html">acetylene</a>, <a href="acrophony.html">acrophony</a>, <a href="actuarial.html">actuarial</a>, <a href="ad%20val.html">ad val</a>, <a href="ad%20valorem.html">ad valorem</a>, <a href="Ad%20valorem%20duty.html">Ad valorem duty</a>, <a href="adjective.html">adjective</a>, <a href="adjunct.html">adjunct</a>, <a href="advance.html">advance</a>, <a href="advancement.html">advancement</a>, <a href="Affeer.html">Affeer</a>, <a href="affix.html">affix</a>, <a href="affluent.html">affluent</a>, <a href="after.html">after</a>, <a href="agio.html">agio</a>, <a href="alb.html">alb</a>, <a href="albuminoid.html">albuminoid</a>, <a href="alcoholic.html">alcoholic</a>, <a href="algarrobilla.html">algarrobilla</a>, <a href="Allotrophic.html">Allotrophic</a>, <a href="alloy.html">alloy</a>, <a href="Almucantar.html">Almucantar</a>, <a href="alternating.html">alternating</a>, <a href="alumina.html">alumina</a>, <a href="Ambs-ace.html">Ambs-ace</a>, <a href="Americanism.html">Americanism</a>, <a href="ammonia.html">ammonia</a>, <a href="amortisation.html">amortisation</a>, <a href="amortization.html">amortization</a>, <a href="amount.html">amount</a>, <a href="amplitude.html">amplitude</a>, <a href="AN.html">AN</a>, <a href="angel.html">angel</a>, <a href="Angelet.html">Angelet</a>, <a href="anisotropy.html">anisotropy</a>, <a href="anna.html">anna</a>, <a href="anomaly.html">anomaly</a>, <a href="Anthracene.html">Anthracene</a>, <a href="Antiquarianism.html">Antiquarianism</a>, <a href="aphorism.html">aphorism</a>, <a href="appendix.html">appendix</a>, <a href="Appraisable.html">Appraisable</a>, <a href="appraisal.html">appraisal</a>, <a href="appraise.html">appraise</a>, <a href="Appraisement.html">Appraisement</a>, <a href="appraiser.html">appraiser</a>, <a href="appreciate.html">appreciate</a>, <a href="appreciation.html">appreciation</a>, <a href="apprise.html">apprise</a>, <a href="apprize.html">apprize</a>, <a href="Apprizeise.html">Apprizeise</a>, <a href="approve.html">approve</a>, <a href="approximation.html">approximation</a>, <a href="Aranea.html">Aranea</a>, <a href="arbitrage.html">arbitrage</a>, <a href="Arbitrary%20coefficient.html">Arbitrary coefficient</a>, <a href="Arbitrary%20constant.html">Arbitrary constant</a>, <a href="Arbitrary%20function.html">Arbitrary function</a>, <a href="Arbitrary%20quantity.html">Arbitrary quantity</a>, <a href="Archencephala.html">Archencephala</a>, <a href="Arctisca.html">Arctisca</a>, <a href="argument.html">argument</a>, <a href="array.html">array</a>, <a href="art%20object.html">art object</a>, <a href="Asar.html">Asar</a>, <a href="asper.html">asper</a>, <a href="assay.html">assay</a>, <a href="assess.html">assess</a>, <a href="assessment.html">assessment</a>, <a href="Assignat.html">Assignat</a>, <a href="assize.html">assize</a>, <a href="At.html">At</a>, <a href="At%20a%20discount.html">At a discount</a>, <a href="At%20par.html">At par</a>, <a href="Atomic%20heat.html">Atomic heat</a>, <a href="attenuate.html">attenuate</a>, <a href="Au.html">Au</a>, <a href="auction%20bridge.html">auction bridge</a>, <a href="augmentation.html">augmentation</a>, <a href="auxiliary.html">auxiliary</a>, <a href="avail.html">avail</a>, <a href="avarice.html">avarice</a>, <a href="average.html">average</a>, <a href="B.html">B</a>, <a href="Baccara.html">Baccara</a>, <a href="bad.html">bad</a>, <a href="bagatelle.html">bagatelle</a>, <a href="balance.html">balance</a>, <a href="bald.html">bald</a>, <a href="ballooning.html">ballooning</a>, <a href="ban.html">ban</a>, <a href="banana.html">banana</a>, <a href="banian.html">banian</a>, <a href="barter.html">barter</a>, <a href="base.html">base</a>, <a href="bastardise.html">bastardise</a>, <a href="bastardize.html">bastardize</a>, <a href="bastardly.html">bastardly</a>, <a href="Bathyergus.html">Bathyergus</a>, <a href="bauble.html">bauble</a>, <a href="Be.html">Be</a>, <a href="beachcomber.html">beachcomber</a>, <a href="belletristic.html">belletristic</a>, <a href="below.html">below</a>, <a href="Below%20par.html">Below par</a>, <a href="benefit.html">benefit</a>, <a href="Berseem.html">Berseem</a>, <a href="bet.html">bet</a>, <a href="beth.html">beth</a>, <a href="better.html">better</a>, <a href="betterment.html">betterment</a>, <a href="bezant.html">bezant</a>, <a href="Bezoar.html">Bezoar</a>, <a href="bid.html">bid</a>, <a href="bill.html">bill</a>, <a href="bill%20of%20exchange.html">bill of exchange</a>, <a href="bimetallism.html">bimetallism</a>, <a href="binder.html">binder</a>, <a href="bit.html">bit</a>, <a href="blanc.html">blanc</a>, <a href="blare.html">blare</a>, <a href="blue%20chip.html">blue chip</a>, <a href="blue-sky.html">blue-sky</a>, <a href="Blueback.html">Blueback</a>, <a href="bluff.html">bluff</a>, <a href="bone.html">bone</a>, <a href="book.html">book</a>, <a href="boom.html">boom</a>, <a href="boondoggle.html">boondoggle</a>, <a href="boot.html">boot</a>, <a href="Bougie%20d%C3%A9cimale.html">Bougie décimale</a>, <a href="brass.html">brass</a>, <a href="breve.html">breve</a>, <a href="bribe.html">bribe</a>, <a href="bric-a-brac.html">bric-a-brac</a>, <a href="brigade.html">brigade</a>, <a href="broker.html">broker</a>, <a href="build.html">build</a>, <a href="bullion.html">bullion</a>, <a href="bundle.html">bundle</a>, <a href="busywork.html">busywork</a>, <a href="butt.html">butt</a>, <a href="button.html">button</a>, <a href="buy.html">buy</a>, <a href="c.html">c</a>, <a href="cabinet.html">cabinet</a>, <a href="cadaster.html">cadaster</a>, <a href="cadastral.html">cadastral</a>, <a href="cadastre.html">cadastre</a>, <a href="calibrate.html">calibrate</a>, <a href="calibration.html">calibration</a>, <a href="call.html">call</a>, <a href="calorimeter.html">calorimeter</a>, <a href="Cambist.html">Cambist</a>, <a href="candy.html">candy</a>, <a href="capitalisation.html">capitalisation</a>, <a href="capitalise.html">capitalise</a>, <a href="capitalization.html">capitalization</a>, <a href="capitalize.html">capitalize</a>, <a href="captain.html">captain</a>, <a href="Caract.html">Caract</a>, <a href="carat.html">carat</a>, <a href="Caroline.html">Caroline</a>, <a href="Carolus.html">Carolus</a>, <a href="Caryota.html">Caryota</a>, <a href="cash.html">cash</a>, <a href="casino.html">casino</a>, <a href="castaway.html">castaway</a>, <a href="catchpenny.html">catchpenny</a>, <a href="catty.html">catty</a>, <a href="causative.html">causative</a>, <a href="censoring.html">censoring</a>, <a href="censorship.html">censorship</a>, <a href="census.html">census</a>, <a href="cent.html">cent</a>, <a href="Cerastium.html">Cerastium</a>, <a href="chaffy.html">chaffy</a>, <a href="charge.html">charge</a>, <a href="charm.html">charm</a>, <a href="cheap.html">cheap</a>, <a href="cheapen.html">cheapen</a>, <a href="cheaply.html">cheaply</a>, <a href="cheapness.html">cheapness</a>, <a href="choiceness.html">choiceness</a>, <a href="cinchona.html">cinchona</a>, <a href="cipher.html">cipher</a>, <a href="climb.html">climb</a>, <a href="clod.html">clod</a>, <a href="coarse.html">coarse</a>, <a href="cochineal.html">cochineal</a>, <a href="collapse.html">collapse</a>, <a href="collateral.html">collateral</a>, <a href="common.html">common</a>, <a href="commute.html">commute</a>, <a href="compensate.html">compensate</a>, <a href="concentration.html">concentration</a>, <a href="concussion.html">concussion</a>, <a href="consequence.html">consequence</a>, <a href="considerable.html">considerable</a>, <a href="Considerableness.html">Considerableness</a>, <a href="constant.html">constant</a>, <a href="Constant%20of%20aberration.html">Constant of aberration</a>, <a href="Contribution%20plan.html">Contribution plan</a>, <a href="Converging%20series.html">Converging series</a>, <a href="conversion.html">conversion</a>, <a href="convertible.html">convertible</a>, <a href="correct.html">correct</a>, <a href="Cotton-seed.html">Cotton-seed</a>, <a href="count.html">count</a>, <a href="Countermark.html">Countermark</a>, <a href="countervail.html">countervail</a>, <a href="cover.html">cover</a>, <a href="crotchet.html">crotchet</a>, <a href="crown.html">crown</a>, <a href="Crown%20tax.html">Crown tax</a>, <a href="currency.html">currency</a>, <a href="dainty.html">dainty</a>, <a href="damage.html">damage</a>, <a href="damn.html">damn</a>, <a href="darn.html">darn</a>, <a href="Dead-head.html">Dead-head</a>, <a href="debase.html">debase</a>, <a href="debased.html">debased</a>, <a href="decline.html">decline</a>, <a href="deduct.html">deduct</a>, <a href="deflate.html">deflate</a>, <a href="degradation.html">degradation</a>, <a href="degrade.html">degrade</a>, <a href="degraded.html">degraded</a>, <a href="demonetise.html">demonetise</a>, <a href="demonetize.html">demonetize</a>, <a href="Denarius.html">Denarius</a>, <a href="denier.html">denier</a>, <a href="denominational.html">denominational</a>, <a href="depreciate.html">depreciate</a>, <a href="depreciating.html">depreciating</a>, <a href="depreciation.html">depreciation</a>, <a href="depreciative.html">depreciative</a>, <a href="depreciatory.html">depreciatory</a>, <a href="depress.html">depress</a>, <a href="derogate.html">derogate</a>, <a href="derogation.html">derogation</a>, <a href="derogatory.html">derogatory</a>, <a href="descending.html">descending</a>, <a href="deserve.html">deserve</a>, <a href="deteriorate.html">deteriorate</a>, <a href="detractive.html">detractive</a>, <a href="devaluate.html">devaluate</a>, <a href="devaluation.html">devaluation</a>, <a href="devalue.html">devalue</a>, <a href="devalued.html">devalued</a>, <a href="develop.html">develop</a>, <a href="development.html">development</a>, <a href="deviation.html">deviation</a>, <a href="diamond.html">diamond</a>, <a href="differential%20calculus.html">differential calculus</a>, <a href="dime.html">dime</a>, <a href="diminution.html">diminution</a>, <a href="diminutive.html">diminutive</a>, <a href="disable.html">disable</a>, <a href="discontinuity.html">discontinuity</a>, <a href="Discontinuous%20function.html">Discontinuous function</a>, <a href="discount.html">discount</a>, <a href="Disgregation.html">Disgregation</a>, <a href="disparagement.html">disparagement</a>, <a href="dispersion.html">dispersion</a>, <a href="disproportional.html">disproportional</a>, <a href="Disproportionally.html">Disproportionally</a>, <a href="disproportionate.html">disproportionate</a>, <a href="Disvalue.html">Disvalue</a>, <a href="Doit.html">Doit</a>, <a href="dollar.html">dollar</a>, <a href="Domesday-.html">Domesday-</a>, <a href="Doomsday-book.html">Doomsday-book</a>, <a href="Dotted%20note.html">Dotted note</a>, <a href="double.html">double</a>, <a href="double%20eagle.html">double eagle</a>, <a href="doubloon.html">doubloon</a>, <a href="Down.html">Down</a>, <a href="downgrade.html">downgrade</a>, <a href="drachma.html">drachma</a>, <a href="dramatically.html">dramatically</a>, <a href="drawback.html">drawback</a>, <a href="drop.html">drop</a>, <a href="ducat.html">ducat</a>, <a href="dutch%20auction.html">dutch auction</a>, <a href="E.html">E</a>, <a href="eagle.html">eagle</a>, <a href="earnest.html">earnest</a>, <a href="eelpout.html">eelpout</a>, <a href="elevated.html">elevated</a>, <a href="Embase.html">Embase</a>, <a href="enhanced.html">enhanced</a>, <a href="enhancement.html">enhancement</a>, <a href="enrichment.html">enrichment</a>, <a href="ensemble.html">ensemble</a>, <a href="equal.html">equal</a>, <a href="equality.html">equality</a>, <a href="equation.html">equation</a>, <a href="equivalence.html">equivalence</a>, <a href="equivalent.html">equivalent</a>, <a href="Ergal.html">Ergal</a>, <a href="erotica.html">erotica</a>, <a href="error.html">error</a>, <a href="essay.html">essay</a>, <a href="esteem.html">esteem</a>, <a href="Esteemer.html">Esteemer</a>, <a href="estimate.html">estimate</a>, <a href="estimation.html">estimation</a>, <a href="European%20bream.html">European bream</a>, <a href="Euthynnus%20pelamis.html">Euthynnus pelamis</a>, <a href="evaluate.html">evaluate</a>, <a href="evaluation.html">evaluation</a>, <a href="evisceration.html">evisceration</a>, <a href="exalted.html">exalted</a>, <a href="exchange.html">exchange</a>, <a href="exchangeable.html">exchangeable</a>, <a href="expectation.html">expectation</a>, <a href="expense.html">expense</a>, <a href="exploit.html">exploit</a>, <a href="Exponential%20theorem.html">Exponential theorem</a>, <a href="expression.html">expression</a>, <a href="extend.html">extend</a>, <a href="extortion.html">extortion</a>, <a href="extrapolate.html">extrapolate</a>, <a href="extrapolation.html">extrapolation</a>, <a href="F.html">F</a>, <a href="face.html">face</a>, <a href="face%20value.html">face value</a>, <a href="factor.html">factor</a>, <a href="falderol.html">falderol</a>, <a href="fall.html">fall</a>, <a href="falling.html">falling</a>, <a href="fancy.html">fancy</a>, <a href="Fancy%20stocks.html">Fancy stocks</a>, <a href="faro.html">faro</a>, <a href="farthing.html">farthing</a>, <a href="Feck.html">Feck</a>, <a href="fig.html">fig</a>, <a href="figure.html">figure</a>, <a href="filch.html">filch</a>, <a href="fixed.html">fixed</a>, <a href="flash-frozen.html">flash-frozen</a>, <a href="Florence.html">Florence</a>, <a href="florin.html">florin</a>, <a href="fluff.html">fluff</a>, <a href="flush.html">flush</a>, <a href="folderal.html">folderal</a>, <a href="force.html">force</a>, <a href="fractional%20currency.html">fractional currency</a>, <a href="Frigate%20mackerel.html">Frigate mackerel</a>, <a href="frill.html">frill</a>, <a href="frippery.html">frippery</a>, <a href="frivolity.html">frivolity</a>, <a href="frozen.html">frozen</a>, <a href="function.html">function</a>, <a href="gammon.html">gammon</a>, <a href="gather.html">gather</a>, <a href="gem.html">gem</a>, <a href="Gematria.html">Gematria</a>, <a href="gerund.html">gerund</a>, <a href="gewgaw.html">gewgaw</a>, <a href="gilt-edged.html">gilt-edged</a>, <a href="gimcrack.html">gimcrack</a>, <a href="gimcrackery.html">gimcrackery</a>, <a href="give.html">give</a>, <a href="giving.html">giving</a>, <a href="Gizzard%20shad.html">Gizzard shad</a>, <a href="Glory-hole.html">Glory-hole</a>, <a href="go.html">go</a>, <a href="Go%20for%20nothing.html">Go for nothing</a>, <a href="go%20up.html">go up</a>, <a href="Good%20for%20nothing.html">Good for nothing</a>, <a href="Good-will.html">Good-will</a>, <a href="grand.html">grand</a>, <a href="grand%20larceny.html">grand larceny</a>, <a href="grand%20theft.html">grand theft</a>, <a href="Great%20shakes.html">Great shakes</a>, <a href="Gresham%27s%20Law.html">Gresham's Law</a>, <a href="groschen.html">groschen</a>, <a href="groundlessness.html">groundlessness</a>, <a href="Gry.html">Gry</a>, <a href="gulden.html">gulden</a>, <a href="H.html">H</a>, <a href="half.html">half</a>, <a href="Half-crown.html">Half-crown</a>, <a href="half-penny.html">half-penny</a>, <a href="halfpenny.html">halfpenny</a>, <a href="halfpennyworth.html">halfpennyworth</a>, <a href="Hall-mark.html">Hall-mark</a>, <a href="harmony.html">harmony</a>, <a href="herring.html">herring</a>, <a href="high-flown.html">high-flown</a>, <a href="high-minded.html">high-minded</a>, <a href="high-pass%20filter.html">high-pass filter</a>, <a href="highflying.html">highflying</a>, <a href="hogchoker.html">hogchoker</a>, <a href="homestead%20law.html">homestead law</a>, <a href="homologous.html">homologous</a>, <a href="homology.html">homology</a>, <a href="hoot.html">hoot</a>, <a href="Hotchpot.html">Hotchpot</a>, <a href="huff.html">huff</a>, <a href="hurt.html">hurt</a>, <a href="I.html">I</a>, <a href="idealistic.html">idealistic</a>, <a href="idealize.html">idealize</a>, <a href="idempotent.html">idempotent</a>, <a href="idleness.html">idleness</a>, <a href="Imbase.html">Imbase</a>, <a href="imitation.html">imitation</a>, <a href="Immoment.html">Immoment</a>, <a href="impair.html">impair</a>, <a href="impertinence.html">impertinence</a>, <a href="important.html">important</a>, <a href="improve.html">improve</a>, <a href="improvement.html">improvement</a>, <a href="incommensurable.html">incommensurable</a>, <a href="inconsequential.html">inconsequential</a>, <a href="inconsiderable.html">inconsiderable</a>, <a href="inconvertible.html">inconvertible</a>, <a href="increase.html">increase</a>, <a href="Increasing%20function.html">Increasing function</a>, <a href="increment.html">increment</a>, <a href="Incremental..html">Incremental.</a>, <a href="incumbrance.html">incumbrance</a>, <a href="independent.html">independent</a>, <a href="indeterminate.html">indeterminate</a>, <a href="Indeterminate%20quantity.html">Indeterminate quantity</a>, <a href="industry.html">industry</a>, <a href="inferior.html">inferior</a>, <a href="infinitesimal.html">infinitesimal</a>, <a href="inflate.html">inflate</a>, <a href="inflation.html">inflation</a>, <a href="initialise.html">initialise</a>, <a href="initialize.html">initialize</a>, <a href="injure.html">injure</a>, <a href="insubstantial.html">insubstantial</a>, <a href="intangible.html">intangible</a>, <a href="interpolate.html">interpolate</a>, <a href="interpolation.html">interpolation</a>, <a href="intrinsic.html">intrinsic</a>, <a href="Intrinsic%20value.html">Intrinsic value</a>, <a href="invalid.html">invalid</a>, <a href="inventory.html">inventory</a>, <a href="invest.html">invest</a>, <a href="invoice.html">invoice</a>, <a href="irredeemable.html">irredeemable</a>, <a href="Iso-.html">Iso-</a>, <a href="Isorropic.html">Isorropic</a>, <a href="Isorropic%20line.html">Isorropic line</a>, <a href="isotropy.html">isotropy</a>, <a href="Jacobus.html">Jacobus</a>, <a href="jejune.html">jejune</a>, <a href="jejuneness.html">jejuneness</a>, <a href="jejunity.html">jejunity</a>, <a href="Johannes.html">Johannes</a>, <a href="joker.html">joker</a>, <a href="judge.html">judge</a>, <a href="junk.html">junk</a>, <a href="keepsake.html">keepsake</a>, <a href="Keta.html">Keta</a>, <a href="kopeck.html">kopeck</a>, <a href="krone.html">krone</a>, <a href="lac.html">lac</a>, <a href="large.html">large</a>, <a href="law.html">law</a>, <a href="Left%20bower.html">Left bower</a>, <a href="lesion.html">lesion</a>, <a href="lesser.html">lesser</a>, <a href="like.html">like</a>, <a href="litter.html">litter</a>, <a href="Livre.html">Livre</a>, <a href="loaded.html">loaded</a>, <a href="lofty.html">lofty</a>, <a href="looted.html">looted</a>, <a href="low-pass%20filter.html">low-pass filter</a>, <a href="mahogany.html">mahogany</a>, <a href="major%20suit.html">major suit</a>, <a href="Make-weight.html">Make-weight</a>, <a href="make-work.html">make-work</a>, <a href="Maneh.html">Maneh</a>, <a href="manganese.html">manganese</a>, <a href="margin.html">margin</a>, <a href="mark.html">mark</a>, <a href="marker.html">marker</a>, <a href="market.html">market</a>, <a href="market%20capitalisation.html">market capitalisation</a>, <a href="market%20capitalization.html">market capitalization</a>, <a href="material%20breach.html">material breach</a>, <a href="maund.html">maund</a>, <a href="maximal.html">maximal</a>, <a href="maximization.html">maximization</a>, <a href="maximum.html">maximum</a>, <a href="mean.html">mean</a>, <a href="measured.html">measured</a>, <a href="Mechanical%20equivalent%20of%20heat.html">Mechanical equivalent of heat</a>, <a href="median.html">median</a>, <a href="mensurable.html">mensurable</a>, <a href="mensural.html">mensural</a>, <a href="merger.html">merger</a>, <a href="merit.html">merit</a>, <a href="mina.html">mina</a>, <a href="minor%20suit.html">minor suit</a>, <a href="Mistigris.html">Mistigris</a>, <a href="modal.html">modal</a>, <a href="moment.html">moment</a>, <a href="Monerula.html">Monerula</a>, <a href="monetise.html">monetise</a>, <a href="monetize.html">monetize</a>, <a href="money.html">money</a>, <a href="Money%27s-worth.html">Money's-worth</a>, <a href="moneyed.html">moneyed</a>, <a href="Monometallism.html">Monometallism</a>, <a href="monotone.html">monotone</a>, <a href="monotonic.html">monotonic</a>, <a href="Much%20of%20a%20muchness.html">Much of a muchness</a>, <a href="Muniment.html">Muniment</a>, <a href="museum.html">museum</a>, <a href="mystique.html">mystique</a>, <a href="N.html">N</a>, <a href="naught.html">naught</a>, <a href="negociate.html">negociate</a>, <a href="neutrality.html">neutrality</a>, <a href="noble-minded.html">noble-minded</a>, <a href="Nominal%20horse%20power.html">Nominal horse power</a>, <a href="Nominal%20par.html">Nominal par</a>, <a href="nominal%20value.html">nominal value</a>, <a href="nonequivalent.html">nonequivalent</a>, <a href="nonproductive.html">nonproductive</a>, <a href="nonsense.html">nonsense</a>, <a href="Not%20to%20be%20sneezed%20at.html">Not to be sneezed at</a>, <a href="Not%20worth%20a%20hair.html">Not worth a hair</a>, <a href="notation.html">notation</a>, <a href="note.html">note</a>, <a href="nothing.html">nothing</a>, <a href="Nothing-gift.html">Nothing-gift</a>, <a href="nothingness.html">nothingness</a>, <a href="nugatory.html">nugatory</a>, <a href="null.html">null</a>, <a href="nutshell.html">nutshell</a>, <a href="O.html">O</a>, <a href="objet%20d%27art.html">objet d'art</a>, <a href="of%20import.html">of import</a>, <a href="off-colour.html">off-colour</a>, <a href="offset.html">offset</a>, <a href="Omnium.html">Omnium</a>, <a href="One-valued%20function.html">One-valued function</a>, <a href="Orichalc.html">Orichalc</a>, <a href="oscillation.html">oscillation</a>, <a href="Outprize.html">Outprize</a>, <a href="Outvalue.html">Outvalue</a>, <a href="Outworth.html">Outworth</a>, <a href="over.html">over</a>, <a href="overbalance.html">overbalance</a>, <a href="overbid.html">overbid</a>, <a href="overcapitalise.html">overcapitalise</a>, <a href="overcapitalize.html">overcapitalize</a>, <a href="overestimate.html">overestimate</a>, <a href="overpriced.html">overpriced</a>, <a href="Overprize.html">Overprize</a>, <a href="overrate.html">overrate</a>, <a href="overvalue.html">overvalue</a>, <a href="padding.html">padding</a>, <a href="Paper-money.html">Paper-money</a>, <a href="par.html">par</a>, <a href="Par%20of%20exchange.html">Par of exchange</a>, <a href="par%20value.html">par value</a>, <a href="parity.html">parity</a>, <a href="partial%20breach.html">partial breach</a>, <a href="participle.html">participle</a>, <a href="payment.html">payment</a>, <a href="pearl.html">pearl</a>, <a href="Pence.html">Pence</a>, <a href="penny.html">penny</a>, <a href="penuchle.html">penuchle</a>, <a href="period%20piece.html">period piece</a>, <a href="permissive%20waste.html">permissive waste</a>, <a href="Personal%20security.html">Personal security</a>, <a href="Peter.html">Peter</a>, <a href="petit%20larceny.html">petit larceny</a>, <a href="petty.html">petty</a>, <a href="petty%20larceny.html">petty larceny</a>, <a href="phalanx.html">phalanx</a>, <a href="phase.html">phase</a>, <a href="piaster.html">piaster</a>, <a href="piastre.html">piastre</a>, <a href="piece.html">piece</a>, <a href="piece%20of%20eight.html">piece of eight</a>, <a href="pillaged.html">pillaged</a>, <a href="pin.html">pin</a>, <a href="pique.html">pique</a>, <a href="Plack.html">Plack</a>, <a href="platinum.html">platinum</a>, <a href="plundered.html">plundered</a>, <a href="poor.html">poor</a>, <a href="porn.html">porn</a>, <a href="porno.html">porno</a>, <a href="pornography.html">pornography</a>, <a href="position.html">position</a>, <a href="pound.html">pound</a>, <a href="praise.html">praise</a>, <a href="Precious-metal.html">Precious-metal</a>, <a href="Precious-stone.html">Precious-stone</a>, <a href="predictive.html">predictive</a>, <a href="prefer.html">prefer</a>, <a href="premium.html">premium</a>, <a href="price.html">price</a>, <a href="Priced.html">Priced</a>, <a href="priceless.html">priceless</a>, <a href="pride.html">pride</a>, <a href="primary.html">primary</a>, <a href="prize.html">prize</a>, <a href="probability.html">probability</a>, <a href="Probable%20error.html">Probable error</a>, <a href="produce.html">produce</a>, <a href="production.html">production</a>, <a href="productive.html">productive</a>, <a href="profit.html">profit</a>, <a href="prognostic.html">prognostic</a>, <a href="prognosticative.html">prognosticative</a>, <a href="property.html">property</a>, <a href="Property-tax.html">Property-tax</a>, <a href="purchase.html">purchase</a>, <a href="q.html">q</a>, <a href="quick-frozen.html">quick-frozen</a>, <a href="R.html">R</a>, <a href="Rack-rent.html">Rack-rent</a>, <a href="radiotherapy.html">radiotherapy</a>, <a href="radius%20of%20curvature.html">radius of curvature</a>, <a href="raising.html">raising</a>, <a href="ransacked.html">ransacked</a>, <a href="rap.html">rap</a>, <a href="rarefied.html">rarefied</a>, <a href="rarified.html">rarified</a>, <a href="ratable.html">ratable</a>, <a href="rate.html">rate</a>, <a href="rateable.html">rateable</a>, <a href="rating.html">rating</a>, <a href="rationalisation.html">rationalisation</a>, <a href="rationalization.html">rationalization</a>, <a href="Ready-reckoner.html">Ready-reckoner</a>, <a href="reckoning.html">reckoning</a>, <a href="red%20cent.html">red cent</a>, <a href="reduce.html">reduce</a>, <a href="regression.html">regression</a>, <a href="regression%20toward%20the%20mean.html">regression toward the mean</a>, <a href="relative.html">relative</a>, <a href="relic.html">relic</a>, <a href="representative.html">representative</a>, <a href="reserve.html">reserve</a>, <a href="residual.html">residual</a>, <a href="revalue.html">revalue</a>, <a href="rhythm.html">rhythm</a>, <a href="Richardsonia.html">Richardsonia</a>, <a href="richness.html">richness</a>, <a href="rise.html">rise</a>, <a href="rising.html">rising</a>, <a href="root.html">root</a>, <a href="Rose-noble.html">Rose-noble</a>, <a href="rubbishy.html">rubbishy</a>, <a href="rupee.html">rupee</a>, <a href="s.html">s</a>, <a href="Salt%20a%20mine.html">Salt a mine</a>, <a href="Same.html">Same</a>, <a href="scalawag.html">scalawag</a>, <a href="Scallawag.html">Scallawag</a>, <a href="scrabble.html">scrabble</a>, <a href="Scuddick.html">Scuddick</a>, <a href="second-rate.html">second-rate</a>, <a href="secondary.html">secondary</a>, <a href="security%20review.html">security review</a>, <a href="sell%20short.html">sell short</a>, <a href="semiprecious.html">semiprecious</a>, <a href="Semis.html">Semis</a>, <a href="sequence.html">sequence</a>, <a href="Set%20by.html">Set by</a>, <a href="Set%20store%20by.html">Set store by</a>, <a href="Sextans.html">Sextans</a>, <a href="shit.html">shit</a>, <a href="shucks.html">shucks</a>, <a href="sidereal%20year.html">sidereal year</a>, <a href="silver.html">silver</a>, <a href="simple%20regression.html">simple regression</a>, <a href="singular.html">singular</a>, <a href="sink.html">sink</a>, <a href="sixpence.html">sixpence</a>, <a href="Skat.html">Skat</a>, <a href="Skilling.html">Skilling</a>, <a href="skipjack.html">skipjack</a>, <a href="skipjack%20tuna.html">skipjack tuna</a>, <a href="Sliding-scale.html">Sliding-scale</a>, <a href="slight.html">slight</a>, <a href="slump.html">slump</a>, <a href="smoking.html">smoking</a>, <a href="smut.html">smut</a>, <a href="soft.html">soft</a>, <a href="sou.html">sou</a>, <a href="Sound%20currency.html">Sound currency</a>, <a href="souvenir.html">souvenir</a>, <a href="spade%20casino.html">spade casino</a>, <a href="Specific%20duty.html">Specific duty</a>, <a href="spoliation.html">spoliation</a>, <a href="spot.html">spot</a>, <a href="standard.html">standard</a>, <a href="stater.html">stater</a>, <a href="statistical%20regression.html">statistical regression</a>, <a href="steel.html">steel</a>, <a href="sterling.html">sterling</a>, <a href="stopper.html">stopper</a>, <a href="sublime.html">sublime</a>, <a href="subordinate.html">subordinate</a>, <a href="sum.html">sum</a>, <a href="Sun.html">Sun</a>, <a href="superiority%20complex.html">superiority complex</a>, <a href="superordinate.html">superordinate</a>, <a href="survey.html">survey</a>, <a href="symmetry.html">symmetry</a>, <a href="synthetic.html">synthetic</a>, <a href="synthetical.html">synthetical</a>, <a href="tael.html">tael</a>, <a href="taint.html">taint</a>, <a href="talent.html">talent</a>, <a href="tangible.html">tangible</a>, <a href="tantamount.html">tantamount</a>, <a href="term%20insurance.html">term insurance</a>, <a href="Teston.html">Teston</a>, <a href="threepence.html">threepence</a>, <a href="tinker%27s%20dam.html">tinker's dam</a>, <a href="tinker%27s%20damn.html">tinker's damn</a>, <a href="tinsel.html">tinsel</a>, <a href="tithe.html">tithe</a>, <a href="To%20account%20of.html">To account of</a>, <a href="to%20boot.html">to boot</a>, <a href="To%20cry%20up.html">To cry up</a>, <a href="To%20go%20for%20nothing.html">To go for nothing</a>, <a href="To%20make%20account%20of.html">To make account of</a>, <a href="To%20set%20by.html">To set by</a>, <a href="token.html">token</a>, <a href="token%20money.html">token money</a>, <a href="Toman.html">Toman</a>, <a href="tongue-fish.html">tongue-fish</a>, <a href="tonguefish.html">tonguefish</a>, <a href="toy.html">toy</a>, <a href="transpose.html">transpose</a>, <a href="trashy.html">trashy</a>, <a href="treasure.html">treasure</a>, <a href="Treasure-chest.html">Treasure-chest</a>, <a href="trifle.html">trifle</a>, <a href="trifling.html">trifling</a>, <a href="trinket.html">trinket</a>, <a href="True%20discount.html">True discount</a>, <a href="trumpery.html">trumpery</a>, <a href="truth.html">truth</a>, <a href="twopenny.html">twopenny</a>, <a href="U.html">U</a>, <a href="unappreciated.html">unappreciated</a>, <a href="unconvertible.html">unconvertible</a>, <a href="Underbuy.html">Underbuy</a>, <a href="underestimate.html">underestimate</a>, <a href="Underlet.html">Underlet</a>, <a href="Underprize.html">Underprize</a>, <a href="underrate.html">underrate</a>, <a href="undervalue.html">undervalue</a>, <a href="unequal.html">unequal</a>, <a href="unexchangeable.html">unexchangeable</a>, <a href="unit.html">unit</a>, <a href="unpredictive.html">unpredictive</a>, <a href="unredeemed.html">unredeemed</a>, <a href="unsung.html">unsung</a>, <a href="unvalued.html">unvalued</a>, <a href="unworthiness.html">unworthiness</a>, <a href="unworthy.html">unworthy</a>, <a href="up.html">up</a>, <a href="upgrade.html">upgrade</a>, <a href="utility.html">utility</a>, <a href="valence.html">valence</a>, <a href="valuable.html">valuable</a>, <a href="valuate.html">valuate</a>, <a href="valuation.html">valuation</a>, <a href="valuator.html">valuator</a>, <a href="Value%20in%20exchange.html">Value in exchange</a>, <a href="valued.html">valued</a>, <a href="valueless.html">valueless</a>, <a href="valuelessness.html">valuelessness</a>, <a href="van.html">van</a>, <a href="Vanishing%20fraction.html">Vanishing fraction</a>, <a href="variance.html">variance</a>, <a href="verifier.html">verifier</a>, <a href="vingt-et-un.html">vingt-et-un</a>, <a href="vowel.html">vowel</a>, <a href="W.html">W</a>, <a href="wage.html">wage</a>, <a href="waste.html">waste</a>, <a href="water.html">water</a>, <a href="weakened.html">weakened</a>, <a href="wealth.html">wealth</a>, <a href="wealthy.html">wealthy</a>, <a href="weight.html">weight</a>, <a href="weighted.html">weighted</a>, <a href="wild%20card.html">wild card</a>, <a href="word.html">word</a>, <a href="worst.html">worst</a>, <a href="worth.html">worth</a>, <a href="worthful.html">worthful</a>, <a href="worthiness.html">worthiness</a>, <a href="worthless.html">worthless</a>, <a href="worthwhileness.html">worthwhileness</a>, <a href="worthy.html">worthy</a>, <a href="writ%20of%20detinue.html">writ of detinue</a>, <a href="write%20down.html">write down</a>, <a href="write%20off.html">write off</a>, <a href="X.html">X</a>, <a href="Y.html">Y</a>, <a href="yeast.html">yeast</a>, <a href="yen.html">yen</a>, <a href="zero.html">zero</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					calue, falue, galue, balue, vqlue, vwlue, vslue, vzlue, vakue, vaoue, vapue, valye, valhe, valje, valie, valuw, valus, valud, valur
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

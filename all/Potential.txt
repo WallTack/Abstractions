@@ -1,0 +1,579 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>potential</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">adj</span> <span class="term">potential</span> <span class="exp">existing in possibility</span> <span class="quot">"a potential problem","possible uses of nuclear power"</span></li><li><span class="tSpeech">adj</span> <span class="term">potential</span> <span class="exp">expected to become or be; in prospect</span> <span class="quot">"potential clients"</span></li><li><span class="tSpeech">n</span> <span class="term">potential</span> <span class="exp">the difference in electrical charge between two points in a circuit expressed in volts</span> </li><li><span class="tSpeech">n</span> <span class="term">potential</span> <span class="exp">the inherent capacity for coming into being</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In Albuquerque, New Mexico it is illegal for cab drivers to reach out and pull potential customers into their cabs.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Potential</span> <span class="exp">Anything that may be possible; a possibility; potentially.</span> </li><li><span class="term">Potential</span> <span class="exp">Being potent; endowed with energy adequate to a result; efficacious; influential.</span> <span class="wuQuot">"And hath in his effect a voice potential ."</span></li><li><span class="term">Potential</span> <span class="exp">Existing in possibility, not in actuality.</span> <span class="wuQuot">"A potential hero."</span><span class="wuQuot">"Potential existence means merely that the thing may be at ome time; actual existence, that it now is."</span></li><li><span class="term">Potential</span> <span class="exp"><span class="wuFld">(Math)</span> In the theory of gravitation, or of other forces acting in space, a function of the rectangular coordinates which determine the position of a point, such that its differential coefficients with respect to the coördinates are equal to the components of the force at the point considered; -- also called <span class="wUaltname">potential function</span>, or <span class="wUaltname">force function</span>. It is called also <span class="wUstype">Newtonian potential</span> when the force is directed to a fixed center and is inversely as the square of the distance from the center.</span> </li><li><span class="term">Potential</span> <span class="exp"><span class="wuFld">(Elec)</span> The energy of an electrical charge measured by its power to do work; hence, the degree of electrification as referred to some standard, as that of the earth; electro-motive force.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Most people know what pH means, but few people know that it stands for pondus hydrogenii which means potential hydrogen and that each unit is a phidron.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">potential</span> <span class="exp">Potent; powerful; mighty.</span> </li><li><span class="term">potential</span> <span class="exp">Possible, as opposed to actual; capable of being or becoming; capable of coming into full being or manifestation.</span> </li><li><span class="term">potential</span> <span class="exp">In physics, existing in a positional form, not as motion: especially in the phrase potential energy.</span> </li><li><span class="term">potential</span> <span class="exp">In grammar, expressing power or possibility: as, the potential mode; potential forms.</span> </li><li><span class="term">potential</span> <span class="exp">See phrase under participle</span> </li><li><span class="tSpeech">n</span> <span class="term">potential</span> <span class="exp">Anything that may be possible; a possibility.</span> </li><li><span class="tSpeech">n</span> <span class="term">potential</span> <span class="exp">In dynamics: The sum of the products of all the pairs of masses of a system, each product divided by the distance between the pair. The conception is due to Lagrange, the name to Green (1828) and independently to Gauss (1840). The potential is so called because its product by one constant differs only by another constant from the total vis viva of the system. In case there is but one attracting point, the potential is the sum of the masses, each divided by its distance from the point.</span> </li><li><span class="tSpeech">n</span> <span class="term">potential</span> <span class="exp">More generally, the line-integral of the attractions of a conservative system from a fixed configuration to its actual configuration; the work that would be done by a system of attracting and repelling masses (obeying the law of energy) in moving from situations infinitely remote from one another (or from any other fixed situations) to their actual situation. In this sense, the potential is the negative of the potential energy, to a constant près. But some writers limit the use of the word to the case in which the bodies in (8+1) dimensional space attract one another inversely as the 8th power of the distance.</span> </li><li><span class="tSpeech">n</span> <span class="term">potential</span> <span class="exp">In electrostatics, at any point near or within an electrified body, the quantity of work necessary to bring a unit of positive electricity from an infinite distance to that point, the given distribution of electricity remaining unaltered. See equipotential.</span> </li><li><span class="tSpeech">n</span> <span class="term">potential</span> <span class="exp">A scalar quantity distributed through space in such a way that its slope represents a given vector quantity distributed through space.</span> </li><li><span class="tSpeech">n</span> <span class="term">potential</span> <span class="exp">In electricity, an incorrect abbreviation of potential difference, or electric pressure.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The Pacific Giant Octopus, the largest octopus in the world, grows from the size of pea to a 150 pound behemoth potentially 30 feet across in only two years, its entire life-span.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">adj</span> <span class="term">Potential</span> <span class="exp">powerful, efficacious: existing in possibility, not in reality:</span> </li><li><span class="tSpeech">adj</span> <span class="term">Potential</span> <span class="exp">(<span class="itl">gram.</span>) expressing power, possibility, liberty, or obligation</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If you believe in an unseen Christ, you will believe in the unseen Christlike potential of others.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Roger Williams</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Roger Williams">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The greatest crime in the world is not developing your potential. When you do what you do best, you are helping not only yourself, but the world.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sir Herbert Beerbohm Tree</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Sir Herbert Beerbohm Tree">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every man is a potential genius until he does something.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gloria Steinem</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Gloria%20Steinem.jpg" alt="Gloria%20Steinem">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“By the year 2000 we will, I hope, raise our children to believe in human potential, not God.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Will Schultz</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Will Schultz">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Joy comes from using your potential.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Napoleon Hill</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Napoleon%20Hill.jpg" alt="Napoleon%20Hill">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Knowledge is only potential power.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">potentiel</span>,. See <span class="wUer">Potency</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>potens</i>—<i>potis</i>, able, <i>esse</i>, to be.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It was a confusing place, crammed full of transport, but I found my way to our potential H.Q.
+					</div>
+					<div class="uAuthor">
+						"Adventures of a Despatch Rider" by <span>W. H. L. Watson</span>					</div>
+										<div class="usage">
+						They were not ill satisfied with the potential recruits.
+					</div>
+					<div class="uAuthor">
+						"The Disentanglers" by <span>Andrew Lang</span>					</div>
+										<div class="usage">
+						Bear yourself like a man who has prosperous potentialities if not prosperous assets.
+					</div>
+					<div class="uAuthor">
+						"The Young Man and the World" by <span>Albert J. Beveridge</span>					</div>
+										<div class="usage">
+						In the beginning, however, it was only a potentiality or tendency.
+					</div>
+					<div class="uAuthor">
+						"Winds Of Doctrine" by <span>George Santayana</span>					</div>
+										<div class="usage">
+						It is the fountain-head of all potential energy.
+					</div>
+					<div class="uAuthor">
+						"The Breath of Life" by <span>John Burroughs</span>					</div>
+										<div class="usage">
+						Ultimately, Jimmy located a potential source of pleasure.
+					</div>
+					<div class="uAuthor">
+						"The Fourth R" by <span>George Oliver Smith</span>					</div>
+										<div class="usage">
+						There isn't anything of us, as I look at it, except the potentiality of experiences.
+					</div>
+					<div class="uAuthor">
+						"A Pair of Patient Lovers" by <span>William Dean Howells</span>					</div>
+										<div class="usage">
+						It is the conversion, by unknown causes, of these innate potentialities into actual existences.
+					</div>
+					<div class="uAuthor">
+						"Hume" by <span>T.H. Huxley</span>					</div>
+										<div class="usage">
+						He considered the footman as a potential friend, whatever the footman might consider him.
+					</div>
+					<div class="uAuthor">
+						"Franklin Kane" by <span>Anne Douglas Sedgwick</span>					</div>
+										<div class="usage">
+						With such lavish powers, or at least potentialities, was Shakespeare born.
+					</div>
+					<div class="uAuthor">
+						"Platform Monologues" by <span>T. G. Tucker</span>					</div>
+										<div class="usage">
+						It may be said that, at this earlier period, she was merely a loosely bound fagot of evil potentialities.
+					</div>
+					<div class="uAuthor">
+						"Branded" by <span>Francis Lynde</span>					</div>
+										<div class="usage">
+						The former grows to its full potential height, the latter is stunted.
+					</div>
+					<div class="uAuthor">
+						"Applied Eugenics" by <span>Paul Popenoe and Roswell Hill Johnson</span>					</div>
+										<div class="usage">
+						The animal instincts predominate, and the potential vigor of the people is exhausted in contributing to its own amusement.
+					</div>
+					<div class="uAuthor">
+						"The Eugenic Marriage, Volume I. (of IV.)" by <span>W. Grant Hague, M.D.</span>					</div>
+										<div class="usage">
+						After all, there's the potentiality of every kind of man in every man.
+					</div>
+					<div class="uAuthor">
+						"The Story of a Play" by <span>W. D. Howells</span>					</div>
+										<div class="usage">
+						Health, v, 173; potential power, vi, 169.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great - Volume 14" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						With him she felt potentialities enormous.
+					</div>
+					<div class="uAuthor">
+						"The Coast of Chance" by <span>Esther Chamberlain</span>					</div>
+										<div class="usage">
+						Our argument on this point involves consideration of the place occupied by Energy in a potential form.
+					</div>
+					<div class="uAuthor">
+						"Essays Towards a Theory of Knowledge" by <span>Alexander Philip</span>					</div>
+										<div class="usage">
+						And of potential drama, of the raw material of it, as the days passed, she found increasingly generous store at Brockhurst.
+					</div>
+					<div class="uAuthor">
+						"The History of Sir Richard Calmady" by <span>Lucas Malet</span>					</div>
+										<div class="usage">
+						To make this potentiality into an ability requires years of hard work and practice.
+					</div>
+					<div class="uAuthor">
+						"But, I Don't Think" by <span>Gordon Randall Garrett</span>					</div>
+										<div class="usage">
+						Energy is possible to such a body, and we agree to call this potential energy.
+					</div>
+					<div class="uAuthor">
+						"Fragments of science, V. 1-2" by <span>John Tyndall</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Potential and Subjunctive then<br>
+Came forth with doubt and chance:<br>
+All fell alike, with all their men,<br>
+Before Sir Hornbook's lance.
+							<div class="poet">"Sir Hornbook" by <span>Thomas Love Peacock</span></div>
+						</div>
+											<div class="poemQuote">
+							Behold potential plenty for us all!<br>
+Behold the pauper and the plutocrat!<br>
+Behold the signs prophetic of thy fall,<br>
+O Dynast of the Fat!
+							<div class="poet">"The Red Winds Come!" by <span>John Gneisenau Neihardt</span></div>
+						</div>
+											<div class="poemQuote">
+							When she, the mindless clay no more<br>
+In Lust's or Fear's potential hands,<br>
+Shall range her uncontested lands<br>
+Or sister world's befriending shore.
+							<div class="poet">"The Testimony of the Suns" by <span>George Sterling</span></div>
+						</div>
+											<div class="poemQuote">
+							For that pink of female gender<br>
+Tall and shapely was, and slender,<br>
+Plump of neck and bust and arms;<br>
+While the raiment that invested<br>
+Her so jealously suggested<br>
+Certain more potential charms.
+							<div class="poet">"Lydia Dick" by <span>Eugene Field</span></div>
+						</div>
+											<div class="poemQuote">
+							His Indicative some new aggression foreshews—<br>
+His Potential means plunder to friends and to foes—<br>
+His Subjunctive denotes turning Saints into Cash—<br>
+His Optative aims at these Islands a dash:
+							<div class="poet">"The New French Grammar Analysed" by <span>Thomas Stott</span></div>
+						</div>
+											<div class="poemQuote">
+							At dawn he stood, potential, opulent,<br>
+With virile manhood, and emotions keen,<br>
+And wonderful with God's creative fire.<br>
+At noon he stands, with Love's large fortune spent<br>
+In petty traffic, unproductive, mean—<br>
+A pauper, cursed with impotent desire.
+							<div class="poet">"The Squanderer" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Old Navy's recent push deeper into selling licensed college (and NFL) apparel hit a potentially embarrassing snag with a T-shirt line that has faulty punctuation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.syracuse.com/news/index.ssf/2011/08/sports_licensing_company_colle.html" target="_blank" rel="external nofollow">syracuse.com</a>
+					</div>
+										<div class="usage">
+						Potential Art Bargains on the Block.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB50001424053111904034104578062440040328184.html?mod=WSJ_qtoverview_wsjlatest" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Says further action may be needed on that and whether broadcasters should better publicize potential station sales.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.broadcastingcable.com/article/489605-FCC_Won_t_Close_Proceeding_on_Joint_Sales_Agreements_Attribution.php" target="_blank" rel="external nofollow">broadcastingcable.com</a>
+					</div>
+										<div class="usage">
+						The National Football League said it wants to look at Dodger Stadium as a potential site for a new stadium to serve as home to a Los Angeles professional football franchise.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailynews.com/news/ci_21876079/rick-orlovs-tipoff-nfl-calls-an-audible-it" target="_blank" rel="external nofollow">dailynews.com</a>
+					</div>
+										<div class="usage">
+						In order to avert a potential shift away from Brownfields redevelopment, parties interested in redeveloping contaminated properties need to address challenges early in the process.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metrocorpcounsel.com/articles/3832/restoration-and-redevelopment-urban-rivers-averting-paradigm-shift" target="_blank" rel="external nofollow">metrocorpcounsel.com</a>
+					</div>
+										<div class="usage">
+						NextGen Institute Presents Challenges, Potential of NextGen.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aviationtoday.com/av/topstories/NextGen-Institute-Presents-Challenges-Potential-of-NextGen_77329.html" target="_blank" rel="external nofollow">aviationtoday.com</a>
+					</div>
+										<div class="usage">
+						Waiting for the World to Awaken to SAAS` Potential.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eweek.com/c/a/Enterprise-Applications/Waiting-for-the-World-to-Awaken-to-SAAS-Potential-625846/" target="_blank" rel="external nofollow">eweek.com</a>
+					</div>
+										<div class="usage">
+						Boost your home's appear to potential buyers by adding awnings to your windows.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.local10.com/Adding-an-awning-can-help-you-sell-your-home/-/1717430/17388452/-/item/2/-/ua2xhw/-/index.html" target="_blank" rel="external nofollow">local10.com</a>
+					</div>
+										<div class="usage">
+						On Halloween, Nick Spencer is unleashing the vilest supervillain he has ever concocted in a book with scary good potential.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/life/comics/story/2012-09-12/Bedlam-comic-book-series/57761668/1" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Roosevelt's Badlands Ranch Faces Potential Threat.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wbur.org/npr/156761044/roosevelts-badlands-ranch-faces-potential-threat" target="_blank" rel="external nofollow">wbur.org</a>
+					</div>
+										<div class="usage">
+						T here are restaurants that are like narrowing funnels of options, and there are restaurants that are like widening cones of potential experience.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.seattleweekly.com/2010-03-24/food/stealing-bites-and-shunning-pad-thai-at-tukwila-s-bai-tong/" target="_blank" rel="external nofollow">seattleweekly.com</a>
+					</div>
+										<div class="usage">
+						Study raises hopes of potential cure for baldness .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/health/2012/04/18/study-raises-hopes-potential-cure-for-baldness/" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						New York State will not be imposing stricter regulations on ships potentially carrying invasive species into the Great Lakes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://michiganradio.org/post/new-york-state-backs-away-stricter-ballast-water-regulations" target="_blank" rel="external nofollow">michiganradio.org</a>
+					</div>
+										<div class="usage">
+						Chapters Banding Together Shows Potential.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eaa.org/chapters/resources/articles/120207_skiles.asp" target="_blank" rel="external nofollow">eaa.org</a>
+					</div>
+										<div class="usage">
+						"We also met with Councilman Vacca earlier this week and are currently reviewing potential locations for authorized barbecue areas near Bronx Park East.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bxtimes.com/stories/2011/30/bronxtimes-yn_bronx_front_page-29-bbq.html" target="_blank" rel="external nofollow">bxtimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Given 1) an effective potential for the scalars and 2) the existence of AdS solution (at extrema of the potential), the procedure is in principle straightforward. 
+					</div>
+					<div class="uAuthor">
+						AdS/CFT Correspondence and Type 0 String Theory
+					</div>
+										<div class="usage">
+						Vp is a periodic potential in the height direction and the random potential η is not periodic. 
+					</div>
+					<div class="uAuthor">
+						A periodic elastic medium in which periodicity is relevant
+					</div>
+										<div class="usage">
+						The instanton solution for the potential v(x) in the case of short range potential. 
+					</div>
+					<div class="uAuthor">
+						Instanton approach to the Langevin motion of a particle in a random potential
+					</div>
+										<div class="usage">
+						ME, working on the sample, starts with assumed form of potential functions, forming potential moment consistency constraints. 
+					</div>
+					<div class="uAuthor">
+						Minimax Entropy and Maximum Likelihood. Complementarity of tasks, identity of solutions
+					</div>
+										<div class="usage">
+						The general total potential is U (x, λ, α) = λ(x − α)2 , so the potential is u(x, α) = (x − α)2 . 
+					</div>
+					<div class="uAuthor">
+						Minimax Entropy and Maximum Likelihood. Complementarity of tasks, identity of solutions
+					</div>
+										<div class="usage">
+						The number of potentially observable pulsars in the SMC, NSMC , can be estimated using the number of potentially observable pulsars in our solar neighborhood which is deﬁned as a cylinder with a base area of 1 kpc2 in the Galactic disk. 
+					</div>
+					<div class="uAuthor">
+						Radio Pulsars in the Magellanic Clouds
+					</div>
+										<div class="usage">
+						The tachyon has a nontrivial potential and the stable vacuum of the theory corresponds to the global minimum of the potential. 
+					</div>
+					<div class="uAuthor">
+						Closed String Tachyons in Non-supersymmetric Heterotic Theories
+					</div>
+										<div class="usage">
+						An example of regularizing potential is the following potential. 
+					</div>
+					<div class="uAuthor">
+						Gibbs and Quantum Discrete Spaces
+					</div>
+										<div class="usage">
+						Potential Φ2 = µ2P (α), where P (α) is the number of regular subgraphs of α, isomorphic to γ 2 or to γ 3 , garanties the stability of the potential Φ + Φ2 for many Φ. 
+					</div>
+					<div class="uAuthor">
+						Gibbs and Quantum Discrete Spaces
+					</div>
+										<div class="usage">
+						Renormalization Superlocal potential can be expressed with local potentials in the following way. 
+					</div>
+					<div class="uAuthor">
+						Gibbs and Quantum Discrete Spaces
+					</div>
+										<div class="usage">
+						Consider a Gibbs families with S = {−1, 1} and potential Φ, equal to the sum of ΦUd,2 and the Ising potential ΦI s = P<i,j> σ iσ j of nearest neighbor interaction. 
+					</i,j></div>
+					<div class="uAuthor">
+						Gibbs and Quantum Discrete Spaces
+					</div>
+										<div class="usage">
+						Gaussian random potential, and also the case of a saturated potential. 
+					</div>
+					<div class="uAuthor">
+						Localization of polymers in a finite medium with fixed random obstacles
+					</div>
+										<div class="usage">
+						The saturated potential discussed by these authors concerned the case where the random potential can take two different values ±√g with probability 1/2 each. 
+					</div>
+					<div class="uAuthor">
+						Localization of polymers in a finite medium with fixed random obstacles
+					</div>
+										<div class="usage">
+						In a linear sigma model, the IR behavior is determined by the minima of the potential, so relevant deformations would correspond to perturbations of the potential which change the potential minima. 
+					</div>
+					<div class="uAuthor">
+						Properties of String Theory on Kaluza-Klein Melvin Background
+					</div>
+										<div class="usage">
+						Is this correct and, if so, what are the consequences of invariance under time automorphisms? The fact that the vector potential appears as the ﬁrst moment of the time derivative of (xt → x′ t′ ) suggests that Maxwell’s equations should describe complex or quaternionic vector potentials. 
+					</div>
+					<div class="uAuthor">
+						Physics with exotic probability theory
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="existing in possibility"><a href="possible.html">possible</a>, </div><div class="synGroup" title="the difference in electrical charge between two points in a circuit expressed in volts"><a href="electric%20potential.html">electric potential</a>, <a href="potential%20difference.html">potential difference</a>, <a href="potential%20drop.html">potential drop</a>, <a href="voltage.html">voltage</a>, </div><div class="synGroup" title="the inherent capacity for coming into being"><a href="potentiality.html">potentiality</a>, <a href="potency.html">potency</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="actual.html">actual</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="electrical%20phenomenon.html">electrical phenomenon</a>, <a href="possibility.html">possibility</a>, <a href="possibleness.html">possibleness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="chance.html">chance</a>, <a href="evoked%20potential.html">evoked potential</a>, <a href="latency.html">latency</a>, <a href="prospect.html">prospect</a>, <a href="resting%20potential.html">resting potential</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="likeliness.html">likeliness</a>, <a href="potency.html">potency</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="ability.html">ability</a>, <a href="abvolt.html">abvolt</a>, <a href="abwatt.html">abwatt</a>, <a href="actual.html">actual</a>, <a href="Aedes%20albopictus.html">Aedes albopictus</a>, <a href="Anelectrotonus.html">Anelectrotonus</a>, <a href="Animal%20temperature.html">Animal temperature</a>, <a href="Aristotelianism.html">Aristotelianism</a>, <a href="artifact.html">artifact</a>, <a href="Asian%20tiger%20mosquito.html">Asian tiger mosquito</a>, <a href="barker.html">barker</a>, <a href="biosafety%20level%202.html">biosafety level 2</a>, <a href="book.html">book</a>, <a href="C%20battery.html">C battery</a>, <a href="Calorie.html">Calorie</a>, <a href="campaign.html">campaign</a>, <a href="canvas.html">canvas</a>, <a href="canvass.html">canvass</a>, <a href="cautery.html">cautery</a>, <a href="character.html">character</a>, <a href="character%20reference.html">character reference</a>, <a href="circumspect.html">circumspect</a>, <a href="concentration.html">concentration</a>, <a href="conduction.html">conduction</a>, <a href="confidential%20information.html">confidential information</a>, <a href="cosmological.html">cosmological</a>, <a href="crusher.html">crusher</a>, <a href="defence.html">defence</a>, <a href="defense.html">defense</a>, <a href="defensive%20measure.html">defensive measure</a>, <a href="demilitarise.html">demilitarise</a>, <a href="demilitarize.html">demilitarize</a>, <a href="depressor.html">depressor</a>, <a href="derive.html">derive</a>, <a href="discharge.html">discharge</a>, <a href="discreet.html">discreet</a>, <a href="drop.html">drop</a>, <a href="educe.html">educe</a>, <a href="elastic%20energy.html">elastic energy</a>, <a href="elastic%20potential%20energy.html">elastic potential energy</a>, <a href="electricity.html">electricity</a>, <a href="electrification.html">electrification</a>, <a href="Electro-motive%20force.html">Electro-motive force</a>, <a href="Electro-negative.html">Electro-negative</a>, <a href="Electro-positive.html">Electro-positive</a>, <a href="electrometer.html">electrometer</a>, <a href="electron%20volt.html">electron volt</a>, <a href="electronegative.html">electronegative</a>, <a href="elicited.html">elicited</a>, <a href="energy.html">energy</a>, <a href="entelechy.html">entelechy</a>, <a href="equation.html">equation</a>, <a href="Equipotential.html">Equipotential</a>, <a href="Equipotential%20surface.html">Equipotential surface</a>, <a href="Ergal.html">Ergal</a>, <a href="ether.html">ether</a>, <a href="eV.html">eV</a>, <a href="evoked.html">evoked</a>, <a href="existent.html">existent</a>, <a href="facilitation.html">facilitation</a>, <a href="farad.html">farad</a>, <a href="femtovolt.html">femtovolt</a>, <a href="Ferranti%20cables.html">Ferranti cables</a>, <a href="Ferranti%20mains.html">Ferranti mains</a>, <a href="fifth%20columnist.html">fifth columnist</a>, <a href="Frisch.html">Frisch</a>, <a href="fuse.html">fuse</a>, <a href="greater%20peritoneal%20sac.html">greater peritoneal sac</a>, <a href="harmonic.html">harmonic</a>, <a href="heat.html">heat</a>, <a href="hint.html">hint</a>, <a href="hot%20spot.html">hot spot</a>, <a href="hotspot.html">hotspot</a>, <a href="impress.html">impress</a>, <a href="incapability.html">incapability</a>, <a href="incapableness.html">incapableness</a>, <a href="intelligence.html">intelligence</a>, <a href="intelligence%20analyst.html">intelligence analyst</a>, <a href="intelligence%20information.html">intelligence information</a>, <a href="intensity.html">intensity</a>, <a href="jigger.html">jigger</a>, <a href="kilocalorie.html">kilocalorie</a>, <a href="kilogram%20calorie.html">kilogram calorie</a>, <a href="kilovolt.html">kilovolt</a>, <a href="kV.html">kV</a>, <a href="large%20calorie.html">large calorie</a>, <a href="lead.html">lead</a>, <a href="leverage.html">leverage</a>, <a href="leveraging.html">leveraging</a>, <a href="lidar.html">lidar</a>, <a href="life.html">life</a>, <a href="live%20wire.html">live wire</a>, <a href="load.html">load</a>, <a href="market.html">market</a>, <a href="microvolt.html">microvolt</a>, <a href="millivolt.html">millivolt</a>, <a href="millivoltmeter.html">millivoltmeter</a>, <a href="mode.html">mode</a>, <a href="Mv.html">Mv</a>, <a href="nanovolt.html">nanovolt</a>, <a href="natural%20resource.html">natural resource</a>, <a href="natural%20resources.html">natural resources</a>, <a href="negative%20charge.html">negative charge</a>, <a href="negative%20electricity.html">negative electricity</a>, <a href="nutritionist%27s%20calorie.html">nutritionist's calorie</a>, <a href="ohm.html">ohm</a>, <a href="oscillograph.html">oscillograph</a>, <a href="Otto%20Frisch.html">Otto Frisch</a>, <a href="Otto%20Robert%20Frisch.html">Otto Robert Frisch</a>, <a href="P.html">P</a>, <a href="peritoneal%20cavity.html">peritoneal cavity</a>, <a href="pH.html">pH</a>, <a href="pH%20scale.html">pH scale</a>, <a href="picovolt.html">picovolt</a>, <a href="pleural%20space.html">pleural space</a>, <a href="portfolio.html">portfolio</a>, <a href="positive%20charge.html">positive charge</a>, <a href="possibility.html">possibility</a>, <a href="pot.html">pot</a>, <a href="potential%20unit.html">potential unit</a>, <a href="potentiality.html">potentiality</a>, <a href="potentially.html">potentially</a>, <a href="potentiometer.html">potentiometer</a>, <a href="power.html">power</a>, <a href="Prepotent.html">Prepotent</a>, <a href="pressure.html">pressure</a>, <a href="Pressure%20wires.html">Pressure wires</a>, <a href="primary.html">primary</a>, <a href="proto-oncogene.html">proto-oncogene</a>, <a href="reconnaissance.html">reconnaissance</a>, <a href="reconnaissance%20mission.html">reconnaissance mission</a>, <a href="reference.html">reference</a>, <a href="reserve.html">reserve</a>, <a href="respiration.html">respiration</a>, <a href="responsible.html">responsible</a>, <a href="resting%20potential.html">resting potential</a>, <a href="risk%20arbitrage.html">risk arbitrage</a>, <a href="saboteur.html">saboteur</a>, <a href="sales%20resistance.html">sales resistance</a>, <a href="selling%20point.html">selling point</a>, <a href="short.html">short</a>, <a href="short%20circuit.html">short circuit</a>, <a href="sleeping%20beauty.html">sleeping beauty</a>, <a href="source.html">source</a>, <a href="spark%20gap.html">spark gap</a>, <a href="steer.html">steer</a>, <a href="step-down.html">step-down</a>, <a href="stray.html">stray</a>, <a href="stress.html">stress</a>, <a href="takeover%20arbitrage.html">takeover arbitrage</a>, <a href="takeover%20target.html">takeover target</a>, <a href="target%20company.html">target company</a>, <a href="tension.html">tension</a>, <a href="terrain.html">terrain</a>, <a href="theorem.html">theorem</a>, <a href="tinderbox.html">tinderbox</a>, <a href="tip.html">tip</a>, <a href="transformer.html">transformer</a>, <a href="turbine.html">turbine</a>, <a href="unit.html">unit</a>, <a href="V.html">V</a>, <a href="vacuum.html">vacuum</a>, <a href="venture%20capitalism.html">venture capitalism</a>, <a href="virtual.html">virtual</a>, <a href="Virtuality.html">Virtuality</a>, <a href="volt.html">volt</a>, <a href="voltage.html">voltage</a>, <a href="voltmeter.html">voltmeter</a>, <a href="warn.html">warn</a>, <a href="weaponize.html">weaponize</a>, <a href="wind.html">wind</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					ootential, lotential, pitential, pktential, pltential, pptential, porential, pofential, pogential, poyential, potwntial, potsntial, potdntial, potrntial, potebtial, potehtial, potejtial, potemtial, potenrial, potenfial, potengial, potenyial, potentual, potentjal, potentkal, potentoal, potentiql, potentiwl, potentisl, potentizl, potentiak, potentiao, potentiap
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,461 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>diplomacy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">diplomacy</span> <span class="exp">subtly skillful handling of a situation</span> </li><li><span class="tSpeech">n</span> <span class="term">diplomacy</span> <span class="exp">wisdom in the management of public affairs</span> </li><li><span class="tSpeech">n</span> <span class="term">diplomacy</span> <span class="exp">negotiation between nations</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Diplomacy</span> <span class="exp">Dexterity or skill in securing advantages; tact.</span> </li><li><span class="term">Diplomacy</span> <span class="exp">The art and practice of conducting negotiations between nations (particularly in securing treaties), including the methods and forms usually employed.</span> </li><li><span class="term">Diplomacy</span> <span class="exp">The body of ministers or envoys resident at a court; the diplomatic body.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">diplomacy</span> <span class="exp">The science of the forms, ceremonies, and methods to be observed in conducting the actual intercourse of one state with another, through authorized agents, on the basis of international law; the art of conducting such intercourse, as in negotiating and drafting treaties, representing the interests of a state or its subjects at a foreign court, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">diplomacy</span> <span class="exp">The act or practice of negotiation or official intercourse, as between independent powers; diplomatic procedure in general; the transaction of international business: as, the history of European diplomacy.</span> </li><li><span class="tSpeech">n</span> <span class="term">diplomacy</span> <span class="exp">Hence Dexterity or skill in managing negotiations of any kind; artful management with the view of securing advantages; diplomatic tact.</span> </li><li><span class="tSpeech">n</span> <span class="term">diplomacy</span> <span class="exp">A diplomatic body; the whole body of ministers at a foreign court.</span> </li><li><span class="tSpeech">n</span> <span class="term">diplomacy</span> <span class="exp">Same as diplomatics.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Diplomacy</span> <span class="exp"><span class="itl">di-plō′ma-si</span> the art of negotiation, esp. of treaties between states: political skill</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Wynn Catlin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Wynn Catlin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Diplomacy is the art of saying Nice doggie! till you can find a rock.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Eliot.jpg" alt="George%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To act with doubleness towards a man whose own conduct was double, was so near an approach to virtue that it deserved to be called by no meaner name than diplomacy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Isaac Goldberg</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Isaac Goldberg">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Diplomacy is to do and say the nastiest things in the nicest way.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Diplomacy is thinking twice before saying nothing.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Daniele Vare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Daniele Vare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Diplomacy is the art of letting someone have your way.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Andrew Young</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Andrew%20Young.jpg" alt="Andrew%20Young">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Once the Xerox copier was invented, diplomacy died.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Gunboat diplomacy</span> - If a nation conducts its diplomatic relations by threatening military action to get what it wants, it is using gunboat diplomacy.
+				</div>	
+				<span class="separatorSmall">***</span>
+								<div class="idioms">
+					<span>Megaphone diplomacy</span> - If negotiations between countries or parties are held through press releases and announcements, this is megaphone diplomacy, aiming to force the other party into adopting a desired position.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">diplomatie</span>,. This word, like <span class="wUets">supremacy</span>, retains the accent of its original. See <span class="wUer">Diploma</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						General Smyth again tried the effect of diplomacy upon the stubborn British.
+					</div>
+					<div class="uAuthor">
+						"The Rise of Canada, from Barbarism to Wealth and Civilisation" by <span>Charles Roger</span>					</div>
+										<div class="usage">
+						A RESORT TO DIPLOMACY.
+					</div>
+					<div class="uAuthor">
+						"Reminiscences of Forts Sumter and Moultrie in 1860-'61" by <span>Abner Doubleday</span>					</div>
+										<div class="usage">
+						Britain and Austria clung to their old systems, and, thanks to Wellington's genius and Metternich's diplomacy, they survived.
+					</div>
+					<div class="uAuthor">
+						"William Pitt and the Great War" by <span>John Holland Rose</span>					</div>
+										<div class="usage">
+						Caldwell was a clever man, skilled in forest diplomacy.
+					</div>
+					<div class="uAuthor">
+						"The Border Watch" by <span>Joseph A. Altsheler</span>					</div>
+										<div class="usage">
+						With the Sultan he played the most remarkable game of diplomacy.
+					</div>
+					<div class="uAuthor">
+						"The Jewish State" by <span>Theodor Herzl</span>					</div>
+										<div class="usage">
+						Diplomacy appealed to my ambition, my love of power and intrigue.
+					</div>
+					<div class="uAuthor">
+						"Black Oxen" by <span>Gertrude Franklin Horn Atherton</span>					</div>
+										<div class="usage">
+						His creation of the Congo Free State was just one evidence of his shrewdness and diplomacy.
+					</div>
+					<div class="uAuthor">
+						"An African Adventure" by <span>Isaac F. Marcosson</span>					</div>
+										<div class="usage">
+						His diplomacy was turning out badly, and he repressed an inclination to retort.
+					</div>
+					<div class="uAuthor">
+						"Desert Conquest" by <span>A. M. Chisholm</span>					</div>
+										<div class="usage">
+						If peace with the United States could be maintained, the triumph of British diplomacy would be unqualified.
+					</div>
+					<div class="uAuthor">
+						"Sea Power in its Relations to the War of 1812" by <span>Alfred Thayer Mahan</span>					</div>
+										<div class="usage">
+						Both war and diplomacy have many surprises; and it is quite possible that some way out of our embarrassing possession may yet be found.
+					</div>
+					<div class="uAuthor">
+						"Problems of Expansion" by <span>Whitelaw Reid</span>					</div>
+										<div class="usage">
+						They are getting to work rapidly and adroitly, but the situation requires some diplomacy.
+					</div>
+					<div class="uAuthor">
+						"Peking Dust" by <span>Ellen N. La Motte</span>					</div>
+										<div class="usage">
+						Mrs. Scobel tackled her, bringing all her diplomacy to bear, but without avail.
+					</div>
+					<div class="uAuthor">
+						"Vixen, Volume II." by <span>M. E. Braddon</span>					</div>
+										<div class="usage">
+						The matter was conducted on this side with the utmost diplomacy.
+					</div>
+					<div class="uAuthor">
+						"The Naval History of the United States" by <span>Willis J. Abbot</span>					</div>
+										<div class="usage">
+						You may say, and I could not deny, that my diplomacy, such as it is, is not always employed for the benefit of women only.
+					</div>
+					<div class="uAuthor">
+						"A Pessimist" by <span>Robert Timsol</span>					</div>
+										<div class="usage">
+						Russian diplomacy accordingly directed itself toward effecting a breach between the allies.
+					</div>
+					<div class="uAuthor">
+						"A History of the Nineteenth Century, Year by Year" by <span>Edwin Emerson</span>					</div>
+										<div class="usage">
+						But I desire a new English diplomacy that will exhibit, not the things in which England is wrong but the things in which England is right.
+					</div>
+					<div class="uAuthor">
+						"What I Saw in America" by <span>G. K. Chesterton</span>					</div>
+										<div class="usage">
+						By such hitherto unknown simplicity and address diplomacy at Tilsit was rendered most expeditious.
+					</div>
+					<div class="uAuthor">
+						"The Life of Napoleon Bonaparte" by <span>William Milligan Sloane</span>					</div>
+										<div class="usage">
+						Tact and diplomacy must be used.
+					</div>
+					<div class="uAuthor">
+						"Bird of Paradise" by <span>Ada Leverson</span>					</div>
+										<div class="usage">
+						Again, we are told that we have suddenly become a world power, and that we must prepare to exercise a new diplomacy under new conditions.
+					</div>
+					<div class="uAuthor">
+						"Prize Orations of the Intercollegiate Peace Association" by <span>Intercollegiate Peace Association</span>					</div>
+										<div class="usage">
+						Diplomacy is a trade which I find extremely hard to learn.
+					</div>
+					<div class="uAuthor">
+						"The Note-Book of an Attache" by <span>Eric Fisher Wood</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Kingcraft, Statecraft—Garibaldi!<br>
+Diplomacy, deep and dark,<br>
+Rules the hour; 'twere better never<br>
+To have left thy island ark.
+							<div class="poet">"Garibaldi's Mission" by <span>Janet Hamilton</span></div>
+						</div>
+											<div class="poemQuote">
+							It may not be. Behind the scenes<br>
+Sits old Diplomacy, still weaving<br>
+The web of statecraft, made to hide<br>
+"The tricks of state" and cool deceiving.
+							<div class="poet">"The Isles of Greece" by <span>Janet Hamilton</span></div>
+						</div>
+											<div class="poemQuote">
+							Dutch diplomacy struggled hard,<br>
+But Gallic chivalry won the day.<br>
+The sale was made, and the bill was paid,<br>
+And the guns went back to their pleasant play.
+							<div class="poet">"A Business Transaction" by <span>James Jeffrey Roche</span></div>
+						</div>
+											<div class="poemQuote">
+							"We may not look upon his like again."<br>
+Full oft he passed, avoiding shoal and strand,<br>
+O'er diplomacy's deep and treacherous main,<br>
+And brought the good ship Britain safe to land.
+							<div class="poet">"Elegiac Verses On The Death of Lord Palmerston" by <span>Janet Hamilton</span></div>
+						</div>
+											<div class="poemQuote">
+							He claims that suffrage, if applied<br>
+To Negroes, should be qualified;<br>
+That they diplomacied, should hail<br>
+From Dartmouth, Harvard or from Yale,<br>
+Before entrusted for an hour<br>
+With manhood's great elective power.
+							<div class="poet">"Modern Moses" by <span>James Madison Bell</span></div>
+						</div>
+											<div class="poemQuote">
+							Love's a burden to a princess and a trifle to a throne;<br>
+For the glory of a monarch is a heart of brass and stone;<br>
+Else diplomacy would famish and intrigue and guile would wane,<br>
+In the arms of ease and pleasure, find the certain way to shame.
+							<div class="poet">"The Haven Of The Lees" by <span>Samuel Alfred Beadle</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The Baltimore Orioles took one small step for international diplomacy tonight and one huge step for their own humiliation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1999/05/04/sports/baseball-cubans-outplay-fumbling-orioles-at-every-turn.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Maneuvers In Middle East Diplomacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kunc.org/term/gaza" target="_blank" rel="external nofollow">kunc.org</a>
+					</div>
+										<div class="usage">
+						One leadership style leads a constructive rebel to break rules in diplomacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/2011/1129/Leadership-A-constructive-rebel-bucks-hierarchy" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Obama at the UN on Israel-Palestine: Good Politics, Poor Diplomacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/international/archive/2011/09/obama-at-the-un-on-israel-palestine-good-politics-poor-diplomacy/245482/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						And of course, that's especially true in diplomacy, where we try to be very diplomatic all the time.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.boston.com/lifestyle/blogs/bostonspirit/2012/11/hillary_clinton_speaks_on_impo.html" target="_blank" rel="external nofollow">boston.com</a>
+					</div>
+										<div class="usage">
+						AS President Obama heads to Myanmar, Cambodia and Laos this week and next, intent on reversing China's drive to tighten its grasp on Southeast Asia, he is exercising an uncannily Asian-style diplomacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/11/14/opinion/obamas-subtle-game-will-impress-asians.html?hp" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The diplomats in Cairo, apparently attempting to wield the power of social media for public diplomacy, put out official tweets with an unusually conversational tone.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/international/archive/2012/09/the-us-embassy-to-egypts-oddly-informal-twitter-feed/262331/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						Every day thousands of refugee flee into Lebanon, Turkey and Jordan, but for the first time in months, there's an opportunity to form a government in exile that could open room for diplomacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wbur.org/npr/165218740/as-syrian-rebels-unite-u-s-options-increase" target="_blank" rel="external nofollow">wbur.org</a>
+					</div>
+										<div class="usage">
+						"I really stand behind notion of diplomacy through art," says Boxborough artist Chris Flisher, "that instead of invading countries with weapons, we will invade countries with art.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tauntongazette.com/arts/x1665846810/Chris-Flisher-Invading-the-world-with-art" target="_blank" rel="external nofollow">tauntongazette.com</a>
+					</div>
+										<div class="usage">
+						US President Obama told Israel's visiting leader that the US 'will always have Israel's back,' and said his administration and Israel agree that diplomacy is the best way to deal with the issue of Iranian nuclear weapons.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wbir.com/video/default.aspx?bctid=1490259718001&amp;odyssey=mod%7Cnewswell%7Ctext%7CFRONTPAGE%7Cfeatured" target="_blank" rel="external nofollow">wbir.com</a>
+					</div>
+										<div class="usage">
+						Reliability of financial reporting and the necessity for transparency is universal and requires collaboration and diplomacy to ensure safe and stable international markets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.industryweek.com/finance/regulatory-clash-lessons-learned-through-east-meets-west-dispute" target="_blank" rel="external nofollow">industryweek.com</a>
+					</div>
+										<div class="usage">
+						America is now into the period in the four-year cycle of US diplomacy when, because of impending elections, little if anything can be achieved.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/stories/opinion/dan-simpson/madame-secretary-hillary-clintons-a-pretty-good-diplomat-but-she-will-leave-no-landmarks-behind-645096/" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						 Madeleine Albright Says US Must Use Diplomacy Surge.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kcci.com/news/14118924/detail.html" target="_blank" rel="external nofollow">kcci.com</a>
+					</div>
+										<div class="usage">
+						What Netanyahu's meddling in US election means for Obama, Romney, and diplomacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Commentary/Opinion/2012/0927/What-Netanyahu-s-meddling-in-US-election-means-for-Obama-Romney-and-diplomacy" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Americans Favor Diplomacy Over Military Action on Iran by Almost 4 to 1.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/international/archive/2012/07/americans-favor-diplomacy-over-military-action-on-iran-by-almost-4-to-1/259928/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Diplomacy” himself, Sanju Velani, for his constant help and encouragement in all matters mathematical (and sometimes political) and for keeping me on the straight and narrow. 
+					</div>
+					<div class="uAuthor">
+						Convergence results for simultaneous and multiplicative Diophantine approximation on planar curves
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="subtly skillful handling of a situation"><a href="discreetness.html">discreetness</a>, <a href="finesse.html">finesse</a>, </div><div class="synGroup" title="negotiation between nations"><a href="diplomatic%20negotiations.html">diplomatic negotiations</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="dialogue.html">dialogue</a>, <a href="negotiation.html">negotiation</a>, <a href="tact.html">tact</a>, <a href="tactfulness.html">tactfulness</a>, <a href="talks.html">talks</a>, <a href="wisdom.html">wisdom</a>, <a href="wiseness.html">wiseness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="dollar%20diplomacy.html">dollar diplomacy</a>, <a href="gunboat%20diplomacy.html">gunboat diplomacy</a>, <a href="power%20politics.html">power politics</a>, <a href="recognition.html">recognition</a>, <a href="shuttle%20diplomacy.html">shuttle diplomacy</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="diplomatic.html">diplomatic</a>, <a href="diplomatist.html">diplomatist</a>, <a href="statesman.html">statesman</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adept.html">adept</a>, <a href="Alternat.html">Alternat</a>, <a href="back%20channel.html">back channel</a>, <a href="Bevin.html">Bevin</a>, <a href="Clausewitz.html">Clausewitz</a>, <a href="collective.html">collective</a>, <a href="conference.html">conference</a>, <a href="convention.html">convention</a>, <a href="denounce.html">denounce</a>, <a href="diplomat.html">diplomat</a>, <a href="diplomatic.html">diplomatic</a>, <a href="diplomatical.html">diplomatical</a>, <a href="diplomatically.html">diplomatically</a>, <a href="Diplomatise.html">Diplomatise</a>, <a href="Diplomatism.html">Diplomatism</a>, <a href="diplomatist.html">diplomatist</a>, <a href="dollar%20diplomacy.html">dollar diplomacy</a>, <a href="Ernest%20Bevin.html">Ernest Bevin</a>, <a href="foreign.html">foreign</a>, <a href="French.html">French</a>, <a href="genius.html">genius</a>, <a href="gunboat%20diplomacy.html">gunboat diplomacy</a>, <a href="Identic.html">Identic</a>, <a href="identical.html">identical</a>, <a href="Karl%20von%20Clausewitz.html">Karl von Clausewitz</a>, <a href="maneuver.html">maneuver</a>, <a href="Man%C5%93uvre.html">Manœuvre</a>, <a href="memorandum.html">memorandum</a>, <a href="memorial.html">memorial</a>, <a href="politics.html">politics</a>, <a href="power%20politics.html">power politics</a>, <a href="protocol.html">protocol</a>, <a href="sphere.html">sphere</a>, <a href="sphinx.html">sphinx</a>, <a href="The%20great%20powers.html">The great powers</a>, <a href="treaty.html">treaty</a>, <a href="ultimatum.html">ultimatum</a>, <a href="undiplomatically.html">undiplomatically</a>, <a href="Verbal%20note.html">Verbal note</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					siplomacy, eiplomacy, fiplomacy, ciplomacy, xiplomacy, siplomacy, duplomacy, djplomacy, dkplomacy, doplomacy, diolomacy, dillomacy, dipkomacy, dipoomacy, dippomacy, diplimacy, diplkmacy, dipllmacy, diplpmacy, diplonacy, diplojacy, diplokacy, diplomqcy, diplomwcy, diplomscy, diplomzcy, diplomaxy, diplomady, diplomafy, diplomavy, diplomact, diplomacg, diplomach, diplomacu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

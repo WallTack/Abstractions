@@ -1,0 +1,517 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>optimism</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">optimism</span> <span class="exp">a general disposition to expect the best in all things</span> </li><li><span class="tSpeech">n</span> <span class="term">optimism</span> <span class="exp">the optimistic feeling that all is going to turn out well</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Researchers in Denmark found that beer tastes best when drunk to the accompaniment of a certain musical tone. The optimal frequency is different for each beer, they reported. The correct harmonious tone for Carlsberg Lager, for example, is 510-520 cycles per second.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Optimism</span> <span class="exp">A habitual tendency or a present disposition to take the most hopeful view of future events, and to expect a favorable outcome even when unfavorable outcomes are possible; -- opposed to <span class="wUant">pessimism</span>.</span> </li><li><span class="term">Optimism</span> <span class="exp"><span class="wuFld">(Metaph)</span> The opinion or doctrine that everything in nature, being the work of God, is ordered for the best, or that the ordering of things in the universe is such as to produce the highest good.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">optimism</span> <span class="exp">In metaphysics: Properly, the metaphysical doctrine of Leibnitz that the existing universe is the best of all possible universes. The most characteristic moments of the doctrine are two: first, that the Creator selected this universe from a number of others which he might have created; and, second, that all of these presented certain imperfections or disadvantages which omnipotence could not avoid.</span> </li><li><span class="tSpeech">n</span> <span class="term">optimism</span> <span class="exp">The doctrine that the universe advances on the whole, so as to be tending toward a state in the indefinite future different in its general character from that in the indefinite past. This is better called evolutionism. It is opposed to pessimism, which holds that the universe is tending to the nothingness from which it sprang, and to Epicureanism, which holds that the universe is not tending from any general state to any other general state.</span> </li><li><span class="tSpeech">n</span> <span class="term">optimism</span> <span class="exp">The belief, or disposition to believe, that whatever exists is right and good, in some inscrutable way, in spite of all observations to the contrary.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Optimism</span> <span class="exp"><span class="itl">op′ti-mizm</span> the doctrine that everything is ordered for the best: a disposition to take a hopeful view of things—opp. to <span class="itl">Pessimism</span></span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Virginia Woolf</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Virginia%20Woolf.jpg" alt="Virginia%20Woolf">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“These are the soul's changes. I don't believe in aging. I believe in forever altering one's aspect to the sun. Hence my optimism.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The basis of optimism is sheer terror.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Hewison</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert Hewison">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Post-modernism is modernism with the optimism taken out.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ambrose Bierce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ambrose%20Bierce.jpg" alt="Ambrose%20Bierce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Optimism. The doctrine or belief that everything is beautiful, including what is ugly.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Milan Kundera</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Milan%20Kundera.jpg" alt="Milan%20Kundera">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Optimism is the opium of the people.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Anne Perry</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Anne Perry">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“... she knew in her heart that to be without optimism, that core of reasonless hope in the spirit rather than the brain, was a fatal flaw, the seed of death.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">optimus</span>, the best; akin to <span class="wUets">optio</span>, choice: cf. F. <span class="wUets">optimisme</span>,. See <span class="wUer">Option</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>optimus</i>, best.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Russian novelists are a thorn in the side of complacent optimism.
+					</div>
+					<div class="uAuthor">
+						"Essays on Russian Novelists" by <span>William Lyon Phelps</span>					</div>
+										<div class="usage">
+						Cheerfulness, even optimism, prevailed throughout the village.
+					</div>
+					<div class="uAuthor">
+						"West Wind Drift" by <span>George Barr McCutcheon</span>					</div>
+										<div class="usage">
+						In his worst hours, some innate optimism and humour held him steady in his fight.
+					</div>
+					<div class="uAuthor">
+						"Northern Lights, Complete" by <span>Gilbert Parker</span>					</div>
+										<div class="usage">
+						What unbelievable optimism had been his!
+					</div>
+					<div class="uAuthor">
+						"Donovan Pasha And Some People Of Egypt, Complete" by <span>Gilbert Parker</span>					</div>
+										<div class="usage">
+						With the buoyant optimism which never deserted her for long, she had already begun to cast off her momentary depression.
+					</div>
+					<div class="uAuthor">
+						"The Adventures of Sally" by <span>P. G. Wodehouse</span>					</div>
+										<div class="usage">
+						He did not find in the capital the optimism that reigned in the mind of Pope.
+					</div>
+					<div class="uAuthor">
+						"The Sword of Antietam" by <span>Joseph A. Altsheler</span>					</div>
+										<div class="usage">
+						All pessimism has a secret optimism for its object.
+					</div>
+					<div class="uAuthor">
+						"Tremendous Trifles" by <span>G. K. Chesterton</span>					</div>
+										<div class="usage">
+						She had need of all her courage and optimism at luncheon, for it was a gloomy meal.
+					</div>
+					<div class="uAuthor">
+						"The Cathedral" by <span>Sir Hugh Walpole</span>					</div>
+										<div class="usage">
+						Perhaps, in making this report to Jeanne, Giovanni had slightly coloured it with optimism.
+					</div>
+					<div class="uAuthor">
+						"The Saint" by <span>Antonio Fogazzaro</span>					</div>
+										<div class="usage">
+						He was a light-hearted man, full of hope and optimism.
+					</div>
+					<div class="uAuthor">
+						"The Last Hope" by <span>Henry Seton Merriman</span>					</div>
+										<div class="usage">
+						It is, rather, a protest against that optimism which in fiction we call poetic justice.
+					</div>
+					<div class="uAuthor">
+						"Tales of Two Countries" by <span>Alexander Kielland</span>					</div>
+										<div class="usage">
+						I admit he depended rather on his fine optimism than on any examination of the mine.
+					</div>
+					<div class="uAuthor">
+						"A Man of Means" by <span>P. G. Wodehouse and C. H. Bovill</span>					</div>
+										<div class="usage">
+						They are more sluggish at this time and more vulnerable to predation than later in the season when temperatures are optimal.
+					</div>
+					<div class="uAuthor">
+						"Natural History of Cottonmouth Moccasin, Agkistrodon piscovorus (Reptilia)" by <span>Ray D. Burkett</span>					</div>
+										<div class="usage">
+						In fact, the effects would hardly be distinguishable from those of optimism.
+					</div>
+					<div class="uAuthor">
+						"The philosophy of B*rtr*nd R*ss*ll" by <span>Various</span>					</div>
+										<div class="usage">
+						Besides, he talked to her about her son with soothing optimism.
+					</div>
+					<div class="uAuthor">
+						"The Enemies of Women" by <span>Vicente Blasco Ibáñez</span>					</div>
+										<div class="usage">
+						But now among the people in her home Mrs. Basine noticed an enviable optimism.
+					</div>
+					<div class="uAuthor">
+						"Gargoyles" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						Herr von Bethmann Hollweg did not seem to share my optimism, and complained of the Russian armaments.
+					</div>
+					<div class="uAuthor">
+						"Current History: A Monthly Magazine of the New York Times, May 1918" by <span>Various</span>					</div>
+										<div class="usage">
+						The American, with invincible optimism, looking upon the same scene, sees something more!
+					</div>
+					<div class="uAuthor">
+						"The Gentle Reader" by <span>Samuel McChord Crothers</span>					</div>
+										<div class="usage">
+						The shallow optimism that disregards the shadows of life is trebly faulty when it appears in the pulpit.
+					</div>
+					<div class="uAuthor">
+						"Expositor's Bible: The Song of Solomon" by <span>Walter Adeney</span>					</div>
+										<div class="usage">
+						Wholesale optimism, which has been the consequence of the attempt to explain evil away, is, however, equally an incubus.
+					</div>
+					<div class="uAuthor">
+						"Reconstruction in Philosophy" by <span>John Dewey</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							It is the time to cast off care;<br>
+To make glad intimates of these:--<br>
+The frank-faced sunbeam laughing there;<br>
+The great-heart wind, that bids us share<br>
+The optimism of the trees.
+							<div class="poet">"Wood-Words" by <span>Madison Julius Cawein</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Best-in-Class Customer Care Solutions Optimized for Rapid ROI in an Outsourced Environment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.internetretailer.com/2010/06/02/24-7-intouch-and-astute-solutions-announce-strategic-partnership" target="_blank" rel="external nofollow">internetretailer.com</a>
+					</div>
+										<div class="usage">
+						A couple of recent housing reports provide optimism about the state of San Diego's market, and suggest that the bottom has been reached.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sdbj.com/news/2012/apr/30/local-brokers-optimistic-market-bottom/" target="_blank" rel="external nofollow">sdbj.com</a>
+					</div>
+										<div class="usage">
+						Patients can discuss their options for breast implants and breast lift procedures prior to surgery for optimal results.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lajollalight.com/2011/12/29/cosmetic-breast-enhancement-understanding-patient-options-for-breast-augmentation-and-breast-lift-surgical-procedures/" target="_blank" rel="external nofollow">lajollalight.com</a>
+					</div>
+										<div class="usage">
+						New cloud solution makes it easier to optimize end-to-end call center experiences.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.destinationcrm.com/Articles/CRM-News/Daily-News/Raytheon-BBN-Technologies-Unveils-AVOKE-Analytics-4.0---84449.aspx" target="_blank" rel="external nofollow">destinationcrm.com</a>
+					</div>
+										<div class="usage">
+						Stagnant US exports to Cuba belie fair's optimism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cortezjournal.com/article/20121110/API/1211100684/Stagnant-US-exports-to-Cuba-belie-fair's-optimism" target="_blank" rel="external nofollow">cortezjournal.com</a>
+					</div>
+										<div class="usage">
+						Mixed signals belie Fed's new optimism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/apr/26/versace-mixed-signals-belie-feds-new-optimism/print/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Young homebuyers are entering the housing market with a mixture of optimism and realism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/galleries/159105245.html" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						Optimism on the economy doesn't lift views of politics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/news/politics/story/2012-02-21/poll-obama-republicans/53211198/1" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Optimizing Downstream Processing of Enveloped Viruses.
+					</div>
+					<div class="uAuthor">
+						<a href="http://genengnews.com/gen-articles/optimizing-downstream-processing-of-enveloped-viruses/3536/" target="_blank" rel="external nofollow">genengnews.com</a>
+					</div>
+										<div class="usage">
+						City, county leaders dredge up joint optimism: 'Opportunity we can't waste'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.stormlakepilottribune.com/story/1522687.html" target="_blank" rel="external nofollow">stormlakepilottribune.com</a>
+					</div>
+										<div class="usage">
+						I'm also an exercise enthusiast, life optimizer, reader, caffeine consumer, and strength coach.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.swimmingworldmagazine.com/lane9/news/Commentary/31930.asp?q=Dryland-Dos-and-Don'ts" target="_blank" rel="external nofollow">swimmingworldmagazine.com</a>
+					</div>
+										<div class="usage">
+						Taps enterprise resource planning solution to optimize operations and increase visibility.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sdcexec.com/news/10353443/fenner-dunlop-enhances-business-performance" target="_blank" rel="external nofollow">sdcexec.com</a>
+					</div>
+										<div class="usage">
+						There’s more reason for optimism this time around, but no guarantee that leads anywhere.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newsobserver.com/2012/09/16/2344967/decock-eight-years-later-another.html" target="_blank" rel="external nofollow">newsobserver.com</a>
+					</div>
+										<div class="usage">
+						Mexico's drug violence ebbing , leaving a new sense of optimism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newsobserver.com/2012/11/02/2457320/mexicos-drug-violence-ebbing-leaving.html" target="_blank" rel="external nofollow">newsobserver.com</a>
+					</div>
+										<div class="usage">
+						World's #1 Military Goggle Design Now Available and Optimized for Wildland Firefighters.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.firehouse.com/press_release/10742992/ess-firepro-goggles-now-certified-as-compliant-to-nfpa-1977-standard" target="_blank" rel="external nofollow">firehouse.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Hence as per the desired requirement, the optimal stock level will be maintained by setting or changing the priority levels in the optimization procedure. 
+					</div>
+					<div class="uAuthor">
+						Efficient Inventory Optimization of Multi Product, Multiple Suppliers with Lead Time using PSO
+					</div>
+										<div class="usage">
+						As the particle swarm optimization (PSO) is more suitable for finding the solution for the optimization problem, PSO is utilized in finding the optimal stock levels to be maintained in each member of the supply chain. The flow of procedures is discussed below. 
+					</div>
+					<div class="uAuthor">
+						Efficient Inventory Optimization of Multi Product, Multiple Suppliers with Lead Time using PSO
+					</div>
+										<div class="usage">
+						Figure 2 shows the size of the giant component versus random failures of two-peak random networks optimized according to earlier studies and others to compare with the optimized ones. 
+					</div>
+					<div class="uAuthor">
+						Cavity analysis on the robustness of random networks against targeted attacks: Influences of degree-degree correlations
+					</div>
+										<div class="usage">
+						In Fig. 3 we report a typical result of the optimization process: the initial guess and ﬁnal optimal ramp for the system in the presence of the conﬁning trap are shown for the parameter values corresponding to the experiment , for a system size N = 30. 
+					</div>
+					<div class="uAuthor">
+						Optimal control technique for Many Body Quantum Systems dynamics
+					</div>
+										<div class="usage">
+						FIG. 8: (color online) (a,b ) Simultaneous optimization of the total collection probability Psi and the symmetric heralding ratio ηsi . (c,d ) Simultaneous optimization of Psi and the signal heralding ratio ηs . 
+					</div>
+					<div class="uAuthor">
+						Optimal Co-linear Gaussian Beams for Spontaneous Parametric Down-Conversion
+					</div>
+										<div class="usage">
+						It is deﬁned by M (ǫ) = 1 and for any string σ of length n: M (σ0) = (1 − 2δn )M (σ) This martingale is in fact the optimal martingale: when playing against a sequence X that is chosen at random with respect to a measure ν , the optimal martingale is deﬁned by M (σ) = ν ([σ ])/λ([σ ]). 
+					</div>
+					<div class="uAuthor">
+						How powerful are integer-valued martingales?
+					</div>
+										<div class="usage">
+						Section 3 we discuss criteria for the selection of “optimal” generators in the class, and give speciﬁc examples of optimal generators for various n ≤ 4096 and w = 32, 64. 
+					</div>
+					<div class="uAuthor">
+						Some long-period random number generators using shifts and xors
+					</div>
+										<div class="usage">
+						While these strategies give lower bounds immediately, in Section 5 we will analyze the optimal strategy in each regime and show that these simple strategies are in fact asymptotically optimal and thus give the correct asymptotic total variation distance. 
+					</div>
+					<div class="uAuthor">
+						The Forgetfulness of Balls and Bins
+					</div>
+										<div class="usage">
+						This also rules out any data-dependent strategy to build the trees, such as searching for optimal splits by optimizing some criterion on the actual observations. 
+					</div>
+					<div class="uAuthor">
+						Analysis of a Random Forests Model
+					</div>
+										<div class="usage">
+						In 2d the optimal diagram is homogeneous only up to a characteristic ﬁnite length, ℓd , which is the breaking-up length of the optimal diagram. 
+					</div>
+					<div class="uAuthor">
+						Interface mapping in two-dimensional random lattice models
+					</div>
+										<div class="usage">
+						Using combinatorial optimization algorithm20,21 we calculate exactly the ground state of the RFIM and the optimal diagram of the RBPM and study their evolution with increasing the strength of disorder. 
+					</div>
+					<div class="uAuthor">
+						Interface mapping in two-dimensional random lattice models
+					</div>
+										<div class="usage">
+						We have beneﬁted greatly from the workshop “Investigative Workshop on Optimal Control and Optimization for Individual-based and Agent-based Models” held there in December 2009. 
+					</div>
+					<div class="uAuthor">
+						A Mathematical Framework for Agent Based Models of Complex Biological Networks
+					</div>
+										<div class="usage">
+						For all s ∈ S we have hh1iiG val (φ)(s) = hh1iiG observation-based optimal strategy for φ from s in G iff there is an observationbased optimal strategy for φ from s in G. 
+					</div>
+					<div class="uAuthor">
+						Randomness for Free
+					</div>
+										<div class="usage">
+						For all s ∈ S there is an val (φ)(s) = hh1iiG observation-based optimal strategy for φ from s in G iff there is an observationbased optimal strategy for φ from s in G. 
+					</div>
+					<div class="uAuthor">
+						Randomness for Free
+					</div>
+										<div class="usage">
+						For all s ∈ S we have hh1iiG observation-based optimal strategy for φ from s in G iff there is an observationbased optimal strategy for φ from s in G′ . 
+					</div>
+					<div class="uAuthor">
+						Randomness for Free
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="pessimism.html">pessimism</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="disposition.html">disposition</a>, <a href="hope.html">hope</a>, <a href="temperament.html">temperament</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="sanguineness.html">sanguineness</a>, <a href="sanguinity.html">sanguinity</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="optimist.html">optimist</a>, <a href="optimistic.html">optimistic</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="beamish.html">beamish</a>, <a href="Chabad.html">Chabad</a>, <a href="Chabad-Lubavitch.html">Chabad-Lubavitch</a>, <a href="elate.html">elate</a>, <a href="elation.html">elation</a>, <a href="intoxicate.html">intoxicate</a>, <a href="Leibnitzian.html">Leibnitzian</a>, <a href="Leibnitzianism.html">Leibnitzianism</a>, <a href="lift%20up.html">lift up</a>, <a href="Lubavitch.html">Lubavitch</a>, <a href="Lubavitch%20movement.html">Lubavitch movement</a>, <a href="meliorism.html">meliorism</a>, <a href="New%20Thought.html">New Thought</a>, <a href="optimist.html">optimist</a>, <a href="optimistic.html">optimistic</a>, <a href="optimistically.html">optimistically</a>, <a href="oral%20personality.html">oral personality</a>, <a href="pessimism.html">pessimism</a>, <a href="pick%20up.html">pick up</a>, <a href="rose-colored.html">rose-colored</a>, <a href="rosy.html">rosy</a>, <a href="smiling.html">smiling</a>, <a href="twinkly.html">twinkly</a>, <a href="uplift.html">uplift</a>, <a href="Utopianism.html">Utopianism</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					iptimism, kptimism, lptimism, pptimism, ootimism, oltimism, oprimism, opfimism, opgimism, opyimism, optumism, optjmism, optkmism, optomism, optinism, optijism, optikism, optimusm, optimjsm, optimksm, optimosm, optimiam, optimiwm, optimidm, optimixm, optimizm, optimiam, optimisn, optimisj, optimisk
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

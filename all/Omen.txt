@@ -1,0 +1,426 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>omen</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/219/39/10203.jpg" alt="A WORD OF ILL OMEN">
+							<div class="caption">A WORD OF ILL OMEN</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">omen</span> <span class="exp">indicate by signs</span> <span class="quot">"These signs bode bad news"</span></li><li><span class="tSpeech">n</span> <span class="term">omen</span> <span class="exp">a sign of something about to happen</span> <span class="quot">"he looked for an omen before going into battle"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Sometime around 1325, the Aztecs were looking for a place to build their capital. A priest had interpreted an omen to mean the site should be where the found an eagle, perched on a cactus, devouring a snake. And that's why they chose what is now Mexico City; they found the eagle eating a snake while resting on a cactus. The scene is depicted on the Mexican flag.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Omen</span> <span class="exp">An occurrence supposed to portend, or show the character of, some future event; any indication or action regarded as a foreshowing; a foreboding; a presage; an augury.</span> <span class="wuQuot">"Bid go with evil omen , and the brand<br>
+Of infamy upon my name."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Omen</span> <span class="exp">To divine or to foreshow by signs or portents; to have omens or premonitions regarding; to predict; to augur; as, to <span class="wUex">omen</span> ill of an enterprise.</span> <span class="wuQuot">"The yet unknown verdict, of which, however, all omened the tragical contents."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">omen</span> <span class="exp">A casual event or occurrence supposed to portend good or evil; a sign or indication of some future event; a prognostic; an augury; a presage. See augur.</span> </li><li><span class="tSpeech">n</span> <span class="term">omen</span> <span class="exp">Synonyms Omen, Portent, Sign, Presage, Prognostic, Augury, Foreboding. Omen and portent are the most weighty and supernatural of these words. Omen and sign are likely to refer to that which is more immediate, the others to the more remote. Omen and portent are external: presage and foreboding are internal and subjective; the others are either internal or external. Sign is the most general. Prognostic applies to the prophesying of states of health or kinds of weather, and is the only one of these words that implies a deduction of effect from the collation of causes. Presage and augury are generally favorable, portent and foreboding always unfavorable, the rest either favorable or unfavorable. Omen and augury are most suggestive of the ancient, practice of consulting the gods through priests or augurs. A foreboding may be mistaken; the others are presumably correct. All these words have considerable freedom in figurative use. See foretell, v. t.</span> </li><li><span class="term">omen</span> <span class="exp">To prognosticate as an omen; give indication of the future; augur; betoken.</span> </li><li><span class="term">omen</span> <span class="exp">To foresee or foretell, as by the aid of an omen; divine; predict.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Omen</span> <span class="exp"><span class="itl">ō′men</span> a sign of some future event, either good or evil: a foreboding</span> </li><li><span class="tSpeech">v.i., v.t</span> <span class="term">Omen</span> <span class="exp">to prognosticate: to predict</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ovid</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ovid.jpg" alt="Ovid">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is something in omens.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Homer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Homer.jpg" alt="Homer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Without a sign, his sword the brave man draws, and asks no omen, but his country's cause.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no such thing as an omen. Destiny does not send us heralds. She is too wise or too cruel for that.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">omen</span>, the original form being <span class="wUets">osmen</span>, according to Varro
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It was a good omen, thought Henry, but he still waited with the illimitable patience which is a necessity of the wild.
+					</div>
+					<div class="uAuthor">
+						"The Keepers of the Trail" by <span>Joseph A. Altsheler</span>					</div>
+										<div class="usage">
+						At least the name bestowed upon her was a good omen.
+					</div>
+					<div class="uAuthor">
+						"Beatrice d'Este, Duchess of Milan, 1475-1497" by <span>Julia Mary Cartwright</span>					</div>
+										<div class="usage">
+						The year following did not open with favourable omen, both the child and its mother having severe illness.
+					</div>
+					<div class="uAuthor">
+						"The Life of Charles Dickens, Vol. I-III, Complete" by <span>John Forster</span>					</div>
+										<div class="usage">
+						The sun set, pale and rayless, as if drowned in the ill-omened yellow clouds.
+					</div>
+					<div class="uAuthor">
+						"Adventures of a Young Naturalist" by <span>Lucien Biart</span>					</div>
+										<div class="usage">
+						She was shocked by this omen, but still she sent them.
+					</div>
+					<div class="uAuthor">
+						"The Metamorphoses of Ovid" by <span>Publius Ovidius Naso</span>					</div>
+										<div class="usage">
+						I would not end with so ill-omened a word, but rather with your own sweet name, Jessica.
+					</div>
+					<div class="uAuthor">
+						"The Jessica Letters: An Editor's Romance" by <span>Paul Elmer More</span>					</div>
+										<div class="usage">
+						As for omens, there is no such thing as an omen.
+					</div>
+					<div class="uAuthor">
+						"The Picture of Dorian Gray" by <span>Oscar Wilde</span>					</div>
+										<div class="usage">
+						Dogs, their howling an omen of death, 4.
+					</div>
+					<div class="uAuthor">
+						"Notes and Queries, Index of Volume 3, January-June, 1851" by <span>Various</span>					</div>
+										<div class="usage">
+						I am not sure whether or no it is of good omen to begin the New Year with laughter.
+					</div>
+					<div class="uAuthor">
+						"More Science From an Easy Chair" by <span>Sir E. Ray (Edwin Ray) Lankester</span>					</div>
+										<div class="usage">
+						This incident was held by them as an evil omen.
+					</div>
+					<div class="uAuthor">
+						"An Explorer's Adventures in Tibet" by <span>A. Henry Savage Landor</span>					</div>
+										<div class="usage">
+						I looked intently, sure that an omen was here.
+					</div>
+					<div class="uAuthor">
+						"Waiting for Daylight" by <span>Henry Major Tomlinson</span>					</div>
+										<div class="usage">
+						Besides, the bride of Simwa need fear no omens.
+					</div>
+					<div class="uAuthor">
+						"The Arrow-Maker" by <span>Mary Austin</span>					</div>
+										<div class="usage">
+						This they regarded an omen, intended to signify to them, by a divine intimation, that they ought to proceed.
+					</div>
+					<div class="uAuthor">
+						"Darius the Great" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						Omens, prodigies, and portents are to be regarded as the product of ages of experience.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the History of Religions" by <span>Crawford Howell Toy</span>					</div>
+										<div class="usage">
+						For I have heard that it is right to die with good omens.
+					</div>
+					<div class="uAuthor">
+						"Museum of Antiquity" by <span>L. W. Yaggy</span>					</div>
+										<div class="usage">
+						The omens continued to be favorable.
+					</div>
+					<div class="uAuthor">
+						"The Great Sioux Trail" by <span>Joseph  Altsheler</span>					</div>
+										<div class="usage">
+						Add to this the belief in omens, which enters very largely into human life and thought.
+					</div>
+					<div class="uAuthor">
+						"India, Its Life and Thought" by <span>John P. Jones</span>					</div>
+										<div class="usage">
+						And so, in olden time, an eclipse of the sun came as an omen of terrible disaster, nay as being itself one of the worst of disasters.
+					</div>
+					<div class="uAuthor">
+						"The Astronomy of the Bible" by <span>E. Walter Maunder</span>					</div>
+										<div class="usage">
+						The ill-omened Anticosti, the graveyard of many seamen, is yet to be passed.
+					</div>
+					<div class="uAuthor">
+						"Voyage of the Paper Canoe" by <span>Nathaniel H. Bishop</span>					</div>
+										<div class="usage">
+						It is an evil omen indeed to meet him on a voyage.
+					</div>
+					<div class="uAuthor">
+						"Toilers of the Sea" by <span>Victor Hugo</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Or men whom we see<br>
+That have got their death-omen,—<br>
+Such wretches are we<br>
+In the chains of our foemen!
+							<div class="poet">"The Downfall Of The Gael" by <span>Samuel Ferguson</span></div>
+						</div>
+											<div class="poemQuote">
+							Unfailing omen, punctual sign!<br>
+No sooner am I out,<br>
+He hovers by on golden wings<br>
+To chase the grey of doubt.
+							<div class="poet">"The Yellow Butterfly" by <span>Manmohan Ghose</span></div>
+						</div>
+											<div class="poemQuote">
+							What shall the year bring, fraught with omen,<br>
+What shall the core of its message be?<br>
+Tramp of battle, and bright swords flashing,<br>
+And the sunburst over you, Gramachree? 
+							<div class="poet">"A New Year’s Song (1898)" by <span>Anna Johnston MacManus</span></div>
+						</div>
+											<div class="poemQuote">
+							Blest omen of victory, symbol divine<br>
+Of peace after tumult, repose after pain;<br>
+How sweet and how glowing with promise the sign,<br>
+To eyes that should never behold it again!
+							<div class="poet">"The Battle Rainbow" by <span>John Reuben Thompson</span></div>
+						</div>
+											<div class="poemQuote">
+							No white young day like hope smiles in yon east,<br>
+Or, westering, cleaves wild-omened scarlet glooms;<br>
+No frosty breezes wreathe your woods in mist;<br>
+No breaker o’er Heaven’s glassy ocean booms.
+							<div class="poet">"Your Place Is Heaven, A Stormless Nightless Home?" by <span>Thomas Runciman </span></div>
+						</div>
+											<div class="poemQuote">
+							Then darkly the words of the boding strain<br>
+Like an omen rose on his soul again,<br>
+—"Soft be thy step through the silence deep,<br>
+And move not the urn in the house of sleep,<br>
+For the viewless have fearful might!"
+							<div class="poet">"The Sword Of The Tomb : A Northern Legend" by <span>Felicia Dorothea Hemans</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Seeing an Omen on a Faded Newspaper Page.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/06/17/fashion/weddings/seeing-an-omen-on-a-faded-newspaper-page.html?_r=1" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						GUNNISON — Bald eagles perched at the put-in are a rare, but excellent, omen for Colorado fishermen .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.denverpost.com/outdoors/ci_21787699/gunnison-river-has-everything-fall-fisherman-could-want" target="_blank" rel="external nofollow">denverpost.com</a>
+					</div>
+										<div class="usage">
+						When holiday sales are strong on Black Friday weekend, some analysts think it's a bad omen for the holiday season.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/business/183593531.html" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						We hope this isn't a bad wedding omen.
+					</div>
+					<div class="uAuthor">
+						<a href="http://mix941kmxj.com/pilot-crashes-during-marriage-proposal/" target="_blank" rel="external nofollow">mix941kmxj.com</a>
+					</div>
+										<div class="usage">
+						OMEN Communications is an independent, senior-level consultancy based in Chicago, founded by respected longtime journalist, columnist and public relations practitioner Ronald E Childs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.insightnews.com/business/9683-journalist-ronald-e-childs-launches-multicultural-media-consulting-practice" target="_blank" rel="external nofollow">insightnews.com</a>
+					</div>
+										<div class="usage">
+						And I hope it's not an omen of how this year will play out.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wibw.com/blogs/topdawg/My_Great_2012_iPad_Mystery_136625893.html" target="_blank" rel="external nofollow">wibw.com</a>
+					</div>
+										<div class="usage">
+						Poplar Bluff levee break is omen of things to come.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.krcg.com/news/story.aspx?list=~%5Cnews%5Clists%5Crecent&amp;id=610376" target="_blank" rel="external nofollow">krcg.com</a>
+					</div>
+										<div class="usage">
+						Zu Audio's new Omen Def loudspeaker is available directly from the company at a price of $2,800 per pair.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.electronichouse.com/article/zu_audio_omen_def_loudspeaker/" target="_blank" rel="external nofollow">electronichouse.com</a>
+					</div>
+										<div class="usage">
+						Putin's invite to Obama: a formality or a good omen .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Europe/2012/1114/Putin-s-invite-to-Obama-a-formality-or-a-good-omen/(page)/2" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						It is called "An Omen EP_," not "The Omen .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/music/posts/la-et-ms-how-to-destroy-angels-review-20121113,0,2792442.story?track=rss" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						USA faces tough road to Brazil but draw delivers good omen .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.socceramerica.com/article/49080/usa-faces-tough-road-to-brazil-but-draw-delivers-g.html" target="_blank" rel="external nofollow">socceramerica.com</a>
+					</div>
+										<div class="usage">
+						386,000 more jobs: A good omen for September report.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-505123_162-57522872/386000-more-jobs-a-good-omen-for-september-report/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Bad omen about Big Fox.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.newsok.com/berrytramel/2012/09/28/oklahoma-state-football-bad-omen-about-big-fox/" target="_blank" rel="external nofollow">blog.newsok.com</a>
+					</div>
+										<div class="usage">
+						The Pious Bird of Good Omen .
+					</div>
+					<div class="uAuthor">
+						<a href="http://minnesota.publicradio.org/display/web/2012/08/15/random-vinyl/" target="_blank" rel="external nofollow">minnesota.publicradio.org</a>
+					</div>
+										<div class="usage">
+						Do you believe in omens or signs from above.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kkyr.com/plane-towing-marriage-banner-crashes-would-you-think-its-an-omen-poll/" target="_blank" rel="external nofollow">kkyr.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						These are just the type of omens that foretell the arrival of a ma jor paradigm shift to take us beyond Einstein’s space-time continuum. 
+					</div>
+					<div class="uAuthor">
+						Singularity Resolution in Loop Quantum Cosmology: A Brief Overview
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="indicate by signs"><a href="presage.html">presage</a>, <a href="betoken.html">betoken</a>, <a href="foreshadow.html">foreshadow</a>, <a href="augur.html">augur</a>, <a href="foretell.html">foretell</a>, <a href="prefigure.html">prefigure</a>, <a href="forecast.html">forecast</a>, <a href="predict.html">predict</a>, </div><div class="synGroup" title="a sign of something about to happen"><a href="portent.html">portent</a>, <a href="presage.html">presage</a>, <a href="prognostic.html">prognostic</a>, <a href="prognostication.html">prognostication</a>, <a href="prodigy.html">prodigy</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="augury.html">augury</a>, <a href="bespeak.html">bespeak</a>, <a href="betoken.html">betoken</a>, <a href="foretoken.html">foretoken</a>, <a href="indicate.html">indicate</a>, <a href="point.html">point</a>, <a href="preindication.html">preindication</a>, <a href="sign.html">sign</a>, <a href="signal.html">signal</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="auspice.html">auspice</a>, <a href="death%20knell.html">death knell</a>, <a href="foreboding.html">foreboding</a>, <a href="foreshow.html">foreshow</a>, <a href="threaten.html">threaten</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="ominous.html">ominous</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Abodance.html">Abodance</a>, <a href="abode.html">abode</a>, <a href="Abodement.html">Abodement</a>, <a href="abominable.html">abominable</a>, <a href="amnion.html">amnion</a>, <a href="augur.html">augur</a>, <a href="augury.html">augury</a>, <a href="auspice.html">auspice</a>, <a href="auspicious.html">auspicious</a>, <a href="Black-boding.html">Black-boding</a>, <a href="bode.html">bode</a>, <a href="Bodement.html">Bodement</a>, <a href="boding.html">boding</a>, <a href="Catoptromancy.html">Catoptromancy</a>, <a href="ceremony.html">ceremony</a>, <a href="Corpse-candle.html">Corpse-candle</a>, <a href="death%20knell.html">death knell</a>, <a href="divination.html">divination</a>, <a href="foreboding.html">foreboding</a>, <a href="foretell.html">foretell</a>, <a href="foretoken.html">foretoken</a>, <a href="foul.html">foul</a>, <a href="Friday.html">Friday</a>, <a href="Gordian%20knot.html">Gordian knot</a>, <a href="Handsel.html">Handsel</a>, <a href="happy.html">happy</a>, <a href="harbinger.html">harbinger</a>, <a href="hatch.html">hatch</a>, <a href="knell.html">knell</a>, <a href="mussitation.html">mussitation</a>, <a href="night%20raven.html">night raven</a>, <a href="Night-raven.html">Night-raven</a>, <a href="Omened.html">Omened</a>, <a href="ominous.html">ominous</a>, <a href="ominously.html">ominously</a>, <a href="Oss.html">Oss</a>, <a href="peafowl.html">peafowl</a>, <a href="portend.html">portend</a>, <a href="portent.html">portent</a>, <a href="precursor.html">precursor</a>, <a href="Prenostic.html">Prenostic</a>, <a href="Preominate.html">Preominate</a>, <a href="presage.html">presage</a>, <a href="Presagement.html">Presagement</a>, <a href="prognostic.html">prognostic</a>, <a href="propitious.html">propitious</a>, <a href="sign.html">sign</a>, <a href="signal.html">signal</a>, <a href="sinister.html">sinister</a>, <a href="Soothsay.html">Soothsay</a>, <a href="The%20handwriting%20on%20the%20wall.html">The handwriting on the wall</a>, <a href="Tripudium.html">Tripudium</a>, <a href="Unforeboding.html">Unforeboding</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					imen, kmen, lmen, pmen, onen, ojen, oken, omwn, omsn, omdn, omrn, omeb, omeh, omej, omem
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

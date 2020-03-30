@@ -1,0 +1,491 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>inertia</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">inertia</span> <span class="exp">a disposition to remain inactive or inert</span> <span class="quot">"he had to overcome his inertia and get back to work"</span></li><li><span class="tSpeech">n</span> <span class="term">inertia</span> <span class="exp">(physics) the tendency of a body to maintain its state of rest or uniform motion unless acted upon by an external force</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Inertia</span> <span class="exp">Inertness; indisposition to motion, exertion, or action; lack of energy; sluggishness.</span> <span class="wuQuot">"Men . . . have immense irresolution and inertia ."</span></li><li><span class="term">Inertia</span> <span class="exp"><span class="wuFld">(Med)</span> Lack of activity; sluggishness; -- said especially of the uterus, when, in labor, its contractions have nearly or wholly ceased.</span> </li><li><span class="term">Inertia</span> <span class="exp"><span class="wuFld">(Physics)</span> That property of matter by which it tends when at rest to remain so, and when in motion to continue in motion, and in the same straight line or direction, unless acted on by some external force; -- sometimes called <span class="wUaltname">vis inertiæ</span>.  The <span class="wUex">inertia</span> of a body is proportional to its mass.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">inertia</span> <span class="exp">Lack of activity; sluggishness; passiveness; inertness.</span> </li><li><span class="tSpeech">n</span> <span class="term">inertia</span> <span class="exp">In physics, that property of matter by virtue of which it retains its state of rest or of uniform rectilinear motion so long as no foreign cause changes that state. Also called vis inertiæ (force of inertia). Quantitatively considered, inertia is the same as mass. The term was introduced by Kepler. See mass and momentum.</span> </li><li><span class="tSpeech">n</span> <span class="term">inertia</span> <span class="exp">In medicine, want of activity; sluggishness: a term especially applied to the condition of the uterus when it does not contract properly in parturition.</span> </li><li><span class="tSpeech">n</span> <span class="term">inertia</span> <span class="exp">With regard to a plane or point, the sum of the elements of mass each multiplied by the square of its distance from the given plane or point.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Inertia</span> <span class="exp">inertness: the inherent property of matter by which it tends to remain for ever at rest when still, and in motion when moving</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alexis Carrel</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Alexis Carrel">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Life leaps like a geyser for those who drill through the rock of inertia.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">W. Clement Stone</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/W.%20Clement%20Stone.jpg" alt="W.%20Clement%20Stone">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“So many fail because they don't get started -- they don't go. They don't overcome inertia. They don't begin.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">W. Clement Stone</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/W.%20Clement%20Stone.jpg" alt="W.%20Clement%20Stone">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The natural law of inertia: Matter will remain at rest or continue in uniform motion in the same straight line unless acted upon by some external force.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">W. Clement Stone</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/W.%20Clement%20Stone.jpg" alt="W.%20Clement%20Stone">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“That's why many fail -- because they don't get started -- they don't go. They don't overcome inertia. They don't begin.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">St. John Perse</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="St. John Perse">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The only menace is inertia.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edward Dahlberg</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edward%20Dahlberg.jpg" alt="Edward%20Dahlberg">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The machine has had a pernicious effect upon virtue, pity, and love, and young men used to machines which induce inertia, and fear, are near impotent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L., idleness, fr. <span class="wUets">iners</span>, idle. See <span class="wUer">Inert</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>iners</i>—<i>in</i>, not, <i>ars</i>, art.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Autumn with its soft inertia lulled him to sleep.
+					</div>
+					<div class="uAuthor">
+						"Pipefuls" by <span>Christopher Morley</span>					</div>
+										<div class="usage">
+						The varieties of this lack of power and inertia are familiar to every physician.
+					</div>
+					<div class="uAuthor">
+						"Psychotherapy" by <span>Hugo Münsterberg</span>					</div>
+										<div class="usage">
+						The inertia of past centuries as to slavery was too great to be overcome.
+					</div>
+					<div class="uAuthor">
+						"The Journal of Negro History, Volume 5, 1920" by <span>Various</span>					</div>
+										<div class="usage">
+						A great difficulty in realising this view of Experience is to be found in the apparent Solidity and Inertia of material bodies.
+					</div>
+					<div class="uAuthor">
+						"Essays Towards a Theory of Knowledge" by <span>Alexander Philip</span>					</div>
+										<div class="usage">
+						Error set in motion continues indefinitely, all according to the physical law of inertia.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great, Vol. 13" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						For that sort of inertia in woman is always enigmatic and therefore menacing.
+					</div>
+					<div class="uAuthor">
+						"Chance" by <span>Joseph Conrad</span>					</div>
+										<div class="usage">
+						For many years the colored people of the South reaped precisely this harvest of mental inertia.
+					</div>
+					<div class="uAuthor">
+						"Carl and the Cotton Gin" by <span>Sara Ware Bassett</span>					</div>
+										<div class="usage">
+						Fear and inertia had him by the foot.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great, Volume 11 (of 14)" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						They are almost without exception the victims of the same epidemic of moral inertia and emotional heavings.
+					</div>
+					<div class="uAuthor">
+						"A Circuit Rider's Wife" by <span>Corra Harris</span>					</div>
+										<div class="usage">
+						It was Joe Sykes, the wages of whose children kept him in active drunkenness and chronic inertia.
+					</div>
+					<div class="uAuthor">
+						"The Bishop of Cottontown" by <span>John Trotwood Moore</span>					</div>
+										<div class="usage">
+						It was something approaching inertia, and she knew its cause.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Unaga" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						Her father, with the inertia of coming years, hated to be disturbed.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl of Long Ago" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						Nor does this interpretation of the divine purposes of life lead the least in the world to inertia and dull passivity.
+					</div>
+					<div class="uAuthor">
+						"The Life Radiant" by <span>Lilian Whiting</span>					</div>
+										<div class="usage">
+						The amount of this resistance is called its inertia.
+					</div>
+					<div class="uAuthor">
+						"Chambers's Edinburgh Journal, No. 457" by <span>Various</span>					</div>
+										<div class="usage">
+						Arab vigour and the Islamic spirit proved unable permanently to leaven the vast inertia of the ancient East.
+					</div>
+					<div class="uAuthor">
+						"The New World of Islam" by <span>Lothrop Stoddard</span>					</div>
+										<div class="usage">
+						It is due to inertia.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						But still she could not wholly rouse herself from the dumb inertia that gripped her.
+					</div>
+					<div class="uAuthor">
+						"The Return of Peter Grimm" by <span>David Belasco</span>					</div>
+										<div class="usage">
+						The inertia which marked the brilliant decadence of the Bourbon monarchy was finally overcome.
+					</div>
+					<div class="uAuthor">
+						"The Life of Napoleon Bonaparte" by <span>William Milligan Sloane</span>					</div>
+										<div class="usage">
+						What is called centrifugal force is in truth only inertia.
+					</div>
+					<div class="uAuthor">
+						"Myths and Marvels of Astronomy" by <span>Richard A. Proctor</span>					</div>
+										<div class="usage">
+						But many heads did not move at all, and he knew what their inertia meant.
+					</div>
+					<div class="uAuthor">
+						"Where the Souls of Men are Calling" by <span>Credo Harris</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Practical Physics Student Activity- Inertia and Newton's First Law.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wviz.org/psi/video_teacher/fast" target="_blank" rel="external nofollow">wviz.org</a>
+					</div>
+										<div class="usage">
+						Medical marijuana in Los Angeles has an inertia that's a marvel to behold.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.laweekly.com/2012-09-06/news/medical-weed-ban-overturn-Los-Angeles/" target="_blank" rel="external nofollow">laweekly.com</a>
+					</div>
+										<div class="usage">
+						In art as in life, Meg Torbert was unhampered by inertia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.independent.com/news/2012/feb/24/marguerite-birch-torbert-1912-2011/" target="_blank" rel="external nofollow">independent.com</a>
+					</div>
+										<div class="usage">
+						The Washington Canoe Club and National Park Service Inertia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtoncitypaper.com/blogs/housingcomplex/2011/12/14/the-washington-canoe-club-and-park-service-inertia/" target="_blank" rel="external nofollow">washingtoncitypaper.com</a>
+					</div>
+										<div class="usage">
+						Inertia Boys and Girls Center promotes learning through doing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.khqa.com/news/video.aspx?list=194622&amp;id=771704" target="_blank" rel="external nofollow">khqa.com</a>
+					</div>
+										<div class="usage">
+						Fed's Brave Steps Contrast with ECB's Inertia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/karlwhelan/2012/12/12/feds-brave-steps-contrasts-with-ecbs-inertia/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						"There just seems to be a huge amount of energy and inertia behind the health care industry that to me makes it interesting, and in Northeast Ohio especially," he said.
+					</div>
+					<div class="uAuthor">
+						<a href="http://crainscleveland.com/article/20121126/SUB1/311269991/1076/toc" target="_blank" rel="external nofollow">crainscleveland.com</a>
+					</div>
+										<div class="usage">
+						Inertia Boys and Girls Center promotes learning through doing .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.khqa.com/news/video.aspx?list=194622&amp;id=771704" target="_blank" rel="external nofollow">khqa.com</a>
+					</div>
+										<div class="usage">
+						Inertia and big mass leads to pain, broken teeth, the usual.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.summitdaily.com/article/20121125/NEWS/121129912/1078&amp;parentprofile=1055243" target="_blank" rel="external nofollow">summitdaily.com</a>
+					</div>
+										<div class="usage">
+						It's far from unanimous, but many believe Newton's law of inertia will kick in even if the fedreal statute that launched changes in the nation's health care system is found unconstitutional.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wnyc.org/people/jay-hancock/" target="_blank" rel="external nofollow">wnyc.org</a>
+					</div>
+										<div class="usage">
+						Only inertia will bring people to Michel Gondry's 3-D spectacle, The Green Hornet .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.riverfronttimes.com/2011-01-20/film/superhero-slob/" target="_blank" rel="external nofollow">riverfronttimes.com</a>
+					</div>
+										<div class="usage">
+						Fidelity Magellan and the Power of Inertia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-505123_162-37743199/fidelity-magellan-and-the-power-of-inertia/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Diving and the Moment of Inertia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wired.com/playbook/olympics2012" target="_blank" rel="external nofollow">wired.com</a>
+					</div>
+										<div class="usage">
+						On contact at high speed, the form punch will want to bounce back a little to overcome the stagnant inertia of the strip.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thefabricator.com/article/presstechnology/overcoming-deformity-by-design" target="_blank" rel="external nofollow">thefabricator.com</a>
+					</div>
+										<div class="usage">
+						N ature does not take kindly to inertia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.runnersworld.com/masters-racing/speedy-old-men-and-women" target="_blank" rel="external nofollow">runnersworld.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Imax /I⊥ is the ratio of the maximal to minimal moments of inertia. 
+					</div>
+					<div class="uAuthor">
+						Physics of Grain Alignment
+					</div>
+										<div class="usage">
+						Unlike the ambipolar diffusion, this mechanism operates even in ideal MHD and relies only on the difference in inertia of atoms and grains. 
+					</div>
+					<div class="uAuthor">
+						Physics of Grain Alignment
+					</div>
+										<div class="usage">
+						The restriction to the inertia of the action of G on X is Ω-linear. 
+					</div>
+					<div class="uAuthor">
+						Ramification of local fields with imperfect residue fields
+					</div>
+										<div class="usage">
+						G1+ = P , where P is the wild inertia subgroup of G. 
+					</div>
+					<div class="uAuthor">
+						Ramification of local fields with imperfect residue fields
+					</div>
+										<div class="usage">
+						In Eq.(3.2), the moment of the inertia I = J/Ω is used. 
+					</div>
+					<div class="uAuthor">
+						General Relativistic Modification of a Pulsar Electromagnetic Field
+					</div>
+										<div class="usage">
+						The irrotationality of the superﬂuid ﬂow has important manifestations like, for instance, the peculiar behavior of the moment of inertia and the occurrence of quantized vortices. 
+					</div>
+					<div class="uAuthor">
+						Helium nanodroplets and trapped Bose-Einstein condensates as prototypes of finite quantum fluids
+					</div>
+										<div class="usage">
+						The moment of inertia can be deﬁned as the response, Θ = limΩ→0 hLz i/Ω, to a rotating ﬁeld of the form Hrot = −ΩLz , where Lz is the third component of the angular momentum operator. 
+					</div>
+					<div class="uAuthor">
+						Helium nanodroplets and trapped Bose-Einstein condensates as prototypes of finite quantum fluids
+					</div>
+										<div class="usage">
+						The explicit relationship between the scissors mode and the moment of inertia was derived in . 
+					</div>
+					<div class="uAuthor">
+						Helium nanodroplets and trapped Bose-Einstein condensates as prototypes of finite quantum fluids
+					</div>
+										<div class="usage">
+						In case H is a normal subgroup of a ﬁnite group G, A = kG and B = kH , the stabilizer subgroup (or inertia subgroup) L for a simple B -module V consists of all g ∈ G such that g V ∼= V . 
+					</div>
+					<div class="uAuthor">
+						Clifford correspondence for algebras
+					</div>
+										<div class="usage">
+						Let f (P′′Ei |p) be the inertia degree of P′′Ei over E . 
+					</div>
+					<div class="uAuthor">
+						On Cebotarev sets
+					</div>
+										<div class="usage">
+						K |Q(R(K |Q)), ℓ a prime number dividing the order of the inertia group Tp(K |Q) and K ′ = K (µ2ℓ ). 
+					</div>
+					<div class="uAuthor">
+						On Cebotarev sets
+					</div>
+										<div class="usage">
+						I Ω2 , where I is the moment of inertia and Ω is the rotation frequency. 
+					</div>
+					<div class="uAuthor">
+						A Search for Gamma-Ray Bursts and Pulsars, and the Application of Kalman Filters to Gamma-Ray Reconstruction
+					</div>
+										<div class="usage">
+						Because the superﬂuid component does not contribute to the moment of inertia, the resonant frequency and the period of oscillation differ from those without superﬂuid. 
+					</div>
+					<div class="uAuthor">
+						Bose-Einstein condensation and superfluidity of dilute Bose gas in a random potential
+					</div>
+										<div class="usage">
+						The ordering of rotational energy levels depends on the sign of the corresponding moments of inertia, which have been evaluated with the Thouless-Valatin formula. 
+					</div>
+					<div class="uAuthor">
+						How random are random nuclei? Shapes, triangles and kites
+					</div>
+										<div class="usage">
+						I = R ρr2d3r is the moment of inertia and pb the pressure on the box (assumed uniform). 
+					</div>
+					<div class="uAuthor">
+						Generalized thermodynamics and Fokker-Planck equations. Applications to stellar dynamics, two-dimensional turbulence and Jupiter's great red spot
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="activeness.html">activeness</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="mechanical%20phenomenon.html">mechanical phenomenon</a>, <a href="trait.html">trait</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="flatness.html">flatness</a>, <a href="indolence.html">indolence</a>, <a href="languor.html">languor</a>, <a href="laziness.html">laziness</a>, <a href="lethargy.html">lethargy</a>, <a href="moment%20of%20inertia.html">moment of inertia</a>, <a href="passiveness.html">passiveness</a>, <a href="passivity.html">passivity</a>, <a href="phlegm.html">phlegm</a>, <a href="restfulness.html">restfulness</a>, <a href="sluggishness.html">sluggishness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="inactive.html">inactive</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="body.html">body</a>, <a href="center.html">center</a>, <a href="Centre%20of%20percussion.html">Centre of percussion</a>, <a href="centroid.html">centroid</a>, <a href="Equimomental.html">Equimomental</a>, <a href="Equimomental%20cone%20of%20a%20given%20rigid%20body.html">Equimomental cone of a given rigid body</a>, <a href="fly.html">fly</a>, <a href="Fly%20wheel.html">Fly wheel</a>, <a href="force.html">force</a>, <a href="I.html">I</a>, <a href="inertial.html">inertial</a>, <a href="Inertion.html">Inertion</a>, <a href="Inertitude.html">Inertitude</a>, <a href="inertness.html">inertness</a>, <a href="integrator.html">integrator</a>, <a href="K.html">K</a>, <a href="mass.html">mass</a>, <a href="Moment%20of%20rotation.html">Moment of rotation</a>, <a href="oscillograph.html">oscillograph</a>, <a href="passivity.html">passivity</a>, <a href="Physical%20point.html">Physical point</a>, <a href="radiometer.html">radiometer</a>, <a href="resist.html">resist</a>, <a href="vacuum.html">vacuum</a>, <a href="Vis%20inertiae.html">Vis inertiae</a>, <a href="vortex.html">vortex</a>, <a href="weight.html">weight</a>, <a href="will.html">will</a>, <a href="winter.html">winter</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					unertia, jnertia, knertia, onertia, ibertia, ihertia, ijertia, imertia, inwrtia, insrtia, indrtia, inrrtia, ineetia, inedtia, ineftia, inettia, inerria, inerfia, inergia, ineryia, inertua, inertja, inertka, inertoa, inertiq, inertiw, inertis, inertiz
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

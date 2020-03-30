@@ -1,0 +1,575 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>journalism</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">journalism</span> <span class="exp">the profession of reporting or photographing or editing news stories for one of the media</span> </li><li><span class="tSpeech">n</span> <span class="term">journalism</span> <span class="exp">newspapers and magazines collectively</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Parts of the Dead Sea Scrolls appeared for sale in the June 1, 1954 issue of the Wall Street Journal									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Journalism</span> <span class="exp">The branch of knowledge that studies phenomena associated with news collection, distribution, and editing; a course of study, especially in institutions of higher learning, that teaches students how to write, edit, or report news.</span> </li><li><span class="term">Journalism</span> <span class="exp">The keeping of a journal or diary.</span> </li><li><span class="term">Journalism</span> <span class="exp">The periodical collection and publication of current news; the business of managing, editing, or writing for, journals, newspapers, magazines, broadcasting media such as radio or television, or other news media such as distribution over the internet; as, political <span class="wUex">journalism</span>; broadcast <span class="wUex">journalism</span>; print <span class="wUex">journalism</span>
+            .</span> <span class="wuQuot">"Journalism is now truly an estate of the realm."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In an article in 1998, The Journal of the American Medical Association claimed that adverse drug reactions may cause more than 100,000 deaths a year in the US alone.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">journalism</span> <span class="exp">The business of a journalist; the occupation of writing for, editing, or producing a newspaper or public journal; the diffusion of intelligence or of opinions by means of journals or newspapers and periodicals.</span> </li><li><span class="tSpeech">n</span> <span class="term">journalism</span> <span class="exp">The keeping of a journal; the practice of journalizing.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										It has been reported that some dogs are able to sniff out skin cancer. It's in a journal on Lancet. Click here
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Journalism</span> <span class="exp">the keeping of a journal: the profession of conducting or writing for public journals</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Duke of Wellington Arthur Wellesley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Duke of Wellington Arthur Wellesley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When my journal appears, many statues must come down.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gilbert K. Chesterton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Gilbert%20K.%20Chesterton.jpg" alt="Gilbert%20K.%20Chesterton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Journalism consists largely in saying Lord James is dead to people who never knew Lord James was alive.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gilbert K. Chesterton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Gilbert%20K.%20Chesterton.jpg" alt="Gilbert%20K.%20Chesterton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Journalism is popular, but it is popular mainly as fiction. Life is one world, and life seen in the newspapers another.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Cyril Connolly</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Cyril%20Connolly.jpg" alt="Cyril%20Connolly">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Literature is the art of writing something that will be read twice; journalism what will be grasped at once.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marguerite Duras</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marguerite%20Duras.jpg" alt="Marguerite%20Duras">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I see journalists as the manual workers, the laborers of the word. Journalism can only be literature when it is passionate.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edward Eggleston</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Edward Eggleston">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Journalism is organized gossip.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">journalisme</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>diurnalis</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						To-day brings a new year, and is truly an excellent time for commencing my journal.
+					</div>
+					<div class="uAuthor">
+						"The Continental Monthly, Vol. 4, No. 1, July, 1863" by <span>Various</span>					</div>
+										<div class="usage">
+						THE PRAIRIE FARMER IN CONNECTION WITH OTHER JOURNALS.
+					</div>
+					<div class="uAuthor">
+						"Prairie Farmer, Vol. 56: No. 3, January 19, 1884." by <span>Various</span>					</div>
+										<div class="usage">
+						He handed it over to me and that gave me my first chance in the higher journalism of London.
+					</div>
+					<div class="uAuthor">
+						"Recollections" by <span>David Christie Murray</span>					</div>
+										<div class="usage">
+						The Menorah Journal ought to become the medium for publishing the best thought modern Jewry is capable of.
+					</div>
+					<div class="uAuthor">
+						"The Menorah Journal, Volume 1, 1915" by <span>Various</span>					</div>
+										<div class="usage">
+						The present number of the JOURNAL is little more than a promissory note for its future.
+					</div>
+					<div class="uAuthor">
+						"Buchanan's Journal of Man, February 1887" by <span>Various</span>					</div>
+										<div class="usage">
+						With this journal he retained a connexion till his death, which took place at London on the 14th of March 1836.
+					</div>
+					<div class="uAuthor">
+						"The Modern Scottish Minstrel, Volumes I-VI." by <span>Various</span>					</div>
+										<div class="usage">
+						Journal block 15 5.
+					</div>
+					<div class="uAuthor">
+						"Electricity for Boys" by <span>J. S. Zerbe</span>					</div>
+										<div class="usage">
+						Fortunately the mutineers took home Hudson's journals and charts.
+					</div>
+					<div class="uAuthor">
+						"A Book of Discovery" by <span>Margaret Bertha (M. B.) Synge</span>					</div>
+										<div class="usage">
+						Reprint from the New York Medical Journal of February 13, 1886.
+					</div>
+					<div class="uAuthor">
+						"History of Circumcision from the Earliest Times to the Present" by <span>Peter Charles Remondino</span>					</div>
+										<div class="usage">
+						As the conductor of a reform journal, I entirely differ with you both.
+					</div>
+					<div class="uAuthor">
+						"Edmond Dantès" by <span>Edmund Flagg</span>					</div>
+										<div class="usage">
+						Do not ask me to define the difference between a journal and a diary.
+					</div>
+					<div class="uAuthor">
+						"Mental Efficiency" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						Again, a physician writes to the same journal for June 20, 1868, recording the result of his own experience.
+					</div>
+					<div class="uAuthor">
+						"The Physical Life of Woman:" by <span>Dr. George H Napheys</span>					</div>
+										<div class="usage">
+						The resolution of censure still remained on the Journals of the House of Commons.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<div class="usage">
+						The journal affords a basis for the work sheet.
+					</div>
+					<div class="uAuthor">
+						"Sound Military Decision" by <span>U.s. Naval War College</span>					</div>
+										<div class="usage">
+						The journals were filled with his praises.
+					</div>
+					<div class="uAuthor">
+						"Louis Philippe" by <span>John S. C. (John Stevens Cabot) Abbott</span>					</div>
+										<div class="usage">
+						She was also the correspondent of several leading journals in Germany.
+					</div>
+					<div class="uAuthor">
+						"History of Woman Suffrage, Volume III (of III)" by <span>Various</span>					</div>
+										<div class="usage">
+						If the colonel is of opinion that journalism is a trade, and the journalist a mere tradesman, I agree with him.
+					</div>
+					<div class="uAuthor">
+						"A Frenchman in America" by <span>Max O'Rell</span>					</div>
+										<div class="usage">
+						The journals play the chief part in this universal madness.
+					</div>
+					<div class="uAuthor">
+						"Marie Antoinette and the Downfall of Royalty" by <span>Imbert de Saint-Amand</span>					</div>
+										<div class="usage">
+						Even at this self-sufficing period of her life Margaret's journals were full of prayer and aspiration.
+					</div>
+					<div class="uAuthor">
+						"Margaret Fuller (Marchesa Ossoli)" by <span>Julia Ward Howe</span>					</div>
+										<div class="usage">
+						All the journals closed except the "Wattan" and the "Official Journal.
+					</div>
+					<div class="uAuthor">
+						"Secret History of the English Occupation of Egypt" by <span>Wilfrid Scawen Blunt</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							If writing Journals were my task,<br>
+From cottagers to kings--<br>
+A little book I'd only ask,<br>
+And fill it full of wings!
+							<div class="poet">"Vignette - I" by <span>Matilda Betham</span></div>
+						</div>
+											<div class="poemQuote">
+							Than in the dusk, while tossing vibrant chords<br>
+Into the fireplace, like journals, tome by tome?<br>
+Oh, understanding wonderful, just nod,<br>
+And you will know I do not claim to own
+							<div class="poet">"The shiv'ring piano, foaming at the mouth" by <span>Boris Pasternak</span></div>
+						</div>
+											<div class="poemQuote">
+							Because I once burned kerosene to read<br>
+Myself near the North Pole<br>
+In the journal of Arctic explorers<br>
+Found, years after death, preserved<br>
+In a tent, part of whose canvas they had eaten 
+							<div class="poet">"Pursuit From Under" by <span>James Dickey</span></div>
+						</div>
+											<div class="poemQuote">
+							Yet heaven and earth were stirred, regions beneath<br>
+Were moved t' avert the proven murderer's doom;<br>
+Sensation journals, libellous in their wrath<br>
+'Gainst law and justice, foam, and rave, and fume.
+							<div class="poet">"Dirge For Jessie Macpherson" by <span>Janet Hamilton</span></div>
+						</div>
+											<div class="poemQuote">
+							In one, along a suite of noble rooms,<br>
+'Mid plenteous books and journals, paintings on the walls, fine<br>
+statuettes,<br>
+Were groups of friendly journeymen, mechanics, young and old,<br>
+Reading, conversing.
+							<div class="poet">"Brother Of All, With Generous Hand" by <span>Walt Whitman</span></div>
+						</div>
+											<div class="poemQuote">
+							You too vastly then, like me, tranquillity shall city,<br>
+Home the squirrel, bower for birds the million leaves of<br>
+Greenly mistletoe for man the soul's immortal mystery,<br>
+Journal in your bark God's day, a thousand years of<br>
+history.
+							<div class="poet">"Oak, Pine And Silver Birch" by <span>Manmohan Ghose</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Journal Staff Writer and The Associated Press (jpepin@miningjournal.net), The Mining Journal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.miningjournal.net/page/content.detail/id/568029/Retail-sales-rose-briskly-in-September-in-hopeful-sign.html?nav=5136" target="_blank" rel="external nofollow">miningjournal.net</a>
+					</div>
+										<div class="usage">
+						The New England Journal of Medicine pulled an article slamming the National Kidney Foundation for its reliance on drug company donations, The Wall Street Journal reported.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mmm-online.com/wsj-nejm-spiked-drug-company-conflicts-broadside/article/23776/" target="_blank" rel="external nofollow">mmm-online.com</a>
+					</div>
+										<div class="usage">
+						Journal Sports Writer (dkerwin@nujournal.com), The Journal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nujournal.com/page/content.detail/id/532176/Caledonia-buries-Sibley-East.html?nav=5013" target="_blank" rel="external nofollow">nujournal.com</a>
+					</div>
+										<div class="usage">
+						Sarah Ellison reports in her forthcoming book, War at the Wall Street Journal, that Journal owner Rupert Murdoch paid Marcus Brauchli $6.4 million when Brauchli left the paper after a short stint as managing editor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonian.com/blogs/capitalcomment/reads/post-watch-brauchlis-cash-out.php" target="_blank" rel="external nofollow">washingtonian.com</a>
+					</div>
+										<div class="usage">
+						Journal file photo Under a redevelopment plan approved by the Jersey City Planning Board tonight, tall skyscrapers would fill the heart of Journal Square.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/hudson/index.ssf/2010/07/jersey_city_planning_board_app.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Many people who want to try publishing an online journal, known as a Weblog or blog, turn to Blogger (www.blogger.com), the service that has helped to turn the journals into a flourishing Web phenomenon.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2003/05/08/technology/news-watch-connections-a-web-site-ready-made-for-the-phone-in-diarist.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Journal Staff Writer (dpascoe@miningjournal.net), The Mining Journal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.miningjournal.net/page/content.detail/id/565512/Fair-play--A-great-way-to-spend-the-weekend.html?nav=5141" target="_blank" rel="external nofollow">miningjournal.net</a>
+					</div>
+										<div class="usage">
+						Journal Staff Writer (sports@miningjournal.net), The Mining Journal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.miningjournal.net/page/content.detail/id/580864/Local-enthusiasts-take-to-the-marshes-in-pursuit-of-the-fast-flying-fowl.html?nav=5140" target="_blank" rel="external nofollow">miningjournal.net</a>
+					</div>
+										<div class="usage">
+						The JSTOR database is an archive of important scholarly journals, offering researchers high-resolution, scanned images of journal issues and pages.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.maa.org/news/061107jstorallstars.html" target="_blank" rel="external nofollow">maa.org</a>
+					</div>
+										<div class="usage">
+						Typical ads in journalism publications and on journalism-related websites produced few resumes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.roanoke.com/columnists/casey/wb/292642" target="_blank" rel="external nofollow">roanoke.com</a>
+					</div>
+										<div class="usage">
+						Special To The Post-Journal (family@post-journal.com), The Post-Journal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://post-journal.com/page/content.detail/id/601343/Age-Is-No-Hinderance.html?nav=5042" target="_blank" rel="external nofollow">post-journal.com</a>
+					</div>
+										<div class="usage">
+						Among the three journals published by the MAA, The College Mathematics Journal (CMJ) has the shortest history.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.maa.org/mathtourist/mathtourist_09_12_07.html" target="_blank" rel="external nofollow">maa.org</a>
+					</div>
+										<div class="usage">
+						Objective.-- To determine whether articles published in journals using blinded peer review receive significantly more or fewer citations than those published in journals using nonblinded peer review .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ama-assn.org/public/peer/7_13_94/pv3106x.htm" target="_blank" rel="external nofollow">ama-assn.org</a>
+					</div>
+										<div class="usage">
+						For the Daily Freeman-Journal (hmadsen@messengernews.net), The Daily Freeman Journal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.freemanjournal.net/page/content.detail/id/519783/Pork-Belly-Ventures-pitches-camp.html?nav=5121" target="_blank" rel="external nofollow">freemanjournal.net</a>
+					</div>
+										<div class="usage">
+						KAREN HERZOG, kherzog@journalsentinel.com Milwaukee Journal Sentinel, Milwaukee Journal Sentinel (WI).
+					</div>
+					<div class="uAuthor">
+						<a href="http://athleticbusiness.com/articles/lexisnexis.aspx?lnarticleid=1757664232&amp;lntopicid=136030023" target="_blank" rel="external nofollow">athleticbusiness.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The complete version of this table is in the electronic edition of the Journal. 
+					</div>
+					<div class="uAuthor">
+						The Globular Cluster System of NGC 5128 I. Survey and Catalogs
+					</div>
+										<div class="usage">
+						Reiner, Noncrossing partitions for the group Dn , SIAM Journal on Discrete Mathematics (to appear). [Bj¨o] A. 
+					</div>
+					<div class="uAuthor">
+						Tamari lattices and noncrossing partitions in type B and beyond
+					</div>
+										<div class="usage">
+						CT/0304277, also Journal of Pure and Applied Algebra, to appear. 
+					</div>
+					<div class="uAuthor">
+						Weak Omega Categories I
+					</div>
+										<div class="usage">
+						The Canadian Journal of Statistics 32. to appear. 
+					</div>
+					<div class="uAuthor">
+						An invitation to quantum tomography (II)
+					</div>
+										<div class="usage">
+						Shannon, ’The Splash of Liquid Drop’, Journal of Applied Physics (vol. 38, n.10 Sept. 
+					</div>
+					<div class="uAuthor">
+						Solution to two-dimensional Incompressible Navier-Stokes Equations with SIMPLE, SIMPLER and Vorticity-Stream Function Approaches. Driven-Lid Cavity Problem: Solution and Visualization
+					</div>
+										<div class="usage">
+						Ware, “On the measurement of two-photon singlemode coupling eﬃciency in parametric downconversion photon sources,” New Journal of Physics , 2004. 8. D. N. 
+					</div>
+					<div class="uAuthor">
+						Measurement of Coupling PDC photon sources with single-mode and multimode optical fibers
+					</div>
+										<div class="usage">
+						Quarterly Journal of Mathematics, to appear. 
+					</div>
+					<div class="uAuthor">
+						Cone types and geodesic languages for lamplighter groups and Thompson's group F
+					</div>
+										<div class="usage">
+						Tight analyses of two local load balancing algorithms,” SIAM Journal on Computing, vol. 29, no. 1, pp. 
+					</div>
+					<div class="uAuthor">
+						Balanced Overlay Networks (BON): Decentralized Load Balancing via Self-Organized Random Networks
+					</div>
+										<div class="usage">
+						Derrida B, Statistical properties of randomly broken ob jects and of multivalley structures in disordered systems, 1987, Journal of Physics A: Math. 
+					</div>
+					<div class="uAuthor">
+						Random Partitioning Problems Involving Poisson Point Processes On The Interval
+					</div>
+										<div class="usage">
+						QA/0402413 , to appear in Journal of Algebra and its Applications. 
+					</div>
+					<div class="uAuthor">
+						Primitive ideals and automorphism group of $U_q^+(B_2)$
+					</div>
+										<div class="usage">
+						The complete journal of observations is reported in Table 1. 
+					</div>
+					<div class="uAuthor">
+						On the polar caps of the 3 Musketeers
+					</div>
+										<div class="usage">
+						Gamburd, Pseudomoments of the Riemann zeta-function and pseudomagic squares, to appear in Journal of Number Theory. 
+					</div>
+					<div class="uAuthor">
+						Counting formulas associated with some random matrix averages
+					</div>
+										<div class="usage">
+						Vinay, Clustering in large graphs via Singular Value Decomposition, Journal of Machine Learning, to appear (2004) P. 
+					</div>
+					<div class="uAuthor">
+						Sampling from large matrices: an approach through geometric functional analysis
+					</div>
+										<div class="usage">
+						Othmer, and I Kevrekidis, Application of coarse integration to bacterial chemotaxis, to appear in SIAM Journal on Applied Mathematics, 28 pages, 2004. 
+					</div>
+					<div class="uAuthor">
+						An equation-free computational approach for extracting population-level behavior from individual-based models of biological dispersal
+					</div>
+										<div class="usage">
+						This is an updated version of the paper of the same title published in The Journal of Logic and Computation. 
+					</div>
+					<div class="uAuthor">
+						Preferential and Preferential-discriminative Consequence relations
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="newspapers and magazines collectively"><a href="news%20media.html">news media</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="print%20media.html">print media</a>, <a href="profession.html">profession</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="fleet%20street.html">fleet street</a>, <a href="newspapering.html">newspapering</a>, <a href="photojournalism.html">photojournalism</a>, <a href="tab.html">tab</a>, <a href="tabloid.html">tabloid</a>, <a href="yellow%20journalism.html">yellow journalism</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="journalist.html">journalist</a>, <a href="journalistic.html">journalistic</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="cordon.html">cordon</a>, <a href="cover.html">cover</a>, <a href="Fleet%20Street.html">Fleet Street</a>, <a href="gutter%20press.html">gutter press</a>, <a href="Hearst.html">Hearst</a>, <a href="interview.html">interview</a>, <a href="Joseph%20Lincoln%20Steffens.html">Joseph Lincoln Steffens</a>, <a href="journalese.html">journalese</a>, <a href="journalistic.html">journalistic</a>, <a href="Lincoln%20Steffens.html">Lincoln Steffens</a>, <a href="newspapering.html">newspapering</a>, <a href="Personalist.html">Personalist</a>, <a href="photojournalism.html">photojournalism</a>, <a href="pressman.html">pressman</a>, <a href="report.html">report</a>, <a href="sensational.html">sensational</a>, <a href="Space-writer.html">Space-writer</a>, <a href="Steffens.html">Steffens</a>, <a href="tab.html">tab</a>, <a href="tabloid.html">tabloid</a>, <a href="William%20Randolph%20Hearst.html">William Randolph Hearst</a>, <a href="yellow.html">yellow</a>, <a href="yellow%20journalism.html">yellow journalism</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					hournalism, uournalism, kournalism, mournalism, nournalism, jiurnalism, jkurnalism, jlurnalism, jpurnalism, joyrnalism, johrnalism, jojrnalism, joirnalism, jouenalism, joudnalism, joufnalism, joutnalism, jourbalism, jourhalism, jourjalism, jourmalism, journqlism, journwlism, journslism, journzlism, journakism, journaoism, journapism, journalusm, journaljsm, journalksm, journalosm, journaliam, journaliwm, journalidm, journalixm, journalizm, journaliam, journalisn, journalisj, journalisk
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

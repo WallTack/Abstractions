@@ -1,0 +1,577 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>reputation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">reputation</span> <span class="exp">the general estimation that the public has for a person</span> <span class="quot">"he acquired a reputation as an actor before he started writing","he was a person of bad report"</span></li><li><span class="tSpeech">n</span> <span class="term">reputation</span> <span class="exp">the state of being held in high esteem and honor</span> </li><li><span class="tSpeech">n</span> <span class="term">reputation</span> <span class="exp">notoriety for some particular characteristic</span> <span class="quot">"his reputation for promiscuity"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Mangos are valued for their reputation as an aphrodisiac in countries such as Guatemala and India									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Reputation</span> <span class="exp">Account; value.</span> <span class="wuQuot">"/Christ] made himself of no reputation ."</span></li><li><span class="term">Reputation</span> <span class="exp">Specifically: Good reputation; favorable regard; public esteem; general credit; good name.</span> <span class="wuQuot">"I see my reputation is at stake."</span><span class="wuQuot">"The security of his reputation or good name."</span></li><li><span class="term">Reputation</span> <span class="exp"><span class="wuFld">(Law)</span> The character imputed to a person in the community in which he lives. It is admissible in evidence when he puts his character in issue, or when such reputation is otherwise part of the issue of a case.</span> </li><li><span class="term">Reputation</span> <span class="exp">The estimation in which one is held; character in public opinion; the character attributed to a person, thing, or action; repute.</span> <span class="wuQuot">"The best evidence of reputation is a man's whole life."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Chocolate contains phenylethylamine (PEA), a natural substance that is reputed to stimulate the same reaction in the body as falling in love.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">reputation</span> <span class="exp">Account; estimation; consideration; especially, the estimate attached to a person by the community; character by report; opinion of character generally entertained; character attributed to a person, action, or thing; repute, in a good or bad sense. See character.</span> </li><li><span class="tSpeech">n</span> <span class="term">reputation</span> <span class="exp">Favorable regard; the credit, honor, or character which is derived from a favorable public opinion or esteem; good name; fame.</span> </li><li><span class="tSpeech">n</span> <span class="term">reputation</span> <span class="exp">Synonyms Esteem, estimation, name, fame, renown, distinction.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Despite its reputation for being finicky, the average cat consumes about 127,750 calories a year, nearly 28 times its own weight in food and the same amount again in liquids. In case you were wondering, cats cannot survive on a vegetarian diet.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Reputation</span> <span class="exp"><span class="itl">rep-ū-tā′shun</span> state of being held in repute: estimation: character in public opinion: credit: fame</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Abraham Lincoln</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Abraham%20Lincoln.jpg" alt="Abraham%20Lincoln">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Character is like a tree and reputation like its shadow. The shadow is what we think of it; the tree is the real thing.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jack Miner</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jack Miner">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A man's reputation is what other people think of him; his character is what he really is.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Paine</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Paine.jpg" alt="Thomas%20Paine">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Reputation is what men and women think of us. Character is what God and the angels know of us.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Francesco Petrarch</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Francesco Petrarch">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“How difficult it is to save the bark of reputation from the rocks of ignorance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Wooden</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Wooden.jpg" alt="John%20Wooden">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Be more concerned with your character than your reputation. Your character is what you really are while your reputation is merely what others think you are.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One can survive everything nowadays, except death, and live down anything except a good reputation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">réputation</span>, L. <span class="wUets">reputatio</span>, a reckoning, consideration. See <span class="wUer">Repute</span> (v. t.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>reputation-em</i>, consideration—<i>re-putāre</i>, to think over.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He was known to be a clever man, and when very young had had the reputation of being a scholar.
+					</div>
+					<div class="uAuthor">
+						"Phineas Finn" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						I'd have staked my reputation on the sandy-haired one.
+					</div>
+					<div class="uAuthor">
+						"The Luckiest Girl in the School" by <span>Angela Brazil</span>					</div>
+										<div class="usage">
+						Rights came to it from on high, and power, like faith, was reputed divine.
+					</div>
+					<div class="uAuthor">
+						"History of the Girondists, Volume I" by <span>Alphonse de Lamartine</span>					</div>
+										<div class="usage">
+						She acquired an immense reputation, and was invited to several of the courts of Europe.
+					</div>
+					<div class="uAuthor">
+						"Anecdotes of Painters, Engravers, Sculptors and Architects and Curiosities of Art (Vol. 3 of 3)" by <span>S. Spooner</span>					</div>
+										<div class="usage">
+						Though a rigid republican, he was reputed a conscientious man, and a good officer.
+					</div>
+					<div class="uAuthor">
+						"The History of England in Three Volumes, Vol.II. From William and Mary to George II." by <span>Tobias Smollett</span>					</div>
+										<div class="usage">
+						His reputation of "grave, wise, and politick" seems to have been fairly earned.
+					</div>
+					<div class="uAuthor">
+						"Bell's Cathedrals: The Cathedral Church of Exeter" by <span>Percy Addleshaw</span>					</div>
+										<div class="usage">
+						This novel, in fact, made Cooper's reputation both at home and abroad.
+					</div>
+					<div class="uAuthor">
+						"James Fenimore Cooper" by <span>Thomas R. Lounsbury</span>					</div>
+										<div class="usage">
+						During that time I had become a singer and was able to take my place with other artists of repute.
+					</div>
+					<div class="uAuthor">
+						"Sixty Years of California Song" by <span>Margaret Blake-Alverson</span>					</div>
+										<div class="usage">
+						He was a prophet, the reputed son of Apollo, and a person of great skill and sagacity.
+					</div>
+					<div class="uAuthor">
+						"A New System; or, an Analysis of Antient Mythology. Volume II. (of VI.)" by <span>Jacob  Bryant</span>					</div>
+										<div class="usage">
+						Brian has enjoyed a great and not undeserved reputation.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 4, Part 3" by <span>Various</span>					</div>
+										<div class="usage">
+						This work established his reputation as an historian.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 4, Part 4" by <span>Various</span>					</div>
+										<div class="usage">
+						She was a near neighbour of his own, held in good repute by all in the district.
+					</div>
+					<div class="uAuthor">
+						"The Mysteries of All Nations" by <span>James Grant</span>					</div>
+										<div class="usage">
+						I have no one to confide in except yourself, to whom I have yielded up my heart, my virtue, and my reputation.
+					</div>
+					<div class="uAuthor">
+						"The Memoirs of Count Carlo Gozzi" by <span>Count Carlo Gozzi</span>					</div>
+										<div class="usage">
+						When I first pitched against Delehanty, his reputation as a hitter gave him a big edge on me.
+					</div>
+					<div class="uAuthor">
+						"Pitching in a Pinch" by <span>Christy Mathewson</span>					</div>
+										<div class="usage">
+						Audiences judge by real worth and not by reputation.
+					</div>
+					<div class="uAuthor">
+						"Great Singers on the Art of Singing" by <span>James Francis Cooke</span>					</div>
+										<div class="usage">
+						American hospitality deserves the reputation which it enjoys in Europe.
+					</div>
+					<div class="uAuthor">
+						"Jonathan and His Continent" by <span>Max O'Rell</span>					</div>
+										<div class="usage">
+						Your livelihood depends upon your reputation.
+					</div>
+					<div class="uAuthor">
+						"The Song of Songs" by <span>Hermann Sudermann</span>					</div>
+										<div class="usage">
+						And do not be concerned about your daughter's reputation.
+					</div>
+					<div class="uAuthor">
+						"The Village Notary" by <span>József Eötvös</span>					</div>
+										<div class="usage">
+						The reputation of these our civil champions and their graves are as dear to us as those of our mothers.
+					</div>
+					<div class="uAuthor">
+						"The Brothers' War" by <span>John Calvin Reed</span>					</div>
+										<div class="usage">
+						Jalaun had a bad reputation during the Mutiny.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 15, Slice 2" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							How small a thing am I, of no repute,<br>
+Whirled in the rush of these eternal tides;<br>
+Spun daily round upon this orb that rides<br>
+Among its peers, itself how most minute!
+							<div class="poet">""I am Small and of no Reputation; Yet do I not Forget thy Commandments"" by <span>Arthur Christopher Benson</span></div>
+						</div>
+											<div class="poemQuote">
+							I've often sought advice for this disease<br>
+From men of practice and reputed skill;<br>
+Nay, I have even cross'd the raging seas,<br>
+In hopes to find assistance for this ill.
+							<div class="poet">"A Letter From Sir Lewis Mansel Of Margam, In Glamorganshire, As 'Tis Suppos'd, To The Vicar Prichard" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							But Reputation said: "If once we sever,<br>
+Our chance of future meeting is but vain:<br>
+Who parts from me, must look to part for ever,<br>
+For Reputation lost comes not again."
+							<div class="poet">"Love, Death, And Reputation" by <span>Charles Lamb</span></div>
+						</div>
+											<div class="poemQuote">
+							Though Christ was God as well as man, and high'r<br>
+Than all our race, and all in worth outweigh'd;<br>
+Yet, to his mother and reputed sire,<br>
+He proper honour and obedience paid. 
+							<div class="poet">"The Duty Of Children To Their Parents" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							Blame not my Muse, thou that dost find thy name<br>
+Not Marshal'd here, as thou wouldst have the same:<br>
+No blemish tis to thy repute: for (know it)<br>
+I act no Herald here (Sir) but a Poet.
+							<div class="poet">"To Any To Whom I Write." by <span>Ralph Knevet</span></div>
+						</div>
+											<div class="poemQuote">
+							To arm against reputed ill<br>
+The patient heart too brave to feel<br>
+The tortures of despair:<br>
+Nor safer yet high-crested pride,<br>
+When wealth flows in with every tide<br>
+To gain admittance there.
+							<div class="poet">"An Ode, On Reading Mr. Richardson's History Of Sir Charles Grandison" by <span>William Cowper</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Charismatic leader built reputation in Long Beach, left Oakland amid conflict.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-batts-profile-20120922,0,3874648.story" target="_blank" rel="external nofollow">baltimoresun.com</a>
+					</div>
+										<div class="usage">
+						Dixie De La Tour wants you to talk about sex, for the sake of San Francisco's reputation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfbg.com/sexsf/2012/02/15/%E2%80%9C-way-find-your-people%E2%80%9D-best-bawdy-storytelling" target="_blank" rel="external nofollow">sfbg.com</a>
+					</div>
+										<div class="usage">
+						The Hokies' reputation for special teams excellence is based on history, not recent performance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.roanoke.com/sports/vtfootball/wb/316199" target="_blank" rel="external nofollow">roanoke.com</a>
+					</div>
+										<div class="usage">
+						Republicans squandered their hard-won reputation as the party of ideas.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052748704198004575310711152200000.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						The island has long had a reputation for longevity, with one of the highest rates of centenarians in the world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Global-News/2012/0822/Centenarian-sister-helps-Sardinian-siblings-set-world-record" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						In all industries, employee healthcare disparities have a big impact on the reputation of a company and the costs of healthcare on a national level.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lodgingmagazine.com/blogs/blogs/99afe076-a260-4282-987e-a7cedfff65d8.aspx" target="_blank" rel="external nofollow">lodgingmagazine.com</a>
+					</div>
+										<div class="usage">
+						Long before Pat Summitt arrived as coach of the University of Tennessee Lady Vols, this part of the state already had developed a reputation for playing good women's basketball.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.knoxnews.com/news/2012/aug/05/coach-galen-johnson-built-girls-basketball-power/" target="_blank" rel="external nofollow">knoxnews.com</a>
+					</div>
+										<div class="usage">
+						GEORGETOWN, SC – Georgetown County's Tourism Management Commission is kicking-off a brand campaign designed to enhance Georgetown County's reputation as a travel and tourism destination in the southeast.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wfxb.com/yournews/93933104.html" target="_blank" rel="external nofollow">wfxb.com</a>
+					</div>
+										<div class="usage">
+						Long-time Midas Lister forged reputation with Cerent, Siara and Extreme Networks.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/lists/2008/99/biz_08midas_Promod-Haque_SN6V.html" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Walmart has the reputation of having everything that you could ever need.
+					</div>
+					<div class="uAuthor">
+						<a href="http://q103albany.com/bjs-random-walmart-find-harriet-tubman-t-shirt/" target="_blank" rel="external nofollow">q103albany.com</a>
+					</div>
+										<div class="usage">
+						When Harry S Truman left the White House in 1953, his reputation was in ruins.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wamc.org/node/51345" target="_blank" rel="external nofollow">wamc.org</a>
+					</div>
+										<div class="usage">
+						David Hatter on Reputation Management.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cetconnect.org/video/david-hatter-reputation-management" target="_blank" rel="external nofollow">cetconnect.org</a>
+					</div>
+										<div class="usage">
+						Is Rick Perry's Gov Goodhair reputation a help or a hindrance in possible presidential quest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.chron.com/txpotomac/2011/06/texmessage-is-rick-perrys-gov-goodhair-reputation-a-help-or-a-hindrance-in-possible-presidential-quest/" target="_blank" rel="external nofollow">blog.chron.com</a>
+					</div>
+										<div class="usage">
+						Thomas Leuluai has forged a strong reputation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nzherald.co.nz/league/news/article.cfm?c_id=79&amp;objectid=10843432" target="_blank" rel="external nofollow">nzherald.co.nz</a>
+					</div>
+										<div class="usage">
+						Republicans must live up to our reputation as the party of effective governance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/news/opinion/forum/story/2012-08-26/republicans-govern-richard-lugar/57334700/1" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						If these claims remain uncorrected, many readers will uncritically accept them on the basis of his considerable reputation as an expert on the foundations of classical electrodynamics, or on the basis of a common perception that PRD is a reliable journal. 
+					</div>
+					<div class="uAuthor">
+						Comment on Phys. Rev. D 60 084017 "Classical self-force" by F. Rohrlich
+					</div>
+										<div class="usage">
+						Notwithstanding its somewhat notorious reputation, renormalization theory, together with the gauge principle, forms the backbone of the perturbative approach to physically relevant quantum ﬁeld theories. 
+					</div>
+					<div class="uAuthor">
+						Hopf algebra approach to Feynman diagram calculations
+					</div>
+										<div class="usage">
+						This is a challenge not just for retail panel data, but for other forms of data generated by consumers who interact with e-commerce sites, such as bidding/reputation data from on-line auctions. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Pricing Strategy Using e-Commerce Data: Evidence and Estimation Challenges
+					</div>
+										<div class="usage">
+						Density estimation has a reputation for diﬃculty, well-deserved in general situations. 
+					</div>
+					<div class="uAuthor">
+						Microarrays, Empirical Bayes and the Two-Groups Model
+					</div>
+										<div class="usage">
+						Despite its reputation for innovation, in many ways physics is a conservative enterprise. 
+					</div>
+					<div class="uAuthor">
+						Matters of Gravity, The Newsletter of the Topical Group in Gravitation of the American Physical Society, Volume 32, Fall 2008
+					</div>
+										<div class="usage">
+						Conditional behavioral rules that strategically respond to previous encounters in repeated interactions or adjust their behavior according to an individuals’ reputation in non-repeated settings can establish cooperation through direct [112] or indirect reciprocity . 
+					</div>
+					<div class="uAuthor">
+						Stochastic evolutionary game dynamics
+					</div>
+										<div class="usage">
+						ACMCiteSeer1234567891011121314151617181920212223 They include the popularity of the research ﬁeld pertaining to the article in a certain period, the reputation of the authors, the speciﬁc innovation reported in the publication, etc. 
+					</div>
+					<div class="uAuthor">
+						Information Diffusion in Computer Science Citation Networks
+					</div>
+										<div class="usage">
+						Duplicate papers here play the role that multiple discoveries made by researchers of different “reputation” play in Merton’s original analysis. 
+					</div>
+					<div class="uAuthor">
+						The impact factor's Matthew effect: a natural experiment in bibliometrics
+					</div>
+										<div class="usage">
+						In selecting a journal in which to publish, top concerns for authors were: Reputation of the journal, Readership, and Impact factor. Permission to post a copy of one's article and holding on to copyright were ranked last. 
+					</div>
+					<div class="uAuthor">
+						Studies on access: a review
+					</div>
+										<div class="usage">
+						For a given levelof risk and timehorizon, if probabilityof bankruptcy is less than the levelof risk, theoptimalcontrolproblemof (2.4)and (2.5) is the traditional one, the company has higher solvency, so it will have good reputation. 
+					</div>
+					<div class="uAuthor">
+						Optimal dividend and investing control of a insurance company with higher solvency constraints
+					</div>
+										<div class="usage">
+						Testing, risk analysis, reputation assessment, conﬁdence awareness, and trust maintenance all contribute to decision making. 
+					</div>
+					<div class="uAuthor">
+						Informal Control code logic
+					</div>
+										<div class="usage">
+						This knowledge can be based upon reputation analysis or upon detailed production process inspections performed by U or on behalf of U. 
+					</div>
+					<div class="uAuthor">
+						Informal Control code logic
+					</div>
+										<div class="usage">
+						Besides reputation based trust of its producer and trust based upon production process inspection testing is the only method available to a user to increase his conﬁdence that the control codes will lead to satisfycing usage. 
+					</div>
+					<div class="uAuthor">
+						Informal Control code logic
+					</div>
+										<div class="usage">
+						This potential is a constituent of reputation. 
+					</div>
+					<div class="uAuthor">
+						Informal Control code logic
+					</div>
+										<div class="usage">
+						Fisher’s reputation was sealed, in part, by solving the distribution of this statistic, and so much of linear-model methodology relates to it. 
+					</div>
+					<div class="uAuthor">
+						Introducing the discussion paper by Sz\'{e}kely and Rizzo
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the general estimation that the public has for a person"><a href="report.html">report</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="disrepute.html">disrepute</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="estimate.html">estimate</a>, <a href="estimation.html">estimation</a>, <a href="honor.html">honor</a>, <a href="honour.html">honour</a>, <a href="ill%20fame.html">ill fame</a>, <a href="laurels.html">laurels</a>, <a href="notoriety.html">notoriety</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="black%20eye.html">black eye</a>, <a href="character.html">character</a>, <a href="fame.html">fame</a>, <a href="name.html">name</a>, <a href="stock.html">stock</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="repute.html">repute</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20hole%20in%20one%27s%20coat.html">A hole in one's coat</a>, <a href="advantage.html">advantage</a>, <a href="affectation.html">affectation</a>, <a href="Aletris.html">Aletris</a>, <a href="allowance.html">allowance</a>, <a href="Areopagus.html">Areopagus</a>, <a href="Aristolochia.html">Aristolochia</a>, <a href="As.html">As</a>, <a href="asperse.html">asperse</a>, <a href="aspersion.html">aspersion</a>, <a href="assassinate.html">assassinate</a>, <a href="assassination.html">assassination</a>, <a href="Assault.html">Assault</a>, <a href="assert.html">assert</a>, <a href="atrocious.html">atrocious</a>, <a href="attack.html">attack</a>, <a href="attribute.html">attribute</a>, <a href="authority.html">authority</a>, <a href="avouch.html">avouch</a>, <a href="backbite.html">backbite</a>, <a href="backbiter.html">backbiter</a>, <a href="bad.html">bad</a>, <a href="behemoth.html">behemoth</a>, <a href="belittle.html">belittle</a>, <a href="besmirch.html">besmirch</a>, <a href="Bidens.html">Bidens</a>, <a href="black%20eye.html">black eye</a>, <a href="blacken.html">blacken</a>, <a href="blackmail.html">blackmail</a>, <a href="Blackmailing.html">Blackmailing</a>, <a href="blackwash.html">blackwash</a>, <a href="blast.html">blast</a>, <a href="blemish.html">blemish</a>, <a href="blot.html">blot</a>, <a href="blown.html">blown</a>, <a href="blur.html">blur</a>, <a href="build%20up.html">build up</a>, <a href="Burgundy.html">Burgundy</a>, <a href="calumniate.html">calumniate</a>, <a href="calumnious.html">calumnious</a>, <a href="cast.html">cast</a>, <a href="character.html">character</a>, <a href="character%20assassination.html">character assassination</a>, <a href="character%20witness.html">character witness</a>, <a href="charterhouse.html">charterhouse</a>, <a href="cheapen.html">cheapen</a>, <a href="cloud.html">cloud</a>, <a href="Code%20of%20honor.html">Code of honor</a>, <a href="colossus.html">colossus</a>, <a href="compensate.html">compensate</a>, <a href="compromise.html">compromise</a>, <a href="confess.html">confess</a>, <a href="confession.html">confession</a>, <a href="confessor.html">confessor</a>, <a href="cover.html">cover</a>, <a href="crack.html">crack</a>, <a href="cracked.html">cracked</a>, <a href="credit.html">credit</a>, <a href="creditable.html">creditable</a>, <a href="Cundurango.html">Cundurango</a>, <a href="damage.html">damage</a>, <a href="defamation.html">defamation</a>, <a href="defamatory.html">defamatory</a>, <a href="defame.html">defame</a>, <a href="defamer.html">defamer</a>, <a href="defile.html">defile</a>, <a href="degradation.html">degradation</a>, <a href="degrade.html">degrade</a>, <a href="degraded.html">degraded</a>, <a href="demimonde.html">demimonde</a>, <a href="Demirep.html">Demirep</a>, <a href="denigrate.html">denigrate</a>, <a href="depreciation.html">depreciation</a>, <a href="derogation.html">derogation</a>, <a href="destruction.html">destruction</a>, <a href="detract.html">detract</a>, <a href="detraction.html">detraction</a>, <a href="Detractious.html">Detractious</a>, <a href="Diffame.html">Diffame</a>, <a href="diminish.html">diminish</a>, <a href="Diminishingly.html">Diminishingly</a>, <a href="dirty.html">dirty</a>, <a href="disadvantage.html">disadvantage</a>, <a href="disadvantageous.html">disadvantageous</a>, <a href="disadvantageously.html">disadvantageously</a>, <a href="discredit.html">discredit</a>, <a href="discreditable.html">discreditable</a>, <a href="Disfame.html">Disfame</a>, <a href="disgrace.html">disgrace</a>, <a href="disgraceful.html">disgraceful</a>, <a href="dishonor.html">dishonor</a>, <a href="dishonorable.html">dishonorable</a>, <a href="Dishonorary.html">Dishonorary</a>, <a href="disreputability.html">disreputability</a>, <a href="disreputable.html">disreputable</a>, <a href="disreputableness.html">disreputableness</a>, <a href="Disreputation.html">Disreputation</a>, <a href="disrepute.html">disrepute</a>, <a href="distinguished.html">distinguished</a>, <a href="divest.html">divest</a>, <a href="downfall.html">downfall</a>, <a href="Drosera.html">Drosera</a>, <a href="earn.html">earn</a>, <a href="economist.html">economist</a>, <a href="elecampane.html">elecampane</a>, <a href="enhance.html">enhance</a>, <a href="equivocal.html">equivocal</a>, <a href="establish.html">establish</a>, <a href="esteem.html">esteem</a>, <a href="esteemed.html">esteemed</a>, <a href="estimate.html">estimate</a>, <a href="Existimation.html">Existimation</a>, <a href="fair.html">fair</a>, <a href="fall.html">fall</a>, <a href="fame.html">fame</a>, <a href="flaw.html">flaw</a>, <a href="flyblown.html">flyblown</a>, <a href="football%20hero.html">football hero</a>, <a href="forfeit.html">forfeit</a>, <a href="Gain%20one%27s%20spurs.html">Gain one's spurs</a>, <a href="Gascon.html">Gascon</a>, <a href="giant.html">giant</a>, <a href="glory.html">glory</a>, <a href="good%20will.html">good will</a>, <a href="Good-will.html">Good-will</a>, <a href="goodwill.html">goodwill</a>, <a href="grow.html">grow</a>, <a href="guard.html">guard</a>, <a href="hazard.html">hazard</a>, <a href="heavyweight.html">heavyweight</a>, <a href="heir.html">heir</a>, <a href="high.html">high</a>, <a href="honesty.html">honesty</a>, <a href="honor.html">honor</a>, <a href="honorable.html">honorable</a>, <a href="honored.html">honored</a>, <a href="immaculate.html">immaculate</a>, <a href="increase.html">increase</a>, <a href="infamous.html">infamous</a>, <a href="infamy.html">infamy</a>, <a href="influence.html">influence</a>, <a href="injure.html">injure</a>, <a href="injurious.html">injurious</a>, <a href="irregularity.html">irregularity</a>, <a href="Ivy%20League.html">Ivy League</a>, <a href="Jactitation%20of%20marriage.html">Jactitation of marriage</a>, <a href="jockey.html">jockey</a>, <a href="joint.html">joint</a>, <a href="Law%20of%20honor.html">Law of honor</a>, <a href="libel.html">libel</a>, <a href="libeler.html">libeler</a>, <a href="Loos.html">Loos</a>, <a href="lose.html">lose</a>, <a href="loss.html">loss</a>, <a href="maintain.html">maintain</a>, <a href="make.html">make</a>, <a href="maligner.html">maligner</a>, <a href="malodorous.html">malodorous</a>, <a href="marriage.html">marriage</a>, <a href="Matico.html">Matico</a>, <a href="memory.html">memory</a>, <a href="mention.html">mention</a>, <a href="museum.html">museum</a>, <a href="name.html">name</a>, <a href="note.html">note</a>, <a href="noted.html">noted</a>, <a href="odor.html">odor</a>, <a href="odour.html">odour</a>, <a href="off.html">off</a>, <a href="opinion.html">opinion</a>, <a href="oracle.html">oracle</a>, <a href="Outname.html">Outname</a>, <a href="posthumous.html">posthumous</a>, <a href="potlatch.html">potlatch</a>, <a href="praise.html">praise</a>, <a href="prestige.html">prestige</a>, <a href="prestigious.html">prestigious</a>, <a href="price.html">price</a>, <a href="Public%20credit.html">Public credit</a>, <a href="raise.html">raise</a>, <a href="reckoning.html">reckoning</a>, <a href="recognised.html">recognised</a>, <a href="recognized.html">recognized</a>, <a href="rehabilitation.html">rehabilitation</a>, <a href="renown.html">renown</a>, <a href="rep.html">rep</a>, <a href="report.html">report</a>, <a href="reputability.html">reputability</a>, <a href="reputable.html">reputable</a>, <a href="repute.html">repute</a>, <a href="respect.html">respect</a>, <a href="respectability.html">respectability</a>, <a href="respectable.html">respectable</a>, <a href="Respectless.html">Respectless</a>, <a href="rise.html">rise</a>, <a href="ruin.html">ruin</a>, <a href="ruination.html">ruination</a>, <a href="rumor.html">rumor</a>, <a href="saint.html">saint</a>, <a href="sarsaparilla.html">sarsaparilla</a>, <a href="savor.html">savor</a>, <a href="savour.html">savour</a>, <a href="Saxony.html">Saxony</a>, <a href="scandal.html">scandal</a>, <a href="scandalous.html">scandalous</a>, <a href="scribbler.html">scribbler</a>, <a href="Scutigera.html">Scutigera</a>, <a href="self-defense.html">self-defense</a>, <a href="Self-defensive.html">Self-defensive</a>, <a href="self-pride.html">self-pride</a>, <a href="shame.html">shame</a>, <a href="shameful.html">shameful</a>, <a href="shocking.html">shocking</a>, <a href="sink.html">sink</a>, <a href="skyscraper.html">skyscraper</a>, <a href="slander.html">slander</a>, <a href="slanderer.html">slanderer</a>, <a href="smear.html">smear</a>, <a href="smear%20word.html">smear word</a>, <a href="smirch.html">smirch</a>, <a href="splendid.html">splendid</a>, <a href="spot.html">spot</a>, <a href="stab.html">stab</a>, <a href="stainless.html">stainless</a>, <a href="stamp.html">stamp</a>, <a href="standing.html">standing</a>, <a href="stink.html">stink</a>, <a href="stock.html">stock</a>, <a href="strike.html">strike</a>, <a href="strip.html">strip</a>, <a href="strumpet.html">strumpet</a>, <a href="Sully.html">Sully</a>, <a href="support.html">support</a>, <a href="taint.html">taint</a>, <a href="tarnish.html">tarnish</a>, <a href="titan.html">titan</a>, <a href="titanium.html">titanium</a>, <a href="To%20cry%20up.html">To cry up</a>, <a href="To%20levy%20blackmail.html">To levy blackmail</a>, <a href="To%20look%20out.html">To look out</a>, <a href="To%20lose%20ground.html">To lose ground</a>, <a href="To%20pay%20for.html">To pay for</a>, <a href="traducer.html">traducer</a>, <a href="trust.html">trust</a>, <a href="unblemished.html">unblemished</a>, <a href="undermine.html">undermine</a>, <a href="undo.html">undo</a>, <a href="unimpeachable.html">unimpeachable</a>, <a href="unrecognised.html">unrecognised</a>, <a href="unrecognized.html">unrecognized</a>, <a href="unrespectability.html">unrespectability</a>, <a href="unspotted.html">unspotted</a>, <a href="unstained.html">unstained</a>, <a href="unsullied.html">unsullied</a>, <a href="untainted.html">untainted</a>, <a href="untarnished.html">untarnished</a>, <a href="Upon%20my%20honour.html">Upon my honour</a>, <a href="Victorian%20age.html">Victorian age</a>, <a href="vilifier.html">vilifier</a>, <a href="voice.html">voice</a>, <a href="vulnerable.html">vulnerable</a>, <a href="whitewash.html">whitewash</a>, <a href="Whole-skinned.html">Whole-skinned</a>, <a href="Win%20one%27s%20spurs.html">Win one's spurs</a>, <a href="windflower.html">windflower</a>, <a href="wither.html">wither</a>, <a href="work.html">work</a>, <a href="wound.html">wound</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					eeputation, deputation, feputation, teputation, rwputation, rsputation, rdputation, rrputation, reoutation, relutation, repytation, rephtation, repjtation, repitation, repuration, repufation, repugation, repuyation, reputqtion, reputwtion, reputstion, reputztion, reputarion, reputafion, reputagion, reputayion, reputatuon, reputatjon, reputatkon, reputatoon, reputatiin, reputatikn, reputatiln, reputatipn, reputatiob, reputatioh, reputatioj, reputatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

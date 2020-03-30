@@ -1,0 +1,541 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>meditation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">meditation</span> <span class="exp">continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature</span> <span class="quot">"the habit of meditation is the basis for all real knowledge"</span></li><li><span class="tSpeech">n</span> <span class="term">meditation</span> <span class="exp">(religion) contemplation of spiritual matters (usually on religious or philosophical subjects)</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Meditation</span> <span class="exp">The act of meditating; close or continued thought; the turning or revolving of a subject in the mind; serious contemplation; reflection; musing.</span> <span class="wuQuot">"Let the words of my mouth and the meditation of my heart be acceptable in thy sight."</span></li><li><span class="term">Meditation</span> <span class="exp">Thought; -- without regard to kind.</span> <span class="wuQuot">"With wings as swift<br>
+As meditation or the thoughts of love."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">meditation</span> <span class="exp">The act of meditating; close or continued thought; the turning or revolving of a subject in the mind; sustained reflection.</span> </li><li><span class="tSpeech">n</span> <span class="term">meditation</span> <span class="exp">Religious contemplation.</span> </li><li><span class="tSpeech">n</span> <span class="term">meditation</span> <span class="exp">In theology: A private devotional act, consisting in deliberate reflection upon some spiritual truth or mystery, accompanied by mental prayer and by acts of the affections and of the will, especially formation of resolutions as to future conduct. Meditation differs from study in that its principal object is not to acquire knowledge, but to advance in love of God and holiness of life.</span> </li><li><span class="tSpeech">n</span> <span class="term">meditation</span> <span class="exp">A short literary composition in which the subject (usually religious) is treated in a meditative manner: as, a volume of hymns and meditations.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Meditation</span> <span class="exp">the act of meditating: deep thought: serious contemplation: the direction of the thoughts of others, in a discourse, &amp;c.: a literary or musical theme treated in a meditative manner</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Benjamin Franklin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Benjamin%20Franklin.jpg" alt="Benjamin%20Franklin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Reading makes a full man, meditation a profound man, discourse a clear man.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edward Gibbon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edward%20Gibbon.jpg" alt="Edward%20Gibbon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The author himself is the best judge of his own performance; none has so deeply meditated on the subject; none is so sincerely interested in the event.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aristotle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aristotle.jpg" alt="Aristotle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“All who have meditated on the art of governing mankind have been convinced that the fate of empires depends on the education of youth.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bhagavad Gita</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bhagavad Gita">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eknath Easwaran</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Eknath Easwaran">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Milarepa</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Milarepa">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The affairs of the world will go on forever. Do not delay the practice of meditation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">meditacioun</span>, F. <span class="wUets">méditation</span>, fr. L. <span class="wUets">meditatio</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>meditāri</i>, prob. cog. with L. <i>medēri</i>, to heal.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Brahma has meanwhile sunk himself in meditation, but suddenly recalls his prank and hurries out to set matters right.
+					</div>
+					<div class="uAuthor">
+						"The Loves of Krishna in Indian Painting and Poetry" by <span>W. G. Archer</span>					</div>
+										<div class="usage">
+						Little supposing he is the object of even a cake-merchant's attention, he is lost in idle meditation.
+					</div>
+					<div class="uAuthor">
+						"The Grandissimes" by <span>George Washington Cable</span>					</div>
+										<div class="usage">
+						So he prattled nothings while he meditated; and you would have thought that he cared for the nothings.
+					</div>
+					<div class="uAuthor">
+						"Overland" by <span>John William De Forest</span>					</div>
+										<div class="usage">
+						What care he took, what meditations he surrendered himself to, before turning over his house to the upholsterers!
+					</div>
+					<div class="uAuthor">
+						"Against The Grain" by <span>Joris-Karl Huysmans</span>					</div>
+										<div class="usage">
+						Perhaps Mr. Brimsdown felt less lonely among his legal documents, meditating over battles he had won for dead legatees.
+					</div>
+					<div class="uAuthor">
+						"The Moon Rock" by <span>Arthur J. Rees</span>					</div>
+										<div class="usage">
+						No one could have met this dead man without meditating.
+					</div>
+					<div class="uAuthor">
+						"The Man Who Laughs" by <span>Victor Hugo</span>					</div>
+										<div class="usage">
+						His best attitude is not one of doubt and scepticism, but of meditation and experiment.
+					</div>
+					<div class="uAuthor">
+						"Our Lady Saint Mary" by <span>J. G. H. Barry</span>					</div>
+										<div class="usage">
+						These wise people, meditative, steady, always possessed of strong powers, attain to Nirvana, the highest happiness.
+					</div>
+					<div class="uAuthor">
+						"Sacred Books of the East" by <span>Various</span>					</div>
+										<div class="usage">
+						In all kinds of humor it sings, martial, solemn, soothing, meditative, or sprightly.
+					</div>
+					<div class="uAuthor">
+						"Symphonies and Their Meaning; Third Series, Modern Symphonies" by <span>Philip H. Goepp</span>					</div>
+										<div class="usage">
+						It is this fact which gives to the 'Meditations' their distinctive value.
+					</div>
+					<div class="uAuthor">
+						"Library Of The World's Best Literature, Ancient And Modern, Vol 3" by <span>Various</span>					</div>
+										<div class="usage">
+						Something unusual had startled her simple meditations.
+					</div>
+					<div class="uAuthor">
+						"Wild Western Scenes" by <span>John Beauchamp Jones</span>					</div>
+										<div class="usage">
+						They spend a day in fasting, and meditation and prayer.
+					</div>
+					<div class="uAuthor">
+						"Quiet Talks on Prayer" by <span>S. D. (Samuel Dickey) Gordon</span>					</div>
+										<div class="usage">
+						That fellow was always making me do things in subtle discord with my meditative temperament.
+					</div>
+					<div class="uAuthor">
+						"Chance" by <span>Joseph Conrad</span>					</div>
+										<div class="usage">
+						If I might keep the bare room sacred to my meditations, all unentered save by myself!
+					</div>
+					<div class="uAuthor">
+						"Jewel Weed" by <span>Alice Ames Winter</span>					</div>
+										<div class="usage">
+						She covered her real interest in his meditations with an excellent assumption of interest in the superb view before her.
+					</div>
+					<div class="uAuthor">
+						"A Woman's Will" by <span>Anne Warner</span>					</div>
+										<div class="usage">
+						But there is nothing on which a free man will meditate less than on death.
+					</div>
+					<div class="uAuthor">
+						"Dreamers of the Ghetto" by <span>I. Zangwill</span>					</div>
+										<div class="usage">
+						He returns, bathes his feet and eats, after which he resumes meditation.
+					</div>
+					<div class="uAuthor">
+						"The Buddhist Catechism" by <span>Henry S. Olcott</span>					</div>
+										<div class="usage">
+						The young women, in consequence of the separation from the young men, seemed to be absorbed in meditation.
+					</div>
+					<div class="uAuthor">
+						"Friars and Filipinos" by <span>Jose Rizal</span>					</div>
+										<div class="usage">
+						His day began with the dreaded meditation at five in the morning, followed by hearing the Mass and receiving Communion.
+					</div>
+					<div class="uAuthor">
+						"Carmen Ariza" by <span>Charles Francis Stocking</span>					</div>
+										<div class="usage">
+						This Pali word means thought, reflection, meditation.
+					</div>
+					<div class="uAuthor">
+						"The Life or Legend of Gaudama" by <span>Right Reverend Paul Ambroise Bigandet</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							And, puzzling out the weave of fate,<br>
+Events observer,<br>
+To live, feel, love and meditate<br>
+And to discover.
+							<div class="poet">"In everything I seek to grasp..." by <span>Boris Pasternak</span></div>
+						</div>
+											<div class="poemQuote">
+							My waking eyes prevent the day<br>
+To meditate thy word;<br>
+My soul with longing melts away<br>
+To hear thy gospel, Lord.
+							<div class="poet">"Psalm 119  part 5" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							'Twas then, by gloaming's sober hour,<br>
+He'd court some solitude obscure;<br>
+Or round Cam'skenneth's ancient tower,<br>
+Whar winds Forth's stream,<br>
+He'd wander, meditate, and pour<br>
+This moral theme :--
+							<div class="poet">"The Links O' Forth : Or, A Parting Peep At The Carse O' Sterling" by <span>Hector MacNeill </span></div>
+						</div>
+											<div class="poemQuote">
+							Yonder seeking, finding yonder<br>
+That which in the morning-grove<br>
+She had lost through roguish Love,<br>
+All her breast's first aspirations,<br>
+And her heart's calm meditations,<br>
+To the shady wood so fair
+							<div class="poet">"The German Parnassus" by <span>Johann Wolfgang von Goethe</span></div>
+						</div>
+											<div class="poemQuote">
+							How sweet to meditate, O Lord!<br>
+On Thy great name, Thy glorious word,<br>
+In Thy blest presence to rejoice,<br>
+To Thy blest praise attune my voice,<br>
+And from Thy cup to drink the stream<br>
+Of gladness and of joy supreme!
+							<div class="poet">"Spring: Friday Morning" by <span>John Bowring</span></div>
+						</div>
+											<div class="poemQuote">
+							And now, dear Sangamon, farewell! I wait<br>
+On that Elysian scene to meditate<br>
+When, separated from the dregs of earth,<br>
+Life's stream shall sweeter be, of better worth;<br>
+And, like the ocean with its restless tide,<br>
+By its own action cleansed and purified.
+							<div class="poet">"The Sangamon River" by <span>Hattie Howard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						If I Meditate , I Have More Steady Energy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychologytoday.com/blog/the-happiness-project/201211/if-i-meditate-i-have-more-steady-energy/comments" target="_blank" rel="external nofollow">psychologytoday.com</a>
+					</div>
+										<div class="usage">
+						 Meditation is also a great tool for calling in new romance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metro.us/boston/life/article/1089478--meditate-for-a-date" target="_blank" rel="external nofollow">metro.us</a>
+					</div>
+										<div class="usage">
+						Elizabeth Lesser, co-founder of the Omega Institute, shares a gratitude meditation that will help you feel centered and peaceful in the new year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/own-supersoulsunday/blogs/Resolved-To-Meditate-in-the-New-Year" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						Breathe in gratitude and out gratitude for the rest of your meditation .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/own-supersoulsunday/blogs/Resolved-To-Meditate-in-the-New-Year" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						Do this exact meditation every day for one month.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/own-supersoulsunday/blogs/Resolved-To-Meditate-in-the-New-Year" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						Lynch wants soldiers and veterans to experience the stress-reducing benefits of Transcendental Meditation .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.signonsandiego.com/news/2011/dec/02/david-lynch-supports-teaching-veterans-to-meditate/" target="_blank" rel="external nofollow">signonsandiego.com</a>
+					</div>
+										<div class="usage">
+						Lynch's namesake foundation is giving $1 million in grants to teach the meditation technique to active-duty military personnel and veterans and their families suffering from post-traumatic stress.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.signonsandiego.com/news/2011/dec/02/david-lynch-supports-teaching-veterans-to-meditate/" target="_blank" rel="external nofollow">signonsandiego.com</a>
+					</div>
+										<div class="usage">
+						LOS ANGELES — David Lynch wants soldiers and veterans to experience the stress-reducing benefits of Transcendental Meditation .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/Nation/2011/12/02/David-Lynch-donates-1-million-in-grants-through-his-foundation-to-teach-veterans-to-meditate.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<div class="usage">
+						Fall planting is time to meditate on hopes for future.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbian.com/news/2011/nov/10/fall-planting-is-time-to-meditate-on-hopes-for-fut/" target="_blank" rel="external nofollow">columbian.com</a>
+					</div>
+										<div class="usage">
+						 Meditation is an interesting method for increasing one's sense of happiness because not only has it stood the test of time, but it's also been tested quite extensively in the lab.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/alicegwalton/2011/09/21/eat-smoke-meditate-why-your-brain-cares-how-you-cope/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Great options for meditation in the Washington area.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonian.com/articles/health/17363.html" target="_blank" rel="external nofollow">washingtonian.com</a>
+					</div>
+										<div class="usage">
+						Want to learn meditation .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonian.com/articles/health/17363.html" target="_blank" rel="external nofollow">washingtonian.com</a>
+					</div>
+										<div class="usage">
+						703-774-9692 Insight Meditation Community of Washington, locations vary, see Web site for details.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonian.com/articles/health/17363.html" target="_blank" rel="external nofollow">washingtonian.com</a>
+					</div>
+										<div class="usage">
+						 Meditation is not only an immediate stress reducer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.advocate.com/health/ask-doctor/2009/12/16/meditate-your-t-cells" target="_blank" rel="external nofollow">advocate.com</a>
+					</div>
+										<div class="usage">
+						 Chameleon Arts Ensemble presents a timely meditation on the subject of Love.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baystatebanner.com/Event-1347832168936" target="_blank" rel="external nofollow">baystatebanner.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Great playing is similar to deep meditation, when the mind goes quiet and observation of the self deepens. 
+					</div>
+					<div class="uAuthor">
+						Music in Terms of Science
+					</div>
+										<div class="usage">
+						This is a very Western-centric interpretation of religion. There exist major religious groups for whom following some set of laws is what matters; there are others that emphasize meditational practices or simply love. He is right that most religions devolve to cult-like or magical practice, but this is not universal. 
+					</div>
+					<div class="uAuthor">
+						Book review of SUPERSTITION by Robert Park
+					</div>
+										<div class="usage">
+						I shall turn to Husserl’s (1929) Cartesian Meditations for epistemological specification and foundation of this reflection in intersubjectivity. 
+					</div>
+					<div class="uAuthor">
+						Luhmann's Communication-Theoretical Specification of the 'Genomena' of Husserl's Phenomenology
+					</div>
+										<div class="usage">
+						What is left when one abstracts from what is given? These non-material traces can be provided with meaning as the subject of a meditation. 
+					</div>
+					<div class="uAuthor">
+						Luhmann's Communication-Theoretical Specification of the 'Genomena' of Husserl's Phenomenology
+					</div>
+										<div class="usage">
+						The meditation gives access to an a priori domain for which no discursive concepts are available to the Ego. 
+					</div>
+					<div class="uAuthor">
+						Luhmann's Communication-Theoretical Specification of the 'Genomena' of Husserl's Phenomenology
+					</div>
+										<div class="usage">
+						In this meditation Husserl not only questions what it means to be ‘human,’ but also asks about the referent of human intentionality. 
+					</div>
+					<div class="uAuthor">
+						Luhmann's Communication-Theoretical Specification of the 'Genomena' of Husserl's Phenomenology
+					</div>
+										<div class="usage">
+						In the Cartesian Meditations of 1929, this quest is elaborated by extending on Descartes’ (1637) category of the cogito. 
+					</div>
+					<div class="uAuthor">
+						Luhmann's Communication-Theoretical Specification of the 'Genomena' of Husserl's Phenomenology
+					</div>
+										<div class="usage">
+						Husserl proposed in the Meditations to consider the cogitatum as a self-reinforcing ground for the meditation. 
+					</div>
+					<div class="uAuthor">
+						Luhmann's Communication-Theoretical Specification of the 'Genomena' of Husserl's Phenomenology
+					</div>
+										<div class="usage">
+						Cartesianische Meditationen und Pariser Vorträge. [Cartesian Meditations and the Paris Lectures.]. 
+					</div>
+					<div class="uAuthor">
+						Luhmann's Communication-Theoretical Specification of the 'Genomena' of Husserl's Phenomenology
+					</div>
+										<div class="usage">
+						Correlation between B(Bs → µ+µ− ) and B(Bd → µ+µ− ) in presence of Higgs-medited FCNC amplitudes respecting the MFV hypothesis. 
+					</div>
+					<div class="uAuthor">
+						Minimal Flavour Violation and Beyond
+					</div>
+										<div class="usage">
+						The correlation of B(Bs → µ+µ− ) and B(Bd → µ+µ− ) in a generic model with Higgs-medited FCNC amplitudes respecting the MFV hypothesis is shown in Fig. 2. 
+					</div>
+					<div class="uAuthor">
+						Minimal Flavour Violation and Beyond
+					</div>
+										<div class="usage">
+						The mediation mechanism is called the Z ′ meditation but ours is different from that of Ref. 
+					</div>
+					<div class="uAuthor">
+						Effective SUSY modified after LHC run
+					</div>
+										<div class="usage">
+						Most meditations in this sense drive oneself to understand the hidings under the concept of stability of a numerical integration process. 
+					</div>
+					<div class="uAuthor">
+						Dream of a Christmas lecture
+					</div>
+										<div class="usage">
+						The second paradox is a more popular one, coming from the meditations of Zeno. 
+					</div>
+					<div class="uAuthor">
+						Dream of a Christmas lecture
+					</div>
+										<div class="usage">
+						After tying a turban on one’s head to tune into the students’ mental ‘vibes’ and allow levitation to occur, a brief meditation moment is taken. The instructor, displaying much hesitation, states his/her apprehension of doing this magical feat and decides to take a bite out of an apple to relax. 
+					</div>
+					<div class="uAuthor">
+						Physics Magic
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature"><a href="speculation.html">speculation</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="contemplation.html">contemplation</a>, <a href="musing.html">musing</a>, <a href="reflection.html">reflection</a>, <a href="reflexion.html">reflexion</a>, <a href="rumination.html">rumination</a>, <a href="thoughtfulness.html">thoughtfulness</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="meditate.html">meditate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="addict.html">addict</a>, <a href="amuse.html">amuse</a>, <a href="amusement.html">amusement</a>, <a href="brooding.html">brooding</a>, <a href="Buddhism.html">Buddhism</a>, <a href="cogitation.html">cogitation</a>, <a href="contemplation.html">contemplation</a>, <a href="contemplative.html">contemplative</a>, <a href="convent.html">convent</a>, <a href="deliberation.html">deliberation</a>, <a href="deliberative.html">deliberative</a>, <a href="dump.html">dump</a>, <a href="emblem.html">emblem</a>, <a href="extempore.html">extempore</a>, <a href="gymnosophy.html">gymnosophy</a>, <a href="hatch.html">hatch</a>, <a href="hermit.html">hermit</a>, <a href="incubation.html">incubation</a>, <a href="lucubration.html">lucubration</a>, <a href="mandala.html">mandala</a>, <a href="Meditance.html">Meditance</a>, <a href="Meditatist.html">Meditatist</a>, <a href="meditative.html">meditative</a>, <a href="meditatively.html">meditatively</a>, <a href="melancholy.html">melancholy</a>, <a href="mentally.html">mentally</a>, <a href="Monk.html">Monk</a>, <a href="Muse.html">Muse</a>, <a href="musing.html">musing</a>, <a href="pensiveness.html">pensiveness</a>, <a href="quietism.html">quietism</a>, <a href="rapt.html">rapt</a>, <a href="recluse.html">recluse</a>, <a href="reflection.html">reflection</a>, <a href="retirement.html">retirement</a>, <a href="retreat.html">retreat</a>, <a href="reverie.html">reverie</a>, <a href="revery.html">revery</a>, <a href="rumination.html">rumination</a>, <a href="ruminative.html">ruminative</a>, <a href="speculation.html">speculation</a>, <a href="studious.html">studious</a>, <a href="study.html">study</a>, <a href="thanatopsis.html">thanatopsis</a>, <a href="Theopathy.html">Theopathy</a>, <a href="thought.html">thought</a>, <a href="thoughtful.html">thoughtful</a>, <a href="thoughtfulness.html">thoughtfulness</a>, <a href="verity.html">verity</a>, <a href="verse.html">verse</a>, <a href="Wisdom.html">Wisdom</a>, <a href="Wisdom%20of%20Solomon.html">Wisdom of Solomon</a>, <a href="Yogi.html">Yogi</a>, <a href="Zen.html">Zen</a>, <a href="Zen%20Buddhism.html">Zen Buddhism</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					neditation, jeditation, keditation, mwditation, msditation, mdditation, mrditation, mesitation, meeitation, mefitation, mecitation, mexitation, mesitation, medutation, medjtation, medktation, medotation, mediration, medifation, medigation, mediyation, meditqtion, meditwtion, meditstion, meditztion, meditarion, meditafion, meditagion, meditayion, meditatuon, meditatjon, meditatkon, meditatoon, meditatiin, meditatikn, meditatiln, meditatipn, meditatiob, meditatioh, meditatioj, meditatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

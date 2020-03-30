@@ -1,0 +1,562 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>morale</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">morale</span> <span class="exp">the spirit of a group that makes the members want the group to succeed</span> </li><li><span class="tSpeech">n</span> <span class="term">morale</span> <span class="exp">a state of individual psychological well-being based upon a sense of confidence and usefulness and purpose</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The way that prostitutes got the nickname "Hooker" was because of a general of the Civil War. General Hooker would keep a number of prostitutes to follow has army and keep his men's moral up. The prostitutes were referred to as "Hookers brigade."									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Morale</span> <span class="exp">The moral condition, or the condition in other respects, so far as it is affected by, or dependent upon, moral considerations, such as zeal, spirit, hope, and confidence; mental state, as of a body of men, an army, and the like.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">morale</span> <span class="exp">Moral or mental condition as regards courage, zeal, hope, confidence, and the like: used especially of a body of men engaged in a hazardous enterprise, as soldiers or sailors in time of war.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Morale</span> <span class="exp"><span class="itl">mo-räl′</span> the state of a person's morals: mental state as regards spirit and confidence, esp. of a body of soldiers, &amp;c.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mahatma Gandhi</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mahatma%20Gandhi.jpg" alt="Mahatma%20Gandhi">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Cowards can never be moral.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William E. Gladstone</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20E.%20Gladstone.jpg" alt="William%20E.%20Gladstone">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nothing that is morally wrong can be politically right.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joseph De Maistre</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Joseph%20De%20Maistre.jpg" alt="Joseph%20De%20Maistre">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If there was no moral evil upon earth, there would be no physical evil.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean-Luc Godard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jean-Luc Godard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The truth is that there is no terror untempered by some great moral idea.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Friedrich Nietzsche</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Friedrich%20Nietzsche.jpg" alt="Friedrich%20Nietzsche">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Fear is the mother of morality.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marlon Brando</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marlon Brando">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The only reason I'm in Hollywood is that I don't have the moral courage to refuse the money.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Moral fibre</span> - Moral fibre is the inner strength to do what you believe to be right in difficult situations Example: He lacked the moral fibre to be leader (In American English the correct spelling is 'fiber'.)
+				</div>	
+				<span class="separatorSmall">***</span>
+								<div class="idioms">
+					<span>Moral high ground</span> - If people have/take/claim/seize, etc, the moral high ground, they claim that their arguments, beliefs, etc, are morally superior to those being put forward by other people.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. See <span class="wUer">Moral</span> (a.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The orthodox may, if they please, draw a moral for their own tastes; and I could draw a moral which is not quite orthodox.
+					</div>
+					<div class="uAuthor">
+						"The Life of Sir James Fitzjames Stephen, Bart., K.C.S.I." by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						These exercises cannot be called moral; where all is illusion morality disappears.
+					</div>
+					<div class="uAuthor">
+						"History of Religion" by <span>Allan Menzies</span>					</div>
+										<div class="usage">
+						And although all these moral qualities have their bearing upon sexual morality, they do not establish a uniform ideal of sexual morality.
+					</div>
+					<div class="uAuthor">
+						"Sex=The Unknown Quantity" by <span>Ali Nomad</span>					</div>
+										<div class="usage">
+						Strength of moral sentiments, moral comprehension and moral will.
+					</div>
+					<div class="uAuthor">
+						"The Sexual Question" by <span>August Forel</span>					</div>
+										<div class="usage">
+						In putting forward a practical morality for marriage we have to remember that we are not really uprooting traditional morality.
+					</div>
+					<div class="uAuthor">
+						"The Truth About Woman" by <span>C. Gasquoine Hartley</span>					</div>
+										<div class="usage">
+						We have had the morality of submission, and the morality of chivalry and generosity; the time is now come for the morality of justice.
+					</div>
+					<div class="uAuthor">
+						"Men, Women, and Gods" by <span>Helen H. Gardener</span>					</div>
+										<div class="usage">
+						We still quote the lines about pointing a moral and adorning a tale, which conclude a really noble passage.
+					</div>
+					<div class="uAuthor">
+						"Hours in a Library" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						The moral strength as well as the moral deficiencies of this type of man flow from this competition.
+					</div>
+					<div class="uAuthor">
+						"The Evolution of the Country Community" by <span>Warren H. Wilson</span>					</div>
+										<div class="usage">
+						It is not the physical which explains the moral, it is the moral which produces the physical.
+					</div>
+					<div class="uAuthor">
+						"German Problems and Personalities" by <span>Charles Sarolea</span>					</div>
+										<div class="usage">
+						From this melancholy circumstance, learn, sir, a lesson of morality.
+					</div>
+					<div class="uAuthor">
+						"The Writings Of Thomas Paine, Complete" by <span>Thomas Paine</span>					</div>
+										<div class="usage">
+						The morality of Christians is, in good truth, the morality of another world.
+					</div>
+					<div class="uAuthor">
+						"Letters to Eugenia" by <span>Baron d'Holbach</span>					</div>
+										<div class="usage">
+						In the world of thought he looked upon a period of moral and intellectual anarchy.
+					</div>
+					<div class="uAuthor">
+						"The History of Freedom" by <span>John Emerich Edward Dalberg-Acton</span>					</div>
+										<div class="usage">
+						The first demand of this morality is to the effect that one should carry on a solid business, an honorable trade, lead a moral life.
+					</div>
+					<div class="uAuthor">
+						"The Ego and His Own" by <span>Max Stirner</span>					</div>
+										<div class="usage">
+						The attempt to render morality scientific ends in a result fatal to morality; and the reason seems clear.
+					</div>
+					<div class="uAuthor">
+						"Evolution" by <span>Frank B. Jevons</span>					</div>
+										<div class="usage">
+						So being and doing, a man answers the moral purpose of his existence, and attains moral manhood.
+					</div>
+					<div class="uAuthor">
+						"Speeches, Addresses, and Occasional Sermons, Volume 3 (of 3)" by <span>Theodore Parker</span>					</div>
+										<div class="usage">
+						Its moral failure {315} is due simply to the fact that the object of expansion was never in any case moral.
+					</div>
+					<div class="uAuthor">
+						"A Short History of English Liberalism" by <span>Walter Lyon Blease</span>					</div>
+										<div class="usage">
+						Melodrama does not lack its moral, but the moral is always incomplete, in that it is the issue of an accident.
+					</div>
+					<div class="uAuthor">
+						"The English Stage" by <span>Augustin Filon</span>					</div>
+										<div class="usage">
+						These are moral questions.
+					</div>
+					<div class="uAuthor">
+						"Religion and the War" by <span>Various</span>					</div>
+										<div class="usage">
+						The popular aspect of the Messianic hope was political, not religious or moral.
+					</div>
+					<div class="uAuthor">
+						"The Cradle of the Christ" by <span>Octavius Brooks Frothingham</span>					</div>
+										<div class="usage">
+						It usually, though not always, includes some code of morality for use here and some account of what happens after death.
+					</div>
+					<div class="uAuthor">
+						"The Hearts of Men" by <span>H. Fielding</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							''Twas then I saw (alas! owre clear!)<br>
+Your future thriftless, lost career!<br>
+And while some blam'd, wi' boding fear,<br>
+The tunefu' art,<br>
+Your moral pride and truth sincere<br>
+Aye wan my heart.
+							<div class="poet">"The Scottish Muse" by <span>Hector MacNeill </span></div>
+						</div>
+											<div class="poemQuote">
+							The moral? Where Doubt's eddies toss and twirl<br>
+Faith's slender shallop till her footing reel,<br>
+Plunge: if you find not peace beneath the whirl,<br>
+Groping, you may like Omar grasp a pearl.
+							<div class="poet">"In A Copy Of Omar Khayyam" by <span>James Russell Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							I hold by stern morality,<br>
+Depite the worldings' scoffing,<br>
+And though it pains my soul to see<br>
+A fish tin in the offing,<br>
+'Tis naught beside the things I feel<br>
+Whene'er I hear Belinda squeal.
+							<div class="poet">"The Minglers" by <span>C J Dennis</span></div>
+						</div>
+											<div class="poemQuote">
+							SECTION V.<br>
+Moral Sublime in David. Fain would I bring to admiration's view,<br>
+A youth as brave, as ever mortal knew—<br>
+The stripling David:—dauntless and alone,<br>
+With what a godlike dignity he shone!
+							<div class="poet">"Ethic Strains, On Subjects Sublime And Beautiful - Part III" by <span>Thomas Odiorne</span></div>
+						</div>
+											<div class="poemQuote">
+							And this is The Moral that lies in the verse:<br>
+If you have a go farther, you're apt to fare<br>
+Worse.<br>
+(When you turn it around it is different rather: - You're not apt to go worse if you have a fair<br>
+father!)
+							<div class="poet">"How Jack Made The Giants Uncommonly Sore" by <span>Guy Wetmore Carryl</span></div>
+						</div>
+											<div class="poemQuote">
+							The Moral: There's nothing much glummer<br>
+Than children whose talents appall:<br>
+One much prefers those who are dumber,<br>
+But as for the paragons small,<br>
+If a swallow cannot make a summer<br>
+It can bring on a summary fall!
+							<div class="poet">"How Little Red Riding Hood Came To Be Eaten" by <span>Guy Wetmore Carryl</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						It follows from this equation that any attempt to cut back the French welfare state, such as Nicholas Sarkozy has been making with limited success, is the moral equivalent of Vichy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnr.com/article/world/83635/indignez-vous-hessel-france-sarkozy?page=0%2C1" target="_blank" rel="external nofollow">tnr.com</a>
+					</div>
+										<div class="usage">
+						I have always prized my right to speak my mind, watch and read what I want, and keep my body and property private from the intrusions of a society with different moral viewpoints.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tulsaworld.com/site/articlepath.aspx?pg=opinion&amp;articleid=20120315_65_A23_CUTLIN428086" target="_blank" rel="external nofollow">tulsaworld.com</a>
+					</div>
+										<div class="usage">
+						' Disproportionate ' in What Moral Universe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2006/07/27/AR2006072701725.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Nothing would boost the morale of workers more than another paid day off of work.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.stltoday.com/entertainment/movies/reviews/goodbye-first-love-has-a-distinctly-european-tone/article_3f73159f-1193-5f6e-b68c-2bab029d29d5.html" target="_blank" rel="external nofollow">stltoday.com</a>
+					</div>
+										<div class="usage">
+						GSA chief speaks on employee morale, agency flaws.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.govexec.com/pay-benefits/2012/07/gsa-suspends-hiring-drastically-scales-back-executive-bonuses/56835/?oref=top-story" target="_blank" rel="external nofollow">govexec.com</a>
+					</div>
+										<div class="usage">
+						As U.N.'s ' Durban III' Approaches Where Are the Moral Leaders.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/opinion/2011/09/02/as-uns-durban-iii-approaches-where-are-moral-leaders/print" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Morality and religion, he suspects, are traits based on group selection.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2008/07/15/science/15wils.html?pagewanted=2&amp;_r=3&amp;fta=y" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The California Highway Patrol is looking for 21-year-old Eduardo Morales after investigators say he struck and killed a one-year-old boy as he was crossing Avenue 80 Sunday evening.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/kfsn/story?section=news/local&amp;id=8612968" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						A body like that makes it hard to have morals, but we're trying our best Laura.
+					</div>
+					<div class="uAuthor">
+						<a href="http://q103albany.com/laura-elisa-babe-of-the-day/" target="_blank" rel="external nofollow">q103albany.com</a>
+					</div>
+										<div class="usage">
+						A body like that makes it hard to have morals, but we're trying our best.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kmhk.com/laura-elisa-babe-of-the-day/" target="_blank" rel="external nofollow">kmhk.com</a>
+					</div>
+										<div class="usage">
+						The moral equivalent of Nuremberg.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/news/opinion/columnists/sns-201210171700--tms--rkoehlerctnbk-a20121018-20121018,0,3103148.column" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						Choice between Democrats' 'morally corrosive, fiscally unsustainable, creeping statism' or Republicans' 'path to prosperity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tcpalm.com/news/2012/sep/30/timothy-benson-what-is-the-november-election-or/" target="_blank" rel="external nofollow">tcpalm.com</a>
+					</div>
+										<div class="usage">
+						An Obama vote would show "moral schizophrenia".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/28/AR2008092802365.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						There's nothing more pathetic than dittoheads making moral equivalency arguments about Rush Limbaugh and his liberal rivals.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/pg/12069/1215464-153-0.stm" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						Ellen Burstyn's character started out as comic relief, but then emerged as the show's surprising moral center.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/entertainment/archive/2012/08/the-drunk-foul-mouthed-feminist-moral-compass-of-political-animals/261291/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						For any DAG or ID D, its moral graph , or moralization , is the undirected graph mo(D) in which ﬁrst an edge is inserted between any unlinked parents of a common child in D, and then all directions are ignored. 
+					</div>
+					<div class="uAuthor">
+						Identifying the consequences of dynamic treatment strategies: A decision-theoretic overview
+					</div>
+										<div class="usage">
+						The ID constructed in this way will ensure that the joint distribution of the domain variables, in each regime, satisﬁes any conditional independencies obtained by applying the moralization criterion (31). 
+					</div>
+					<div class="uAuthor">
+						Identifying the consequences of dynamic treatment strategies: A decision-theoretic overview
+					</div>
+										<div class="usage">
+						Since, after moralization of Di , σ has direct links only into (Li , Ai ), any path in this moral graph joining Y to σ must intersect (Li , Ai ), whence we deduce (40). 
+					</div>
+					<div class="uAuthor">
+						Identifying the consequences of dynamic treatment strategies: A decision-theoretic overview
+					</div>
+										<div class="usage">
+						Taking into account Condition 9.2 and (48), (50) requires that Mi ∪ Ai separate Y from σ in the undirected graph Gi obtained by moralizing the ancestral set of Y in Di . 
+					</div>
+					<div class="uAuthor">
+						Identifying the consequences of dynamic treatment strategies: A decision-theoretic overview
+					</div>
+										<div class="usage">
+						Since this is easily seen to fail (moralization creates a link between U and σ), Theorem 9.1 implies that there can be no admissible sequence to support G-recursion. 
+					</div>
+					<div class="uAuthor">
+						Identifying the consequences of dynamic treatment strategies: A decision-theoretic overview
+					</div>
+										<div class="usage">
+						Goal selection requires strategic decisions, which may involve normative or moral factors (as in politics). 
+					</div>
+					<div class="uAuthor">
+						Fundamental and Real-World Challenges in Economics
+					</div>
+										<div class="usage">
+						This may actually be largely dependent on the perception of pieces of information, and on normative or moral issues ﬁltering or weighting information. 
+					</div>
+					<div class="uAuthor">
+						Fundamental and Real-World Challenges in Economics
+					</div>
+										<div class="usage">
+						Szabo, Evolutionary establishment of moral and double moral standards through spatial interactions. 
+					</div>
+					<div class="uAuthor">
+						Fundamental and Real-World Challenges in Economics
+					</div>
+										<div class="usage">
+						Building upon this foundation, we show in Section 3.2 that the core data type from Uniplate, called Biplate, is morally speaking, a generalization of the ﬁrst lens representation. 
+					</div>
+					<div class="uAuthor">
+						Functor is to Lens as Applicative is to Biplate: Introducing Multiplate
+					</div>
+										<div class="usage">
+						Thus we see that, morally, Uniplate and Compos use isomorphic representations. 
+					</div>
+					<div class="uAuthor">
+						Functor is to Lens as Applicative is to Biplate: Introducing Multiplate
+					</div>
+										<div class="usage">
+						The morale: for ﬁxed d and large enough p, the d-dimensional representation theory of U3 over a ﬁeld of characteristic p is in perfect analogy with the representation theory of U ∞ 3 over a ﬁeld of characteristic zero (countable inﬁnite product of copies of U3 ). 
+					</div>
+					<div class="uAuthor">
+						Generic Representation Theory of the Unipotent Upper Triangular Groups
+					</div>
+										<div class="usage">
+						The moral is that we should relax the associativity axiom of an internal category by replacing the assumption that the diagram above is commutative by the weaker assumption that the there is an invertible 2-morphism α between the two compositions. 
+					</div>
+					<div class="uAuthor">
+						Supersymmetric field theories and generalized cohomology
+					</div>
+										<div class="usage">
+						Meanwhile, we approximate the integration time t = τ N (u, v), where τ = 5 s is the accumulation duration for each visibility measurement, and N (u, v) is the number of independent samples in that pixel (Bharadwa j &amp; Ali 2005; Bowman, Morales &amp; Hewitt 2009). 
+					</div>
+					<div class="uAuthor">
+						Subtracting Foregrounds from Interferometric Measurements of the Redshifted 21 cm Emission
+					</div>
+										<div class="usage">
+						In practice, the possible approach is to explore the independence of thermal noise from two different epochs, and then average their mean power to zero by cross-correlation, leaving only the thermal uncertainty (Bowman, Morales &amp; Hewitt 2009; Harker et al. 2010). 
+					</div>
+					<div class="uAuthor">
+						Subtracting Foregrounds from Interferometric Measurements of the Redshifted 21 cm Emission
+					</div>
+										<div class="usage">
+						In the single-event setup, mathematics must shrug its shoulders and admit defeat in the face of a moral decision. 
+					</div>
+					<div class="uAuthor">
+						Menger 1934 revisited
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the spirit of a group that makes the members want the group to succeed"><a href="esprit%20de%20corps.html">esprit de corps</a>, <a href="team%20spirit.html">team spirit</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="disposition.html">disposition</a>, <a href="mental%20condition.html">mental condition</a>, <a href="mental%20state.html">mental state</a>, <a href="psychological%20condition.html">psychological condition</a>, <a href="psychological%20state.html">psychological state</a>, <a href="temperament.html">temperament</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="demoralisation.html">demoralisation</a>, <a href="demoralising.html">demoralising</a>, <a href="demoralization.html">demoralization</a>, <a href="demoralizing.html">demoralizing</a>, <a href="disheartening.html">disheartening</a>, <a href="dispiriting.html">dispiriting</a>, <a href="harassing%20fire.html">harassing fire</a>, <a href="morale%20booster.html">morale booster</a>, <a href="morale%20builder.html">morale builder</a>, <a href="morale%20building.html">morale building</a>, <a href="psychological%20warfare.html">psychological warfare</a>, <a href="war%20of%20nerves.html">war of nerves</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					norale, jorale, korale, mirale, mkrale, mlrale, mprale, moeale, modale, mofale, motale, morqle, morwle, morsle, morzle, morake, moraoe, morape, moralw, morals, morald, moralr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

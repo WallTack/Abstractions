@@ -1,0 +1,537 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>ambition</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">ambition</span> <span class="exp">have as one's ambition</span> </li><li><span class="tSpeech">n</span> <span class="term">ambition</span> <span class="exp">a strong drive for success</span> </li><li><span class="tSpeech">n</span> <span class="term">ambition</span> <span class="exp">a cherished desire</span> <span class="quot">"his ambition is to own his own business"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Ambition</span> <span class="exp">An eager, and sometimes an inordinate, desire for preferment, honor, superiority, power, or the attainment of something.</span> <span class="wuQuot">"Cromwell, I charge thee, fling a way ambition :<br>
+By that sin fell the angels."</span><span class="wuQuot">"The pitiful ambition of possessing five or six thousand more acres."</span></li><li><span class="term">Ambition</span> <span class="exp">The act of going about to solicit or obtain an office, or any other object of desire; canvassing.</span> <span class="wuQuot">"I] used no ambition to commend my deeds."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Ambition</span> <span class="exp">To seek after ambitiously or eagerly; to covet.</span> <span class="wuQuot">"Pausanias, ambitioning the sovereignty of Greece, bargains with Xerxes for his daughter in marriage."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">ambition</span> <span class="exp">The act of going about to solicit or obtain an office or other object of desire; a canvassing.</span> </li><li><span class="tSpeech">n</span> <span class="term">ambition</span> <span class="exp">An eager or inordinate desire for some object that confers distinction, as preferment, political power, or literary fame; desire to distinguish one's self from other men: often used in a good sense: as, ambition to be good.</span> </li><li><span class="tSpeech">n</span> <span class="term">ambition</span> <span class="exp">Hence The object of ambitious desire.</span> </li><li><span class="term">ambition</span> <span class="exp">To seek after ambitiously or eagerly; aspire to; be ambitious of.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Ambition</span> <span class="exp"><span class="itl">am-bish′un</span> the desire of power, honour, fame, excellence</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Angus Grossart</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Angus Grossart">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I've got a great ambition to die of exhaustion rather than boredom.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">David Hume</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/David%20Hume.jpg" alt="David%20Hume">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Where ambition can cover its enterprises, even to the person himself, under the appearance of principle, it is the most incurable and inflexible of passions.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joseph Joubert</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Joseph Joubert">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ambition is pitiless. Any merit that it cannot use it finds despicable.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Yoshida Kenko</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Yoshida Kenko">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ambition never comes to an end.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Lilly</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William Lilly">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ambition has one heel nailed in well, though she stretch her fingers to touch the heavens.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Abraham Lincoln</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Abraham%20Lincoln.jpg" alt="Abraham%20Lincoln">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every man is said to have his peculiar ambition.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">ambition</span>, L. <span class="wUets">ambitio</span>, a going around, especially of candidates for office is Rome, to solicit votes (hence, desire for office or honor), fr. <span class="wUets">ambire</span>, to go around. See <span class="wUer">Ambient</span> <span class="wUer">Issue</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.—L. <i>ambition</i>-<i>em</i>, the going about—that is, the canvassing for votes practised by candidates for office in Rome—<i>ambi</i>, about, and <i>īre</i>, <i>itum</i>, to go.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Such a sign would speak volumes for the will power and ambition of the subject under examination.
+					</div>
+					<div class="uAuthor">
+						"Palmistry for All" by <span>Cheiro</span>					</div>
+										<div class="usage">
+						To a mere Outsider it looked as if Ambition had certainly boosted his Nobs to the final Himalayan Peak of Human Happiness.
+					</div>
+					<div class="uAuthor">
+						"Ade's Fables" by <span>George Ade</span>					</div>
+										<div class="usage">
+						So it is often with our hope, our faith, our ambition, our aspiration.
+					</div>
+					<div class="uAuthor">
+						"How to Succeed" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						In all this what 'hypocrisy,' 'ambition,' 'cant,' or other falsity?
+					</div>
+					<div class="uAuthor">
+						"Sartor Resartus, and On Heroes, Hero-Worship, and the Heroic in History" by <span>Thomas Carlyle</span>					</div>
+										<div class="usage">
+						Fanaticism, envy, depreciation of others, aggression, morbid and excessive ambition were all fruits from the same stem.
+					</div>
+					<div class="uAuthor">
+						"The Psychology of Nations" by <span>G.E. Partridge</span>					</div>
+										<div class="usage">
+						There is no purer ambition than that which craves this crown for her mortal brow.
+					</div>
+					<div class="uAuthor">
+						"Aims and Aids for Girls and Young Women" by <span>George Sumner Weaver</span>					</div>
+										<div class="usage">
+						They tried him with bribes that would appeal to his ambition.
+					</div>
+					<div class="uAuthor">
+						"The Promised Land" by <span>Mary Antin</span>					</div>
+										<div class="usage">
+						The material ambitions are not only always unfruitful but nearly always unfulfilled.
+					</div>
+					<div class="uAuthor">
+						"A Short History of England" by <span>G. K. Chesterton</span>					</div>
+										<div class="usage">
+						He also thwarted the ambition of Florentine trade by purchasing the tower of Imola from Milan.
+					</div>
+					<div class="uAuthor">
+						"Heroes of Modern Europe" by <span>Alice Birkhead</span>					</div>
+										<div class="usage">
+						Hereward had an ambition to join an Indian regiment.
+					</div>
+					<div class="uAuthor">
+						"Etheldreda the Ready" by <span>Mrs. George de Horne Vaizey</span>					</div>
+										<div class="usage">
+						He used also to note with amusement how indelible a mark certain early ambitions and tentative studies had made upon him.
+					</div>
+					<div class="uAuthor">
+						"The Bibliotaph" by <span>Leon H. Vincent</span>					</div>
+										<div class="usage">
+						Whence came that all-absorbing ambition to be somebody in the world; to serve his country with no selfish ambition?
+					</div>
+					<div class="uAuthor">
+						"Pushing to the Front" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						The end of his ambition is a locked compartment to himself.
+					</div>
+					<div class="uAuthor">
+						"American Sketches" by <span>Charles Whibley</span>					</div>
+										<div class="usage">
+						All of these successes were to Wallenstein mere preliminary steps to an even more boundless ambition.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Volume 11" by <span>Various</span>					</div>
+										<div class="usage">
+						For all his little palpitating ambition, Nicky shrank.
+					</div>
+					<div class="uAuthor">
+						"The Creators" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						I was careless of that child, careful only of my ambition.
+					</div>
+					<div class="uAuthor">
+						"Tongues of Conscience" by <span>Robert Smythe Hichens</span>					</div>
+										<div class="usage">
+						He had a high, but at the same time a vague ambition.
+					</div>
+					<div class="uAuthor">
+						"The Bertrams" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Circumstances made journalism highly convenient, but his literary ambition was always to be auxiliary to his legal ambition.
+					</div>
+					<div class="uAuthor">
+						"The Life of Sir James Fitzjames Stephen, Bart., K.C.S.I." by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						Amid these scenes of ambition and warfare he fell away for a time from his holiest aspirations.
+					</div>
+					<div class="uAuthor">
+						"Great Men and Famous Women, Vol. 7 of 8"					</div>
+										<div class="usage">
+						For she loved her mistress, and could not comprehend the things she did under ambition's sway.
+					</div>
+					<div class="uAuthor">
+						"The Martian Cabal" by <span>Roman Frederick Starzl</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Ambition views the deed,<br>
+Nor sickens at the sight;<br>
+'Tis rather deem'd a grateful meed,<br>
+In which she takes delight.
+							<div class="poet">"Enigma XXVIII." by <span>Elizabeth Hitchener</span></div>
+						</div>
+											<div class="poemQuote">
+							Ambition for thy son restrain,<br>
+Thy will to God's will bow:<br>
+Thy son he shall be yet again.<br>
+And twice his mother thou.
+							<div class="poet">"The Mother Mary" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							Near a town, now Ajazzo call'd,<br>
+On vast Cilicia's plain,<br>
+Ambition once stood unappall'd,<br>
+Amongst her thousands slain.
+							<div class="poet">"Enigma XXVI." by <span>Elizabeth Hitchener</span></div>
+						</div>
+											<div class="poemQuote">
+							Fools of the bread and circus,<br>
+fools who have frittered away<br>
+our youth and our fire and ambition<br>
+in aping empty play.
+							<div class="poet">"Nation Of The Blind" by <span>Ian Mudie</span></div>
+						</div>
+											<div class="poemQuote">
+							The heroine of nature, she<br>
+No vain ambition knew,<br>
+Her bairns and goats she nurs'd with glee,<br>
+To love and labour true.
+							<div class="poet">"The Eagle" by <span>William Hayley</span></div>
+						</div>
+											<div class="poemQuote">
+							Ambition faints from out the will;<br>
+Asleep sad longing lies;<br>
+All hope of good, all fear of ill,<br>
+All need of action dies;
+							<div class="poet">"A Hidden Life" by <span>George MacDonald</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						When we don't have the time or ambition to whip up a meal at home we head out and let somebody else do the cooking for us.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wgna.com/where-do-you-like-to-eat-out-for-dinner-poll/" target="_blank" rel="external nofollow">wgna.com</a>
+					</div>
+										<div class="usage">
+						Ear-worm catchiness, rumbling polyrhythms, sparkling keyboards, tight harmonies and starry-eyed ambitions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ocweekly.com/2012-11-15/music/locals-only-max-and-the-moon-john-vasquez-matt-couchois/" target="_blank" rel="external nofollow">ocweekly.com</a>
+					</div>
+										<div class="usage">
+						Ambit Biosciences gets $25mm in first tranche of Series E financing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thepinksheet.com/deals/201230517" target="_blank" rel="external nofollow">thepinksheet.com</a>
+					</div>
+										<div class="usage">
+						Or with more varied ambitions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://observer.com/2001/02/twyla-tharp-back-yet-again-with-new-company-new-home/" target="_blank" rel="external nofollow">observer.com</a>
+					</div>
+										<div class="usage">
+						Fisker's Unbridled Ambitions Extending to an SUV, Boats.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wired.com/autopia/2012/10/fisker-suv-boats/" target="_blank" rel="external nofollow">wired.com</a>
+					</div>
+										<div class="usage">
+						Henrik Fisker's ambitions officially are approaching delusional.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wired.com/autopia/2012/10/fisker-suv-boats/" target="_blank" rel="external nofollow">wired.com</a>
+					</div>
+										<div class="usage">
+						One branch of local opinion held, despite a spate of positive reviews, that the book wasn't good enough, that it was too histrionic and burdened by its Joycean ambitions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.laweekly.com/2002-10-24/film-tv/the-uncertainty-principle/" target="_blank" rel="external nofollow">laweekly.com</a>
+					</div>
+										<div class="usage">
+						That might have been a statement of her ambition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.miaminewtimes.com/2012-09-06/news/luke-s-gospel-condoleezza-rice-is-an-uncle-tom/" target="_blank" rel="external nofollow">miaminewtimes.com</a>
+					</div>
+										<div class="usage">
+						As a Portland-based rock band with a growing fan base and national ambitions, the Slants figured it wouldn't hurt to take care of some business interests.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/music/index.ssf/2011/03/portland_band_the_slants_and_t.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						A recent appearance by LINES at the Joyce Theater in New York suggests a clear and far more expansive ambition: King is redirecting ballet away from its centuries-old European orientation and establishing it on a new axis.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnr.com/article/magazine/105707/homans-alonzo-king-ballet-mediterranean?page=0%2C1" target="_blank" rel="external nofollow">tnr.com</a>
+					</div>
+										<div class="usage">
+						The political process is to call for the protection of navigation rights in disputed eastern Asian waters, amid growing US concern over China's ambitions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.taipeitimes.com/News/taiwan/archives/2012/08/18/2003540583" target="_blank" rel="external nofollow">taipeitimes.com</a>
+					</div>
+										<div class="usage">
+						Designed for the buyer who had ambitions of moving materials at a frequent rate, most of these cars left the assembly lines with Naugahyde-like vinyl upholstery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hemmings.com/hcc/stories/2010/01/01/hmn_buyers_guide1.html" target="_blank" rel="external nofollow">hemmings.com</a>
+					</div>
+										<div class="usage">
+						 Ambition only goes so fast.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.peninsulaclarion.com/stories/022002/oly_022002oly5020001.shtml" target="_blank" rel="external nofollow">peninsulaclarion.com</a>
+					</div>
+										<div class="usage">
+						 Ambition will make a sled go only so fast.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.peninsulaclarion.com/stories/022002/oly_022002oly5020001.shtml" target="_blank" rel="external nofollow">peninsulaclarion.com</a>
+					</div>
+										<div class="usage">
+						Businesses and NGOs call for carbon ambition at Doha.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.icis.com/heren/articles/2012/11/19/9615679/emissions/edcm/businesses-and-ngos-call-for-carbon-ambition-at-doha.html" target="_blank" rel="external nofollow">icis.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						For the sake of completeness we also describe the universal (Bohr) compactiﬁcation and universal G-ambit in model-theoretic terms, when G is a topological group (although it is essentially well-known). 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						Let us note immediately that a compactiﬁcation of the topological group G is a special case of continuous action of G on a compact space X , where X has a distinguished point x0 with dense orbit under G (a so-called G-ambit.) Again there is a universal G-ambit. 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						For the more general case of G-ﬂows, the explication of the universal G-ambit via the Samuel compactiﬁcation of G (, ), with respect to the right uniformity on G, is basically equivalent to the model-theoretic account that we give below. 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						By a G-ambit (X, x0 , G) we mean a G-ﬂow (X, G) together with a point x0 ∈ X such that the orbit G · x0 is dense in X . 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						There is a universal G-ambit, sometimes called S (G), with distinguished point e say: for every G-ﬂow (X, G) and p ∈ X there is a unique map of G-ﬂows from S (G) to X which takes e to p. 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						The universal G-ambit is unique, by deﬁnition. 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						Then E is G-invariant, and G∗/E with the logic topology and distinguished point 1/E is the universal G-ambit. 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						The universal G-ambit S (G) has a canonical semigroup structure (which in the proof of Theorem 2.1 in is seen to follow directly from the universality property of S (G)). 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						Clearly it suﬃces for the universal G-ambit to have this property. 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						A deﬁnable G-ambit is a deﬁnable G-ﬂow (X, G) with a distinguished point x0 ∈ X such that the orbit G · x0 is dense in X . 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						Under our deﬁnability of types assumption, deﬁnable G-ambits will have this property. 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						There is a (unique) universal deﬁnable G-ambit, which is precisely the type space SG (M ), under the natural action of G, where the distinguished element of SG (M ) is the identity element 1 of G. 
+					</div>
+					<div class="uAuthor">
+						On compactifications and the topological dynamics of definable groups
+					</div>
+										<div class="usage">
+						The ambition of this Review is much more restricted. 
+					</div>
+					<div class="uAuthor">
+						What collisional debris can tell us about galaxies
+					</div>
+										<div class="usage">
+						Here we are again concerned with the rule-based approach, but at a higher ambition level than was the case with my previous work. 
+					</div>
+					<div class="uAuthor">
+						Three studies of grammar-based surface-syntactic parsing of unrestricted English text. A summary and orientation
+					</div>
+										<div class="usage">
+						Stromlo Workshop on High-Velocity Clouds exceeded even our own fairly lofty ambitions. 
+					</div>
+					<div class="uAuthor">
+						Stromlo Workshop on High-Velocity Clouds - Conference Highlights
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a strong drive for success"><a href="ambitiousness.html">ambitiousness</a>, </div><div class="synGroup" title="a cherished desire"><a href="aspiration.html">aspiration</a>, <a href="dream.html">dream</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="desire.html">desire</a>, <a href="drive.html">drive</a>, <a href="want.html">want</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="american%20dream.html">american dream</a>, <a href="aspiration.html">aspiration</a>, <a href="emulation.html">emulation</a>, <a href="nationalism.html">nationalism</a>, <a href="power%20hunger.html">power hunger</a>, <a href="status%20seeking.html">status seeking</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="ambitious.html">ambitious</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-ous.html">-ous</a>, <a href="aggressive.html">aggressive</a>, <a href="ambitionless.html">ambitionless</a>, <a href="ambitious.html">ambitious</a>, <a href="ambitiously.html">ambitiously</a>, <a href="ambitiousness.html">ambitiousness</a>, <a href="Ambitus.html">Ambitus</a>, <a href="Approbativeness.html">Approbativeness</a>, <a href="blue%20ribbon.html">blue ribbon</a>, <a href="Clip%20the%20wings.html">Clip the wings</a>, <a href="detached.html">detached</a>, <a href="determinedly.html">determinedly</a>, <a href="device.html">device</a>, <a href="Ecclesiastes.html">Ecclesiastes</a>, <a href="emulation.html">emulation</a>, <a href="envy.html">envy</a>, <a href="flight.html">flight</a>, <a href="fop.html">fop</a>, <a href="glory.html">glory</a>, <a href="highflier.html">highflier</a>, <a href="highflyer.html">highflyer</a>, <a href="highflying.html">highflying</a>, <a href="incompatible.html">incompatible</a>, <a href="laudable.html">laudable</a>, <a href="limit.html">limit</a>, <a href="lower.html">lower</a>, <a href="malapropism.html">malapropism</a>, <a href="manque.html">manque</a>, <a href="On%20a%20par.html">On a par</a>, <a href="ostentation.html">ostentation</a>, <a href="Passion.html">Passion</a>, <a href="Petalism.html">Petalism</a>, <a href="pique.html">pique</a>, <a href="provoke.html">provoke</a>, <a href="puff.html">puff</a>, <a href="pursuit.html">pursuit</a>, <a href="pushful.html">pushful</a>, <a href="pushy.html">pushy</a>, <a href="restless.html">restless</a>, <a href="ribbon.html">ribbon</a>, <a href="satisfactoriness.html">satisfactoriness</a>, <a href="sell.html">sell</a>, <a href="shiftless.html">shiftless</a>, <a href="shiftlessness.html">shiftlessness</a>, <a href="shoddy.html">shoddy</a>, <a href="slave.html">slave</a>, <a href="spirit.html">spirit</a>, <a href="successful.html">successful</a>, <a href="target.html">target</a>, <a href="Unambition.html">Unambition</a>, <a href="unambitious.html">unambitious</a>, <a href="unambitiously.html">unambitiously</a>, <a href="unbounded.html">unbounded</a>, <a href="victim.html">victim</a>, <a href="would-be.html">would-be</a>, <a href="zenith.html">zenith</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qmbition, wmbition, smbition, zmbition, anbition, ajbition, akbition, amvition, amgition, amhition, amnition, ambution, ambjtion, ambktion, ambotion, ambirion, ambifion, ambigion, ambiyion, ambituon, ambitjon, ambitkon, ambitoon, ambitiin, ambitikn, ambitiln, ambitipn, ambitiob, ambitioh, ambitioj, ambitiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

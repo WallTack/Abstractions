@@ -1,0 +1,546 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>clarity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">clarity</span> <span class="exp">the quality of clear water</span> <span class="quot">"when she awoke the clarity was back in her eyes"</span></li><li><span class="tSpeech">n</span> <span class="term">clarity</span> <span class="exp">free from obscurity and easy to understand; the comprehensibility of clear expression</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Clarity</span> <span class="exp">Clearness; brightness; splendor.</span> <span class="wuQuot">"Floods, in whose more than crystal clarity ,<br>
+Innumerable virgin graces row."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">clarity</span> <span class="exp">Clearness; brightness; splendor.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Clarity</span> <span class="exp"><span class="itl">klar′i-ti</span> clearness.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Osborne</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert Osborne">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“America once had the clarity of the pioneer ax.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Eighteen might look at thirty-four through a rising mist of adolescence; but twenty-two would see thirty-eight with discerning clarity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Rick Shuman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Rick Shuman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The biggest threat to our well-being is the absence of moral clarity and purpose.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Fredrich</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Fredrich">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Profundity of thought belongs to youth, clarity of thought to old age.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marquis De Vauvenargues</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marquis%20De%20Vauvenargues.jpg" alt="Marquis%20De%20Vauvenargues">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Clarity is the counterbalance of profound thoughts.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Zinsser</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William Zinsser">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Four basic premises of writing: clarity, brevity, simplicity, and humanity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">claritas</span>, fr. <span class="wUets">clarus</span>, clear: cf. F. <span class="wUets">clarté</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					M. E. <i>clarté</i>—L. <i>claritas</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He woke with a jolt, just as the sun was going down, and he knew then with perfect clarity what he had to do.
+					</div>
+					<div class="uAuthor">
+						"Bear Trap" by <span>Alan Edward Nourse</span>					</div>
+										<div class="usage">
+						There was more than clarity to this atmosphere.
+					</div>
+					<div class="uAuthor">
+						"Old Plymouth Trails" by <span>Winthrop Packard</span>					</div>
+										<div class="usage">
+						Only the very finest tissues yet clung to it, to show that it was the same garden that disclosed itself in this clarity and beauty.
+					</div>
+					<div class="uAuthor">
+						"A Journal of Impressions in Belgium" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						Absolute total clarity, almost without inflection as if the words reached the mind without needing a voice.
+					</div>
+					<div class="uAuthor">
+						"The Man Who Staked the Stars" by <span>Charles Dye</span>					</div>
+										<div class="usage">
+						The water deepened rapidly but lost none of its clarity.
+					</div>
+					<div class="uAuthor">
+						"The Wailing Octopus" by <span>Harold Leland Goodwin</span>					</div>
+										<div class="usage">
+						Then, in a moment of clarity, he saw it!
+					</div>
+					<div class="uAuthor">
+						"The Scarlet Lake Mystery" by <span>Harold Leland Goodwin</span>					</div>
+										<div class="usage">
+						The utter strangeness of it shocked Philon into rare clarity of insight.
+					</div>
+					<div class="uAuthor">
+						"The House from Nowhere" by <span>Arthur G. Stangland</span>					</div>
+										<div class="usage">
+						With clarity one sees that you have been misled.
+					</div>
+					<div class="uAuthor">
+						"Conquest Over Time" by <span>Michael Shaara</span>					</div>
+										<div class="usage">
+						When it was over she faced the truth with the unshrinking clarity of vision she could summon at will.
+					</div>
+					<div class="uAuthor">
+						"Ancestors" by <span>Gertrude Atherton</span>					</div>
+										<div class="usage">
+						Sky and sea sparkled in a diamond clarity, and below me on the beach patiently waited the dignitaries of my tribe in festal regalia.
+					</div>
+					<div class="uAuthor">
+						"The Portal of Dreams" by <span>Charles Neville Buck</span>					</div>
+										<div class="usage">
+						Her face had the clarity of a great and fixed resolve.
+					</div>
+					<div class="uAuthor">
+						"Rose MacLeod" by <span>Alice Brown</span>					</div>
+										<div class="usage">
+						He rode the elevator to the ground floor, and he felt his mind working with a clarity and a precision which he had seldom experienced before.
+					</div>
+					<div class="uAuthor">
+						"Wheels Within" by <span>Charles V. De Vet</span>					</div>
+										<div class="usage">
+						With crystal clarity he knew the answer!
+					</div>
+					<div class="uAuthor">
+						"Assassin" by <span>Jesse Franklin Bone</span>					</div>
+										<div class="usage">
+						Even the positions of clumps of grass and twigs were remembered with perfect clarity and in minute detail.
+					</div>
+					<div class="uAuthor">
+						"Insidekick" by <span>Jesse Franklin Bone</span>					</div>
+										<div class="usage">
+						Only Beauclaire saw the planet with any degree of clarity.
+					</div>
+					<div class="uAuthor">
+						"The Book" by <span>Michael Shaara</span>					</div>
+										<div class="usage">
+						Of all things touched with heavenly clarity, There's nothing can compare with sweet, sweet charity!
+					</div>
+					<div class="uAuthor">
+						"Harper's Round Table, September 10, 1895" by <span>Various</span>					</div>
+										<div class="usage">
+						Over all was an atmosphere of wonderful clarity.
+					</div>
+					<div class="uAuthor">
+						"The Frontier Boys in the Grand Canyon" by <span>Wyn Roosevelt</span>					</div>
+										<div class="usage">
+						Within ten minutes her mind was working with lightning speed and clarity.
+					</div>
+					<div class="uAuthor">
+						"Shadows of Flames" by <span>Amelie Rives</span>					</div>
+										<div class="usage">
+						Others stand out with startling clarity.
+					</div>
+					<div class="uAuthor">
+						"The Black Watch" by <span>Scout Joe Cassells</span>					</div>
+										<div class="usage">
+						The night should bring that uncertainty into clarity if possible.
+					</div>
+					<div class="uAuthor">
+						"The Riddle of the Spinning Wheel" by <span>Mary E. Hanshew</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Thy head will I cover over<br>
+With my waves' clarity<br>
+Till thou forget thy sorrow,<br>
+wounded sorrowfully.
+							<div class="poet">"Translations And Adaptations From Heine" by <span>Ezra Pound</span></div>
+						</div>
+											<div class="poemQuote">
+							And now I do not want to see<br>
+With clarity of view;<br>
+For while there's heaven hell may be<br>
+More tragically true:<br>
+Though dim may be Reality,<br>
+Sheer love shines through.
+							<div class="poet">"Visibility" by <span>Robert W Service</span></div>
+						</div>
+											<div class="poemQuote">
+							Marie, Incarnate Virtue, Soule and Skin<br>
+Both pure, whom Death not Life convincd of Sin,<br>
+Had Daughters like seven Pleiades; but She<br>
+Was a prime Star of greatest Claritie.<br>
+
+							<div class="poet">"On His Lady Marie" by <span>William Strode</span></div>
+						</div>
+											<div class="poemQuote">
+							But residues of meaning still remain,<br>
+As darkest myths meander through the pain<br>
+Towards a final formula of light.<br>
+I, too, reject this clarity of sight.<br>
+What cannot be explained, do not explain.
+							<div class="poet">"Philosophy" by <span>Nissim Ezekiel</span></div>
+						</div>
+											<div class="poemQuote">
+							When autumn rises<br>
+The grove is a sight of sober clarity.<br>
+Along the red walls we loiter at ease<br>
+And the round eyes follow the flight of birds.<br>
+In the evening pale water gathers in the dregs of burial urns.
+							<div class="poet">"Helian" by <span>Georg Trakl</span></div>
+						</div>
+											<div class="poemQuote">
+							Of shining clarity and jewel-sharp form and the beauty of God.<br>
+He was free with men before the Greeks came:<br>
+He is here naked on the shining water. Every eye that has a<br>
+man's nerves behind it has known him.
+							<div class="poet">"Hellenistics" by <span>Robinson Jeffers</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In a memo and TV interview, he promises to provide "the clarity and leadership" needed and says the BBC Trust must answerall questions about a big exit package for his predecessor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/news/bbc-acting-director-general-tim-davie-vows-to-get-grip-389263" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						RBS Seeks Official Clarity on Iran Business Dealings .
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10000872396390444812704577605081190727356.html?mod=WSJ_hps_LEFTTopStories" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						I applaud Gasparilla Gazette Editor Terry O'Connor's attempt to provide a semblance of clarity to the ongoing GIBA mismanagement controversy, comments of which are still so.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gasparillagazette.com/page/content.comment/id/516791/Still-disturbed-by--GIBA-bid-maneuvers.html?nav=5049" target="_blank" rel="external nofollow">gasparillagazette.com</a>
+					</div>
+										<div class="usage">
+						Under siege from sediment and algae, a new draft federal study of watersheds and streams in the Lake Tahoe Basin is offering a glimmer of hope for the lake's clarity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kolotv.com/home/headlines/406262.html" target="_blank" rel="external nofollow">kolotv.com</a>
+					</div>
+										<div class="usage">
+						We reserve the right to edit all letters for clarity, fairness and libel.
+					</div>
+					<div class="uAuthor">
+						<a href="http://poconorecord.com/apps/pbcs.dll/section?category=NEWS0401" target="_blank" rel="external nofollow">poconorecord.com</a>
+					</div>
+										<div class="usage">
+						Side scan is the ideal tool for these operations because it produces detailed images of the underwater environment regardless of water clarity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marinelink.com/news/public-safety-employ345255.aspx" target="_blank" rel="external nofollow">marinelink.com</a>
+					</div>
+										<div class="usage">
+						Regardless of how you feel about who "won" or "lost" the three presidential election debates, one thing came through with extraordinary clarity: President Barack Obama is determined to foist.
+					</div>
+					<div class="uAuthor">
+						<a href="http://post-journal.com/page/content.comment/id/612219/Romney-Takes-An-Energetic-Lead.html?nav=5010" target="_blank" rel="external nofollow">post-journal.com</a>
+					</div>
+										<div class="usage">
+						 Engagement Ring Diamond Clarity Guide.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ktvotv3.com/directory/article.aspx?list=~%5Cdirectory%5Clists%5Cadvertorials&amp;id=547823" target="_blank" rel="external nofollow">ktvotv3.com</a>
+					</div>
+										<div class="usage">
+						The fight for clarity in language: a case study.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cjr.org/essay/surge_meet_escalation.php" target="_blank" rel="external nofollow">cjr.org</a>
+					</div>
+										<div class="usage">
+						However, I have chosen to make the following statement in order to express with absolute clarity that Commissioner Romero has never asked or suggested that I should ask my managers or employees to support her campaign.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.thenewstribune.com/politics/2012/09/24/thurston-assessor-drew-puts-out-statement-saying-he-erred-in-expressing-support-for-candidate-during-office-meeting/" target="_blank" rel="external nofollow">blog.thenewstribune.com</a>
+					</div>
+										<div class="usage">
+						B efore the holiday season gets too sugary, one concert stands out for a program of champagne clarity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.durangoherald.com/article/20121129/ARTS03/121129548/0/Arts02/Recital-is-welcome-respite-from-holiday-fare" target="_blank" rel="external nofollow">durangoherald.com</a>
+					</div>
+										<div class="usage">
+						Lee Lefever teaches his audience-friendly 3Ps (plan, package, present) to improve clarity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/business/headlines/20121110-business-book-reviews-the-art-of-explanation-and-fearless-at-work.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						Confusion over the city's permitting process was mentioned during a business summit earlier this year, and next month a workshop is planned to add clarity and get feedback .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicoer.com/news/ci_22058392/chico-contractors-invited-discussion-feedback-city-process" target="_blank" rel="external nofollow">chicoer.com</a>
+					</div>
+										<div class="usage">
+						A Debate With Clarity and Fervor .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/10/12/opinion/a-debate-with-clarity-and-fervor.html?ref=presidentialdebates" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Week 14 brought us two things in the NFC North: Snow and a bit of clarity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/nfcnorth/post/_/id/50503/bbao-figuring-out-the-nfc-north" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The 1σ uncertainties in each color are shown in only two directions for clarity. 
+					</div>
+					<div class="uAuthor">
+						QSOs and Absorption Line Systems Surrounding the Hubble Deep Field
+					</div>
+										<div class="usage">
+						The O-C plot for the mid-white dwarf egress ephemeris from the high-speed photometry timings of Wood et al. 1989 (circles), Wolf et al. 1993 (crosses) and the spectroscopic points from M89 and this paper (ﬁlled triangles, also marked with M and B for clarity). 
+					</div>
+					<div class="uAuthor">
+						A TiO study of the dwarf nova IP Pegasi
+					</div>
+										<div class="usage">
+						We prefer to follow the general scheme because of its conceptual clarity. 
+					</div>
+					<div class="uAuthor">
+						Spectra of Random Contractions and Scattering Theory for Discrete-Time Systems
+					</div>
+										<div class="usage">
+						For clarity, we work explicitly with discrete lengths, with lF and lR even, and li odd integers; this is clearly preserved under the RG. 
+					</div>
+					<div class="uAuthor">
+						Dynamics and transport in random quantum systems governed by strong-randomness fixed points
+					</div>
+										<div class="usage">
+						Some of the discussion has already appeared in earlier sections, but we repeat it here for clarity. 
+					</div>
+					<div class="uAuthor">
+						Open Branes in Space-Time Non-Commutative Little String Theory
+					</div>
+										<div class="usage">
+						For clarity we consider ﬁrst the case where all residues are equal, rj = v . 
+					</div>
+					<div class="uAuthor">
+						Singular statistics
+					</div>
+										<div class="usage">
+						For clarity an arbitrary phase offset has been added to some of the segments so they do not overlap. 
+					</div>
+					<div class="uAuthor">
+						Oscillations During Thermonuclear X-ray Bursts
+					</div>
+										<div class="usage">
+						The differences between bond and site contents in percolating clusters are shown in Figs. 3 and 4; here, for the clarity of presentation only, the results for 512 × 128 lattices are plotted in the ﬁgures. 
+					</div>
+					<div class="uAuthor">
+						Universal scaling functions for bond percolation on planar random and square lattices with multiple percolating clusters
+					</div>
+										<div class="usage">
+						We choose the convolution formulation for clarity of exposition, but the general case, based on the ﬁltered product of states, is done in an analogous fashion. 
+					</div>
+					<div class="uAuthor">
+						Filtered random variables, bialgebras and convolutions
+					</div>
+										<div class="usage">
+						This is the case we have fully under control and where many results can be obtained analytically, so that a maximum clarity is achieved and our approach is exposed the best. 
+					</div>
+					<div class="uAuthor">
+						Statistical ensemble of scale-free random graphs
+					</div>
+										<div class="usage">
+						The conciseness and clarity of the monograph give an indication of his mastery overy the sub ject. 
+					</div>
+					<div class="uAuthor">
+						Monte Carlo: Basics
+					</div>
+										<div class="usage">
+						For the sake of clarity, error bars are only displayed every 50000 iterations. 
+					</div>
+					<div class="uAuthor">
+						Quenched bond dilution in two-dimensional Potts models
+					</div>
+										<div class="usage">
+						We are using the notation from [ML], p.114, with additive notation used for clarity. 
+					</div>
+					<div class="uAuthor">
+						The nonabelian bar resolution
+					</div>
+										<div class="usage">
+						Note that Algorithm 4.8 is a special case of Algorithm 4.11, in the same manner that a partition is a special case of plane partition; we presented both for the sake of clarity. 
+					</div>
+					<div class="uAuthor">
+						An algorithm to generate exactly once every tiling with lozenges of a domain
+					</div>
+										<div class="usage">
+						Here we take a somewhat larger undersaturation, h = −10−5 , for greater clarity of presentation. 
+					</div>
+					<div class="uAuthor">
+						Cross-over between first-order and critical wetting at the liquid-vapour interface of n-alkane/methanol mixtures: tricritical wetting and critical prewetting
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the quality of clear water"><a href="uncloudedness.html">uncloudedness</a>, </div><div class="synGroup" title="free from obscurity and easy to understand; the comprehensibility of clear expression"><a href="lucidity.html">lucidity</a>, <a href="lucidness.html">lucidness</a>, <a href="pellucidity.html">pellucidity</a>, <a href="clearness.html">clearness</a>, <a href="limpidity.html">limpidity</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="obscurity.html">obscurity</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="comprehensibility.html">comprehensibility</a>, <a href="quality.html">quality</a>, <a href="understandability.html">understandability</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="clearcutness.html">clearcutness</a>, <a href="distinctness.html">distinctness</a>, <a href="explicitness.html">explicitness</a>, <a href="focus.html">focus</a>, <a href="monosemy.html">monosemy</a>, <a href="perspicuity.html">perspicuity</a>, <a href="perspicuousness.html">perspicuousness</a>, <a href="plainness.html">plainness</a>, <a href="preciseness.html">preciseness</a>, <a href="semitransparency.html">semitransparency</a>, <a href="sharpness.html">sharpness</a>, <a href="translucence.html">translucence</a>, <a href="translucency.html">translucency</a>, <a href="transparence.html">transparence</a>, <a href="transparency.html">transparency</a>, <a href="transparentness.html">transparentness</a>, <a href="unambiguity.html">unambiguity</a>, <a href="unequivocalness.html">unequivocalness</a>, <a href="visibility.html">visibility</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="clear.html">clear</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="antianxiety%20agent.html">antianxiety agent</a>, <a href="ataractic.html">ataractic</a>, <a href="ataractic%20agent.html">ataractic agent</a>, <a href="ataractic%20drug.html">ataractic drug</a>, <a href="clearcutness.html">clearcutness</a>, <a href="clearness.html">clearness</a>, <a href="confused.html">confused</a>, <a href="confusing.html">confusing</a>, <a href="crystal%20clear.html">crystal clear</a>, <a href="crystalline.html">crystalline</a>, <a href="daze.html">daze</a>, <a href="definition.html">definition</a>, <a href="digress.html">digress</a>, <a href="dim.html">dim</a>, <a href="divagate.html">divagate</a>, <a href="Eileen%20Farrell.html">Eileen Farrell</a>, <a href="explicitness.html">explicitness</a>, <a href="faint.html">faint</a>, <a href="Farrell.html">Farrell</a>, <a href="focus.html">focus</a>, <a href="fog.html">fog</a>, <a href="haze.html">haze</a>, <a href="incoherence.html">incoherence</a>, <a href="incoherency.html">incoherency</a>, <a href="limpid.html">limpid</a>, <a href="lucid.html">lucid</a>, <a href="pellucid.html">pellucid</a>, <a href="perplexing.html">perplexing</a>, <a href="perspicuity.html">perspicuity</a>, <a href="perspicuousness.html">perspicuousness</a>, <a href="plainness.html">plainness</a>, <a href="preciseness.html">preciseness</a>, <a href="puzzling.html">puzzling</a>, <a href="shadowy.html">shadowy</a>, <a href="stray.html">stray</a>, <a href="tranquilizer.html">tranquilizer</a>, <a href="tranquilliser.html">tranquilliser</a>, <a href="tranquillizer.html">tranquillizer</a>, <a href="transparent.html">transparent</a>, <a href="unambiguity.html">unambiguity</a>, <a href="unequivocalness.html">unequivocalness</a>, <a href="vague.html">vague</a>, <a href="vivid.html">vivid</a>, <a href="wander.html">wander</a>, <a href="weak.html">weak</a>, <a href="wispy.html">wispy</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xlarity, dlarity, flarity, vlarity, ckarity, coarity, cparity, clqrity, clwrity, clsrity, clzrity, claeity, cladity, clafity, clatity, claruty, clarjty, clarkty, claroty, clariry, clarify, clarigy, clariyy, claritt, claritg, clarith, claritu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

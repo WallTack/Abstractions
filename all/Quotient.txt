@@ -1,0 +1,408 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>quotient</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">quotient</span> <span class="exp">the number obtained by division</span> </li><li><span class="tSpeech">n</span> <span class="term">quotient</span> <span class="exp">the ratio of two quantities to be divided</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Quotient</span> <span class="exp"><span class="wuFld">(Arith)</span> The number resulting from the division of one number by another, and showing how often a less number is contained in a greater; thus, the <span class="wUex">quotient</span> of twelve divided by four is three.</span> </li><li><span class="term">Quotient</span> <span class="exp"><span class="wuFld">(Higher Alg)</span> The result of any process inverse to multiplication. See the Note under <span class="wUer">Multiplication</span>.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">quotient</span> <span class="exp">In mathematics, the result of the process of division; the number of times one quantity or number is contained in another. See division, 2.</span> </li><li><span class="tSpeech">n</span> <span class="term">quotient</span> <span class="exp">In geometry, if b and c are any two sects, there is always one and only one sect a such that c = ab: this sect a is designated by the notation , and is called the quotient of c by b.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Quotient</span> <span class="exp"><span class="itl">kwō′shent</span> (<span class="itl">math.</span>) the number which shows how often one number is contained in another</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eugene S. Wilson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Eugene S. Wilson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Only the curious will learn and only the resolute overcome the obstacles to learning. The quest quotient has always excited me more than the intelligence quotient.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F., fr. L. <span class="wUets">quoties</span>, how often, how many times, fr. <span class="wUets">quot</span>, how many. See <span class="wUer">Quota</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>quotiens</i>, <i>quoties</i>, how often?—<i>quot</i>, how many?
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						High idealistic quotient; self sacrifice.
+					</div>
+					<div class="uAuthor">
+						"Breaking Point" by <span>James E. Gunn</span>					</div>
+										<div class="usage">
+						Take the quotient of the given year divided by 4, neglecting the remainder.
+					</div>
+					<div class="uAuthor">
+						"A Budget of Paradoxes, Volume I (of II)" by <span>Augustus De Morgan</span>					</div>
+										<div class="usage">
+						The quotient multiplied by 100 will give the per cent of shrinkage.
+					</div>
+					<div class="uAuthor">
+						"Textiles" by <span>William H. Dooley</span>					</div>
+										<div class="usage">
+						Chuckling, Alan followed and found his seat at the bench assigned to Crewmen of his status quotient.
+					</div>
+					<div class="uAuthor">
+						"Starman's Quest" by <span>Robert Silverberg</span>					</div>
+										<div class="usage">
+						Divide the sum by 2 and call the quotient Half Sum.
+					</div>
+					<div class="uAuthor">
+						"Lectures in Navigation" by <span>Ernest Gallaudet Draper</span>					</div>
+										<div class="usage">
+						The quotient represents miles!
+					</div>
+					<div class="uAuthor">
+						"Pleasures of the telescope" by <span>Garrett Serviss</span>					</div>
+										<div class="usage">
+						Upon completion of the division, the quotient is in the In-Out Register.
+					</div>
+					<div class="uAuthor">
+						"Preliminary Specifications: Programmed Data Processor Model Three (PDP-3)" by <span>Digital Equipment Corporation</span>					</div>
+										<div class="usage">
+						Pretty big emotional quotient here, you know.
+					</div>
+					<div class="uAuthor">
+						"The Right Time" by <span>Walter Bupp</span>					</div>
+										<div class="usage">
+						There is only one non-recurring partial quotient a1.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 7, Slice 2" by <span>Various</span>					</div>
+										<div class="usage">
+						When divided by that temperature the quotient gives the increase of entropy.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 8, Slice 4" by <span>Various</span>					</div>
+										<div class="usage">
+						The quotient is the racing length.
+					</div>
+					<div class="uAuthor">
+						"Harper's Round Table, September 3, 1895" by <span>Various</span>					</div>
+										<div class="usage">
+						The advantage of the Austrian arrangement of the quotient lies in the indication it gives of the true value of each partial quotient.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 2, Slice 5" by <span>Various</span>					</div>
+										<div class="usage">
+						Multiply all dimensions by this quotient.
+					</div>
+					<div class="uAuthor">
+						"Handicraft for Girls" by <span>Idabelle McGlauflin</span>					</div>
+										<div class="usage">
+						My irritation quotient is very high.
+					</div>
+					<div class="uAuthor">
+						"Sense of Obligation" by <span>Henry Maxwell Dempsey (AKA Harry Harrison)</span>					</div>
+										<div class="usage">
+						The quotient heat / temperature is taken for each small quantity of heat, and the results are added together.
+					</div>
+					<div class="uAuthor">
+						"The New Gresham Encyclopedia" by <span>Various</span>					</div>
+										<div class="usage">
+						Divide the number of the given year by 4, neglecting the remainders, and add the quotient to the given number.
+					</div>
+					<div class="uAuthor">
+						"Our Calendar" by <span>George Nichols Packer</span>					</div>
+										<div class="usage">
+						The quotient will be the decimals to add to the degree opposite the next less tension.
+					</div>
+					<div class="uAuthor">
+						"A Treatise on Meteorological Instruments" by <span>Henry Negretti</span>					</div>
+										<div class="usage">
+						We write the 4 hundreds in the quotient.
+					</div>
+					<div class="uAuthor">
+						"The Psychology of Arithmetic" by <span>Edward L. Thorndike</span>					</div>
+										<div class="usage">
+						The quotient will give the amount of the unity of expense.
+					</div>
+					<div class="uAuthor">
+						"Copyright: Its History and Its Law" by <span>Richard Rogers Bowker</span>					</div>
+										<div class="usage">
+						Counting the cubes of each file we have the quotient.
+					</div>
+					<div class="uAuthor">
+						"The Montessori Method" by <span>Maria Montessori</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						CPAC Organizers Try to Turn Up Hip Quotient With Video Games, Rap.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/politics/2010/02/16/cpac-organizers-try-turn-hip-quotient-video-games-rap/" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Determine emotional quotient (EQ) skills in the interview.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.housingzone.com/homebuilders-determine-emotional-quotient-eq-skills-interview" target="_blank" rel="external nofollow">housingzone.com</a>
+					</div>
+										<div class="usage">
+						What's Your Innovation Quotient .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.inc.com/magazine/20020901/24545.html" target="_blank" rel="external nofollow">inc.com</a>
+					</div>
+										<div class="usage">
+						Administratirve Ethics: What's Your Integrity Quotient (IQ).
+					</div>
+					<div class="uAuthor">
+						<a href="http://nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/TableofContents/Vol31998/No3Dec1998/IntegrityQuotientOverview.html" target="_blank" rel="external nofollow">nursingworld.org</a>
+					</div>
+										<div class="usage">
+						Assembling Pieces With a Surprise Quotient .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1998/03/15/nyregion/art-review-assembling-pieces-with-a-surprise-quotient.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						How I ran into Will Ferrell and boosted my cool quotient with my kids.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/living/article/1241110--how-i-ran-into-will-ferrell-and-boosted-my-cool-quotient-with-my-kids" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						Knowing your emotional eating quotient can help you lose weight.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sltrib.com/sltrib/money/55276770-79/eating-emotional-exline-nice.html.csp" target="_blank" rel="external nofollow">sltrib.com</a>
+					</div>
+										<div class="usage">
+						How about first assessing your common courtesy quotient.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.blackenterprise.com/mag/no-team-spirit/" target="_blank" rel="external nofollow">blackenterprise.com</a>
+					</div>
+										<div class="usage">
+						Of course, the election is not really about race, religion or about a random celebrity or publicity quotient.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.louisianaweekly.com/a-salute-to-general-colin-powell/" target="_blank" rel="external nofollow">louisianaweekly.com</a>
+					</div>
+										<div class="usage">
+						The quirk quotient is dangerously high in Melissa James Gibson's "What Rhymes With America," a rather sketchy collection of scenes in search of a play.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.backstage.com/review/ny-theater/off-broadway/what-rhymes-with-america-atlantic-theater-company-melissa-james-gibson/" target="_blank" rel="external nofollow">backstage.com</a>
+					</div>
+										<div class="usage">
+						The site explains that SocialIQ, or influence quotient, is based on a variety of measures.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.schoollibraryjournal.com/neverendingsearch/2012/12/09/web-cred/" target="_blank" rel="external nofollow">blog.schoollibraryjournal.com</a>
+					</div>
+										<div class="usage">
+						"Probably the highest compliment I can pay is that his geek quotient is very high.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2012/06/14/tech/web/white-house-tech-officer/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Energetic drawings keep the silliness quotient high.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hbook.com/2012/08/using-books/artist-memoirs-and-biographies/" target="_blank" rel="external nofollow">hbook.com</a>
+					</div>
+										<div class="usage">
+						If a bit of blue language turns you off, be aware that a hell and damn quotient (and more) is in full effect.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nj1015.com/rick-springfields-memoirs-photos-videos/" target="_blank" rel="external nofollow">nj1015.com</a>
+					</div>
+										<div class="usage">
+						What makes any quarterback great in a pro-style offense like the one Stanford runs -- was his nerd quotient.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/ncfnation/post/_/id/63956/3-point-stance-a-higher-nerd-quotient" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The isomorphism type of this quotient abelian variety is naturally given by a point in a ball quotient. 
+					</div>
+					<div class="uAuthor">
+						Compactifications defined by arrangements I: the ball quotient case
+					</div>
+										<div class="usage">
+						The quotient is an ordinary mapping cylinder neighborhood of the quotient subset. 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						Hence the simple quotient is unique and so the quotient map is an isomorphism. 
+					</div>
+					<div class="uAuthor">
+						On simple and semisimple quantales
+					</div>
+										<div class="usage">
+						Uniqueness of simple quotient We give a suﬃcient condition for an induced module ¨M (λ, µ) to have a unique simple quotient module. 
+					</div>
+					<div class="uAuthor">
+						Classification of simple modules over degenerate double Affine Hecke algebras of type A
+					</div>
+										<div class="usage">
+						Thus, if the G–action is free and proper, a relative equilibrium deﬁnes an equilibrium of the induced vector ﬁeld on the quotient space and conversely, any element in the ﬁber over an equilibrium in the quotient space is a relative equilibrium of the original system. 
+					</div>
+					<div class="uAuthor">
+						Symmetry breaking for toral actions in simple mechanical systems
+					</div>
+										<div class="usage">
+						Deﬁnition 4.3 An elementary quotient map is a quotient map N → M such that r(N ) − r(M ) = 0 or 1. 
+					</div>
+					<div class="uAuthor">
+						Semimatroids and their Tutte polynomials
+					</div>
+										<div class="usage">
+						Also, every quotient map can be factored into a sequence of elementary quotient maps. 
+					</div>
+					<div class="uAuthor">
+						Semimatroids and their Tutte polynomials
+					</div>
+										<div class="usage">
+						But E certainly has a µ-semistable torsion free quotient E ′′ with µ(E ′′ ) ≤ µ, e. g. the last quotient from the µ-Harder-Narasimhan ﬁltration of E . 
+					</div>
+					<div class="uAuthor">
+						Moduli schemes of generically simple Azumaya modules
+					</div>
+										<div class="usage">
+						One key issue in this approach is to ﬁnd the structure of the quotient space and the reduced control tra jectory on this quotient space. 
+					</div>
+					<div class="uAuthor">
+						Generation of quantum logic operations from physical Hamiltonians
+					</div>
+										<div class="usage">
+						Therefore if some quotients of B1 are isomorphic, then so are the respective quotients of Bd (F ) which is impossible, by Theorem 4. 
+					</div>
+					<div class="uAuthor">
+						Isospectral Cayley graphs of some finite simple groups
+					</div>
+										<div class="usage">
+						Lubotzky has shown [Lub2] that such quotients have measure zero among all quotients of p1 (M ), but his proof provides little insight into what those other quotients might be. 
+					</div>
+					<div class="uAuthor">
+						Finite covers of random 3-manifolds
+					</div>
+										<div class="usage">
+						Since the quotient of ei by H is the restriction of pG/H to Ui , we deduce that the quotient of e by H is the restriction of pG/H to U . 
+					</div>
+					<div class="uAuthor">
+						Connective structure for principal gerbes
+					</div>
+										<div class="usage">
+						For Pisot graphs that are trees (Pisot trees), and furthermore have all white vertices pendant, we can deﬁne their quotients by direct extension of the quotient of an ordinary tree (that is, one without white vertices, as in Section 7). 
+					</div>
+					<div class="uAuthor">
+						Salem numbers, Pisot numbers, Mahler measure and graphs
+					</div>
+										<div class="usage">
+						Thus, following [MRS, p. 315], we can take the quotient of a white vertex ◦ to be 1/z , and then calculate the quotient of these trees in the same way as for ordinary trees. 
+					</div>
+					<div class="uAuthor">
+						Salem numbers, Pisot numbers, Mahler measure and graphs
+					</div>
+										<div class="usage">
+						Since the restriction to Ui of the quotient ﬁber by ﬁber of e by π is the quotient ﬁber by ﬁber of ei by π , we deduce that e is an element of CH (U ). 
+					</div>
+					<div class="uAuthor">
+						Gerbes, 2-gerbes and symplectic fibrations
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="number.html">number</a>, <a href="ratio.html">ratio</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="proportion.html">proportion</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="billionth.html">billionth</a>, <a href="coefficient%20of%20elasticity.html">coefficient of elasticity</a>, <a href="common%20fraction.html">common fraction</a>, <a href="Decillionth.html">Decillionth</a>, <a href="divide.html">divide</a>, <a href="dividend.html">dividend</a>, <a href="Dividual.html">Dividual</a>, <a href="division.html">division</a>, <a href="divisor.html">divisor</a>, <a href="eighteenth.html">eighteenth</a>, <a href="eighth.html">eighth</a>, <a href="eightieth.html">eightieth</a>, <a href="eleventh.html">eleventh</a>, <a href="Exponent%20of%20a%20ratio.html">Exponent of a ratio</a>, <a href="fifteenth.html">fifteenth</a>, <a href="fifth.html">fifth</a>, <a href="fiftieth.html">fiftieth</a>, <a href="fortieth.html">fortieth</a>, <a href="fourteenth.html">fourteenth</a>, <a href="fourth.html">fourth</a>, <a href="fraction.html">fraction</a>, <a href="harmonic.html">harmonic</a>, <a href="hundredth.html">hundredth</a>, <a href="irrational.html">irrational</a>, <a href="logarithm.html">logarithm</a>, <a href="millionth.html">millionth</a>, <a href="nineteenth.html">nineteenth</a>, <a href="ninetieth.html">ninetieth</a>, <a href="ninth.html">ninth</a>, <a href="notation.html">notation</a>, <a href="pi.html">pi</a>, <a href="proportion.html">proportion</a>, <a href="q.html">q</a>, <a href="quadrillionth.html">quadrillionth</a>, <a href="quaternion.html">quaternion</a>, <a href="quote.html">quote</a>, <a href="ratio.html">ratio</a>, <a href="rational.html">rational</a>, <a href="reciprocal.html">reciprocal</a>, <a href="seventeenth.html">seventeenth</a>, <a href="seventh.html">seventh</a>, <a href="seventieth.html">seventieth</a>, <a href="simple%20fraction.html">simple fraction</a>, <a href="sixteenth.html">sixteenth</a>, <a href="sixth.html">sixth</a>, <a href="sixtieth.html">sixtieth</a>, <a href="Specific%20volume.html">Specific volume</a>, <a href="Surface%20loading.html">Surface loading</a>, <a href="tenth.html">tenth</a>, <a href="third.html">third</a>, <a href="thirteenth.html">thirteenth</a>, <a href="thirtieth.html">thirtieth</a>, <a href="thousandth.html">thousandth</a>, <a href="trillionth.html">trillionth</a>, <a href="twelfth.html">twelfth</a>, <a href="twentieth.html">twentieth</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wuotient, auotient, suotient, qyotient, qhotient, qjotient, qiotient, quitient, quktient, qultient, quptient, quorient, quofient, quogient, quoyient, quotuent, quotjent, quotkent, quotoent, quotiwnt, quotisnt, quotidnt, quotirnt, quotiebt, quotieht, quotiejt, quotiemt, quotienr, quotienf, quotieng, quotieny
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

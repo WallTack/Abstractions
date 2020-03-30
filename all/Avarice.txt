@@ -1,0 +1,413 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>avarice</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">avarice</span> <span class="exp">reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)</span> </li><li><span class="tSpeech">n</span> <span class="term">avarice</span> <span class="exp">extreme greed for material wealth</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The Seven Deadly Sins are lust, pride, anger, envy, sloth, avarice and gluttony.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Avarice</span> <span class="exp">An excessive or inordinate desire of gain; greediness for wealth; covetousness; cupidity.</span> <span class="wuQuot">"To desire money for its own sake, and in order to hoard it up, is avarice ."</span></li><li><span class="term">Avarice</span> <span class="exp">An inordinate desire for some supposed good.</span> <span class="wuQuot">"All are taught an avarice of praise."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">avarice</span> <span class="exp">An inordinate desire of gaining and possessing wealth; covetousness; cupidity; greediness, or insatiable desire of gain.</span> </li><li><span class="tSpeech">n</span> <span class="term">avarice</span> <span class="exp">Synonyms Avarice, Covetousness, Cupidity, penuriousness, closeness, miserliness, all denote bad qualities, corruptions of the natural instinct of possession. Avarice, literally greediness, a strong desire to get objects of value, has become limited, except in figurative uses, so as to express only a sordid and mastering desire to get wealth. Covetousness and cupidity are not limited to wealth, but may have for their object anything that can be desired, cupidity being directed especially toward material things. Covetousness longs to possess that which belongs to another; hence the prohibition in the tenth commandment (Ex. xx. 17). Cupidity is more active than the others, less groveling, and more ready to snatch from others that which covetousness may wish for without trying to get. See penurious.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Avarice</span> <span class="exp"><span class="itl">av′ar-is</span> eager desire for wealth: covetousness</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We are a puny and fickle folk. Avarice, hesitation, and following are our diseases.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">French Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="French Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Gambling is the son of avarice and the father of despair.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Washington</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Washington.jpg" alt="George%20Washington">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is the child of avarice, the brother of iniquity, and the father of mischief.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Bancroft</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George Bancroft">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Avarice is the vice of declining years.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“So for a good old-gentlemanly vice, I think I must take up with avarice.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Caleb Colton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Caleb%20Colton.jpg" alt="Charles%20Caleb%20Colton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Avarice has ruined more souls than extravagance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">avaritia</span>, fr. <span class="wUets">avarus</span>, avaricious, prob. fr. <span class="wUets">avēre</span>, to covet, fr. a root <span class="wUets">av</span>, to satiate one's self: cf. Gr. <span class="wUgrk">'a`menai</span> <span class="wUgrk">'a^sai</span>, to satiate, Skr. <span class="wUets">av</span>, to satiate one's self, rejoice, protect
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.—L. <i>avaritia</i>—<i>avarus</i>, greedy—<i>avēre</i>, to pant after.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The martyrdom of two Dominican Friars on the coast of Venezuela, through the avarice of the Spaniards.
+					</div>
+					<div class="uAuthor">
+						"A General History and Collection of Voyages and Travels, Vol. III" by <span>Robert Kerr</span>					</div>
+										<div class="usage">
+						The Kshatriyas attain the celestial regions by protecting and chastising the subjects, uninfluenced by lust, malice, avarice and anger.
+					</div>
+					<div class="uAuthor">
+						"The Mahabharata of Krishna-Dwaipayana Vyasa Bk. 3 Pt. 2" by <span>Translated by Kisari Mohan Ganguli</span>					</div>
+										<div class="usage">
+						SEVEN DEADLY SINS, Pride, Wrath, Envy, Lust, Gluttony, Avarice, and Sloth.
+					</div>
+					<div class="uAuthor">
+						"The Nuttall Encyclopaedia" by <span>Edited by Rev. James Wood</span>					</div>
+										<div class="usage">
+						I had no power to command his services on the side of his avarice.
+					</div>
+					<div class="uAuthor">
+						"Miriam Monfort" by <span>Catherine A. Warfield</span>					</div>
+										<div class="usage">
+						Lieutenant Vanslyperken's character may be summed up in the three vices of avarice, cowardice, and cruelty.
+					</div>
+					<div class="uAuthor">
+						"Snarleyyow" by <span>Captain Frederick Marryat</span>					</div>
+										<div class="usage">
+						The avarice of Paul II.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books, Vol X" by <span>Various</span>					</div>
+										<div class="usage">
+						He declares, that in addition to his other failings, avarice is now established.
+					</div>
+					<div class="uAuthor">
+						"The Mirror of Literature, Amusement, and Instruction" by <span>Various</span>					</div>
+										<div class="usage">
+						The arts and agriculture flourished under his rule, but the avarice and profusion of Justinian oppressed the people.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books, Vol XI." by <span>Edited by Arthur Mee and J.A. Hammerton</span>					</div>
+										<div class="usage">
+						In the evening they arrived at a house built with equal elegance and simplicity, where nothing favored either of prodigality or avarice.
+					</div>
+					<div class="uAuthor">
+						"Library of the World's Best Mystery and Detective Stories" by <span>Edited by Julian Hawthorne</span>					</div>
+										<div class="usage">
+						You have, of course, found very copious specimens of the organs of hypocrisy, destruction, and avarice.
+					</div>
+					<div class="uAuthor">
+						"Headlong Hall" by <span>Thomas Love Peacock</span>					</div>
+										<div class="usage">
+						Harpagon is not a miser; he is Avarice speaking and doing.
+					</div>
+					<div class="uAuthor">
+						"Essays Æsthetical" by <span>George Calvert</span>					</div>
+										<div class="usage">
+						By rummaging over the commercial world you can collect the harshness, greed, avarice, selfishness and vanity from a thousand men.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great, Vol. 1 of 14" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						This, then, was her avarice, and the great wealth which she is said to have amassed.
+					</div>
+					<div class="uAuthor">
+						"Memoirs And Historical Chronicles Of The Courts Of Europe" by <span>Various</span>					</div>
+										<div class="usage">
+						Excitement prompted the hazards of the former, avarice the latter.
+					</div>
+					<div class="uAuthor">
+						"What I Saw in California" by <span>Edwin Bryant</span>					</div>
+										<div class="usage">
+						Finally, 'Maitre Cornelius' is a study of avarice, in which is set a remarkable portrait of Louis XI.
+					</div>
+					<div class="uAuthor">
+						"Library Of The World's Best Literature, Ancient And Modern, Vol 3" by <span>Various</span>					</div>
+										<div class="usage">
+						With the pride and avarice of prelacy he was totally unacquainted.
+					</div>
+					<div class="uAuthor">
+						"The Mirror of Literature, Amusement, and Instruction, No. 492" by <span>Various</span>					</div>
+										<div class="usage">
+						The persons are a Conjurer, the Devil, a Notary Public, Simony, and Avarice.
+					</div>
+					<div class="uAuthor">
+						"Shakespeare: His Life, Art, And Characters, Volume I." by <span>H. N. Hudson</span>					</div>
+										<div class="usage">
+						It is a natural result of this preference that avarice is a widespread failing of the Chinese.
+					</div>
+					<div class="uAuthor">
+						"The Problem of China" by <span>Bertrand Russell</span>					</div>
+										<div class="usage">
+						AGAINST AVARICE AND LUXURY.
+					</div>
+					<div class="uAuthor">
+						"The Works of Horace" by <span>Horace</span>					</div>
+										<div class="usage">
+						It was necessary to deliver over the natives to his avarice.
+					</div>
+					<div class="uAuthor">
+						"The Works of the Right Honourable Edmund Burke, Vol. X. (of 12)" by <span>Edmund Burke</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							When age comes on, he'll labour to divert<br>
+Thy thoughts from God, and penitence sincere,<br>
+And ev'ry purpose of thy soul pervert<br>
+To muck-worm avarice and worldly care.
+							<div class="poet">"Advice, To Guard Against The Temptations Of The Devil " by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							Ah, Rose, assume a gentle Avarice<br>
+And hoard the soft Allurements that entice;<br>
+For One will come who holds the Golden Means<br>
+To buy your Blushes at the Standard Price.
+							<div class="poet">"The Rubáiyát of Omar Khayyám Jr." by <span>Wallace Irwin</span></div>
+						</div>
+											<div class="poemQuote">
+							Those fields, profuse of raiment, food, and fire,<br>
+They scorn'd to lessen, careless to extend;<br>
+Bade Luxury to lavish courts aspire,<br>
+And Avarice to city breasts descend.
+							<div class="poet">"Elegy XV. In Memory of a Private Family in Worcestershire" by <span>William Shenstone</span></div>
+						</div>
+											<div class="poemQuote">
+							My money, to the poor, on use I lent,<br>
+And screw'd them, with an avarice seldom known,<br>
+'Till all the little that they had was spent,<br>
+And they by my extortion were undone.
+							<div class="poet">"The Complaint And The Advice Of Dives, To His Five Brethren (Part 1)" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							And sometimes on the city's crowded street,<br>
+Where avarice meets in never-ending fray,<br>
+The roar of trafficking dies far away,<br>
+And round me blooms the Blessed Valley sweet.
+							<div class="poet">"The Blessed Vale" by <span>Thomas Chard</span></div>
+						</div>
+											<div class="poemQuote">
+							In outline dim and vast<br>
+Their fearful shadows cast<br>
+This giant forms of empires on their way<br>
+To ruin: one by one<br>
+They tower and they are gone,<br>
+Yet in the Prophet's soul the dreams of avarice stay.
+							<div class="poet">"Second Sunday After Easter" by <span>John Keble</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The NFL's Farcical Exercise in Corporate Avarice Is Over.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.esquire.com/blogs/politics/nfl-ref-lockout-over-13166994?src=rss" target="_blank" rel="external nofollow">esquire.com</a>
+					</div>
+										<div class="usage">
+						1 items are tagged with avarice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.osv.com/OSVNewsweekly/OSVNewsweeklyRelatedArticles/tabid/7624/Default.aspx?tags=Anger-mortal%20sin-7+deadly+sins" target="_blank" rel="external nofollow">osv.com</a>
+					</div>
+										<div class="usage">
+						Greed is the desire for material wealth or gain, also called Avarice or Covetousness.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.palmspringslife.com/Blogs/The-Life/July-2006/7-deadly-sins/index.php" target="_blank" rel="external nofollow">palmspringslife.com</a>
+					</div>
+										<div class="usage">
+						Red sparowes a message of avarice rained down and carried us away to false every red heart shines toward the red sun.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bsrlive.com/playlists/string-theory/25208" target="_blank" rel="external nofollow">bsrlive.com</a>
+					</div>
+										<div class="usage">
+						There's always been greed, there's always been avarice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/moyers/journal/archives/needlemanwoi_flash.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						For its second week, The Bachelor — Paris got down to business: group dates, sightseeing, cattiness, angling for a first kiss, bald avarice for a rose and gobs of guzzling.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.chron.com/tubular/2006/01/the-bachelor-bad-poetry-on-the-seine/" target="_blank" rel="external nofollow">blog.chron.com</a>
+					</div>
+										<div class="usage">
+						We have unveiled the American city that has fallen the farthest from grace in each of the seven deadly sins ( lust, gluttony, avarice, sloth, wrath, envy and pride).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/2008/02/14/cities-sinful-lander-forbeslife-cx_lm_0213sinful_land.html" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Cory Huston and Avarice Guerrero.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kpbs.org/news/2012/apr/27/first-gay-marriage-proposal-military-base-camp-pen/" target="_blank" rel="external nofollow">kpbs.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)"><a href="greed.html">greed</a>, <a href="covetousness.html">covetousness</a>, <a href="rapacity.html">rapacity</a>, <a href="avaritia.html">avaritia</a>, </div><div class="synGroup" title="extreme greed for material wealth"><a href="avariciousness.html">avariciousness</a>, <a href="covetousness.html">covetousness</a>, <a href="cupidity.html">cupidity</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="deadly%20sin.html">deadly sin</a>, <a href="greed.html">greed</a>, <a href="mortal%20sin.html">mortal sin</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="avaricious.html">avaricious</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="avaricious.html">avaricious</a>, <a href="Camorra.html">Camorra</a>, <a href="contentment.html">contentment</a>, <a href="Covetise.html">Covetise</a>, <a href="covetous.html">covetous</a>, <a href="covetousness.html">covetousness</a>, <a href="cupidity.html">cupidity</a>, <a href="essence.html">essence</a>, <a href="exonerate.html">exonerate</a>, <a href="gloat.html">gloat</a>, <a href="greed.html">greed</a>, <a href="ice.html">ice</a>, <a href="mammon.html">mammon</a>, <a href="Maxim.html">Maxim</a>, <a href="misery.html">misery</a>, <a href="Passion.html">Passion</a>, <a href="penurious.html">penurious</a>, <a href="stinginess.html">stinginess</a>, <a href="twist.html">twist</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qvarice, wvarice, svarice, zvarice, acarice, afarice, agarice, abarice, avqrice, avwrice, avsrice, avzrice, avaeice, avadice, avafice, avatice, avaruce, avarjce, avarkce, avaroce, avarixe, avaride, avarife, avarive, avaricw, avarics, avaricd, avaricr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

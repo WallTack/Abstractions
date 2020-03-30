@@ -1,0 +1,507 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>category</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">category</span> <span class="exp">a general concept that marks divisions or coordinations in a conceptual scheme</span> </li><li><span class="tSpeech">n</span> <span class="term">category</span> <span class="exp">a collection of things sharing a common attribute</span> <span class="quot">"there are two classes of detergents"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Isaac Asimov is the only author to have a book in every Dewey-decimal category									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Category</span> <span class="exp">Class; also, state, condition, or predicament; as, we are both in the same <span class="wUex">category</span>
+            .</span> <span class="wuQuot">"There is in modern literature a whole class of writers standing within the same category ."</span></li><li><span class="term">Category</span> <span class="exp"><span class="wuFld">(Logic)</span> One of the highest classes to which the objects of knowledge or thought can be reduced, and by which they can be arranged in a system; an ultimate or undecomposable conception; a predicament.</span> <span class="wuQuot">"The categories or predicaments -- the former a Greek word, the latter its literal translation in the Latin language -- were intended by Aristotle and his followers as an enumeration of all things capable of being named; an enumeration by the summa genera i.e., the most extensive classes into which things could be distributed."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Only one movie has had three Academy Award nominees in the same category. In 1963, Tom Jones earned Best Supporting Actress nominations for Diane Cilento, Dame Edith Evans and Joyce Redman.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">category</span> <span class="exp">In logic, a highest notion, especially one derived from the logical analysis of the forms of proposition. The word was introduced by Aristotle, who applies it to his ten predicaments, things said, or summa genera, viz., substance, quantity, quality, relation, action, passion, where, when, posture or relative position of parts, habit or state. These are derived from such an analysis of the proposition as could be made before the developed study of grammar. The categories or highest intellectual concepts of Kant are: categories of quantity — unity, plurality, totality;categories of quality —reality, negation, limit between these; categories of relation— substance and accident, cause and effect, action and reaction; categories of modality —possibility, impossibility, actuality, non-actuality, necessity, non-necessity. Modern formal logic furnishes this list: qualities, or singular characters; simple relations, or dual characters; complex relations, or plural characters. Many lists of categories have been given not founded on formal logic.</span> </li><li><span class="tSpeech">n</span> <span class="term">category</span> <span class="exp">A summum genus, or widest class.</span> </li><li><span class="tSpeech">n</span> <span class="term">category</span> <span class="exp">Any very wide and distinctive class; any comprehensive division or class of persons or things.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Out of the 34,000 gun deaths in the U.S. each year, fewer than 300 are listed as "justifiable homicide," the only category that could include shooting a burglar, mugger, or rapist.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Category</span> <span class="exp"><span class="itl">kat′e-gor-i</span> what may be affirmed of a class: a class or order</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Francis Picabia</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Francis%20Picabia.jpg" alt="Francis%20Picabia">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The world is divided into two categories: failures and unknowns.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alexander Solzhenitsyn</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Alexander%20Solzhenitsyn.jpg" alt="Alexander%20Solzhenitsyn">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In our country the lie has become not just a moral category but a pillar of the State.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Philip Wylie</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Philip Wylie">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Material blessings, when they pay beyond the category of need, are weirdly fruitful of headache.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Russell (Wayne) Baker</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Russell (Wayne) Baker">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Inanimate objects are classified scientifically into three major categories -- those that don't work, those that break down and those that get lost.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">categoria</span>, Gr. , fr.  to accuse, affirm, predicate;  down, against +  to harrangue, assert, fr.  assembly
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr. <i>katēgoria</i>, <i>katēgoros</i>, an accuser, <i>kata</i>, down, against, <i>agora</i>, assembly.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						But they go a step farther and include all Asiatics in the same category.
+					</div>
+					<div class="uAuthor">
+						"Mr. Isaacs" by <span>F. Marion Crawford</span>					</div>
+										<div class="usage">
+						Later, tinners and miners were added to the last category.
+					</div>
+					<div class="uAuthor">
+						"Our Legal Heritage, 5th Ed." by <span>S. A. Reilly</span>					</div>
+										<div class="usage">
+						However, even M. Brieux cannot get on without category number one, whilst he puts as much of category number three in his work as he can.
+					</div>
+					<div class="uAuthor">
+						"Our Stage and Its Critics" by <span>"E.F.S." of "The Westminster Gazette"</span>					</div>
+										<div class="usage">
+						There are many in Europe in this category.
+					</div>
+					<div class="uAuthor">
+						"The Art of War" by <span>Baron Henri de Jomini</span>					</div>
+										<div class="usage">
+						It reveals subsidiary principles, and is, at the same time, a witness for the unity of the categories of science.
+					</div>
+					<div class="uAuthor">
+						"Browning as a Philosophical and Religious Teacher" by <span>Henry Jones</span>					</div>
+										<div class="usage">
+						Continence is not properly in the category of moral virtues.
+					</div>
+					<div class="uAuthor">
+						"The Worlds Greatest Books, Volume XIII." by <span>Various</span>					</div>
+										<div class="usage">
+						Benign stars, whose apparition renders the gourmands of every category sparkling, radiant, and quivering!
+					</div>
+					<div class="uAuthor">
+						"Library Of The World's Best Literature, Ancient And Modern, Vol 6" by <span>Various</span>					</div>
+										<div class="usage">
+						Many of the works already treated here fall under this category.
+					</div>
+					<div class="uAuthor">
+						"Chapters on Jewish Literature" by <span>Israel Abrahams</span>					</div>
+										<div class="usage">
+						They simply didn't come into the same category.
+					</div>
+					<div class="uAuthor">
+						"The Lamp in the Desert" by <span>Ethel M. Dell</span>					</div>
+										<div class="usage">
+						Before the law he was still 'a brigand of the first category.
+					</div>
+					<div class="uAuthor">
+						"The Liberation of Italy" by <span>Countess Evelyn Martinengo-Cesaresco</span>					</div>
+										<div class="usage">
+						Then, is power not to be reckoned in the category of good?
+					</div>
+					<div class="uAuthor">
+						"The Consolation of Philosophy" by <span>Boethius</span>					</div>
+										<div class="usage">
+						Infallibility, a notion of Hellenic origin, is in its essence a rationalistic category.
+					</div>
+					<div class="uAuthor">
+						"Tragic Sense Of Life" by <span>Miguel de Unamuno</span>					</div>
+										<div class="usage">
+						Either Category Military, or Category Religion and I sure as Zen don't know nothing about religion.
+					</div>
+					<div class="uAuthor">
+						"Mercenary" by <span>Dallas McCord Reynolds</span>					</div>
+										<div class="usage">
+						To this category belong communion and prayer, with all their varieties of expression.
+					</div>
+					<div class="uAuthor">
+						"The Approach to Philosophy" by <span>Ralph Barton Perry</span>					</div>
+										<div class="usage">
+						But you cannot express the psychological fact in terms of chemistry because it belongs to quite another category.
+					</div>
+					<div class="uAuthor">
+						"Theism or Atheism" by <span>Chapman Cohen</span>					</div>
+										<div class="usage">
+						So is it, prior to experience, with the categories into which our experience comes to be inserted.
+					</div>
+					<div class="uAuthor">
+						"Creative Evolution" by <span>Henri Bergson</span>					</div>
+										<div class="usage">
+						The principal categories of Ethics in the domain of morality are the ideas of Duty, Virtue, and Conscience.
+					</div>
+					<div class="uAuthor">
+						"Pedagogics as a System" by <span>Karl Rosenkranz</span>					</div>
+										<div class="usage">
+						That's why real rising has been restricted to Category Military and Category Religion.
+					</div>
+					<div class="uAuthor">
+						"Frigid Fracas" by <span>Dallas McCord Reynolds</span>					</div>
+										<div class="usage">
+						The specimens obtained in August and November were placed in five categories according to age (as judged by wear on the teeth).
+					</div>
+					<div class="uAuthor">
+						"Mammals of Mesa Verde National Park, Colorado" by <span>Sydney Anderson</span>					</div>
+										<div class="usage">
+						In deference to tradition a place must be found in every logical treatise for Aristotle's Categories.
+					</div>
+					<div class="uAuthor">
+						"Logic, Inductive and Deductive" by <span>William Minto</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Sufficiently provided, you may now<br>
+Go forth to the forests and the shady streets<br>
+To see how the chaos of experience<br>
+Answers to catalogue and category.
+							<div class="poet">"Learning the Trees" by <span>Howard Nemerov</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Val Stansfield, a category manager at Rite Aid Corp. Has received the 2012 Confectionery Leadership Award from the National Confectioners Association (NCA).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chaindrugreview.com/newsbreaks-archives/2012-03-05/confection-trade-group-honors-rite-aid-category-manager" target="_blank" rel="external nofollow">chaindrugreview.com</a>
+					</div>
+										<div class="usage">
+						Rite Aid Category Manager Val Stansfield received the 2012 Confectionery Leadership Award from the National Confectioners Association (NCA), one of the oldest, most respected confection associations in the world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csdecisions.com/2012/03/05/rite-aids-stansfield-honored-with-2012-confectionery-leadership-award/" target="_blank" rel="external nofollow">csdecisions.com</a>
+					</div>
+										<div class="usage">
+						Today, there are three conventional loan categories FHA also has expanded loan limits that are set to expire as well, however, I will address those at another time.
+					</div>
+					<div class="uAuthor">
+						<a href="http://mammothtimes.com/content/money-talks-expanded-conforming-%E2%80%94-higher-loan-limits-set-expire-soon" target="_blank" rel="external nofollow">mammothtimes.com</a>
+					</div>
+										<div class="usage">
+						Palm Beach County elections supervisor Susan Bucher says she doesn't think voters will be confused by some absentee ballots that were printed without headers in the judicial retention categories.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wpbf.com/news/politics/Bucher-doesn-t-think-voters-will-be-confused-by-absentee-ballots/-/8788770/16955162/-/format/rsss_2.0/-/11feou1z/-/index.html" target="_blank" rel="external nofollow">wpbf.com</a>
+					</div>
+										<div class="usage">
+						Triston won Supreme King in his category.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marshalltribune.com/story/1202507.html" target="_blank" rel="external nofollow">marshalltribune.com</a>
+					</div>
+										<div class="usage">
+						Seven categories were taken into consideration when ranking the most stuffed-up cities: pollen count, molds and spores.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bestofneworleans.com/blogofneworleans/archives/2011/10/03/new-orleans-named-americas-3-most-congested-city" target="_blank" rel="external nofollow">bestofneworleans.com</a>
+					</div>
+										<div class="usage">
+						ACCOUNT activity has been accelerating in the last week across many consumer product categories.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1997/01/23/business/agencies-vie-for-accounts-worth-250-million-consumer-goods-companies-step-up.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Delinquencies are down in all 11 categories of consumer lending tracked by the American Bankers Association, said the Los Angeles Times.
+					</div>
+					<div class="uAuthor">
+						<a href="http://csbj.com/2012/04/06/consumer-loan-picture-is-improving/" target="_blank" rel="external nofollow">csbj.com</a>
+					</div>
+										<div class="usage">
+						But though this vine does indeed add a singularly Old Florida Victorian feel to home landscapes, bear in mind that it's also a Category II invasive species, according to the Exotic Pest Plant Council.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.news-press.com/article/20121007/LIFESTYLES/310070017/Tropicalia-flora-Coral-vine" target="_blank" rel="external nofollow">news-press.com</a>
+					</div>
+										<div class="usage">
+						The cordials category used to be defined by an after-dinner snifter of Cognac or a glass of Kahlua on the rocks.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.adamsbevgroup.com/ME2/dirmod.asp?nm=Industry+News&amp;type=MultiPublishing&amp;mod=PublishingTitles&amp;mid=6EECC0FE471F4CA995CE2A3E9A8E4207&amp;tier=4&amp;id=9C66583F2FA04CEE91A405A501B9528B" target="_blank" rel="external nofollow">adamsbevgroup.com</a>
+					</div>
+										<div class="usage">
+						If you do fall into this category, we've got the solution for you in Randy to the Rescue.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wwaytv3.com/2012/11/07/randy-to-the-rescue-fixing-those-unsightly-electrical-cords" target="_blank" rel="external nofollow">wwaytv3.com</a>
+					</div>
+										<div class="usage">
+						Daily aww, puppy Category: Photos.
+					</div>
+					<div class="uAuthor">
+						<a href="http://k945.com/the-daily-aww-featuring-ali-the-corgi/" target="_blank" rel="external nofollow">k945.com</a>
+					</div>
+										<div class="usage">
+						There are two main categories of retinopathy: non-proliferative (non-pro-LIFF-er-uh-tiv) and proliferative.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.knvn.com/guides/health/general/story.aspx?heading=Diabetes&amp;content_id=2605c695-2657-424e-a952-33a8f734fd22" target="_blank" rel="external nofollow">knvn.com</a>
+					</div>
+										<div class="usage">
+						Hey, remember the old days when marketers and business analysts tracked the gradual evolution of product categories through their product life cycles.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.destinationcrm.com/Articles/Columns-Departments/Reality-Check/The-Ding-Dong-Bell-Curve-46662.aspx" target="_blank" rel="external nofollow">destinationcrm.com</a>
+					</div>
+										<div class="usage">
+						A Big Awards gold winner in the Direct category.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.prweek.com/uk/news/1157482/quality-direct-marketing-falling/?DCMP=ILC-SEARCH" target="_blank" rel="external nofollow">prweek.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A neutral braided Tannakian quadratic category is a quadratic category (C, o, •, !) such that there exists an exact faithful L-linear functor F : C −→ P , where P is the category of quadratic algebras. 
+					</div>
+					<div class="uAuthor">
+						Quadratic categories, Koszul resolutions and operads
+					</div>
+										<div class="usage">
+						The category of motives F0 : VL → NL is an initial ob jects in the category of cohomological functors, that is for every cohomological functor F : V → C , there exists a functor of abelian categories FC : NL → C such that F = FC ◦ F0 . 
+					</div>
+					<div class="uAuthor">
+						Quadratic categories, Koszul resolutions and operads
+					</div>
+										<div class="usage">
+						We deﬁne the category of quadratic motives to be the category of L-quadratic algebras this is an abelian category. 
+					</div>
+					<div class="uAuthor">
+						Quadratic categories, Koszul resolutions and operads
+					</div>
+										<div class="usage">
+						Our WProj-construction for strongly compact closed categories coincides with Selinger’s canonical embedding of a strongly compact closed category C in its category of completely positive maps CPM(C). 
+					</div>
+					<div class="uAuthor">
+						De-linearizing Linearity: Projective Quantum Axiomatics from Strong Compact Closure
+					</div>
+										<div class="usage">
+						I ∗ ⊗ d )∗ ⊗ c (cid:1)∗ (cid:0)( I ∗ ⊗ d )∗ ⊗ c (cid:1)∗ The category of A-nets (A-linkings modulo Trimble rewiring, as before) is the free star-autonomous category generated by the category A. 
+					</div>
+					<div class="uAuthor">
+						Simple free star-autonomous categories and full coherence
+					</div>
+										<div class="usage">
+						Equivalence classes yield the free linearly distributive category and free star-autonomous category (linearly distributive category with negation) generated by a polygraph (e.g., by a category), for full coherence. 
+					</div>
+					<div class="uAuthor">
+						Simple free star-autonomous categories and full coherence
+					</div>
+										<div class="usage">
+						This section proves the Freeness Theorem, Theorem 3 on page 13: For any category A, the category NA of A-nets is the free star-autonomous category generated by A. 
+					</div>
+					<div class="uAuthor">
+						Simple free star-autonomous categories and full coherence
+					</div>
+										<div class="usage">
+						We are now ready to prove the Freeness Theorem (Theorem 3, page 13): for any category A, the category NA of A-nets is the free star-autonomous category generated by A. 
+					</div>
+					<div class="uAuthor">
+						Simple free star-autonomous categories and full coherence
+					</div>
+										<div class="usage">
+						By the equivalence between symmetric linearly distributive categories with negation and star-autonomous categories in [CS97], CircNetA is the free star-autonomous category generated by A, as a corollary of Theorem 5.1 of [BCST96]. 
+					</div>
+					<div class="uAuthor">
+						Simple free star-autonomous categories and full coherence
+					</div>
+										<div class="usage">
+						It is obvious that AMH ∗ coincides with the category of left A-modules within the monoidal category HM, and similarly MH ∗ D coincides with the category of right D-modules within HM. 
+					</div>
+					<div class="uAuthor">
+						Generalized diagonal crossed products and smash products for quasi-Hopf algebras. Applications
+					</div>
+										<div class="usage">
+						We recover the notion of a tensor category as the particular case of a 2-category with only one ob ject, where we can regard 1-arrows as the ob jects of the tensor category and 2-arrows as the arrows in the tensor category. 
+					</div>
+					<div class="uAuthor">
+						2-C*-categories with non-simple units
+					</div>
+										<div class="usage">
+						As a last step in the sequence of propositions dealing with the relationship between Q -systems and 2-categories, we quote the following, which shows that starting from a Q -system one can extend the ∗ operation and, when starting with a Q -system in a tensor C ∗ -category, actually recover a 2 − C ∗− category. 
+					</div>
+					<div class="uAuthor">
+						2-C*-categories with non-simple units
+					</div>
+										<div class="usage">
+						Proposition 5.16. WSC is a quotient category of SC, while WGSC is a quotient category of GSC. It is possible to separate in both categories some special classes of morphisms useful in schema theory. 
+					</div>
+					<div class="uAuthor">
+						Mathematical Models in Schema Theory
+					</div>
+										<div class="usage">
+						Mathematicians have extended the idea of a category to an n-category. A 2-category has ob jects, maps and maps between maps, known of as homotopies or 2-morphisms. 
+					</div>
+					<div class="uAuthor">
+						Categorical Geometry and the Mathematical Foundations of Quantum General Relativity
+					</div>
+										<div class="usage">
+						Another way to relate categories to simplicial complexes is the construction of the nerve of a category, which is a simplicial complex which expresses the structure of the category. 
+					</div>
+					<div class="uAuthor">
+						Categorical Geometry and the Mathematical Foundations of Quantum General Relativity
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a collection of things sharing a common attribute"><a href="family.html">family</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="accumulation.html">accumulation</a>, <a href="aggregation.html">aggregation</a>, <a href="assemblage.html">assemblage</a>, <a href="collection.html">collection</a>, <a href="concept.html">concept</a>, <a href="conception.html">conception</a>, <a href="construct.html">construct</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="brass%20family.html">brass family</a>, <a href="conjugation.html">conjugation</a>, <a href="declension.html">declension</a>, <a href="denomination.html">denomination</a>, <a href="form.html">form</a>, <a href="grammatical%20category.html">grammatical category</a>, <a href="histocompatibility%20complex.html">histocompatibility complex</a>, <a href="kind.html">kind</a>, <a href="paradigm.html">paradigm</a>, <a href="pigeonhole.html">pigeonhole</a>, <a href="rubric.html">rubric</a>, <a href="sex.html">sex</a>, <a href="sort.html">sort</a>, <a href="stamp.html">stamp</a>, <a href="substitution%20class.html">substitution class</a>, <a href="syntactic%20category.html">syntactic category</a>, <a href="variety.html">variety</a>, <a href="violin%20family.html">violin family</a>, <a href="way.html">way</a>, <a href="woodwind%20family.html">woodwind family</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="categorial.html">categorial</a>, <a href="categorical.html">categorical</a>, <a href="categorize.html">categorize</a>, <a href="class.html">class</a>, <a href="classify.html">classify</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absolute%20frequency.html">absolute frequency</a>, <a href="analytic.html">analytic</a>, <a href="antinomy.html">antinomy</a>, <a href="Aristotelianism.html">Aristotelianism</a>, <a href="belong.html">belong</a>, <a href="body%20type.html">body type</a>, <a href="bracket.html">bracket</a>, <a href="brahman.html">brahman</a>, <a href="brahmin.html">brahmin</a>, <a href="Bryales.html">Bryales</a>, <a href="Caatinga.html">Caatinga</a>, <a href="Cabiri.html">Cabiri</a>, <a href="Cannabis%20indica.html">Cannabis indica</a>, <a href="categorem.html">categorem</a>, <a href="categoric.html">categoric</a>, <a href="categorical.html">categorical</a>, <a href="categorisation.html">categorisation</a>, <a href="categorise.html">categorise</a>, <a href="Categorist.html">Categorist</a>, <a href="categorization.html">categorization</a>, <a href="categorize.html">categorize</a>, <a href="change.html">change</a>, <a href="chapter.html">chapter</a>, <a href="class%20Eumycetes.html">class Eumycetes</a>, <a href="class%20Tiliomycetes.html">class Tiliomycetes</a>, <a href="classification.html">classification</a>, <a href="common%20denominator.html">common denominator</a>, <a href="commute.html">commute</a>, <a href="congener.html">congener</a>, <a href="convert.html">convert</a>, <a href="credit.html">credit</a>, <a href="dative.html">dative</a>, <a href="dative%20case.html">dative case</a>, <a href="denomination.html">denomination</a>, <a href="disorganized%20schizophrenia.html">disorganized schizophrenia</a>, <a href="disorganized%20type%20schizophrenia.html">disorganized type schizophrenia</a>, <a href="division.html">division</a>, <a href="dual.html">dual</a>, <a href="Euascomycetes.html">Euascomycetes</a>, <a href="Eumycetes.html">Eumycetes</a>, <a href="except.html">except</a>, <a href="exchange.html">exchange</a>, <a href="form.html">form</a>, <a href="form%20division.html">form division</a>, <a href="form%20family.html">form family</a>, <a href="form%20genus.html">form genus</a>, <a href="frequency.html">frequency</a>, <a href="gender.html">gender</a>, <a href="general.html">general</a>, <a href="gland.html">gland</a>, <a href="grammatical%20category.html">grammatical category</a>, <a href="grammatical%20gender.html">grammatical gender</a>, <a href="hair.html">hair</a>, <a href="hebephrenia.html">hebephrenia</a>, <a href="hebephrenic%20schizophrenia.html">hebephrenic schizophrenia</a>, <a href="Heterobasidiomycetes.html">Heterobasidiomycetes</a>, <a href="Homobasidiomycetes.html">Homobasidiomycetes</a>, <a href="Homocategoric.html">Homocategoric</a>, <a href="include.html">include</a>, <a href="income%20bracket.html">income bracket</a>, <a href="income%20tax%20bracket.html">income tax bracket</a>, <a href="Interscendent.html">Interscendent</a>, <a href="irregular.html">irregular</a>, <a href="kind.html">kind</a>, <a href="king.html">king</a>, <a href="Lechanorales.html">Lechanorales</a>, <a href="Lichenales.html">Lichenales</a>, <a href="lignosae.html">lignosae</a>, <a href="lyric.html">lyric</a>, <a href="many.html">many</a>, <a href="monism.html">monism</a>, <a href="muscat.html">muscat</a>, <a href="nature.html">nature</a>, <a href="nominative.html">nominative</a>, <a href="nominative%20case.html">nominative case</a>, <a href="number.html">number</a>, <a href="octave.html">octave</a>, <a href="order%20Bryales.html">order Bryales</a>, <a href="order%20Lechanorales.html">order Lechanorales</a>, <a href="order%20Lichenales.html">order Lichenales</a>, <a href="order%20Rosales.html">order Rosales</a>, <a href="other.html">other</a>, <a href="particular.html">particular</a>, <a href="peculiar.html">peculiar</a>, <a href="person.html">person</a>, <a href="Phycomycetes.html">Phycomycetes</a>, <a href="Phycomycetes%20group.html">Phycomycetes group</a>, <a href="pigeonhole.html">pigeonhole</a>, <a href="plural.html">plural</a>, <a href="pound.html">pound</a>, <a href="predicament.html">predicament</a>, <a href="price%20bracket.html">price bracket</a>, <a href="Privileged%20witnesses.html">Privileged witnesses</a>, <a href="Prix%20de%20Rome.html">Prix de Rome</a>, <a href="rajanya.html">rajanya</a>, <a href="range.html">range</a>, <a href="reckon.html">reckon</a>, <a href="reclassification.html">reclassification</a>, <a href="relative%20frequency.html">relative frequency</a>, <a href="relegation.html">relegation</a>, <a href="Rosales.html">Rosales</a>, <a href="rubric.html">rubric</a>, <a href="singular.html">singular</a>, <a href="somatotype.html">somatotype</a>, <a href="sort.html">sort</a>, <a href="space.html">space</a>, <a href="special.html">special</a>, <a href="stripe.html">stripe</a>, <a href="subclass.html">subclass</a>, <a href="subclass%20Euascomycetes.html">subclass Euascomycetes</a>, <a href="subclass%20Heterobasidiomycetes.html">subclass Heterobasidiomycetes</a>, <a href="subclass%20Homobasidiomycetes.html">subclass Homobasidiomycetes</a>, <a href="subfamily.html">subfamily</a>, <a href="subject%20case.html">subject case</a>, <a href="subsumption.html">subsumption</a>, <a href="super.html">super</a>, <a href="syntactic%20category.html">syntactic category</a>, <a href="tax%20bracket.html">tax bracket</a>, <a href="tense.html">tense</a>, <a href="Tiliomycetes.html">Tiliomycetes</a>, <a href="topical.html">topical</a>, <a href="transcendental.html">transcendental</a>, <a href="tribe.html">tribe</a>, <a href="typical.html">typical</a>, <a href="under.html">under</a>, <a href="uninflected.html">uninflected</a>, <a href="unique.html">unique</a>, <a href="Vaisya.html">Vaisya</a>, <a href="variety.html">variety</a>, <a href="way.html">way</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xategory, dategory, fategory, vategory, cqtegory, cwtegory, cstegory, cztegory, caregory, cafegory, cagegory, cayegory, catwgory, catsgory, catdgory, catrgory, catefory, catetory, catehory, catebory, catevory, categiry, categkry, categlry, categpry, categoey, categody, categofy, categoty, categort, categorg, categorh, categoru
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,530 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>monotony</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">monotony</span> <span class="exp">constancy of tone or pitch or inflection</span> </li><li><span class="tSpeech">n</span> <span class="term">monotony</span> <span class="exp">the quality of wearisome constancy, routine, and lack of variety</span> <span class="quot">"he had never grown accustomed to the monotony of his work","he was sick of the humdrum of his fellow prisoners","he hated the sameness of the food the college served"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Monotony</span> <span class="exp">A frequent recurrence of the same tone or sound, producing a dull uniformity; absence of variety, as in speaking or singing.</span> </li><li><span class="term">Monotony</span> <span class="exp">Any irksome sameness, or want of variety.</span> <span class="wuQuot">"At sea, everything that breaks the monotony of the surrounding expanse attracts attention."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">monotony</span> <span class="exp">Uniformity of tone or sound; want of inflections of voice in speaking or reading; want of cadence or modulation; monotone.</span> </li><li><span class="tSpeech">n</span> <span class="term">monotony</span> <span class="exp">Tiresome uniformity or lack of variation in any respect; sameness; want of variety.</span> </li><li><span class="tSpeech">n</span> <span class="term">monotony</span> <span class="exp">In mathematics:</span> </li><li><span class="tSpeech">n</span> <span class="term">monotony</span> <span class="exp">Continual increase, or continual decrease.</span> </li><li><span class="tSpeech">n</span> <span class="term">monotony</span> <span class="exp">Unchanging character, neither increasing nor decreasing.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Monotony</span> <span class="exp">dull uniformity of tone or sound: want of modulation in speaking or reading:</span> </li><li><span class="tSpeech">n</span> <span class="term">Monotony</span> <span class="exp">(<span class="itl">fig.</span>) irksome sameness or want of variety</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No more we meet in yonder bowers Absence has made me prone to roving; But older, firmer hearts than ours, Have found monotony in loving.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Margaret Sackville</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Margaret Sackville">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When all is said and done, monotony may after all be the best condition for creation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Be true to your own act and congratulate yourself if you have done something strange and extravagant to break the monotony of a decorous age.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Vance Packard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Vance Packard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Rock 'n Roll is monotony tinged with hysteria.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eleanor Roosevelt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eleanor%20Roosevelt.jpg" alt="Eleanor%20Roosevelt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is equality of monotony which makes the strength of the British Isles.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Francis Picabia</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Francis%20Picabia.jpg" alt="Francis%20Picabia">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nature is unfair? So much the better, inequality is the only bearable thing, the monotony of equality can only lead us to boredom.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Gr. : cf. F. <span class="wUets">monotonie</span>,. See <span class="wUer">Monotonius</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr. <i>monos</i>, alone, <i>tonos</i>, a tone.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						And yet, in spite of its monotony, humanity is perennially interesting to itself.
+					</div>
+					<div class="uAuthor">
+						"Jewel Weed" by <span>Alice Ames Winter</span>					</div>
+										<div class="usage">
+						This peaceful monotony, however, was rudely shattered.
+					</div>
+					<div class="uAuthor">
+						"The River of Darkness" by <span>William Murray Graydon</span>					</div>
+										<div class="usage">
+						The day wore on with protracted suffering and monotony.
+					</div>
+					<div class="uAuthor">
+						"The Camp in the Snow" by <span>William Murray Graydon</span>					</div>
+										<div class="usage">
+						But the constant use of short, simple sentences produces a disagreeable monotony.
+					</div>
+					<div class="uAuthor">
+						"Elementary Guide to Literary Criticism" by <span>F. V. N. Painter</span>					</div>
+										<div class="usage">
+						And, indeed, Montaigne's daily life, with outward monotony and internal variety, was a pleasant miscellany on which to comment.
+					</div>
+					<div class="uAuthor">
+						"A History of French Literature" by <span>Edward Dowden</span>					</div>
+										<div class="usage">
+						It breaks the monotony of prison life, and many more volunteer than are needed for this work.
+					</div>
+					<div class="uAuthor">
+						"The Better Germany in War Time" by <span>Harold Picton</span>					</div>
+										<div class="usage">
+						Six wives may have contributed a little towards overcoming the extreme monotony of life in the place.
+					</div>
+					<div class="uAuthor">
+						"In Mesopotamia" by <span>Martin Swayne</span>					</div>
+										<div class="usage">
+						Change the theory about uniformity, and you remove monotony from the industrial world.
+					</div>
+					<div class="uAuthor">
+						"Psychology and Social Sanity" by <span>Hugo Münsterberg</span>					</div>
+										<div class="usage">
+						The monotony of the desk became odious to them.
+					</div>
+					<div class="uAuthor">
+						"Bouvard and Pécuchet" by <span>Gustave Flaubert</span>					</div>
+										<div class="usage">
+						But I know you won't suffer from monotony with Berta and Beatrice in the same study.
+					</div>
+					<div class="uAuthor">
+						"Beatrice Leigh at College" by <span>Julia Augusta Schwartz</span>					</div>
+										<div class="usage">
+						On the other hand, the monotony after a time becomes almost unbearable.
+					</div>
+					<div class="uAuthor">
+						"From Paris to New York by Land" by <span>Harry de Windt</span>					</div>
+										<div class="usage">
+						The same heart-breaking monotony of death confronted them.
+					</div>
+					<div class="uAuthor">
+						"Omega, the Man" by <span>Lowell Howard Morrow</span>					</div>
+										<div class="usage">
+						And so we get back to the old problem of the monotony of life.
+					</div>
+					<div class="uAuthor">
+						"Modern Women and What is Said of Them" by <span>Anonymous</span>					</div>
+										<div class="usage">
+						Here is the reverse of monotony; if any thing becomes wearisome, it is the variety.
+					</div>
+					<div class="uAuthor">
+						"The Dodge Club" by <span>James De Mille</span>					</div>
+										<div class="usage">
+						After the events just related, nothing of moment occurred to break the monotony of our captivity.
+					</div>
+					<div class="uAuthor">
+						"Seven and Nine years Among the Camanches and Apaches" by <span>Edwin Eastman</span>					</div>
+										<div class="usage">
+						In fact, I would take my chances of the monotony in order to dispense with any more of the other thing.
+					</div>
+					<div class="uAuthor">
+						"The Sign of the Spider" by <span>Bertram Mitford</span>					</div>
+										<div class="usage">
+						Notwithstanding the monotony of confinement to my chamber, the hours of my convalescence passed pleasantly enough.
+					</div>
+					<div class="uAuthor">
+						"The Quadroon" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						The student should constantly strive to avoid monotony in practicing exercises.
+					</div>
+					<div class="uAuthor">
+						"Great Pianists on Piano Playing" by <span>James Francis Cooke</span>					</div>
+										<div class="usage">
+						Always he would watch this thing, sometimes standing, other times reclining, but ever conscious of the dread monotony of it all.
+					</div>
+					<div class="uAuthor">
+						"Bred of the Desert" by <span>Marcus Horton</span>					</div>
+										<div class="usage">
+						For the first time in his official career, the routine of his work wearied him with its monotony and staleness.
+					</div>
+					<div class="uAuthor">
+						"Banked Fires" by <span>E. W. (Ethel Winifred) Savi</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							'Dustman, dustman!'<br>
+He never varies from one pace,<br>
+And the monotony of time<br>
+Is in his face.
+							<div class="poet">"The Dustman" by <span>Bliss William Carman</span></div>
+						</div>
+											<div class="poemQuote">
+							So fair, that all the morning aches<br>
+With such monotony!<br>
+So brief, that sadness breaks<br>
+The brittle spell.
+							<div class="poet">"Fair And Brief" by <span>John Freeman</span></div>
+						</div>
+											<div class="poemQuote">
+							All through the tepid Summer night<br>
+The starless sky had poured a cool<br>
+Monotony of pleasant rain<br>
+In music beautiful.
+							<div class="poet">"Clouds" by <span>Madison Julius Cawein</span></div>
+						</div>
+											<div class="poemQuote">
+							So weary was she of her lot,<br>
+Tired of the ship's monotony,<br>
+She straightway all the world forgot<br>
+Save the young swimmer in the sea
+							<div class="poet">"The First Lover" by <span>Laurence Hope</span></div>
+						</div>
+											<div class="poemQuote">
+							And years--dull years--in dull monotony<br>
+As ever went and came,<br>
+Still weaving changes on unceasingly,<br>
+And changing, changed her name.
+							<div class="poet">"Man's Devotion" by <span>James Whitcomb Riley</span></div>
+						</div>
+											<div class="poemQuote">
+							Nor less renown'd whom stars invet'rate doom<br>
+To smiles eternal, or eternal gloom;<br>
+For what's a character save one confin'd<br>
+To some unchanging sameness of the mind;<br>
+To some strange, fix'd monotony of mien,<br>
+Or dress forever brown, forever green?
+							<div class="poet">"Eccentricity" by <span>Washington Allston</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Instructor Tanya Nuchols said Zumba is a fresh take on the monotony of traditional aerobics classes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/07/30/AR2008073001580.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						I went for a drive to break up the monotony of winter-with my camera by my side.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wbng.com/younews/116982468.html" target="_blank" rel="external nofollow">wbng.com</a>
+					</div>
+										<div class="usage">
+						Mind-numbing because of their length and monotony.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commentarymagazine.com/blogs/index.php/kirchick/1094" target="_blank" rel="external nofollow">commentarymagazine.com</a>
+					</div>
+										<div class="usage">
+						A relief to a day of monotony.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bsrlive.com/playlists/ampersand-theater/17126" target="_blank" rel="external nofollow">bsrlive.com</a>
+					</div>
+										<div class="usage">
+						Wildcats' team focus breaks up reporter's monotony .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.examiner.net/sports/sports_columnists/x2112088474/Shawn-Garrison-Wildcats-team-focus-breaks-up-reporters-monotony" target="_blank" rel="external nofollow">examiner.net</a>
+					</div>
+										<div class="usage">
+						It's not the heat, it's the monotony .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gwinnettdailypost.com/news/2011/jun/14/cline-its-not-the-heat-its-the-monotony/" target="_blank" rel="external nofollow">gwinnettdailypost.com</a>
+					</div>
+										<div class="usage">
+						If you're a bored 5- to 11-year-old boy, here's a chance to break the monotony of vacation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.syracuse.com/entertainment/2012/07/syracuse_university_drama_depa_6.html" target="_blank" rel="external nofollow">blog.syracuse.com</a>
+					</div>
+										<div class="usage">
+						 RAMPART Monotony in the first degree.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/entertainment/movies/no_good_cop_just_bad_one_rNGxVHwFQ4z2ihGjjmbn9M?CMP=OTC-rss&amp;FEEDNAME=" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						Ever get sick of the shameless monotony you hear on the radio, and thought you could do it better.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kcsb.org/about/kcsb-winter-orientation" target="_blank" rel="external nofollow">kcsb.org</a>
+					</div>
+										<div class="usage">
+						In today's digital world, no longer do tech professionals have to be confined to a cubicle all day, surviving grueling daily monotony.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.blackenterprise.com/career/5-tech-jobs-where-you-can-escape-the-cubicle/" target="_blank" rel="external nofollow">blackenterprise.com</a>
+					</div>
+										<div class="usage">
+						Wildcats' team focus breaks up reporter's monotony.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.examiner.net/sports/sports_columnists/x2112088474/Shawn-Garrison-Wildcats-team-focus-breaks-up-reporters-monotony?photo=0" target="_blank" rel="external nofollow">examiner.net</a>
+					</div>
+										<div class="usage">
+						A little monotony around here with our sunshine and dry skies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wsaz.com/blogs/brandonsblog/brandonbutcher/Another_hot_day_as_Isaac_takes_its_merry_time_167921395.html" target="_blank" rel="external nofollow">wsaz.com</a>
+					</div>
+										<div class="usage">
+						A means to escape the monotony of everyday life, to be with family and to experience new and exciting places.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.trailerlife.com/reviews/trucks-for-towing/dodge-ram-4-x-4-and-heartland-prowler/" target="_blank" rel="external nofollow">trailerlife.com</a>
+					</div>
+										<div class="usage">
+						Steppin Razor brings original, conscious roots rock reggae to the masses of the 21st Century, who not only seek an escape from the monotony, but are inspired by positive vibrations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philadelphiaweekly.com/music/guide/Steppin-Razor.html" target="_blank" rel="external nofollow">philadelphiaweekly.com</a>
+					</div>
+										<div class="usage">
+						Chefs struggle with budget, monotony during food-stamp challenge.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ky3.com/topic/education/colleges-universities/stetson-university-OREDU0000145.topic" target="_blank" rel="external nofollow">ky3.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Inverting the “∀L” and the “ν -a.s”, is easily done using the monotony of L 7→ P0(|YT | &gt; L). 
+					</div>
+					<div class="uAuthor">
+						Quenched large deviations for diffusions in a random Gaussian shear flow drift
+					</div>
+										<div class="usage">
+						Let J be a minimal interval which contains al l such points x and a − x, then outside J the iterates accumulate on L and U while inside J the accumulation points swap between L, M and U depending on the values of F at points a − x (but preserving the monotony of TnF ). 
+					</div>
+					<div class="uAuthor">
+						Dynamics of exponential linear map in functional space
+					</div>
+										<div class="usage">
+						The monotony of ϕβ implies that ϕβ (ℓx (N )) ≥ Xx∈Zd Φβ (N ) = Xx∈Zd For ω ∈ {R(M1 ) ∩ R(M2 , N ) = 
+					</div>
+					<div class="uAuthor">
+						Coincidence of Lyapunov exponents for random walks in weak random potentials
+					</div>
+										<div class="usage">
+						Seen as strict rules, this will not work, as it is transitivity, and thus monotony: we have to admit exceptions, as there might just be a negative arrow X 6→ Z in the diagram. 
+					</div>
+					<div class="uAuthor">
+						Remarks on Inheritance Systems
+					</div>
+										<div class="usage">
+						We propose in this paper to construct testing procedures of (H0 ) versus (H1 ) without any parametric or monotony assumption on f or g and which satisfy speciﬁc non-asymptotic performance properties. 
+					</div>
+					<div class="uAuthor">
+						The two-sample problem for Poisson processes: adaptive tests with a non-asymptotic wild bootstrap approach
+					</div>
+										<div class="usage">
+						Let us explain why the usual Karp-Miller algorithm is not suﬃcient for that purpose. A crucial property of VAS used by this algorithm is monotony : actions ﬁreable from a state are still ﬁreable from any larger state. 
+					</div>
+					<div class="uAuthor">
+						Model Checking Vector Addition Systems with one zero-test
+					</div>
+										<div class="usage">
+						Naturally, if (i) or (ii) holds, then qf is visited inﬁnitely often by monotony of Conversely, assume that qf is visited inﬁnitely often. 
+					</div>
+					<div class="uAuthor">
+						Model Checking Vector Addition Systems with one zero-test
+					</div>
+										<div class="usage">
+						Now we use monotony: since (qj , y j ) vj−−→ (qf , xj+1 + z ). 
+					</div>
+					<div class="uAuthor">
+						Model Checking Vector Addition Systems with one zero-test
+					</div>
+										<div class="usage">
+						Jensen’s inequality, (c) from the monotony of the exponential, (d) from Markov’s inequality and (e) from the fact that (Xi ) is an iid sequence. 
+					</div>
+					<div class="uAuthor">
+						A large deviation approach to some transportation cost inequalities
+					</div>
+										<div class="usage">
+						The aim of the next lemma is that given a function with some properties of monotony and integrability we can ma jorized it for another one with equivalent integrability properties and for which its increasing and decreasing is controlled. 
+					</div>
+					<div class="uAuthor">
+						Embeddings for anisotropic Besov spaces
+					</div>
+										<div class="usage">
+						Virmani, “Remarks on the equivalence of full additivity and monotoni city for the entanglement cost ”, quant-ph/0702136 . C. H. 
+					</div>
+					<div class="uAuthor">
+						Simplifying additivity problems using direct sum constructions
+					</div>
+										<div class="usage">
+						However, the monotony of the line sums of F1 is a slight restriction. 
+					</div>
+					<div class="uAuthor">
+						On the difference between solutions of discrete tomography problems
+					</div>
+										<div class="usage">
+						An example of this is the triangle inequality, and the monotony of the cost function (as the distance between cities) for the mD Euclidian TSPn . 
+					</div>
+					<div class="uAuthor">
+						The Complexity Of The NP-Class
+					</div>
+										<div class="usage">
+						The key to build a eﬃcient algorithm for varying the solution is the triangle inequality property and the monotony of a ﬁnite norm in 2D that allows to have locally vertices’ vicinity and to keep a triangulation, and in 2D a few paths closed from where it is possible to obtain an appropriate numeration of vertices. 
+					</div>
+					<div class="uAuthor">
+						The Complexity Of The NP-Class
+					</div>
+										<div class="usage">
+						In this case the veriﬁcation of the solution is localely around of the oscillating cycles closed to the frontier, as the a vertex is far away of a local vicinity the monotony of the distance allows that such vertices can be ignoring because they include pair of vertices with higher cost. 
+					</div>
+					<div class="uAuthor">
+						The Complexity Of The NP-Class
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the quality of wearisome constancy, routine, and lack of variety"><a href="humdrum.html">humdrum</a>, <a href="sameness.html">sameness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="constancy.html">constancy</a>, <a href="stability.html">stability</a>, <a href="unvariedness.html">unvariedness</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="break.html">break</a>, <a href="ding-dong.html">ding-dong</a>, <a href="humdrum.html">humdrum</a>, <a href="interrupt.html">interrupt</a>, <a href="monotone.html">monotone</a>, <a href="monotonous.html">monotonous</a>, <a href="monotonously.html">monotonously</a>, <a href="relieve.html">relieve</a>, <a href="sameness.html">sameness</a>, <a href="steppe.html">steppe</a>, <a href="uniformity.html">uniformity</a>, <a href="variety.html">variety</a>, <a href="vary.html">vary</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					nonotony, jonotony, konotony, minotony, mknotony, mlnotony, mpnotony, mobotony, mohotony, mojotony, momotony, monitony, monktony, monltony, monptony, monorony, monofony, monogony, monoyony, monotiny, monotkny, monotlny, monotpny, monotoby, monotohy, monotojy, monotomy, monotont, monotong, monotonh, monotonu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

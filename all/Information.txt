@@ -1,0 +1,579 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>information</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">(communication theory) a numerical measure of the uncertainty of an outcome</span> <span class="quot">"the signal contained thousands of bits of information"</span></li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">knowledge acquired through study or experience or instruction</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">a message received and understood</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">formal accusation of a crime</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">a collection of facts from which conclusions may be drawn</span> <span class="quot">"statistical data"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										By law, information collected in a U.S. census must remain confidential for seventy-two years									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Information</span> <span class="exp"><span class="wuFld">(Information Theory)</span> A measure of the number of possible choices of messages contained in a symbol, signal, transmitted message, or other information-bearing object; it is usually quantified as the negative logarithm of the number of allowed symbols that could be contained in the message; for logarithms to the base 2, the measure corresponds to the unit of information, the <span class="wUunit">hartley</span>, which is log210, or 3.323 bits; called also <span class="wUaltname">information content</span>.  The smallest unit of information that can be contained or transmitted is the <span class="wUunit">bit</span>, corresponding to a yes-or-no decision.</span> </li><li><span class="term">Information</span> <span class="exp"><span class="wuFld">(Law)</span> A proceeding in the nature of a prosecution for some offense against the government, instituted and prosecuted, really or nominally, by some authorized public officer on behalf of the government. It differs from an indictment in criminal cases chiefly in not being based on the finding of a grand jury. See <span class="wUer">Indictment</span>.</span> </li><li><span class="term">Information</span> <span class="exp">Any fact or set of facts, knowledge, news, or advice, whether communicated by others or obtained by personal study and investigation; any datum that reduces uncertainty about the state of any part of the world; intelligence; knowledge derived from reading, observation, or instruction.</span> <span class="wuQuot">"Larger opportunities of information ."</span><span class="wuQuot">"He should get some information in the subject he intends to handle."</span></li><li><span class="term">Information</span> <span class="exp">The act of informing, or communicating knowledge or intelligence.</span> <span class="wuQuot">"The active informations of the intellect."</span></li><li><span class="term">Information</span> <span class="exp"><span class="wuFld">(Computers)</span> Useful facts, as contrasted with raw data; as, among all this data, there must be some interesting <span class="wUex">information</span>
+            .</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										While still in college, Bill Gates and Paul Allen once built a special purpose machine called "Traff-O-Data." It was a machine that would analyze information gathered by traffic monitors. They never found any buyers.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">Communication of form or element; infusion, as of an animating or actuating principle.</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">Knowledge communicated or received; particular intelligence or report; news; notice: as, to get information of a shipwreck.</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">Knowledge inculcated or derived; known facts or principles, however communicated or acquired, as from reading, instruction, or observation: as, a man of various information; the information gathered from extended travel.</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">In law:</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">An official criminal charge presented, usually by the prosecuting officers of the state, without the interposition of a grand jury. Wharton. This is the sense in which it is more commonly used in American law. In American constitutional law, clauses securing trial by jury in prosecutions by indictment or information are construed as excluding complaints before local magistrates for minor offenses, such as have always been summarily tried.</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">A criminal charge made under oath, before a justice of the peace, of an offense punishable summarily.</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">A complaint, in a qui tam action in a court of common-law jurisdiction, to recover a penalty prescribed by statute or ordinance.</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">In English law, a complaint in the name of the crown, in a civil action, to obtain satisfaction of some obligation to, or for some injury to the property or property rights of, the crown.</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">In Scots law, a written argument in court.</span> </li><li><span class="tSpeech">n</span> <span class="term">information</span> <span class="exp">In metaphysics, the imparting of form to matter. In logic the information of a term is the aggregate of characters predicable of it over and above what are implied in the definition. [This meaning is found in Abelard.)</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										If the information contained in the DNA could be written down, it would fill a 1000 volume encyclopedia
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Information</span> <span class="exp">intelligence given: knowledge: an accusation given to a magistrate or court</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Sevareid</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Eric Sevareid">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The bigger the information media, the less courage and freedom they allow. Bigness means weakness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Baudrillard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20Baudrillard.jpg" alt="Jean%20Baudrillard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Information can tell us everything. It has all the answers. But they are answers to questions we have not asked, and which doubtless don't even arise.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Clarence Day</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Clarence Day">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Information's pretty thin stuff unless mixed with experience.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">T. S. Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/T.%20S.%20Eliot.jpg" alt="T.%20S.%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alfred Glossbrenner</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Alfred Glossbrenner">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“With so much information now online, it is exceptionally easy to simply dive in and drown.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Jefferson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Jefferson.jpg" alt="Thomas%20Jefferson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Information is the currency of democracy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Worm information</span> - If you worm information out of somebody, you persuade them to tell you something they wanted to keep from you.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F., fr. L. <span class="wUets">informatio</span>, representation, conception. See <span class="wUer">Inform</span> (v. t.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr.,—L. <i>informāre</i>—<i>in</i>, into, <i>formāre</i>, to form.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The natives informed him that it had belonged to a vessel, which had arrived among them from the west.
+					</div>
+					<div class="uAuthor">
+						"Robert Kerr's General History and Collection of Voyages and Travels, Volume 18" by <span>William Stevenson</span>					</div>
+										<div class="usage">
+						An hour gained in information about your enemy's plans may turn the tide in your favor.
+					</div>
+					<div class="uAuthor">
+						"The Last Shot" by <span>Frederick Palmer</span>					</div>
+										<div class="usage">
+						But about twenty years ago the era of informality set in and has been gaining ground ever since.
+					</div>
+					<div class="uAuthor">
+						"Etiquette" by <span>Emily Post</span>					</div>
+										<div class="usage">
+						On the 17th of June, Mr. Duffy was placed at the bar, on an information or indictment setting forth the entire of the obnoxious article.
+					</div>
+					<div class="uAuthor">
+						"The Felon's Track" by <span>Michael Doheny</span>					</div>
+										<div class="usage">
+						The soldier should be informed of the importance of keeping the deposit book.
+					</div>
+					<div class="uAuthor">
+						"Military Instructors Manual" by <span>James P. Cole and Oliver Schoonmaker</span>					</div>
+										<div class="usage">
+						I must inform you that I had never heard the full reason of the duel between the first Sir Alan and his nephew.
+					</div>
+					<div class="uAuthor">
+						"The Stowmarket Mystery" by <span>Louis Tracy</span>					</div>
+										<div class="usage">
+						She clothed and informed all his acts of beneficence with the motives which became them.
+					</div>
+					<div class="uAuthor">
+						"Sevenoaks" by <span>J. G. Holland</span>					</div>
+										<div class="usage">
+						Is a man of good general information; he was exceedingly inquisitive.
+					</div>
+					<div class="uAuthor">
+						"The Underground Railroad" by <span>William Still</span>					</div>
+										<div class="usage">
+						The annals of Greece and of Rome simply inform us that they were there.
+					</div>
+					<div class="uAuthor">
+						"The Empire of Russia" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						The ascetics then charged the porters to inform the king of their arrival.
+					</div>
+					<div class="uAuthor">
+						"The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1"					</div>
+										<div class="usage">
+						She did not reply, but looked at him full in the face as if to inform him that she understood him.
+					</div>
+					<div class="uAuthor">
+						"His Excellency the Minister" by <span>Jules Claretie</span>					</div>
+										<div class="usage">
+						The Indians themselves could give no information of the route beyond the confined limits of their hunting ranges.
+					</div>
+					<div class="uAuthor">
+						"The Life and Adventures of Kit Carson, the Nestor of the Rocky Mountains, from Facts Narrated by Himself" by <span>De Witt C. Peters</span>					</div>
+										<div class="usage">
+						Should he inform the Babu?
+					</div>
+					<div class="uAuthor">
+						"In Clive's Command" by <span>Herbert Strang</span>					</div>
+										<div class="usage">
+						In a little while Sam, who appeared to be a sort of janitor around the place, came back to inform Larry that Sullivan would see him.
+					</div>
+					<div class="uAuthor">
+						"Larry Dexter's Great Search" by <span>Howard R. Garis</span>					</div>
+										<div class="usage">
+						For our subject this means of information is as complete as can be desired.
+					</div>
+					<div class="uAuthor">
+						"The Transvaal from Within" by <span>J. P. Fitzpatrick</span>					</div>
+										<div class="usage">
+						But I am in want of a little information, and I believe you can furnish me with it, if you are disposed to.
+					</div>
+					<div class="uAuthor">
+						"The Stolen Statesman" by <span>William Le Queux</span>					</div>
+										<div class="usage">
+						It was not the first piece of valuable information which he had wormed out of his official friends.
+					</div>
+					<div class="uAuthor">
+						"Number 70, Berlin" by <span>William Le Queux</span>					</div>
+										<div class="usage">
+						He can pump all the secrets out of a man, while he makes the fellow think he is receiving, instead of giving, information.
+					</div>
+					<div class="uAuthor">
+						"The White Rose of Memphis" by <span>William C. Falkner</span>					</div>
+										<div class="usage">
+						If there were any engagement, I think I should have been informed.
+					</div>
+					<div class="uAuthor">
+						"Whither Thou Goest" by <span>William Le Queux</span>					</div>
+										<div class="usage">
+						There was one piece of information which the young subaltern had not imparted to his friend.
+					</div>
+					<div class="uAuthor">
+						"This House to Let" by <span>William Le Queux</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Spirit that moves the sap in spring,<br>
+When lusty male birds fight and sing,<br>
+Inform my words, and make my lines<br>
+As sweet as flowers, as strong as vines.
+							<div class="poet">"A Prelude" by <span>Maurice Thompson</span></div>
+						</div>
+											<div class="poemQuote">
+							All loveliness with which an act informs<br>
+The dim uncertain chaos of desire<br>
+Is mine to-day; it touches me, it warms<br>
+Body and spirit with its outward fire.
+							<div class="poet">"Poem" by <span>Aldous Huxley</span></div>
+						</div>
+											<div class="poemQuote">
+							I'VE lately certain information had,<br>
+Your spouse (I scarcely thought the man so bad,)<br>
+Has with the lady an appointment made;<br>
+At Jack's nice bagnio he will meet the jade.
+							<div class="poet">"Richard Minutolo" by <span>Jean de La Fontaine</span></div>
+						</div>
+											<div class="poemQuote">
+							Be patient:—and inform me, pray,<br>
+If this were worn by you or her to-day?<br>
+There lies the point, for, if you'll me believe,<br>
+Your husband did—the most you can conceive.
+							<div class="poet">"The Servant Girl Justified" by <span>Jean de La Fontaine</span></div>
+						</div>
+											<div class="poemQuote">
+							Yet, if the day should darken, or the storm<br>
+Beat on my brow, or shriek across the night,<br>
+And with God’s pregnant enmity inform<br>
+His sequent messengers of dark and light:
+							<div class="poet">"Endeavour" by <span>Robert Steel Byrnes</span></div>
+						</div>
+											<div class="poemQuote">
+							When o'er my features steals the gloom of thought,<br>
+Thou wond'rest where my vagrant fancies stray,<br>
+Oh ! seek not information dearly bought,<br>
+Seek not to cloud thy bosom's orient day.
+							<div class="poet">"To My Best Friend" by <span>Laura Sophia Temple</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Bettencourt foresees a major shift in CIO concerns away from information systems and toward managing information.
+					</div>
+					<div class="uAuthor">
+						<a href="http://fcw.com/Articles/2008/05/30/FlipSide-A-few-minutes-withVern-Bettencourt.aspx" target="_blank" rel="external nofollow">fcw.com</a>
+					</div>
+										<div class="usage">
+						Updated Monday, Nov 5, 2012, at 4:38 p.m. Help inform our coverage on the fluoride issue in the coming months by telling us where you get your information on fluoride and what experiences you have had that shaped your opinions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansas.com/2012/08/18/2454759/wichita-city-council-to-decide.html" target="_blank" rel="external nofollow">kansas.com</a>
+					</div>
+										<div class="usage">
+						We hope you find the information on this site enriching, inspiring and informative.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.americancatholic.org/ContactUS/writers.asp" target="_blank" rel="external nofollow">americancatholic.org</a>
+					</div>
+										<div class="usage">
+						I am looking for information about Robert Mitchum , information like:Robert Mitchum 's bio, movies, career, personal life etc.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.herald-news.com/97/robert-mitchums-bio-movies-career-personal-life-etc" target="_blank" rel="external nofollow">herald-news.com</a>
+					</div>
+										<div class="usage">
+						Send an email with information on the show or a link to where we can find information on it to peanutbuttersports@yahoo.com.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.midvalleynews.com/car-culture/2012/08/21/show-search/" target="_blank" rel="external nofollow">midvalleynews.com</a>
+					</div>
+										<div class="usage">
+						Information on Recalls of FDA Regulated Products Information from FDA ORA/Office of Enforcement DCMO.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ispe.org/regulatory-agencies/fda/consequences-of-non-compliance-with-fda-" target="_blank" rel="external nofollow">ispe.org</a>
+					</div>
+										<div class="usage">
+						Misinformation, it turns out, is far worse than some information, or no information at all.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cknj.com/content/schools-non-issue-annexation" target="_blank" rel="external nofollow">cknj.com</a>
+					</div>
+										<div class="usage">
+						Citizens for Responsible Growth in Layton printed 18,000 "Updated Voter Information Pamphlets " that closely resembled the official Voter Information Pamphlet sent out by Layton city officials weeks earlier.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sltrib.com/csp/cms/sites/sltrib/pages/printerfriendly.csp?id=55221206" target="_blank" rel="external nofollow">sltrib.com</a>
+					</div>
+										<div class="usage">
+						In 2006, Kak postulated a theory known as the three-stage protocol, which relies on the unpredictability of photons to ensure hackers can't locate or replicate the information used to transmit information.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ecnmag.com/news/2012/10/ou-researchers-implement-multi-photon-approach-quantum-cryptography" target="_blank" rel="external nofollow">ecnmag.com</a>
+					</div>
+										<div class="usage">
+						Information helps growers, consultants make more informed pest management decisions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hpj.com/archives/2009/jun09/jun1/ThirdVolumeofPlantDiseaseMa.cfm?recomend=yes" target="_blank" rel="external nofollow">hpj.com</a>
+					</div>
+										<div class="usage">
+						Many physicians already use the Internet to access clinical information, but it's a good resource for practice management and business information, too.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ama-assn.org/amednews/2001/12/24/bica1224.htm" target="_blank" rel="external nofollow">ama-assn.org</a>
+					</div>
+										<div class="usage">
+						Reuters Business Information International (RBI) PR Team: Firefly Communications Campaign: Dying for Information.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.prweek.com/uk/news/95808/CAMPAIGNS-research-Media-revels-info-illness/?DCMP=ILC-SEARCH" target="_blank" rel="external nofollow">prweek.com</a>
+					</div>
+										<div class="usage">
+						Important Reunion Information Please be on the lookout for upcoming information regarding our 10 year reunion scheduled for July 13, 2013 at The Dennis Wicker Civic Center.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sanfordherald.com/pages/ad_details/listing_details/details/47783814-attention-lee-senior-class-of-2003?" target="_blank" rel="external nofollow">sanfordherald.com</a>
+					</div>
+										<div class="usage">
+						The Steamboat Pilot &amp; Today, provides local news, sports, events, visitor information, rentals, real estate listings and news, online classifieds and community information about Ski Town USA.
+					</div>
+					<div class="uAuthor">
+						<a href="http://steamboatpilot.com/users/Sep/" target="_blank" rel="external nofollow">steamboatpilot.com</a>
+					</div>
+										<div class="usage">
+						The information provided on this Site is for general informational and educational purposes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kwch.com/kwch-terms-of-service,0,5858876.story" target="_blank" rel="external nofollow">kwch.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The second and third arrows are related by an informational aspect: information on the past is greater than on the future, so that (informational) entropy increases in time. 
+					</div>
+					<div class="uAuthor">
+						Cosmological Quantum Jump Dynamics II. The Retrodictive Universe
+					</div>
+										<div class="usage">
+						An informational aspect of retrodiction is this: A complete information on the universe’s states in the past reduces to and may be obtained from the information contained in the description of a present state and in the laws of the past-directed dynamics. 
+					</div>
+					<div class="uAuthor">
+						Cosmological Quantum Jump Dynamics II. The Retrodictive Universe
+					</div>
+										<div class="usage">
+						However, if there is shared information (like cycle A and B), nature prefers to select speciﬁc information rather than conserve information. 
+					</div>
+					<div class="uAuthor">
+						Spatio-temporal Dynamics in the Origin of Genetic Information
+					</div>
+										<div class="usage">
+						The information gathered can be quantiﬁed by the mutual information between the message index i and the measurement outcome : I (i : m) = H ({pi}) − Xm Note that the mutual information can be seen as the difference between the initial disorder and the (average) ﬁnal disord er. 
+					</div>
+					<div class="uAuthor">
+						The separability versus entanglement problem
+					</div>
+										<div class="usage">
+						Fig. 5 models how the relationship between, and bounds on, H(A) and H(B) limit the maximum mutual information. MI (the area within the solid line lens in Fig. 5) is the mutual information transferred across the information channel between the transmitter and the receiver. 
+					</div>
+					<div class="uAuthor">
+						The "...system of constraints"
+					</div>
+										<div class="usage">
+						In particular, a careful attempt to justify Hawking’s derivation of information loss in an expansion in MD/E reveals an apparent breakdown of the calculation, at the long time scales where we would expect information to begin to escape a black hole; this is a proposed resolution to the information paradox. 
+					</div>
+					<div class="uAuthor">
+						High-energy black hole production
+					</div>
+										<div class="usage">
+						As the information in the data only provides sufficient information to assign a probability density, rather than a probability, to a relaxation spectrum (see the Theory section), it is impossible to assign probabilities to the existence of the signal of interest based on the information in the data alone. 
+					</div>
+					<div class="uAuthor">
+						A robust and reliable method for detecting signals of interest in multiexponential decays
+					</div>
+										<div class="usage">
+						The effective planning of an information system is paramount to its success. In order to effectively plan an information system, one would have to be a trained information system professional. 
+					</div>
+					<div class="uAuthor">
+						Exploring Human Factors in Spreadsheet Development
+					</div>
+										<div class="usage">
+						The administrator can deﬁne the granularity of the demanded information and the system collects the information using artiﬁcial cells and the information stored in the artiﬁcial lymph nodes and CNTS. 
+					</div>
+					<div class="uAuthor">
+						Next Challenges in Bringing Artificial Immune Systems to Production in Network Security
+					</div>
+										<div class="usage">
+						Shallit [13, 14] and Shallit and Elsberry suggest the term “anti-information” to distinguish this information from that used in Algorithmic Information Theory. 
+					</div>
+					<div class="uAuthor">
+						An Algorithmic Information Theory Critique of Statistical Arguments for Intelligent Design
+					</div>
+										<div class="usage">
+						In contrast to the Dembski approach, the common mathematical understanding of Algorithmic Information Theory is that those outcomes that have high D-information exhibit low algorithmic complexity, low algorithmic entropy and low algorithmic information. 
+					</div>
+					<div class="uAuthor">
+						An Algorithmic Information Theory Critique of Statistical Arguments for Intelligent Design
+					</div>
+										<div class="usage">
+						While the expected outcome of D-information is the same as the Shannon measure of information theory, the Shannon measure is an uncertainty measure in a set of outcomes, and does not correspond to Dembski’s information measure for a particular outcome. 
+					</div>
+					<div class="uAuthor">
+						An Algorithmic Information Theory Critique of Statistical Arguments for Intelligent Design
+					</div>
+										<div class="usage">
+						In contrast, the D-information measure assigns the maximum information to ordered low probability strings; those that in algorithmic case would have a low information measure. 
+					</div>
+					<div class="uAuthor">
+						An Algorithmic Information Theory Critique of Statistical Arguments for Intelligent Design
+					</div>
+										<div class="usage">
+						The labeling method can be more or less informative, in the sense that the degree of information about the structure of terms (static information) and about the computation history (dynamic information) can vary. 
+					</div>
+					<div class="uAuthor">
+						Explicit fairness in testing semantics
+					</div>
+										<div class="usage">
+						In order to analyze information diffusion, one needs to study the overall information ﬂow and individual information cascades in the networks. 
+					</div>
+					<div class="uAuthor">
+						Information Diffusion in Computer Science Citation Networks
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="(communication theory) a numerical measure of the uncertainty of an outcome"><a href="selective%20information.html">selective information</a>, <a href="entropy.html">entropy</a>, </div><div class="synGroup" title="a message received and understood"><a href="info.html">info</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="accumulation.html">accumulation</a>, <a href="accusal.html">accusal</a>, <a href="accusation.html">accusation</a>, <a href="aggregation.html">aggregation</a>, <a href="assemblage.html">assemblage</a>, <a href="cognition.html">cognition</a>, <a href="collection.html">collection</a>, <a href="content.html">content</a>, <a href="information%20measure.html">information measure</a>, <a href="knowledge.html">knowledge</a>, <a href="message.html">message</a>, <a href="noesis.html">noesis</a>, <a href="subject%20matter.html">subject matter</a>, <a href="substance.html">substance</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="accounting%20data.html">accounting data</a>, <a href="acquaintance.html">acquaintance</a>, <a href="ammunition.html">ammunition</a>, <a href="arcanum.html">arcanum</a>, <a href="background.html">background</a>, <a href="background%20knowledge.html">background knowledge</a>, <a href="circumstance.html">circumstance</a>, <a href="condition.html">condition</a>, <a href="confirmation.html">confirmation</a>, <a href="consideration.html">consideration</a>, <a href="conversance.html">conversance</a>, <a href="conversancy.html">conversancy</a>, <a href="course%20of%20study.html">course of study</a>, <a href="curriculum.html">curriculum</a>, <a href="data%20format.html">data format</a>, <a href="data%20formatting.html">data formatting</a>, <a href="data%20point.html">data point</a>, <a href="database.html">database</a>, <a href="datum.html">datum</a>, <a href="descriptor.html">descriptor</a>, <a href="details.html">details</a>, <a href="evidence.html">evidence</a>, <a href="example.html">example</a>, <a href="fact.html">fact</a>, <a href="factoid.html">factoid</a>, <a href="familiarity.html">familiarity</a>, <a href="format.html">format</a>, <a href="formatting.html">formatting</a>, <a href="gen.html">gen</a>, <a href="grounds.html">grounds</a>, <a href="illustration.html">illustration</a>, <a href="input.html">input</a>, <a href="inside%20information.html">inside information</a>, <a href="insider%20information.html">insider information</a>, <a href="instance.html">instance</a>, <a href="intelligence.html">intelligence</a>, <a href="intelligence%20information.html">intelligence information</a>, <a href="material.html">material</a>, <a href="metadata.html">metadata</a>, <a href="misinformation.html">misinformation</a>, <a href="news.html">news</a>, <a href="nuts%20and%20bolts.html">nuts and bolts</a>, <a href="predictor.html">predictor</a>, <a href="program.html">program</a>, <a href="programme.html">programme</a>, <a href="propaganda.html">propaganda</a>, <a href="raw%20data.html">raw data</a>, <a href="read-out.html">read-out</a>, <a href="readout.html">readout</a>, <a href="report.html">report</a>, <a href="report%20card.html">report card</a>, <a href="representative.html">representative</a>, <a href="secret.html">secret</a>, <a href="skinny.html">skinny</a>, <a href="stimulant.html">stimulant</a>, <a href="stimulation.html">stimulation</a>, <a href="stimulus.html">stimulus</a>, <a href="stuff.html">stuff</a>, <a href="syllabus.html">syllabus</a>, <a href="tabular%20matter.html">tabular matter</a>, <a href="tabulation.html">tabulation</a>, <a href="tidings.html">tidings</a>, <a href="tip-off.html">tip-off</a>, <a href="word.html">word</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="inform.html">inform</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="access.html">access</a>, <a href="acknowledge.html">acknowledge</a>, <a href="acquaint.html">acquaint</a>, <a href="act%20on.html">act on</a>, <a href="advertise.html">advertise</a>, <a href="advertisement.html">advertisement</a>, <a href="advertising.html">advertising</a>, <a href="advice.html">advice</a>, <a href="Advice-boat.html">Advice-boat</a>, <a href="advise.html">advise</a>, <a href="advised.html">advised</a>, <a href="advisement.html">advisement</a>, <a href="Adviso.html">Adviso</a>, <a href="afferent.html">afferent</a>, <a href="air.html">air</a>, <a href="alarm.html">alarm</a>, <a href="almanac.html">almanac</a>, <a href="alphanumeric%20display.html">alphanumeric display</a>, <a href="analog%20computer.html">analog computer</a>, <a href="analogue%20computer.html">analogue computer</a>, <a href="applicatory.html">applicatory</a>, <a href="apply.html">apply</a>, <a href="apprise.html">apprise</a>, <a href="arraign.html">arraign</a>, <a href="audiovisual.html">audiovisual</a>, <a href="audiovisual%20aid.html">audiovisual aid</a>, <a href="authentic.html">authentic</a>, <a href="Aviso.html">Aviso</a>, <a href="aware.html">aware</a>, <a href="babble.html">babble</a>, <a href="babble%20out.html">babble out</a>, <a href="baseball%20card.html">baseball card</a>, <a href="bbs.html">bbs</a>, <a href="beat%20around%20the%20bush.html">beat around the bush</a>, <a href="bellman.html">bellman</a>, <a href="betray.html">betray</a>, <a href="bibliography.html">bibliography</a>, <a href="Bill%20of%20sight.html">Bill of sight</a>, <a href="bit.html">bit</a>, <a href="blab.html">blab</a>, <a href="blab%20out.html">blab out</a>, <a href="blabbermouthed.html">blabbermouthed</a>, <a href="black%20box.html">black box</a>, <a href="black%20smoker.html">black smoker</a>, <a href="blackmail.html">blackmail</a>, <a href="blackwash.html">blackwash</a>, <a href="blank.html">blank</a>, <a href="block.html">block</a>, <a href="board.html">board</a>, <a href="Bookful.html">Bookful</a>, <a href="break.html">break</a>, <a href="brief.html">brief</a>, <a href="bring%20out.html">bring out</a>, <a href="broadcast.html">broadcast</a>, <a href="bug.html">bug</a>, <a href="bulletin.html">bulletin</a>, <a href="bulletin%20board.html">bulletin board</a>, <a href="bulletin%20board%20system.html">bulletin board system</a>, <a href="call%20on.html">call on</a>, <a href="calumniatory.html">calumniatory</a>, <a href="CD-ROM.html">CD-ROM</a>, <a href="censor.html">censor</a>, <a href="censoring.html">censoring</a>, <a href="censorship.html">censorship</a>, <a href="centrifugal.html">centrifugal</a>, <a href="certification.html">certification</a>, <a href="certify.html">certify</a>, <a href="chaffer.html">chaffer</a>, <a href="channel.html">channel</a>, <a href="chart.html">chart</a>, <a href="chat.html">chat</a>, <a href="chatter.html">chatter</a>, <a href="chew%20the%20fat.html">chew the fat</a>, <a href="child-centered.html">child-centered</a>, <a href="chit-chat.html">chit-chat</a>, <a href="chitchat.html">chitchat</a>, <a href="chromatin.html">chromatin</a>, <a href="circular.html">circular</a>, <a href="classified.html">classified</a>, <a href="claver.html">claver</a>, <a href="close.html">close</a>, <a href="closelipped.html">closelipped</a>, <a href="closemouthed.html">closemouthed</a>, <a href="cognise.html">cognise</a>, <a href="cognize.html">cognize</a>, <a href="collect.html">collect</a>, <a href="COMINT.html">COMINT</a>, <a href="Common%20informer.html">Common informer</a>, <a href="communicable.html">communicable</a>, <a href="communicate.html">communicate</a>, <a href="communication.html">communication</a>, <a href="communication%20equipment.html">communication equipment</a>, <a href="communication%20system.html">communication system</a>, <a href="communications%20intelligence.html">communications intelligence</a>, <a href="communicative.html">communicative</a>, <a href="communicatory.html">communicatory</a>, <a href="compact%20disc%20read-only%20memory.html">compact disc read-only memory</a>, <a href="complaint.html">complaint</a>, <a href="complete.html">complete</a>, <a href="compress.html">compress</a>, <a href="compression.html">compression</a>, <a href="confab.html">confab</a>, <a href="confabulate.html">confabulate</a>, <a href="confidential.html">confidential</a>, <a href="conjecture.html">conjecture</a>, <a href="consul.html">consul</a>, <a href="consult.html">consult</a>, <a href="Consulter.html">Consulter</a>, <a href="consumer%20research.html">consumer research</a>, <a href="contact.html">contact</a>, <a href="conventional.html">conventional</a>, <a href="convey.html">convey</a>, <a href="cork.html">cork</a>, <a href="correspondent.html">correspondent</a>, <a href="corroboration.html">corroboration</a>, <a href="coupon.html">coupon</a>, <a href="cram.html">cram</a>, <a href="cryptography.html">cryptography</a>, <a href="Crystallomancy.html">Crystallomancy</a>, <a href="curiosity.html">curiosity</a>, <a href="cyclopaedia.html">cyclopaedia</a>, <a href="cyclopedia.html">cyclopedia</a>, <a href="Cyclop%C3%A6dia.html">Cyclopædia</a>, <a href="data.html">data</a>, <a href="data%20converter.html">data converter</a>, <a href="datum.html">datum</a>, <a href="decompression.html">decompression</a>, <a href="Delation.html">Delation</a>, <a href="delete.html">delete</a>, <a href="deliver.html">deliver</a>, <a href="demodulate.html">demodulate</a>, <a href="demodulator.html">demodulator</a>, <a href="denounce.html">denounce</a>, <a href="Denunciator.html">Denunciator</a>, <a href="descriptor.html">descriptor</a>, <a href="detective.html">detective</a>, <a href="determination.html">determination</a>, <a href="dialog%20box.html">dialog box</a>, <a href="dictionary.html">dictionary</a>, <a href="diffuse.html">diffuse</a>, <a href="digital%20communications%20technology.html">digital communications technology</a>, <a href="digital%20computer.html">digital computer</a>, <a href="digital%20display.html">digital display</a>, <a href="digitisation.html">digitisation</a>, <a href="digitization.html">digitization</a>, <a href="direct.html">direct</a>, <a href="disc.html">disc</a>, <a href="disc%20drive.html">disc drive</a>, <a href="disclose.html">disclose</a>, <a href="discover.html">discover</a>, <a href="disk.html">disk</a>, <a href="disk%20access.html">disk access</a>, <a href="disk%20drive.html">disk drive</a>, <a href="display.html">display</a>, <a href="display%20adapter.html">display adapter</a>, <a href="display%20adaptor.html">display adaptor</a>, <a href="display%20board.html">display board</a>, <a href="display%20panel.html">display panel</a>, <a href="divulge.html">divulge</a>, <a href="document.html">document</a>, <a href="dope.html">dope</a>, <a href="Dope-book.html">Dope-book</a>, <a href="draw.html">draw</a>, <a href="efferent.html">efferent</a>, <a href="electronic.html">electronic</a>, <a href="electronic%20bulletin%20board.html">electronic bulletin board</a>, <a href="electronic%20deception.html">electronic deception</a>, <a href="elliptic.html">elliptic</a>, <a href="elliptical.html">elliptical</a>, <a href="encode.html">encode</a>, <a href="encoding.html">encoding</a>, <a href="encryption.html">encryption</a>, <a href="encyclopaedia.html">encyclopaedia</a>, <a href="encyclopaedic.html">encyclopaedic</a>, <a href="Encyclopaedical.html">Encyclopaedical</a>, <a href="encyclopedia.html">encyclopedia</a>, <a href="encyclopedic.html">encyclopedic</a>, <a href="encyclopedism.html">encyclopedism</a>, <a href="enzyme.html">enzyme</a>, <a href="ephemeris.html">ephemeris</a>, <a href="epidemiology.html">epidemiology</a>, <a href="equivocate.html">equivocate</a>, <a href="erase.html">erase</a>, <a href="evidence.html">evidence</a>, <a href="exarch.html">exarch</a>, <a href="exhibition.html">exhibition</a>, <a href="expanding%20upon.html">expanding upon</a>, <a href="expansion.html">expansion</a>, <a href="exploratory%20survey.html">exploratory survey</a>, <a href="expose.html">expose</a>, <a href="express.html">express</a>, <a href="extent.html">extent</a>, <a href="Eye-opener.html">Eye-opener</a>, <a href="fact-finding.html">fact-finding</a>, <a href="fallacious.html">fallacious</a>, <a href="feed%20back.html">feed back</a>, <a href="fiber%20optic%20cable.html">fiber optic cable</a>, <a href="fibre%20optic%20cable.html">fibre optic cable</a>, <a href="field%20press%20censorship.html">field press censorship</a>, <a href="file%20allocation%20table.html">file allocation table</a>, <a href="fill%20in.html">fill in</a>, <a href="fill%20out.html">fill out</a>, <a href="First-hand.html">First-hand</a>, <a href="Fistiana.html">Fistiana</a>, <a href="flag.html">flag</a>, <a href="flash.html">flash</a>, <a href="floorwalker.html">floorwalker</a>, <a href="Forenotice.html">Forenotice</a>, <a href="forewarn.html">forewarn</a>, <a href="format.html">format</a>, <a href="forthcoming.html">forthcoming</a>, <a href="free.html">free</a>, <a href="full.html">full</a>, <a href="full%20duplex.html">full duplex</a>, <a href="garnishment.html">garnishment</a>, <a href="get%20the%20dope%20on.html">get the dope on</a>, <a href="get%20the%20goods.html">get the goods</a>, <a href="give.html">give</a>, <a href="give%20away.html">give away</a>, <a href="Give%20the%20office.html">Give the office</a>, <a href="give-and-take.html">give-and-take</a>, <a href="Google.html">Google</a>, <a href="gossip.html">gossip</a>, <a href="grass.html">grass</a>, <a href="guess.html">guess</a>, <a href="guide.html">guide</a>, <a href="Guide-book.html">Guide-book</a>, <a href="Guideboard.html">Guideboard</a>, <a href="guidebook.html">guidebook</a>, <a href="half%20duplex.html">half duplex</a>, <a href="handbook.html">handbook</a>, <a href="hard%20drive.html">hard drive</a>, <a href="hear.html">hear</a>, <a href="hearken.html">hearken</a>, <a href="hearsay.html">hearsay</a>, <a href="help%20desk.html">help desk</a>, <a href="helpdesk.html">helpdesk</a>, <a href="Herdbook.html">Herdbook</a>, <a href="history.html">history</a>, <a href="hologram.html">hologram</a>, <a href="holograph.html">holograph</a>, <a href="human%20language%20technology.html">human language technology</a>, <a href="hushed-up.html">hushed-up</a>, <a href="identity%20theft.html">identity theft</a>, <a href="ignorant.html">ignorant</a>, <a href="ignorantly.html">ignorantly</a>, <a href="incommunicative.html">incommunicative</a>, <a href="indication.html">indication</a>, <a href="indicator.html">indicator</a>, <a href="indirect.html">indirect</a>, <a href="indoctrination.html">indoctrination</a>, <a href="inform.html">inform</a>, <a href="informant.html">informant</a>, <a href="information%20age.html">information age</a>, <a href="information%20gathering.html">information gathering</a>, <a href="information%20measure.html">information measure</a>, <a href="information%20warfare.html">information warfare</a>, <a href="informational.html">informational</a>, <a href="informative.html">informative</a>, <a href="informatory.html">informatory</a>, <a href="informer.html">informer</a>, <a href="inquire.html">inquire</a>, <a href="inquiry.html">inquiry</a>, <a href="inquisitive.html">inquisitive</a>, <a href="inquisitively.html">inquisitively</a>, <a href="inquisitiveness.html">inquisitiveness</a>, <a href="insider%20trading.html">insider trading</a>, <a href="instruct.html">instruct</a>, <a href="instruction.html">instruction</a>, <a href="instructive.html">instructive</a>, <a href="instructor.html">instructor</a>, <a href="intelligence.html">intelligence</a>, <a href="intelligence%20activity.html">intelligence activity</a>, <a href="Intelligence%20office.html">Intelligence office</a>, <a href="intelligence%20operation.html">intelligence operation</a>, <a href="Intelligencing.html">Intelligencing</a>, <a href="intelligent.html">intelligent</a>, <a href="Intelligential.html">Intelligential</a>, <a href="Intelligentiary.html">Intelligentiary</a>, <a href="Intelnet.html">Intelnet</a>, <a href="intercept.html">intercept</a>, <a href="interchange.html">interchange</a>, <a href="interoperable.html">interoperable</a>, <a href="interview.html">interview</a>, <a href="interviewer.html">interviewer</a>, <a href="intimation.html">intimation</a>, <a href="investigative.html">investigative</a>, <a href="investigatory.html">investigatory</a>, <a href="irony.html">irony</a>, <a href="Isagelous.html">Isagelous</a>, <a href="item.html">item</a>, <a href="itinerary.html">itinerary</a>, <a href="IW.html">IW</a>, <a href="jaw.html">jaw</a>, <a href="jeopardy.html">jeopardy</a>, <a href="jobcentre.html">jobcentre</a>, <a href="juicy.html">juicy</a>, <a href="junket.html">junket</a>, <a href="keep%20one%27s%20mouth%20shut.html">keep one's mouth shut</a>, <a href="keep%20quiet.html">keep quiet</a>, <a href="keep%20to%20oneself.html">keep to oneself</a>, <a href="kid.html">kid</a>, <a href="kith.html">kith</a>, <a href="know.html">know</a>, <a href="knowing.html">knowing</a>, <a href="knowledge.html">knowledge</a>, <a href="knowledgeable.html">knowledgeable</a>, <a href="Law-list.html">Law-list</a>, <a href="leak.html">leak</a>, <a href="leaky.html">leaky</a>, <a href="learn.html">learn</a>, <a href="learned.html">learned</a>, <a href="learning.html">learning</a>, <a href="lease.html">lease</a>, <a href="Leave%20in%20the%20dark.html">Leave in the dark</a>, <a href="lesson.html">lesson</a>, <a href="let%20on.html">let on</a>, <a href="let%20out.html">let out</a>, <a href="let%20the%20cat%20out%20of%20the%20bag.html">let the cat out of the bag</a>, <a href="lettered.html">lettered</a>, <a href="light.html">light</a>, <a href="Lodge.html">Lodge</a>, <a href="look%20up.html">look up</a>, <a href="louse.html">louse</a>, <a href="mag%20tape.html">mag tape</a>, <a href="magnetic%20bubble%20memory.html">magnetic bubble memory</a>, <a href="magnetic%20disc.html">magnetic disc</a>, <a href="magnetic%20disk.html">magnetic disk</a>, <a href="magnetic%20tape.html">magnetic tape</a>, <a href="make%20out.html">make out</a>, <a href="manifest.html">manifest</a>, <a href="map.html">map</a>, <a href="mark.html">mark</a>, <a href="market%20analysis.html">market analysis</a>, <a href="market%20research.html">market research</a>, <a href="marketing%20research.html">marketing research</a>, <a href="meaty.html">meaty</a>, <a href="medicolegal.html">medicolegal</a>, <a href="medium.html">medium</a>, <a href="memoir.html">memoir</a>, <a href="memory%20access.html">memory access</a>, <a href="memory%20device.html">memory device</a>, <a href="mercantile%20agency.html">mercantile agency</a>, <a href="mercury.html">mercury</a>, <a href="message.html">message</a>, <a href="Message%20stick.html">Message stick</a>, <a href="misdirect.html">misdirect</a>, <a href="misinform.html">misinform</a>, <a href="Misinformant.html">Misinformant</a>, <a href="misinformation.html">misinformation</a>, <a href="Misinformer.html">Misinformer</a>, <a href="Misintelligence.html">Misintelligence</a>, <a href="mislead.html">mislead</a>, <a href="Misprision%20of%20heresy.html">Misprision of heresy</a>, <a href="Misprision%20of%20treason.html">Misprision of treason</a>, <a href="modulate.html">modulate</a>, <a href="modulation.html">modulation</a>, <a href="monition.html">monition</a>, <a href="mortgage.html">mortgage</a>, <a href="motor.html">motor</a>, <a href="motorial.html">motorial</a>, <a href="naive.html">naive</a>, <a href="National%20Security%20Agency.html">National Security Agency</a>, <a href="natter.html">natter</a>, <a href="natural%20language%20processing.html">natural language processing</a>, <a href="Nautical%20almanac.html">Nautical almanac</a>, <a href="navigational%20system.html">navigational system</a>, <a href="news.html">news</a>, <a href="newsless.html">newsless</a>, <a href="newsy.html">newsy</a>, <a href="NLP.html">NLP</a>, <a href="note.html">note</a>, <a href="notice.html">notice</a>, <a href="notification.html">notification</a>, <a href="notify.html">notify</a>, <a href="NSA.html">NSA</a>, <a href="nugget.html">nugget</a>, <a href="oblate.html">oblate</a>, <a href="observation.html">observation</a>, <a href="omnidirectional%20radio%20range.html">omnidirectional radio range</a>, <a href="omnidirectional%20range.html">omnidirectional range</a>, <a href="omnirange.html">omnirange</a>, <a href="orator.html">orator</a>, <a href="organ.html">organ</a>, <a href="Origenist.html">Origenist</a>, <a href="original.html">original</a>, <a href="output.html">output</a>, <a href="palter.html">palter</a>, <a href="panel.html">panel</a>, <a href="Pantology.html">Pantology</a>, <a href="papers.html">papers</a>, <a href="parallel%20interface.html">parallel interface</a>, <a href="Parapegm.html">Parapegm</a>, <a href="pass.html">pass</a>, <a href="pass%20along.html">pass along</a>, <a href="pass%20on.html">pass on</a>, <a href="peach.html">peach</a>, <a href="pick.html">pick</a>, <a href="pipe%20line.html">pipe line</a>, <a href="pipeline.html">pipeline</a>, <a href="plea.html">plea</a>, <a href="point.html">point</a>, <a href="pointer.html">pointer</a>, <a href="possess.html">possess</a>, <a href="possible.html">possible</a>, <a href="Post.html">Post</a>, <a href="postindustrial.html">postindustrial</a>, <a href="Predictory.html">Predictory</a>, <a href="Prejudicate.html">Prejudicate</a>, <a href="Premonishment.html">Premonishment</a>, <a href="premonition.html">premonition</a>, <a href="presentment.html">presentment</a>, <a href="prevaricate.html">prevaricate</a>, <a href="private%20detective.html">private detective</a>, <a href="Privileged%20witnesses.html">Privileged witnesses</a>, <a href="process.html">process</a>, <a href="product%20research.html">product research</a>, <a href="programma.html">programma</a>, <a href="projective%20device.html">projective device</a>, <a href="projective%20technique.html">projective technique</a>, <a href="projective%20test.html">projective test</a>, <a href="promote.html">promote</a>, <a href="promotion.html">promotion</a>, <a href="prompt.html">prompt</a>, <a href="prosecution.html">prosecution</a>, <a href="publication.html">publication</a>, <a href="pull%20the%20leg%20of.html">pull the leg of</a>, <a href="pump.html">pump</a>, <a href="put%20across.html">put across</a>, <a href="Put%20up%20to.html">Put up to</a>, <a href="Pyritology.html">Pyritology</a>, <a href="quantity.html">quantity</a>, <a href="quarter.html">quarter</a>, <a href="questionnaire.html">questionnaire</a>, <a href="Race-card.html">Race-card</a>, <a href="rail.html">rail</a>, <a href="Rain-chart.html">Rain-chart</a>, <a href="Rain-chartmap.html">Rain-chartmap</a>, <a href="rat.html">rat</a>, <a href="read.html">read</a>, <a href="real-time.html">real-time</a>, <a href="reciprocation.html">reciprocation</a>, <a href="reconnaissance.html">reconnaissance</a>, <a href="reconnaissance%20in%20force.html">reconnaissance in force</a>, <a href="reconnaissance%20mission.html">reconnaissance mission</a>, <a href="reconnoitering.html">reconnoitering</a>, <a href="reconnoitring.html">reconnoitring</a>, <a href="refer.html">refer</a>, <a href="reference.html">reference</a>, <a href="registration.html">registration</a>, <a href="rehearsal.html">rehearsal</a>, <a href="Rejourn.html">Rejourn</a>, <a href="Relator.html">Relator</a>, <a href="release.html">release</a>, <a href="relieve.html">relieve</a>, <a href="remit.html">remit</a>, <a href="replication.html">replication</a>, <a href="report.html">report</a>, <a href="Report%20one%27s%20self.html">Report one's self</a>, <a href="reportedly.html">reportedly</a>, <a href="reporter.html">reporter</a>, <a href="request.html">request</a>, <a href="resubmit.html">resubmit</a>, <a href="return.html">return</a>, <a href="reveal.html">reveal</a>, <a href="revile.html">revile</a>, <a href="Rogatory.html">Rogatory</a>, <a href="scoop.html">scoop</a>, <a href="Scout.html">Scout</a>, <a href="scouting.html">scouting</a>, <a href="scouting%20trip.html">scouting trip</a>, <a href="secondhand.html">secondhand</a>, <a href="secret.html">secret</a>, <a href="Secret%20Service.html">Secret Service</a>, <a href="secretive.html">secretive</a>, <a href="security%20review.html">security review</a>, <a href="sell%20out.html">sell out</a>, <a href="semaphore.html">semaphore</a>, <a href="semiofficial.html">semiofficial</a>, <a href="sensitive.html">sensitive</a>, <a href="serendipity.html">serendipity</a>, <a href="shit.html">shit</a>, <a href="shoot%20the%20breeze.html">shoot the breeze</a>, <a href="shop.html">shop</a>, <a href="shut%20one%27s%20mouth.html">shut one's mouth</a>, <a href="SIGINT.html">SIGINT</a>, <a href="sign.html">sign</a>, <a href="signal.html">signal</a>, <a href="signaling.html">signaling</a>, <a href="signals%20intelligence.html">signals intelligence</a>, <a href="sing.html">sing</a>, <a href="snitch.html">snitch</a>, <a href="speak.html">speak</a>, <a href="spill.html">spill</a>, <a href="spill%20the%20beans.html">spill the beans</a>, <a href="spinnable.html">spinnable</a>, <a href="spirit.html">spirit</a>, <a href="spotter.html">spotter</a>, <a href="spy.html">spy</a>, <a href="squeeze%20for.html">squeeze for</a>, <a href="stag.html">stag</a>, <a href="statistical.html">statistical</a>, <a href="stock.html">stock</a>, <a href="storage%20device.html">storage device</a>, <a href="study.html">study</a>, <a href="suggestion.html">suggestion</a>, <a href="sycophant.html">sycophant</a>, <a href="tabloid.html">tabloid</a>, <a href="Tale-bearer.html">Tale-bearer</a>, <a href="Tale-bearing.html">Tale-bearing</a>, <a href="talebearing.html">talebearing</a>, <a href="talk.html">talk</a>, <a href="tap.html">tap</a>, <a href="tape.html">tape</a>, <a href="Tascal.html">Tascal</a>, <a href="tattle.html">tattle</a>, <a href="tattling.html">tattling</a>, <a href="telegraphic.html">telegraphic</a>, <a href="telemeter.html">telemeter</a>, <a href="tell%20on.html">tell on</a>, <a href="telltale.html">telltale</a>, <a href="tergiversate.html">tergiversate</a>, <a href="terminal.html">terminal</a>, <a href="testify.html">testify</a>, <a href="Thule.html">Thule</a>, <a href="ticker.html">ticker</a>, <a href="ticket.html">ticket</a>, <a href="Tiding.html">Tiding</a>, <a href="tightlipped.html">tightlipped</a>, <a href="tip.html">tip</a>, <a href="tip%20off.html">tip off</a>, <a href="tip%20sheet.html">tip sheet</a>, <a href="tipper.html">tipper</a>, <a href="tipster.html">tipster</a>, <a href="To%20know%20how.html">To know how</a>, <a href="To%20put%20in%20possession.html">To put in possession</a>, <a href="To%20record%20a%20deed.html">To record a deed</a>, <a href="To%20speak%20by%20the%20card.html">To speak by the card</a>, <a href="torture.html">torture</a>, <a href="torturing.html">torturing</a>, <a href="tout.html">tout</a>, <a href="tradition.html">tradition</a>, <a href="transcribe.html">transcribe</a>, <a href="translate.html">translate</a>, <a href="Trustily.html">Trustily</a>, <a href="turn.html">turn</a>, <a href="unadvised.html">unadvised</a>, <a href="unbosom.html">unbosom</a>, <a href="uncommunicative.html">uncommunicative</a>, <a href="understand.html">understand</a>, <a href="unenlightened.html">unenlightened</a>, <a href="uninformative.html">uninformative</a>, <a href="uninformed.html">uninformed</a>, <a href="uninquisitive.html">uninquisitive</a>, <a href="uninstructed.html">uninstructed</a>, <a href="unknowing.html">unknowing</a>, <a href="unknowledgeable.html">unknowledgeable</a>, <a href="Unposted.html">Unposted</a>, <a href="unwitting.html">unwitting</a>, <a href="unwrap.html">unwrap</a>, <a href="up-to-date.html">up-to-date</a>, <a href="update.html">update</a>, <a href="video%20display.html">video display</a>, <a href="vilify.html">vilify</a>, <a href="visit.html">visit</a>, <a href="vituperate.html">vituperate</a>, <a href="war.html">war</a>, <a href="warn.html">warn</a>, <a href="Weather%20signal.html">Weather signal</a>, <a href="weather%20station.html">weather station</a>, <a href="well-educated.html">well-educated</a>, <a href="well-informed.html">well-informed</a>, <a href="well-read.html">well-read</a>, <a href="whistle.html">whistle</a>, <a href="Winchester%20drive.html">Winchester drive</a>, <a href="Wind%20signal.html">Wind signal</a>, <a href="window.html">window</a>, <a href="wiretap.html">wiretap</a>, <a href="Wise.html">Wise</a>, <a href="wise%20to.html">wise to</a>, <a href="wit.html">wit</a>, <a href="word.html">word</a>, <a href="wrinkle.html">wrinkle</a>, <a href="write.html">write</a>, <a href="written%20document.html">written document</a>, <a href="yearbook.html">yearbook</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					unformation, jnformation, knformation, onformation, ibformation, ihformation, ijformation, imformation, indormation, inrormation, ingormation, invormation, incormation, infirmation, infkrmation, inflrmation, infprmation, infoemation, infodmation, infofmation, infotmation, infornation, inforjation, inforkation, informqtion, informwtion, informstion, informztion, informarion, informafion, informagion, informayion, informatuon, informatjon, informatkon, informatoon, informatiin, informatikn, informatiln, informatipn, informatiob, informatioh, informatioj, informatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

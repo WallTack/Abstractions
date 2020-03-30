@@ -1,0 +1,573 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>religion</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">a strong belief in a supernatural power or powers that control human destiny</span> <span class="quot">"he lost his faith but not his morality"</span></li><li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">an institution to express belief in a divine power</span> <span class="quot">"he was raised in the Baptist religion","a member of his own faith contradicted him"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Books on religion outnumbered works of fiction by a 2 to 1 margin in 1870 England. Sixteen years later, novels surpassed religious works.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Religion</span> <span class="exp"><span class="wuFld">(R. C. Ch)</span> A monastic or religious order subject to a regulated mode of life; the religious state; as, to enter <span class="wUex">religion</span>
+            .</span> <span class="wuQuot">"A good man was there of religion ."</span></li><li><span class="term">Religion</span> <span class="exp">Specifically, conformity in faith and life to the precepts inculcated in the Bible, respecting the conduct of life and duty toward God and man; the Christian faith and practice.</span> <span class="wuQuot">"Let us with caution indulge the supposition that morality can be maintained without religion ."</span><span class="wuQuot">"Religion will attend you . . . as a pleasant and useful companion in every proper place, and every temperate occupation of life."</span></li><li><span class="term">Religion</span> <span class="exp">Strictness of fidelity in conforming to any practice, as if it were an enjoined rule of conduct.</span> <span class="wuQuot">"Those parts of pleading which in ancient times might perhaps be material, but at this time are become only mere styles and forms, are still continued with much religion ."</span></li><li><span class="term">Religion</span> <span class="exp">The outward act or form by which men indicate their recognition of the existence of a god or of gods having power over their destiny, to whom obedience, service, and honor are due; the feeling or expression of human love, fear, or awe of some superhuman and overruling power, whether by profession of belief, by observance of rites and ceremonies, or by the conduct of life; a system of faith and worship; a manifestation of piety; as, ethical <span class="wUex">religions</span>; monotheistic <span class="wUex">religions</span>; natural <span class="wUex">religion</span>; revealed <span class="wUex">religion</span>; the <span class="wUex">religion</span> of the Jews; the <span class="wUex">religion</span> of idol worshipers.</span> <span class="wuQuot">"An orderly life so far as others are able to observe us is now and then produced by prudential motives or by dint of habit; but without seriousness there can be no religious principle at the bottom, no course of conduct from religious motives; in a word, there can be no religion ."</span><span class="wuQuot">"Religion was] not, as too often now, used as equivalent for godliness; but . . . it expressed the outer form and embodiment which the inward spirit of a true or a false devotion assumed."</span><span class="wuQuot">"Religions , by which are meant the modes of divine worship proper to different tribes, nations, or communities, and based on the belief held in common by the members of them severally. . . . There is no living religion without something like a doctrine. On the other hand, a doctrine, however elaborate, does not constitute a religion ."</span><span class="wuQuot">"Religion . . . means the conscious relation between man and God, and the expression of that relation in human conduct."</span><span class="wuQuot">"After the most straitest sect of our religion I lived a Pharisee."</span><span class="wuQuot">"The image of a brute, adorned<br>
+With gay religions full of pomp and gold."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In ancient religions, the Norsemen considered the mistletoe a baleful plant that caused the death of Baldur, the shining god of youth.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">Recognition of and allegiance in manner of life to a superhuman power or superhuman powers, to whom allegiance and service are regarded as justly due.</span> </li><li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">The healthful development and right life of the spiritual nature, as contrasted with that of the mere intellectual and social powers.</span> </li><li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">Any system of faith in and worship of a divine Being or beings: as, the Christian religion; the religion of the Jews, Greeks, Hindus, or Mohammedans.</span> </li><li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">The rites or services of religion; the practice of sacred rites and ceremonies.</span> </li><li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">The state of life of a professed member of a regular monastic order: as, to enter religion; her name in religion is Mary Aloysia: now especially in Roman Catholic use.</span> </li><li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">A conscientious scruple; scrupulosity.</span> </li><li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">Sense of obligation; conscientiousness; sense of duty.</span> </li><li><span class="tSpeech">n</span> <span class="term">religion</span> <span class="exp">Synonyms Religion, Devotion, Piety, Sanctity, Saintliness, Godliness, Holiness, Religiosity. In the subjective aspect of these words religion is the most general, as it may be also the most formal or external; in this sense it is the place of the will and character of God in the heart, so that they are the principal object of regard and the controlling influence. Devotion and piety have most of fervor. Devotion is a religion that consecrates itself- being both a close attention to God with complete inward subjection and an equal attention to the duties of religion. Piety is religion under the aspect of filial feeling and conduct, the former being the primary idea. Sanctity is generally used objectively; subjectively it is the same as holiness- Saintliness i s more concrete than sanctity, more distinctly a quality of a person, likeness to a saint, ripeness for heaven. Godliness is higher than saintliness; it is likeness to God, or the endeavor to attain such likeness, fixed attention given immediately to God, especially obedience to his will and endeavor to copy his character. Holiness is the most absolute of these words; it is moral and religious wholeness, completeness, or something approaching so near to absolute freedom from sin as to make the word appropriate; it includes not only being free from sin, but refusing it and hating it for its own sake. Religiosity is not a very common nor a very euphonious word, but seems to meet a felt want by expressing a susceptibility to the sentiments of religion, awe, reverence, admiration for the teachings of religion, etc., without much disposition to obey its commands.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										'Jedi' is an official religion, with over 70,000 followers, in Australia.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Religion</span> <span class="exp"><span class="itl">rē-lij′un</span> the recognition of supernatural powers and of the duty lying upon man to yield obedience to these: the performance of our duties of love and obedience towards God: piety: any system of faith and worship: sense of obligation or duty</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Religion</span> <span class="exp">to make profession of religion</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Paine</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Paine.jpg" alt="Thomas%20Paine">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“My country is the world, and my religion is to do good.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Abraham Lincoln</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Abraham%20Lincoln.jpg" alt="Abraham%20Lincoln">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When I do good, I feel good. When I do bad, I feel bad. And that's my religion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Cesare Pavese</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Cesare%20Pavese.jpg" alt="Cesare%20Pavese">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Love is the cheapest of religions.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Paine</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Paine.jpg" alt="Thomas%20Paine">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The world is my country, all mankind are my brethren, and to do good is my religion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Cowper</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Cowper.jpg" alt="William%20Cowper">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Religion! what treasure untold resides in that heavenly word!”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Victor Hugo</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Victor%20Hugo.jpg" alt="Victor%20Hugo">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Toleration is the best religion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F., from L. <span class="wUets">religio</span>,; cf. <span class="wUets">religens</span>, pious, revering the gods, Gr. <span class="wUgrk">'ale`gein</span> to heed, have a care. Cf. <span class="wUer">Neglect</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Not only the religion of the savage, but every religion is this and not much but this.
+					</div>
+					<div class="uAuthor">
+						"The Religious Sentiment" by <span>Daniel G. Brinton</span>					</div>
+										<div class="usage">
+						Science wars against evil practically; religion wars against it theoretically.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						It has everywhere been placed under the sanction of religion, but it arose from secular necessity.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						I think they are making a mistake to sustain any religion which is based upon faith.
+					</div>
+					<div class="uAuthor">
+						"Men, Women, and Gods" by <span>Helen H. Gardener</span>					</div>
+										<div class="usage">
+						Religion breathes the air of the supernatural.
+					</div>
+					<div class="uAuthor">
+						"The Ghosts" by <span>Robert G. Ingersoll</span>					</div>
+										<div class="usage">
+						According to our religion they are on a footing of perfect equality with men.
+					</div>
+					<div class="uAuthor">
+						"The Buddhist Catechism" by <span>Henry S. Olcott</span>					</div>
+										<div class="usage">
+						Superstition is the name given to a low or bad form of religion, to the kind of religion we disapprove.
+					</div>
+					<div class="uAuthor">
+						"Five Stages of Greek Religion" by <span>Gilbert Murray</span>					</div>
+										<div class="usage">
+						Its religion is still the living force which unites and levels, exalts and debases.
+					</div>
+					<div class="uAuthor">
+						"Carmen Ariza" by <span>Charles Francis Stocking</span>					</div>
+										<div class="usage">
+						His religion will be a social religion rather than a biblical religion.
+					</div>
+					<div class="uAuthor">
+						"The Evolution of the Country Community" by <span>Warren H. Wilson</span>					</div>
+										<div class="usage">
+						Florian will say that we are spiting him because of his religion.
+					</div>
+					<div class="uAuthor">
+						"The Landleaguers" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Religion is the absolute relation of man to God which subsumes all other relations.
+					</div>
+					<div class="uAuthor">
+						"Pedagogics as a System" by <span>Karl Rosenkranz</span>					</div>
+										<div class="usage">
+						In religion he revered the traditions, and acquiesced in the commonplaces of his time.
+					</div>
+					<div class="uAuthor">
+						"The Origins and Destiny of Imperial Britain" by <span>J. A. Cramb</span>					</div>
+										<div class="usage">
+						All the corruptions that have taken place, in theology and in religion have been produced by admitting of what man calls 'revealed religion.
+					</div>
+					<div class="uAuthor">
+						"The Writings Of Thomas Paine, Complete" by <span>Thomas Paine</span>					</div>
+										<div class="usage">
+						Such are the artifices which the ministers of religion every where employ to enslave the earth and to retain it under the yoke.
+					</div>
+					<div class="uAuthor">
+						"Letters to Eugenia" by <span>Baron d'Holbach</span>					</div>
+										<div class="usage">
+						But he distinguished very broadly the religion of the reformers from the religion of Protestants.
+					</div>
+					<div class="uAuthor">
+						"The History of Freedom" by <span>John Emerich Edward Dalberg-Acton</span>					</div>
+										<div class="usage">
+						Not only is Christianity thus the religion of a wide variety of races but across the divisions there cut other lines.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 6, Slice 3" by <span>Various</span>					</div>
+										<div class="usage">
+						This must be the true spirit of religion.
+					</div>
+					<div class="uAuthor">
+						"The Shepherd of Salisbury Plain and Other Tales" by <span>Hannah More</span>					</div>
+										<div class="usage">
+						Religion is not sick.
+					</div>
+					<div class="uAuthor">
+						"Speeches, Addresses, and Occasional Sermons, Volume 2 (of 3)" by <span>Theodore Parker</span>					</div>
+										<div class="usage">
+						For in religion, and at every stage of religion, mind seeks mind.
+					</div>
+					<div class="uAuthor">
+						"Lectures on the Origin and Growth of Religion as Illustrated by the Native Religions of Mexico and Peru" by <span>Albert Réville</span>					</div>
+										<div class="usage">
+						Yankee religion ant Tutch religion cannot come out of t'e same piple.
+					</div>
+					<div class="uAuthor">
+						"The Chainbearer" by <span>J. Fenimore Cooper</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							He sang the lay of religion's sway,<br>
+Where a hundred creeds clasp hands<br>
+And shout in glee such a symphony<br>
+That the whole world understands.
+							<div class="poet">"Job Work" by <span>James Whitcomb Riley</span></div>
+						</div>
+											<div class="poemQuote">
+							Religions changed, and shrines were banished,<br>
+Years slipped away, men came and went,<br>
+But thou, whatever pleasures vanished,<br>
+With what thou hadst wast still content.
+							<div class="poet">"Leo" by <span>John Lawson Stoddard</span></div>
+						</div>
+											<div class="poemQuote">
+							Within the world of every man's desire<br>
+Three things have power to lift his soul above,<br>
+Through dreams, religion, and ecstatic fire,<br>
+The star-like shapes of Beauty, Truth, and Love.
+							<div class="poet">"Lines" by <span>Madison Julius Cawein</span></div>
+						</div>
+											<div class="poemQuote">
+							And who would not hail, throughout Erin's dominion,<br>
+The time when Religion's bright form should arise,<br>
+And sail o'er the land; with her blest, healing pinion,<br>
+And bring to all hearts the truth in one guise?
+							<div class="poet">"Ireland" by <span>Thomas Frederick Young</span></div>
+						</div>
+											<div class="poemQuote">
+							Then let religion, reason, love,<br>
+Your holiest, dearest, feelings move.<br>
+Your love, your eloquence, your tears,<br>
+All that on man's best feelings bears,<br>
+Employ, nor let your efforts cease<br>
+Till your fair land has rest and peace.
+							<div class="poet">"To The North Americans" by <span>Janet Hamilton</span></div>
+						</div>
+											<div class="poemQuote">
+							"Lord, guard thy Favours; Lord, extend<br>
+Where farther Western Suns descend;<br>
+Nor Southern Seas the Blessings bound;<br>
+'Till Freedom lift her chearful Head,<br>
+'Till pure Religion onward spread,<br>
+And beaming, wrap the Globe around."
+							<div class="poet">"To Thee the tuneful Anthem soars" by <span>Mather Byles</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						How the religions of the world view cremation .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.islandpacket.com/2012/11/10/2272839/rabbi-bloom-how-the-religions.html" target="_blank" rel="external nofollow">islandpacket.com</a>
+					</div>
+										<div class="usage">
+						The Muslim religion makes unusually large claims for itself.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.slate.com/id/2212662/" target="_blank" rel="external nofollow">slate.com</a>
+					</div>
+										<div class="usage">
+						Religion and Variety of Styles Help Set Lawyers Apart in Trade Center Bombing Trial.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1993/10/25/nyregion/singular-defense-team-religion-variety-styles-help-set-lawyers-apart-trade.html?pagewanted=1" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						My religion defines who I am.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/local/catholic-bishops-continue-to-delve-into-concerns-about-girl-scouts/2012/05/10/gIQAqaRlGU_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The high court on Tuesday denied the appeal from the Freedom From Religion Foundation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wach.com/news/story.aspx?list=~%5Chome%5Clists%5Csearch&amp;id=824828" target="_blank" rel="external nofollow">wach.com</a>
+					</div>
+										<div class="usage">
+						Ethics and Religion Talk, by Rabbi David Krishef.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/opinion/grand-rapids/index.ssf/2012/10/ethics_and_religion_talk_is_de.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						Mark C Taylor, a professor of religion at Williams College, is the editor of 'Deconstruction in Context: Literature and Philosophy' Published: February 01, 1987.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1987/02/01/books/descartes-nietzsche-and-the-search-for-the-unsayable.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Religion News Service Sunday, January 20, 2008.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/01/19/AR2008011900055.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Romney opening up — a little — about his religion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesfreepress.com/news/2012/oct/07/despite-their-disapproval-of-romneys-faith/?local" target="_blank" rel="external nofollow">timesfreepress.com</a>
+					</div>
+										<div class="usage">
+						Religion and politics have never been suitable topics for dinner parties– and that didn't change in 2005.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.readthehook.com/files/old/stories/2005/12/22/coverYearOfLivingDisastrou.html" target="_blank" rel="external nofollow">readthehook.com</a>
+					</div>
+										<div class="usage">
+						There are lots of ways to talk about the relationship between sports and religion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.christiancentury.org/blogs/archive/2012-08/why-discipleship-not-olympics" target="_blank" rel="external nofollow">christiancentury.org</a>
+					</div>
+										<div class="usage">
+						How do all these religions fit together.
+					</div>
+					<div class="uAuthor">
+						<a href="http://pressnews.com/2012/10/04/how-do-all-these-religions-fit-together/" target="_blank" rel="external nofollow">pressnews.com</a>
+					</div>
+										<div class="usage">
+						Religion is a Double Edged Sword.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wgbh/americanexperience/freedomriders/2011/2011/05/15/karl-essay-2/" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Though he was campaigning hundreds of miles away, the spectre of presidential candidate Newt Gingrich was still part of the service Sunday at Ebenezer Baptist Church as the preacher switched his topic from religion to politics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ajc.com/news/atlanta/ebenezer-pastor-criticizes-gingrich-1303603.html" target="_blank" rel="external nofollow">ajc.com</a>
+					</div>
+										<div class="usage">
+						A Meeting of Science and Religion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/978-0-393-06217-5" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Our point of view is: On the top level, philosophies, sciences, arts and even religions are all correlated, since all of us face to a unique world. 
+					</div>
+					<div class="uAuthor">
+						Conjectures on exact solution of three - dimensional (3D) simple orthorhombic Ising lattices
+					</div>
+										<div class="usage">
+						Nelson, Economics as Religion: from Samuelson to Chicago and Beyond (Pennsylvania State University, 2001). F.A. 
+					</div>
+					<div class="uAuthor">
+						Fundamental and Real-World Challenges in Economics
+					</div>
+										<div class="usage">
+						God is the whole universe engaged in process towards the emergence of this new quality, and religion is the sentiment in us that we are drawn towards him, and caught in the movement of the world to a higher level of existence. 
+					</div>
+					<div class="uAuthor">
+						Definability in the Real Universe
+					</div>
+										<div class="usage">
+						The others were most often misclassiﬁed as “Religion” or “Belles Lettres”. 
+					</div>
+					<div class="uAuthor">
+						Recognizing Text Genres with Simple Metrics Using Discriminant Analysis
+					</div>
+										<div class="usage">
+						The tone of the argument is overtly prophetic, as if in the name of a strange religion without God. 
+					</div>
+					<div class="uAuthor">
+						The Latest on the Sokal Affair: Beyond Three Extremisms
+					</div>
+										<div class="usage">
+						The real novelty of the book is elsewhere, however, and can be found in Appendix A entitled ‘Religion as pseudoscience”. 
+					</div>
+					<div class="uAuthor">
+						The Latest on the Sokal Affair: Beyond Three Extremisms
+					</div>
+										<div class="usage">
+						It should be made clear, here, that Sokal is not referring to cults or new religious movements, but to established religions : Christianity, Judaism, Islam and Hindouism. 
+					</div>
+					<div class="uAuthor">
+						The Latest on the Sokal Affair: Beyond Three Extremisms
+					</div>
+										<div class="usage">
+						Sokal candidly explains that “religion refers to real or alleged phenomena, or real or alleged causal relations, which modern science views as improbable”. 
+					</div>
+					<div class="uAuthor">
+						The Latest on the Sokal Affair: Beyond Three Extremisms
+					</div>
+										<div class="usage">
+						He goes on “that [religion] attempts to base its aﬃrmations on a form of reasoning and system of proofs that is far from satisfying the criteria of modern science in terms of logic and veriﬁcation” . 
+					</div>
+					<div class="uAuthor">
+						The Latest on the Sokal Affair: Beyond Three Extremisms
+					</div>
+										<div class="usage">
+						At no point does he entertain the idea of a plurality of levels of Reality, with science applying to certain levels and religion to others. 
+					</div>
+					<div class="uAuthor">
+						The Latest on the Sokal Affair: Beyond Three Extremisms
+					</div>
+										<div class="usage">
+						Stoeger, W. R. 2004, “What is ‘the Universe’ which Cosmology Studies?” in Fifty Years in Science and Religion: Ian G. 
+					</div>
+					<div class="uAuthor">
+						Retroduction, Multiverse Hypotheses and Their Testability
+					</div>
+										<div class="usage">
+						In the Catholic religion the two are mediated in the miracle of transubstantiation. 
+					</div>
+					<div class="uAuthor">
+						Luhmann's Communication-Theoretical Specification of the 'Genomena' of Husserl's Phenomenology
+					</div>
+										<div class="usage">
+						This compromise allowed the physicality of science to coexist with the spirituality of religion. 
+					</div>
+					<div class="uAuthor">
+						The emergence of the physical world from information processing
+					</div>
+										<div class="usage">
+						Theology In most religions god is considered to be outside of the space-time continuum. 
+					</div>
+					<div class="uAuthor">
+						Efficiency Theory: a Unifying Theory for Information, Computation and Intelligence
+					</div>
+										<div class="usage">
+						These words can be approximately divided into different groups such as “computer”, “religion” etc. 
+					</div>
+					<div class="uAuthor">
+						Alternating Direction Method of Multipliers for Sparse Principal Component Analysis
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a strong belief in a supernatural power or powers that control human destiny"><a href="faith.html">faith</a>, <a href="religious%20belief.html">religious belief</a>, </div><div class="synGroup" title="an institution to express belief in a divine power"><a href="faith.html">faith</a>, <a href="organized%20religion.html">organized religion</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="belief.html">belief</a>, <a href="establishment.html">establishment</a>, <a href="institution.html">institution</a>, <a href="supernatural%20virtue.html">supernatural virtue</a>, <a href="theological%20virtue.html">theological virtue</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="asian%20shamanism.html">asian shamanism</a>, <a href="bahaism.html">bahaism</a>, <a href="brahmanism.html">brahmanism</a>, <a href="brahminism.html">brahminism</a>, <a href="buddhism.html">buddhism</a>, <a href="christian%20church.html">christian church</a>, <a href="christian%20religion.html">christian religion</a>, <a href="christianity.html">christianity</a>, <a href="church%20of%20scientology.html">church of scientology</a>, <a href="hebraism.html">hebraism</a>, <a href="hindooism.html">hindooism</a>, <a href="hinduism.html">hinduism</a>, <a href="hsuan%20chiao.html">hsuan chiao</a>, <a href="jainism.html">jainism</a>, <a href="jewish%20religion.html">jewish religion</a>, <a href="judaism.html">judaism</a>, <a href="khalsa.html">khalsa</a>, <a href="manichaeanism.html">manichaeanism</a>, <a href="manichaeism.html">manichaeism</a>, <a href="mazdaism.html">mazdaism</a>, <a href="mithraicism.html">mithraicism</a>, <a href="mithraism.html">mithraism</a>, <a href="scientology.html">scientology</a>, <a href="shinto.html">shinto</a>, <a href="shintoism.html">shintoism</a>, <a href="sikhism.html">sikhism</a>, <a href="taoism.html">taoism</a>, <a href="wicca.html">wicca</a>, <a href="zoroastrianism.html">zoroastrianism</a>, <a href="analogy.html">analogy</a>, <a href="apophatism.html">apophatism</a>, <a href="cataphatism.html">cataphatism</a>, <a href="church.html">church</a>, <a href="cult.html">cult</a>, <a href="cultus.html">cultus</a>, <a href="doctrine%20of%20analogy.html">doctrine of analogy</a>, <a href="ecclesiasticism.html">ecclesiasticism</a>, <a href="established%20church.html">established church</a>, <a href="heathenism.html">heathenism</a>, <a href="mysticism.html">mysticism</a>, <a href="nature%20worship.html">nature worship</a>, <a href="pagan%20religion.html">pagan religion</a>, <a href="paganism.html">paganism</a>, <a href="religious%20cult.html">religious cult</a>, <a href="religious%20mysticism.html">religious mysticism</a>, <a href="religious%20order.html">religious order</a>, <a href="religious%20sect.html">religious sect</a>, <a href="revealed%20religion.html">revealed religion</a>, <a href="sect.html">sect</a>, <a href="shamanism.html">shamanism</a>, <a href="theism.html">theism</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="religionist.html">religionist</a>, <a href="religious.html">religious</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-ous.html">-ous</a>, <a href="abbey.html">abbey</a>, <a href="Abraxas.html">Abraxas</a>, <a href="adherence.html">adherence</a>, <a href="adhesion.html">adhesion</a>, <a href="administer.html">administer</a>, <a href="adultery.html">adultery</a>, <a href="advance.html">advance</a>, <a href="Adventism.html">Adventism</a>, <a href="affirmation.html">affirmation</a>, <a href="afford.html">afford</a>, <a href="alien.html">alien</a>, <a href="alike.html">alike</a>, <a href="allegiance.html">allegiance</a>, <a href="Amish.html">Amish</a>, <a href="Ancestor-worship.html">Ancestor-worship</a>, <a href="animism.html">animism</a>, <a href="anti-Semite.html">anti-Semite</a>, <a href="antiblack.html">antiblack</a>, <a href="Antiburgher.html">Antiburgher</a>, <a href="Antichristian.html">Antichristian</a>, <a href="Antichristianism.html">Antichristianism</a>, <a href="Antichristianity.html">Antichristianity</a>, <a href="Apostacy.html">Apostacy</a>, <a href="apostasy.html">apostasy</a>, <a href="apostate.html">apostate</a>, <a href="Areopagus.html">Areopagus</a>, <a href="article.html">article</a>, <a href="Asian%20shamanism.html">Asian shamanism</a>, <a href="assassin.html">assassin</a>, <a href="Assidean.html">Assidean</a>, <a href="association.html">association</a>, <a href="attachment.html">attachment</a>, <a href="attitude.html">attitude</a>, <a href="audacious.html">audacious</a>, <a href="Aum.html">Aum</a>, <a href="Aum%20Shinrikyo.html">Aum Shinrikyo</a>, <a href="Averroist.html">Averroist</a>, <a href="awakening.html">awakening</a>, <a href="Awakenment.html">Awakenment</a>, <a href="Awaking.html">Awaking</a>, <a href="Baalist.html">Baalist</a>, <a href="Baalite.html">Baalite</a>, <a href="Bachelor%20of%20Divinity.html">Bachelor of Divinity</a>, <a href="backslide.html">backslide</a>, <a href="backslider.html">backslider</a>, <a href="backward.html">backward</a>, <a href="backwards.html">backwards</a>, <a href="Bahaism.html">Bahaism</a>, <a href="BD.html">BD</a>, <a href="belief.html">belief</a>, <a href="believe.html">believe</a>, <a href="believer.html">believer</a>, <a href="between.html">between</a>, <a href="Bible.html">Bible</a>, <a href="bigot.html">bigot</a>, <a href="bishop.html">bishop</a>, <a href="blasphemer.html">blasphemer</a>, <a href="blasphemy.html">blasphemy</a>, <a href="blue.html">blue</a>, <a href="Bourignian.html">Bourignian</a>, <a href="Brahma.html">Brahma</a>, <a href="Brahmanism.html">Brahmanism</a>, <a href="Brahmanist.html">Brahmanist</a>, <a href="Brahminism.html">Brahminism</a>, <a href="Brahminist.html">Brahminist</a>, <a href="Brahmo-somaj.html">Brahmo-somaj</a>, <a href="brother.html">brother</a>, <a href="Buddha.html">Buddha</a>, <a href="Buddhism.html">Buddhism</a>, <a href="burgher.html">burgher</a>, <a href="cabala.html">cabala</a>, <a href="Cabalism.html">Cabalism</a>, <a href="Cacodoxy.html">Cacodoxy</a>, <a href="calif.html">calif</a>, <a href="cant.html">cant</a>, <a href="capitol.html">capitol</a>, <a href="caste.html">caste</a>, <a href="cat%20thyme.html">cat thyme</a>, <a href="catechism.html">catechism</a>, <a href="catechist.html">catechist</a>, <a href="catechumen.html">catechumen</a>, <a href="Catholic.html">Catholic</a>, <a href="ceremonial.html">ceremonial</a>, <a href="ceremony.html">ceremony</a>, <a href="charge.html">charge</a>, <a href="Christ.html">Christ</a>, <a href="Christendom.html">Christendom</a>, <a href="Christian.html">Christian</a>, <a href="Christianism.html">Christianism</a>, <a href="Christianity.html">Christianity</a>, <a href="christianly.html">christianly</a>, <a href="Christocentric.html">Christocentric</a>, <a href="Church%20of%20Scientology.html">Church of Scientology</a>, <a href="Church%20work.html">Church work</a>, <a href="churchgoing.html">churchgoing</a>, <a href="CID.html">CID</a>, <a href="circumstantial.html">circumstantial</a>, <a href="civility.html">civility</a>, <a href="clergy.html">clergy</a>, <a href="co-religionist.html">co-religionist</a>, <a href="Comitia.html">Comitia</a>, <a href="Commentitious.html">Commentitious</a>, <a href="confession.html">confession</a>, <a href="confessor.html">confessor</a>, <a href="conforming.html">conforming</a>, <a href="conformist.html">conformist</a>, <a href="Confucianism.html">Confucianism</a>, <a href="consecration.html">consecration</a>, <a href="consistory.html">consistory</a>, <a href="consolation.html">consolation</a>, <a href="Constantine.html">Constantine</a>, <a href="Constantine%20I.html">Constantine I</a>, <a href="Constantine%20the%20Great.html">Constantine the Great</a>, <a href="conversion.html">conversion</a>, <a href="convert.html">convert</a>, <a href="copula.html">copula</a>, <a href="coreligionist.html">coreligionist</a>, <a href="covenant.html">covenant</a>, <a href="Covenanter.html">Covenanter</a>, <a href="cross.html">cross</a>, <a href="cross%20oneself.html">cross oneself</a>, <a href="crucifix.html">crucifix</a>, <a href="cult.html">cult</a>, <a href="Culturist.html">Culturist</a>, <a href="dark.html">dark</a>, <a href="darkness.html">darkness</a>, <a href="DD.html">DD</a>, <a href="decline.html">decline</a>, <a href="deist.html">deist</a>, <a href="Dereligionize.html">Dereligionize</a>, <a href="deserter.html">deserter</a>, <a href="detriment.html">detriment</a>, <a href="devotee.html">devotee</a>, <a href="devotion.html">devotion</a>, <a href="devout.html">devout</a>, <a href="dicast.html">dicast</a>, <a href="disaffection.html">disaffection</a>, <a href="disarm.html">disarm</a>, <a href="disbeliever.html">disbeliever</a>, <a href="disbelieving.html">disbelieving</a>, <a href="dissidence.html">dissidence</a>, <a href="dissident.html">dissident</a>, <a href="divinity.html">divinity</a>, <a href="Doctor%20of%20Divinity.html">Doctor of Divinity</a>, <a href="doctrinal.html">doctrinal</a>, <a href="doctrine.html">doctrine</a>, <a href="domain.html">domain</a>, <a href="Donatism.html">Donatism</a>, <a href="draw.html">draw</a>, <a href="Druid.html">Druid</a>, <a href="druidism.html">druidism</a>, <a href="Druse.html">Druse</a>, <a href="Ebionite.html">Ebionite</a>, <a href="ecclesiastic.html">ecclesiastic</a>, <a href="ecclesiasticism.html">ecclesiasticism</a>, <a href="edification.html">edification</a>, <a href="Edifier.html">Edifier</a>, <a href="edify.html">edify</a>, <a href="Edwards.html">Edwards</a>, <a href="embrace.html">embrace</a>, <a href="enlighten.html">enlighten</a>, <a href="essential.html">essential</a>, <a href="establishment.html">establishment</a>, <a href="establishmentarian.html">establishmentarian</a>, <a href="establishmentarianism.html">establishmentarianism</a>, <a href="Euchite.html">Euchite</a>, <a href="evangelical.html">evangelical</a>, <a href="exercise.html">exercise</a>, <a href="experimental.html">experimental</a>, <a href="expurgation.html">expurgation</a>, <a href="exterior.html">exterior</a>, <a href="external.html">external</a>, <a href="Externalism.html">Externalism</a>, <a href="faith.html">faith</a>, <a href="faithless.html">faithless</a>, <a href="Familist.html">Familist</a>, <a href="fanatic.html">fanatic</a>, <a href="fanaticism.html">fanaticism</a>, <a href="Fane.html">Fane</a>, <a href="Feroher.html">Feroher</a>, <a href="fetish.html">fetish</a>, <a href="fire-worship.html">fire-worship</a>, <a href="First%20Amendment.html">First Amendment</a>, <a href="fixedness.html">fixedness</a>, <a href="Flavius%20Claudius%20Julianus.html">Flavius Claudius Julianus</a>, <a href="Flavius%20Valerius%20Constantinus.html">Flavius Valerius Constantinus</a>, <a href="foe.html">foe</a>, <a href="formalised.html">formalised</a>, <a href="formalism.html">formalism</a>, <a href="Formalist.html">Formalist</a>, <a href="formalistic.html">formalistic</a>, <a href="formalized.html">formalized</a>, <a href="Frazer.html">Frazer</a>, <a href="free-thinking.html">free-thinking</a>, <a href="freedom%20from%20discrimination.html">freedom from discrimination</a>, <a href="freethinker.html">freethinker</a>, <a href="genius.html">genius</a>, <a href="gentile.html">gentile</a>, <a href="ghost%20dance.html">ghost dance</a>, <a href="Giaour.html">Giaour</a>, <a href="gipsy.html">gipsy</a>, <a href="Gnostic.html">Gnostic</a>, <a href="god.html">god</a>, <a href="godliness.html">godliness</a>, <a href="godly.html">godly</a>, <a href="goody.html">goody</a>, <a href="Gray%20nuns.html">Gray nuns</a>, <a href="Gueber.html">Gueber</a>, <a href="Guebre.html">Guebre</a>, <a href="Guru.html">Guru</a>, <a href="Gustavus.html">Gustavus</a>, <a href="Gustavus%20I.html">Gustavus I</a>, <a href="Hades.html">Hades</a>, <a href="heathenism.html">heathenism</a>, <a href="Heathenry.html">Heathenry</a>, <a href="Hebraism.html">Hebraism</a>, <a href="Heckerism.html">Heckerism</a>, <a href="hell.html">hell</a>, <a href="Henotheism.html">Henotheism</a>, <a href="heresy.html">heresy</a>, <a href="heretic.html">heretic</a>, <a href="hermetic.html">hermetic</a>, <a href="Herodian.html">Herodian</a>, <a href="Hindooism.html">Hindooism</a>, <a href="Hinduism.html">Hinduism</a>, <a href="Hobbism.html">Hobbism</a>, <a href="holiness.html">holiness</a>, <a href="holy.html">holy</a>, <a href="Holy%20Alliance.html">Holy Alliance</a>, <a href="Holy%20Roller.html">Holy Roller</a>, <a href="house.html">house</a>, <a href="Huguenotism.html">Huguenotism</a>, <a href="humanism.html">humanism</a>, <a href="humanist.html">humanist</a>, <a href="humanistic.html">humanistic</a>, <a href="humanitarian.html">humanitarian</a>, <a href="Hutchinsonian.html">Hutchinsonian</a>, <a href="hypocrisy.html">hypocrisy</a>, <a href="Indifferentism.html">Indifferentism</a>, <a href="Indra.html">Indra</a>, <a href="infernal%20region.html">infernal region</a>, <a href="infidel.html">infidel</a>, <a href="infidelity.html">infidelity</a>, <a href="Inquisition.html">Inquisition</a>, <a href="institute.html">institute</a>, <a href="instrumentality.html">instrumentality</a>, <a href="Intercommunity.html">Intercommunity</a>, <a href="ion.html">ion</a>, <a href="irradiate.html">irradiate</a>, <a href="irreligion.html">irreligion</a>, <a href="irreligionist.html">irreligionist</a>, <a href="irreligious.html">irreligious</a>, <a href="irreligiousness.html">irreligiousness</a>, <a href="Islam.html">Islam</a>, <a href="Islamism.html">Islamism</a>, <a href="Islamize.html">Islamize</a>, <a href="Izedism.html">Izedism</a>, <a href="Jahvism.html">Jahvism</a>, <a href="Jainism.html">Jainism</a>, <a href="James%20George%20Frazer.html">James George Frazer</a>, <a href="Jewish.html">Jewish</a>, <a href="Jewish%20religion.html">Jewish religion</a>, <a href="Jonathan%20Edwards.html">Jonathan Edwards</a>, <a href="Judaic.html">Judaic</a>, <a href="Judaical.html">Judaical</a>, <a href="Judaism.html">Judaism</a>, <a href="Judaization.html">Judaization</a>, <a href="Julian.html">Julian</a>, <a href="Julian%20the%20Apostate.html">Julian the Apostate</a>, <a href="karma.html">karma</a>, <a href="Kokka.html">Kokka</a>, <a href="Kokka%20Shinto.html">Kokka Shinto</a>, <a href="Krishna.html">Krishna</a>, <a href="Lamaism.html">Lamaism</a>, <a href="Lamaist.html">Lamaist</a>, <a href="Laodicean.html">Laodicean</a>, <a href="Laodiceanism.html">Laodiceanism</a>, <a href="latitudinarian.html">latitudinarian</a>, <a href="Latitudinarianism.html">Latitudinarianism</a>, <a href="liberalism.html">liberalism</a>, <a href="liberality.html">liberality</a>, <a href="libertine.html">libertine</a>, <a href="licentious.html">licentious</a>, <a href="light.html">light</a>, <a href="linguistic%20profiling.html">linguistic profiling</a>, <a href="Magian.html">Magian</a>, <a href="Mahayana.html">Mahayana</a>, <a href="Mahayana%20Buddhism.html">Mahayana Buddhism</a>, <a href="Mahdi.html">Mahdi</a>, <a href="Mahometanize.html">Mahometanize</a>, <a href="Mahratta.html">Mahratta</a>, <a href="Mandaean.html">Mandaean</a>, <a href="Mandaeanism.html">Mandaeanism</a>, <a href="Mandeanism.html">Mandeanism</a>, <a href="Manichaeanism.html">Manichaeanism</a>, <a href="Manichaeism.html">Manichaeism</a>, <a href="Marcionite.html">Marcionite</a>, <a href="Marrano.html">Marrano</a>, <a href="martyr.html">martyr</a>, <a href="Master%20of%20Divinity.html">Master of Divinity</a>, <a href="Mawmetry.html">Mawmetry</a>, <a href="Maxim.html">Maxim</a>, <a href="Mazdaism.html">Mazdaism</a>, <a href="Mazdeism.html">Mazdeism</a>, <a href="MDiv.html">MDiv</a>, <a href="Medievalism.html">Medievalism</a>, <a href="meditation.html">meditation</a>, <a href="Mekhitarist.html">Mekhitarist</a>, <a href="Methodist.html">Methodist</a>, <a href="Methodistic.html">Methodistic</a>, <a href="ministerial.html">ministerial</a>, <a href="ministry.html">ministry</a>, <a href="misbelieve.html">misbelieve</a>, <a href="misbeliever.html">misbeliever</a>, <a href="Miscreance.html">Miscreance</a>, <a href="Miscreancy.html">Miscreancy</a>, <a href="Misreligion.html">Misreligion</a>, <a href="mission.html">mission</a>, <a href="missionary.html">missionary</a>, <a href="Misworship.html">Misworship</a>, <a href="Mithraicism.html">Mithraicism</a>, <a href="Mithraism.html">Mithraism</a>, <a href="moderate.html">moderate</a>, <a href="moderatism.html">moderatism</a>, <a href="Mohammedan.html">Mohammedan</a>, <a href="Mohammedanism.html">Mohammedanism</a>, <a href="Mohammedism.html">Mohammedism</a>, <a href="monastic.html">monastic</a>, <a href="monastical.html">monastical</a>, <a href="Monk.html">Monk</a>, <a href="Moor.html">Moor</a>, <a href="moralism.html">moralism</a>, <a href="morality.html">morality</a>, <a href="Mormon.html">Mormon</a>, <a href="Mozarab.html">Mozarab</a>, <a href="Muhammadan.html">Muhammadan</a>, <a href="Muslimism.html">Muslimism</a>, <a href="mystery.html">mystery</a>, <a href="mysticism.html">mysticism</a>, <a href="national.html">national</a>, <a href="natural.html">natural</a>, <a href="Natural%20religion.html">Natural religion</a>, <a href="naturalism.html">naturalism</a>, <a href="naturalist.html">naturalist</a>, <a href="nature%20worship.html">nature worship</a>, <a href="Nature-worship.html">Nature-worship</a>, <a href="naturist.html">naturist</a>, <a href="Nazarene.html">Nazarene</a>, <a href="Nefandous.html">Nefandous</a>, <a href="neologist.html">neologist</a>, <a href="netherworld.html">netherworld</a>, <a href="newspaper.html">newspaper</a>, <a href="nihilism.html">nihilism</a>, <a href="nirvana.html">nirvana</a>, <a href="non-Christian%20priest.html">non-Christian priest</a>, <a href="nonconforming.html">nonconforming</a>, <a href="Nonconformist.html">Nonconformist</a>, <a href="nudist.html">nudist</a>, <a href="Nullifidian.html">Nullifidian</a>, <a href="numen.html">numen</a>, <a href="oath.html">oath</a>, <a href="Olympianism.html">Olympianism</a>, <a href="Orangeman.html">Orangeman</a>, <a href="Ormazd.html">Ormazd</a>, <a href="Ormuzd.html">Ormuzd</a>, <a href="Orthodox.html">Orthodox</a>, <a href="orthodoxy.html">orthodoxy</a>, <a href="pagan.html">pagan</a>, <a href="Pali.html">Pali</a>, <a href="pantheon.html">pantheon</a>, <a href="papacy.html">papacy</a>, <a href="Parsee.html">Parsee</a>, <a href="Parseeism.html">Parseeism</a>, <a href="Paulinism.html">Paulinism</a>, <a href="perfectibility.html">perfectibility</a>, <a href="persecution.html">persecution</a>, <a href="pervert.html">pervert</a>, <a href="pharisaic.html">pharisaic</a>, <a href="pharisaical.html">pharisaical</a>, <a href="Pharisaism.html">Pharisaism</a>, <a href="pharisee.html">pharisee</a>, <a href="Phariseeism.html">Phariseeism</a>, <a href="philanthropic%20foundation.html">philanthropic foundation</a>, <a href="Physicism.html">Physicism</a>, <a href="Physiolatry.html">Physiolatry</a>, <a href="Pietist.html">Pietist</a>, <a href="piety.html">piety</a>, <a href="pious.html">pious</a>, <a href="pious%20platitude.html">pious platitude</a>, <a href="pontifex.html">pontifex</a>, <a href="popery.html">popery</a>, <a href="pray.html">pray</a>, <a href="preach.html">preach</a>, <a href="Precisian.html">Precisian</a>, <a href="presbytery.html">presbytery</a>, <a href="priest.html">priest</a>, <a href="profane.html">profane</a>, <a href="profession.html">profession</a>, <a href="propagate.html">propagate</a>, <a href="proselyte.html">proselyte</a>, <a href="proselytise.html">proselytise</a>, <a href="proselytism.html">proselytism</a>, <a href="proselytize.html">proselytize</a>, <a href="Protestant.html">Protestant</a>, <a href="Protestantism.html">Protestantism</a>, <a href="pundit.html">pundit</a>, <a href="Puritanism.html">Puritanism</a>, <a href="quietism.html">quietism</a>, <a href="racist.html">racist</a>, <a href="radical.html">radical</a>, <a href="Rastafarian.html">Rastafarian</a>, <a href="rationalize.html">rationalize</a>, <a href="ratter.html">ratter</a>, <a href="recreant.html">recreant</a>, <a href="recusant.html">recusant</a>, <a href="reformer.html">reformer</a>, <a href="reformist.html">reformist</a>, <a href="Religion%20of%20humanity.html">Religion of humanity</a>, <a href="Religionary.html">Religionary</a>, <a href="Religionise.html">Religionise</a>, <a href="religionism.html">religionism</a>, <a href="religionist.html">religionist</a>, <a href="Religionize.html">Religionize</a>, <a href="Religionless.html">Religionless</a>, <a href="religiosity.html">religiosity</a>, <a href="religious.html">religious</a>, <a href="Religious%20liberty.html">Religious liberty</a>, <a href="religious%20mysticism.html">religious mysticism</a>, <a href="religious%20orientation.html">religious orientation</a>, <a href="religious%20rite.html">religious rite</a>, <a href="religiously.html">religiously</a>, <a href="renegade.html">renegade</a>, <a href="reprobate.html">reprobate</a>, <a href="revealed%20religion.html">revealed religion</a>, <a href="reverend.html">reverend</a>, <a href="revival.html">revival</a>, <a href="revival%20meeting.html">revival meeting</a>, <a href="revivalist.html">revivalist</a>, <a href="righteous.html">righteous</a>, <a href="rite.html">rite</a>, <a href="ritualism.html">ritualism</a>, <a href="Roman.html">Roman</a>, <a href="Roman%20Catholic.html">Roman Catholic</a>, <a href="Romanise.html">Romanise</a>, <a href="Romanism.html">Romanism</a>, <a href="Romanize.html">Romanize</a>, <a href="Romanizer.html">Romanizer</a>, <a href="romish.html">romish</a>, <a href="Rose-water.html">Rose-water</a>, <a href="Sabaism.html">Sabaism</a>, <a href="Sabian.html">Sabian</a>, <a href="Sabianism.html">Sabianism</a>, <a href="sacred.html">sacred</a>, <a href="sacredly.html">sacredly</a>, <a href="saintliness.html">saintliness</a>, <a href="Salvation%20Army.html">Salvation Army</a>, <a href="sanctity.html">sanctity</a>, <a href="satire.html">satire</a>, <a href="sceptical.html">sceptical</a>, <a href="Scheol.html">Scheol</a>, <a href="Scientology.html">Scientology</a>, <a href="scorner.html">scorner</a>, <a href="Second%20Adventism.html">Second Adventism</a>, <a href="sect.html">sect</a>, <a href="sectarian.html">sectarian</a>, <a href="sectary.html">sectary</a>, <a href="secular.html">secular</a>, <a href="secular%20humanism.html">secular humanism</a>, <a href="secularisation.html">secularisation</a>, <a href="secularism.html">secularism</a>, <a href="secularist.html">secularist</a>, <a href="secularization.html">secularization</a>, <a href="seeker.html">seeker</a>, <a href="segregate.html">segregate</a>, <a href="self.html">self</a>, <a href="Semitise.html">Semitise</a>, <a href="separate.html">separate</a>, <a href="Separatical.html">Separatical</a>, <a href="serious.html">serious</a>, <a href="serpent-worship.html">serpent-worship</a>, <a href="shamanism.html">shamanism</a>, <a href="Shaster.html">Shaster</a>, <a href="Shema.html">Shema</a>, <a href="Shinto.html">Shinto</a>, <a href="Shintoism.html">Shintoism</a>, <a href="side.html">side</a>, <a href="Sikhism.html">Sikhism</a>, <a href="sin.html">sin</a>, <a href="Sinism.html">Sinism</a>, <a href="Sir%20James%20George%20Frazer.html">Sir James George Frazer</a>, <a href="sisterhood.html">sisterhood</a>, <a href="sistership.html">sistership</a>, <a href="skeptic.html">skeptic</a>, <a href="skeptical.html">skeptical</a>, <a href="skepticism.html">skepticism</a>, <a href="snuffler.html">snuffler</a>, <a href="solemn.html">solemn</a>, <a href="speculate.html">speculate</a>, <a href="spiritual.html">spiritual</a>, <a href="spirituality.html">spirituality</a>, <a href="State-religion.html">State-religion</a>, <a href="Subreligion.html">Subreligion</a>, <a href="Sunday-saint.html">Sunday-saint</a>, <a href="superstition.html">superstition</a>, <a href="superstitious.html">superstitious</a>, <a href="Superstitious%20use.html">Superstitious use</a>, <a href="supporter.html">supporter</a>, <a href="Supreme%20Truth.html">Supreme Truth</a>, <a href="symbol.html">symbol</a>, <a href="syncretic.html">syncretic</a>, <a href="syncretism.html">syncretism</a>, <a href="Taoism.html">Taoism</a>, <a href="Tartuffe.html">Tartuffe</a>, <a href="teacher.html">teacher</a>, <a href="tenno.html">tenno</a>, <a href="Teraphim.html">Teraphim</a>, <a href="Terpsichore.html">Terpsichore</a>, <a href="terrorist.html">terrorist</a>, <a href="Test%20Acts.html">Test Acts</a>, <a href="That.html">That</a>, <a href="The%20Way.html">The Way</a>, <a href="theology.html">theology</a>, <a href="Theophilanthropist.html">Theophilanthropist</a>, <a href="Theophilanthropy.html">Theophilanthropy</a>, <a href="Theravada.html">Theravada</a>, <a href="Theravada%20Buddhism.html">Theravada Buddhism</a>, <a href="tithe.html">tithe</a>, <a href="To%20walk%20in%20the%20light.html">To walk in the light</a>, <a href="toleration.html">toleration</a>, <a href="tonsure.html">tonsure</a>, <a href="tract.html">tract</a>, <a href="Trismegistus.html">Trismegistus</a>, <a href="truth.html">truth</a>, <a href="turncoat.html">turncoat</a>, <a href="ulema.html">ulema</a>, <a href="unbelieving.html">unbelieving</a>, <a href="unconverted.html">unconverted</a>, <a href="underworld.html">underworld</a>, <a href="undogmatic.html">undogmatic</a>, <a href="undogmatical.html">undogmatical</a>, <a href="unessential.html">unessential</a>, <a href="unorthodoxy.html">unorthodoxy</a>, <a href="Unprotestantize.html">Unprotestantize</a>, <a href="Vesta.html">Vesta</a>, <a href="voodoo.html">voodoo</a>, <a href="votary.html">votary</a>, <a href="wholesome.html">wholesome</a>, <a href="Wicca.html">Wicca</a>, <a href="witch.html">witch</a>, <a href="Yahwism.html">Yahwism</a>, <a href="Zabaism.html">Zabaism</a>, <a href="Zabism.html">Zabism</a>, <a href="Zend-Avesta.html">Zend-Avesta</a>, <a href="Zendik.html">Zendik</a>, <a href="Zoroastrian.html">Zoroastrian</a>, <a href="Zoroastrianism.html">Zoroastrianism</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					eeligion, deligion, feligion, teligion, rwligion, rsligion, rdligion, rrligion, rekigion, reoigion, repigion, relugion, reljgion, relkgion, relogion, relifion, relition, relihion, relibion, relivion, religuon, religjon, religkon, religoon, religiin, religikn, religiln, religipn, religiob, religioh, religioj, religiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

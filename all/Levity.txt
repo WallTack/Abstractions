@@ -1,0 +1,365 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>levity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">levity</span> <span class="exp">a manner lacking seriousness</span> </li><li><span class="tSpeech">n</span> <span class="term">levity</span> <span class="exp">feeling an inappropriate lack of seriousness</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Levity</span> <span class="exp">Lack of gravity and earnestness in deportment or character; trifling gayety; frivolity; sportiveness; vanity.</span> <span class="wuQuot">"A spirit of levity and libertinism."</span><span class="wuQuot">"He never employed his omnipotence out of levity ."</span></li><li><span class="term">Levity</span> <span class="exp">Lack of steadiness or constancy; disposition to change; fickleness; volatility.</span> <span class="wuQuot">"The levity that is fatigued and disgusted with everything of which it is in possession."</span></li><li><span class="term">Levity</span> <span class="exp">The quality of weighing less than something else of equal bulk; relative lightness, especially as shown by rising through, or floating upon, a contiguous substance; buoyancy; -- opposed to <span class="wUant">gravity</span>.</span> <span class="wuQuot">"He gave the form of levity to that which ascended; to that which descended, the form of gravity."</span><span class="wuQuot">"This bubble by reason of its comparative levity to the fluidity that incloses it, would ascend to the top."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">levity</span> <span class="exp">Lightness of weight; relatively small specific gravity.</span> </li><li><span class="tSpeech">n</span> <span class="term">levity</span> <span class="exp">A tendency to rise by a force contrary to gravity.</span> </li><li><span class="tSpeech">n</span> <span class="term">levity</span> <span class="exp">Lightness of spirit or temper. Specifically— Cheerfulness; ease of mind.</span> </li><li><span class="tSpeech">n</span> <span class="term">levity</span> <span class="exp">Carelessness of temper or conduct; want of seriousness; disposition to trifle; inconstancy; volatility: as, the levity of youth.</span> </li><li><span class="tSpeech">n</span> <span class="term">levity</span> <span class="exp">Synonyms . Levity, Volatility, Flightiness, Frivolity, Lightness. All these words are founded upon the idea of the lack of physical and, by figure, of mental and moral substance or weight, with a resulting ease in flying away from what is wise. The first three refer especially to outward conduct. Levity is a want of seriousness, temporary or habitual, a disposition to trifle with important interests. Volatility is that moral defect by which one cannot dwell long upon any one object of thought, or turns quickly from one source of pleasure to another: the word does not convey much opprobrium; in the young some degree of volatility is expected. Flightiness borders upon the loss of sanity in caprice or excitement of fancy; it is volatility in an extreme degree. Frivolity is a matter of nature, an inability to care about any but the most petty and trifling things. Lightness is not so strong as frivolity, but covers nearly the same ground; it emphasizes inconstancy.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Levity</span> <span class="exp"><span class="itl">lev′it-i</span> lightness of weight: lightness of temper or conduct: thoughtlessness: disposition to trifle: vanity.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Daniel Defoe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Daniel Defoe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Middle age is youth without levity, and age without decay.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Caleb Colton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Caleb%20Colton.jpg" alt="Charles%20Caleb%20Colton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Levity is often less foolish and gravity less wise than each of them appears.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Bernard Shaw</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Bernard%20Shaw.jpg" alt="George%20Bernard%20Shaw">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“My method is to take the utmost trouble to find the right thing to say, and then to say it with the utmost levity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">levitas</span>, fr. <span class="wUets">levis</span>, light in weight; akin to <span class="wUets">levare</span>, to raise. See <span class="wUer">Lever</span> (n.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>levitat-em</i>—<i>lĕvis</i>, light.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In almost all, to my distorted view, there now seems to have been an unseemly levity.
+					</div>
+					<div class="uAuthor">
+						"Nancy" by <span>Rhoda Broughton</span>					</div>
+										<div class="usage">
+						The free-trader received his guests with a chastened air, bowing silently, and with less of levity in his mien than in the former interview.
+					</div>
+					<div class="uAuthor">
+						"The Water-Witch or, The Skimmer of the Seas" by <span>James Fenimore Cooper</span>					</div>
+										<div class="usage">
+						Elizabeth, too, saw whither she was drifting, and by pretended levity turned it into a joke.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books, Vol X" by <span>Various</span>					</div>
+										<div class="usage">
+						This levity occasioned a great murmuring among some of the doctors, who from thence predicted the fall of Babylon.
+					</div>
+					<div class="uAuthor">
+						"Library of the World's Best Mystery and Detective Stories" by <span>Edited by Julian Hawthorne</span>					</div>
+										<div class="usage">
+						And you take this, monsieur, with such levity.
+					</div>
+					<div class="uAuthor">
+						"Poor Relations" by <span>Honore de Balzac</span>					</div>
+										<div class="usage">
+						Levity is not my object: I only want to put things in a plain and easy manner.
+					</div>
+					<div class="uAuthor">
+						"Tales of Old Japan" by <span>Algernon Bertram Freeman-Mitford</span>					</div>
+										<div class="usage">
+						He is not tempted to levity or impatience, for he does not see the joke and is thick-skinned to present evils.
+					</div>
+					<div class="uAuthor">
+						"Library Of The World's Best Literature, Ancient And Modern, Vol 3" by <span>Various</span>					</div>
+										<div class="usage">
+						On the contrary, he appeared with some levity, even when on the very point of death.
+					</div>
+					<div class="uAuthor">
+						"Lives Of The Most Remarkable Criminals Who have been Condemned and Executed for Murder, the Highway, Housebreaking, Street Robberies, Coining or other offences" by <span>Arthur L. Hayward</span>					</div>
+										<div class="usage">
+						Antonyms: levity, frivolity, triviality.
+					</div>
+					<div class="uAuthor">
+						"Putnam's Word Book" by <span>Louis A. Flemming</span>					</div>
+										<div class="usage">
+						He preached careful and sober sermons, without oratorical display and with rigid avoidance of levity.
+					</div>
+					<div class="uAuthor">
+						"Library Of The World's Best Literature, Ancient And Modern, Vol 4" by <span>Charles Dudley Warner</span>					</div>
+										<div class="usage">
+						No reasonable man will fancy that in the wailings of his heart there was any levity or want of sincerity.
+					</div>
+					<div class="uAuthor">
+						"The Personal Life Of David Livingstone" by <span>William Garden Blaikie</span>					</div>
+										<div class="usage">
+						It did not occur to him that his summing up of the matter had any levity in it.
+					</div>
+					<div class="uAuthor">
+						"The Collected Works of Ambrose Bierce, Vol. II: In the Midst of Life: Tales of Soldiers and Civilians" by <span>Ambrose Bierce</span>					</div>
+										<div class="usage">
+						She was highly scandalized at such levity.
+					</div>
+					<div class="uAuthor">
+						"Kindred of the Dust" by <span>Peter B. Kyne</span>					</div>
+										<div class="usage">
+						Levity is a national characteristic, but submissiveness is not.
+					</div>
+					<div class="uAuthor">
+						"New York Times, Current History, Vol 1, Issue 1" by <span>Various</span>					</div>
+										<div class="usage">
+						Indeed, Leam was too intense to be approached at any time with levity.
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine, Vol. XVII, No. 99, March, 1876" by <span>Various</span>					</div>
+										<div class="usage">
+						Perhaps it was because he suspected a certain levity and thinness in his genius that Campion was so contemptuous of his English verse.
+					</div>
+					<div class="uAuthor">
+						"The Art of Letters" by <span>Robert Lynd</span>					</div>
+										<div class="usage">
+						It was a serious, solemn business, and these men were not given to levity in any event.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys To the Homes of the Great, Volume 3 (of 14)" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						With a leap from the somberness of the reign of Louis, all France went to the extreme of levity.
+					</div>
+					<div class="uAuthor">
+						"The Mississippi Bubble" by <span>Emerson Hough</span>					</div>
+										<div class="usage">
+						Some of their mothers consider it levity.
+					</div>
+					<div class="uAuthor">
+						"Lazarre" by <span>Mary Hartwell Catherwood</span>					</div>
+										<div class="usage">
+						It indicated all too clearly that she had not been deceived, and that she was treating the matter with unbecoming levity.
+					</div>
+					<div class="uAuthor">
+						"The Honorable Percival" by <span>Alice Hegan Rice</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Hellas retorts, when Hebrew gibes<br>
+At Gods of levity and lust,<br>
+``God of Judaea's wandering tribes<br>
+Was jealous, cruel, and unjust.''
+							<div class="poet">"The Door Of Humility" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							In no light girlish levity she goes<br>
+Unto the altar where they wait her now,<br>
+But with a thoughtful, prayerful heart that knows<br>
+The solemn purport of a marriage vow.
+							<div class="poet">"A Mother Gazes Upon Her Daughter" by <span>Henry Timrod</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						And Albany's press bubble is no exception—there was time for some levity in the capital, even as the governor's world began to crumble.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cjr.org/campaign_desk/wtf_wheres_my_callback.php" target="_blank" rel="external nofollow">cjr.org</a>
+					</div>
+										<div class="usage">
+						Nothing wrong with a little levity during the campaign, even if it arrives be surprise.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kkcb.com/you-wish-joe-jill-biden-gets-laughs-with-some-accidental-innuendo-video/" target="_blank" rel="external nofollow">kkcb.com</a>
+					</div>
+										<div class="usage">
+						New Orleans withstanding storm with levees – and levity (+video).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/2012/0829/Hurricane-Isaac-New-Orleans-withstanding-storm-with-levees-and-levity-video" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Photographer captured Harlem's heyday with taste and levity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.illinoistimes.com/Springfield/article-878-photographer-captured-harlem%E2%80%99s-heyday-with-taste-and-levity.html" target="_blank" rel="external nofollow">illinoistimes.com</a>
+					</div>
+										<div class="usage">
+						For her latest, Mandy Moore is chasing levity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chron.com/entertainment/movies/article/For-her-latest-Mandy-Moore-is-chasing-levity-1515737.php" target="_blank" rel="external nofollow">chron.com</a>
+					</div>
+										<div class="usage">
+						Michael Levitis, lawyer and owner of Rasputin Nightclub (2670 Coney Island Avenue) confirmed to Sheepshead Bites tha.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.timesunion.com/capitol/archives/60658/brooklyn-lawyer-snagged-in-corruption-probe-and-now-a-reality-show/" target="_blank" rel="external nofollow">blog.timesunion.com</a>
+					</div>
+										<div class="usage">
+						 A little levity on the links.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theunion.com/news/3860966-113/golf-homeless-john-renslow" target="_blank" rel="external nofollow">theunion.com</a>
+					</div>
+										<div class="usage">
+						(CBS News) While we here in New York City, and many in the rest of the country, remain focused on the aftermath of Hurricane Sandy, your blogger here is going to attempt to bring you all some levity alternatives.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-504784_162-57543152-10391705/watch-the-alphabet-portrayed-through-video-games/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Roethlisberger laughed as he spoke, a rare moment of levity for a team facing a rare early season moment of crisis.
+					</div>
+					<div class="uAuthor">
+						<a href="https://www.lewistownsentinel.com/page/content.detail/id/256238/Big-Ben-boos-Philly--too.html?isap=1&amp;nav=5026" target="_blank" rel="external nofollow">lewistownsentinel.com</a>
+					</div>
+										<div class="usage">
+						New Jersey's governor made his 'SNL' debut to inject a little levity into the hurricane cleanup effort, proving that he has a sense of humor about himself, his home state, and his storm-soaked outerwear.
+					</div>
+					<div class="uAuthor">
+						<a href="http://theriver1079.com/snl-chris-christie/" target="_blank" rel="external nofollow">theriver1079.com</a>
+					</div>
+										<div class="usage">
+						New Jersey 's governor made his 'SNL' debut to inject a little levity into the hurricane cleanup effort, proving that he has a sense of humor about himself, his home state, and his storm-soaked outerwear.
+					</div>
+					<div class="uAuthor">
+						<a href="http://theriver1079.com/snl-chris-christie/" target="_blank" rel="external nofollow">theriver1079.com</a>
+					</div>
+										<div class="usage">
+						A little levity on the links .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theunion.com/news/3860966-113/golf-homeless-john-renslow" target="_blank" rel="external nofollow">theunion.com</a>
+					</div>
+										<div class="usage">
+						The Akron chapter of the Let's Have Better Mottoes Association tried to incorporate a little levity into the workplace by puncturing the pomposity of stuffed shirts.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ohio.com/lifestyle/history/local-history-motto-group-is-last-word-in-1950s-business-humor-1.295797" target="_blank" rel="external nofollow">ohio.com</a>
+					</div>
+										<div class="usage">
+						 New Jersey 's governor made his 'SNL' debut to inject a little levity into the hurricane cleanup effort, proving that he has a sense of humor about himself, his home state, and his storm-soaked outerwear.
+					</div>
+					<div class="uAuthor">
+						<a href="http://theriver1079.com/snl-chris-christie/" target="_blank" rel="external nofollow">theriver1079.com</a>
+					</div>
+										<div class="usage">
+						Ask center Kevin Mawae how he thinks Curtis Martin has played in the preseason, and a moment of levity finally finds its way into the Jets' depressing week.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2003/08/27/sports/pro-football-jets-are-getting-serious-about-their-running-game.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="gravity.html">gravity</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="feeling.html">feeling</a>, <a href="frivolity.html">frivolity</a>, <a href="frivolousness.html">frivolousness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="flippancy.html">flippancy</a>, <a href="gaiety.html">gaiety</a>, <a href="humorousness.html">humorousness</a>, <a href="jocoseness.html">jocoseness</a>, <a href="jocosity.html">jocosity</a>, <a href="light-mindedness.html">light-mindedness</a>, <a href="merriness.html">merriness</a>, <a href="playfulness.html">playfulness</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="airiness.html">airiness</a>, <a href="austere.html">austere</a>, <a href="flightiness.html">flightiness</a>, <a href="flippancy.html">flippancy</a>, <a href="flippant.html">flippant</a>, <a href="flirt.html">flirt</a>, <a href="Flittiness.html">Flittiness</a>, <a href="folly.html">folly</a>, <a href="fooling.html">fooling</a>, <a href="For%20vain.html">For vain</a>, <a href="frivol.html">frivol</a>, <a href="frivolity.html">frivolity</a>, <a href="frivolous.html">frivolous</a>, <a href="frolic.html">frolic</a>, <a href="giddiness.html">giddiness</a>, <a href="giddy.html">giddy</a>, <a href="giggle.html">giggle</a>, <a href="Glaikitness.html">Glaikitness</a>, <a href="in%20vain.html">in vain</a>, <a href="keeping.html">keeping</a>, <a href="light.html">light</a>, <a href="light-minded.html">light-minded</a>, <a href="light-mindedness.html">light-mindedness</a>, <a href="light-o%27-love.html">light-o'-love</a>, <a href="lightly.html">lightly</a>, <a href="lightness.html">lightness</a>, <a href="play.html">play</a>, <a href="sally.html">sally</a>, <a href="seriously.html">seriously</a>, <a href="severe.html">severe</a>, <a href="staidness.html">staidness</a>, <a href="take%20in%20vain.html">take in vain</a>, <a href="To%20take%20the%20name%20of%20God%20in%20vain.html">To take the name of God in vain</a>, <a href="trifle.html">trifle</a>, <a href="volatility.html">volatility</a>, <a href="Whifflery.html">Whifflery</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					kevity, oevity, pevity, lwvity, lsvity, ldvity, lrvity, lecity, lefity, legity, lebity, levuty, levjty, levkty, levoty, leviry, levify, levigy, leviyy, levitt, levitg, levith, levitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,538 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>denial</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">renunciation of your own interests in favor of the interests of others</span> </li><li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">a defendant's answer or plea denying the truth of the charges against him</span> <span class="quot">"he gave evidence for the defense"</span></li><li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">the act of asserting that something alleged is not true</span> </li><li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">the act of refusing to comply (as with a request)</span> <span class="quot">"it resulted in a complete denial of his privileges"</span></li><li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">(psychiatry) a defense mechanism that denies painful thoughts</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Denial</span> <span class="exp">A refusal to acknowledge; disclaimer of connection with; disavowal; -- the contrary of <span class="wUex">confession</span>; as, the <span class="wUex">denial</span> of a fault charged on one; a <span class="wUex">denial</span> of God.
+         </span> </li><li><span class="term">Denial</span> <span class="exp">A refusal to admit the truth of a statement, charge, imputation, etc.; assertion of the untruth of a thing stated or maintained; a contradiction.</span> </li><li><span class="term">Denial</span> <span class="exp">A refusal to grant; rejection of a request.</span> <span class="wuQuot">"The commissioners, . . . to obtain from the king's subjects as much as they would willingly give, . . . had not to complain of many peremptory denials ."</span></li><li><span class="term">Denial</span> <span class="exp">The act of gainsaying, refusing, or disowning; negation; -- the contrary of <span class="wUant">affirmation</span>.</span> <span class="wuQuot">"You ought to converse with so much sincerity that your bare affirmation or denial may be sufficient."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">The act of denying or contradicting; the assertion of the contrary of some proposition or affirmation; negation; contradiction.</span> </li><li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">Refusal to grant; the negation or refusal of a request or a petition; non-compliance.</span> </li><li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">Refusal to accept or acknowledge; a disowning; rejection: as, a denial of God; a denial of the faith or the truth.</span> </li><li><span class="tSpeech">n</span> <span class="term">denial</span> <span class="exp">In law, a traverse in the pleading of one party of the statement set up by the other; a defense. Synonyms Disavowal, disclaimer.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Denial</span> <span class="exp"><span class="itl">de-nī′al</span> act of denying or saying no: contradiction: refusal: rejection</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Self-denial is the shining sore on the leprous body of Christianity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Chesterfield</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Chesterfield.jpg" alt="Lord%20Chesterfield">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Good breeding is the result of good sense, some good nature, and a little self-denial for the sake of others.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Al Frank</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Al Frank">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Denial ain't just a river in Egypt.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Sterling</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Sterling">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The worst education which teaches self-denial, is better than the best which teaches everything else, and not that.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sir Walter Scott</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sir%20Walter%20Scott.jpg" alt="Sir%20Walter%20Scott">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There never will exist anything permanently noble and excellent in the character which is a stranger to resolute self-denial.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Susie Orbach</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Susie Orbach">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Fat is a way of saying no to powerlessness and self-denial.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					See <span class="wUer">Deny</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Buffon's idea of a method amounts almost to the denial of the possibility of method at all.
+					</div>
+					<div class="uAuthor">
+						"Evolution, Old &amp; New" by <span>Samuel Butler</span>					</div>
+										<div class="usage">
+						The doctor joined them in their denial.
+					</div>
+					<div class="uAuthor">
+						"The Hunters' Feast" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						But there are certain legitimate causes for denial by the wife.
+					</div>
+					<div class="uAuthor">
+						"The Physical Life of Woman:" by <span>Dr. George H Napheys</span>					</div>
+										<div class="usage">
+						This proves the law referred to by Jesus when he made a denial of self the first duty of his disciples.
+					</div>
+					<div class="uAuthor">
+						"The Right Knock" by <span>Helen Van-Anderson</span>					</div>
+										<div class="usage">
+						Is he not rather comforted by the distractions of cheerful frivolity, of conventional denial of his pains?
+					</div>
+					<div class="uAuthor">
+						"The Comedies of William Congreve Volume 1 [of 2]" by <span>William Congreve</span>					</div>
+										<div class="usage">
+						The pain which is produced by derogation produces effort and self-denial.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						You never would in the world, if you knew how much self-denial it stands for.
+					</div>
+					<div class="uAuthor">
+						"The Wit and Humor of America, Volume X (of X)" by <span>Various</span>					</div>
+										<div class="usage">
+						My denial of guilt seemed to me a trivial lie.
+					</div>
+					<div class="uAuthor">
+						"The Blue Wall" by <span>Richard Washburn Child</span>					</div>
+										<div class="usage">
+						He forgave Peter for his denial, and would have forgiven Judas, if in the exercise of sincere repentance he had sought his pardon.
+					</div>
+					<div class="uAuthor">
+						"The Continental Monthly, Vol. 6, No. 6, December 1864" by <span>Various</span>					</div>
+										<div class="usage">
+						There are examples of noble self-denial under these circumstances.
+					</div>
+					<div class="uAuthor">
+						"The Young Maiden" by <span>A. B. (Artemas Bowers) Muzzey</span>					</div>
+										<div class="usage">
+						Alec looked to his mother for some confirmation or denial of the astounding statement blurted forth by her husband.
+					</div>
+					<div class="uAuthor">
+						"A Son of the Immortals" by <span>Louis Tracy</span>					</div>
+										<div class="usage">
+						Of as much wit as the wit of man can devise, he useth his bare denial.
+					</div>
+					<div class="uAuthor">
+						"Sir Walter Ralegh" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						There are certain legitimate causes for denial by the wife.
+					</div>
+					<div class="uAuthor">
+						"The Eugenic Marriage, Vol. 3 (of 4)" by <span>W. Grant Hague</span>					</div>
+										<div class="usage">
+						The self-denial went hard with me, but I consoled myself each night with the anticipation of opening day.
+					</div>
+					<div class="uAuthor">
+						"When Grandmamma Was New" by <span>Marion Harland</span>					</div>
+										<div class="usage">
+						When this has been done, and not until then, "God" may become the subject of affirmation or denial.
+					</div>
+					<div class="uAuthor">
+						"Theism or Atheism" by <span>Chapman Cohen</span>					</div>
+										<div class="usage">
+						Garry again broke into indignant denials.
+					</div>
+					<div class="uAuthor">
+						"The Ranger Boys and the Border Smugglers" by <span>Claude A. Labelle</span>					</div>
+										<div class="usage">
+						Mill preserved his independence by rigid self-denial, temperance, and punctuality.
+					</div>
+					<div class="uAuthor">
+						"The English Utilitarians, Volume II (of 3)" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						There is an offer thou couldst make me, of that fashion, that my self-denial were not equal to refuse.
+					</div>
+					<div class="uAuthor">
+						"It Might Have Been" by <span>Emily Sarah Holt</span>					</div>
+										<div class="usage">
+						Slavery involves the denial of freedom, and as such it can never be good.
+					</div>
+					<div class="uAuthor">
+						"Progress and History" by <span>Various</span>					</div>
+										<div class="usage">
+						But Hastings, whom, as it should seem, success in ambition and in love had put into high good-humor, would take no denial.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"Good friends," he says, "you reap a field<br>
+I sowed in self-denial,<br>
+For toleration had its griefs<br>
+And charity its trial.
+							<div class="poet">"A Spiritual Manifestation" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							And she is with thee; in thy path of trial<br>
+She walketh yet;<br>
+Still with the baptism of thy self-denial<br>
+Her locks are wet.
+							<div class="poet">"To My Friend OnThe Death Of His Sister" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							It's weel enuff for fowk to praich<br>
+An praise up self denial;<br>
+But them 'at's forradest to praich,<br>
+Dooant put it oft to trial.
+							<div class="poet">"My Doctrine" by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							CHRYSANTHUS (aside).<br>
+Now comes near thee,<br>
+O my heart, thy threatened trial!<br>
+Lady, pardon the denial,<br>
+But I would nor see nor hear thee.
+							<div class="poet">"The Purgatory Of St. Patrick  -  Act II" by <span>Denis Florence MacCarthy</span></div>
+						</div>
+											<div class="poemQuote">
+							Forgetting that their pride of spirit<br>
+Their exultation in their trial<br>
+Detracts most largely from the merit<br>
+Of all their boasted self-denial.
+							<div class="poet">"Granta: A Medley" by <span>Lord George Gordon Byron</span></div>
+						</div>
+											<div class="poemQuote">
+							Ye, meanwhile, are in your chambers sleeping,<br>
+Quiet, and set free from all our weeping;<br>
+No cross nor trial<br>
+Hinders your enjoyments with denial.
+							<div class="poet">"Blessed Are The Dead. (From The German)" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Fallin appeals FEMA denial of wildfire aid for 3 counties.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.koco.com/news/politics/Fallin-appeals-FEMA-denial-of-wildfire-aid-for-3-counties/-/9843896/16511094/-/1xjwhwz/-/index.html?absolute=true" target="_blank" rel="external nofollow">koco.com</a>
+					</div>
+										<div class="usage">
+						(PDF) Fallin appeal of FEMA denial .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.koco.com/news/politics/Fallin-appeals-FEMA-denial-of-wildfire-aid-for-3-counties/-/9843896/16511094/-/1xjwhwz/-/index.html?absolute=true" target="_blank" rel="external nofollow">koco.com</a>
+					</div>
+										<div class="usage">
+						As a psychotherapist, I deal with denial frequently.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.syracuse.com/opinion/2012/11/republican_denial_will_help_pr.html" target="_blank" rel="external nofollow">blog.syracuse.com</a>
+					</div>
+										<div class="usage">
+						Removing Mayor Rob Ford from office now a denial of democracy, his lawyer say.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/news/gta/article/1294744--removing-mayor-rob-ford-from-office-now-a-denial-of-democracy-his-lawyer-say" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						Zoning Hearing Board listens to case where developer argues hardship in zoning denial .
+					</div>
+					<div class="uAuthor">
+						<a href="http://wfmz.com/news/news-regional-lehighvalley/Bethlehem-Twp-Zoning-Hearing-Board-listens-to-case-where-developer-argues-hardship-in-zoning-denial/-/132502/17587576/-/128y8xu/-/index.html" target="_blank" rel="external nofollow">wfmz.com</a>
+					</div>
+										<div class="usage">
+						Detroit in denial of crisis like old GM.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.detnews.com/article/20121127/OPINION03/211270321/1322/Truth-about-auto-bailout-skirted-in-both-presidential-campaigns/Detroit-in-denial-of-crisis-like-old-GM" target="_blank" rel="external nofollow">detnews.com</a>
+					</div>
+										<div class="usage">
+						Biden 'doubling down on denial '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kcci.com/news/politics/Romney-Biden-doubling-down-on-denial/-/9356970/16964666/-/item/0/-/1ddac4/-/index.html" target="_blank" rel="external nofollow">kcci.com</a>
+					</div>
+										<div class="usage">
+						Yes Men hit the Chamber of denial .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfgate.com/cgi-bin/blogs/green/detail?entry_id=49945" target="_blank" rel="external nofollow">sfgate.com</a>
+					</div>
+										<div class="usage">
+						RCMP issues latest denial in series of harassment lawsuits.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/news/RCMP+issues+denial+series+harassment+lawsuits/7606752/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						When told that some lawyers have called the denials a violation of state law, Neth replied, "That's their interpretation.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.omaha.com/article/20121122/NEWS/711229906/1694" target="_blank" rel="external nofollow">omaha.com</a>
+					</div>
+										<div class="usage">
+						Gerard Butler's birthday plans scuppered by visa denial .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.whtc.com/news/articles/2012/nov/21/gerard-butlers-birthday-plans-scuppered-by-visa-de/" target="_blank" rel="external nofollow">whtc.com</a>
+					</div>
+										<div class="usage">
+						Trumka's History of Denial : "We Don't Have A Deficit Crisis".
+					</div>
+					<div class="uAuthor">
+						<a href="http://560wind.townhall.com/tipsheet/GregHengler/2012/11/15/trumkas_denial_history_we_dont_have_a_deficit_crisis" target="_blank" rel="external nofollow">560wind.townhall.com</a>
+					</div>
+										<div class="usage">
+						Broadwell's Denver remarks delivered same day as Petraeus statement on Libya and one day after Panetta denial .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/blog/watercooler/2012/nov/14/picket-cias-denial-broadwells-october-26-remarks-d/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Spending a few hours around Pentagon and defense business officials these days requires mentally ingesting a disorienting cocktail that is one part desperation and one part denial.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/news/blogs/dotmil/2012/03/08/as-500b-budget-cuts-loom-desperation-and-denial-overtake-defense-sector" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						The foreign ministry's denial comes about 22 hours after the diplomat 's comments were made public.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/world/europe/russias-foreign-ministry-denies-its-senior-diplomat-talked-of-syrias-assad-impending-defeat/2012/12/14/c2775974-45bf-11e2-8c8f-fbebf7ccab4e_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Denials are the only formulas that may contain universal quantiﬁers. 
+					</div>
+					<div class="uAuthor">
+						SLDNFA-system
+					</div>
+										<div class="usage">
+						In general a theory can be transformed into denials applying the following rewriting step ∀ X.F → ¬∃ X.¬F . 
+					</div>
+					<div class="uAuthor">
+						SLDNFA-system
+					</div>
+										<div class="usage">
+						Open variables in FOL formulas and denials represent ob jects of yet unknown identity. 
+					</div>
+					<div class="uAuthor">
+						SLDNFA-system
+					</div>
+										<div class="usage">
+						These non-responsive ﬂows, in essence, form a type of denial of ser vice (DoS) attacks, as ﬁrst identiﬁed by Floyd et. al. and subsequently illustrated by Sherwood et. al. . 
+					</div>
+					<div class="uAuthor">
+						Efficient Defence against Misbehaving TCP Receiver DoS Attacks
+					</div>
+										<div class="usage">
+						Netfence: Preventing internet denial of service from inside out. 
+					</div>
+					<div class="uAuthor">
+						Efficient Defence against Misbehaving TCP Receiver DoS Attacks
+					</div>
+										<div class="usage">
+						Portcullis: Protecting connection setup from denial-of-capability attacks. 
+					</div>
+					<div class="uAuthor">
+						Efficient Defence against Misbehaving TCP Receiver DoS Attacks
+					</div>
+										<div class="usage">
+						An analysis of using re ﬂectors for distribut ed denial of service attacks. 
+					</div>
+					<div class="uAuthor">
+						Efficient Defence against Misbehaving TCP Receiver DoS Attacks
+					</div>
+										<div class="usage">
+						However, this would create the potential for a denial of service (DoS) attack where an attacker continuously powered a tag, preventing it from generating any random numbers and thus from being used at all. 
+					</div>
+					<div class="uAuthor">
+						We Can Remember It for You Wholesale: Implications of Data Remanence on the Use of RAM for True Random Number Generation on RFID Tags (RFIDSec 2009)
+					</div>
+										<div class="usage">
+						Space-time with its denial of place and time really makes the universe a mystery, non-objective and non-classical – just how can we talk of the independent existence of an event if it is dependent on the measurement? The pot is calling the kettle black. 
+					</div>
+					<div class="uAuthor">
+						Secure Quantum Communication and Superluminal Signalling on the Bell Channel
+					</div>
+										<div class="usage">
+						The third premise is the denial of the possibility of an in ﬁni te number of causes or actions. 
+					</div>
+					<div class="uAuthor">
+						New remarks on the Cosmological Argument
+					</div>
+										<div class="usage">
+						It must be noted however that this denial by Bohr was not special to a scenario with two spatially separated systems; Bohr seems to have denied altogether that quantum things had ‘real situations’ in Einstein’s sense. 
+					</div>
+					<div class="uAuthor">
+						Quantum discord is Bohr's notion of non-mechanical disturbance introduced in his answer to EPR
+					</div>
+										<div class="usage">
+						Is there hope? Given the current state of insecurity of hosts and the vulnerability of the Internet to manipulation and denial of service attacks, there is no way that a public election of any significance involving remote electronic voting could be carried out securely. 
+					</div>
+					<div class="uAuthor">
+						Security Considerations for Remote Electronic Voting over the Internet
+					</div>
+										<div class="usage">
+						Given the current state of widely deployed computers in peoples ’ homes, the vulnerability of the Internet to denial of service attacks, and the unreliability of the Domain Name Service, we believe that the technology does not yet exist to enable remote electronic voting in public elections. 
+					</div>
+					<div class="uAuthor">
+						Security Considerations for Remote Electronic Voting over the Internet
+					</div>
+										<div class="usage">
+						However this would not prevent a denial of service type attack by physically severing the connection. 
+					</div>
+					<div class="uAuthor">
+						Will the Butterfly Cipher keep your Network Data secure? Developments in Computer Encryption
+					</div>
+										<div class="usage">
+						It would not protect against denial of service attacks. 
+					</div>
+					<div class="uAuthor">
+						Will the Butterfly Cipher keep your Network Data secure? Developments in Computer Encryption
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="renunciation of your own interests in favor of the interests of others"><a href="self-denial.html">self-denial</a>, <a href="self-renunciation.html">self-renunciation</a>, </div><div class="synGroup" title="a defendant's answer or plea denying the truth of the charges against him"><a href="demurrer.html">demurrer</a>, </div><div class="synGroup" title="the act of asserting that something alleged is not true"><a href="disaffirmation.html">disaffirmation</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="prosecution.html">prosecution</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="assertion.html">assertion</a>, <a href="asseveration.html">asseveration</a>, <a href="averment.html">averment</a>, <a href="defence.html">defence</a>, <a href="defence%20mechanism.html">defence mechanism</a>, <a href="defence%20reaction.html">defence reaction</a>, <a href="defense.html">defense</a>, <a href="defense%20mechanism.html">defense mechanism</a>, <a href="defense%20reaction.html">defense reaction</a>, <a href="due%20process.html">due process</a>, <a href="due%20process%20of%20law.html">due process of law</a>, <a href="forgoing.html">forgoing</a>, <a href="forswearing.html">forswearing</a>, <a href="renunciation.html">renunciation</a>, <a href="self-sacrifice.html">self-sacrifice</a>, <a href="selflessness.html">selflessness</a>, <a href="speech%20act.html">speech act</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abnegation.html">abnegation</a>, <a href="disavowal.html">disavowal</a>, <a href="disclaimer.html">disclaimer</a>, <a href="entrapment.html">entrapment</a>, <a href="naysaying.html">naysaying</a>, <a href="negation.html">negation</a>, <a href="negative.html">negative</a>, <a href="refusal.html">refusal</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="abnegate.html">abnegate</a>, <a href="deny.html">deny</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abnegation.html">abnegation</a>, <a href="Abrenunciation.html">Abrenunciation</a>, <a href="Absque%20hoc.html">Absque hoc</a>, <a href="abstainer.html">abstainer</a>, <a href="abstemiousness.html">abstemiousness</a>, <a href="abstinence.html">abstinence</a>, <a href="Acosmism.html">Acosmism</a>, <a href="affirmation.html">affirmation</a>, <a href="agnosticism.html">agnosticism</a>, <a href="Agrarianism.html">Agrarianism</a>, <a href="Al.html">Al</a>, <a href="Annihilationism.html">Annihilationism</a>, <a href="Anti-federalist.html">Anti-federalist</a>, <a href="apophasis.html">apophasis</a>, <a href="ascesis.html">ascesis</a>, <a href="ascetic.html">ascetic</a>, <a href="ascetical.html">ascetical</a>, <a href="asceticism.html">asceticism</a>, <a href="Aspheterism.html">Aspheterism</a>, <a href="atheism.html">atheism</a>, <a href="austere.html">austere</a>, <a href="austerity.html">austerity</a>, <a href="Beguin.html">Beguin</a>, <a href="Calvinist.html">Calvinist</a>, <a href="Christadelphian.html">Christadelphian</a>, <a href="confess.html">confess</a>, <a href="confessedly.html">confessedly</a>, <a href="contradiction.html">contradiction</a>, <a href="contradictory.html">contradictory</a>, <a href="contrary.html">contrary</a>, <a href="cost.html">cost</a>, <a href="Counter%20statement.html">Counter statement</a>, <a href="Counter-statement.html">Counter-statement</a>, <a href="covert%20operation.html">covert operation</a>, <a href="defence.html">defence</a>, <a href="defense.html">defense</a>, <a href="deism.html">deism</a>, <a href="demonstrate.html">demonstrate</a>, <a href="Denay.html">Denay</a>, <a href="Denegation.html">Denegation</a>, <a href="Denial%20of%20one%27s%20self.html">Denial of one's self</a>, <a href="Deniance.html">Deniance</a>, <a href="deny.html">deny</a>, <a href="Deny%20one%27s%20self.html">Deny one's self</a>, <a href="Denyingly.html">Denyingly</a>, <a href="Destructive%20sorties.html">Destructive sorties</a>, <a href="determinism.html">determinism</a>, <a href="Detractory.html">Detractory</a>, <a href="dilemma.html">dilemma</a>, <a href="Disaffirmance.html">Disaffirmance</a>, <a href="disavowal.html">disavowal</a>, <a href="Disavowment.html">Disavowment</a>, <a href="disbelief.html">disbelief</a>, <a href="disclaimer.html">disclaimer</a>, <a href="Down.html">Down</a>, <a href="Dysteleology.html">Dysteleology</a>, <a href="Ebionite.html">Ebionite</a>, <a href="estoppel.html">estoppel</a>, <a href="famish.html">famish</a>, <a href="flat.html">flat</a>, <a href="flat-footed.html">flat-footed</a>, <a href="fruit.html">fruit</a>, <a href="General%20issue.html">General issue</a>, <a href="headshake.html">headshake</a>, <a href="headshaking.html">headshaking</a>, <a href="heresy.html">heresy</a>, <a href="humanism.html">humanism</a>, <a href="Intinction.html">Intinction</a>, <a href="Jainism.html">Jainism</a>, <a href="Labadist.html">Labadist</a>, <a href="Lain.html">Lain</a>, <a href="Macedonianism.html">Macedonianism</a>, <a href="magisterial.html">magisterial</a>, <a href="materialism.html">materialism</a>, <a href="meteorite.html">meteorite</a>, <a href="monism.html">monism</a>, <a href="monkish.html">monkish</a>, <a href="moon.html">moon</a>, <a href="mortification.html">mortification</a>, <a href="mortify.html">mortify</a>, <a href="much.html">much</a>, <a href="nay.html">nay</a>, <a href="Nayward.html">Nayward</a>, <a href="negation.html">negation</a>, <a href="negative.html">negative</a>, <a href="negatively.html">negatively</a>, <a href="Negatory.html">Negatory</a>, <a href="nihilism.html">nihilism</a>, <a href="No.html">No</a>, <a href="Non%20assumpsit.html">Non assumpsit</a>, <a href="nonindulgence.html">nonindulgence</a>, <a href="not.html">not</a>, <a href="pantheism.html">pantheism</a>, <a href="Pardon%20me.html">Pardon me</a>, <a href="pleasure.html">pleasure</a>, <a href="point-blank.html">point-blank</a>, <a href="posse.html">posse</a>, <a href="proof.html">proof</a>, <a href="protestation.html">protestation</a>, <a href="rationalism.html">rationalism</a>, <a href="rebuff.html">rebuff</a>, <a href="rebut.html">rebut</a>, <a href="refusal.html">refusal</a>, <a href="relativity.html">relativity</a>, <a href="Renegation.html">Renegation</a>, <a href="repulse.html">repulse</a>, <a href="self-abnegation.html">self-abnegation</a>, <a href="self-denial.html">self-denial</a>, <a href="self-denying.html">self-denying</a>, <a href="self-indulgence.html">self-indulgence</a>, <a href="self-sacrifice.html">self-sacrifice</a>, <a href="skepticism.html">skepticism</a>, <a href="solipsism.html">solipsism</a>, <a href="Spartan.html">Spartan</a>, <a href="special%20pleading.html">special pleading</a>, <a href="syllogism.html">syllogism</a>, <a href="theism.html">theism</a>, <a href="Threap.html">Threap</a>, <a href="To%20cost%20dear.html">To cost dear</a>, <a href="To%20deny%20one%27s%20self.html">To deny one's self</a>, <a href="To%20pop%20off.html">To pop off</a>, <a href="traverse.html">traverse</a>, <a href="undeniable.html">undeniable</a>, <a href="undeniably.html">undeniably</a>, <a href="Unitarian.html">Unitarian</a>, <a href="Unitarianism.html">Unitarianism</a>, <a href="utter.html">utter</a>, <a href="vindicate.html">vindicate</a>, <a href="vindication.html">vindication</a>, <a href="warn.html">warn</a>, <a href="weak.html">weak</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					senial, eenial, fenial, cenial, xenial, senial, dwnial, dsnial, ddnial, drnial, debial, dehial, dejial, demial, denual, denjal, denkal, denoal, deniql, deniwl, denisl, denizl, deniak, deniao, deniap
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

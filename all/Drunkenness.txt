@@ -1,0 +1,446 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>drunkenness</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">drunkenness</span> <span class="exp">the act of drinking alcoholic beverages to excess</span> <span class="quot">"drink was his downfall"</span></li><li><span class="tSpeech">n</span> <span class="term">drunkenness</span> <span class="exp">a temporary state resulting from excessive consumption of alcohol</span> </li><li><span class="tSpeech">n</span> <span class="term">drunkenness</span> <span class="exp">habitual intoxication; prolonged and excessive intake of alcoholic drinks leading to a breakdown in health and an addiction to alcohol such that abrupt deprivation leads to severe withdrawal symptoms</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Drunkenness</span> <span class="exp">Disorder of the faculties, resembling intoxication by liquors; inflammation; frenzy; rage.</span> <span class="wuQuot">"Passion is the drunkenness of the mind."</span></li><li><span class="term">Drunkenness</span> <span class="exp">The state of being drunken with, or as with, alcoholic liquor; intoxication; inebriety; -- used of the casual state or the habit.</span> <span class="wuQuot">"The Lacedemonians trained up their children to hate drunkenness by bringing a drunken man into their company."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">drunkenness</span> <span class="exp">The state of being drunk, or overpowered by intoxicants; the habit of indulging in intoxicants; intoxication; inebriation.</span> </li><li><span class="tSpeech">n</span> <span class="term">drunkenness</span> <span class="exp">Disorder of the faculties resembling intoxication; intense excitement; frenzy; rage.</span> </li><li><span class="tSpeech">n</span> <span class="term">drunkenness</span> <span class="exp">In mech., unsteadiness, crookedness, or inequality of pitch in a screw, such that the nut either wabbles or does not advance at a constant speed.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Drunkenness</span> <span class="exp">excessive drinking: habitual intemperance</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William James</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20James.jpg" alt="William%20James">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If merely feeling good could decide, drunkenness would be the supremely valid human experience.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bertrand Russell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Bertrand%20Russell.jpg" alt="Bertrand%20Russell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Drunkenness is temporary suicide.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Seneca</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Seneca.jpg" alt="Seneca">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Drunkenness is nothing but voluntary madness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Miller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Miller.jpg" alt="Henry%20Miller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aristotle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aristotle.jpg" alt="Aristotle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is better to rise from life as from a banquet -- neither thirsty nor drunken.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aristotle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aristotle.jpg" alt="Aristotle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It's best to rise from life like a banquet, neither thirsty or drunken.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						So the search of the old hall, that had once resounded to the drunken tread of gay French grandees, began again.
+					</div>
+					<div class="uAuthor">
+						"Lords of the North" by <span>A. C. Laut</span>					</div>
+										<div class="usage">
+						Then I was a drunken man, and a great swearer; but I thank God he has changed my heart.
+					</div>
+					<div class="uAuthor">
+						"The Hero of the Humber" by <span>Henry Woodcock</span>					</div>
+										<div class="usage">
+						He staggered downstairs like a drunken man.
+					</div>
+					<div class="uAuthor">
+						"The Secret of the Storm Country" by <span>Grace Miller White</span>					</div>
+										<div class="usage">
+						The carriage was waiting, and the other drunken son must be conveyed to his father's house.
+					</div>
+					<div class="uAuthor">
+						"Three People" by <span>Pansy</span>					</div>
+										<div class="usage">
+						I cannot afford to employ drunken men in these shops.
+					</div>
+					<div class="uAuthor">
+						"Robert Hardy's Seven Days" by <span>Charles Monroe Sheldon</span>					</div>
+										<div class="usage">
+						You must see how drunkenness stores up misery for you here and hereafter.
+					</div>
+					<div class="uAuthor">
+						"Frank Oldfield" by <span>T.P. Wilson</span>					</div>
+										<div class="usage">
+						The drunken fool gave Mose a tug.
+					</div>
+					<div class="uAuthor">
+						"The Eagle's Heart" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						He had taken care that I should know what drunkenness meant.
+					</div>
+					<div class="uAuthor">
+						"Rattlin the Reefer" by <span>Edward Howard</span>					</div>
+										<div class="usage">
+						Poverty, drunkenness, crime, illegitimacy stamp themselves upon the home life.
+					</div>
+					<div class="uAuthor">
+						"Society" by <span>Henry Kalloch Rowe</span>					</div>
+										<div class="usage">
+						Murder and robbery and drunkenness were everywhere.
+					</div>
+					<div class="uAuthor">
+						"The Scarlet Plague" by <span>Jack London</span>					</div>
+										<div class="usage">
+						I reeled like a drunken man.
+					</div>
+					<div class="uAuthor">
+						"The Trail of '98" by <span>Robert W. Service</span>					</div>
+										<div class="usage">
+						For a while Lennon tottered and reeled like a drunken man.
+					</div>
+					<div class="uAuthor">
+						"Bloom of Cactus" by <span>Robert Ames Bennet</span>					</div>
+										<div class="usage">
+						He turned the corner, and walked straight into the arms of a woman, who hugged him with a drunken ardour.
+					</div>
+					<div class="uAuthor">
+						"Despair's Last Journey" by <span>David Christie Murray</span>					</div>
+										<div class="usage">
+						The door of the captain's cabin was burst in, hanging drunkenly from one hinge.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science, June, 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						No drunken men stare at you.
+					</div>
+					<div class="uAuthor">
+						"In Times Like These" by <span>Nellie L. McClung</span>					</div>
+										<div class="usage">
+						The sexual passion has often been compared to drunkenness or to mental disease.
+					</div>
+					<div class="uAuthor">
+						"The Sexual Question" by <span>August Forel</span>					</div>
+										<div class="usage">
+						Not a word was uttered, but the silent horror seemed to denote something more than a mere common drunken bout.
+					</div>
+					<div class="uAuthor">
+						"The Shepherd of Salisbury Plain and Other Tales" by <span>Hannah More</span>					</div>
+										<div class="usage">
+						He staggered and reeled like a drunken man.
+					</div>
+					<div class="uAuthor">
+						"My Brave and Gallant Gentleman" by <span>Robert Watson</span>					</div>
+										<div class="usage">
+						Then the drinker lies down in a drunken sleep, and cannot be waked up.
+					</div>
+					<div class="uAuthor">
+						"Applied Physiology" by <span>Frank Overton</span>					</div>
+										<div class="usage">
+						The drunken crowd in the bar at first took no heed.
+					</div>
+					<div class="uAuthor">
+						"A Soldier's Trial" by <span>Charles King</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							And many met us with song and dancing,<br>
+Mantled in skins and crowned with flowers,<br>
+Waving goblets and torches glancing,<br>
+Faces drunken, and grinned in ours:
+							<div class="poet">"The Three Pilgrims" by <span>Archibald Lampman</span></div>
+						</div>
+											<div class="poemQuote">
+							'O drunken not with wine,<br>
+Whose sins and sorrows have fulfilled the sum,—<br>
+Be not afraid, arise, be no more dumb;<br>
+Arise, shine,<br>
+For thy light is come.'—
+							<div class="poet">"Christian And Jew" by <span>Christina Georgina Rossetti</span></div>
+						</div>
+											<div class="poemQuote">
+							And so that I should know the difference<br>
+From those old drunken words at night,<br>
+You suddenly said to me "I love you!"<br>
+Your lips were calm, your words were right!
+							<div class="poet">""You used to say to me "I love you!"..."" by <span>Konstantin Simonov</span></div>
+						</div>
+											<div class="poemQuote">
+							'Tis not a day, in sauntring to be past,<br>
+In drunkenness, or to some bad intent,<br>
+But 'tis a day, which, long as it does last,<br>
+Shou'd be in holy works entirely spent.
+							<div class="poet">"Concerning The Sabbath" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							World is crazier and more of it than we think,<br>
+Incorrigibly plural. I peel and portion<br>
+A tangerine and spit the pips and feel<br>
+The drunkenness of things being various.
+							<div class="poet">"Snow" by <span>Louis MacNeice</span></div>
+						</div>
+											<div class="poemQuote">
+							Who, whilst in Sodom, kept himself so well,<br>
+So free from ev'ry fault, as holy Lot?<br>
+Yet, in a cave, thro' drunkenness he fell,<br>
+And there his former principles forgot. 
+							<div class="poet">"Stanza's Concerning Some Persons And Things, That Are Mentioned In The Holy Scriptures" by <span>Rees Prichard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Powell's Drunken Pair Prioritize Language.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wvxu.org/post/powells-drunken-pair-prioritize-language" target="_blank" rel="external nofollow">wvxu.org</a>
+					</div>
+										<div class="usage">
+						Comedian Andy Dick was the center of attention Monday afternoon at a Los Angeles coffee house, drunkenly flashing his genitals, and RadarOnline.com has learned it was no laughing matter.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.radaronline.com/exclusives/2010/10/photos-deja-vu-andy-dick-makes-his-privates-public-again" target="_blank" rel="external nofollow">radaronline.com</a>
+					</div>
+										<div class="usage">
+						Suspended Missouri football coach Gary Pinkel has pleaded guilty to a misdemeanor charge of drunken driving.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newstribune.com/documents/2011/nov/18/pinkels-probable-cause-statement/" target="_blank" rel="external nofollow">newstribune.com</a>
+					</div>
+										<div class="usage">
+						"Ritalin For The Markets", "Drunken Sailors", " Promiscuous Economists", And "QE3 Won't Work".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/davidwismer/2012/10/05/a-month-of-fedspeak-ritalin-for-the-markets-drunken-sailors-promiscuous-economists-and-qe3-wont-work/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Super' drunken driver destroyes putting green , gets probation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://leaderpub.com/2012/07/27/super-drunken-driver-destroyes-putting-green-gets-probation/" target="_blank" rel="external nofollow">leaderpub.com</a>
+					</div>
+										<div class="usage">
+						Super' drunken driver destroyes putting green, gets probation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://leaderpub.com/2012/07/27/super-drunken-driver-destroyes-putting-green-gets-probation/" target="_blank" rel="external nofollow">leaderpub.com</a>
+					</div>
+										<div class="usage">
+						50 drunken elephants ransack village in India, drink 130 gallons of moonshine.
+					</div>
+					<div class="uAuthor">
+						<a href="http://myfox8.com/2012/11/07/50-drunken-elephants-ransack-village-in-india-drink-130-gallons-of-moonshine/" target="_blank" rel="external nofollow">myfox8.com</a>
+					</div>
+										<div class="usage">
+						A driver who struck and killed a pedestrian in Rapid City about a year ago has been sentenced to serve 100 days in jail for drunken driving.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.therepublic.com/view/story/1bceed0e65f94527805f4deb19921ae9/SD--Pedestrian-Fatal-Sentence" target="_blank" rel="external nofollow">therepublic.com</a>
+					</div>
+										<div class="usage">
+						Colorado police officers took a wild, drunken ride through.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aberdeennews.com/news/aan-law-enforcers-arrested-while-driving-to-funeral-for-slain-rapid-city-officer-20110811,0,5389074.story" target="_blank" rel="external nofollow">aberdeennews.com</a>
+					</div>
+										<div class="usage">
+						Deported illegal pleads guilty to re-entering U.S. A 29-year-old Mexican national who killed a woman in a 2005 Lawrence drunken-driving crash has pleaded guilty to illegally re-entering the country as a felon.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.knssradio.com/Deported-illegal-pleads-guilty-to-re-entering-U-S-/12189167" target="_blank" rel="external nofollow">knssradio.com</a>
+					</div>
+										<div class="usage">
+						The man was later arrested on suspicion of drunken driving.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.contracostatimes.com/top-stories/ci_21393575/livermore-man-severs-foot-driving-recklessly-parking-lot" target="_blank" rel="external nofollow">contracostatimes.com</a>
+					</div>
+										<div class="usage">
+						HIGHLAND PARK, Mich. Rima Fakih, the first Arab-American to be crowned Miss USA, has been sentenced to probation and community service in a Michigan drunken driving case.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winknews.com/Hot-on-the-Web/2012-05-09/Ex-Miss-USA-Rima-Fakih-gets-probation-in-DUI-case" target="_blank" rel="external nofollow">winknews.com</a>
+					</div>
+										<div class="usage">
+						Jason Mack — a 250-pound city janitor — admits he drunkenly pleasured himself onto a 14-year-old girl on a crowded 1 train a decade ago.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/news/local/manhattan/justice_wasn_swift_enough_to_lock_AdiNEAbUatNgbwzDpdBxSK" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						A man accused of throwing the cup that sparked a 2004 brawl between Indiana Pacers players and Detroit Pistons fans at The Palace of Auburn Hills was arrested on suspicion of drunken driving.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.mlive.com/chronicle/2007/09/accused_palace_cuptosser_suspe.html" target="_blank" rel="external nofollow">blog.mlive.com</a>
+					</div>
+										<div class="usage">
+						The stunning 22-year-old heiress and her new husband James Stunt 's married life didn't get off to the ideal start, after the groom's best man drunkenly appeared in their hotel room and got into bed with them.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.radaronline.com/exclusives/2011/10/petra-ecclestone-s-wedding-night-crashed-drunken-best-man" target="_blank" rel="external nofollow">radaronline.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In a pictorial language, F (n, v ) is the probability that a sober man walking at constant speed v , and a drunken sailor stepping forward and backward erratically, both leaving a pub at some initial time, do not meet up to time n. 
+					</div>
+					<div class="uAuthor">
+						Statistics of persistent events in the binomial random walk: Will the drunken sailor hit the sober man?
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the act of drinking alcoholic beverages to excess"><a href="crapulence.html">crapulence</a>, </div><div class="synGroup" title="a temporary state resulting from excessive consumption of alcohol"><a href="inebriation.html">inebriation</a>, <a href="inebriety.html">inebriety</a>, <a href="intoxication.html">intoxication</a>, <a href="tipsiness.html">tipsiness</a>, <a href="insobriety.html">insobriety</a>, </div><div class="synGroup" title="habitual intoxication; prolonged and excessive intake of alcoholic drinks leading to a breakdown in health and an addiction to alcohol such that abrupt deprivation leads to severe withdrawal symptoms"><a href="alcohol%20addiction.html">alcohol addiction</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="soberness.html">soberness</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="drug%20addiction.html">drug addiction</a>, <a href="intemperance.html">intemperance</a>, <a href="intemperateness.html">intemperateness</a>, <a href="temporary%20state.html">temporary state</a>, <a href="white%20plague.html">white plague</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="drinking%20bout.html">drinking bout</a>, <a href="grogginess.html">grogginess</a>, <a href="sottishness.html">sottishness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="drink.html">drink</a>, <a href="drunken.html">drunken</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="amethyst.html">amethyst</a>, <a href="aspiration%20pneumonia.html">aspiration pneumonia</a>, <a href="bacchanalian.html">bacchanalian</a>, <a href="Bailie.html">Bailie</a>, <a href="besot.html">besot</a>, <a href="carousal.html">carousal</a>, <a href="consent.html">consent</a>, <a href="crapulence.html">crapulence</a>, <a href="dazed.html">dazed</a>, <a href="debauch.html">debauch</a>, <a href="degrade.html">degrade</a>, <a href="drunk.html">drunk</a>, <a href="drunken.html">drunken</a>, <a href="Drunkenhead.html">Drunkenhead</a>, <a href="Drunkenship.html">Drunkenship</a>, <a href="Drunkship.html">Drunkship</a>, <a href="Ebriety.html">Ebriety</a>, <a href="Ebriosity.html">Ebriosity</a>, <a href="foggy.html">foggy</a>, <a href="giddy.html">giddy</a>, <a href="groggy.html">groggy</a>, <a href="incompatible.html">incompatible</a>, <a href="inebriant.html">inebriant</a>, <a href="inebriation.html">inebriation</a>, <a href="inebriety.html">inebriety</a>, <a href="Inebrious.html">Inebrious</a>, <a href="insobriety.html">insobriety</a>, <a href="intemperance.html">intemperance</a>, <a href="Intoxicatedness.html">Intoxicatedness</a>, <a href="intoxication.html">intoxication</a>, <a href="logy.html">logy</a>, <a href="maudlin.html">maudlin</a>, <a href="Methysis.html">Methysis</a>, <a href="rouse.html">rouse</a>, <a href="spree.html">spree</a>, <a href="St%20Martin%27s%20evil.html">St Martin's evil</a>, <a href="stupefy.html">stupefy</a>, <a href="stuporous.html">stuporous</a>, <a href="Temulence.html">Temulence</a>, <a href="Temulency.html">Temulency</a>, <a href="tipple.html">tipple</a>, <a href="tippler.html">tippler</a>, <a href="Upas.html">Upas</a>, <a href="vice.html">vice</a>, <a href="Vinolency.html">Vinolency</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					srunkenness, erunkenness, frunkenness, crunkenness, xrunkenness, srunkenness, deunkenness, ddunkenness, dfunkenness, dtunkenness, drynkenness, drhnkenness, drjnkenness, drinkenness, drubkenness, druhkenness, drujkenness, drumkenness, drunjenness, drunienness, drunlenness, drunmenness, drunkwnness, drunksnness, drunkdnness, drunkrnness, drunkebness, drunkehness, drunkejness, drunkemness, drunkenbess, drunkenhess, drunkenjess, drunkenmess, drunkennwss, drunkennsss, drunkenndss, drunkennrss, drunkenneas, drunkennews, drunkenneds, drunkennexs, drunkennezs, drunkenneas, drunkennesa, drunkennesw, drunkennesd, drunkennesx, drunkennesz, drunkennesa
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

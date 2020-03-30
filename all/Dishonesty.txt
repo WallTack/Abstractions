@@ -1,0 +1,400 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>dishonesty</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">dishonesty</span> <span class="exp">lack of honesty; acts of lying or cheating or stealing</span> </li><li><span class="tSpeech">n</span> <span class="term">dishonesty</span> <span class="exp">the quality of being dishonest</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Dishonesty</span> <span class="exp">Dishonor; dishonorableness; shame.</span> <span class="wuQuot">"The hidden things of dishonesty ."</span></li><li><span class="term">Dishonesty</span> <span class="exp">Lewdness; unchastity.</span> </li><li><span class="term">Dishonesty</span> <span class="exp">Violation of trust or of justice; fraud; any deviation from probity; a dishonest act.</span> </li><li><span class="term">Dishonesty</span> <span class="exp">Want of honesty, probity, or integrity in principle; want of fairness and straightforwardness; a disposition to defraud, deceive, or betray; faithlessness.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">dishonesty</span> <span class="exp">The quality of being dishonest; lack of honesty; want of probity or integrity; a disposition to cheat or defraud, or to deceive and betray.</span> </li><li><span class="tSpeech">n</span> <span class="term">dishonesty</span> <span class="exp">Violation of trust or of justice; fraud; treachery; any deviation from probity or integrity.</span> </li><li><span class="tSpeech">n</span> <span class="term">dishonesty</span> <span class="exp">Unchastity; lewdness.</span> </li><li><span class="tSpeech">n</span> <span class="term">dishonesty</span> <span class="exp">Synonyms Knavishness, deceitfulness, perfidiousness, unscrupulousness, unfairness, slipperiness.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Simmons</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles Simmons">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Accuracy is the twin brother of honesty; inaccuracy, of dishonesty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George A. Knight</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George A. Knight">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Dishonesty, cowardice and duplicity are never impulsive.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Bancroft</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George Bancroft">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Dishonesty is so grasping it would deceive God himself, were it possible.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Stephen B. Leacock</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Stephen%20B.%20Leacock.jpg" alt="Stephen%20B.%20Leacock">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men are able to trust one another, knowing the exact degree of dishonesty they are entitled to expect.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Plato</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Plato.jpg" alt="Plato">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Honesty is for the most par less profitable than dishonesty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Horace Mann</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Horace%20Mann.jpg" alt="Horace%20Mann">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Unfaithfulness in the keeping of an appointment is an act of clear dishonesty. You may as well borrow a person's money as his time.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. OF. <span class="wUets">deshonesté</span>, F. <span class="wUets">déshonnêteté</span>, 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Why should girls excuse themselves for classroom dishonesty?
+					</div>
+					<div class="uAuthor">
+						"A Girl's Student Days and After" by <span>Jeannette Marks</span>					</div>
+										<div class="usage">
+						Was the expression I saw upon it one of triumph, or one of defeated dishonesty?
+					</div>
+					<div class="uAuthor">
+						"The Argosy" by <span>Various</span>					</div>
+										<div class="usage">
+						Its character is dishonesty.
+					</div>
+					<div class="uAuthor">
+						"Explanation of Catholic Morals" by <span>John H. Stapleton</span>					</div>
+										<div class="usage">
+						Charge one with dishonesty, and the next week he will ride a hundred miles to deliver a bracelet you paid for months before.
+					</div>
+					<div class="uAuthor">
+						"I Married a Ranger" by <span>Dama Margaret Smith</span>					</div>
+										<div class="usage">
+						It is still worse when a student discovers in religious writers signs of dishonesty and fraud.
+					</div>
+					<div class="uAuthor">
+						"Modern Skepticism: A Journey Through the Land of Doubt and Back Again" by <span>Joseph Barker</span>					</div>
+										<div class="usage">
+						The Chief realised that it was deliberate slackness that led to dishonesty, not dishonesty that was incidentally slack.
+					</div>
+					<div class="uAuthor">
+						"The Loom of Youth" by <span>Alec Waugh</span>					</div>
+										<div class="usage">
+						There was no great dishonesty, but his tea-caddy was no longer guarded and provisions ceased to be mysteriously preserved.
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine, Vol. 22, August, 1878" by <span>Various</span>					</div>
+										<div class="usage">
+						He owed his millions to no genuine force of character, but to luck, industry, and dishonesty.
+					</div>
+					<div class="uAuthor">
+						"The Admirable Tinker" by <span>Edgar Jepson</span>					</div>
+										<div class="usage">
+						This dishonesty of Phinuit certainly complicates the problem singularly.
+					</div>
+					<div class="uAuthor">
+						"Mrs. Piper &amp; the Society for Psychical Research" by <span>Michael Sage</span>					</div>
+										<div class="usage">
+						In the first article he exposed the ignorance and dishonesty of James.
+					</div>
+					<div class="uAuthor">
+						"James Fenimore Cooper" by <span>Thomas R. Lounsbury</span>					</div>
+										<div class="usage">
+						But a game which was founded wholly on dishonesty was something which I felt was unworthy of our men.
+					</div>
+					<div class="uAuthor">
+						"The Great War As I Saw It" by <span>Frederick George Scott</span>					</div>
+										<div class="usage">
+						Dishonesty would have driven us out of business long ago.
+					</div>
+					<div class="uAuthor">
+						"Cluthe's Advice to the Ruptured" by <span>Chas. Cluthe &amp; Sons</span>					</div>
+										<div class="usage">
+						They were honest themselves, and not easy to suspect dishonesty in others.
+					</div>
+					<div class="uAuthor">
+						"Pocket Island" by <span>Charles Clark Munn</span>					</div>
+										<div class="usage">
+						How often one hears that made the excuse for all sorts of meanness, dishonesty, grasping tyranny.
+					</div>
+					<div class="uAuthor">
+						"True Words for Brave Men" by <span>Charles Kingsley</span>					</div>
+										<div class="usage">
+						More and more I am convinced that we shall have to make a violent and very conscious effort to get clear of dishonesty.
+					</div>
+					<div class="uAuthor">
+						"Women's Wild Oats" by <span>C. Gasquoine Hartley</span>					</div>
+										<div class="usage">
+						I don't mind his insolence, but the shifty dishonesty of the fellow.
+					</div>
+					<div class="uAuthor">
+						"My New Curate" by <span>P.A. Sheehan</span>					</div>
+										<div class="usage">
+						On the Mount of Mercury, dishonesty.
+					</div>
+					<div class="uAuthor">
+						"Palmistry for All" by <span>Cheiro</span>					</div>
+										<div class="usage">
+						But lack of promptness will shake confidence almost as quickly as downright dishonesty.
+					</div>
+					<div class="uAuthor">
+						"How to Succeed" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						This, for instance, was the only case of dishonesty or even sharp practice in our whole voyage.
+					</div>
+					<div class="uAuthor">
+						"The Works of Robert Louis Stevenson - Swanston Edition" by <span>Robert Louis Stevenson</span>					</div>
+										<div class="usage">
+						Should he confront Caleb Annister with the evidence of his dishonesty, or would it be better to wait a while?
+					</div>
+					<div class="uAuthor">
+						"The Boy from the Ranch" by <span>Frank V. Webster</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In a sports world full of dishonesty , one golfer gives hope.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.standard.net/stories/2012/11/06/sports-world-full-dishonesty-one-golfer-gives-hope" target="_blank" rel="external nofollow">standard.net</a>
+					</div>
+										<div class="usage">
+						Explaining Romney's dishonesty on the auto-bailout.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/plum-line/post/explaining-romneys-dishonesty-on-the-auto-bailout/2012/10/30/646b2cda-22af-11e2-8448-81b1ce7d6978_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Accuses Romney of dishonesty , extremism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lubbockonline.com/filed-online/2012-10-16/analysis-blistering-form-obama-rebounds-accuses-romney-dishonesty-extremism" target="_blank" rel="external nofollow">lubbockonline.com</a>
+					</div>
+										<div class="usage">
+						As President Barack Obama tries to gather more campaign cash today in California, his surrogates are continuing to pound the theme that Mitt Romney's success in last week's debate was the result of dishonesty .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kolotv.com/news/politics/headlines/Obama-Campaign-Calls-Attention-to--What-it-Says-was-Romney-Dishonesty-173038911.html" target="_blank" rel="external nofollow">kolotv.com</a>
+					</div>
+										<div class="usage">
+						PennFuture accuses DEP of permit dishonesty .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/stories/local/region/pennfuture-accuses-dep-of-permit-dishonesty-656236/" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						A day after losing the first presidential debate to Mitt Romney, President Barack Obama and his campaign accused the Republican challenger of dishonesty over tax policy and other issues.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wibw.com/home/nationalnews/headlines/Obama-Accuses-Romney-Of-Dishonesty-In-Debate-172717851.html?site=full" target="_blank" rel="external nofollow">wibw.com</a>
+					</div>
+										<div class="usage">
+						DENVER,COLORADO — A day after losing the first presidential debate to Mitt Romney, President Barack Obama and his campaign accused the Republican challenger of dishonesty over tax policy and other issues.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kmsstv.com/news/obama-accuses-romney-dishonesty-debate" target="_blank" rel="external nofollow">kmsstv.com</a>
+					</div>
+										<div class="usage">
+						Decay, decline and dishonesty in higher education.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/right-turn/post/decay-decline-and-dishonesty-in-higher-education/2012/09/01/be224078-f3e4-11e1-892d-bc92fee603a7_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Will Paul Ryan's dishonesty matter to voters.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/plum-line/post/will-paul-ryans-dishonesty-matter-to-voters/2012/08/30/579da2b8-f2b6-11e1-b74c-84ed55e0300b_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						 Dishonesty Is the Seventh Killer App.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/national/archive/2012/08/dishonesty-is-the-seventh-killer-app/261352/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						Propaganda and dishonesty have always existed in politics, but the 2012 campaign takes it to a new level.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/opinion/debate-club/articles/2012/08/10/there-are-no-limits-on-dishonesty-in-the-obama-romney-race" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						There are No Limits on Dishonesty in the Obama-Romney Race.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/opinion/debate-club/articles/2012/08/10/there-are-no-limits-on-dishonesty-in-the-obama-romney-race" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						Iran attacks world powers' ' dishonesty .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/jun/21/iran-attacks-world-powers-dishonesty/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Women, Romney and his 'outrageous dishonesty '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/columnists/marc_lamont_hill/20120418_Marc_Lamont_Hill_.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						 Dishonesty insubordination alleged after investigation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wapakdailynews.com/content/capt-demoted-dishonesty-insubordination-alleged-after-investigation" target="_blank" rel="external nofollow">wapakdailynews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The second and more abstract point is that even if the Bayesians do not engage in active intellectual dishonesty, there is still no ob jective way to select a prior. 
+					</div>
+					<div class="uAuthor">
+						Compression Rate Method for Empirical Science and Application to Computer Vision
+					</div>
+										<div class="usage">
+						A common problem in all election systems of interest is the incentive for dishonesty. 
+					</div>
+					<div class="uAuthor">
+						The Complexity of Manipulating $k$-Approval Elections
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="lack of honesty; acts of lying or cheating or stealing"><a href="knavery.html">knavery</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="honesty.html">honesty</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="actus%20reus.html">actus reus</a>, <a href="misconduct.html">misconduct</a>, <a href="unrighteousness.html">unrighteousness</a>, <a href="wrongdoing.html">wrongdoing</a>, <a href="wrongful%20conduct.html">wrongful conduct</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="betrayal.html">betrayal</a>, <a href="charlatanism.html">charlatanism</a>, <a href="corruption.html">corruption</a>, <a href="corruptness.html">corruptness</a>, <a href="crookedness.html">crookedness</a>, <a href="deceit.html">deceit</a>, <a href="deceptiveness.html">deceptiveness</a>, <a href="deviousness.html">deviousness</a>, <a href="disingenuousness.html">disingenuousness</a>, <a href="falsehood.html">falsehood</a>, <a href="falsification.html">falsification</a>, <a href="fraudulence.html">fraudulence</a>, <a href="larcenous.html">larcenous</a>, <a href="obliquity.html">obliquity</a>, <a href="perfidy.html">perfidy</a>, <a href="quackery.html">quackery</a>, <a href="rascality.html">rascality</a>, <a href="shiftiness.html">shiftiness</a>, <a href="slipperiness.html">slipperiness</a>, <a href="thievishness.html">thievishness</a>, <a href="treachery.html">treachery</a>, <a href="treason.html">treason</a>, <a href="trick.html">trick</a>, <a href="trickiness.html">trickiness</a>, <a href="unscrupulousness.html">unscrupulousness</a>, <a href="untruthfulness.html">untruthfulness</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="accuse.html">accuse</a>, <a href="boot.html">boot</a>, <a href="candor.html">candor</a>, <a href="candour.html">candour</a>, <a href="charlatanism.html">charlatanism</a>, <a href="Clean%20hands.html">Clean hands</a>, <a href="corrupt.html">corrupt</a>, <a href="crookedness.html">crookedness</a>, <a href="dishonestly.html">dishonestly</a>, <a href="fair-mindedness.html">fair-mindedness</a>, <a href="fairness.html">fairness</a>, <a href="foulness.html">foulness</a>, <a href="fraudulence.html">fraudulence</a>, <a href="graft.html">graft</a>, <a href="Improbity.html">Improbity</a>, <a href="incapable.html">incapable</a>, <a href="indirectness.html">indirectness</a>, <a href="infidelity.html">infidelity</a>, <a href="knavery.html">knavery</a>, <a href="knavishness.html">knavishness</a>, <a href="loot.html">loot</a>, <a href="Low-lived.html">Low-lived</a>, <a href="quackery.html">quackery</a>, <a href="rascal.html">rascal</a>, <a href="Rascalism.html">Rascalism</a>, <a href="rascality.html">rascality</a>, <a href="rascally.html">rascally</a>, <a href="stamp.html">stamp</a>, <a href="unscrupulousness.html">unscrupulousness</a>, <a href="wind.html">wind</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					sishonesty, eishonesty, fishonesty, cishonesty, xishonesty, sishonesty, dushonesty, djshonesty, dkshonesty, doshonesty, diahonesty, diwhonesty, didhonesty, dixhonesty, dizhonesty, diahonesty, disgonesty, disyonesty, disjonesty, disnonesty, disbonesty, dishinesty, dishknesty, dishlnesty, dishpnesty, dishobesty, dishohesty, dishojesty, dishomesty, dishonwsty, dishonssty, dishondsty, dishonrsty, dishoneaty, dishonewty, dishonedty, dishonexty, dishonezty, dishoneaty, dishonesry, dishonesfy, dishonesgy, dishonesyy, dishonestt, dishonestg, dishonesth, dishonestu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

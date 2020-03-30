@@ -1,0 +1,491 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>negotiation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">negotiation</span> <span class="exp">the activity or business of negotiating an agreement; coming to terms</span> </li><li><span class="tSpeech">n</span> <span class="term">negotiation</span> <span class="exp">a discussion intended to produce an agreement</span> <span class="quot">"the buyout negotiation lasted several days","they disagreed but kept an open dialogue","talks between Israelis and Palestinians"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Negotiation</span> <span class="exp">Hence, mercantile business; trading.</span> <span class="wuQuot">"Who had lost, with these prizes, forty thousand pounds, after twenty years' negotiation in the East Indies."</span></li><li><span class="term">Negotiation</span> <span class="exp">The act or process of negotiating; a treating with another respecting sale or purchase. etc.</span> </li><li><span class="term">Negotiation</span> <span class="exp">The transaction of business between nations; the mutual intercourse of governments by diplomatic agents, in making treaties, composing difference, etc.; as, the <span class="wUex">negotiations</span> at Ghent.</span> <span class="wuQuot">"An important negotiation with foreign powers."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">negotiation</span> <span class="exp">Trading; mercantile business; trafficking.</span> </li><li><span class="tSpeech">n</span> <span class="term">negotiation</span> <span class="exp">Mutual discussion and arrangement of the terms of a transaction or agreement, whether directly or by agents or intermediaries; the act or process of treating with another or others in regard to the settlement of some matter, or for the purchase or sale of a commodity, etc.: as, the negotiation of a treaty or a loan.</span> </li><li><span class="tSpeech">n</span> <span class="term">negotiation</span> <span class="exp">In com., the act or procedure by which a bill of exchange, etc., is made negotiable—that is, made capable, by acceptance and indorsement, of being passed from hand to hand in payment of indebtedness, or of being transferred to another for a consideration. See negotiable.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Negotiation</span> <span class="exp">act of negotiating: the treating with another on business</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Let every eye negotiate for itself and trust no agent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Richard M. Nixon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Richard%20M.%20Nixon.jpg" alt="Richard%20M.%20Nixon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Let us move from the era of confrontation to the era of negotiation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John F. Kennedy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20F.%20Kennedy.jpg" alt="John%20F.%20Kennedy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Let us never negotiate out of fear but let us never fear to negotiate.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Victor Kiam</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Victor Kiam">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Information is a negotiator's greatest weapon.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dean Acheson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Dean Acheson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Negotiating in the classic diplomatic sense assumes parties more anxious to agree than to disagree.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marvin Gaye</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marvin Gaye">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Negotiating means getting the best of your opponent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">negotiatio</span>,: cf. F. <span class="wUets">négociation</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>negotiāri</i>, <i>-ātus</i>—<i>negotium</i>, business—<i>nec</i>, not, <i>otium</i>, leisure.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Negotiations for the settlement of Italian affairs were proceeding without noise, but with continual progress, through this month.
+					</div>
+					<div class="uAuthor">
+						"Renaissance in Italy, Volumes 1 and 2" by <span>John Addington Symonds</span>					</div>
+										<div class="usage">
+						That isn't a negotiable security.
+					</div>
+					<div class="uAuthor">
+						"Burned Bridges" by <span>Bertrand W. Sinclair</span>					</div>
+										<div class="usage">
+						Frederick had shrewdly prepared for success, by negotiations, through his Saracen friends, with the Sultan of Egypt.
+					</div>
+					<div class="uAuthor">
+						"Historical Tales, Vol 5 (of 15)" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						The truce, which was to last for eight months, was negotiated in France in January, 1383-84.
+					</div>
+					<div class="uAuthor">
+						"An Outline of the Relations between England and Scotland (500-1707)" by <span>Robert S. Rait</span>					</div>
+										<div class="usage">
+						Such an arrangement would give me time to negotiate a sale of part of the ranch and pay up your mortgage.
+					</div>
+					<div class="uAuthor">
+						"The Pride of Palomar" by <span>Peter B. Kyne</span>					</div>
+										<div class="usage">
+						As soon as he heard of the defeat of Eustace, he reopened negotiations with the marshal.
+					</div>
+					<div class="uAuthor">
+						"The History of England" by <span>T.F. Tout</span>					</div>
+										<div class="usage">
+						The same reasons obliged me still to decline; and the negotiation was in fact never entered on.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						His powers were only to negotiate, not to sign.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						Such, Sir, was his opinion, and it is exactly conformable to what the negotiators had in view in forming this article.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						Pickering here, and his nephew Williams there, can easily negotiate this.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						I hate your pen and ink men; a fleet of British ships of war are the best negotiators in Europe.
+					</div>
+					<div class="uAuthor">
+						"The Life of Nelson, Vol. II. (of 2)" by <span>A. T. (Alfred Thayer) Mahan</span>					</div>
+										<div class="usage">
+						The negotiations had failed.
+					</div>
+					<div class="uAuthor">
+						"A Short History of Russia" by <span>Mary Platt Parmele</span>					</div>
+										<div class="usage">
+						The American ministers at Madrid could make no progress in their negotiation.
+					</div>
+					<div class="uAuthor">
+						"The Life of George Washington, Vol. 5 (of 5)" by <span>John Marshall</span>					</div>
+										<div class="usage">
+						He had a keen appreciation of the value of silence in business negotiations.
+					</div>
+					<div class="uAuthor">
+						"Swirling Waters" by <span>Max Rittenberg</span>					</div>
+										<div class="usage">
+						Lord Lansdowne concluded by saying that, if the Boers wished to negotiate, it must be in South Africa, and not in Europe.
+					</div>
+					<div class="uAuthor">
+						"Three Years' War" by <span>Christiaan Rudolf de Wet</span>					</div>
+										<div class="usage">
+						I cannot understand what these negotiations were to lead to.
+					</div>
+					<div class="uAuthor">
+						"For Sceptre and Crown, Vol. II (of II)" by <span>Gregor Samarow</span>					</div>
+										<div class="usage">
+						If they had held their own negotiations in their own hands, they would probably have obtained better terms.
+					</div>
+					<div class="uAuthor">
+						"The Diplomatic Correspondence of the American Revolution" by <span>Various</span>					</div>
+										<div class="usage">
+						When Grenville was Minister, Pitt had negotiated with the King to overthrow him.
+					</div>
+					<div class="uAuthor">
+						"Lord Chatham" by <span>Archibald Phillip Primrose Rosebery</span>					</div>
+										<div class="usage">
+						The particulars of the negotiation with Spain I do not dwell upon.
+					</div>
+					<div class="uAuthor">
+						"The Diplomatic Correspondence of the American Revolution, Volume X (of 12)" by <span>Various</span>					</div>
+										<div class="usage">
+						The prices of metals necessary to war industries have been brought down by negotiation.
+					</div>
+					<div class="uAuthor">
+						"Current History: A Monthly Magazine of the New York Times, May 1918" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Swap of spy suspects being negotiated.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/07/07/AR2010070704981.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The Columbus County Sheriff's Department and SBI were able to negotiate with the armed man and he released the woman he kidnapped unharmed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wwaytv3.com/breaking_news_hostage_stand_off_in_columbus_county/07/2007" target="_blank" rel="external nofollow">wwaytv3.com</a>
+					</div>
+										<div class="usage">
+						As negotiations stalled and started over the summer, Obama publicly emphasized a partnership with Republican leaders.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-srv/special/politics/debt-ceiling-crisis/" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Six tips for negotiating turns when things get tight.
+					</div>
+					<div class="uAuthor">
+						<a href="http://bicycling.com/blogs/ramblingman/2012/09/05/how-to-corner-in-a-bicycle-race/" target="_blank" rel="external nofollow">bicycling.com</a>
+					</div>
+										<div class="usage">
+						The push to find more organs has gotten so desperate that we are now negotiating with mass murderers about the feasibility of using their parts after they are executed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/42669327/ns/health-health_care/" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						Meanwhile, bitterness reigns in negotiation follies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dotnews.com/columns/2012/thanksgiving-day-may-be-d-day-nhl-season-meanwhile-bitterness-" target="_blank" rel="external nofollow">dotnews.com</a>
+					</div>
+										<div class="usage">
+						Together they try to negotiate love, marriage, sex, children, work, and autonomy—with worryingly little success.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/2012-05-09/voice-choices/rapture-blister-burn/" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						CENTERVILLE — A Centerville man charged with two crimes involving a 14-year-old girl negotiated a plea bargain -- after he finally showed up in court.
+					</div>
+					<div class="uAuthor">
+						<a href="http://journalexpress.net/cnhi/x688463248/Centerville-man-receives-probation-after-ducking-court/print" target="_blank" rel="external nofollow">journalexpress.net</a>
+					</div>
+										<div class="usage">
+						NYSUT Secretary-Treasurer Lee Cutler commits NYSUT's full support as Bellport TA engages in tough contract negotiations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nysut.org/cps/rde/xchg/nysut/hs.xsl/nysutunited_15961.htm" target="_blank" rel="external nofollow">nysut.org</a>
+					</div>
+										<div class="usage">
+						European Commissioner for Climate Action Connie Hedegaard and Chinese negotiator Xie Zhenhua meet outside the plenary hall earlier in the week.
+					</div>
+					<div class="uAuthor">
+						<a href="http://motherjones.com/blue-marble/2011/12/durban-deal" target="_blank" rel="external nofollow">motherjones.com</a>
+					</div>
+										<div class="usage">
+						Climate activists in Durban are expressing their displeasure at negotiators from wealthy countries, whom they see as dragging their feet on curbing greenhouse gas emissions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Science/2011/1208/Activists-showing-impatience-at-Durban-climate-talks" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Iran's chief nuclear negotiator Saeed Jalili.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/news/world/2007-12-04-us-iran_N.htm" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Negotiations between Charleston Area Medical Center and Humana fell through on Tuesday, a hospital spokesman said.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailymail.com/pastweek/201210230173" target="_blank" rel="external nofollow">dailymail.com</a>
+					</div>
+										<div class="usage">
+						Workers Choose Jobs, Negotiate Wages.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052970204443404577052353225234154.html?mod=WSJ_Tech_LEADTop" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						Intel and the FTC have now filed a joint motion to suspend the legal proceedings while the two sides work to negotiate a settlement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cioinsight.com/c/a/Government/Federal-Trade-Commission-and-Intel-in-Talks-to-Settle-Antitrust-Lawsuit/" target="_blank" rel="external nofollow">cioinsight.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The index.html.var file (a type-map) is used to deliver content- # negotiated documents. The MultiViews Option can be used for the # same purpose, but it is much slower. 
+					</div>
+					<div class="uAuthor">
+						Software Design Document, Testing, Deployment and Configuration Management of the UUIS--a Team 2 COMP5541-W10 Project Approach
+					</div>
+										<div class="usage">
+						You can then use content negotiation to give a browser a # file in a language the user can understand. 
+					</div>
+					<div class="uAuthor">
+						Software Design Document, Testing, Deployment and Configuration Management of the UUIS--a Team 2 COMP5541-W10 Project Approach
+					</div>
+										<div class="usage">
+						LanguagePriority allows you to give precedence to some languages # in case of a tie during content negotiation. 
+					</div>
+					<div class="uAuthor">
+						Software Design Document, Testing, Deployment and Configuration Management of the UUIS--a Team 2 COMP5541-W10 Project Approach
+					</div>
+										<div class="usage">
+						Work space is limited and may need to be regularly negotiated for. 
+					</div>
+					<div class="uAuthor">
+						Astronomy in Antarctica
+					</div>
+										<div class="usage">
+						The device negotiates with the BS and the BS will not schedule the user for transmission or reception when the radio is off. 
+					</div>
+					<div class="uAuthor">
+						Green Cellular Networks: A Survey, Some Research Issues and Challenges
+					</div>
+										<div class="usage">
+						The client and service negotiate the lifetime of the results tables. 5. A service performs image stacking on a list of fields. Each field can be processed by a synchronous service but the list is long and the user wants to retrieve the results of the early fields before the last fields are processed. 
+					</div>
+					<div class="uAuthor">
+						IVOA Recommendation: Universal Worker Service Pattern Version 1.0
+					</div>
+										<div class="usage">
+						Adaptive algorithms: During radio operation, the cognitive radio is sensing its environment, adhering to policy and configuration constraints, and negotiating with peers to best utilize the radio spectrum and meet user demands. 
+					</div>
+					<div class="uAuthor">
+						Survey of Latest Wireless Cellular Technologies for Enhancement of Spectral Density at Reduced Cost
+					</div>
+										<div class="usage">
+						While the installation of publicly-available software packages is generally negotiable in some way, central administration of software becomes overly impractical when users need to deploy an application they are developing themselves. 
+					</div>
+					<div class="uAuthor">
+						Batch-oriented software appliances
+					</div>
+										<div class="usage">
+						The Resource Broker acts as an intermediary between the application and a set of resources. It is the responsibility of the Resource Broker to negotiate and find suitable resources according to the application’s resource requirement. 
+					</div>
+					<div class="uAuthor">
+						A Multi-agent Framework for Performance Tuning in Distributed Environment
+					</div>
+										<div class="usage">
+						One contribution that is non-negotiable in those data is that due to perturbative QCD. 
+					</div>
+					<div class="uAuthor">
+						Electromagnetic radiation from relativistic nuclear collisions
+					</div>
+										<div class="usage">
+						No URA management fee is entered. This fee will be negotiated with NSF. 
+					</div>
+					<div class="uAuthor">
+						Reference Design Project Book: NUSEL-Homestake
+					</div>
+										<div class="usage">
+						The fair price can form the basis of negotiations of what the actual price should be. 
+					</div>
+					<div class="uAuthor">
+						Weather forecasts, Weather derivatives, Black-Scholes, Feynmann-Kac and Fokker-Planck
+					</div>
+										<div class="usage">
+						Taylor, Question-negotiation and information seeking in libraries. 
+					</div>
+					<div class="uAuthor">
+						Methods for comparing rankings of search engine results
+					</div>
+										<div class="usage">
+						JSDL. &nbsp; In &nbsp; this &nbsp; case, &nbsp; the &nbsp;use &nbsp;of &nbsp; appropriate &nbsp;negotiation &nbsp; and &nbsp; agreement&nbsp;protocols&nbsp;are&nbsp;required&nbsp;. 
+					</div>
+					<div class="uAuthor">
+						Strategies for Development of a Distributed Framework for Computational Sciences
+					</div>
+										<div class="usage">
+						For a review of Szna jd models see . A review of both negotiators and opportunists was given by Lorenz . 
+					</div>
+					<div class="uAuthor">
+						A Biased Review of Sociophysics
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a discussion intended to produce an agreement"><a href="dialogue.html">dialogue</a>, <a href="talks.html">talks</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="activity.html">activity</a>, <a href="discussion.html">discussion</a>, <a href="give-and-take.html">give-and-take</a>, <a href="word.html">word</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bargaining.html">bargaining</a>, <a href="collective%20bargaining.html">collective bargaining</a>, <a href="diplomacy.html">diplomacy</a>, <a href="diplomatic%20negotiations.html">diplomatic negotiations</a>, <a href="horse%20trading.html">horse trading</a>, <a href="mediation.html">mediation</a>, <a href="parley.html">parley</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="negotiate.html">negotiate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="arrangement.html">arrangement</a>, <a href="bargain.html">bargain</a>, <a href="bargaining.html">bargaining</a>, <a href="broker.html">broker</a>, <a href="center.html">center</a>, <a href="Chevisance.html">Chevisance</a>, <a href="close.html">close</a>, <a href="collective%20bargaining.html">collective bargaining</a>, <a href="conference.html">conference</a>, <a href="confide.html">confide</a>, <a href="Counter%20project.html">Counter project</a>, <a href="diplomacy.html">diplomacy</a>, <a href="diplomatic.html">diplomatic</a>, <a href="diplomatic%20negotiations.html">diplomatic negotiations</a>, <a href="diplomatical.html">diplomatical</a>, <a href="earnest.html">earnest</a>, <a href="end%20game.html">end game</a>, <a href="endgame.html">endgame</a>, <a href="finality.html">finality</a>, <a href="go-between.html">go-between</a>, <a href="horse%20trading.html">horse trading</a>, <a href="management.html">management</a>, <a href="mediation.html">mediation</a>, <a href="memorial.html">memorial</a>, <a href="negotiate.html">negotiate</a>, <a href="Negotiatory.html">Negotiatory</a>, <a href="nibble.html">nibble</a>, <a href="open.html">open</a>, <a href="parley.html">parley</a>, <a href="pending.html">pending</a>, <a href="plea%20bargain.html">plea bargain</a>, <a href="plea%20bargaining.html">plea bargaining</a>, <a href="Pourparler.html">Pourparler</a>, <a href="preliminary.html">preliminary</a>, <a href="private.html">private</a>, <a href="progress.html">progress</a>, <a href="protocol.html">protocol</a>, <a href="recess.html">recess</a>, <a href="Sixth%20Crusade.html">Sixth Crusade</a>, <a href="snarl.html">snarl</a>, <a href="subject.html">subject</a>, <a href="talk.html">talk</a>, <a href="treaty.html">treaty</a>, <a href="truce.html">truce</a>, <a href="ultimatum.html">ultimatum</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					begotiation, hegotiation, jegotiation, megotiation, nwgotiation, nsgotiation, ndgotiation, nrgotiation, nefotiation, netotiation, nehotiation, nebotiation, nevotiation, negitiation, negktiation, negltiation, negptiation, negoriation, negofiation, negogiation, negoyiation, negotuation, negotjation, negotkation, negotoation, negotiqtion, negotiwtion, negotistion, negotiztion, negotiarion, negotiafion, negotiagion, negotiayion, negotiatuon, negotiatjon, negotiatkon, negotiatoon, negotiatiin, negotiatikn, negotiatiln, negotiatipn, negotiatiob, negotiatioh, negotiatioj, negotiatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

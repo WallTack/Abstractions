@@ -1,0 +1,482 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>injustice</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">injustice</span> <span class="exp">an unjust act</span> </li><li><span class="tSpeech">n</span> <span class="term">injustice</span> <span class="exp">the practice of being unjust or unfair</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Injustice</span> <span class="exp">An unjust act or deed; a sin; a crime; a wrong.</span> <span class="wuQuot">"Cunning men can be guilty of a thousand injustices without being discovered, or at least without being punished."</span></li><li><span class="term">Injustice</span> <span class="exp">Lack of justice and equity; violation of the rights of another or others; iniquity; wrong; unfairness; imposition.</span> <span class="wuQuot">"If this people [the Athenians] resembled Nero in their extravagance, much more did they resemble and even exceed him in cruelty and injustice ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">injustice</span> <span class="exp">Lack of justice or equity; unjust action; violation of another's rights; wrong inflicted.</span> </li><li><span class="tSpeech">n</span> <span class="term">injustice</span> <span class="exp">Synonyms Damage, Harm, etc. (see injury); unfairness, foul play, grievance.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Injustice</span> <span class="exp"><span class="itl">in-jus′tis</span> violation or withholding of another's rights or dues: wrong: iniquity.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Anthony Hope</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Anthony Hope">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A book might be written on the injustice of the just.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Hosea Ballou</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Hosea%20Ballou.jpg" alt="Hosea%20Ballou">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Those who commit injustice bear the greatest burden.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Plato</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Plato.jpg" alt="Plato">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He who commits injustice is ever made more wretched than he who suffers it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Butler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Butler.jpg" alt="Samuel%20Butler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Justice is my being allowed to do whatever I like. Injustice is whatever prevents my doing so.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jane Welsh Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jane Welsh Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When one has been threatened with a great injustice, one accepts a smaller as a favor.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">King Jr. Martin Luther</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/King%20Jr.%20Martin%20Luther.jpg" alt="King%20Jr.%20Martin%20Luther">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Injustice anywhere is a threat to justice everywhere.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">injustice</span>, L. <span class="wUets">injustitia</span>,. See <span class="wUer">In-</span> not, and <span class="wUer">Justice</span>, and cf. <span class="wUer">Unjust</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It's a detestable injustice.
+					</div>
+					<div class="uAuthor">
+						"Tristram of Blent" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						It is absolutely impossible that the faintest breath of injustice should ever disturb the Universe.
+					</div>
+					<div class="uAuthor">
+						"Reincarnation" by <span>Th. Pascal</span>					</div>
+										<div class="usage">
+						And the greater share of the blame for this injustice they lay upon the monopolies which we have been discussing.
+					</div>
+					<div class="uAuthor">
+						"Monopolies and the People" by <span>Charles Whiting Baker</span>					</div>
+										<div class="usage">
+						The enlightened American conscience will not tolerate injustice forever.
+					</div>
+					<div class="uAuthor">
+						"Masterpieces of Negro Eloquence" by <span>Various</span>					</div>
+										<div class="usage">
+						We have all reached the years of discretion, and we know the difference between right and wrong, between justice and injustice.
+					</div>
+					<div class="uAuthor">
+						"Breaking Away" by <span>Oliver Optic</span>					</div>
+										<div class="usage">
+						But, when all is said and done, some inequalities, some inevitable injustices, undoubtedly will remain.
+					</div>
+					<div class="uAuthor">
+						"The Conquest of Bread" by <span>Peter Kropotkin</span>					</div>
+										<div class="usage">
+						Injustice was being dealt out to her, and injustice to the child of affluence and luxury was a new sensation.
+					</div>
+					<div class="uAuthor">
+						"How It All Came Round" by <span>L. T. Meade</span>					</div>
+										<div class="usage">
+						Could I ever feel secure or comfortable with her after such injustice?
+					</div>
+					<div class="uAuthor">
+						"Valerie" by <span>Frederick Marryat</span>					</div>
+										<div class="usage">
+						It must be that she had done him an injustice, or he would not have said that he would come.
+					</div>
+					<div class="uAuthor">
+						"Cousin Henry" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						I have to acknowledge that injustice is done in this work to the character of General Vincent.
+					</div>
+					<div class="uAuthor">
+						"The Hour and the Man" by <span>Harriet Martineau</span>					</div>
+										<div class="usage">
+						A long imprisonment in the Isle of France, and the mental anxiety inseparable from a strong sense of injustice, it is said, destroyed him.
+					</div>
+					<div class="uAuthor">
+						"The History of Tasmania, Volume I (of 2)" by <span>John West</span>					</div>
+										<div class="usage">
+						Under their sanction, complying parliaments passed repeated acts of injustice and cruelty.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						To recount them all would be a formidable task, for their whole lives were darkened by injustice.
+					</div>
+					<div class="uAuthor">
+						"The War in South Africa" by <span>Arthur Conan Doyle</span>					</div>
+										<div class="usage">
+						To ask, now, whether justice or injustice is the more profitable becomes ridiculous.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books--Volume 14--Philosophy and Economics" by <span>Various</span>					</div>
+										<div class="usage">
+						He was not patient of injustice because a court of justice was its source.
+					</div>
+					<div class="uAuthor">
+						"Sir Walter Ralegh" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						Silence, no matter what the provocation may be; no matter how acute the sense of injustice may be, silence is the only safe way out.
+					</div>
+					<div class="uAuthor">
+						"The Eugenic Marriage, Vol. 3 (of 4)" by <span>W. Grant Hague</span>					</div>
+										<div class="usage">
+						Every man was a law unto himself, and confusion, tumult, and injustice everywhere prevailed.
+					</div>
+					<div class="uAuthor">
+						"Historic Tales, vol 10 (of 15)" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						And, hang it all, a man's mere comfort ought to give way before injustice of that kind.
+					</div>
+					<div class="uAuthor">
+						"Antony Gray,--Gardener" by <span>Leslie Moore</span>					</div>
+										<div class="usage">
+						As for the men who got no land in the scramble he could see no injustice.
+					</div>
+					<div class="uAuthor">
+						"The Landleaguers" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						And the people sick at the folly of it, and fired with the injustice!
+					</div>
+					<div class="uAuthor">
+						"The Works of Robert Louis Stevenson - Swanston Edition Vol. 7 (of 25)" by <span>Robert Louis Stevenson</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Thou hast a joy we do not feel,<br>
+A light we cannot see;<br>
+Injustice, sin, and wretchedness<br>
+No longer sadden thee;
+							<div class="poet">"Before A Statue Of Buddha" by <span>John Lawson Stoddard</span></div>
+						</div>
+											<div class="poemQuote">
+							Between all my torments between death and self<br>
+Between my despair and the reason for living<br>
+There is injustice and this evil of men<br>
+That I cannot accept there is my anger
+							<div class="poet">"Talking Of Power And Love " by <span>Paul Eluard</span></div>
+						</div>
+											<div class="poemQuote">
+							And they who see and comprehend<br>
+That ultimate and lofty aim<br>
+Will wait in patience for the end,<br>
+Knowing injustice cannot claim<br>
+One lasting victory, or control<br>
+Laws that bar progress for the whole.
+							<div class="poet">"The Hour" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+											<div class="poemQuote">
+							See! In your very midst there dwell<br>
+Ten thousand thousand blacks, a wedge<br>
+Forged in the furnaces of hell,<br>
+And sharpened to a cruel edge<br>
+By wrong and by injustice fell,<br>
+And driven by hatred as a sledge.
+							<div class="poet">"Fragment" by <span>James Weldon Johnson</span></div>
+						</div>
+											<div class="poemQuote">
+							And I consider if they are not allowed the same liberty,<br>
+From taxation every one of them should be set free;<br>
+And if they are not, it is really very unfair,<br>
+And an act of injustice I most solemnly declare. 
+							<div class="poet">"Women's Suffrage" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							But I was slow to take the tip, an' went on talkin' rot<br>
+About injustice in the world, an' boiled up good an' hot.<br>
+I spouts of wrongs of workin' men an' how our rulers fail.<br>
+His eyes are shut, but he just seconds motions with his tail.
+							<div class="poet">"The Vision" by <span>C J Dennis</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Hamas Justice System 'Reeks of Injustice ,' Rights Group Says.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theskanner.com/article/Hamas-Justice-System-Reeks-of-Injustice-Rights-Group-Says-2012-10-03" target="_blank" rel="external nofollow">theskanner.com</a>
+					</div>
+										<div class="usage">
+						An injustice for Ranger Wyman.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.whidbeynewstimes.com/opinion/letters/169397576.html" target="_blank" rel="external nofollow">whidbeynewstimes.com</a>
+					</div>
+										<div class="usage">
+						Dick Wolf and 'Friday Night Lights David Hudgins to Adapt ' Injustice ' for NBC.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/news/dick-wolf-injustice-friday-night-lights-american-adaptation-367888" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						'Monarch,' 'Somebody That I Used to Know' parodies, ' Injustice '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://seattletimes.nwsource.com/html/entertainment/2018968079_shortlist26.html?syndication=rss" target="_blank" rel="external nofollow">seattletimes.nwsource.com</a>
+					</div>
+										<div class="usage">
+						Near Wounded Knee, Years Of Alleged Injustice .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hppr.org/node/5192" target="_blank" rel="external nofollow">hppr.org</a>
+					</div>
+										<div class="usage">
+						The injustices of the Japanese-American internment camps of World War II are well-documented, but now a new angle is emerging: that of the interned orphans.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/US/9703/24/interned.orphans/" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Activist and former political candidate Paul Rusesabagina joins Worldview host Jerome McDonnell for a discussion on Rusesabaagina's autobiography, An Ordinary Man, and about taking action against injustice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wbez.org/series/chicago-amplified/paul-rusesabagina-conversation-jerome-mcdonnell-103276" target="_blank" rel="external nofollow">wbez.org</a>
+					</div>
+										<div class="usage">
+						Relying on a witness' memory creates injustice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/opinion/sunday-commentary/20120817-paul-kix-relying-on-a-witness-memory-creates-injustice.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						(Host) At Saint Michael's College, students want to do something about homophobia, hate crimes and social injustice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vpr.net/news_detail/77996/" target="_blank" rel="external nofollow">vpr.net</a>
+					</div>
+										<div class="usage">
+						Yesterday saw Liverpool 's first home match since UK Prime Minister David Cameron apologized for injustices, cover-up and misinformation by police surrounding the event.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-09-23/manchester-utd-dot-beats-10-man-liverpool-2-1-in-premier-league" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						 Meddling with Medicare injustice to all Americans John Watson Commentary.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesleader.com/stories/Meddling-with-Medicare-injustice-to-all-Americans-John-Watson-Commentary,193452" target="_blank" rel="external nofollow">timesleader.com</a>
+					</div>
+										<div class="usage">
+						 Murder conviction would be 'greatest injustice' - lawyer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nzherald.co.nz/crime/news/article.cfm?c_id=30&amp;objectid=10846835" target="_blank" rel="external nofollow">nzherald.co.nz</a>
+					</div>
+										<div class="usage">
+						Reparations to Victims Should Address Causes of Conflict and Injustice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfgate.com/business/prweb/article/Nepal-Reparations-to-Victims-Should-Address-3922324.php" target="_blank" rel="external nofollow">sfgate.com</a>
+					</div>
+										<div class="usage">
+						And I think that injustice has been served on our officials .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/sports/lat-officiating-stain-20120925,0,3538991.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						But this is injustice against a team that deserved to win this game, and it's terrible.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/sports/lat-officiating-stain-20120925,0,3538991.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In the USA it is 50%.17 In our world, fraught with gross inequalities, injustices, conflict and war, one may well wonder whether this expenditure is in the best interests of humanity. 
+					</div>
+					<div class="uAuthor">
+						Do We Need a Scientific Revolution?
+					</div>
+										<div class="usage">
+						At the university La Sapienza in Rome in 1975, professor Reno Ruffini sought to correct the injustice which has made Marcel Grossmann the forgotten “third man” of general relativity. 
+					</div>
+					<div class="uAuthor">
+						On Lee Smolin's The Trouble with Physics
+					</div>
+										<div class="usage">
+						LCP status requires proof, and in addition to that it may have an economic rationale which indicates what injustice is prevented by disallowing the application of a LCP labeled product. 4. 
+					</div>
+					<div class="uAuthor">
+						An Application Specific Informal Logic for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						As interest rates decrease the substance of injustice that SAI may create decreases as well. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						Accordingly no argument based on expected injustice can explain that SAI must be forbidden for all (especially small) interest rates. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						Being deeply concerned by the evident and arrogant injustice of this politics, I want to express, as a mathematician, my opposition to this choice, together with my solidariety to all those who are ﬁghting every day to make the science survive, even in these hard times, for the present and future generations. 
+					</div>
+					<div class="uAuthor">
+						The R-matrix for (twisted) affine quantum algebras
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an unjust act"><a href="unfairness.html">unfairness</a>, <a href="iniquity.html">iniquity</a>, <a href="shabbiness.html">shabbiness</a>, </div><div class="synGroup" title="the practice of being unjust or unfair"><a href="unjustness.html">unjustness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="justice.html">justice</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="actus%20reus.html">actus reus</a>, <a href="misconduct.html">misconduct</a>, <a href="unrighteousness.html">unrighteousness</a>, <a href="wrongdoing.html">wrongdoing</a>, <a href="wrongful%20conduct.html">wrongful conduct</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="inequity.html">inequity</a>, <a href="unfairness.html">unfairness</a>, <a href="wrong.html">wrong</a>, <a href="wrongfulness.html">wrongfulness</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="aggrieve.html">aggrieve</a>, <a href="appeal.html">appeal</a>, <a href="avoid.html">avoid</a>, <a href="boil.html">boil</a>, <a href="case.html">case</a>, <a href="Charles%20Dickens.html">Charles Dickens</a>, <a href="Charles%20John%20Huffam%20Dickens.html">Charles John Huffam Dickens</a>, <a href="decry.html">decry</a>, <a href="detriment.html">detriment</a>, <a href="Dickens.html">Dickens</a>, <a href="Direptitiously.html">Direptitiously</a>, <a href="displeasure.html">displeasure</a>, <a href="ever.html">ever</a>, <a href="exaction.html">exaction</a>, <a href="exchequer.html">exchequer</a>, <a href="fair.html">fair</a>, <a href="grievance.html">grievance</a>, <a href="gross.html">gross</a>, <a href="hardship.html">hardship</a>, <a href="Have%20wrong.html">Have wrong</a>, <a href="Hellman.html">Hellman</a>, <a href="inequality.html">inequality</a>, <a href="inequity.html">inequity</a>, <a href="iniquity.html">iniquity</a>, <a href="interpose.html">interpose</a>, <a href="justice.html">justice</a>, <a href="Lillian%20Hellman.html">Lillian Hellman</a>, <a href="magnanimity.html">magnanimity</a>, <a href="minor.html">minor</a>, <a href="offense.html">offense</a>, <a href="oppress.html">oppress</a>, <a href="oppression.html">oppression</a>, <a href="oppressive.html">oppressive</a>, <a href="passive.html">passive</a>, <a href="peaceful.html">peaceful</a>, <a href="preventive.html">preventive</a>, <a href="rapacity.html">rapacity</a>, <a href="redress.html">redress</a>, <a href="relation.html">relation</a>, <a href="rigor.html">rigor</a>, <a href="Socratic.html">Socratic</a>, <a href="tort.html">tort</a>, <a href="tyrant.html">tyrant</a>, <a href="Unequity.html">Unequity</a>, <a href="unfair.html">unfair</a>, <a href="unfairness.html">unfairness</a>, <a href="unjust.html">unjust</a>, <a href="Unjustice.html">Unjustice</a>, <a href="unjustness.html">unjustness</a>, <a href="Unlaw.html">Unlaw</a>, <a href="Unright.html">Unright</a>, <a href="unrighteousness.html">unrighteousness</a>, <a href="Utu.html">Utu</a>, <a href="wrong.html">wrong</a>, <a href="wrongfulness.html">wrongfulness</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					unjustice, jnjustice, knjustice, onjustice, ibjustice, ihjustice, ijjustice, imjustice, inhustice, inuustice, inkustice, inmustice, innustice, injystice, injhstice, injjstice, injistice, injuatice, injuwtice, injudtice, injuxtice, injuztice, injuatice, injusrice, injusfice, injusgice, injusyice, injustuce, injustjce, injustkce, injustoce, injustixe, injustide, injustife, injustive, injusticw, injustics, injusticd, injusticr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,580 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>control</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/4/12/3076.jpg" alt="Mrs. Binks who has lost control of her machine">
+							<div class="caption">Mrs. Binks who has lost control of her machine</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">control</span> <span class="exp">have a firm understanding or knowledge of; be on top of</span> <span class="quot">"Do you control these data?"</span></li><li><span class="tSpeech">v</span> <span class="term">control</span> <span class="exp">be careful or certain to do something; make certain of something</span> <span class="quot">"He verified that the valves were closed","See that the curtains are closed","control the quality of the product"</span></li><li><span class="tSpeech">v</span> <span class="term">control</span> <span class="exp">verify by using a duplicate register for comparison</span> <span class="quot">"control an account"</span></li><li><span class="tSpeech">v</span> <span class="term">control</span> <span class="exp">handle and cause to function</span> <span class="quot">"do not operate machinery after imbibing alcohol","control the lever"</span></li><li><span class="tSpeech">v</span> <span class="term">control</span> <span class="exp">control (others or oneself) or influence skillfully, usually to one's advantage</span> <span class="quot">"She manipulates her boss","She is a very controlling mother and doesn't let her children grow up","The teacher knew how to keep the class in line","she keeps in line"</span></li><li><span class="tSpeech">v</span> <span class="term">control</span> <span class="exp">exercise authoritative control or power over</span> <span class="quot">"control the budget","Command the military forces"</span></li><li><span class="tSpeech">v</span> <span class="term">control</span> <span class="exp">lessen the intensity of; temper; hold in restraint; hold or keep within limits</span> <span class="quot">"moderate your alcohol intake","hold your tongue","hold your temper","control your anger"</span></li><li><span class="tSpeech">v</span> <span class="term">control</span> <span class="exp">check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard</span> <span class="quot">"Are you controlling for the temperature?"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">the activity of managing or exerting control over something</span> <span class="quot">"the control of the mob by the police was admirable"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">(physiology) regulation or maintenance of a function or action or reflex etc</span> <span class="quot">"the timing and control of his movements were unimpaired","he had lost control of his sphincters"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">a mechanism that controls the operation of a machine</span> <span class="quot">"the speed controller on his turntable was not working properly","I turned the controls over to her"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">discipline in personal and social activities</span> <span class="quot">"he was a model of polite restraint","she never lost control of herself"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">power to direct or determine</span> <span class="quot">"under control"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">great skillfulness and knowledge of some subject or activity</span> <span class="quot">"a good command of French"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">a standard against which other conditions can be compared in a scientific experiment</span> <span class="quot">"the control condition was inappropriate for the conclusions he wished to draw"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">the economic policy of controlling or limiting or curbing prices or wages etc.</span> <span class="quot">"they wanted to repeal all the legislation that imposed economic controls"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">a spiritual agency that is assumed to assist the medium during a seance</span> </li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">a relation of constraint of one entity (thing or person or group) by another</span> <span class="quot">"measures for the control of disease","they instituted controls over drinking on campus"</span></li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">the state that exists when one person or group has power over another</span> <span class="quot">"her apparent dominance of her husband was really her attempt to make him pay attention to her"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Detroit policeman William L. Potts is credited with inventing the modern street traffic light in 1920. He worked out an electric light system that allowed him to control three street intersections from one tower He picked the red, yellow and green because railroads used them.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Control</span> <span class="exp">A duplicate book, register, or account, kept to correct or check another account or register; a counter register.</span> </li><li><span class="term">Control</span> <span class="exp"><span class="wuFld">(Climatology)</span> Any of the physical factors determining the climate of any particular place, as latitude,distribution of land and water, altitude, exposure, prevailing winds, permanent high- or low-barometric-pressure areas, ocean currents, mountain barriers, soil, and vegetation.</span> </li><li><span class="term">Control</span> <span class="exp"><span class="wuFld">(Technology)</span> in research, an object or subject used in an experimental procedure, which is treated identically to the primary subject of the experiment, except for the omission of the specific treatment or conditions whose effect is being investigated.  If the <span class="wUex">control</span> is a group of living organisms, as is common in medical research, it is called the <span class="wUcol">control group</span>.</span> </li><li><span class="term">Control</span> <span class="exp">Power or authority to check or restrain; restraining or regulating influence; superintendence; government; as, children should be under parental <span class="wUex">control</span>
+            .</span> <span class="wuQuot">"The House of Commons should exercise a control over all the departments of the executive administration."</span></li><li><span class="term">Control</span> <span class="exp">That which serves to check, restrain, or hinder; restraint.</span> <span class="wuQuot">"Speak without control ."</span></li><li><span class="term">Control</span> <span class="exp"><span class="wuFld">(Mach)</span> The complete apparatus used to control a mechanism or machine in operation, as a flying machine in flight;</span> </li><li><span class="term">Control</span> <span class="exp">the group of technical specialists exercising control by remote communications over a distant operation, such as a space flight; as, the American Mission <span class="wUex">Control</span> for manned flights is located in Houston.</span> </li><li><span class="term">Control</span> <span class="exp"><span class="wuFld">(Technology)</span> the part of an experimental procedure in which the <span class="wUex">controls{6</span> are subjected to the experimental conditions.</span> </li><li><span class="term">Control</span> <span class="exp">to assure the validity of an experimental procedure by using a <span class="wUer">control{7</span>.</span> </li><li><span class="term">Control</span> <span class="exp">To check by a counter register or duplicate account; to prove by counter statements; to confute.</span> <span class="wuQuot">"This report was controlled to be false."</span></li><li><span class="term">Control</span> <span class="exp">To exercise restraining or governing influence over; to check; to counteract; to restrain; to regulate; to govern; to overpower.</span> <span class="wuQuot">"Give me a staff of honor for mine age,<br>
+But not a scepter to control the world."</span><span class="wuQuot">"I feel my virtue struggling in my soul:<br>
+But stronger passion does its power control ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The Death Star death ray control panel from the original is actually the control panel of Grass Valley Group GVG 300 Video (television) production switcher
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">A book-register or account kept to correct or check another account or register; a counter-register.</span> </li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">Check; restraint: as, to speak or act without control; to keep the passions under control.</span> </li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">The act or power of keeping under check or in order; power of direction or guidance; authority; regulation; government; command.</span> </li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">Synonyms Influence, Ascendancy, etc. (see authority), direction, charge, regulation.</span> </li><li><span class="term">control</span> <span class="exp">To check or ascertain the accuracy of, as by a counter-register or double account, or by experiment.</span> </li><li><span class="term">control</span> <span class="exp">To prove by counter-statements; confute; convict.</span> </li><li><span class="term">control</span> <span class="exp">To exercise control over; hold in restraint or check; subject to authority; direct; regulate; govern; dominate.</span> </li><li><span class="term">control</span> <span class="exp">To have superior force or authority over; overpower.</span> </li><li><span class="term">control</span> <span class="exp">Synonyms 3. Rule, Regulate, etc. (see govern), curb, restrain, direct.</span> </li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">Whatever serves to control or check; particularly, a standard of comparison by which, as in scientific investigation or experiment, inferences or results already obtained are checked.</span> </li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">A person or persons who control a business, or act as a check on others concerned.</span> </li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">In spiritualism, the supposed spirit who is alleged to control or direct the action and utterances of a medium.</span> </li><li><span class="tSpeech">n</span> <span class="term">control</span> <span class="exp">In racing with motor-cars or motor-cycles, the authorized persons along the route who observe and record the times of arrival and departure of the cars, maintain the time and rate schedule if there is any, and enforce the regulations of the contest.</span> </li><li><span class="term">control</span> <span class="exp">Of the nature of or used as a control.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Ninety percent of U.S. households have at lease one remote control for the television; 8 out of 10 report losing it.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Control</span> <span class="exp"><span class="itl">kon-trōl′</span> restraint: authority: command</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Control</span> <span class="exp">to check: to restrain: to govern:—<span class="itl">pr.p.</span> contrōl′ling; <span class="itl">pa.p.</span> contrōlled′.—Formerly <span class="bld">Comptroll′</span>, <span class="bld">Countrol′</span>, <span class="bld">Controul′</span></span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John W. Draper</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John W. Draper">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Of the events of life we may have some control. but over the law of its progress none.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Change tends to be viewed as a threat to our control.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">A. J. Kitt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="A. J. Kitt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You have no control over what the other guy does. You only have control over what you do.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mario Andretti</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Mario Andretti">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If everything seems under control, you're just not going fast enough.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Wayne Dyer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Wayne%20Dyer.jpg" alt="Wayne%20Dyer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You cannot always control what goes on outside. But you can always control what goes on inside.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas A. Edison</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20A.%20Edison.jpg" alt="Thomas%20A.%20Edison">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What man's mind can create, man's character can control.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">contrôle</span>, a counter register, contr. fr. <span class="wUets">contr-rôle</span>,; <span class="wUets">contre</span>,L. <span class="wUets">contra</span>,) + <span class="wUets">rôle</span>, roll, catalogue. See <span class="wUer">Counter</span> and <span class="wUer">Roll</span>, and cf. <span class="wUer">Counterroll</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Carpenter pulled the control lever and reduced our power.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science July 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						It controls the donkey engine electrically, so that we guide our own destinies though we are a mile beneath our power plant.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science September 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						Wherever its influence reached, its members controlled roads, mines, agriculture and manufactures.
+					</div>
+					<div class="uAuthor">
+						"The Railroad Question" by <span>William Larrabee</span>					</div>
+										<div class="usage">
+						In other words, while we make no claim to controlling our sex habits, we do control results.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science April 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						Next ship-day the girl looked oddly at Calhoun when she appeared in the control-room.
+					</div>
+					<div class="uAuthor">
+						"Pariah Planet" by <span>Murray Leinster</span>					</div>
+										<div class="usage">
+						The mills and bakeries were all under the close control of the Commission and the Belgian National Committee.
+					</div>
+					<div class="uAuthor">
+						"Herbert Hoover" by <span>Vernon Kellogg</span>					</div>
+										<div class="usage">
+						The cold had became intense and he could not control the actions of his muscles and his rifle wavered about.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science, March 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						They are, therefore, stratified in a callusing bed where moisture and temperature can be controlled.
+					</div>
+					<div class="uAuthor">
+						"Manual of American Grape-Growing" by <span>U. P. Hedrick</span>					</div>
+										<div class="usage">
+						He could not control them.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science, May, 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						He had seated himself at the controls, and scanned the instruments closely.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science, June, 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						Each of the two dominant parties is largely controlled by what are known as the liquor interests.
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume IV" by <span>Various</span>					</div>
+										<div class="usage">
+						Three of them held it, while the fourth went forward and bent over some controls on the ground.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science, October, 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						Georgetown was abandoned; the monsters were in complete control.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science, November, 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						The automatic control keeps Hay's scout steady, and the ladder is so highly attractive that the Slav simply can't get away.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories, February, 1931" by <span>Various</span>					</div>
+										<div class="usage">
+						But now, in my little pit at the controls, my mind flung ahead.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories, March, 1931" by <span>Various</span>					</div>
+										<div class="usage">
+						At this moment Guilford Duncan, who had now no legal or military authority over his men, lost control of them.
+					</div>
+					<div class="uAuthor">
+						"A Captain in the Ranks" by <span>George Cary Eggleston</span>					</div>
+										<div class="usage">
+						Under a quick turn of the control, the great heavy bulk of fabric-joined metal lunged forward.
+					</div>
+					<div class="uAuthor">
+						"The Passing of Ku Sui" by <span>Anthony Gilmore</span>					</div>
+										<div class="usage">
+						Harkness sprang for the control-board.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories, May, 1931" by <span>Various</span>					</div>
+										<div class="usage">
+						He struggled a moment, and then the cunning that always deceived us gained control.
+					</div>
+					<div class="uAuthor">
+						"The Price of the Prairie" by <span>Margaret Hill McCarter</span>					</div>
+										<div class="usage">
+						Your self-control does you credit, Rick.
+					</div>
+					<div class="uAuthor">
+						"The Scarlet Lake Mystery" by <span>Harold Leland Goodwin</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Wouldst be free from the dominions<br>
+That control;<br>
+Spreading all thy golden pinions<br>
+Toward the goal?
+							<div class="poet">"My Heart" by <span>Effie Afton</span></div>
+						</div>
+											<div class="poemQuote">
+							Arise! no more a living lie,<br>
+And with me quicken and control<br>
+Some memory that shall magnify<br>
+The universal Soul.
+							<div class="poet">"Some Starlit Garden Grey With Dew" by <span>William Ernest Henley</span></div>
+						</div>
+											<div class="poemQuote">
+							Thus, did a Roman Father slay,<br>
+The idol of his soul,<br>
+To screen her from a tyrant's lust,<br>
+A tyrant's foul control.
+							<div class="poet">"Liberty Or Death" by <span>James Madison Bell</span></div>
+						</div>
+											<div class="poemQuote">
+							Know well, my soul, God's hand controls<br>
+Whate'er thou fearest;<br>
+Round Him in calmest music rolls<br>
+Whate'er thou Nearest.
+							<div class="poet">"My Soul And I" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							Will ye succumb beneath a power,<br>
+That grasps at full control,<br>
+And binds its helpless victims down<br>
+In servitude of soul?
+							<div class="poet">"Beechenbrook  -  VII" by <span>Margaret Junkin Preston</span></div>
+						</div>
+											<div class="poemQuote">
+							In the seer's hollow eye,<br>
+In the maiden's faithful soul,<br>
+In youth who did not fear to die,<br>
+Men saw that strange control.
+							<div class="poet">"The Mysteries Of Eleusis" by <span>Annie Adams Fields</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Kelly's management creed is to control everything he can control.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/news/crimelaw/66025/index1.html" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						Curtains are typically used to control visual phenomena such as light and view, but a new research effort has generated a curtain whose sole purpose is to control sound.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.architectmagazine.com/blogs/postdetails.aspx?BlogId=mindmatterblog&amp;postId=103337" target="_blank" rel="external nofollow">architectmagazine.com</a>
+					</div>
+										<div class="usage">
+						Network systems automate many of today's factories and plants, controlling tasks such as data gathering, process control and production automation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.controlglobal.com/wp_downloads/090617_Fluke_NetworkAnalyzers.html" target="_blank" rel="external nofollow">controlglobal.com</a>
+					</div>
+										<div class="usage">
+						ETC's new Unison Paradigm architectural lighting control system aims to make theatre house and foyer lighting control greener.
+					</div>
+					<div class="uAuthor">
+						<a href="http://livedesignonline.com/ldishowdaily/etc-unisonparadigm-smartlink" target="_blank" rel="external nofollow">livedesignonline.com</a>
+					</div>
+										<div class="usage">
+						In 1996, Electronic Theatre Controls (ETC) introduced its Unison ® Architectural Control System, improving on previous generations of simpler architectural controls and creating an actual lighting network.
+					</div>
+					<div class="uAuthor">
+						<a href="http://livedesignonline.com/gear/1201-etc-unison-paradigm-system/" target="_blank" rel="external nofollow">livedesignonline.com</a>
+					</div>
+										<div class="usage">
+						Johnson Controls, Unitary Products: Communicating Control.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.achrnews.com/articles/johnson-controls-unitary-products-communicating-control-1" target="_blank" rel="external nofollow">achrnews.com</a>
+					</div>
+										<div class="usage">
+						Supreme power, b: freedom from external control, and c: controlling influence.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnonline.com/2012/jun/23/sovereignty-union-states-and-united-states-america" target="_blank" rel="external nofollow">tnonline.com</a>
+					</div>
+										<div class="usage">
+						The Democrat-controlled Senate and the Republican-controlled House are so entrenched in their partisan views that compromise is seen as evil.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.union-bulletin.com/news/2012/oct/17/rich-cowan-is-best-choice-for-us-congress/" target="_blank" rel="external nofollow">union-bulletin.com</a>
+					</div>
+										<div class="usage">
+						Wed, 03 Oct 2012 Mackie has just launched an update to the Master Fader control app for the popular DL1608 16-Channel Digital Live Sound Mixer with iPad Control.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.emusician.com/news/0766/mackie-launches-master-fader-v12-for-dl1608/149616" target="_blank" rel="external nofollow">emusician.com</a>
+					</div>
+										<div class="usage">
+						In this paper, a model predictive controller is configured to simultaneously manipulate a small valve and a large valve, eliminating the problems inherent in split-ranged and valve-position controllers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.controlglobal.com/whitepapers/2005/042.html" target="_blank" rel="external nofollow">controlglobal.com</a>
+					</div>
+										<div class="usage">
+						Controlling Its Processes, Controlling Its Destiny.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thefabricator.com/article/finishing/vertical-integration-broadens-companys-horizons" target="_blank" rel="external nofollow">thefabricator.com</a>
+					</div>
+										<div class="usage">
+						 Viscosity control Brookfield Engineering Middleboro MA USA Brookfield Engineering offers simple inline viscosity control for industrial applications.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.labelandnarrowweb.com/issues/2008-07/view_new-products/viscosity-control-50322/" target="_blank" rel="external nofollow">labelandnarrowweb.com</a>
+					</div>
+										<div class="usage">
+						The RN-WPCS Wall Plate control system from FSR Inc is capable of directly controlling one serial and two IR devices.
+					</div>
+					<div class="uAuthor">
+						<a href="http://svconline.com/proav/audiovisual-equipment_fsr-inc-rn-wpcs-wall-plate-control-system/" target="_blank" rel="external nofollow">svconline.com</a>
+					</div>
+										<div class="usage">
+						Baldor Electric Company's range of washdown and paint free motors and controls, all stainless motors and speed reducers, linear motors and controls, and servo motors and controls designed for energy efficiency.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csemag.com/single-article/washdown-motors-stainless-motors/929d351fe9bcb812b5ec710894de8881.html" target="_blank" rel="external nofollow">csemag.com</a>
+					</div>
+										<div class="usage">
+						I removed the top panel to expose the control panel and dishwasher controller.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.designnews.com/author.asp?section_id=1368&amp;doc_id=244786&amp;piddl_msgpage=2" target="_blank" rel="external nofollow">designnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Also, for most of the calculations presented in the results section, we use the value fb = 0.05 for the control parameter (we call the fraction of the erupted ﬁeld as the control parameter following Paper I, because, this parameter controls the strength of magnetic buoyancy). 
+					</div>
+					<div class="uAuthor">
+						Characteristics Of A Magnetic Buoyancy Driven Solar Dynamo Model
+					</div>
+										<div class="usage">
+						The model of Ref. is slightly different from ours, involving three parameters that can not be reduced to a single control parameter, making it diﬃcult to extract an exact value of the exponent τout in terms of our control parameter β (or α). 
+					</div>
+					<div class="uAuthor">
+						Adaptive Random Walks on the Class of Web Graph
+					</div>
+										<div class="usage">
+						We can choose a control mode for the boundary components of the electromagnetic potential ˆAα (i.e. we control the magnetic ﬂux through Bt) and for the electrostatic potential ¯Φ, which is equivalent to state that the laboratory is electrically isolated from outside. 
+					</div>
+					<div class="uAuthor">
+						The First Law of Isolated Horizons via Noether Theorem
+					</div>
+										<div class="usage">
+						Other topics were the controlled h-cobordism theorem, illustrating some of the geometric and algebraic techniques; and homology manifolds, illustrating the still-incomplete theory of controlled surgery. 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						Controlled geometric problems have obstructions in controlled-algebra analogs, essentially homology with coeﬃcients in spectra related to the uncontrolled obstructions. 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						We refer to Y as the control space and the pro jection as the control map. 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						The crucial issue is control of sizes of images in Y , hence the “control” terminology. 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						Most controlled theorems have older “uncontrolled” versions in which the control space is implicitly taken to be a point. 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						B is the control space where sizes are measured, and E serves to control local fundamental groups as in Section 2.5. 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						We now have the control map and deformation deﬁned over Y × [0, 2) The last step is to arrange arbitrarily good size control, at least over Y × (0, 1). 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						The Parrondo effect allows a player to proﬁt from randomness (i.e. noise) - hence it has possible practical relevance in the stochastic control of quantum algorithms and in controlling quantum decoherence . 
+					</div>
+					<div class="uAuthor">
+						Parrondo Games and Quantum Algorithms
+					</div>
+										<div class="usage">
+						It is also well known that the partial derivatives of F (·) can be put into BB form (and the resulting control points for the derivatives are effectively computable linear combinations of the control points for F (·)). 
+					</div>
+					<div class="uAuthor">
+						A sufficient condition for global invertibility of Lipschitz mapping
+					</div>
+										<div class="usage">
+						Given such uniform local control, it is then usually straightforward to obtain global control, via suitable global assumptions on the volume or diameter. (Alternately, one may work instead on domains of bounded diameter). 
+					</div>
+					<div class="uAuthor">
+						Cheeger-Gromov Theory and Applications to General Relativity
+					</div>
+										<div class="usage">
+						The main interest is in spacetimes (M, g) for which one has control on the Ricci curvature of g, or via the Einstein equations, control on the energy-momentum tensor T . 
+					</div>
+					<div class="uAuthor">
+						Cheeger-Gromov Theory and Applications to General Relativity
+					</div>
+										<div class="usage">
+						On the other hand, in the case of digital control systems for the mechanical control of superattenuators for the locking of interferometric detectors of gravitational waves (10 Hz control band), the sampling rate must be quite large (10 kHz) in order to satisfy the requirement on the sensitivity of the system . 
+					</div>
+					<div class="uAuthor">
+						Real-time Control System Prototype for Mechanical and Optical Systems based on Parallel Computing Techniques
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="be careful or certain to do something; make certain of something"><a href="see%20to%20it.html">see to it</a>, <a href="ascertain.html">ascertain</a>, <a href="assure.html">assure</a>, </div><div class="synGroup" title="control (others or oneself) or influence skillfully, usually to one's advantage"><a href="keep%20in%20line.html">keep in line</a>, </div><div class="synGroup" title="exercise authoritative control or power over"><a href="command.html">command</a>, </div><div class="synGroup" title="lessen the intensity of; temper; hold in restraint; hold or keep within limits"><a href="hold%20in.html">hold in</a>, <a href="hold.html">hold</a>, <a href="contain.html">contain</a>, <a href="check.html">check</a>, <a href="curb.html">curb</a>, <a href="moderate.html">moderate</a>, </div><div class="synGroup" title="check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard"><a href="verify.html">verify</a>, </div><div class="synGroup" title="a mechanism that controls the operation of a machine"><a href="controller.html">controller</a>, </div><div class="synGroup" title="great skillfulness and knowledge of some subject or activity"><a href="mastery.html">mastery</a>, </div><div class="synGroup" title="a standard against which other conditions can be compared in a scientific experiment"><a href="control%20condition.html">control condition</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="unrestraint.html">unrestraint</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="activity.html">activity</a>, <a href="ascertain.html">ascertain</a>, <a href="assure.html">assure</a>, <a href="bodily%20function.html">bodily function</a>, <a href="bodily%20process.html">bodily process</a>, <a href="body%20process.html">body process</a>, <a href="check.html">check</a>, <a href="condition.html">condition</a>, <a href="criterion.html">criterion</a>, <a href="discipline.html">discipline</a>, <a href="disembodied%20spirit.html">disembodied spirit</a>, <a href="economic%20policy.html">economic policy</a>, <a href="ensure.html">ensure</a>, <a href="essay.html">essay</a>, <a href="examine.html">examine</a>, <a href="hold%20back.html">hold back</a>, <a href="insure.html">insure</a>, <a href="interact.html">interact</a>, <a href="keep.html">keep</a>, <a href="keep%20back.html">keep back</a>, <a href="know.html">know</a>, <a href="manipulate.html">manipulate</a>, <a href="mechanism.html">mechanism</a>, <a href="power.html">power</a>, <a href="powerfulness.html">powerfulness</a>, <a href="prove.html">prove</a>, <a href="relation.html">relation</a>, <a href="restrain.html">restrain</a>, <a href="see.html">see</a>, <a href="see%20to%20it.html">see to it</a>, <a href="skillfulness.html">skillfulness</a>, <a href="spirit.html">spirit</a>, <a href="standard.html">standard</a>, <a href="status.html">status</a>, <a href="test.html">test</a>, <a href="try.html">try</a>, <a href="try%20out.html">try out</a>, <a href="verify.html">verify</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abnegate.html">abnegate</a>, <a href="absolutism.html">absolutism</a>, <a href="ascendant.html">ascendant</a>, <a href="ascendent.html">ascendent</a>, <a href="authorisation.html">authorisation</a>, <a href="authority.html">authority</a>, <a href="authorization.html">authorization</a>, <a href="aviate.html">aviate</a>, <a href="base.html">base</a>, <a href="bate.html">bate</a>, <a href="becharm.html">becharm</a>, <a href="bound.html">bound</a>, <a href="call%20the%20shots.html">call the shots</a>, <a href="call%20the%20tune.html">call the tune</a>, <a href="cap.html">cap</a>, <a href="card.html">card</a>, <a href="care.html">care</a>, <a href="catch.html">catch</a>, <a href="ceiling.html">ceiling</a>, <a href="channelise.html">channelise</a>, <a href="channelize.html">channelize</a>, <a href="charm.html">charm</a>, <a href="cinch.html">cinch</a>, <a href="confine.html">confine</a>, <a href="conquer.html">conquer</a>, <a href="continence.html">continence</a>, <a href="corner.html">corner</a>, <a href="corporatism.html">corporatism</a>, <a href="counteract.html">counteract</a>, <a href="countercheck.html">countercheck</a>, <a href="cover.html">cover</a>, <a href="cross-check.html">cross-check</a>, <a href="crowd%20control.html">crowd control</a>, <a href="crucify.html">crucify</a>, <a href="cruise%20control.html">cruise control</a>, <a href="curb.html">curb</a>, <a href="damage%20control.html">damage control</a>, <a href="damp.html">damp</a>, <a href="deal.html">deal</a>, <a href="deny.html">deny</a>, <a href="despotism.html">despotism</a>, <a href="dial.html">dial</a>, <a href="direct.html">direct</a>, <a href="direction.html">direction</a>, <a href="disk%20controller.html">disk controller</a>, <a href="dominance.html">dominance</a>, <a href="dominate.html">dominate</a>, <a href="domination.html">domination</a>, <a href="dominion.html">dominion</a>, <a href="double-check.html">double-check</a>, <a href="draw%20rein.html">draw rein</a>, <a href="drive.html">drive</a>, <a href="electric%20switch.html">electric switch</a>, <a href="electrical%20switch.html">electrical switch</a>, <a href="federalisation.html">federalisation</a>, <a href="federalization.html">federalization</a>, <a href="flight%20control.html">flight control</a>, <a href="flood%20control.html">flood control</a>, <a href="floor.html">floor</a>, <a href="fly.html">fly</a>, <a href="gate.html">gate</a>, <a href="govern.html">govern</a>, <a href="governor.html">governor</a>, <a href="grasping.html">grasping</a>, <a href="guidance.html">guidance</a>, <a href="guide.html">guide</a>, <a href="handle.html">handle</a>, <a href="handwheel.html">handwheel</a>, <a href="harness.html">harness</a>, <a href="head.html">head</a>, <a href="hold.html">hold</a>, <a href="hold%20one%27s%20own.html">hold one's own</a>, <a href="hold%20sway.html">hold sway</a>, <a href="imperialism.html">imperialism</a>, <a href="ingratiate.html">ingratiate</a>, <a href="inhibit.html">inhibit</a>, <a href="inhibition.html">inhibition</a>, <a href="internal%20control.html">internal control</a>, <a href="internationalise.html">internationalise</a>, <a href="internationalize.html">internationalize</a>, <a href="iron%20fist.html">iron fist</a>, <a href="joystick.html">joystick</a>, <a href="limit.html">limit</a>, <a href="manage.html">manage</a>, <a href="maneuver.html">maneuver</a>, <a href="manoeuver.html">manoeuver</a>, <a href="manoeuvre.html">manoeuvre</a>, <a href="master.html">master</a>, <a href="mastery.html">mastery</a>, <a href="moderation.html">moderation</a>, <a href="monopolise.html">monopolise</a>, <a href="monopolize.html">monopolize</a>, <a href="monopoly.html">monopoly</a>, <a href="mortify.html">mortify</a>, <a href="motor%20control.html">motor control</a>, <a href="ownership.html">ownership</a>, <a href="pedal.html">pedal</a>, <a href="pilot.html">pilot</a>, <a href="point.html">point</a>, <a href="possession.html">possession</a>, <a href="potency.html">potency</a>, <a href="power%20trip.html">power trip</a>, <a href="predominance.html">predominance</a>, <a href="predomination.html">predomination</a>, <a href="prehension.html">prehension</a>, <a href="preoccupy.html">preoccupy</a>, <a href="prepotency.html">prepotency</a>, <a href="preside.html">preside</a>, <a href="price%20control.html">price control</a>, <a href="price-fixing.html">price-fixing</a>, <a href="proof.html">proof</a>, <a href="proofread.html">proofread</a>, <a href="regiment.html">regiment</a>, <a href="regularisation.html">regularisation</a>, <a href="regularization.html">regularization</a>, <a href="regulating.html">regulating</a>, <a href="regulation.html">regulation</a>, <a href="regulator.html">regulator</a>, <a href="rein.html">rein</a>, <a href="rein%20in.html">rein in</a>, <a href="relay.html">relay</a>, <a href="repression.html">repression</a>, <a href="restrain.html">restrain</a>, <a href="restraint.html">restraint</a>, <a href="restrict.html">restrict</a>, <a href="riot%20control.html">riot control</a>, <a href="riot%20control%20operation.html">riot control operation</a>, <a href="roof.html">roof</a>, <a href="rule.html">rule</a>, <a href="say-so.html">say-so</a>, <a href="seizing.html">seizing</a>, <a href="self-control.html">self-control</a>, <a href="self-denial.html">self-denial</a>, <a href="self-discipline.html">self-discipline</a>, <a href="self-restraint.html">self-restraint</a>, <a href="spot-check.html">spot-check</a>, <a href="stamp%20down.html">stamp down</a>, <a href="steer.html">steer</a>, <a href="steerage.html">steerage</a>, <a href="steering.html">steering</a>, <a href="subdue.html">subdue</a>, <a href="submarine.html">submarine</a>, <a href="suppress.html">suppress</a>, <a href="supremacy.html">supremacy</a>, <a href="switch.html">switch</a>, <a href="synchronise.html">synchronise</a>, <a href="synchronize.html">synchronize</a>, <a href="taking%20hold.html">taking hold</a>, <a href="tease.html">tease</a>, <a href="temperance.html">temperance</a>, <a href="temperateness.html">temperateness</a>, <a href="thermostat.html">thermostat</a>, <a href="throttle.html">throttle</a>, <a href="traffic%20control.html">traffic control</a>, <a href="train.html">train</a>, <a href="trammel.html">trammel</a>, <a href="treadle.html">treadle</a>, <a href="turn.html">turn</a>, <a href="tyranny.html">tyranny</a>, <a href="valve.html">valve</a>, <a href="wear%20the%20trousers.html">wear the trousers</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="controller.html">controller</a>, <a href="dominant.html">dominant</a>, <a href="dominate.html">dominate</a>, <a href="manipulation.html">manipulation</a>, <a href="manipulative.html">manipulative</a>, <a href="master.html">master</a>, <a href="operation.html">operation</a>, <a href="operative.html">operative</a>, <a href="operator.html">operator</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abandon.html">abandon</a>, <a href="abash.html">abash</a>, <a href="Absolute%20power.html">Absolute power</a>, <a href="absoluteness.html">absoluteness</a>, <a href="abstemiousness.html">abstemiousness</a>, <a href="Acephali.html">Acephali</a>, <a href="acquired%20reflex.html">acquired reflex</a>, <a href="actual%20possession.html">actual possession</a>, <a href="addict.html">addict</a>, <a href="administer.html">administer</a>, <a href="admonition.html">admonition</a>, <a href="afloat.html">afloat</a>, <a href="Agrarianism.html">Agrarianism</a>, <a href="aileron.html">aileron</a>, <a href="air-condition.html">air-condition</a>, <a href="airship.html">airship</a>, <a href="alalia.html">alalia</a>, <a href="all.html">all</a>, <a href="amenable.html">amenable</a>, <a href="amok.html">amok</a>, <a href="amuck.html">amuck</a>, <a href="anarchic.html">anarchic</a>, <a href="anarchical.html">anarchical</a>, <a href="anger.html">anger</a>, <a href="Antarchist.html">Antarchist</a>, <a href="arbiter.html">arbiter</a>, <a href="arbitrary.html">arbitrary</a>, <a href="arbitrator.html">arbitrator</a>, <a href="arrogate.html">arrogate</a>, <a href="asceticism.html">asceticism</a>, <a href="assume.html">assume</a>, <a href="attachment.html">attachment</a>, <a href="authority.html">authority</a>, <a href="auto%20limitation.html">auto limitation</a>, <a href="automate.html">automate</a>, <a href="automatic.html">automatic</a>, <a href="Automatical.html">Automatical</a>, <a href="automation.html">automation</a>, <a href="automatise.html">automatise</a>, <a href="automatize.html">automatize</a>, <a href="automobile.html">automobile</a>, <a href="autonomous.html">autonomous</a>, <a href="awe.html">awe</a>, <a href="balance%20of%20power.html">balance of power</a>, <a href="Bandon.html">Bandon</a>, <a href="bank.html">bank</a>, <a href="barn%20owl.html">barn owl</a>, <a href="battle%20of%20Cynoscephalae.html">battle of Cynoscephalae</a>, <a href="Be%20at%20one%27s%20discretion.html">Be at one's discretion</a>, <a href="Be%20master%20of%20one%27s%20self.html">Be master of one's self</a>, <a href="bear.html">bear</a>, <a href="becharm.html">becharm</a>, <a href="beyond%20control.html">beyond control</a>, <a href="blind.html">blind</a>, <a href="Board%20of%20trade.html">Board of trade</a>, <a href="Board%20of%20Works.html">Board of Works</a>, <a href="Board-school.html">Board-school</a>, <a href="boss.html">boss</a>, <a href="bossism.html">bossism</a>, <a href="bottle%20up.html">bottle up</a>, <a href="break%20down.html">break down</a>, <a href="bridle.html">bridle</a>, <a href="buccaneering.html">buccaneering</a>, <a href="buck.html">buck</a>, <a href="bureaucracy.html">bureaucracy</a>, <a href="burn%20out.html">burn out</a>, <a href="calm.html">calm</a>, <a href="captivity.html">captivity</a>, <a href="capture.html">capture</a>, <a href="careen.html">careen</a>, <a href="carpetbagger.html">carpetbagger</a>, <a href="carriage.html">carriage</a>, <a href="carry.html">carry</a>, <a href="carry%20on.html">carry on</a>, <a href="Cascade%20system.html">Cascade system</a>, <a href="cede.html">cede</a>, <a href="centralisation.html">centralisation</a>, <a href="centralised.html">centralised</a>, <a href="centralism.html">centralism</a>, <a href="centralist.html">centralist</a>, <a href="centralization.html">centralization</a>, <a href="centralize.html">centralize</a>, <a href="centralized.html">centralized</a>, <a href="Cerebral%20localization.html">Cerebral localization</a>, <a href="chain.html">chain</a>, <a href="Chamberlain.html">Chamberlain</a>, <a href="chameleon.html">chameleon</a>, <a href="character.html">character</a>, <a href="charm.html">charm</a>, <a href="Charter-party.html">Charter-party</a>, <a href="chaste.html">chaste</a>, <a href="check.html">check</a>, <a href="chemotherapy.html">chemotherapy</a>, <a href="Chino-Japanese%20War.html">Chino-Japanese War</a>, <a href="circuit.html">circuit</a>, <a href="circumstance.html">circumstance</a>, <a href="Civil%20Service%20Commission.html">Civil Service Commission</a>, <a href="civilize.html">civilize</a>, <a href="clan.html">clan</a>, <a href="clutch.html">clutch</a>, <a href="Coast%20guard.html">Coast guard</a>, <a href="coax.html">coax</a>, <a href="cockpit.html">cockpit</a>, <a href="coitus%20interruptus.html">coitus interruptus</a>, <a href="collect.html">collect</a>, <a href="collected.html">collected</a>, <a href="collectivise.html">collectivise</a>, <a href="collectivism.html">collectivism</a>, <a href="collectivize.html">collectivize</a>, <a href="command.html">command</a>, <a href="commander.html">commander</a>, <a href="commandery.html">commandery</a>, <a href="commanding.html">commanding</a>, <a href="commend.html">commend</a>, <a href="commissariat.html">commissariat</a>, <a href="Commission-merchant.html">Commission-merchant</a>, <a href="communisation.html">communisation</a>, <a href="communism.html">communism</a>, <a href="communization.html">communization</a>, <a href="company.html">company</a>, <a href="compel.html">compel</a>, <a href="Compound%20control.html">Compound control</a>, <a href="Comptrol.html">Comptrol</a>, <a href="Comptroll.html">Comptroll</a>, <a href="comptroller.html">comptroller</a>, <a href="computerise.html">computerise</a>, <a href="computerization.html">computerization</a>, <a href="computerize.html">computerize</a>, <a href="concede.html">concede</a>, <a href="condition.html">condition</a>, <a href="conditional%20reaction.html">conditional reaction</a>, <a href="conditional%20reflex.html">conditional reflex</a>, <a href="conditional%20response.html">conditional response</a>, <a href="conditioned%20reaction.html">conditioned reaction</a>, <a href="conditioned%20reflex.html">conditioned reflex</a>, <a href="conditioned%20response.html">conditioned response</a>, <a href="conduct.html">conduct</a>, <a href="conquest.html">conquest</a>, <a href="console.html">console</a>, <a href="constraint.html">constraint</a>, <a href="constructive%20possession.html">constructive possession</a>, <a href="contain.html">contain</a>, <a href="contained.html">contained</a>, <a href="continent.html">continent</a>, <a href="contingent.html">contingent</a>, <a href="contraception.html">contraception</a>, <a href="contraceptive%20method.html">contraceptive method</a>, <a href="controllable.html">controllable</a>, <a href="controller.html">controller</a>, <a href="controlling.html">controlling</a>, <a href="Controlment.html">Controlment</a>, <a href="convert.html">convert</a>, <a href="cool.html">cool</a>, <a href="coolheaded.html">coolheaded</a>, <a href="corner.html">corner</a>, <a href="corporal.html">corporal</a>, <a href="correct.html">correct</a>, <a href="corrections.html">corrections</a>, <a href="Cottonocracy.html">Cottonocracy</a>, <a href="Counter-influence.html">Counter-influence</a>, <a href="Counterrolment.html">Counterrolment</a>, <a href="covert.html">covert</a>, <a href="crucify.html">crucify</a>, <a href="curb.html">curb</a>, <a href="custody.html">custody</a>, <a href="cybernate.html">cybernate</a>, <a href="cybernation.html">cybernation</a>, <a href="Cynic.html">Cynic</a>, <a href="Cynoscephalae.html">Cynoscephalae</a>, <a href="danger.html">danger</a>, <a href="dashboard.html">dashboard</a>, <a href="deal.html">deal</a>, <a href="decentralization.html">decentralization</a>, <a href="deliver.html">deliver</a>, <a href="demagogue.html">demagogue</a>, <a href="demean.html">demean</a>, <a href="demonise.html">demonise</a>, <a href="demonize.html">demonize</a>, <a href="denationalisation.html">denationalisation</a>, <a href="denationalise.html">denationalise</a>, <a href="denationalization.html">denationalization</a>, <a href="denationalize.html">denationalize</a>, <a href="dependency.html">dependency</a>, <a href="dependent.html">dependent</a>, <a href="derequisition.html">derequisition</a>, <a href="desacralize.html">desacralize</a>, <a href="despotism.html">despotism</a>, <a href="dexterity.html">dexterity</a>, <a href="dictation.html">dictation</a>, <a href="dictator.html">dictator</a>, <a href="difficult.html">difficult</a>, <a href="direct.html">direct</a>, <a href="direction.html">direction</a>, <a href="Directorial.html">Directorial</a>, <a href="discipline.html">discipline</a>, <a href="discovery.html">discovery</a>, <a href="discretion.html">discretion</a>, <a href="disposal.html">disposal</a>, <a href="dispose.html">dispose</a>, <a href="disposition.html">disposition</a>, <a href="Disposure.html">Disposure</a>, <a href="dissolve.html">dissolve</a>, <a href="distress.html">distress</a>, <a href="domesticate.html">domesticate</a>, <a href="dominance.html">dominance</a>, <a href="dominant.html">dominant</a>, <a href="dominate.html">dominate</a>, <a href="domination.html">domination</a>, <a href="dominion.html">dominion</a>, <a href="domino%20theory.html">domino theory</a>, <a href="dot.html">dot</a>, <a href="dower.html">dower</a>, <a href="draw%20rein.html">draw rein</a>, <a href="dribble.html">dribble</a>, <a href="drive.html">drive</a>, <a href="dropper.html">dropper</a>, <a href="Dual-control.html">Dual-control</a>, <a href="economy.html">economy</a>, <a href="edit.html">edit</a>, <a href="elder.html">elder</a>, <a href="electronic%20warfare-support%20measures.html">electronic warfare-support measures</a>, <a href="elevator.html">elevator</a>, <a href="emancipation.html">emancipation</a>, <a href="emergency%20landing.html">emergency landing</a>, <a href="empire.html">empire</a>, <a href="enchant.html">enchant</a>, <a href="engross.html">engross</a>, <a href="Engrosser.html">Engrosser</a>, <a href="entire.html">entire</a>, <a href="Ephor.html">Ephor</a>, <a href="epidemiology.html">epidemiology</a>, <a href="epithelium.html">epithelium</a>, <a href="equanimous.html">equanimous</a>, <a href="Erastian.html">Erastian</a>, <a href="Erastianism.html">Erastianism</a>, <a href="escape.html">escape</a>, <a href="ESM.html">ESM</a>, <a href="exemption.html">exemption</a>, <a href="factor.html">factor</a>, <a href="factory.html">factory</a>, <a href="faint.html">faint</a>, <a href="faintness.html">faintness</a>, <a href="farm.html">farm</a>, <a href="fascinate.html">fascinate</a>, <a href="fatality.html">fatality</a>, <a href="faucet.html">faucet</a>, <a href="federalisation.html">federalisation</a>, <a href="federalise.html">federalise</a>, <a href="federalization.html">federalization</a>, <a href="federalize.html">federalize</a>, <a href="fetich.html">fetich</a>, <a href="fetish.html">fetish</a>, <a href="fever.html">fever</a>, <a href="Fifth%20Crusade.html">Fifth Crusade</a>, <a href="financier.html">financier</a>, <a href="fit.html">fit</a>, <a href="flesh.html">flesh</a>, <a href="flight%20control.html">flight control</a>, <a href="flood%20control.html">flood control</a>, <a href="flute.html">flute</a>, <a href="forbear.html">forbear</a>, <a href="forbearing.html">forbearing</a>, <a href="forced%20landing.html">forced landing</a>, <a href="forestalling.html">forestalling</a>, <a href="Forget%20one%27s%20self.html">Forget one's self</a>, <a href="fortune.html">fortune</a>, <a href="fractious.html">fractious</a>, <a href="free.html">free</a>, <a href="freedom.html">freedom</a>, <a href="freewheel.html">freewheel</a>, <a href="Full-hearted.html">Full-hearted</a>, <a href="fume.html">fume</a>, <a href="function%20call.html">function call</a>, <a href="fund.html">fund</a>, <a href="fury.html">fury</a>, <a href="Gabionade.html">Gabionade</a>, <a href="Gaikwar.html">Gaikwar</a>, <a href="Gambusia%20affinis.html">Gambusia affinis</a>, <a href="gate.html">gate</a>, <a href="Gayley%20process.html">Gayley process</a>, <a href="GCA.html">GCA</a>, <a href="give%20up.html">give up</a>, <a href="govern.html">govern</a>, <a href="governance.html">governance</a>, <a href="governess.html">governess</a>, <a href="governing.html">governing</a>, <a href="government.html">government</a>, <a href="governor.html">governor</a>, <a href="grant.html">grant</a>, <a href="ground-controlled%20approach.html">ground-controlled approach</a>, <a href="guard.html">guard</a>, <a href="guardian.html">guardian</a>, <a href="guide.html">guide</a>, <a href="guided.html">guided</a>, <a href="guiding.html">guiding</a>, <a href="Gulf%20War.html">Gulf War</a>, <a href="gun.html">gun</a>, <a href="gun%20control.html">gun control</a>, <a href="half-breed.html">half-breed</a>, <a href="hand.html">hand</a>, <a href="handle.html">handle</a>, <a href="hard.html">hard</a>, <a href="hardness.html">hardness</a>, <a href="harness.html">harness</a>, <a href="harnessed.html">harnessed</a>, <a href="Haussmannize.html">Haussmannize</a>, <a href="have.html">have</a>, <a href="Have%20one%20on%20a%20string.html">Have one on a string</a>, <a href="Have%20the%20cards%20in%20one%27s%20hands.html">Have the cards in one's hands</a>, <a href="hegemony.html">hegemony</a>, <a href="held.html">held</a>, <a href="helm.html">helm</a>, <a href="henpeck.html">henpeck</a>, <a href="Heteronomy.html">Heteronomy</a>, <a href="highjacking.html">highjacking</a>, <a href="hijack.html">hijack</a>, <a href="hijacking.html">hijacking</a>, <a href="Historical%20geography.html">Historical geography</a>, <a href="Hobbism.html">Hobbism</a>, <a href="hold.html">hold</a>, <a href="hold%20back.html">hold back</a>, <a href="hold%20one%27s%20own.html">hold one's own</a>, <a href="hormone.html">hormone</a>, <a href="hostile.html">hostile</a>, <a href="housemaster.html">housemaster</a>, <a href="Hyperphasia.html">Hyperphasia</a>, <a href="hypnotism.html">hypnotism</a>, <a href="hypothecate.html">hypothecate</a>, <a href="Hypothecation.html">Hypothecation</a>, <a href="hysteria.html">hysteria</a>, <a href="impatient.html">impatient</a>, <a href="imperialism.html">imperialism</a>, <a href="impotence.html">impotence</a>, <a href="impotency.html">impotency</a>, <a href="impotently.html">impotently</a>, <a href="impracticable.html">impracticable</a>, <a href="in%20hand.html">in hand</a>, <a href="in%20the%20flesh.html">in the flesh</a>, <a href="incontinent.html">incontinent</a>, <a href="Inco%C3%B6rdination%20of%20muscular%20movement.html">Incoördination of muscular movement</a>, <a href="independence.html">independence</a>, <a href="independency.html">independency</a>, <a href="independent.html">independent</a>, <a href="independently.html">independently</a>, <a href="induce.html">induce</a>, <a href="inducer.html">inducer</a>, <a href="indulgence.html">indulgence</a>, <a href="infatuate.html">infatuate</a>, <a href="inference.html">inference</a>, <a href="influence.html">influence</a>, <a href="inhibit.html">inhibit</a>, <a href="innervation.html">innervation</a>, <a href="Inquisition.html">Inquisition</a>, <a href="insanity.html">insanity</a>, <a href="inspire.html">inspire</a>, <a href="instrumentation.html">instrumentation</a>, <a href="Insubjection.html">Insubjection</a>, <a href="insurrection.html">insurrection</a>, <a href="interest.html">interest</a>, <a href="internationalisation.html">internationalisation</a>, <a href="internationalise.html">internationalise</a>, <a href="internationalism.html">internationalism</a>, <a href="internationalization.html">internationalization</a>, <a href="internationalize.html">internationalize</a>, <a href="Invincible%20ignorance.html">Invincible ignorance</a>, <a href="involuntary.html">involuntary</a>, <a href="Iran-Iraq%20War.html">Iran-Iraq War</a>, <a href="iris.html">iris</a>, <a href="irrepressible.html">irrepressible</a>, <a href="irresponsible.html">irresponsible</a>, <a href="Jacobin.html">Jacobin</a>, <a href="job.html">job</a>, <a href="Jupiter.html">Jupiter</a>, <a href="jurisdiction.html">jurisdiction</a>, <a href="keel.html">keel</a>, <a href="keep.html">keep</a>, <a href="keep%20back.html">keep back</a>, <a href="keep%20in%20line.html">keep in line</a>, <a href="key.html">key</a>, <a href="Kick%20over%20the%20traces.html">Kick over the traces</a>, <a href="killifish.html">killifish</a>, <a href="kingdom.html">kingdom</a>, <a href="Kulturkampf.html">Kulturkampf</a>, <a href="latchkey.html">latchkey</a>, <a href="Laura.html">Laura</a>, <a href="lawless.html">lawless</a>, <a href="lead.html">lead</a>, <a href="leadership.html">leadership</a>, <a href="LED.html">LED</a>, <a href="LET.html">LET</a>, <a href="lever.html">lever</a>, <a href="liberty.html">liberty</a>, <a href="license.html">license</a>, <a href="lien.html">lien</a>, <a href="live-bearer.html">live-bearer</a>, <a href="livery.html">livery</a>, <a href="local.html">local</a>, <a href="lockdown.html">lockdown</a>, <a href="longanimous.html">longanimous</a>, <a href="loop.html">loop</a>, <a href="loose.html">loose</a>, <a href="lord.html">lord</a>, <a href="Lord%20Chamberlain.html">Lord Chamberlain</a>, <a href="lose%20it.html">lose it</a>, <a href="Lose%20one%27s%20grip.html">Lose one's grip</a>, <a href="lost.html">lost</a>, <a href="lurch.html">lurch</a>, <a href="machine.html">machine</a>, <a href="macintosh.html">macintosh</a>, <a href="mad.html">mad</a>, <a href="Maffia.html">Maffia</a>, <a href="Mafia.html">Mafia</a>, <a href="magic.html">magic</a>, <a href="Mameluke.html">Mameluke</a>, <a href="man.html">man</a>, <a href="manage.html">manage</a>, <a href="manageable.html">manageable</a>, <a href="management.html">management</a>, <a href="management%20control.html">management control</a>, <a href="manager.html">manager</a>, <a href="mandate.html">mandate</a>, <a href="manipulate.html">manipulate</a>, <a href="mare%20clausum.html">mare clausum</a>, <a href="Margaret%20Higgins%20Sanger.html">Margaret Higgins Sanger</a>, <a href="Margaret%20Sanger.html">Margaret Sanger</a>, <a href="Marie%20Charlotte%20Carmichael%20Stopes.html">Marie Charlotte Carmichael Stopes</a>, <a href="Marie%20Stopes.html">Marie Stopes</a>, <a href="master.html">master</a>, <a href="Masterdom.html">Masterdom</a>, <a href="masterless.html">masterless</a>, <a href="Masterliness.html">Masterliness</a>, <a href="mastery.html">mastery</a>, <a href="May.html">May</a>, <a href="May%20laws.html">May laws</a>, <a href="measure.html">measure</a>, <a href="mechanisation.html">mechanisation</a>, <a href="mechanization.html">mechanization</a>, <a href="medicine.html">medicine</a>, <a href="Melopiano.html">Melopiano</a>, <a href="merger.html">merger</a>, <a href="mesmerise.html">mesmerise</a>, <a href="mesmerism.html">mesmerism</a>, <a href="might.html">might</a>, <a href="militarize.html">militarize</a>, <a href="military%20control.html">military control</a>, <a href="misrule.html">misrule</a>, <a href="mobocracy.html">mobocracy</a>, <a href="monopolise.html">monopolise</a>, <a href="monopolistic.html">monopolistic</a>, <a href="monopolize.html">monopolize</a>, <a href="monopoly.html">monopoly</a>, <a href="Mormon.html">Mormon</a>, <a href="mortify.html">mortify</a>, <a href="mosquitofish.html">mosquitofish</a>, <a href="motor%20control.html">motor control</a>, <a href="move%20in%20on.html">move in on</a>, <a href="nationalisation.html">nationalisation</a>, <a href="nationalise.html">nationalise</a>, <a href="nationalization.html">nationalization</a>, <a href="nationalize.html">nationalize</a>, <a href="naval%20campaign.html">naval campaign</a>, <a href="neocolonialism.html">neocolonialism</a>, <a href="nerve.html">nerve</a>, <a href="nerveless.html">nerveless</a>, <a href="nonvoluntary.html">nonvoluntary</a>, <a href="obedience.html">obedience</a>, <a href="obedient.html">obedient</a>, <a href="obsession.html">obsession</a>, <a href="obstreperous.html">obstreperous</a>, <a href="occupation.html">occupation</a>, <a href="onanism.html">onanism</a>, <a href="operate.html">operate</a>, <a href="ordeal.html">ordeal</a>, <a href="out.html">out</a>, <a href="out%20of%20hand.html">out of hand</a>, <a href="outside.html">outside</a>, <a href="override.html">override</a>, <a href="pace.html">pace</a>, <a href="patent.html">patent</a>, <a href="patent%20right.html">patent right</a>, <a href="Patria%20potestas.html">Patria potestas</a>, <a href="piracy.html">piracy</a>, <a href="placebo.html">placebo</a>, <a href="pocket.html">pocket</a>, <a href="poeciliid.html">poeciliid</a>, <a href="poeciliid%20fish.html">poeciliid fish</a>, <a href="point%20duty.html">point duty</a>, <a href="poised.html">poised</a>, <a href="police%20commissioner.html">police commissioner</a>, <a href="politics.html">politics</a>, <a href="pool.html">pool</a>, <a href="population%20control.html">population control</a>, <a href="possess.html">possess</a>, <a href="possession.html">possession</a>, <a href="possessive.html">possessive</a>, <a href="potent.html">potent</a>, <a href="power.html">power</a>, <a href="power%20trip.html">power trip</a>, <a href="prefect.html">prefect</a>, <a href="preside.html">preside</a>, <a href="presidency.html">presidency</a>, <a href="price-fixing.html">price-fixing</a>, <a href="privatisation.html">privatisation</a>, <a href="privatise.html">privatise</a>, <a href="privatization.html">privatization</a>, <a href="privatize.html">privatize</a>, <a href="pro-choice.html">pro-choice</a>, <a href="Proctorage.html">Proctorage</a>, <a href="Proprietary%20right.html">Proprietary right</a>, <a href="protein.html">protein</a>, <a href="providence.html">providence</a>, <a href="proxy%20fight.html">proxy fight</a>, <a href="public%20school.html">public school</a>, <a href="pull%20strings.html">pull strings</a>, <a href="pull%20wires.html">pull wires</a>, <a href="pulling%20out.html">pulling out</a>, <a href="rebellion.html">rebellion</a>, <a href="rebellious.html">rebellious</a>, <a href="recalcitrant.html">recalcitrant</a>, <a href="receivership.html">receivership</a>, <a href="recollection.html">recollection</a>, <a href="reel.html">reel</a>, <a href="reflex.html">reflex</a>, <a href="reflexive.html">reflexive</a>, <a href="refractory.html">refractory</a>, <a href="regiment.html">regiment</a>, <a href="rein.html">rein</a>, <a href="rein%20in.html">rein in</a>, <a href="relay.html">relay</a>, <a href="repression.html">repression</a>, <a href="restrain.html">restrain</a>, <a href="revolt.html">revolt</a>, <a href="ride.html">ride</a>, <a href="ring.html">ring</a>, <a href="riot%20control.html">riot control</a>, <a href="riot%20control%20operation.html">riot control operation</a>, <a href="rising.html">rising</a>, <a href="Rodolia%20cardinalis.html">Rodolia cardinalis</a>, <a href="rule.html">rule</a>, <a href="run.html">run</a>, <a href="run%20away.html">run away</a>, <a href="Run%20riot.html">Run riot</a>, <a href="runaway.html">runaway</a>, <a href="Russian%20Church.html">Russian Church</a>, <a href="Russian%20Orthodox%20Church.html">Russian Orthodox Church</a>, <a href="Safety%20tube.html">Safety tube</a>, <a href="sanction.html">sanction</a>, <a href="Sanger.html">Sanger</a>, <a href="school%20board.html">school board</a>, <a href="Sectarianize.html">Sectarianize</a>, <a href="secularisation.html">secularisation</a>, <a href="secularization.html">secularization</a>, <a href="secularize.html">secularize</a>, <a href="seize.html">seize</a>, <a href="self-collected.html">self-collected</a>, <a href="self-command.html">self-command</a>, <a href="self-contained.html">self-contained</a>, <a href="self-control.html">self-control</a>, <a href="self-directed.html">self-directed</a>, <a href="self-government.html">self-government</a>, <a href="Self-mastery.html">Self-mastery</a>, <a href="self-possessed.html">self-possessed</a>, <a href="self-reliant.html">self-reliant</a>, <a href="self-restraint.html">self-restraint</a>, <a href="Separate%20estate.html">Separate estate</a>, <a href="Setting-up%20exercise.html">Setting-up exercise</a>, <a href="Shall.html">Shall</a>, <a href="Shunt%20valve.html">Shunt valve</a>, <a href="signaling.html">signaling</a>, <a href="Sino-Japanese%20War.html">Sino-Japanese War</a>, <a href="skid.html">skid</a>, <a href="slave.html">slave</a>, <a href="sleep.html">sleep</a>, <a href="snap.html">snap</a>, <a href="social%20control.html">social control</a>, <a href="socialised.html">socialised</a>, <a href="socialized.html">socialized</a>, <a href="sort%20out.html">sort out</a>, <a href="sovietise.html">sovietise</a>, <a href="sovietize.html">sovietize</a>, <a href="spoiler.html">spoiler</a>, <a href="sputter.html">sputter</a>, <a href="stage%20manager.html">stage manager</a>, <a href="stagger.html">stagger</a>, <a href="steerage.html">steerage</a>, <a href="Stopes.html">Stopes</a>, <a href="stopping.html">stopping</a>, <a href="subdue.html">subdue</a>, <a href="subdued.html">subdued</a>, <a href="subject.html">subject</a>, <a href="subjection.html">subjection</a>, <a href="subjugate.html">subjugate</a>, <a href="submarine.html">submarine</a>, <a href="submission.html">submission</a>, <a href="submit.html">submit</a>, <a href="Subordinacy.html">Subordinacy</a>, <a href="subordinate.html">subordinate</a>, <a href="suggestion.html">suggestion</a>, <a href="superintend.html">superintend</a>, <a href="Supervisal.html">Supervisal</a>, <a href="supervision.html">supervision</a>, <a href="suppress.html">suppress</a>, <a href="surrender.html">surrender</a>, <a href="surveillance%20of%20disease.html">surveillance of disease</a>, <a href="swag.html">swag</a>, <a href="sway.html">sway</a>, <a href="syndicalism.html">syndicalism</a>, <a href="syndicate.html">syndicate</a>, <a href="tachina%20fly.html">tachina fly</a>, <a href="take.html">take</a>, <a href="take%20charge.html">take charge</a>, <a href="take%20control.html">take control</a>, <a href="take%20hold.html">take hold</a>, <a href="take%20over.html">take over</a>, <a href="Take%20the%20reins.html">Take the reins</a>, <a href="takeover%20attempt.html">takeover attempt</a>, <a href="talk%20down.html">talk down</a>, <a href="tax.html">tax</a>, <a href="The%20Monroe%20doctrine.html">The Monroe doctrine</a>, <a href="theosophy.html">theosophy</a>, <a href="thermostat.html">thermostat</a>, <a href="To%20be%20in%20luck.html">To be in luck</a>, <a href="To%20be%20master%20of%20one%27s%20self.html">To be master of one's self</a>, <a href="To%20be%20one%27s%20own%20mistress.html">To be one's own mistress</a>, <a href="to%20blow%20one%27s%20stacks.html">to blow one's stacks</a>, <a href="To%20boil%20over.html">To boil over</a>, <a href="To%20collect%20one%27s%20self.html">To collect one's self</a>, <a href="To%20dispose%20of.html">To dispose of</a>, <a href="To%20fall%20into%20one%27s%20hands.html">To fall into one's hands</a>, <a href="To%20give%20head.html">To give head</a>, <a href="To%20hand%20over.html">To hand over</a>, <a href="To%20have%20in%20hand.html">To have in hand</a>, <a href="To%20haw%20and%20gee.html">To haw and gee</a>, <a href="To%20haw%20and%20gee%20about.html">To haw and gee about</a>, <a href="To%20hold%20in%20play.html">To hold in play</a>, <a href="To%20keep%20%28a%20person%29%20on%20a%20short%20leash.html">To keep (a person) on a short leash</a>, <a href="To%20run%20away.html">To run away</a>, <a href="To%20take%20the%20reins.html">To take the reins</a>, <a href="To%20turn%20around%20one%27s%20finger.html">To turn around one's finger</a>, <a href="topminnow.html">topminnow</a>, <a href="totalitarian.html">totalitarian</a>, <a href="tower.html">tower</a>, <a href="traffic%20control.html">traffic control</a>, <a href="train.html">train</a>, <a href="transfer.html">transfer</a>, <a href="traverse.html">traverse</a>, <a href="trial%20by%20ordeal.html">trial by ordeal</a>, <a href="trim.html">trim</a>, <a href="trust.html">trust</a>, <a href="turf%20war.html">turf war</a>, <a href="two-tier%20bid.html">two-tier bid</a>, <a href="tyrant.html">tyrant</a>, <a href="Tyto%20alba.html">Tyto alba</a>, <a href="unaccountable.html">unaccountable</a>, <a href="unbounded.html">unbounded</a>, <a href="unconquerable.html">unconquerable</a>, <a href="uncontrollable.html">uncontrollable</a>, <a href="uncontrolled.html">uncontrolled</a>, <a href="under.html">under</a>, <a href="undercut.html">undercut</a>, <a href="undisciplined.html">undisciplined</a>, <a href="ungoverned.html">ungoverned</a>, <a href="unguided.html">unguided</a>, <a href="unhampered.html">unhampered</a>, <a href="unmanageable.html">unmanageable</a>, <a href="unsubdued.html">unsubdued</a>, <a href="unvoluntary.html">unvoluntary</a>, <a href="uprising.html">uprising</a>, <a href="usurp.html">usurp</a>, <a href="vassal.html">vassal</a>, <a href="vedalia.html">vedalia</a>, <a href="vest.html">vest</a>, <a href="Vincible%20ignorance.html">Vincible ignorance</a>, <a href="vital%20force.html">vital force</a>, <a href="Voluntaryism.html">Voluntaryism</a>, <a href="War%20Department.html">War Department</a>, <a href="well-conducted.html">well-conducted</a>, <a href="wield.html">wield</a>, <a href="Wield%20the%20sceptre.html">Wield the sceptre</a>, <a href="wild.html">wild</a>, <a href="Wild-cat.html">Wild-cat</a>, <a href="will.html">will</a>, <a href="wind.html">wind</a>, <a href="window.html">window</a>, <a href="withdrawal.html">withdrawal</a>, <a href="withdrawal%20method.html">withdrawal method</a>, <a href="withholding.html">withholding</a>, <a href="yield.html">yield</a>, <a href="yielding.html">yielding</a>, <a href="yoga.html">yoga</a>, <a href="Zeppelin.html">Zeppelin</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xontrol, dontrol, fontrol, vontrol, cintrol, ckntrol, clntrol, cpntrol, cobtrol, cohtrol, cojtrol, comtrol, conrrol, confrol, congrol, conyrol, conteol, contdol, contfol, conttol, contril, contrkl, contrll, contrpl, controk, controo, controp
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

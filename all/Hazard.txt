@@ -1,0 +1,595 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>hazard</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">hazard</span> <span class="exp">put forward, of a guess, in spite of possible refutation</span> <span class="quot">"I am guessing that the price of real estate will rise again","I cannot pretend to say that you are wrong"</span></li><li><span class="tSpeech">v</span> <span class="term">hazard</span> <span class="exp">take a risk in the hope of a favorable outcome</span> <span class="quot">"When you buy these stocks you are gambling"</span></li><li><span class="tSpeech">v</span> <span class="term">hazard</span> <span class="exp">put at risk</span> <span class="quot">"I will stake my good reputation for this"</span></li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">an obstacle on a golf course</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">an unknown and unpredictable phenomenon that causes an event to result one way rather than another</span> <span class="quot">"bad luck caused his downfall","we ran into each other by pure chance"</span></li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">a source of danger; a possibility of incurring loss or misfortune</span> <span class="quot">"drinking alcohol is a health hazard"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										"dous":tremendous, horrendous, stupendous, and hazardous									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Hazard</span> <span class="exp">A game of chance played with dice.</span> </li><li><span class="term">Hazard</span> <span class="exp"><span class="wuFld">(Golf)</span> Any place into which the ball may not be safely played, such as bunkers, furze, water, sand, or other kind of bad ground.</span> </li><li><span class="term">Hazard</span> <span class="exp">Anything that is hazarded or risked, as the stakes in gaming.</span> <span class="wuQuot">"Your latter hazard ."</span></li><li><span class="term">Hazard</span> <span class="exp"><span class="wuFld">(Billiards)</span> Holing a ball, whether the object ball (winning <span class="wUex">hazard</span>) or the player's ball (losing <span class="wUex">hazard</span>).</span> </li><li><span class="term">Hazard</span> <span class="exp">Risk; danger; peril; as, he encountered the enemy at the <span class="wUex">hazard</span> of his reputation and life.</span> <span class="wuQuot">"Men are led on from one stage of life to another in a condition of the utmost hazard ."</span></li><li><span class="term">Hazard</span> <span class="exp">The uncertain result of throwing a die; hence, a fortuitous event; chance; accident; casualty.</span> <span class="wuQuot">"I will stand the hazard of the die."</span></li><li><span class="term">Hazard</span> <span class="exp">To expose to the operation of chance; to put in danger of loss or injury; to venture; to risk.</span> <span class="wuQuot">"Men hazard nothing by a course of evangelical obedience."</span><span class="wuQuot">"He hazards his neck to the halter."</span></li><li><span class="tSpeech">v. i</span> <span class="term">Hazard</span> <span class="exp"><span class="itl">hăz"ẽrd</span> To try the chance; to encounter risk or danger.</span> </li><li><span class="term">Hazard</span> <span class="exp">To venture to incur, or bring on.</span> <span class="wuQuot">"I hazarded the loss of whom I loved."</span><span class="wuQuot">"They hazard to cut their feet."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The General Lee cars used in the popular show The Dukes of Hazards were 1969 Dodge Chargers
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">The leading game at dice. The instruments are a box and two dice. The players are a caster and any number of setters. The setter stakes his money upon the table; the caster accepts the bet if he chooses, and must cover the setter's money if required. The setter can bar any throw. The caster first calls a main — that is, he calls any of the numbers 5, 6, 7, 8, or 9. He then throws his chance. If this is 2, 3, 11, or 12, it is called crabs and he loses, unless the main were 7 and he throws 11, or the main were 6 or 8 and he throws 12. In these cases, and also if he throws the main, his throw is called nick, and he wins. If he throws neither crabs nor nick, he must continue to throw until he again throws the main or his chance; if he throws the former first, the setter wins, if the latter the caster wins. Owing to the complicated chances, a good player at hazard has a great advantage over a novice.</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">A fortuitous event; chance; accident.</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">Risk; peril; exposure to danger; liability to do or to receive harm: as, the hazards of the sea; he did it at the hazard of his reputation.</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">One of the holes in the sides of a billiard-table.</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">Hence A stroke in billiards: known as losing hazard when the player pockets his own ball off another, and as winning hazard when he pockets the object-ball.</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">Something risked or staked.</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">In tennis and some similar games, that side of the court into which the ball is served. See tennis.</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">Synonyms Venture, etc. See risk, n.</span> </li><li><span class="term">hazard</span> <span class="exp">To take the chance of; venture to do, undertake, etc.</span> </li><li><span class="term">hazard</span> <span class="exp">To take the risk or danger of; run the risk of incurring or bringing to pass: as, to hazard the loss of reputation or of a battle.</span> </li><li><span class="term">hazard</span> <span class="exp">To imperil; expose to danger or loss: as, to hazard life for a friend; to hazard an estate recklessly.</span> </li><li><span class="term">hazard</span> <span class="exp">To incur the danger involved in; venture.</span> </li><li><span class="term">hazard</span> <span class="exp">To expose to the risk of; put in danger of: with to.</span> </li><li><span class="term">hazard</span> <span class="exp">Synonyms To jeopard, peril, imperil, endanger. See danger, and risk, n.</span> </li><li><span class="term">hazard</span> <span class="exp">To try the chance; adventure; run the risk or danger.</span> </li><li><span class="tSpeech">n</span> <span class="term">hazard</span> <span class="exp">In golf, a bunker, water, path, road, railway, fence, or ditch.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										On average, an American home has 3-10 gallons of hazardous materials
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Hazard</span> <span class="exp"><span class="itl">haz′ard</span> a game played with a dice-box and two dice by any number of players: chance: accident: risk: : :</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Hazard</span> <span class="exp">to expose to chance: to risk: to venture</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Hazard</span> <span class="exp">to run a risk</span> </li><li><span class="tSpeech">n</span> <span class="term">Hazard</span> <span class="exp"><span class="itl">haz′ard</span> (<span class="itl">billiards</span>) the pocketing of the object ball (<span class="itl">winning</span> hazard), of the player's own ball after contact (<span class="itl">losing</span> hazard)</span> </li><li><span class="tSpeech">n</span> <span class="term">Hazard</span> <span class="exp"><span class="itl">haz′ard</span> (<span class="itl">tennis</span>) the side of the court into which the ball is served</span> </li><li><span class="tSpeech">n</span> <span class="term">Hazard</span> <span class="exp"><span class="itl">haz′ard</span> (<span class="itl">golf</span>) a general term for all difficulties on a golf-links—bunkers, long grass, roads, water, whins, &amp;c</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Few enterprises of great labor or hazard would be undertaken if we had not the power of magnifying the advantages we expect from them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Penn Warren</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert Penn Warren">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“For what is a poem, but a hazardous attempt at self-understanding. It is the deepest part of autobiography.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Plutarch</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Plutarch.jpg" alt="Plutarch">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Courage consists not in hazarding without fear; but being resolutely minded in a just cause.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Hannah Arendt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Hannah%20Arendt.jpg" alt="Hannah%20Arendt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Death not merely ends life, it also bestows upon it a silent completeness, snatched from the hazardous flux to which all things human are subject.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John R. Stott</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John R. Stott">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The Christian's chief occupational hazards are depression and discouragement.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Winston Churchill</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Winston%20Churchill.jpg" alt="Winston%20Churchill">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“True genius resides in the capacity for evaluation of uncertain, hazardous, and conflicting information.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">hasard</span>, Sp. <span class="wUets">azar</span>, an unforeseen disaster or accident, an unfortunate card or throw at dice, prob. fr. Ar. <span class="wUets">zahr</span>, <span class="wUets">zār</span>, a die, which, with the article <span class="wUets">al</span>, the, would give <span class="wUets">azzahr</span>, <span class="wUets">azzār</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>hasard</i>; prob. through the Sp. from Arab. <i>al zār</i>, the die; but Littré favours William of Tyre's derivation from <i>Hasart</i>, a castle in Syria, where the game was discovered during the Crusades.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The most desperate hazards would be readily undertaken in that hour of gloom.
+					</div>
+					<div class="uAuthor">
+						"The Felon's Track" by <span>Michael Doheny</span>					</div>
+										<div class="usage">
+						For the hazardous work before him he was at once prepared to make a start.
+					</div>
+					<div class="uAuthor">
+						"The Underground Railroad" by <span>William Still</span>					</div>
+										<div class="usage">
+						In the course of their hazardous journey, a striking instance was afforded of the inscrutable ways of Providence.
+					</div>
+					<div class="uAuthor">
+						"Narratives of Shipwrecks of the Royal Navy; between 1793 and 1849" by <span>William O. S. Gilly</span>					</div>
+										<div class="usage">
+						Douglas should have known that the hazards in his course were reared by his own hand.
+					</div>
+					<div class="uAuthor">
+						"Stephen A. Douglas" by <span>Allen Johnson</span>					</div>
+										<div class="usage">
+						All telephone systems are exposed to certain electrical hazards.
+					</div>
+					<div class="uAuthor">
+						"Cyclopedia of Telephony &amp; Telegraphy Vol. 1" by <span>Kempster Miller</span>					</div>
+										<div class="usage">
+						It is not an advice that subjects you to the hazard of any experiment.
+					</div>
+					<div class="uAuthor">
+						"The Works of the Right Honourable Edmund Burke, Vol. IV. (of 12)" by <span>Edmund Burke</span>					</div>
+										<div class="usage">
+						They would know that Parliament, at all hazards, would force the king to a separate peace.
+					</div>
+					<div class="uAuthor">
+						"The Works of the Right Honourable Edmund Burke, Vol. V. (of 12)" by <span>Edmund Burke</span>					</div>
+										<div class="usage">
+						It was not every day that a great ship left the harbor on so long and hazardous a voyage.
+					</div>
+					<div class="uAuthor">
+						"The Grey Cloak" by <span>Harold MacGrath</span>					</div>
+										<div class="usage">
+						If you attempt to play the traitor, you will do so at the hazard of your life.
+					</div>
+					<div class="uAuthor">
+						"Jack Sheppard" by <span>William Harrison Ainsworth</span>					</div>
+										<div class="usage">
+						I thought the matter was definitely settled, and that you had resolved to save your own honor and name at every hazard.
+					</div>
+					<div class="uAuthor">
+						"Ellen Walton" by <span>Alvin Addison</span>					</div>
+										<div class="usage">
+						Is nothing to be left to noble hazard?
+					</div>
+					<div class="uAuthor">
+						"The Works Of John Dryden, Vol. 7 (of 18)" by <span>John Dryden</span>					</div>
+										<div class="usage">
+						Still, there can be no doubt that John Lawrence's views as to the necessity for Delhi being taken at all hazards were correct.
+					</div>
+					<div class="uAuthor">
+						"Forty-one years in India" by <span>Frederick Sleigh Roberts</span>					</div>
+										<div class="usage">
+						I put several together myself, taking pieces at hazard as they came to hand, and they fitted in the most perfect manner.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						I will hazard them on paper, for your amusement, premising for their foundation some principles believed to be true.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						These thoughts on the subjects of your letter are hazarded at your request.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						But in spite of example or argument, in terror or in treachery, General Mack capitulated without hazarding a blow.
+					</div>
+					<div class="uAuthor">
+						"The History of Napoleon Buonaparte" by <span>John Gibson Lockhart</span>					</div>
+										<div class="usage">
+						This was the hazard of the weapon-getting.
+					</div>
+					<div class="uAuthor">
+						"The Master of Appleby" by <span>Francis Lynde</span>					</div>
+										<div class="usage">
+						Of course, every home has certain fire hazards but they can be reduced to the minimum by a few elemental improvements and precautions.
+					</div>
+					<div class="uAuthor">
+						"If You're Going to Live in the Country" by <span>Thomas H. Ormsbee and Richmond Huntley</span>					</div>
+										<div class="usage">
+						No, it was better to keep the guard together at all hazards.
+					</div>
+					<div class="uAuthor">
+						"The Eagle of the Empire" by <span>Cyrus Townsend Brady</span>					</div>
+										<div class="usage">
+						The danger into which I personally may have fallen must count for little with you, in a decision to hazard your own lives.
+					</div>
+					<div class="uAuthor">
+						"The Girl in the Golden Atom" by <span>Raymond King Cummings</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Until to-day; until I knew<br>
+That I was loved again, again;<br>
+Then hazard how this thing befel,<br>
+Brother of women and of men? 
+							<div class="poet">"Overtures" by <span>John Crowe Ransom</span></div>
+						</div>
+											<div class="poemQuote">
+							Yes, repose and surcease of all hazard,<br>
+A truce to all war for a time!<br>
+The cliffs and the pines only echo<br>
+The laugh of a sunnier clime.
+							<div class="poet">"Tobermory Bay" by <span>John Douglas Sutherland Campbell</span></div>
+						</div>
+											<div class="poemQuote">
+							From sunny woof and cloudy weft<br>
+Fell rain in sheets; so, to myself<br>
+I hummed these hazard rhymes, and left<br>
+The learnëd volume on the shelf.
+							<div class="poet">"Nature And the Book" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							Hazardous are the stars, yet is our birth<br>
+And our journeying time theirs;<br>
+As words of air, life makes of starry earth<br>
+Sweet soul-delighted faces; 
+							<div class="poet">"Hymn To Love" by <span>Lascelles Abercrombie</span></div>
+						</div>
+											<div class="poemQuote">
+							There's no career in the venture<br>
+Of riding against the lizard,<br>
+Himself withered these latter-days<br>
+To leaf-size from lack of action:<br>
+History's beaten the hazard.
+							<div class="poet">"The Times Are Tidy" by <span>Sylvia Plath</span></div>
+						</div>
+											<div class="poemQuote">
+							And thus did the wily old wizard<br>
+Deceive with his kindness the two<br>
+For a deed of dark peril and hazard<br>
+He had for Aladdin to do,<br>
+At the risk of his life, too, he knew.
+							<div class="poet">"Aladdin" by <span>Clara Doty Bates</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Which do you consider the most hazardous stretch of highway in Cherokee County.
+					</div>
+					<div class="uAuthor">
+						<a href="http://tahlequahdailypress.com/letters/x1823381265/Sullivan-disingenuous" target="_blank" rel="external nofollow">tahlequahdailypress.com</a>
+					</div>
+										<div class="usage">
+						When drought made Fourth of July fireworks a fire hazard, organizers in Chesterfield, Mo.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theintelligencer.net/page/content.detail/id/573827/Isaac-Promises-Drought-Relief--Drenched-Holiday.html?nav=515" target="_blank" rel="external nofollow">theintelligencer.net</a>
+					</div>
+										<div class="usage">
+						EPA site inspection is a phrase guaranteed to strike fear in the heart of any company executive -- unless, of course, she happens to be Pat Ricketson, CEO of Hazardous Waste Consultants Inc, in Orlando.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.inc.com/magazine/19890701/5700.html" target="_blank" rel="external nofollow">inc.com</a>
+					</div>
+										<div class="usage">
+						Health statistics may be hazardous to our mental health.
+					</div>
+					<div class="uAuthor">
+						<a href="http://discovermagazine.com/1994/mar/countingondyscal351" target="_blank" rel="external nofollow">discovermagazine.com</a>
+					</div>
+										<div class="usage">
+						The reasons given are risk factors including infection, choking hazard, allergic reactions and embedded earrings.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.qcsunonline.com/cms/news/story-576733.html" target="_blank" rel="external nofollow">qcsunonline.com</a>
+					</div>
+										<div class="usage">
+						On June 17, 2004, the US Department of Homeland Security ( DHS ) signed an agreement with NOAA/NWS addressing the transmission of DHS-originated emergency messages over All-Hazards NOAA Weather Radio ( NWR ).
+					</div>
+					<div class="uAuthor">
+						<a href="http://wpr.org/eas/new-eas-codes.htm" target="_blank" rel="external nofollow">wpr.org</a>
+					</div>
+										<div class="usage">
+						Gardening is surprisingly hazardous work.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.northcoastjournal.com/072105/dirt0721.html" target="_blank" rel="external nofollow">northcoastjournal.com</a>
+					</div>
+										<div class="usage">
+						"If the television show gets people to think about hazards in a manner that causes them to prepare, then it will be beneficial," said a FEMA spokesman.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.slate.com/blogs/future_tense/2012/09/17/emp_threat_trent_franks_and_other_politicians_worry_about_wide_power_outages_like_in_nbc_s_revolution_.html" target="_blank" rel="external nofollow">slate.com</a>
+					</div>
+										<div class="usage">
+						The state Emergency Management Division has several events planned to remind residents that earthquakes are as much of a hazard as hurricanes, floods and tornadoes in South Carolina.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wrdw.com/news/headlines/Preparedness-emphasized-during-SC-Earthquake-Week-174144391.html" target="_blank" rel="external nofollow">wrdw.com</a>
+					</div>
+										<div class="usage">
+						Smokeout is lesser event, but smoking is no less of a health hazard .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pottsmerc.com/article/20121119/OPINION01/121119377/smokeout-is-lesser-event-but-smoking-is-no-less-of-a-health-hazard" target="_blank" rel="external nofollow">pottsmerc.com</a>
+					</div>
+										<div class="usage">
+						Detergent pods 'an emerging public health hazard '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kval.com/news/health/CDC-Detergent-pods-an-emerging-public-health-hazard-177729881.html" target="_blank" rel="external nofollow">kval.com</a>
+					</div>
+										<div class="usage">
+						Lack of zinc is a health hazard .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/health/index.ssf/2012/11/drs_oz_and_roizen_lack_of_zinc.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						Not since the zinc oxide scene in "Kentucky Fried Movie" (directed by John Landis, of "Animal House" fame) has the lack of zinc been so clearly understood to be a health hazard .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/health/index.ssf/2012/11/drs_oz_and_roizen_lack_of_zinc.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						First forest health hazard warning expected for Washington.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kplu.org/post/first-forest-health-hazard-warning-expected-washington" target="_blank" rel="external nofollow">kplu.org</a>
+					</div>
+										<div class="usage">
+						Secondhand smoke a clear health hazard to kids.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sacbee.com/2012/05/10/4478299/dr-mom-secondhand-smoke-a-clear.html" target="_blank" rel="external nofollow">sacbee.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This makes it hazardly to assume that any particular band reﬂects the true bolometric luminosity. 
+					</div>
+					<div class="uAuthor">
+						The late UVOIR light curve of SN 2000cx
+					</div>
+										<div class="usage">
+						Theorem 1 gives a response to this question under the condition that in any case the hazard of surviving components becomes more severe after the change-point. 
+					</div>
+					<div class="uAuthor">
+						Change point models and conditionally pure birth processes; an inequality on the stochastic intensity
+					</div>
+										<div class="usage">
+						However, care must be taken in estimating temperatures of any sort, and we will not, due to the hazards of extracting an “effective” or “equilibrium” temperature from these data, say much more about them. 
+					</div>
+					<div class="uAuthor">
+						Theoretical Interpretation of the Measurements of the Secondary Eclipses of TrES-1 and HD209458b
+					</div>
+										<div class="usage">
+						In order to illustrate the ﬂexibility of the approach, large classes of random probability measures and random hazards or intensities which can be expressed as functionals of Poisson random measures are described. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						Section 4 presents a more explicit posterior analysis of a class of L´evy moving averages or hazard rates sub ject to a multiplicative intensity model. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						The class of completely random measures contains, for instance, the gamma process and the random hazard processes discussed in . 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						I{x<y} [−="" log(1="" −="" u)]n="" (du,="" dx),="" where="" now="" ρ(ds|y)="" is="" a="" l´evy="" measure="" on="" [0,="" 1]="" and="" η="" modeled="" as="" cumulative="" hazard.="" <="" div="">
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						RY [R x where Λ(x) = R x 0 k(v |y) dv ]µ(dy) is a cumulative hazard and S (x|λ) := e−Λ(x) is the survival function denoting the probability that a random variable X1 ≥ x. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						This choice of k generates the family of nondecreasing hazard rates. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						Dragichi and Ramamoorthi establish the consistency of this class of random hazard rates under wide choices of µ. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						As discussed in , this induces hazard rates which are completely monotone. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						Note, however, that the quantity E [λ(t)] does not have the interpretation as a prior speciﬁcation for the hazard rate. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						It follows that to appropriately evaluate the marginal hazard rate of T , one needs to ﬁrst ﬁnd the distribution of µ or N , given T ≥ t. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						In the stable case the marginal hazard rate becomes RY k(t|y)[K (t|y)]α−1η(dy). 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<div class="usage">
+						Posterior intensity rates and predictive hazards. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Poisson process partition calculus with an application to Bayesian L\'evy moving averages
+					</div>
+										<span class="separatorSmall">***</span>
+				</y}></div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="take a risk in the hope of a favorable outcome"><a href="take%20chances.html">take chances</a>, <a href="adventure.html">adventure</a>, <a href="run%20a%20risk.html">run a risk</a>, <a href="take%20a%20chance.html">take a chance</a>, </div><div class="synGroup" title="put at risk"><a href="adventure.html">adventure</a>, <a href="stake.html">stake</a>, <a href="jeopardize.html">jeopardize</a>, </div><div class="synGroup" title="a source of danger; a possibility of incurring loss or misfortune"><a href="jeopardy.html">jeopardy</a>, <a href="peril.html">peril</a>, <a href="risk.html">risk</a>, <a href="endangerment.html">endangerment</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="assay.html">assay</a>, <a href="attempt.html">attempt</a>, <a href="danger.html">danger</a>, <a href="essay.html">essay</a>, <a href="lay%20on%20the%20line.html">lay on the line</a>, <a href="obstacle.html">obstacle</a>, <a href="phenomenon.html">phenomenon</a>, <a href="put%20on%20the%20line.html">put on the line</a>, <a href="risk.html">risk</a>, <a href="seek.html">seek</a>, <a href="speculate.html">speculate</a>, <a href="try.html">try</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="anticipate.html">anticipate</a>, <a href="bad%20luck.html">bad luck</a>, <a href="bunker.html">bunker</a>, <a href="call.html">call</a>, <a href="even%20chance.html">even chance</a>, <a href="forebode.html">forebode</a>, <a href="foretell.html">foretell</a>, <a href="go%20for%20broke.html">go for broke</a>, <a href="health%20hazard.html">health hazard</a>, <a href="luck%20it.html">luck it</a>, <a href="luck%20through.html">luck through</a>, <a href="mischance.html">mischance</a>, <a href="mishap.html">mishap</a>, <a href="moral%20hazard.html">moral hazard</a>, <a href="occupational%20hazard.html">occupational hazard</a>, <a href="predict.html">predict</a>, <a href="prognosticate.html">prognosticate</a>, <a href="promise.html">promise</a>, <a href="sand%20trap.html">sand trap</a>, <a href="surmise.html">surmise</a>, <a href="suspect.html">suspect</a>, <a href="sword%20of%20damocles.html">sword of damocles</a>, <a href="toss-up.html">toss-up</a>, <a href="tossup.html">tossup</a>, <a href="trap.html">trap</a>, <a href="water%20hazard.html">water hazard</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="gamble.html">gamble</a>, <a href="gambler.html">gambler</a>, <a href="guess.html">guess</a>, <a href="guesser.html">guesser</a>, <a href="guessing.html">guessing</a>, <a href="hazardous.html">hazardous</a>, <a href="venture.html">venture</a>, <a href="venturer.html">venturer</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A.html">A</a>, <a href="adventure.html">adventure</a>, <a href="adventuresome.html">adventuresome</a>, <a href="adventurous.html">adventurous</a>, <a href="Al.html">Al</a>, <a href="At%20a%20venture.html">At a venture</a>, <a href="At%20one%27s%20peril.html">At one's peril</a>, <a href="atomic%20number%2086.html">atomic number 86</a>, <a href="bank.html">bank</a>, <a href="Bibliomancy.html">Bibliomancy</a>, <a href="biohazard.html">biohazard</a>, <a href="bunker.html">bunker</a>, <a href="cast.html">cast</a>, <a href="chance.html">chance</a>, <a href="Chicken-hazard.html">Chicken-hazard</a>, <a href="compromise.html">compromise</a>, <a href="Compromit.html">Compromit</a>, <a href="crab.html">crab</a>, <a href="craps.html">craps</a>, <a href="danger.html">danger</a>, <a href="dangerousness.html">dangerousness</a>, <a href="die.html">die</a>, <a href="emissary.html">emissary</a>, <a href="endanger.html">endanger</a>, <a href="endangerment.html">endangerment</a>, <a href="exposure.html">exposure</a>, <a href="Fortition.html">Fortition</a>, <a href="gamble.html">gamble</a>, <a href="Gambling-house.html">Gambling-house</a>, <a href="Hap-hazard.html">Hap-hazard</a>, <a href="haphazard.html">haphazard</a>, <a href="Hasard.html">Hasard</a>, <a href="Hazard%20table.html">Hazard table</a>, <a href="Hazardable.html">Hazardable</a>, <a href="Hazarder.html">Hazarder</a>, <a href="Hazardise.html">Hazardise</a>, <a href="Hazardize.html">Hazardize</a>, <a href="hazardous.html">hazardous</a>, <a href="Hazardry.html">Hazardry</a>, <a href="health%20hazard.html">health hazard</a>, <a href="hit-or-miss.html">hit-or-miss</a>, <a href="Hitty-missy.html">Hitty-missy</a>, <a href="insecurity.html">insecurity</a>, <a href="Jenny.html">Jenny</a>, <a href="Jeopard.html">Jeopard</a>, <a href="jeoparder.html">jeoparder</a>, <a href="jeopardy.html">jeopardy</a>, <a href="jump.html">jump</a>, <a href="lot.html">lot</a>, <a href="main.html">main</a>, <a href="Matthew%20Calbraith%20Perry.html">Matthew Calbraith Perry</a>, <a href="Mum-chance.html">Mum-chance</a>, <a href="nick.html">nick</a>, <a href="On%20one%27s%20peril.html">On one's peril</a>, <a href="pawn.html">pawn</a>, <a href="peril.html">peril</a>, <a href="perilously.html">perilously</a>, <a href="perilousness.html">perilousness</a>, <a href="Perry.html">Perry</a>, <a href="plunge.html">plunge</a>, <a href="precarious.html">precarious</a>, <a href="radon.html">radon</a>, <a href="random.html">random</a>, <a href="risk.html">risk</a>, <a href="Rn.html">Rn</a>, <a href="rondo.html">rondo</a>, <a href="run.html">run</a>, <a href="run%20a%20risk.html">run a risk</a>, <a href="safely.html">safely</a>, <a href="safeness.html">safeness</a>, <a href="safety.html">safety</a>, <a href="sand%20trap.html">sand trap</a>, <a href="Scientific%20frontier.html">Scientific frontier</a>, <a href="Sea-risk.html">Sea-risk</a>, <a href="secure.html">secure</a>, <a href="setter.html">setter</a>, <a href="Sortes.html">Sortes</a>, <a href="Spot%20stroke.html">Spot stroke</a>, <a href="stake.html">stake</a>, <a href="Stichomancy.html">Stichomancy</a>, <a href="The%20die%20is%20cast.html">The die is cast</a>, <a href="To%20hold%20a%20wager.html">To hold a wager</a>, <a href="To%20run%20a%20risk.html">To run a risk</a>, <a href="toss-up.html">toss-up</a>, <a href="trap.html">trap</a>, <a href="undergo.html">undergo</a>, <a href="undertake.html">undertake</a>, <a href="Unhazarded.html">Unhazarded</a>, <a href="venture.html">venture</a>, <a href="venturer.html">venturer</a>, <a href="wage.html">wage</a>, <a href="wager.html">wager</a>, <a href="water%20hazard.html">water hazard</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					gazard, yazard, jazard, nazard, bazard, hqzard, hwzard, hszard, hzzard, haaard, hasard, haxard, hazqrd, hazwrd, hazsrd, hazzrd, hazaed, hazadd, hazafd, hazatd, hazars, hazare, hazarf, hazarc, hazarx, hazars
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>	
+		<div id="footer">
+		<div id="monogram"></div>
+		<p class="copyright">© FineDictionary.com 2020</p>
+	</div>
+<!-- Start recorder related scripts -->	
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/yepnope/1.5.4/yepnope.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script type="text/javascript" src="http://www.finedictionary.com/sound/recorder.min.js"></script>
+<!-- End recorder related scripts -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38193479-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
+
+  
+</div>

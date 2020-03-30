@@ -1,0 +1,530 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>anxiety</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">anxiety</span> <span class="exp">a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune</span> </li><li><span class="tSpeech">n</span> <span class="term">anxiety</span> <span class="exp">(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In America, the most common mental illness is Anxiety Disorders									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Anxiety</span> <span class="exp"><span class="wuFld">(Med)</span> A state of restlessness and agitation, often with general indisposition and a distressing sense of oppression at the epigastrium.</span> </li><li><span class="term">Anxiety</span> <span class="exp">Concern or solicitude respecting some thing or event, future or uncertain, which disturbs the mind, and keeps it in a state of painful uneasiness.</span> </li><li><span class="term">Anxiety</span> <span class="exp">Eager desire.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Negative emotions such as anxiety and depression can weaken your immune system.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">anxiety</span> <span class="exp">The apprehension caused by danger, misfortune, or error; concern or solicitude respecting some event, future or uncertain; disturbance, uneasiness of mind, or care, occasioned by trouble.</span> </li><li><span class="tSpeech">n</span> <span class="term">anxiety</span> <span class="exp">In pathology, a state of restlessness and agitation, with general indisposition, and a distressing sense of oppression at the epigastrium. Synonyms Care, Concern, Solicitude, etc. (see care), foreboding, uneasiness, disquiet, inquietude, restlessness, apprehension, fear, misgiving, worry.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Anxiety</span> <span class="exp">state of being anxious—<span class="itl">adv.</span> <span class="bld">An′xiously</span></span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Theodore L. Cuyler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Theodore L. Cuyler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“God never built a Christian strong enough to carry today's duties and tomorrow's anxieties piled on the top of them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Chuck Jones</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Chuck Jones">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Anxiety is the hand maiden of creativity”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Søren Kierkegaard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Søren Kierkegaard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Anxiety is the dizziness of freedom.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ovid</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ovid.jpg" alt="Ovid">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no such thing as pure pleasure; some anxiety always goes with it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arthur Somers Roche</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Arthur Somers Roche">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Anxiety is a thin stream of fear trickling through the mind. If encouraged, it cuts a channel into which all other thoughts are drained.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ruckett</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Ruckett">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Anxiety about the future never profits; we feel no evil until it comes, and when we feel it, no counsel helps; wisdom is either too early or too late.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">anxietas</span>, fr. <span class="wUets">anxius</span>,: cf. F. <span class="wUets">anxiété</span>,. See <span class="wUer">Anxious</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>anxius</i>—<i>ang-ĕre</i>, to press tightly. See <b>Anger</b>, <b>Anguish</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						His pride in this respect was an amiable failing, if failing it was, for his great anxiety was to shed honour on his name.
+					</div>
+					<div class="uAuthor">
+						"Hurricane Hurry" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Interesting as Gerald's letter was to Norah and her father, it caused them the greatest possible anxiety.
+					</div>
+					<div class="uAuthor">
+						"The Missing Ship" by <span>W. H. G. Kingston</span>					</div>
+										<div class="usage">
+						We all watched with deep anxiety the progressive increase of the smouldering furnace below us.
+					</div>
+					<div class="uAuthor">
+						"Peter the Whaler" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						In my anxiety for her I almost forgot all about father.
+					</div>
+					<div class="uAuthor">
+						"Peter Trawl" by <span>W. H. G. Kingston</span>					</div>
+										<div class="usage">
+						Poor Cicely had thus a still longer time to wait till her anxiety was relieved, or till she might learn the worst.
+					</div>
+					<div class="uAuthor">
+						"The Settlers" by <span>William H. G. Kingston</span>					</div>
+										<div class="usage">
+						We all felt her loss greatly, and poor Marian was so overwhelmed with grief that we were in serious anxiety on her account.
+					</div>
+					<div class="uAuthor">
+						"The Wanderers" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Cyrus Harding had not seen the suspected vessel hoist the black flag without deep anxiety.
+					</div>
+					<div class="uAuthor">
+						"The Secret of the Island" by <span>W.H.G. Kingston (translation from Jules Verne)</span>					</div>
+										<div class="usage">
+						The alarm and anxiety of the passengers seemed now to have ceased.
+					</div>
+					<div class="uAuthor">
+						"My First Voyage to Southern Seas" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Our great anxiety was now to make ourselves seen before the night closed down upon us.
+					</div>
+					<div class="uAuthor">
+						"Will Weatherhelm" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Much worry and anxiety also bring on this serious illness.
+					</div>
+					<div class="uAuthor">
+						"Papers on Health" by <span>John Kirk</span>					</div>
+										<div class="usage">
+						Miss," he exclaimed with polite anxiety, "I beg your pardon.
+					</div>
+					<div class="uAuthor">
+						"Post Haste" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						There still remained a touch of anxiety caused by the recent fight on both countenances.
+					</div>
+					<div class="uAuthor">
+						"The Prairie Chief" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						Food, he knew, was necessary to his existence, but the thought gave him no anxiety.
+					</div>
+					<div class="uAuthor">
+						"Jarwin and Cuffy" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						When Coursegol, wild with anxiety, reached the chateau on the day that followed this frightful scene, only the walls remained standing.
+					</div>
+					<div class="uAuthor">
+						"Which?" by <span>Ernest Daudet</span>					</div>
+										<div class="usage">
+						The river, of course, was a source of great joy to them, and of hideous anxiety to the rest of us.
+					</div>
+					<div class="uAuthor">
+						"The Daughters of Danaus" by <span>Mona Caird</span>					</div>
+										<div class="usage">
+						Satisfied at this termination of the incident, which had caused me no small anxiety, I was returning to the chateau, when lo and behold!
+					</div>
+					<div class="uAuthor">
+						"French and Oriental Love in a Harem" by <span>Mario Uchard</span>					</div>
+										<div class="usage">
+						There was a nervous anxiety in her manner, and a mute interrogation in her grey eyes.
+					</div>
+					<div class="uAuthor">
+						"The Trail of '98" by <span>Robert W. Service</span>					</div>
+										<div class="usage">
+						I know; just as though on occasion he would rid his mind of those anxieties.
+					</div>
+					<div class="uAuthor">
+						"The Comedies of Terence" by <span>Publius Terentius Afer, (AKA) Terence</span>					</div>
+										<div class="usage">
+						But what caused me more anxiety than anything was the irregular beating and throbbing of his heart.
+					</div>
+					<div class="uAuthor">
+						"In the Forbidden Land" by <span>Arnold Henry Savage Landor</span>					</div>
+										<div class="usage">
+						The very air is full of anxiety and apprehension.
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							He dares not enter through the trees<br>
+That veil it from his eye;<br>
+He listens for some other sound<br>
+In deep anxiety.
+							<div class="poet">"Alexander And Zenobia" by <span>Anne Bronte</span></div>
+						</div>
+											<div class="poemQuote">
+							A sweet intoxication urges me<br>
+Despite pitching, tossing, fearlessly<br>
+To offer this toast while standing Solitude, reef, and starry veil<br>
+To whatever’s worthy of knowing<br>
+The white anxiety of our sail.
+							<div class="poet">"A Toast" by <span>Stephane Mallarme</span></div>
+						</div>
+											<div class="poemQuote">
+							She will not know from what fair skies<br>
+Troop hopes to front anxieties—<br>
+In what far fields they gather,<br>
+Until she knows that even in sleep,<br>
+Yea, in the dark of trouble deep,<br>
+The child is with the Father.
+							<div class="poet">"The Wakeful Sleeper" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							I've been hunted like a panther into my mountain lair,<br>
+Anxiety and misery my grim companions there.<br>
+I've planted in the scrub, my boys, and fed on kangaroo,<br>
+And wound up my avocations by ten years on Cockatoo.
+							<div class="poet">"The Murrumbidgee Shearer" by <span>Anonymous Oceania</span></div>
+						</div>
+											<div class="poemQuote">
+							And upon the deck, in deep anxiety he stood,<br>
+And from anxiety of mind he took but little food;<br>
+But now he ordered dinner and prepared without delay,<br>
+Saying, I shall gain a peerage to-morrow, or Westminster Abbey. 
+							<div class="poet">"The Battle Of The Nile" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							OH, listen to the tale of MISTER WILLIAM, if you please,<br>
+Whom naughty, naughty judges sent away beyond the seas.<br>
+He forged a party's will, which caused anxiety and strife,<br>
+Resulting in his getting penal servitude for life.
+							<div class="poet">"Mister William" by <span>William Schwenck Gilbert</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						 Perinatal anxiety disorders are common and pose risks to women and their offspring.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychiatrictimes.com/anxiety/content/article/10168/1993485" target="_blank" rel="external nofollow">psychiatrictimes.com</a>
+					</div>
+										<div class="usage">
+						Curb Panic &amp; Anxiety In Parrots.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.birdchannel.com/bird-behavior-and-training/bird-medium-bird-behavior/curb-panic-anxiety.aspx" target="_blank" rel="external nofollow">birdchannel.com</a>
+					</div>
+										<div class="usage">
+						Anxiety Grows Over Preakness Stakes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/story/2009/03/06/ST2009030600098.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						HERRIMAN — The Pinyon Fire jumped fire lines Wednesday, causing anxiety among some homeowners.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.deseretnews.com/article/865560354/Pinyon-Fire-jumps-fire-lines-but-isnt-threatening-homes.html" target="_blank" rel="external nofollow">deseretnews.com</a>
+					</div>
+										<div class="usage">
+						Anxieties mount over the games.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.economist.com/node/14382517" target="_blank" rel="external nofollow">economist.com</a>
+					</div>
+										<div class="usage">
+						Political debate and private actions affecting pension plans have been escalating for decades, leading to new heights of public anxiety.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hreonline.com/HRE/story.jsp?storyId=4197955" target="_blank" rel="external nofollow">hreonline.com</a>
+					</div>
+										<div class="usage">
+						A gene for anxiety, depression and posttraumatic stress disorder .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychologytoday.com/blog/mouse-man/200811/gene-anxiety-depression-and-posttraumatic-stress-disorder-fkbp5" target="_blank" rel="external nofollow">psychologytoday.com</a>
+					</div>
+										<div class="usage">
+						When Anxiety, Insomnia Aren't Just in Your Head.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052748703794104575546072780597414.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						If you do, then you remember the anxiety you felt about fitting in, the social pressure, and the constant stress happening in your life.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bainbridgereview.com/opinion/177273441.html?mobile=true" target="_blank" rel="external nofollow">bainbridgereview.com</a>
+					</div>
+										<div class="usage">
+						Columnists Richard O Jones Promiscuity is Acceptance Anxiety in Disguise.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blackvoicenews.com/columnists/richard-o-jones/44920-promiscuity-is-acceptance-anxiety-in-disguise.html" target="_blank" rel="external nofollow">blackvoicenews.com</a>
+					</div>
+										<div class="usage">
+						Quant has had a history of health problems that caused depression and anxiety.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.nj.com/njv_jeff_toney/2010/02/prozac_nation_can_we_put_humpty_dumpty_back_together_again.html" target="_blank" rel="external nofollow">blog.nj.com</a>
+					</div>
+										<div class="usage">
+						 Prussic-acid poisoning symptoms include anxiety, progressive weakness and labored breathing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://hayandforage.com/grazing/death-prussic-acid-drought-stressed-forage" target="_blank" rel="external nofollow">hayandforage.com</a>
+					</div>
+										<div class="usage">
+						Depression, Anxiety, OCD, and Psychosis .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/alicegwalton/2011/09/14/postpartum-psychology-depression-anxiety-ocd-and-psychosis/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						As people wait longer to marry, they also suffer more anxiety around the marriage decision.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/features/tribu/sc-fam-0927-marital-anxiety-20110927,0,1559083.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						WASHINGTON—Even though countless studies show that psychotherapy helps people living with depression and anxiety, drug therapy has become the most popular course of treatment over the past decade.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.apa.org/news/press/releases/2012/09/psychotherapy.aspx" target="_blank" rel="external nofollow">apa.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						His anxiety concerns the directionality of a vector. 
+					</div>
+					<div class="uAuthor">
+						On the Persistence of Homogeneous Matter
+					</div>
+										<div class="usage">
+						Munafò MR, Freimer NB, Ng W, Ophoff R, Veijola J, et al. (2009) 5-HTTLPR genotype and anxiety-related personality traits: a meta-analysis and new data. 
+					</div>
+					<div class="uAuthor">
+						Deep Impact: Unintended consequences of journal rank
+					</div>
+										<div class="usage">
+						If formulas such as (4.10) for example cause anxiety one can think of approximating h ∈ H by φn ∈ Φ and/or realize that h(x) = R (ψ(y , λ), h(y ))ψ(x, λ)dΓ is simply another way of saying h = Q−1Qh. 
+					</div>
+					<div class="uAuthor">
+						Toward a general theory of transmutation
+					</div>
+										<div class="usage">
+						We also knew that students suffer from anxiety when waiting for a result, even if it is not essential for university admittance. 
+					</div>
+					<div class="uAuthor">
+						WebTeach in practice: the entrance test to the Engineering faculty in Florence
+					</div>
+										<div class="usage">
+						Yale family study of comorbidity of alcoholism and anxiety (YFSCAA). 
+					</div>
+					<div class="uAuthor">
+						Generalized score test of homogeneity for mixed effects models
+					</div>
+										<div class="usage">
+						The YFSCAA was conducted to examine the patterns of familial aggregation of alcoholism in the relatives of 115 probands with alcohol dependence compared to those of 147 psychiatric (80 probands with anxiety disorders) and normal controls (67 probands with no history of psychiatric disorders). 
+					</div>
+					<div class="uAuthor">
+						Generalized score test of homogeneity for mixed effects models
+					</div>
+										<div class="usage">
+						Co-morbidity and familial aggregation of alcoholism and anxiety disorders. 
+					</div>
+					<div class="uAuthor">
+						Generalized score test of homogeneity for mixed effects models
+					</div>
+										<div class="usage">
+						Association between repeated experience of aggression and anxiety in male mice. 
+					</div>
+					<div class="uAuthor">
+						Anxiety as a Factor in the Development of Autistic Spectrum Symptoms: an Experimental Study
+					</div>
+										<div class="usage">
+						Anxiety in children and adolescents with autism spectrum disorders. 
+					</div>
+					<div class="uAuthor">
+						Anxiety as a Factor in the Development of Autistic Spectrum Symptoms: an Experimental Study
+					</div>
+										<div class="usage">
+						Bridge interests: anxiety, bracelets, corsets, edgar allen poe, emotions, (black) eyeliner, girl interrupted, girls, glitter, horror movies, insomnia, leather, lesbians, magick (sic), marylin monroe, (heavy) metal, night, poems, red, safety pins, screaming, spikes, techo, tori amos, etc. 
+					</div>
+					<div class="uAuthor">
+						Semantic Networks of Interests in Online NSSI Communities
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic"><a href="anxiousness.html">anxiousness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="emotion.html">emotion</a>, <a href="mental%20condition.html">mental condition</a>, <a href="mental%20state.html">mental state</a>, <a href="psychological%20condition.html">psychological condition</a>, <a href="psychological%20state.html">psychological state</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="angst.html">angst</a>, <a href="anxiousness.html">anxiousness</a>, <a href="care.html">care</a>, <a href="castration%20anxiety.html">castration anxiety</a>, <a href="concern.html">concern</a>, <a href="discomfiture.html">discomfiture</a>, <a href="discomposure.html">discomposure</a>, <a href="disconcertion.html">disconcertion</a>, <a href="disconcertment.html">disconcertment</a>, <a href="disquiet.html">disquiet</a>, <a href="disquietude.html">disquietude</a>, <a href="edginess.html">edginess</a>, <a href="fear.html">fear</a>, <a href="hypochondria.html">hypochondria</a>, <a href="hypochondriasis.html">hypochondriasis</a>, <a href="inquietude.html">inquietude</a>, <a href="insecurity.html">insecurity</a>, <a href="jitteriness.html">jitteriness</a>, <a href="jumpiness.html">jumpiness</a>, <a href="misgiving.html">misgiving</a>, <a href="nervousness.html">nervousness</a>, <a href="overanxiety.html">overanxiety</a>, <a href="panic.html">panic</a>, <a href="qualm.html">qualm</a>, <a href="restiveness.html">restiveness</a>, <a href="scare.html">scare</a>, <a href="scruple.html">scruple</a>, <a href="sinking.html">sinking</a>, <a href="sinking%20feeling.html">sinking feeling</a>, <a href="trouble.html">trouble</a>, <a href="uneasiness.html">uneasiness</a>, <a href="worry.html">worry</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="ADD.html">ADD</a>, <a href="afflict.html">afflict</a>, <a href="affright.html">affright</a>, <a href="alarm.html">alarm</a>, <a href="Angor.html">Angor</a>, <a href="angst.html">angst</a>, <a href="Anhele.html">Anhele</a>, <a href="anomie.html">anomie</a>, <a href="anomy.html">anomy</a>, <a href="antianxiety%20drug.html">antianxiety drug</a>, <a href="Anxietude.html">Anxietude</a>, <a href="anxiety%20attack.html">anxiety attack</a>, <a href="anxiety%20disorder.html">anxiety disorder</a>, <a href="anxiety%20hysteria.html">anxiety hysteria</a>, <a href="anxiety%20neurosis.html">anxiety neurosis</a>, <a href="anxiety%20reaction.html">anxiety reaction</a>, <a href="anxiolytic.html">anxiolytic</a>, <a href="anxiolytic%20drug.html">anxiolytic drug</a>, <a href="anxious.html">anxious</a>, <a href="anxiously.html">anxiously</a>, <a href="anxiousness.html">anxiousness</a>, <a href="Aporia.html">Aporia</a>, <a href="apprehend.html">apprehend</a>, <a href="apprehension.html">apprehension</a>, <a href="apprehensively.html">apprehensively</a>, <a href="assuasive.html">assuasive</a>, <a href="At%20ease.html">At ease</a>, <a href="Atarax.html">Atarax</a>, <a href="ataraxis.html">ataraxis</a>, <a href="Ativan.html">Ativan</a>, <a href="Be%20on%20tenter-hooks.html">Be on tenter-hooks</a>, <a href="bother.html">bother</a>, <a href="brood.html">brood</a>, <a href="business.html">business</a>, <a href="BuSpar.html">BuSpar</a>, <a href="buspirone.html">buspirone</a>, <a href="calm.html">calm</a>, <a href="care.html">care</a>, <a href="careful.html">careful</a>, <a href="carefully.html">carefully</a>, <a href="carefulness.html">carefulness</a>, <a href="careless.html">careless</a>, <a href="careworn.html">careworn</a>, <a href="cark.html">cark</a>, <a href="Carking.html">Carking</a>, <a href="castration%20anxiety.html">castration anxiety</a>, <a href="charge.html">charge</a>, <a href="cloudy.html">cloudy</a>, <a href="cold.html">cold</a>, <a href="comfort.html">comfort</a>, <a href="concern.html">concern</a>, <a href="concernedly.html">concernedly</a>, <a href="Concerning.html">Concerning</a>, <a href="Concernment.html">Concernment</a>, <a href="consolation.html">consolation</a>, <a href="consternate.html">consternate</a>, <a href="creepy-crawlies.html">creepy-crawlies</a>, <a href="dangerous.html">dangerous</a>, <a href="defence.html">defence</a>, <a href="defence%20mechanism.html">defence mechanism</a>, <a href="defence%20reaction.html">defence reaction</a>, <a href="defense.html">defense</a>, <a href="defense%20mechanism.html">defense mechanism</a>, <a href="defense%20reaction.html">defense reaction</a>, <a href="desensitisation%20procedure.html">desensitisation procedure</a>, <a href="desensitisation%20technique.html">desensitisation technique</a>, <a href="desensitization%20procedure.html">desensitization procedure</a>, <a href="desensitization%20technique.html">desensitization technique</a>, <a href="deterrence.html">deterrence</a>, <a href="diazepam.html">diazepam</a>, <a href="disquiet.html">disquiet</a>, <a href="Disquiettude.html">Disquiettude</a>, <a href="disquietude.html">disquietude</a>, <a href="distracted.html">distracted</a>, <a href="distrait.html">distrait</a>, <a href="distress.html">distress</a>, <a href="distressful.html">distressful</a>, <a href="distressing.html">distressing</a>, <a href="disturbing.html">disturbing</a>, <a href="earnestness.html">earnestness</a>, <a href="Earnful.html">Earnful</a>, <a href="ease.html">ease</a>, <a href="easily.html">easily</a>, <a href="easy.html">easy</a>, <a href="eat.html">eat</a>, <a href="eat%20on.html">eat on</a>, <a href="ecstasy.html">ecstasy</a>, <a href="edginess.html">edginess</a>, <a href="electrical%20skin%20response.html">electrical skin response</a>, <a href="electrodermal%20response.html">electrodermal response</a>, <a href="Equanil.html">Equanil</a>, <a href="error.html">error</a>, <a href="exemption.html">exemption</a>, <a href="Fantigue.html">Fantigue</a>, <a href="Fash.html">Fash</a>, <a href="fear.html">fear</a>, <a href="Fere%20phenomenon.html">Fere phenomenon</a>, <a href="fever.html">fever</a>, <a href="Frankenstein.html">Frankenstein</a>, <a href="GAD.html">GAD</a>, <a href="galvanic%20skin%20response.html">galvanic skin response</a>, <a href="gaze.html">gaze</a>, <a href="generalized%20anxiety%20disorder.html">generalized anxiety disorder</a>, <a href="grave.html">grave</a>, <a href="grievous.html">grievous</a>, <a href="GSR.html">GSR</a>, <a href="happiness.html">happiness</a>, <a href="harassment.html">harassment</a>, <a href="Have%20one%20on%20a%20string.html">Have one on a string</a>, <a href="headache.html">headache</a>, <a href="heartsease.html">heartsease</a>, <a href="How.html">How</a>, <a href="hydroxyzine.html">hydroxyzine</a>, <a href="hydroxyzine%20hydrochloride.html">hydroxyzine hydrochloride</a>, <a href="hypochondria.html">hypochondria</a>, <a href="hypochondriasis.html">hypochondriasis</a>, <a href="In%20hot%20water.html">In hot water</a>, <a href="inconvenience.html">inconvenience</a>, <a href="indifference.html">indifference</a>, <a href="indifferent.html">indifferent</a>, <a href="inquietude.html">inquietude</a>, <a href="insecureness.html">insecureness</a>, <a href="insecurity.html">insecurity</a>, <a href="Kiaugh.html">Kiaugh</a>, <a href="life-threatening.html">life-threatening</a>, <a href="light-hearted.html">light-hearted</a>, <a href="lorazepam.html">lorazepam</a>, <a href="Meprin.html">Meprin</a>, <a href="meprobamate.html">meprobamate</a>, <a href="Miltown.html">Miltown</a>, <a href="minor%20tranquilizer.html">minor tranquilizer</a>, <a href="minor%20tranquilliser.html">minor tranquilliser</a>, <a href="minor%20tranquillizer.html">minor tranquillizer</a>, <a href="nervous.html">nervous</a>, <a href="neurosis.html">neurosis</a>, <a href="news.html">news</a>, <a href="night%20terror.html">night terror</a>, <a href="nightmare.html">nightmare</a>, <a href="objection.html">objection</a>, <a href="obscure.html">obscure</a>, <a href="obsessive-compulsive%20disorder.html">obsessive-compulsive disorder</a>, <a href="occasion.html">occasion</a>, <a href="OH.html">OH</a>, <a href="On%20the%20rack.html">On the rack</a>, <a href="oppress.html">oppress</a>, <a href="overanxiety.html">overanxiety</a>, <a href="Overcare.html">Overcare</a>, <a href="oxazepam.html">oxazepam</a>, <a href="pain.html">pain</a>, <a href="panic.html">panic</a>, <a href="panic%20disorder.html">panic disorder</a>, <a href="paranoic%20type%20schizophrenia.html">paranoic type schizophrenia</a>, <a href="paranoid%20schizophrenia.html">paranoid schizophrenia</a>, <a href="paraphrenia.html">paraphrenia</a>, <a href="paraphrenic%20schizophrenia.html">paraphrenic schizophrenia</a>, <a href="peace.html">peace</a>, <a href="peace%20of%20mind.html">peace of mind</a>, <a href="peaceful.html">peaceful</a>, <a href="peacefulness.html">peacefulness</a>, <a href="pensive.html">pensive</a>, <a href="perplex.html">perplex</a>, <a href="perturbing.html">perturbing</a>, <a href="phobia.html">phobia</a>, <a href="phobic%20disorder.html">phobic disorder</a>, <a href="phobic%20neurosis.html">phobic neurosis</a>, <a href="posttraumatic%20stress%20disorder.html">posttraumatic stress disorder</a>, <a href="Presentimental.html">Presentimental</a>, <a href="psychogalvanic%20response.html">psychogalvanic response</a>, <a href="PTSD.html">PTSD</a>, <a href="pucker.html">pucker</a>, <a href="quail%20at.html">quail at</a>, <a href="queasy.html">queasy</a>, <a href="rabies.html">rabies</a>, <a href="rack.html">rack</a>, <a href="reassured.html">reassured</a>, <a href="reassuring.html">reassuring</a>, <a href="reciprocal%20inhibition.html">reciprocal inhibition</a>, <a href="reciprocal-inhibition%20therapy.html">reciprocal-inhibition therapy</a>, <a href="recreate.html">recreate</a>, <a href="relaxed.html">relaxed</a>, <a href="relieve.html">relieve</a>, <a href="repose.html">repose</a>, <a href="repression.html">repression</a>, <a href="respiratory%20alkalosis.html">respiratory alkalosis</a>, <a href="respire.html">respire</a>, <a href="rest.html">rest</a>, <a href="rest-cure.html">rest-cure</a>, <a href="safe.html">safe</a>, <a href="scare.html">scare</a>, <a href="secure.html">secure</a>, <a href="security.html">security</a>, <a href="security%20blanket.html">security blanket</a>, <a href="sedation.html">sedation</a>, <a href="sedative-hypnotic.html">sedative-hypnotic</a>, <a href="sedative-hypnotic%20drug.html">sedative-hypnotic drug</a>, <a href="Serax.html">Serax</a>, <a href="serenity.html">serenity</a>, <a href="serious.html">serious</a>, <a href="severe.html">severe</a>, <a href="sinking.html">sinking</a>, <a href="soft.html">soft</a>, <a href="solace.html">solace</a>, <a href="solicitous.html">solicitous</a>, <a href="solicitousness.html">solicitousness</a>, <a href="solicitude.html">solicitude</a>, <a href="soothing.html">soothing</a>, <a href="suffer.html">suffer</a>, <a href="Surmontil.html">Surmontil</a>, <a href="suspense.html">suspense</a>, <a href="systematic%20desensitisation.html">systematic desensitisation</a>, <a href="systematic%20desensitization.html">systematic desensitization</a>, <a href="Tarchanoff%20phenomenon.html">Tarchanoff phenomenon</a>, <a href="terror.html">terror</a>, <a href="thought.html">thought</a>, <a href="To%20breathe%20again.html">To breathe again</a>, <a href="To%20lie%20at%20the%20heart.html">To lie at the heart</a>, <a href="trimipramine.html">trimipramine</a>, <a href="trouble.html">trouble</a>, <a href="troublesome.html">troublesome</a>, <a href="troublesomeness.html">troublesomeness</a>, <a href="troubling.html">troubling</a>, <a href="Tyne.html">Tyne</a>, <a href="Unanxious.html">Unanxious</a>, <a href="unburden.html">unburden</a>, <a href="unconcern.html">unconcern</a>, <a href="unconcernedly.html">unconcernedly</a>, <a href="Under%20the%20harrow.html">Under the harrow</a>, <a href="undergo.html">undergo</a>, <a href="undisguised.html">undisguised</a>, <a href="uneasily.html">uneasily</a>, <a href="uneasiness.html">uneasiness</a>, <a href="uneasy.html">uneasy</a>, <a href="unquiet.html">unquiet</a>, <a href="unreassuring.html">unreassuring</a>, <a href="Unsolicitous.html">Unsolicitous</a>, <a href="urine.html">urine</a>, <a href="vaginismus.html">vaginismus</a>, <a href="Valium.html">Valium</a>, <a href="vexation.html">vexation</a>, <a href="Vistaril.html">Vistaril</a>, <a href="weighty.html">weighty</a>, <a href="wonder.html">wonder</a>, <a href="worriment.html">worriment</a>, <a href="worrisome.html">worrisome</a>, <a href="Worrit.html">Worrit</a>, <a href="worry.html">worry</a>, <a href="worrying.html">worrying</a>, <a href="wretched.html">wretched</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qnxiety, wnxiety, snxiety, znxiety, abxiety, ahxiety, ajxiety, amxiety, anziety, ansiety, andiety, anciety, anxuety, anxjety, anxkety, anxoety, anxiwty, anxisty, anxidty, anxirty, anxiery, anxiefy, anxiegy, anxieyy, anxiett, anxietg, anxieth, anxietu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,516 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>esteem</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">esteem</span> <span class="exp">look on as or consider</span> <span class="quot">"she looked on this affair as a joke","He thinks of himself as a brilliant musician","He is reputed to be intelligent"</span></li><li><span class="tSpeech">v</span> <span class="term">esteem</span> <span class="exp">regard highly; think much of</span> <span class="quot">"I respect his judgement","We prize his creativity"</span></li><li><span class="tSpeech">n</span> <span class="term">esteem</span> <span class="exp">an attitude of admiration or esteem</span> <span class="quot">"she lost all respect for him"</span></li><li><span class="tSpeech">n</span> <span class="term">esteem</span> <span class="exp">a feeling of delighted approval and liking</span> </li><li><span class="tSpeech">n</span> <span class="term">esteem</span> <span class="exp">the condition of being honored (esteemed or respected or well regarded)</span> <span class="quot">"it is held in esteem","a man who has earned high regard"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										When it originally appeared in 1886 - Coca Cola was billed as an "Esteemed Brain Tonic and Intellectual Beverage".									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Esteem</span> <span class="exp">Estimation; opinion of merit or value; hence, valuation; reckoning; price.</span> <span class="wuQuot">"Most dear in the esteem And poor in worth!"</span><span class="wuQuot">"I will deliver you, in ready coin,<br>
+The full and dear'st esteem of what you crave."</span></li><li><span class="term">Esteem</span> <span class="exp">High estimation or value; great regard; favorable opinion, founded on supposed worth.</span> <span class="wuQuot">"Nor should thy prowess want praise and esteem ."</span></li><li><span class="tSpeech">v. i</span> <span class="term">Esteem</span> <span class="exp">To form an estimate; to have regard to the value; to consider.</span> <span class="wuQuot">"We ourselves esteem not of that obedience, or love, or gift, which is of force."</span></li><li><span class="term">Esteem</span> <span class="exp">To set a high value on; to prize; to regard with reverence, respect, or friendship.</span> <span class="wuQuot">"Will he esteem thy riches?"</span><span class="wuQuot">"You talk kindlier: we esteem you for it."</span></li><li><span class="term">Esteem</span> <span class="exp">To set a value on; to appreciate the worth of; to estimate; to value; to reckon.</span> <span class="wuQuot">"Then he forsook God, which made him, and lightly esteemed the Rock of his salvation."</span><span class="wuQuot">"Thou shouldst (gentle reader esteem his censure and authority to be of the more weighty credence."</span><span class="wuQuot">"Famous men, -- whose scientific attainments were esteemed hardly less than supernatural."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">esteem</span> <span class="exp">To estimate; value; set a value on, whether high or low; rate.</span> </li><li><span class="term">esteem</span> <span class="exp">Specifically To set a high value on; prize; regard favorably, especially (of persons) with reverence, respect, or friendship.</span> </li><li><span class="term">esteem</span> <span class="exp">To consider; regard; reckon; think.</span> </li><li><span class="term">esteem</span> <span class="exp">Synonyms Value, Prize, Esteem, etc. (see appreciate); to respect, revere.</span> </li><li><span class="term">esteem</span> <span class="exp">To think, deem, consider, hold, account.</span> </li><li><span class="term">esteem</span> <span class="exp">To regard or consider value; entertain a feeling of esteem, liking, respect, etc.: with of.</span> </li><li><span class="tSpeech">n</span> <span class="term">esteem</span> <span class="exp">Estimation; opinion or judgment of merit or demerit.</span> </li><li><span class="tSpeech">n</span> <span class="term">esteem</span> <span class="exp">Specifically Favorable opinion, formed upon a belief in tho merit of its object; respect; regard; liking.</span> </li><li><span class="tSpeech">n</span> <span class="term">esteem</span> <span class="exp">The character which commands consideration or regard; value; worth.</span> </li><li><span class="tSpeech">n</span> <span class="term">esteem</span> <span class="exp">Valuation; price.</span> </li><li><span class="tSpeech">n</span> <span class="term">esteem</span> <span class="exp">= Syn 1 and Estimate, Esteem, Estimation, Respect, Regard; honor, admiration, reverence, veneration. Estimate, both as noun and as verb, supposes an exercise of the judgment in determining external things, as amount, weight, size, value; or internal things, as intellect, excellence. It may be applied to that which is unfavorable: as, my estimate of the man was not high. Esteem as a noun has commonly the favorable meanings of the verb; it is a moral sentiment made up of respect and attachment, the result of the mental process of reckoning up the merits or useful qualities of a person: as, he is held in very general esteem. Estimation has covered the meanings of both estimate and esteem. Respect is commonly the result of admiration and approbation: as, he is entitled to our respect for his abilities and his probity; it omits, sometimes pointedly, the attachment expressed in esteem. Regard may include less admiration than respect and be not quite so strong as esteem, but its meaning is not closely fixed in quality or degree.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">v.t</span> <span class="term">Esteem</span> <span class="exp"><span class="itl">es-tēm′</span> to set a high estimate or value on: to regard with respect or friendship: to consider or think</span> </li><li><span class="tSpeech">n</span> <span class="term">Esteem</span> <span class="exp">high estimation or value: favourable regard</span> </li><li><span class="tSpeech">n</span> <span class="term">Esteem</span> <span class="exp">reputation: a valuing in the mind: judgment or opinion of the worth or size of anything: a rough calculation: estimation</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Paine</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Paine.jpg" alt="Thomas%20Paine">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“That which we obtain too easily, we esteem too lightly.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Allenbaugh</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Eric Allenbaugh">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Yes, there are times when something is legitimately not our fault. Blaming others, however, keeps us in a stuck state and is ultimately rough on our own self-esteem.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Irving Layton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Irving Layton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Conscience: self-esteem with a halo.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Wolfgang Von Goethe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Wolfgang%20Von%20Goethe.jpg" alt="Johann%20Wolfgang%20Von%20Goethe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He who does not think much of himself is much more esteemed than he imagines.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">French Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="French Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Speak little and well if you wish to be esteemed a person of merit.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Barbara Sher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Barbara%20Sher.jpg" alt="Barbara%20Sher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Resentment is weak and lowers your self-esteem.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">estimer</span>, L. <span class="wUets">aestimare</span>, <span class="wUets">aestumare</span>, to value, estimate; perh. akin to Skr. <span class="wUets">ish</span>, to seek, strive, and E. <span class="wUets">ask</span>,. Cf. <span class="wUer">Aim</span> <span class="wUer">Estimate</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Its attainment was esteemed the highest exertion of human intellect.
+					</div>
+					<div class="uAuthor">
+						"The Mysteries of All Nations" by <span>James Grant</span>					</div>
+										<div class="usage">
+						Slaves were not esteemed as persons, but as things, and might be transferred from one owner to another, like any other effects.
+					</div>
+					<div class="uAuthor">
+						"Roman Antiquities, and Ancient Mythology" by <span>Charles K. Dillaway</span>					</div>
+										<div class="usage">
+						As for the exile, Grouski, I always esteemed him a very excellent gentleman.
+					</div>
+					<div class="uAuthor">
+						"An Outcast" by <span>F. Colburn Adams</span>					</div>
+										<div class="usage">
+						I will do all, everything, in order to deserve hereafter your esteem and your friendship.
+					</div>
+					<div class="uAuthor">
+						"The Home" by <span>Fredrika Bremer</span>					</div>
+										<div class="usage">
+						Yet I esteem him highly, and suppose that hitherto he had esteemed me.
+					</div>
+					<div class="uAuthor">
+						"The Writings of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						He had not made any friends whom he could esteem.
+					</div>
+					<div class="uAuthor">
+						"Clayhanger" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						The seeds, which are highly esteemed, are used for flavouring chocolate and other purposes.
+					</div>
+					<div class="uAuthor">
+						"On the Banks of the Amazon" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Under such circumstances to dole away time which has no value to him, and to cheat hunger and want, is esteemed a trait of philosophy.
+					</div>
+					<div class="uAuthor">
+						"The Myth of Hiawatha, and Other Oral Legends, Mythologic and Allegoric, of the North American Indians" by <span>Henry R. Schoolcraft</span>					</div>
+										<div class="usage">
+						Much esteemed in England.
+					</div>
+					<div class="uAuthor">
+						"The Field and Garden Vegetables of America" by <span>Fearing Burr</span>					</div>
+										<div class="usage">
+						Still, I honor and esteem them, and such aid as I can bring them in their straits, shall be very gladly theirs.
+					</div>
+					<div class="uAuthor">
+						"Aurelian" by <span>William Ware</span>					</div>
+										<div class="usage">
+						These, then, are the instruments which are so highly esteemed, and which form one of the chief links in the Violin family.
+					</div>
+					<div class="uAuthor">
+						"The Violin" by <span>George Hart</span>					</div>
+										<div class="usage">
+						The high esteem I had for myself made me find faults in everyone else of my own sex.
+					</div>
+					<div class="uAuthor">
+						"The Autobiography of Madame Guyon" by <span>Jeanne Marie Bouvier de La Motte Guyon</span>					</div>
+										<div class="usage">
+						It is certain that as a man and a judge he is generally esteemed.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						But perhaps you will not esteem it an object, and I will not press it.
+					</div>
+					<div class="uAuthor">
+						"The Biglow Papers" by <span>James Russell Lowell</span>					</div>
+										<div class="usage">
+						Privileges easily come to be esteemed as rights.
+					</div>
+					<div class="uAuthor">
+						"My Daily Meditation for the Circling Year" by <span>John Henry Jowett</span>					</div>
+										<div class="usage">
+						The element of esteem for tools is sometimes very great.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						Those who professed such a feeling were held in no great esteem.
+					</div>
+					<div class="uAuthor">
+						"The Life of Napoleon Bonaparte" by <span>William Milligan Sloane</span>					</div>
+										<div class="usage">
+						He was esteemed and loved as few have been.
+					</div>
+					<div class="uAuthor">
+						"Life and Work in Benares and Kumaon, 1839-1877" by <span>James Kennedy</span>					</div>
+										<div class="usage">
+						In Miss Keeldar's acquaintance I esteem myself most fortunate.
+					</div>
+					<div class="uAuthor">
+						"Shirley" by <span>Charlotte Brontë</span>					</div>
+										<div class="usage">
+						She is hurt, as you would be for William; but she loves and esteems you with all her heart.
+					</div>
+					<div class="uAuthor">
+						"The Complete Project Gutenberg Works of Jane Austen" by <span>Jane Austen</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Thy sweet face I esteem indeed,<br>
+So modest and so kind;<br>
+Its presence I forever need,<br>
+May I call that face mine?
+							<div class="poet">"New Year's Greeting" by <span>Frank Barbour Coffin</span></div>
+						</div>
+											<div class="poemQuote">
+							Riches I hold in light esteem<br>
+And Love I laugh to scorn<br>
+And lust of Fame was but a dream<br>
+That vanished with the morn–
+							<div class="poet">"Riches I hold in light esteem " by <span>Emily Jane Bronte</span></div>
+						</div>
+											<div class="poemQuote">
+							Riches I hold in light esteem,<br>
+And love I laugh to scorn;<br>
+And lust of fame was but a dream<br>
+That vanish'd with the morn:
+							<div class="poet">"The Old Stoic" by <span>Emily Jane Bronte</span></div>
+						</div>
+											<div class="poemQuote">
+							Lord, I esteem thy judgments right,<br>
+And all thy statutes just;<br>
+Thence I maintain a constant fight<br>
+With every flatt'ring lust.
+							<div class="poet">"Psalm 119  part 6" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Thy pleasing ways were my delight,<br>
+Thy toys I still esteem;<br>
+I've clasped thee in my arms each night,<br>
+But now it's like a dream.
+							<div class="poet">"An Elegy On The Death Of A Young Child, (That Died November 23rd, 1827.)" by <span>Joseph Hodgson</span></div>
+						</div>
+											<div class="poemQuote">
+							Fairnesse to him is no pleasure,<br>
+If in other then his love;<br>
+Nor can esteeme that a treasure,<br>
+Which in her smiles doth not move.
+							<div class="poet">"60" by <span>Mary Wroth</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Bullies lash out because they have low self- esteem .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/The-Culture/Family/2012/0912/Top-5-bullying-myths-What-you-don-t-know-about-bullying/Bullies-lash-out-because-they-have-low-self-esteem.%20" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Stars blame tweets on rehab, low self esteem even attempted suicide.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/entertainment/2012/09/06/dark-side-twitter-stars-blame-tweets-on-rehab-low-self-esteem-even-attempted/print" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Low self esteem , rehab, and even suicide attempts have been blamed on the access that the social network gives "fans" to stars.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/entertainment/2012/09/06/dark-side-twitter-stars-blame-tweets-on-rehab-low-self-esteem-even-attempted/print" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Money $marts: The wealthy have plenty of self esteem to spare.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.naplesnews.com/news/2012/aug/31/money-marts-the-wealthy-have-plenty-of-self-to/" target="_blank" rel="external nofollow">naplesnews.com</a>
+					</div>
+										<div class="usage">
+						Spending time with Dad good for teen self- esteem .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2012/08/24/living/dads-and-self-esteem/index.html?hpt=hp_bn11" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Parents TV's Tony Martinez shares tips for building your child's self esteem for healthy growth and development.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.parents.com/videos/v/61652122/child-s-self-esteem.htm" target="_blank" rel="external nofollow">parents.com</a>
+					</div>
+										<div class="usage">
+						AERCO Introduces Latest Generation of Esteem 399 Wall Hung Boilers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://universitybusiness.com/news/aerco-introduces-latest-generation-esteem-399-wall-hung-boilers" target="_blank" rel="external nofollow">universitybusiness.com</a>
+					</div>
+										<div class="usage">
+						The campaign is centered around an online "Sing For Self- Esteem " singing competition, whereby budding artists submit a video recording of their interpretation of the newly penned self- esteem anthem.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.drugstorenews.com/article/bellaboo-skin-care-ulta-kick-sing-self-esteem-campaign" target="_blank" rel="external nofollow">drugstorenews.com</a>
+					</div>
+										<div class="usage">
+						Local resident's nonprofit helps kids build values, self- esteem .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.delmartimes.net/2012/06/29/local-resident%E2%80%99s-nonprofit-helps-kids-build-values-self-esteem/" target="_blank" rel="external nofollow">delmartimes.net</a>
+					</div>
+										<div class="usage">
+						Local resident Nancie Hochberg is re-launching her nonprofit Deeds From the Heart, an organization that seeks to build values and self- esteem in kids and teens ages 4 through 18.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.delmartimes.net/2012/06/29/local-resident%E2%80%99s-nonprofit-helps-kids-build-values-self-esteem/" target="_blank" rel="external nofollow">delmartimes.net</a>
+					</div>
+										<div class="usage">
+						The Girl Scout/Dove Self- Esteem Program helps girls feel better about themselves by helping them develop the skills necessary to face life's challenges.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theantlersamerican.com/content/girl-scout-dove%C2%AE-self-esteem-program-%E2%80%98uniquely-me%E2%80%99-comes-antlers" target="_blank" rel="external nofollow">theantlersamerican.com</a>
+					</div>
+										<div class="usage">
+						In a commencement speech that eviscerated the self- esteem movement, Massachusetts high school graduates were told the welcome truth that praise must be earned.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/opinion/editorials/la-ed-speech-graduation-mccullough-20120612,0,4002153.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Today's Question: What branch of government do you hold in the highest esteem .
+					</div>
+					<div class="uAuthor">
+						<a href="http://minnesota.publicradio.org/collections/special/columns/todays-question/archive/2012/06/what-branch-of-government-do-you-hold-in-the-highest-esteem.shtml" target="_blank" rel="external nofollow">minnesota.publicradio.org</a>
+					</div>
+										<div class="usage">
+						Watching TV May Boost the Self- Esteem of White Boys.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/health/archive/2012/06/study-of-the-day-watching-tv-may-boost-the-self-esteem-of-white-boys/258096/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						TV viewing can raise white boys' self-confidence, a study says, but harm the self- esteem of girls and African-American boys.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2012/06/01/showbiz/tv/tv-kids-self-esteem/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Natara jan has written the foreword to this monograph. I have great pleasure in dedicating this monograph to two of the wonderful scientists I have met and whom I hold in very high esteem: Prof. 
+					</div>
+					<div class="uAuthor">
+						Monte Carlo: Basics
+					</div>
+										<div class="usage">
+						Also, a tremendous amount of thanks go to the other esteemed members of my thesis advisory committee: Dr. 
+					</div>
+					<div class="uAuthor">
+						Variational Principles in General Relativity
+					</div>
+										<div class="usage">
+						Iwatsuka in 1985 and by J. E. M¨uller in 1992, which are greatly esteemed, in particular for providing a basic understanding of transport properties in certain quasi-two-dimensional semiconductor heterostructures sub jected to non-random inhomogeneous magnetic ﬁelds. 
+					</div>
+					<div class="uAuthor">
+						Ballistic transport in random magnetic fields with anisotropic long-ranged correlations
+					</div>
+										<div class="usage">
+						While I ho ld Bennett in a high esteem, in my view this particular paper is deficient in some respects. 
+					</div>
+					<div class="uAuthor">
+						Defining Complexity: A Commentary to a paper by Charles H. Bennett
+					</div>
+										<div class="usage">
+						In 1958 I moved to the Hamburg Observatory where both astrometry and astrophysics were held in high esteem; Otto Heckmann was the powerful director. 
+					</div>
+					<div class="uAuthor">
+						Astrometry during the past 2000 years
+					</div>
+										<div class="usage">
+						Marriage: Among the ‘reproductive age group’ of PWDs (1835 years), it was found that 60 percent of them were unmarried, which reflects the low level of social acceptance and high level of social stigma coupled with lack of self esteem. 
+					</div>
+					<div class="uAuthor">
+						Mathematical Analysis of the Problems faced by the People With Disabilities (PWDs)
+					</div>
+										<div class="usage">
+						Self image - many did not have self image. In other words they lack self esteem. 
+					</div>
+					<div class="uAuthor">
+						Mathematical Analysis of the Problems faced by the People With Disabilities (PWDs)
+					</div>
+										<div class="usage">
+						Government with the help from professionals should take proper steps to make these PWDs to live with self-esteem and feel that they are infact an integral part of the society. 
+					</div>
+					<div class="uAuthor">
+						Mathematical Analysis of the Problems faced by the People With Disabilities (PWDs)
+					</div>
+										<div class="usage">
+						Nothing can be more welcome to me than your gracious proposal. I have all your works in my library and I esteem them very much. 
+					</div>
+					<div class="uAuthor">
+						John Ellard Gore: of immensity and minuteness
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="look on as or consider"><a href="think%20of.html">think of</a>, <a href="regard%20as.html">regard as</a>, <a href="look%20upon.html">look upon</a>, <a href="look%20on.html">look on</a>, <a href="take%20to%20be.html">take to be</a>, </div><div class="synGroup" title="regard highly; think much of"><a href="value.html">value</a>, <a href="prize.html">prize</a>, <a href="prise.html">prise</a>, </div><div class="synGroup" title="an attitude of admiration or esteem"><a href="regard.html">regard</a>, </div><div class="synGroup" title="the condition of being honored (esteemed or respected or well regarded)"><a href="regard.html">regard</a>, <a href="respect.html">respect</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="disesteem.html">disesteem</a>, <a href="disrespect.html">disrespect</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="attitude.html">attitude</a>, <a href="believe.html">believe</a>, <a href="conceive.html">conceive</a>, <a href="consider.html">consider</a>, <a href="honor.html">honor</a>, <a href="honour.html">honour</a>, <a href="laurels.html">laurels</a>, <a href="liking.html">liking</a>, <a href="mental%20attitude.html">mental attitude</a>, <a href="reckon.html">reckon</a>, <a href="regard.html">regard</a>, <a href="see.html">see</a>, <a href="think.html">think</a>, <a href="view.html">view</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="anglophilia.html">anglophilia</a>, <a href="admire.html">admire</a>, <a href="estimate.html">estimate</a>, <a href="estimation.html">estimation</a>, <a href="fear.html">fear</a>, <a href="hero%20worship.html">hero worship</a>, <a href="look%20up%20to.html">look up to</a>, <a href="philhellenism.html">philhellenism</a>, <a href="philogyny.html">philogyny</a>, <a href="revere.html">revere</a>, <a href="reverence.html">reverence</a>, <a href="stature.html">stature</a>, <a href="think%20the%20world%20of.html">think the world of</a>, <a href="venerate.html">venerate</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="admire.html">admire</a>, <a href="respect.html">respect</a>, <a href="respecter.html">respecter</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abasement.html">abasement</a>, <a href="account.html">account</a>, <a href="accredit.html">accredit</a>, <a href="Addeem.html">Addeem</a>, <a href="admirable.html">admirable</a>, <a href="admirably.html">admirably</a>, <a href="admiration.html">admiration</a>, <a href="admire.html">admire</a>, <a href="adoration.html">adoration</a>, <a href="adore.html">adore</a>, <a href="adulation.html">adulation</a>, <a href="affection.html">affection</a>, <a href="aim.html">aim</a>, <a href="alienate.html">alienate</a>, <a href="amour%20propre.html">amour propre</a>, <a href="anchovy.html">anchovy</a>, <a href="appreciate.html">appreciate</a>, <a href="authority.html">authority</a>, <a href="Autotheism.html">Autotheism</a>, <a href="Behight.html">Behight</a>, <a href="bless.html">bless</a>, <a href="Bloated.html">Bloated</a>, <a href="captivate.html">captivate</a>, <a href="captivating.html">captivating</a>, <a href="cheap.html">cheap</a>, <a href="commendation.html">commendation</a>, <a href="compliment.html">compliment</a>, <a href="consider.html">consider</a>, <a href="count.html">count</a>, <a href="credit.html">credit</a>, <a href="creditable.html">creditable</a>, <a href="Crystallomancy.html">Crystallomancy</a>, <a href="dear.html">dear</a>, <a href="dearness.html">dearness</a>, <a href="decry.html">decry</a>, <a href="deem.html">deem</a>, <a href="deference.html">deference</a>, <a href="deign.html">deign</a>, <a href="depreciate.html">depreciate</a>, <a href="Deprisure.html">Deprisure</a>, <a href="dignified.html">dignified</a>, <a href="dignity.html">dignity</a>, <a href="disaffect.html">disaffect</a>, <a href="Disappreciate.html">Disappreciate</a>, <a href="discredit.html">discredit</a>, <a href="disesteem.html">disesteem</a>, <a href="dishonorable.html">dishonorable</a>, <a href="disreputable.html">disreputable</a>, <a href="disreputable%20person.html">disreputable person</a>, <a href="disrepute.html">disrepute</a>, <a href="Disrespectable.html">Disrespectable</a>, <a href="downgrade.html">downgrade</a>, <a href="Easter.html">Easter</a>, <a href="ego.html">ego</a>, <a href="egotism.html">egotism</a>, <a href="enjoy.html">enjoy</a>, <a href="Equipensate.html">Equipensate</a>, <a href="Esteemable.html">Esteemable</a>, <a href="estimable.html">estimable</a>, <a href="Estimableness.html">Estimableness</a>, <a href="estimate.html">estimate</a>, <a href="estimation.html">estimation</a>, <a href="excellently.html">excellently</a>, <a href="Existimation.html">Existimation</a>, <a href="fatuity.html">fatuity</a>, <a href="favorite.html">favorite</a>, <a href="fellow.html">fellow</a>, <a href="firmness.html">firmness</a>, <a href="friend.html">friend</a>, <a href="friendship.html">friendship</a>, <a href="good.html">good</a>, <a href="greatness.html">greatness</a>, <a href="Greekling.html">Greekling</a>, <a href="have.html">have</a>, <a href="Have%20at%20heart.html">Have at heart</a>, <a href="high.html">high</a>, <a href="hold.html">hold</a>, <a href="Hold%20in%20estimation.html">Hold in estimation</a>, <a href="honor.html">honor</a>, <a href="honorable.html">honorable</a>, <a href="honour.html">honour</a>, <a href="humble.html">humble</a>, <a href="humiliation.html">humiliation</a>, <a href="idiolatry.html">idiolatry</a>, <a href="ignoble.html">ignoble</a>, <a href="indignity.html">indignity</a>, <a href="inner.html">inner</a>, <a href="Jovinianist.html">Jovinianist</a>, <a href="judge.html">judge</a>, <a href="LET.html">LET</a>, <a href="look.html">look</a>, <a href="love.html">love</a>, <a href="lowly.html">lowly</a>, <a href="Lucern.html">Lucern</a>, <a href="magnify.html">magnify</a>, <a href="make.html">make</a>, <a href="Make%20of.html">Make of</a>, <a href="minstrel.html">minstrel</a>, <a href="Misesteem.html">Misesteem</a>, <a href="modesty.html">modesty</a>, <a href="odor.html">odor</a>, <a href="opinion.html">opinion</a>, <a href="pedestal.html">pedestal</a>, <a href="postponement.html">postponement</a>, <a href="praise.html">praise</a>, <a href="precious.html">precious</a>, <a href="Pre%C3%ABxistimation.html">Preëxistimation</a>, <a href="prefer.html">prefer</a>, <a href="prepossessing.html">prepossessing</a>, <a href="price.html">price</a>, <a href="pride.html">pride</a>, <a href="prize.html">prize</a>, <a href="proud.html">proud</a>, <a href="proudly.html">proudly</a>, <a href="puff.html">puff</a>, <a href="purr.html">purr</a>, <a href="raise.html">raise</a>, <a href="rank.html">rank</a>, <a href="reckon.html">reckon</a>, <a href="reckoning.html">reckoning</a>, <a href="recommendation.html">recommendation</a>, <a href="regard.html">regard</a>, <a href="rehabilitate.html">rehabilitate</a>, <a href="rehabilitation.html">rehabilitation</a>, <a href="reputable.html">reputable</a>, <a href="reputation.html">reputation</a>, <a href="repute.html">repute</a>, <a href="respect.html">respect</a>, <a href="respectable.html">respectable</a>, <a href="respects.html">respects</a>, <a href="Revere.html">Revere</a>, <a href="reverence.html">reverence</a>, <a href="reverend.html">reverend</a>, <a href="riches.html">riches</a>, <a href="salvo.html">salvo</a>, <a href="self-esteem.html">self-esteem</a>, <a href="Self-estimation.html">Self-estimation</a>, <a href="self-important.html">self-important</a>, <a href="self-pride.html">self-pride</a>, <a href="self-regard.html">self-regard</a>, <a href="self-respect.html">self-respect</a>, <a href="self-respectful.html">self-respectful</a>, <a href="self-respecting.html">self-respecting</a>, <a href="self-righteous.html">self-righteous</a>, <a href="self-worth.html">self-worth</a>, <a href="Set%20by.html">Set by</a>, <a href="Set%20little%20by.html">Set little by</a>, <a href="Set%20much%20by.html">Set much by</a>, <a href="solid.html">solid</a>, <a href="Steem.html">Steem</a>, <a href="superbia.html">superbia</a>, <a href="suspect.html">suspect</a>, <a href="tender.html">tender</a>, <a href="testimonial.html">testimonial</a>, <a href="think.html">think</a>, <a href="think%20the%20world%20of.html">think the world of</a>, <a href="To%20account%20of.html">To account of</a>, <a href="To%20look%20on.html">To look on</a>, <a href="To%20make%20account%20of.html">To make account of</a>, <a href="To%20set%20by.html">To set by</a>, <a href="To%20think%20much.html">To think much</a>, <a href="To%20think%20much%20of.html">To think much of</a>, <a href="To%20think%20well%20of.html">To think well of</a>, <a href="Trapa.html">Trapa</a>, <a href="tribute.html">tribute</a>, <a href="undervalue.html">undervalue</a>, <a href="upgrade.html">upgrade</a>, <a href="upstanding.html">upstanding</a>, <a href="valuable.html">valuable</a>, <a href="value.html">value</a>, <a href="valued.html">valued</a>, <a href="vile.html">vile</a>, <a href="water.html">water</a>, <a href="way.html">way</a>, <a href="weigh.html">weigh</a>, <a href="Well-graced.html">Well-graced</a>, <a href="while.html">while</a>, <a href="win.html">win</a>, <a href="wonder.html">wonder</a>, <a href="worship.html">worship</a>, <a href="worth.html">worth</a>, <a href="wrestling.html">wrestling</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wsteem, ssteem, dsteem, rsteem, eateem, ewteem, edteem, exteem, ezteem, eateem, esreem, esfeem, esgeem, esyeem, estwem, estsem, estdem, estrem, estewm, estesm, estedm, esterm, esteen, esteej, esteek
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

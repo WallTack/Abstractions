@@ -1,0 +1,567 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>risk</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">risk</span> <span class="exp">take a risk in the hope of a favorable outcome</span> <span class="quot">"When you buy these stocks you are gambling"</span></li><li><span class="tSpeech">v</span> <span class="term">risk</span> <span class="exp">expose to a chance of loss or damage</span> <span class="quot">"We risked losing a lot of money in this venture","Why risk your life?","She laid her job on the line when she told the boss that he was wrong"</span></li><li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">a venture undertaken without regard to possible loss or injury</span> <span class="quot">"he saw the rewards but not the risks of crime","there was a danger he would do the wrong thing"</span></li><li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">the probability of being exposed to an infectious agent</span> </li><li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">the probability of becoming infected given that exposure to an infectious agent has occurred</span> </li><li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">a source of danger; a possibility of incurring loss or misfortune</span> <span class="quot">"drinking alcohol is a health hazard"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The risk of cardiovascular disease is twice as high in women that snore regularly compared to women who do not snore									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Risk</span> <span class="exp"><span class="wuFld">(Com)</span> Hazard of loss; liabillity to loss in property.</span> </li><li><span class="term">Risk</span> <span class="exp">Hazard; danger; peril; exposure to loss, injury, or destruction.</span> <span class="wuQuot">"The imminent and constant risk of assassination, a risk which has shaken very strong nerves."</span></li><li><span class="term">Risk</span> <span class="exp">To expose to risk, hazard, or peril; to venture; as, to <span class="wUex">risk</span> goods on board of a ship; to <span class="wUex">risk</span> one's person in battle; to <span class="wUex">risk</span> one's fame by a publication.</span> </li><li><span class="term">Risk</span> <span class="exp">To incur the risk or danger of; as, to <span class="wUex">risk</span> a battle.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Research has indicated that a tie that is on too tight can increase the risk of glaucoma in men
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">Hazard; danger; peril; exposure to mischance or harm; venture: as, at the risk of one's life; at the risk of contagion. Common in the phrase to run a (the) risk, to incur hazard; take the chance of failure or disaster.</span> </li><li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">In com.: The hazard of loss of ship, goods, or other property.</span> </li><li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">The degree of hazard or danger upon which the premiums of insurance are calculated.</span> </li><li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">Hence, by extension, insurance obligation: as, our company has no risks in that city. Synonyms Exposure, Venture, Risk, Hazard, jeopardy, peril. The first four words are in the order of strength. They imply voluntary action more often than danger, etc. (see danger): as, he ran a great risk; it was a bold venture, involving the exposure of his health and the hazard of his fortunes. They generally imply also that the chances are unfavorable rather than favorable. Exposure is, literally, a putting out, as into a dangerous place; the word is geuerally followed by that to which one is exposed: as, exposure to attack.</span> </li><li><span class="term">risk</span> <span class="exp">To hazard; expose to the chance of injury or loss.</span> </li><li><span class="term">risk</span> <span class="exp">To venture upon; take the chances of: as, to risk a surgical operation.</span> </li><li><span class="term">risk</span> <span class="exp">Synonyms To peril, jeopard, stake. See risk, n.</span> </li><li><span class="tSpeech">n</span> <span class="term">risk</span> <span class="exp">Same as reesk and risp.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										People who meet their calcium need reduce their risk of developing kidney stones
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Risk</span> <span class="exp"><span class="itl">risk</span> hazard: chance of loss or injury</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Risk</span> <span class="exp">to expose to hazard: to venture, to take the chance of</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Millard Drexler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Millard Drexler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You can't run a business without taking risks.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Herodotus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Herodotus.jpg" alt="Herodotus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Great deeds are usually wrought at great risks.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Trammell Crow</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Trammell Crow">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There's as much risk in doing nothing as in doing something.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Muhammad Ali</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Muhammad%20Ali.jpg" alt="Muhammad%20Ali">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He who is not courageous enough to take risks will accomplish nothing in life.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Warren Buffett</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Warren%20Buffett.jpg" alt="Warren%20Buffett">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Risk comes from not knowing what you're doing.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Pierre Corneille</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Pierre%20Corneille.jpg" alt="Pierre%20Corneille">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To win without risk is to triumph without glory.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">risque</span>,; cf. It. <span class="wUets">risco</span>, <span class="wUets">risico</span>, <span class="wUets">rischio</span>, Pg. <span class="wUets">risco</span>, Sp. <span class="wUets">riesgo</span>, and also Sp. <span class="wUets">risco</span>, a steep rock; all probably fr. L. <span class="wUets">resceare</span>, to cut off; pref. <span class="wUets">re-</span>, re- + <span class="wUets">secare</span>, to cut; -- the word having been probably first used among sailors. See <span class="wUer">Section</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						But whatever may be the result the individual, who is thus a spectator at a distance, runs no personal risks.
+					</div>
+					<div class="uAuthor">
+						"Famous Sea Fights" by <span>John Richard Hale</span>					</div>
+										<div class="usage">
+						I shouldn't like to risk going near him.
+					</div>
+					<div class="uAuthor">
+						"The Peril Finders" by <span>George Manville Fenn</span>					</div>
+										<div class="usage">
+						I'd hev risked my life an' risked it mighty close, to hev seed that scene.
+					</div>
+					<div class="uAuthor">
+						"The Keepers of the Trail" by <span>Joseph A. Altsheler</span>					</div>
+										<div class="usage">
+						They, therefore, wisely resolved not to risk such an accident, but to "hug the shore," though it made their voyage longer.
+					</div>
+					<div class="uAuthor">
+						"Popular Adventure Tales" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						As it happened, the risks that must be faced were numerous.
+					</div>
+					<div class="uAuthor">
+						"Prescott of Saskatchewan" by <span>Harold Bindloss</span>					</div>
+										<div class="usage">
+						He could at any rate afford to take more risks.
+					</div>
+					<div class="uAuthor">
+						"The Creators" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						So termed from the risk in such frail craft.
+					</div>
+					<div class="uAuthor">
+						"The Sailor's Word-Book" by <span>William Henry Smyth</span>					</div>
+										<div class="usage">
+						And so she had resolved to risk all her happiness upon her conviction of his faithfulness.
+					</div>
+					<div class="uAuthor">
+						"The Bertrams" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Better put it off for another time than to run any risk.
+					</div>
+					<div class="uAuthor">
+						"Condemned as a Nihilist" by <span>George Alfred Henty</span>					</div>
+										<div class="usage">
+						The other is that you will take care of yourself, run no risks, and do nothing rash while we are away.
+					</div>
+					<div class="uAuthor">
+						"The Mystery of the Green Ray" by <span>William Le Queux</span>					</div>
+										<div class="usage">
+						It's no fun running the risk of being torpedoed by our own Submarines.
+					</div>
+					<div class="uAuthor">
+						"The Submarine Hunters" by <span>Percy F. Westerman</span>					</div>
+										<div class="usage">
+						I think I'm forgetting when I risk my neck getting hold of some half-forgotten Rembrandt.
+					</div>
+					<div class="uAuthor">
+						"The Pagan Madonna" by <span>Harold MacGrath</span>					</div>
+										<div class="usage">
+						But it was a fearful risk, man, a fearful risk!
+					</div>
+					<div class="uAuthor">
+						"In Her Own Right" by <span>John Reed Scott</span>					</div>
+										<div class="usage">
+						I ran no great risk in saving you.
+					</div>
+					<div class="uAuthor">
+						"The Quadroon" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Nor is Hick Holt in such consate wi' his life eyther, that he's afeerd to risk it.
+					</div>
+					<div class="uAuthor">
+						"The Wild Huntress" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						The cautious Marshal, though he had a great superiority in numbers, would risk nothing.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<div class="usage">
+						The happiness of the mature man was risked by the thoughtless act of a boy.
+					</div>
+					<div class="uAuthor">
+						"The Cryptogram" by <span>James De Mille</span>					</div>
+										<div class="usage">
+						Thus, believe me, I did not risk too much when I proposed to play for the first favor we might receive.
+					</div>
+					<div class="uAuthor">
+						"Marguerite de Valois" by <span>Alexandre Dumas</span>					</div>
+										<div class="usage">
+						Rogers, indeed, ventured to warn George of the risk of contagion.
+					</div>
+					<div class="uAuthor">
+						"The Guarded Heights" by <span>Wadsworth Camp</span>					</div>
+										<div class="usage">
+						Angry because I love her, so that I risk my life just to see her, to hear her speak!
+					</div>
+					<div class="uAuthor">
+						"To Win the Love He Sought" by <span>E. Phillips Oppenheim</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							You have wandered far away;<br>
+Do not risk another day;<br>
+Do not turn from God your face,<br>
+But today accept His grace.
+							<div class="poet">"Why Not Now?" by <span>Daniel Webster Moody</span></div>
+						</div>
+											<div class="poemQuote">
+							When was ever kingdom made,<br>
+Glory bought, or empire won,<br>
+When was might guerdon gained<br>
+But a mighty risk was run?
+							<div class="poet">"Nec Aspera Terrent" by <span>Cicely Fox Smith</span></div>
+						</div>
+											<div class="poemQuote">
+							I spy the men so bold advance,<br>
+For honour risk is lifes,<br>
+And, vat I never spy in France,<br>
+The women all good vifes.
+							<div class="poet">"Ca N'ira Pas" by <span>Charles Dibdin</span></div>
+						</div>
+											<div class="poemQuote">
+							And now the settled day arrives,<br>
+Fixt for their savage joy;<br>
+To risk two unprotected lives,<br>
+Poor Neela and her boy.
+							<div class="poet">"The Serpents" by <span>William Hayley</span></div>
+						</div>
+											<div class="poemQuote">
+							Make of life the jest it is,<br>
+Laugh and fool and (maybe!) kiss,<br>
+Never for a moment, dear,<br>
+Love so well to risk a fear.
+							<div class="poet">"Come, My Celia" by <span>Richard Le Gallienne</span></div>
+						</div>
+											<div class="poemQuote">
+							O it was sad enough, weak enough, mad enough -<br>
+Light in their loving as soldiers can be -<br>
+First to risk choosing them, leave alone losing them<br>
+Now, in far battle, beyond the South Sea! . . .
+							<div class="poet">"The Going Of The Battery [Wive's  Lament November 2nd 1899]" by <span>Thomas Hardy</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						IMF warns of ' alarmingly high' risk of deep global slowdown.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tidewaterreview.com/news/politics/la-fi-mo-imf-global-economy-international-monetary-fund-20121009,0,3936296.story" target="_blank" rel="external nofollow">tidewaterreview.com</a>
+					</div>
+										<div class="usage">
+						International Monetary Fund on Tuesday downgraded its economic projections and warned of an " alarmingly high" risk of a serious global slowdown because of fiscal problems in the US and.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/business/money/la-fi-mo-imf-global-economy-international-monetary-fund-20121009,0,4887017.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						IMF Sees ' Alarmingly High' Risk of Deeper Global Slump.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-10-08/imf-sees-alarmingly-high-risk-of-deeper-global-slump" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						The risks of alcohol abuse .
+					</div>
+					<div class="uAuthor">
+						<a href="http://kbia.org/node/11911" target="_blank" rel="external nofollow">kbia.org</a>
+					</div>
+										<div class="usage">
+						Nov 17 event to benefit Adventure Risk Challenge.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sierrasun.com/article/20111031/COMMUNITY/111039987/1071&amp;parentprofile=1053" target="_blank" rel="external nofollow">sierrasun.com</a>
+					</div>
+										<div class="usage">
+						Bring good karma, and drink at your own risk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/regions/americas/111230/ayahuasca-amazon-drug-trip" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						More than 20 million taxpayers are at risk of having to pay the so-called wealth tax when they file their 2010 taxes next year, if lawmakers fail to act.
+					</div>
+					<div class="uAuthor">
+						<a href="http://money.cnn.com/2010/11/09/news/economy/amt_relief_pledge/index.htm" target="_blank" rel="external nofollow">money.cnn.com</a>
+					</div>
+										<div class="usage">
+						Smoking is a risk factor for several diseases and has been increasing in many developing countries.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thelancet.com/journals/lancet/article/PIIS0140673603143383/abstract" target="_blank" rel="external nofollow">thelancet.com</a>
+					</div>
+										<div class="usage">
+						Risks of being a visionary.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/gloriafeldt/2012/06/15/claudia-chans-vision-the-1-leadership-attribute/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						But now is exactly the time for risk taking.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Commentary/the-monitors-view/2010/0924/Obama-and-his-audacity-of-hope-for-Middle-East-peace-talks" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						One out of every eight women in the US is at risk for developing breast cancer, and women who drink alcohol regularly only increase their risk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chiroweb.com/mpacms/tyh/article.php?id=511" target="_blank" rel="external nofollow">chiroweb.com</a>
+					</div>
+										<div class="usage">
+						With this approach, the ETF looks to hedge out some of the broad interest rate risk from the bond environment and allow investors to focus in on credit risk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.whkradio.com/article.aspx?id=85827d73-112c-4af8-a014-e418415753a9&amp;catid=7" target="_blank" rel="external nofollow">whkradio.com</a>
+					</div>
+										<div class="usage">
+						This heightened risk held true even when the researchers adjusted for age, gender, body mass index, previous cardiovascular disease and cardiovascular risk factors.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ama-assn.org/amednews/2009/03/16/hlsd0316.htm" target="_blank" rel="external nofollow">ama-assn.org</a>
+					</div>
+										<div class="usage">
+						Risk Ready Risk &amp; Insurance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.riskandinsurance.com/issue.jsp?issueId=135474931&amp;currentFlag=0" target="_blank" rel="external nofollow">riskandinsurance.com</a>
+					</div>
+										<div class="usage">
+						PITTSBURGH (AP) — Shale gas and oil drilling pose environmental and public health risks, but the extent of those risks is unknown, the Congressional Government Accountability Office says in new study.
+					</div>
+					<div class="uAuthor">
+						<a href="http://newsok.com/article/feed/446894" target="_blank" rel="external nofollow">newsok.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						For a range of 4 ≤ p ≤ 25 the level of realized risk ﬂuctuates around the risk for p = 12 (RMT suggestion) . 
+					</div>
+					<div class="uAuthor">
+						Portfolio Optimization and the Random Magnet Problem
+					</div>
+										<div class="usage">
+						Bouchaud, Theory of ﬁnancial risk and derivative statistical physics to risk management, 1962. H. 
+					</div>
+					<div class="uAuthor">
+						Analysis of Inter-Domain Traffic Correlations: Random Matrix Theory Approach
+					</div>
+										<div class="usage">
+						Aggregation of risks is a key issue for risk management and regulation in the ﬁnancial sector. 
+					</div>
+					<div class="uAuthor">
+						A duality approach to the worst case value at risk for a sum of dependent random variables with known covariances
+					</div>
+										<div class="usage">
+						Figure 3 shows how the “lifetime risk” at 200 years (dashed line) and the “sustainable lifetime risk” (solid curve) vary as a function of fraction of spacecraft deorbited. 
+					</div>
+					<div class="uAuthor">
+						Model of an International Environmental Agreement among Asymmetric Nations applied to Debris Mitigation
+					</div>
+										<div class="usage">
+						Pollard demonstrated that the classical K -means algorithm in Rm with squared loss function satisﬁes the Key Theorem of Learning Theory , p.36, “the minimal empirical risk must converge to the minimal actual risk”. A new clustering algorithm in probabilistic space P m was proposed in . 
+					</div>
+					<div class="uAuthor">
+						Strong Consistency of Prototype Based Clustering in Probabilistic Space
+					</div>
+										<div class="usage">
+						Section 1 is a longer introduction, which gives a brief introduction to random metric theory, risk measures and conditional risk measures. 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						Risk measures were introduced in order to quantify the riskiness of ﬁnancial positions and to provide a criterion to determine whether the risk was acceptable or not. 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						Conditional risk measures were introduced in order to quantify the risk associated with ﬁnancial positions when the additional information was available. 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						Various interpretations of the additional information in [4, 11] show that the theory of conditional risk measures open a way to the analysis of the consequences of asymmetric information for risk measurement. 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						Based on this kind of conditional convex risk measure, the corresponding dynamic risk measures of L∞−type were developed in [11, 18], see [6, 7] for L∞−type of dynamic risk measures of bounded stochastic processes. 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						Recently, motivated by the study of dynamic risk measures [58, 60] and conditional entropic risk measures, Filipovi´c, Kupper and Vogelpoth studied the following convex conditional risk measures of Lp F (E )-type and Lp -type in [15, 16, 56]. 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						What is more important is that we will also prove that every continuous convex conditional risk measure of Lp -type can be uniquely extended to a Tǫ,λ -continuous conditional convex risk measure from Lp F (E ) to L0 (F ) when 1 6 p &lt; +∞ so that Proposition 7.5.4 implies Proposition 1.3.3. 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						Conditional risk measures and robust representation of convex conditional risk measures. 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						Convex risk measures beyond bounded risks, or the canonical model space for law-invariant convex risk measures is L1 . 
+					</div>
+					<div class="uAuthor">
+						Recent progress in random metric theory and its applications to conditional risk measures
+					</div>
+										<div class="usage">
+						Value-at-risk-based risk management: Optimal policies and asset prices. 
+					</div>
+					<div class="uAuthor">
+						Tail approximations of integrals of Gaussian random fields
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="take a risk in the hope of a favorable outcome"><a href="hazard.html">hazard</a>, <a href="take%20chances.html">take chances</a>, <a href="adventure.html">adventure</a>, <a href="run%20a%20risk.html">run a risk</a>, <a href="take%20a%20chance.html">take a chance</a>, </div><div class="synGroup" title="expose to a chance of loss or damage"><a href="put%20on%20the%20line.html">put on the line</a>, <a href="lay%20on%20the%20line.html">lay on the line</a>, </div><div class="synGroup" title="a venture undertaken without regard to possible loss or injury"><a href="peril.html">peril</a>, <a href="danger.html">danger</a>, </div><div class="synGroup" title="the probability of being exposed to an infectious agent"><a href="risk%20of%20exposure.html">risk of exposure</a>, </div><div class="synGroup" title="the probability of becoming infected given that exposure to an infectious agent has occurred"><a href="risk%20of%20infection.html">risk of infection</a>, </div><div class="synGroup" title="a source of danger; a possibility of incurring loss or misfortune"><a href="endangerment.html">endangerment</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="assay.html">assay</a>, <a href="attempt.html">attempt</a>, <a href="chance.html">chance</a>, <a href="danger.html">danger</a>, <a href="essay.html">essay</a>, <a href="probability.html">probability</a>, <a href="seek.html">seek</a>, <a href="try.html">try</a>, <a href="venture.html">venture</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="adventure.html">adventure</a>, <a href="bell%20the%20cat.html">bell the cat</a>, <a href="chance.html">chance</a>, <a href="crapshoot.html">crapshoot</a>, <a href="gamble.html">gamble</a>, <a href="go%20for%20broke.html">go for broke</a>, <a href="hazard.html">hazard</a>, <a href="health%20hazard.html">health hazard</a>, <a href="jeopardize.html">jeopardize</a>, <a href="luck%20it.html">luck it</a>, <a href="luck%20through.html">luck through</a>, <a href="moral%20hazard.html">moral hazard</a>, <a href="occupational%20hazard.html">occupational hazard</a>, <a href="stake.html">stake</a>, <a href="sword%20of%20damocles.html">sword of damocles</a>, <a href="venture.html">venture</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="gamble.html">gamble</a>, <a href="gambler.html">gambler</a>, <a href="hazard.html">hazard</a>, <a href="hazardous.html">hazardous</a>, <a href="risky.html">risky</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20bill%20of%20adventure.html">A bill of adventure</a>, <a href="adventure.html">adventure</a>, <a href="adventurer.html">adventurer</a>, <a href="adventuresome.html">adventuresome</a>, <a href="adventurous.html">adventurous</a>, <a href="advise.html">advise</a>, <a href="alpha-lipoprotein.html">alpha-lipoprotein</a>, <a href="aphorism.html">aphorism</a>, <a href="Apperil.html">Apperil</a>, <a href="apt.html">apt</a>, <a href="assay.html">assay</a>, <a href="At.html">At</a>, <a href="At%20one%27s%20peril.html">At one's peril</a>, <a href="at%20stake.html">at stake</a>, <a href="Baccara.html">Baccara</a>, <a href="ballast.html">ballast</a>, <a href="bear%20hug.html">bear hug</a>, <a href="bell%20the%20cat.html">bell the cat</a>, <a href="beta-lipoprotein.html">beta-lipoprotein</a>, <a href="biosafety%20level%204.html">biosafety level 4</a>, <a href="bluff.html">bluff</a>, <a href="bold.html">bold</a>, <a href="boldness.html">boldness</a>, <a href="branch%20out.html">branch out</a>, <a href="broaden.html">broaden</a>, <a href="capital%20cost.html">capital cost</a>, <a href="caveat%20emptor.html">caveat emptor</a>, <a href="chance.html">chance</a>, <a href="chanceful.html">chanceful</a>, <a href="chancy.html">chancy</a>, <a href="coinsurance.html">coinsurance</a>, <a href="commit.html">commit</a>, <a href="compromise.html">compromise</a>, <a href="confessor.html">confessor</a>, <a href="Contraband%20of%20war.html">Contraband of war</a>, <a href="cost%20of%20capital.html">cost of capital</a>, <a href="Cox-2%20inhibitor.html">Cox-2 inhibitor</a>, <a href="craps.html">craps</a>, <a href="criminal%20negligence.html">criminal negligence</a>, <a href="critical.html">critical</a>, <a href="culpable%20negligence.html">culpable negligence</a>, <a href="danger.html">danger</a>, <a href="Dangerless.html">Dangerless</a>, <a href="dangerous.html">dangerous</a>, <a href="dangerously.html">dangerously</a>, <a href="daring.html">daring</a>, <a href="Death-trap.html">Death-trap</a>, <a href="deter.html">deter</a>, <a href="dicey.html">dicey</a>, <a href="dive.html">dive</a>, <a href="diversify.html">diversify</a>, <a href="dodgy.html">dodgy</a>, <a href="embark.html">embark</a>, <a href="emptor.html">emptor</a>, <a href="encainide.html">encainide</a>, <a href="endanger.html">endanger</a>, <a href="endangered%20species.html">endangered species</a>, <a href="Endowment%20assurance.html">Endowment assurance</a>, <a href="endowment%20insurance.html">endowment insurance</a>, <a href="Enkaid.html">Enkaid</a>, <a href="enterprise.html">enterprise</a>, <a href="enterpriser.html">enterpriser</a>, <a href="entrepreneur.html">entrepreneur</a>, <a href="expose.html">expose</a>, <a href="exposed.html">exposed</a>, <a href="exposure.html">exposure</a>, <a href="Fabian.html">Fabian</a>, <a href="fiber.html">fiber</a>, <a href="fibre.html">fibre</a>, <a href="flecainide.html">flecainide</a>, <a href="gamble.html">gamble</a>, <a href="gaming.html">gaming</a>, <a href="General%20average.html">General average</a>, <a href="go%20for%20broke.html">go for broke</a>, <a href="hang%20by%20a%20hair.html">hang by a hair</a>, <a href="hang%20by%20a%20thread.html">hang by a thread</a>, <a href="hardihood.html">hardihood</a>, <a href="hardiness.html">hardiness</a>, <a href="hazard.html">hazard</a>, <a href="hazardous.html">hazardous</a>, <a href="HDL.html">HDL</a>, <a href="HDL%20cholesterol.html">HDL cholesterol</a>, <a href="hedge.html">hedge</a>, <a href="hedge%20fund.html">hedge fund</a>, <a href="hedgefund.html">hedgefund</a>, <a href="hedging.html">hedging</a>, <a href="high-density%20lipoprotein.html">high-density lipoprotein</a>, <a href="hypercholesteremia.html">hypercholesteremia</a>, <a href="hypercholesterolemia.html">hypercholesterolemia</a>, <a href="hypogammaglobulinemia.html">hypogammaglobulinemia</a>, <a href="insecurely.html">insecurely</a>, <a href="insecureness.html">insecureness</a>, <a href="insurance.html">insurance</a>, <a href="Jeopard.html">Jeopard</a>, <a href="jeopardize.html">jeopardize</a>, <a href="jeopardy.html">jeopardy</a>, <a href="job.html">job</a>, <a href="joint%20venture.html">joint venture</a>, <a href="jump.html">jump</a>, <a href="lay.html">lay</a>, <a href="LDL.html">LDL</a>, <a href="leverage.html">leverage</a>, <a href="leveraging.html">leveraging</a>, <a href="liable.html">liable</a>, <a href="long.html">long</a>, <a href="long%20shot.html">long shot</a>, <a href="low-density%20lipoprotein.html">low-density lipoprotein</a>, <a href="lycopene.html">lycopene</a>, <a href="Make%20a%20shaft%20or%20a%20bolt%20of%20it.html">Make a shaft or a bolt of it</a>, <a href="menace.html">menace</a>, <a href="moral%20hazard.html">moral hazard</a>, <a href="neck.html">neck</a>, <a href="nifedipine.html">nifedipine</a>, <a href="On%20one%27s%20peril.html">On one's peril</a>, <a href="Options.html">Options</a>, <a href="pawn.html">pawn</a>, <a href="penny-wise.html">penny-wise</a>, <a href="Periculum.html">Periculum</a>, <a href="peril.html">peril</a>, <a href="plight.html">plight</a>, <a href="plunge.html">plunge</a>, <a href="policy.html">policy</a>, <a href="Post-obit.html">Post-obit</a>, <a href="precarious.html">precarious</a>, <a href="precariously.html">precariously</a>, <a href="prevalence.html">prevalence</a>, <a href="prize.html">prize</a>, <a href="Procardia.html">Procardia</a>, <a href="profit.html">profit</a>, <a href="purchase.html">purchase</a>, <a href="Put%20all%20one%27s%20eggs%20into%20one%20basket.html">Put all one's eggs into one basket</a>, <a href="rash.html">rash</a>, <a href="rate.html">rate</a>, <a href="razor.html">razor</a>, <a href="reinsurance.html">reinsurance</a>, <a href="reinsure.html">reinsure</a>, <a href="representation.html">representation</a>, <a href="risk%20arbitrage.html">risk arbitrage</a>, <a href="risk-free.html">risk-free</a>, <a href="Riskful.html">Riskful</a>, <a href="riskiness.html">riskiness</a>, <a href="riskless.html">riskless</a>, <a href="risklessness.html">risklessness</a>, <a href="risky.html">risky</a>, <a href="run.html">run</a>, <a href="run%20a%20risk.html">run a risk</a>, <a href="safe.html">safe</a>, <a href="safety.html">safety</a>, <a href="Sail%20close%20to%20the%20wind.html">Sail close to the wind</a>, <a href="Sea%20risk.html">Sea risk</a>, <a href="secure.html">secure</a>, <a href="securely.html">securely</a>, <a href="security.html">security</a>, <a href="set.html">set</a>, <a href="slip.html">slip</a>, <a href="speculate.html">speculate</a>, <a href="speculation.html">speculation</a>, <a href="speculativeness.html">speculativeness</a>, <a href="spider.html">spider</a>, <a href="sporting.html">sporting</a>, <a href="stake.html">stake</a>, <a href="stand.html">stand</a>, <a href="surrender.html">surrender</a>, <a href="survey.html">survey</a>, <a href="take%20a%20chance.html">take a chance</a>, <a href="take%20chances.html">take chances</a>, <a href="Take%20one%27s%20chance.html">Take one's chance</a>, <a href="takeover%20arbitrage.html">takeover arbitrage</a>, <a href="Tambocor.html">Tambocor</a>, <a href="termination.html">termination</a>, <a href="throw.html">throw</a>, <a href="To%20break%20sheer.html">To break sheer</a>, <a href="to%20hazard.html">to hazard</a>, <a href="To%20run%20the%20hazard.html">To run the hazard</a>, <a href="trust.html">trust</a>, <a href="turtle.html">turtle</a>, <a href="underwrite.html">underwrite</a>, <a href="Unhazarded.html">Unhazarded</a>, <a href="unhazardous.html">unhazardous</a>, <a href="unsafe.html">unsafe</a>, <a href="Unsafety.html">Unsafety</a>, <a href="venture.html">venture</a>, <a href="venturer.html">venturer</a>, <a href="venturesome.html">venturesome</a>, <a href="wage.html">wage</a>, <a href="Wager%20policy.html">Wager policy</a>, <a href="warn.html">warn</a>, <a href="warning%20of%20war.html">warning of war</a>, <a href="warranty.html">warranty</a>, <a href="wild.html">wild</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					eisk, disk, fisk, tisk, rusk, rjsk, rksk, rosk, riak, riwk, ridk, rixk, rizk, riak, risj, risi, risl, rism
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

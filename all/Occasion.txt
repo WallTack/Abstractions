@@ -1,0 +1,549 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>occasion</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">occasion</span> <span class="exp">give occasion to</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">an event that occurs at a critical time</span> <span class="quot">"at such junctures he always had an impulse to leave","it was needed only on special occasions"</span></li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">a vaguely specified social event</span> <span class="quot">"the party was quite an affair","an occasion arranged to honor the president","a seemingly endless round of social functions"</span></li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">reason</span> <span class="quot">"there was no occasion for complaint"</span></li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">an opportunity to do something</span> <span class="quot">"there was never an occasion for her to demonstrate her skill"</span></li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">the time of a particular event</span> <span class="quot">"on the occasion of his 60th birthday"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In Russia, when flowers are given for a romantic occasions, flowers are given in odds numbers as even number of flowers is given at funerals only									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Occasion</span> <span class="exp">A falling out, happening, or coming to pass; hence, that which falls out or happens; occurrence; incident; event.</span> <span class="wuQuot">"The unlooked-for incidents of family history, and its hidden excitements, and its arduous occasions ."</span></li><li><span class="term">Occasion</span> <span class="exp">A favorable opportunity; a convenient or timely chance; convenience.</span> <span class="wuQuot">"Sin, taking occasion by the commandment, deceived me."</span><span class="wuQuot">"I'll take the occasion which he gives to bring<br>
+Him to his death."</span></li><li><span class="term">Occasion</span> <span class="exp">A reason or excuse; a motive; a persuasion.</span> <span class="wuQuot">"Whose manner was, all passengers to stay,<br>
+And entertain with her occasions sly."</span></li><li><span class="term">Occasion</span> <span class="exp">An occurrence or condition of affairs which brings with it some unlooked-for event; that which incidentally brings to pass an event, without being its efficient cause or sufficient reason; accidental or incidental cause.</span> <span class="wuQuot">"Her beauty was the occasion of the war."</span></li><li><span class="term">Occasion</span> <span class="exp">Need; exigency; requirement; necessity; as, I have no <span class="wUex">occasion</span> for firearms.</span> <span class="wuQuot">"After we have served ourselves and our own occasions ."</span><span class="wuQuot">"When my occasions took me into France."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Occasion</span> <span class="exp"><span class="itl">ŏk*kā"zhŭn</span> To give occasion to; to cause; to produce; to induce; as, to <span class="wUex">occasion</span> anxiety.</span> <span class="wuQuot">"If we inquire what it is that occasions men to make several combinations of simple ideas into distinct modes."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">An occurrence; an event; an incident; a happening.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">A special occurrence or happening; a particular time or season, especially one marked by some particular occurrence or juncture of circumstances; instance; time; season.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">An event which affords a person a reason or motive for doing something or seeking something to be done at a particular time, whether he desires it should be done or not; hence, an opportunity for bringing about a desired result; also, a need; an exigency. Used relatively.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">Used absolutely, though referring to a particular action.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">In negative phrases.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">In the abstract, convenience; opportunity: not referring to a particular act.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">Need; necessity: in the abstract.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">An accidental cause. A person or something connected with a person who unintentionally brings about a given result.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">An event, or series of events, which lead to a given result, but are not of such a nature as generally to produce such results: sometimes used loosely for an efficient cause in general, as in the example from Merlin.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">An incident cause, or cause determining the particular time when an event shall occur that is sure to be brought about sooner or later by other causes. The idea seems to be vague.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">Causal action; agency. See def. 4. Unintentional action.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">Chance; occurrence; incident.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">A consideration; a reason for action, not necessarily an event that has just occurred.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">Business; affair: chiefly in the plural.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">A high event; a special ceremony or celebration; a function.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">plural Necessities of nature.</span> </li><li><span class="tSpeech">n</span> <span class="term">occasion</span> <span class="exp">Synonyms and Opportunity, Occasion. See opportunity.2, 3, and Occurrence, etc. (see exigency), conjuncture, necessity.</span> </li><li><span class="term">occasion</span> <span class="exp">To cause incidentally or indirectly; bring about or be the means of bringing about or producing; produce.</span> </li><li><span class="term">occasion</span> <span class="exp">To lead or induce by an occasion or opportunity; impel or induce by circumstances; impel; lead.</span> </li><li><span class="term">occasion</span> <span class="exp">Synonyms To bring about, give rise to, be the cause of.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Occasion</span> <span class="exp"><span class="itl">o-kā′zhun</span> a case of something happening: a special time or season: a chance of bringing about something desired: an event which, although not the cause, determines the time at which another happens: a reason or excuse: opportunity: requirement, business: a special ceremony</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Occasion</span> <span class="exp">to cause indirectly: to influence</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Butler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Butler.jpg" alt="Samuel%20Butler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men are seldom more commonplace than on supreme occasions.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bishop Westcott</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bishop Westcott">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Great occasions do not make heroes or cowards; they simply unveil them to the eyes of men.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“On an occasion of this kind it becomes more than a moral duty to speak one's mind. It becomes a pleasure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is occasions and causes why and wherefore in all things.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Calvin Coolidge</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Calvin%20Coolidge.jpg" alt="Calvin%20Coolidge">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Heroism is not only in the man, but in the occasion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bible</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bible">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“See that no one puts a stumbling block, or an occasion to fall in his brothers way.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">occasion</span>, L. <span class="wUets">occasio</span>, fr. <span class="wUets">occidere</span>, <span class="wUets">occasum</span>, to fall down; <span class="wUets">ob</span>,see <span class="wUer">Ob-</span>) + <span class="wUets">cadere</span>, to fall. See <span class="wUer">Chance</span>, and cf. <span class="wUer">Occident</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						We had two severe storms when I, for one, was not visible on any occasion.
+					</div>
+					<div class="uAuthor">
+						"Sixty Years of California Song" by <span>Margaret Blake-Alverson</span>					</div>
+										<div class="usage">
+						She has a new dress for every occasion.
+					</div>
+					<div class="uAuthor">
+						"Lights and Shadows of New York Life" by <span>James D. McCabe</span>					</div>
+										<div class="usage">
+						On one occasion when going down the lines, I tripped over a rope.
+					</div>
+					<div class="uAuthor">
+						"The Great War As I Saw It" by <span>Frederick George Scott</span>					</div>
+										<div class="usage">
+						The only effect on ourselves of the gas used on this occasion, was to make our eyes smart and a few men sick.
+					</div>
+					<div class="uAuthor">
+						"The Sherwood Foresters in the Great War 1914 - 1919" by <span>W.C.C. Weetman</span>					</div>
+										<div class="usage">
+						There will be occasion, too, when treating of the Gilgamesh epic, to dwell still further on some of her traits.
+					</div>
+					<div class="uAuthor">
+						"The Religion of Babylonia and Assyria" by <span>Morris Jastrow</span>					</div>
+										<div class="usage">
+						The rebbe never had occasion to use the birch on him.
+					</div>
+					<div class="uAuthor">
+						"The Promised Land" by <span>Mary Antin</span>					</div>
+										<div class="usage">
+						On one occasion, I clipped the wings of a wasp, and, after she had learned that she could no longer fly, placed her on a strange nest.
+					</div>
+					<div class="uAuthor">
+						"The Dawn of Reason" by <span>James Weir</span>					</div>
+										<div class="usage">
+						Why not have a notice put up outside the door on these occasions: "Engaged"?
+					</div>
+					<div class="uAuthor">
+						"The Daughters of Danaus" by <span>Mona Caird</span>					</div>
+										<div class="usage">
+						Nay, so I intend, and so I wish it to be, Chremes; and I would not ask it of you, did not the occasion itself require it.
+					</div>
+					<div class="uAuthor">
+						"The Comedies of Terence" by <span>Publius Terentius Afer, (AKA) Terence</span>					</div>
+										<div class="usage">
+						What must be the nature of that sacrifice which is the occasion of sin!
+					</div>
+					<div class="uAuthor">
+						"The Autobiography of Madame Guyon" by <span>Jeanne Marie Bouvier de La Motte Guyon</span>					</div>
+										<div class="usage">
+						Of this, on another occasion, I was sincerely glad to avail myself.
+					</div>
+					<div class="uAuthor">
+						"A Labrador Doctor" by <span>Wilfred Thomason Grenfell</span>					</div>
+										<div class="usage">
+						The names of the other prisoners, destined to suffer upon this occasion, were Saturninus, Secundulus and Satur.
+					</div>
+					<div class="uAuthor">
+						"Fox's Book of Martyrs" by <span>John Foxe</span>					</div>
+										<div class="usage">
+						On many occasions on that expedition I had similar experiences with butterflies.
+					</div>
+					<div class="uAuthor">
+						"Across Unknown South America" by <span>Arnold Henry Savage Landor</span>					</div>
+										<div class="usage">
+						To continue them required the occasion, as well as the permission; but the stimulus was gone.
+					</div>
+					<div class="uAuthor">
+						"The History of Tasmania , Volume II (of 2)" by <span>John West</span>					</div>
+										<div class="usage">
+						But they do not rise, and occasion does not demand it.
+					</div>
+					<div class="uAuthor">
+						"Orley Farm" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						And that "Mrs Nasmyth thought considerable of herself," many of the curious ladies of Merleville had occasion to know.
+					</div>
+					<div class="uAuthor">
+						"Janet's Love and Service" by <span>Margaret M Robertson</span>					</div>
+										<div class="usage">
+						But on one occasion the sea itself made an attack upon them.
+					</div>
+					<div class="uAuthor">
+						"Chatterbox, 1906" by <span>Various</span>					</div>
+										<div class="usage">
+						The pageant would require large sums of money to invest the occasion with the desirable splendor.
+					</div>
+					<div class="uAuthor">
+						"Louis XIV., Makers of History Series" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						It is remarkable that the moon is sometimes able to hide the sun completely, while on other occasions it fails to do so.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Heavens" by <span>Robert Stawell Ball</span>					</div>
+										<div class="usage">
+						Dr. Johnson expresses great admiration for the independence of spirit which Pope showed on this occasion.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Thy gratitude, on all occasions, show<br>
+To thy true Shepherd, for his friendly aid,<br>
+Who thee so safely guarded from the foe,<br>
+That thou need'st not be of his force afraid.
+							<div class="poet">"A Warning, Or Admonition, To Every Man, To Think On God In The Morning" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							You tempter--No--Were they the precious things<br>
+Of the whole universe, I will not touch them<br>
+Until you promise me to seize upon<br>
+Such an occasion as heaven gives not twice.
+							<div class="poet">"Nathan The Wise  -  Act IV" by <span>Gotthold Ephraim Lessing</span></div>
+						</div>
+											<div class="poemQuote">
+							Her sheep and goats waxed fat, and ample fleece<br>
+Rewarded every harvest of the shear;<br>
+Her lambs all bleated in sequestered peace,<br>
+Nor prowling wolf occasioned nightly fear.
+							<div class="poet">"From A Saxon Legend." by <span>Alfred Castner King</span></div>
+						</div>
+											<div class="poemQuote">
+							Can you stain my fair Honour with one broken vow?<br>
+Can you say that I've ever occasion'd a pain?<br>
+On Truth's honest base let your tenderness grow:<br>
+I swear to be faithful, again and again.
+							<div class="poet">"Nancy" by <span>Robert Bloomfield</span></div>
+						</div>
+											<div class="poemQuote">
+							The die is cast,-- be satisfied;<br>
+The chance is past,-- be still;<br>
+For this, no more Occasion's tide<br>
+Can waft thee good or ill;<br>
+The hour is gone, the deed is done,<br>
+And all the battle lost or won.
+							<div class="poet">"Fact " by <span>Martin Farquhar Tupper </span></div>
+						</div>
+											<div class="poemQuote">
+							He saw her constant love; and, tho'<br>
+Occasion surely was not scant,<br>
+Perhaps had never sought to know<br>
+How she could give it wording. So<br>
+His love, not stumbling at a want,<br>
+Among the three preferred her first.
+							<div class="poet">"Cordelia" by <span>William Michael Rossetti</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Royal bodyguards have seized film on occasion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1989/11/12/magazine/low-tales-of-the-highborn.html?pagewanted=3&amp;src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						It was 225 years ago Monday the United States Constitution was adopted, and to mark the occasion, North Central Ohio Conservative members hosted an event on the Seneca County courthouse lawn.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.advertiser-tribune.com/page/content.detail/id/549337/Living-history-lesson.html?nav=5005" target="_blank" rel="external nofollow">advertiser-tribune.com</a>
+					</div>
+										<div class="usage">
+						It was a joyous occasion knowing that he will now officially be a kindergartener and off on his way toward a successful school career.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-journal.com/page/content.detail/id/605841/A-Bittersweet-Day-At-Holy-Family.html?nav=5006" target="_blank" rel="external nofollow">post-journal.com</a>
+					</div>
+										<div class="usage">
+						Maya World Tours has put a package together providing visitors cultural and historic context for this special occasion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://travelworldnews.com/2012/10/11/experience-holy-week-in-guatemala-with-maya-world-tours/?" target="_blank" rel="external nofollow">travelworldnews.com</a>
+					</div>
+										<div class="usage">
+						This is not to say having a leader wasn't necessary on occasion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.boiseweekly.com/boise/how-were-here/Content?oid=2754792" target="_blank" rel="external nofollow">boiseweekly.com</a>
+					</div>
+										<div class="usage">
+						We took photos only on special occasions and the film had to actually be developed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.waaf.com/Plastic-Surgery-is-Up-Because-People-are-Horrified-By-How-They-Look-in-Facebook/12721726?archive=1&amp;pid=251921" target="_blank" rel="external nofollow">waaf.com</a>
+					</div>
+										<div class="usage">
+						On more than one occasion in my career I have acted as a town manager.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.barnstablepatriot.com/home2/index.php?option=com_content&amp;task=view&amp;id=11336&amp;Itemid=93" target="_blank" rel="external nofollow">barnstablepatriot.com</a>
+					</div>
+										<div class="usage">
+						On one occasion when I had the watch, it became necessary to declare a state of emergency.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.barnstablepatriot.com/home2/index.php?option=com_content&amp;task=view&amp;id=11336&amp;Itemid=93" target="_blank" rel="external nofollow">barnstablepatriot.com</a>
+					</div>
+										<div class="usage">
+						Rex rises to the occasion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.omaha.com/article/20121123/HUSKERS/311239998/1001" target="_blank" rel="external nofollow">omaha.com</a>
+					</div>
+										<div class="usage">
+						It was a historic occasion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/jdcrowe/2012/07/obamacare_croweblog.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						A studio recording cannot capture the tone of an occasion like a live recording.
+					</div>
+					<div class="uAuthor">
+						<a href="http://jazztimes.com/articles/21366-live-at-caramoor-jovino-santos-neto-weber-iago" target="_blank" rel="external nofollow">jazztimes.com</a>
+					</div>
+										<div class="usage">
+						The tone of this occasion sounds ecstatic.
+					</div>
+					<div class="uAuthor">
+						<a href="http://jazztimes.com/articles/21366-live-at-caramoor-jovino-santos-neto-weber-iago" target="_blank" rel="external nofollow">jazztimes.com</a>
+					</div>
+										<div class="usage">
+						Mike Birbiglia is too old to play a teenager — or even a twentysomething — but his voice still cracks on occasion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thedailypage.com/isthmus/article.php?article=37709" target="_blank" rel="external nofollow">thedailypage.com</a>
+					</div>
+										<div class="usage">
+						The thefts happened on two different occasions in the parking lot of Catawba Valley Community College's main campus.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.observernewsonline.com/content/none-charged-battery-thefts" target="_blank" rel="external nofollow">observernewsonline.com</a>
+					</div>
+										<div class="usage">
+						I am delighted that you still offer the booklet How to Write Letters for All Occasions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/living/20121114_Dear_Abby__Writing_skills_learned_early_pay_big_in_the_long_run.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						I would like to thank the organizers of the school for the occasion to give a talk for so young and active audience. 
+					</div>
+					<div class="uAuthor">
+						Dyon-Oscillator Duality
+					</div>
+										<div class="usage">
+						We will have occasion to use the functor of induction of abelian group overalgebras in §10. 
+					</div>
+					<div class="uAuthor">
+						Abelian extensions of algebras in congruence-modular varieties
+					</div>
+										<div class="usage">
+						On rare occasions, the process is started by reaction 2. 
+					</div>
+					<div class="uAuthor">
+						How the sun shines
+					</div>
+										<div class="usage">
+						Perhaps we can visit these topics during another journey on another occasion. 
+					</div>
+					<div class="uAuthor">
+						An Introduction to Monte Carlo Simulation of Statistical physics Problem
+					</div>
+										<div class="usage">
+						Hagen Kleinert on the occasion of his 60th anniversary. 
+					</div>
+					<div class="uAuthor">
+						Phase Transition in the Random Anisotropy Model
+					</div>
+										<div class="usage">
+						The real optical ﬁbers have random inhomogeneities occasioned by uncontrollable peculiarities in the preparation process of ﬁber and ﬁber devices. 
+					</div>
+					<div class="uAuthor">
+						Random groups in the optical waveguides theory
+					</div>
+										<div class="usage">
+						One strategy works in two different occasions. 
+					</div>
+					<div class="uAuthor">
+						Fixed point theorem for simple quantum strategies in quantum market games
+					</div>
+										<div class="usage">
+						This asymmetry may be inconvenient in some occasions and convenient in some others. 
+					</div>
+					<div class="uAuthor">
+						Eppur, si muove !
+					</div>
+										<div class="usage">
+						We will use below, and also on several later occasions, the following consequence of H. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<div class="usage">
+						He did not mention about the gauge freedom on that occasion. 
+					</div>
+					<div class="uAuthor">
+						Generally covariant Quantum Mechanics
+					</div>
+										<div class="usage">
+						In this occasion, it is not qualiﬁed to regard the vertex degrees and the loop lengths to be independent for the two neighbors of O′ . 
+					</div>
+					<div class="uAuthor">
+						Return times of random walk on generalized random graphs
+					</div>
+										<div class="usage">
+						We shall use this theorem on several occasions below without further notice. 
+					</div>
+					<div class="uAuthor">
+						Boundaries and harmonic functions for random walks with random transition probabilities
+					</div>
+										<div class="usage">
+						We shall often have occasion to consider omega graphs in which all cells above a certain dimension are identity cells. 
+					</div>
+					<div class="uAuthor">
+						Weak Omega Categories I
+					</div>
+										<div class="usage">
+						But I leave developing this topic for another occasion. 
+					</div>
+					<div class="uAuthor">
+						On the Persistence of Homogeneous Matter
+					</div>
+										<div class="usage">
+						Thus, typically we can extend the results obtained here for many other models of random polytopes (the actual argument may get complicated in some occasions). 
+					</div>
+					<div class="uAuthor">
+						Central limit theorems for random polytopes in a smooth convex set
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a vaguely specified social event"><a href="social%20occasion.html">social occasion</a>, <a href="function.html">function</a>, <a href="social%20function.html">social function</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="cause.html">cause</a>, <a href="chance.html">chance</a>, <a href="do.html">do</a>, <a href="ground.html">ground</a>, <a href="happening.html">happening</a>, <a href="make.html">make</a>, <a href="natural%20event.html">natural event</a>, <a href="occurrence.html">occurrence</a>, <a href="occurrent.html">occurrent</a>, <a href="opportunity.html">opportunity</a>, <a href="reason.html">reason</a>, <a href="social%20event.html">social event</a>, <a href="time.html">time</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="celebration.html">celebration</a>, <a href="ceremonial.html">ceremonial</a>, <a href="ceremonial%20occasion.html">ceremonial occasion</a>, <a href="ceremony.html">ceremony</a>, <a href="climax.html">climax</a>, <a href="conjuncture.html">conjuncture</a>, <a href="crisis.html">crisis</a>, <a href="cut-rate%20sale.html">cut-rate sale</a>, <a href="flood%20tide.html">flood tide</a>, <a href="fundraiser.html">fundraiser</a>, <a href="head.html">head</a>, <a href="inspire.html">inspire</a>, <a href="jubilation.html">jubilation</a>, <a href="landmark.html">landmark</a>, <a href="meal.html">meal</a>, <a href="milestone.html">milestone</a>, <a href="observance.html">observance</a>, <a href="party.html">party</a>, <a href="pass.html">pass</a>, <a href="photo%20op.html">photo op</a>, <a href="photo%20opportunity.html">photo opportunity</a>, <a href="reality%20check.html">reality check</a>, <a href="sale.html">sale</a>, <a href="sales%20event.html">sales event</a>, <a href="sleepover.html">sleepover</a>, <a href="straits.html">straits</a>, <a href="turning%20point.html">turning point</a>, <a href="watershed.html">watershed</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abashed.html">abashed</a>, <a href="absentee.html">absentee</a>, <a href="accommodate.html">accommodate</a>, <a href="act.html">act</a>, <a href="address.html">address</a>, <a href="adequate.html">adequate</a>, <a href="adorn.html">adorn</a>, <a href="adversary.html">adversary</a>, <a href="agape.html">agape</a>, <a href="aide-de-camp.html">aide-de-camp</a>, <a href="always.html">always</a>, <a href="Ambassador%20Extraordinary.html">Ambassador Extraordinary</a>, <a href="animosity.html">animosity</a>, <a href="anniversary.html">anniversary</a>, <a href="apex.html">apex</a>, <a href="apology.html">apology</a>, <a href="appositeness.html">appositeness</a>, <a href="apropos.html">apropos</a>, <a href="aptness.html">aptness</a>, <a href="arbitrary.html">arbitrary</a>, <a href="assurance.html">assurance</a>, <a href="At.html">At</a>, <a href="attire.html">attire</a>, <a href="author.html">author</a>, <a href="Bacchanalia.html">Bacchanalia</a>, <a href="ball.html">ball</a>, <a href="Barmecide.html">Barmecide</a>, <a href="beget.html">beget</a>, <a href="binge.html">binge</a>, <a href="boast.html">boast</a>, <a href="bombast.html">bombast</a>, <a href="bout.html">bout</a>, <a href="breed.html">breed</a>, <a href="brick.html">brick</a>, <a href="bring.html">bring</a>, <a href="Bull%20Moose.html">Bull Moose</a>, <a href="bun-fight.html">bun-fight</a>, <a href="bunfight.html">bunfight</a>, <a href="bust.html">bust</a>, <a href="buy%20in.html">buy in</a>, <a href="call.html">call</a>, <a href="canticle.html">canticle</a>, <a href="carrier.html">carrier</a>, <a href="cartouche.html">cartouche</a>, <a href="cascarilla.html">cascarilla</a>, <a href="cascarilla%20bark.html">cascarilla bark</a>, <a href="Cash-account.html">Cash-account</a>, <a href="cast.html">cast</a>, <a href="Casus.html">Casus</a>, <a href="catafalque.html">catafalque</a>, <a href="catch.html">catch</a>, <a href="cause.html">cause</a>, <a href="causeless.html">causeless</a>, <a href="celebration.html">celebration</a>, <a href="ceremonial.html">ceremonial</a>, <a href="ceremonial%20occasion.html">ceremonial occasion</a>, <a href="ceremony.html">ceremony</a>, <a href="choragus.html">choragus</a>, <a href="church.html">church</a>, <a href="Church-ale.html">Church-ale</a>, <a href="clambake.html">clambake</a>, <a href="Claqueur.html">Claqueur</a>, <a href="clip.html">clip</a>, <a href="collect.html">collect</a>, <a href="commensurate.html">commensurate</a>, <a href="competition.html">competition</a>, <a href="condemn.html">condemn</a>, <a href="condition.html">condition</a>, <a href="conditioned%20stimulus.html">conditioned stimulus</a>, <a href="condole.html">condole</a>, <a href="conduct.html">conduct</a>, <a href="confidence.html">confidence</a>, <a href="confident.html">confident</a>, <a href="conge.html">conge</a>, <a href="congratulation.html">congratulation</a>, <a href="conjuncture.html">conjuncture</a>, <a href="consistory.html">consistory</a>, <a href="Constable.html">Constable</a>, <a href="contest.html">contest</a>, <a href="contiguity.html">contiguity</a>, <a href="convenient.html">convenient</a>, <a href="convention.html">convention</a>, <a href="cost.html">cost</a>, <a href="costume.html">costume</a>, <a href="couple.html">couple</a>, <a href="cram.html">cram</a>, <a href="create.html">create</a>, <a href="crime.html">crime</a>, <a href="crosspiece.html">crosspiece</a>, <a href="cut-rate%20sale.html">cut-rate sale</a>, <a href="damage.html">damage</a>, <a href="dateless.html">dateless</a>, <a href="deadly.html">deadly</a>, <a href="Dean.html">Dean</a>, <a href="debauch.html">debauch</a>, <a href="decorous.html">decorous</a>, <a href="decorum.html">decorum</a>, <a href="Deodand.html">Deodand</a>, <a href="die.html">die</a>, <a href="Discommend.html">Discommend</a>, <a href="disposable.html">disposable</a>, <a href="dog%20racing.html">dog racing</a>, <a href="Dow.html">Dow</a>, <a href="draw.html">draw</a>, <a href="dress.html">dress</a>, <a href="dusk.html">dusk</a>, <a href="e%27er.html">e'er</a>, <a href="elation.html">elation</a>, <a href="election.html">election</a>, <a href="emergency.html">emergency</a>, <a href="Encheason.html">Encheason</a>, <a href="Encheson.html">Encheson</a>, <a href="Engaging%20and%20disengaging%20gear.html">Engaging and disengaging gear</a>, <a href="Engaging%20and%20disengaging%20machinery.html">Engaging and disengaging machinery</a>, <a href="engender.html">engender</a>, <a href="ennui.html">ennui</a>, <a href="envoy.html">envoy</a>, <a href="Equivalently.html">Equivalently</a>, <a href="etiquette.html">etiquette</a>, <a href="ever.html">ever</a>, <a href="Excommunicable.html">Excommunicable</a>, <a href="exigency.html">exigency</a>, <a href="exigent.html">exigent</a>, <a href="express.html">express</a>, <a href="Express%20train.html">Express train</a>, <a href="extemporaneous.html">extemporaneous</a>, <a href="extemporary.html">extemporary</a>, <a href="extemporize.html">extemporize</a>, <a href="fall.html">fall</a>, <a href="fault.html">fault</a>, <a href="fear.html">fear</a>, <a href="felicitation.html">felicitation</a>, <a href="Festivous.html">Festivous</a>, <a href="Fine%20for%20alienation.html">Fine for alienation</a>, <a href="fitting.html">fitting</a>, <a href="floating.html">floating</a>, <a href="For.html">For</a>, <a href="For%20once.html">For once</a>, <a href="for%20the%20asking.html">for the asking</a>, <a href="frightful.html">frightful</a>, <a href="From.html">From</a>, <a href="fugitive.html">fugitive</a>, <a href="full-dress.html">full-dress</a>, <a href="function.html">function</a>, <a href="furnace.html">furnace</a>, <a href="gang.html">gang</a>, <a href="garb.html">garb</a>, <a href="give.html">give</a>, <a href="Give%20a%20handle.html">Give a handle</a>, <a href="gladiator.html">gladiator</a>, <a href="glory.html">glory</a>, <a href="grave.html">grave</a>, <a href="grievance.html">grievance</a>, <a href="grieve.html">grieve</a>, <a href="grist.html">grist</a>, <a href="habit.html">habit</a>, <a href="Halloween.html">Halloween</a>, <a href="handle.html">handle</a>, <a href="Hanukah.html">Hanukah</a>, <a href="hapax%20legomenon.html">hapax legomenon</a>, <a href="happy.html">happy</a>, <a href="hasten.html">hasten</a>, <a href="Hent.html">Hent</a>, <a href="high.html">high</a>, <a href="high%20time.html">high time</a>, <a href="hint.html">hint</a>, <a href="hissing.html">hissing</a>, <a href="hit.html">hit</a>, <a href="holiday.html">holiday</a>, <a href="honeymoon.html">honeymoon</a>, <a href="hour.html">hour</a>, <a href="impromptu.html">impromptu</a>, <a href="improper.html">improper</a>, <a href="improve.html">improve</a>, <a href="improving.html">improving</a>, <a href="improvise.html">improvise</a>, <a href="In.html">In</a>, <a href="in%20one%20case.html">in one case</a>, <a href="inappropriate.html">inappropriate</a>, <a href="inapt.html">inapt</a>, <a href="incur.html">incur</a>, <a href="infelicity.html">infelicity</a>, <a href="infer.html">infer</a>, <a href="informant.html">informant</a>, <a href="Ingenerate.html">Ingenerate</a>, <a href="Insidious%20disease.html">Insidious disease</a>, <a href="inspiration.html">inspiration</a>, <a href="instance.html">instance</a>, <a href="invite.html">invite</a>, <a href="ism.html">ism</a>, <a href="isotonic.html">isotonic</a>, <a href="Jerry.html">Jerry</a>, <a href="jollification.html">jollification</a>, <a href="jubilation.html">jubilation</a>, <a href="jubilee.html">jubilee</a>, <a href="keep.html">keep</a>, <a href="keeping.html">keeping</a>, <a href="Killut.html">Killut</a>, <a href="Knight-service.html">Knight-service</a>, <a href="labyrinth.html">labyrinth</a>, <a href="last.html">last</a>, <a href="lavabo.html">lavabo</a>, <a href="lend.html">lend</a>, <a href="Let-off.html">Let-off</a>, <a href="Lie.html">Lie</a>, <a href="Lie%20over.html">Lie over</a>, <a href="lien.html">lien</a>, <a href="livery.html">livery</a>, <a href="Lychnic.html">Lychnic</a>, <a href="maenad.html">maenad</a>, <a href="Magistral.html">Magistral</a>, <a href="make.html">make</a>, <a href="market.html">market</a>, <a href="marquee.html">marquee</a>, <a href="marriage.html">marriage</a>, <a href="master%20of%20ceremonies.html">master of ceremonies</a>, <a href="matter.html">matter</a>, <a href="May%20laws.html">May laws</a>, <a href="Maying.html">Maying</a>, <a href="meal.html">meal</a>, <a href="Merrythought.html">Merrythought</a>, <a href="mess.html">mess</a>, <a href="military.html">military</a>, <a href="Mister.html">Mister</a>, <a href="Mistimed.html">Mistimed</a>, <a href="modern.html">modern</a>, <a href="moment.html">moment</a>, <a href="music.html">music</a>, <a href="nature.html">nature</a>, <a href="need.html">need</a>, <a href="negligent.html">negligent</a>, <a href="next.html">next</a>, <a href="nonce.html">nonce</a>, <a href="nonce%20word.html">nonce word</a>, <a href="note.html">note</a>, <a href="oblivion.html">oblivion</a>, <a href="observance.html">observance</a>, <a href="occasional.html">occasional</a>, <a href="Occasional%20cause.html">Occasional cause</a>, <a href="Occasionalism.html">Occasionalism</a>, <a href="occasionally.html">occasionally</a>, <a href="Occasionate.html">Occasionate</a>, <a href="occurrence.html">occurrence</a>, <a href="offence.html">offence</a>, <a href="offense.html">offense</a>, <a href="on%20request.html">on request</a>, <a href="once.html">once</a>, <a href="Once%20in%20a%20way.html">Once in a way</a>, <a href="one%20time.html">one time</a>, <a href="opportunity.html">opportunity</a>, <a href="oration.html">oration</a>, <a href="orator.html">orator</a>, <a href="ordinance.html">ordinance</a>, <a href="origin.html">origin</a>, <a href="original.html">original</a>, <a href="originate.html">originate</a>, <a href="overdress.html">overdress</a>, <a href="party.html">party</a>, <a href="pastime.html">pastime</a>, <a href="pat.html">pat</a>, <a href="phenomenon.html">phenomenon</a>, <a href="photo%20op.html">photo op</a>, <a href="photo%20opportunity.html">photo opportunity</a>, <a href="Pick%20a%20quarrel.html">Pick a quarrel</a>, <a href="Pick-up.html">Pick-up</a>, <a href="pickup.html">pickup</a>, <a href="place.html">place</a>, <a href="Pr.html">Pr</a>, <a href="pretext.html">pretext</a>, <a href="pride.html">pride</a>, <a href="pro%20re%20nata.html">pro re nata</a>, <a href="produce.html">produce</a>, <a href="prompt.html">prompt</a>, <a href="promptitude.html">promptitude</a>, <a href="proper.html">proper</a>, <a href="protest%20march.html">protest march</a>, <a href="proud.html">proud</a>, <a href="provisional.html">provisional</a>, <a href="provisionary.html">provisionary</a>, <a href="provoke.html">provoke</a>, <a href="pulse.html">pulse</a>, <a href="push.html">push</a>, <a href="quality.html">quality</a>, <a href="quarrel.html">quarrel</a>, <a href="race%20meeting.html">race meeting</a>, <a href="Race-meeting.html">Race-meeting</a>, <a href="rain.html">rain</a>, <a href="raise.html">raise</a>, <a href="raising.html">raising</a>, <a href="Ranger.html">Ranger</a>, <a href="reality%20check.html">reality check</a>, <a href="reception.html">reception</a>, <a href="red-letter.html">red-letter</a>, <a href="rejoicing.html">rejoicing</a>, <a href="relay.html">relay</a>, <a href="rendezvous.html">rendezvous</a>, <a href="reproach.html">reproach</a>, <a href="repulsion.html">repulsion</a>, <a href="reservation.html">reservation</a>, <a href="reserve.html">reserve</a>, <a href="Resummons.html">Resummons</a>, <a href="right.html">right</a>, <a href="Rockaway.html">Rockaway</a>, <a href="room.html">room</a>, <a href="root.html">root</a>, <a href="safe.html">safe</a>, <a href="sale.html">sale</a>, <a href="sales%20event.html">sales event</a>, <a href="Saturnalia.html">Saturnalia</a>, <a href="scholium.html">scholium</a>, <a href="seemly.html">seemly</a>, <a href="semi-climber.html">semi-climber</a>, <a href="send-off.html">send-off</a>, <a href="serenade.html">serenade</a>, <a href="set.html">set</a>, <a href="Sheep-wash.html">Sheep-wash</a>, <a href="shoplifter.html">shoplifter</a>, <a href="side.html">side</a>, <a href="signal.html">signal</a>, <a href="Sithe.html">Sithe</a>, <a href="sitting.html">sitting</a>, <a href="sleepover.html">sleepover</a>, <a href="slick%20up.html">slick up</a>, <a href="slur.html">slur</a>, <a href="smarten%20up.html">smarten up</a>, <a href="snag.html">snag</a>, <a href="social%20dancing.html">social dancing</a>, <a href="solemnity.html">solemnity</a>, <a href="solicitude.html">solicitude</a>, <a href="sometime.html">sometime</a>, <a href="sore.html">sore</a>, <a href="sorrow.html">sorrow</a>, <a href="sound.html">sound</a>, <a href="Spatch-cock.html">Spatch-cock</a>, <a href="spatchcock.html">spatchcock</a>, <a href="special.html">special</a>, <a href="specific.html">specific</a>, <a href="speech.html">speech</a>, <a href="split.html">split</a>, <a href="spruce.html">spruce</a>, <a href="spruce%20up.html">spruce up</a>, <a href="stammer.html">stammer</a>, <a href="standing.html">standing</a>, <a href="stock.html">stock</a>, <a href="stock%20up.html">stock up</a>, <a href="strife.html">strife</a>, <a href="stuff.html">stuff</a>, <a href="stumble.html">stumble</a>, <a href="stump.html">stump</a>, <a href="subject.html">subject</a>, <a href="subsidy.html">subsidy</a>, <a href="suitable.html">suitable</a>, <a href="suited.html">suited</a>, <a href="supporter.html">supporter</a>, <a href="Swan-hopping.html">Swan-hopping</a>, <a href="take%20time%20by%20the%20forelock.html">take time by the forelock</a>, <a href="talk.html">talk</a>, <a href="tear.html">tear</a>, <a href="tearful.html">tearful</a>, <a href="temporise.html">temporise</a>, <a href="temporize.html">temporize</a>, <a href="tetanic.html">tetanic</a>, <a href="threnody.html">threnody</a>, <a href="tidy.html">tidy</a>, <a href="time.html">time</a>, <a href="time%20being.html">time being</a>, <a href="To%20cost%20dear.html">To cost dear</a>, <a href="To%20draw%20on.html">To draw on</a>, <a href="To%20give%20a%20handle.html">To give a handle</a>, <a href="To%20pick%20a%20quarrel.html">To pick a quarrel</a>, <a href="To%20splice%20the%20main%20brace.html">To splice the main brace</a>, <a href="trainbearer.html">trainbearer</a>, <a href="transmission.html">transmission</a>, <a href="trench.html">trench</a>, <a href="tribulation.html">tribulation</a>, <a href="trouble.html">trouble</a>, <a href="trying.html">trying</a>, <a href="turn.html">turn</a>, <a href="turnout.html">turnout</a>, <a href="type.html">type</a>, <a href="underdressed.html">underdressed</a>, <a href="universal.html">universal</a>, <a href="unseasonable.html">unseasonable</a>, <a href="uplift.html">uplift</a>, <a href="Upsitting.html">Upsitting</a>, <a href="urgency.html">urgency</a>, <a href="urgent.html">urgent</a>, <a href="use.html">use</a>, <a href="valedictory.html">valedictory</a>, <a href="veto.html">veto</a>, <a href="victor.html">victor</a>, <a href="Voluntarism.html">Voluntarism</a>, <a href="want.html">want</a>, <a href="Ward-corn.html">Ward-corn</a>, <a href="wash.html">wash</a>, <a href="wassail.html">wassail</a>, <a href="watchword.html">watchword</a>, <a href="well.html">well</a>, <a href="windy.html">windy</a>, <a href="work-in.html">work-in</a>, <a href="wretch.html">wretch</a>, <a href="wrong.html">wrong</a>, <a href="%C5%92nanthic.html">Œnanthic</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					iccasion, kccasion, lccasion, pccasion, oxcasion, odcasion, ofcasion, ovcasion, ocxasion, ocdasion, ocfasion, ocvasion, occqsion, occwsion, occssion, occzsion, occaaion, occawion, occadion, occaxion, occazion, occaaion, occasuon, occasjon, occaskon, occasoon, occasiin, occasikn, occasiln, occasipn, occasiob, occasioh, occasioj, occasiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

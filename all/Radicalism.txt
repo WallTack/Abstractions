@@ -1,0 +1,508 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>radicalism</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">radicalism</span> <span class="exp">the political orientation of those who favor revolutionary change in government and society</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Radicalism</span> <span class="exp">The quality or state of being radical; specifically, the doctrines or principles of radicals in politics or social reform.</span> <span class="wuQuot">"Radicalism means root work; the uprooting of all falsehoods and abuses."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">radicalism</span> <span class="exp">The state or character of being radical; the holding or carrying out of extreme principles on any subject; specifically, extreme political liberalism; the doctrine or principle of uncompromising reform in government; the system or methods advocated by the political Radicals of a country.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Radicalism</span> <span class="exp">the principles or spirit of a radical or democrat</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mark Twain</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mark%20Twain.jpg" alt="Mark%20Twain">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The radical invents the views. When he has worn them out, the conservative adopts them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mark Twain</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mark%20Twain.jpg" alt="Mark%20Twain">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The radical of one century is the conservative of the next. The radical invents the views. When he has worn them out, the conservative adopts them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Butler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Butler.jpg" alt="Samuel%20Butler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The healthy stomach is nothing if it is not conservative. Few radicals have good digestions.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alice Walker</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Alice%20Walker.jpg" alt="Alice%20Walker">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The gift of loneliness is sometimes a radical vision of society or one's people that has not previously been taken into account.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Fischer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Fischer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What this country needs is radicals who will stay that way regardless of the creeping years.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Franklin D. Roosevelt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Franklin%20D.%20Roosevelt.jpg" alt="Franklin%20D.%20Roosevelt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A radical is a man with both feet firmly planted in the air.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">radicalisme</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					<i>Radix.</i>
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The scandals about the duke of York and the Walcheren expedition gave a chance to the Radicals and to their leader in the House of Commons.
+					</div>
+					<div class="uAuthor">
+						"The English Utilitarians, Volume II (of 3)" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						For that reason, radical finalism is very near radical mechanism on many points.
+					</div>
+					<div class="uAuthor">
+						"Creative Evolution" by <span>Henri Bergson</span>					</div>
+										<div class="usage">
+						It was dreadfully radical to the most of my audience.
+					</div>
+					<div class="uAuthor">
+						"A Spoil of Office" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						It is a spontaneous operation and of a more radical nature than the other.
+					</div>
+					<div class="uAuthor">
+						"Essay on the Creative Imagination" by <span>Th. Ribot</span>					</div>
+										<div class="usage">
+						But what is the English Radical party itself living under now?
+					</div>
+					<div class="uAuthor">
+						"The Quarterly Review, Volume 162, No. 324, April, 1886" by <span>Various</span>					</div>
+										<div class="usage">
+						This is an age of radical ideas.
+					</div>
+					<div class="uAuthor">
+						"Mother Earth, Vol. 1 No. 1, March 1906" by <span>Various</span>					</div>
+										<div class="usage">
+						Prime Minister Guizot declined to enter into any of the radical schemes for reform.
+					</div>
+					<div class="uAuthor">
+						"A History of the Nineteenth Century, Year by Year" by <span>Edwin Emerson</span>					</div>
+										<div class="usage">
+						The Radicals alone were delighted and triumphant.
+					</div>
+					<div class="uAuthor">
+						"Lord John Russell" by <span>Stuart J. Reid</span>					</div>
+										<div class="usage">
+						Their radicalism, however, was not thoroughly democratic.
+					</div>
+					<div class="uAuthor">
+						"The English Utilitarians, Volume I." by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						It was made disgraceful by the violence of the radical Republicans and the intemperate retorts of Johnson.
+					</div>
+					<div class="uAuthor">
+						"The New Nation" by <span>Frederic L. Paxson</span>					</div>
+										<div class="usage">
+						The teachings of Christ were so radically new that men were slow to adopt them.
+					</div>
+					<div class="uAuthor">
+						"History of Education" by <span>Levi Seeley</span>					</div>
+										<div class="usage">
+						These principles are now so well established that it is hard to realize how bold and radical they appeared in 1839.
+					</div>
+					<div class="uAuthor">
+						"George Brown" by <span>John Lewis</span>					</div>
+										<div class="usage">
+						He said the Whigs were certain to join the Radicals.
+					</div>
+					<div class="uAuthor">
+						"The Greville Memoirs" by <span>Charles C. F. Greville</span>					</div>
+										<div class="usage">
+						The experiment, radical at best, has failed more than once.
+					</div>
+					<div class="uAuthor">
+						"Writings in the United Amateur, 1915-1922" by <span>Howard Phillips Lovecraft</span>					</div>
+										<div class="usage">
+						Indeed, through him I first became aware that Radicalism meant more than some perverse absurdity of the ignorant.
+					</div>
+					<div class="uAuthor">
+						"Memoirs of Life and Literature" by <span>W. H. Mallock</span>					</div>
+										<div class="usage">
+						Indeed, they have ever differed from each other radically in their cultivated crops.
+					</div>
+					<div class="uAuthor">
+						"The History of Cuba, vol. 1" by <span>Willis Fletcher Johnson</span>					</div>
+										<div class="usage">
+						Early in 1899, therefore, radical reforms were undertaken.
+					</div>
+					<div class="uAuthor">
+						"The History of Cuba, vol. 4" by <span>Willis Fletcher Johnson</span>					</div>
+										<div class="usage">
+						In some quarters, especially in the latter stages of the movement, it assumed more radical forms.
+					</div>
+					<div class="uAuthor">
+						"The Story of Our Hymns" by <span>Ernest Edwin Ryden</span>					</div>
+										<div class="usage">
+						He was a radical at heart if ever there was a radical.
+					</div>
+					<div class="uAuthor">
+						"Rachel Ray" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						But the Spanish Government would not tolerate a man of his radical opinions, so he was put aboard a steamer bound for Cuba.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume VII (of VIII)" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							I think that Samuel Johnson said<br>
+His side had won the day,<br>
+Had not we women radicals<br>
+Just got right in the way.
+							<div class="poet">"The Deliverance" by <span>Frances Ellen Watkins</span></div>
+						</div>
+											<div class="poemQuote">
+							Then, in the future that we see,<br>
+Bamford, the Radical, shall live anew,<br>
+And be proclaim'd abroad, as he<br>
+Who fought for Freedom when her friends were few!
+							<div class="poet">"Lines, to Mr. Samuel Bamford, on his seventy-sixth birthday, February 28th, 1864." by <span>Samuel Bamford</span></div>
+						</div>
+											<div class="poemQuote">
+							So I turn tory for the nonce,<br>
+And think the radical a bore,<br>
+Who cannot see, thick-witted dunce,<br>
+That what was good for people once<br>
+Must be as good forevermore.
+							<div class="poet">"The Optimist" by <span>James Russell Lowell</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						To make its system more attractive to ambitious franchisees, Taco John's took a radical step: it brought them in on the development process.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.inc.com/magazine/19951101/2474.html" target="_blank" rel="external nofollow">inc.com</a>
+					</div>
+										<div class="usage">
+						It was just last November that Weezer released their last album with radical attitude, titled Raditude.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wttsfm.com/2010/07/weezer-sets-date/" target="_blank" rel="external nofollow">wttsfm.com</a>
+					</div>
+										<div class="usage">
+						Terry Riley's Radical Openness to Sound.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wnyc.org/people/seth-walls/" target="_blank" rel="external nofollow">wnyc.org</a>
+					</div>
+										<div class="usage">
+						Egypt, Without Illusions Democratization will be a messy and turbulent process, but fears of a radical Islamist takeover are overblown.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nationalreview.com/articles/259835/egypt-without-illusions-duncan-currie" target="_blank" rel="external nofollow">nationalreview.com</a>
+					</div>
+										<div class="usage">
+						Allan Boesak and Curtiss DeYoung to Discuss Radical Reconciliation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://whtc.com/blogs/post/dcash/2012/nov/06/allan-boesak-and-curtiss-deyoung-discuss-radical-r/" target="_blank" rel="external nofollow">whtc.com</a>
+					</div>
+										<div class="usage">
+						How a trip to the Philadelphia museum of Art inspired the 20th century's most radical artists.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.citypaper.net/cover_story/Dada_Issues.html" target="_blank" rel="external nofollow">citypaper.net</a>
+					</div>
+										<div class="usage">
+						But many of the same radicals believe in the survival of the fittest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.centredaily.com/2012/09/28/3352059/letter-to-the-editor-social-darwinism.html" target="_blank" rel="external nofollow">centredaily.com</a>
+					</div>
+										<div class="usage">
+						The hunt for the radical, young—and possibly lovelorn—conceptual-Marxist street-art supervillain.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/news/features/32388/" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						Philadelphia school "recovery" officials have announced a radical restructuring plan that calls for.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/answer-sheet/post/a-defeatist-plan-to-restructure-philadelphia-public-schools/2012/04/28/gIQAjRSanT_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						On Monday's episode of Real Housewives of New York -- the second of the radically different fifth season.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usmagazine.com/entertainment/news/ramona-singer-luann-de-lesseps-is-delusional-2012126" target="_blank" rel="external nofollow">usmagazine.com</a>
+					</div>
+										<div class="usage">
+						As the NFL and its critics fret over a rash of player concussions, one fan discovers a radical solution to save his beloved game.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hemispheresmagazine.com/2011/01/01/head-game/" target="_blank" rel="external nofollow">hemispheresmagazine.com</a>
+					</div>
+										<div class="usage">
+						The band xx plays music so quiet, it's radical.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnr.com/blog/plank/106811/quiet-rockers-hypnotized-chickens-and-five-star-reviews-sale-today%E2%80%99s-tnr-reader" target="_blank" rel="external nofollow">tnr.com</a>
+					</div>
+										<div class="usage">
+						Radical choices for federal judgeships deserve close Senate scrutiny.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2011/mar/21/obamas-injudicious-nominees/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						When the governor of Michigan ran for the Republican nomination, in 1968, he tried to stand up against the more radical wing of his party.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/news/features/george-romney-2012-5?imw=Y&amp;f=most-emailed-24h10" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						Peter King's witnesses at his hearing on radicalization in the Muslim American community painted Muslims as dupes or as untrustworthy citizens.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thenation.com/article/159194/king-hearing-casts-muslim-americans-clueless-not-intellectually-equipped" target="_blank" rel="external nofollow">thenation.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This interference will cause a radically different behavior of the quantum walk. 
+					</div>
+					<div class="uAuthor">
+						Quantum random walks - an introductory overview
+					</div>
+										<div class="usage">
+						For any ideal I of R we have two notions of radical of ∗I in the ring ∗R. 
+					</div>
+					<div class="uAuthor">
+						Elements of Nonstandard Algebraic Geometry
+					</div>
+										<div class="usage">
+						It can also easily be proved that ∗J (R) = J (∗R) where J (R) is the Jacobson radical of R and similarly J (∗R) is the Jacobson radical of ∗R. 
+					</div>
+					<div class="uAuthor">
+						Elements of Nonstandard Algebraic Geometry
+					</div>
+										<div class="usage">
+						Let L denote the Lie derivative and let N = N (T M ) := ∪x∈M N (TxM ); N is called the radical distribution on M . 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						E ≡ T M and let σ ∈ Γ(T ∗M ⊗ T M ) be radical-preserving. 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						Let φ : M → N be a (C 1) radical-preserving map. 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						We shall say that a radical-preserving map φ : M → N between stationary semi-Riemannian manifolds is (generalized) harmonic if its (generalized) tension ﬁeld τ (φ) is identically zero. 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						Lemma 1.11) that, if a manifold M is stationary, then its radical distribution N (T M ) is integrable. 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						Let φ : (M , g ) → (N , h) be a radical-preserving map between stationary manifolds. 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						Let (M , g ) and (N , h) be two stationary manifolds of dimension m and n respectively, whose radical distributions N (T M ) and N (T N ) have ranks r and ρ respectively. 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						Let φ : M → N be a radical-preserving map between stationary manifolds. 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						Let φ : M → N be a radical-preserving map between stationary manifolds. 
+					</div>
+					<div class="uAuthor">
+						Harmonic morphisms between degenerate semi-Riemannian manifolds
+					</div>
+										<div class="usage">
+						Note also that the forms (·, ·) and (·, ·)′ on V have the same radical V 0 . 
+					</div>
+					<div class="uAuthor">
+						Generalized reductive Lie algberas
+					</div>
+										<div class="usage">
+						Remark 2.8. (i) From [AABGP, Theorem II.2.37] we know that the set of isotropic roots of an EARS is of the form S + S where S is a semilattice in the radical of the form. 
+					</div>
+					<div class="uAuthor">
+						Generalized reductive Lie algberas
+					</div>
+										<div class="usage">
+						H0 (R) = spanC{tδ | δ ∈ R0}. j )tαj ∈ ˙Ht be in the radical of the form (·, ·) Proof. (i) Let h = P(kj + ik ′ restricted to ˙Ht , where αj ∈ ˙Rt , kj , k ′ j ∈ R and i is the complex number with i2 = −1. 
+					</div>
+					<div class="uAuthor">
+						Generalized reductive Lie algberas
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ideology.html">ideology</a>, <a href="political%20orientation.html">political orientation</a>, <a href="political%20theory.html">political theory</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="jacobinism.html">jacobinism</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="nihilism.html">nihilism</a>, <a href="radicalize.html">radicalize</a>, <a href="Young%20England.html">Young England</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					eadicalism, dadicalism, fadicalism, tadicalism, rqdicalism, rwdicalism, rsdicalism, rzdicalism, rasicalism, raeicalism, raficalism, racicalism, raxicalism, rasicalism, raducalism, radjcalism, radkcalism, radocalism, radixalism, radidalism, radifalism, radivalism, radicqlism, radicwlism, radicslism, radiczlism, radicakism, radicaoism, radicapism, radicalusm, radicaljsm, radicalksm, radicalosm, radicaliam, radicaliwm, radicalidm, radicalixm, radicalizm, radicaliam, radicalisn, radicalisj, radicalisk
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

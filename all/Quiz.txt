@@ -1,0 +1,455 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>quiz</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">quiz</span> <span class="exp">examine someone's knowledge of something</span> <span class="quot">"The teacher tests us every week","We got quizzed on French irregular verbs"</span></li><li><span class="tSpeech">n</span> <span class="term">quiz</span> <span class="exp">an examination consisting of a few short questions</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										When Errol Flynn appeared as a contestant on the mid-1950s TV quiz show The Big Surprise, he was questioned about sailing and won $30,000.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Quiz</span> <span class="exp">A riddle or obscure question; an enigma; a ridiculous hoax.</span> </li><li><span class="term">Quiz</span> <span class="exp">An exercise, or a course of exercises, conducted as a coaching or as an examination.</span> </li><li><span class="term">Quiz</span> <span class="exp">An odd or absurd fellow.</span> </li><li><span class="term">Quiz</span> <span class="exp">One who quizzes others; as, he is a great <span class="wUex">quiz</span>
+            .</span> </li><li><span class="tSpeech">v. i</span> <span class="term">Quiz</span> <span class="exp"><span class="itl">kwĭz</span> To conduct a quiz. See <span class="wUer">Quiz</span>
+         <span class="wUpos">n.</span>, 4.</span> </li><li><span class="term">Quiz</span> <span class="exp">To instruct in or by a quiz. See <span class="wUer">Quiz</span>
+            <span class="wUpos">n.</span>, 4.</span> </li><li><span class="term">Quiz</span> <span class="exp">To peer at; to eye suspiciously or mockingly.</span> </li><li><span class="term">Quiz</span> <span class="exp">To puzzle; to banter; to chaff or mock with pretended seriousness of discourse; to make sport of, as by obscure questions.</span> <span class="wuQuot">"He quizzed unmercifully all the men in the room."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">quiz</span> <span class="exp">A puzzling question; something designed to puzzle one or make one ridiculous; banter; raillery.</span> </li><li><span class="tSpeech">n</span> <span class="term">quiz</span> <span class="exp">One who quizzes.</span> </li><li><span class="tSpeech">n</span> <span class="term">quiz</span> <span class="exp">One who or that which is obnoxious to ridicule or quizzing; a queer or ridiculous person or thing.</span> </li><li><span class="tSpeech">n</span> <span class="term">quiz</span> <span class="exp">An oral questioning of a student or class by a teacher, conducted with the object of communicating instruction and preparing for some examination: as, the surgery quiz; the practice quiz. [Colloq.]</span> </li><li><span class="tSpeech">n</span> <span class="term">quiz</span> <span class="exp">A collection of notes made by a student from a professor's lectures, especially when printed for the use of other students. [Colloq.]</span> </li><li><span class="tSpeech">n</span> <span class="term">quiz</span> <span class="exp">A monocular eye-glass, with or without a handle; a quizzing-glass.</span> </li><li><span class="term">quiz</span> <span class="exp">To puzzle; banter; make sport of by means of puzzling questions, hints, and the like; chaff.</span> </li><li><span class="term">quiz</span> <span class="exp">To look at through or as through a quizzing-glass; peer at; scrutinize suspiciously.</span> </li><li><span class="term">quiz</span> <span class="exp">In medicine, to examine (a student) orally or informally, as in a quiz-or question-class.</span> </li><li><span class="term">quiz</span> <span class="exp">To practise bantering or chaffing; be addicted to teasing.</span> </li><li><span class="term">quiz</span> <span class="exp">In medicine, to attend oral or informal examinations, as in a quiz-class.</span> </li><li><span class="tSpeech">n</span> <span class="term">quiz</span> <span class="exp">A toy, formerly popular, consisting of a small cylinder or wheel grooved to receive a string, by which the wheel is made to wind and unwind itself. Also called bandalore.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Quiz</span> <span class="exp"><span class="itl">kwiz</span> a riddle or enigma: one who quizzes another: an odd fellow: a monocular eye-glass, often with a handle:</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Quiz</span> <span class="exp">to puzzle: to banter or make sport of: to examine narrowly and with an air of mockery</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Quiz</span> <span class="exp">to practise derisive joking:—<span class="itl">pr.p.</span> quiz′zing; <span class="itl">pa.t.</span> and <span class="itl">pa.p.</span> quizzed</span> </li><li><span class="tSpeech">n</span> <span class="term">Quiz</span> <span class="exp"><span class="itl">kwiz</span> (<span class="itl">coll.</span>) an oral examination of a pupil or class by a teacher</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					It is said that Daly, the manager of a Dublin playhouse, laid a wager that a new word of no meaning should be the common talk and puzzle of the city in twenty-four hours. In consequence of this the letters <span class="wUets">q u i z</span>, were chalked by him on all the walls of Dublin, with an effect that won the wager. Perhaps, however, originally a variant of <span class="wUets">whiz</span>, and formerly the name of a popular game
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Origin obscure; doubtless framed from <i>question</i>, or direct from L. <i>quæso</i>, I ask.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Sailors have all sorts of queer answers to give to these questions, to quiz the passengers who ask them, and amuse themselves.
+					</div>
+					<div class="uAuthor">
+						"Rollo on the Atlantic" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						Hoped they would not quiz him, for he was unhappy enough.
+					</div>
+					<div class="uAuthor">
+						"Memoirs of the Court of George IV. 1820-1830 (Vol 1)" by <span>Duke of Buckingham and Chandos</span>					</div>
+										<div class="usage">
+						Does this writer quiz his reader, or, in good faith, give him a needed hint?
+					</div>
+					<div class="uAuthor">
+						"Classic French Course in English" by <span>William Cleaver Wilkinson</span>					</div>
+										<div class="usage">
+						No one seemed, however, inclined to quiz him.
+					</div>
+					<div class="uAuthor">
+						"Old Jack" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Not that he is very respectful in his manner of proceeding: the following dry quiz on his opponent's logic must have been very cutting, being true.
+					</div>
+					<div class="uAuthor">
+						"A Budget of Paradoxes, Volume I (of II)" by <span>Augustus De Morgan</span>					</div>
+										<div class="usage">
+						You have seen me quiz other skaters: you must go and see other skaters quiz me.
+					</div>
+					<div class="uAuthor">
+						"Deerbrook" by <span>Harriet Martineau</span>					</div>
+										<div class="usage">
+						Come now, don't quiz a fellow too close.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1905 to 1906" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						But they aren't Quiz Kids.
+					</div>
+					<div class="uAuthor">
+						"The Armed Forces Officer" by <span>U. S. Department of Defense</span>					</div>
+										<div class="usage">
+						Next day, Sunday, his friends from Sulby came to quiz and to question.
+					</div>
+					<div class="uAuthor">
+						"The Manxman A Novel - 1895" by <span>Hall Caine</span>					</div>
+										<div class="usage">
+						Gathered to quiz the floundering bear.
+					</div>
+					<div class="uAuthor">
+						"Fables of John Gay" by <span>John Gay</span>					</div>
+										<div class="usage">
+						He sat blind through the first-hour quiz in physics, with the whole class watching him.
+					</div>
+					<div class="uAuthor">
+						"The Trail of the Hawk" by <span>Sinclair Lewis</span>					</div>
+										<div class="usage">
+						He longed to question further, to quiz her a little, but something in the tone of the monosyllable prevented.
+					</div>
+					<div class="uAuthor">
+						"The Chautauqua Girls At Home" by <span>Pansy, AKA Isabella M. Alden</span>					</div>
+										<div class="usage">
+						But supposing Cleigh had wished really to quiz Jane?
+					</div>
+					<div class="uAuthor">
+						"The Pagan Madonna" by <span>Harold MacGrath</span>					</div>
+										<div class="usage">
+						Still, he was right in thinking she would not quiz him beyond a certain point.
+					</div>
+					<div class="uAuthor">
+						"The Ranch at the Wolverine" by <span>B. M. Bower</span>					</div>
+										<div class="usage">
+						The quiz classes should not be too large.
+					</div>
+					<div class="uAuthor">
+						"College Teaching" by <span>Paul Klapper</span>					</div>
+										<div class="usage">
+						Then we had breakfast, and the men had a chance to look the captures over and quiz the prisoners.
+					</div>
+					<div class="uAuthor">
+						"Personal Recollections of a Cavalryman" by <span>J. H. (James Harvey) Kidd</span>					</div>
+										<div class="usage">
+						I resolved to quiz him well, now and hereafter.
+					</div>
+					<div class="uAuthor">
+						"Masterpieces of Mystery" by <span>Various</span>					</div>
+										<div class="usage">
+						So the student decided to quiz a little.
+					</div>
+					<div class="uAuthor">
+						"Whittier-land" by <span>Samuel T.  Pickard</span>					</div>
+										<div class="usage">
+						Then let us walk about and quiz people.
+					</div>
+					<div class="uAuthor">
+						"The Complete Project Gutenberg Works of Jane Austen" by <span>Jane Austen</span>					</div>
+										<div class="usage">
+						Then, ma'am, I shall do nothing but quiz you at the ball.
+					</div>
+					<div class="uAuthor">
+						"Quality Street" by <span>J. M. Barrie</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							But no; resolved to have her quiz,<br>
+The lady held her own - and his -<br>
+And PETER left his humble cot<br>
+To find a pair of - you know what.
+							<div class="poet">"The Perils of Invisibility" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							Across from gap to gap:<br>
+And in the larch woods on the highest boughs<br>
+The long-eared owls like grey cats sitting still<br>
+Peer down to quiz the passengers below.
+							<div class="poet">"Ryton Firs" by <span>Lascelles Abercrombie</span></div>
+						</div>
+											<div class="poemQuote">
+							PIERROT<br>
+We quiz the company and praise the rout;<br>
+Are polished, petulant, malicious, sly,<br>
+Or what you will, so reputations die.<br>
+Observe the Duchess in Venetian lace,<br>
+With the red eminence.
+							<div class="poet">"The Pierrot Of The Minute" by <span>Ernest Christopher Dowson</span></div>
+						</div>
+											<div class="poemQuote">
+							"Blades" tough and hearty a week ago,<br>
+Who tippled and danced and laughed,<br>
+Are "suddenly taken," and some quite low<br>
+With an epidemical illness, you know:<br>
+"What!--Zounds!--the cholera?" you quiz;--no--no--<br>
+The doctors call it the "Draft."
+							<div class="poet">"The Draft" by <span>Hanford Lennox Gordon</span></div>
+						</div>
+											<div class="poemQuote">
+							'A woman never agreed to it!' said my knowing friend to me.<br>
+'That one thing she'd refuse to do for Solomon's mines in fee:<br>
+No woman ever will make herself look older than she is.'<br>
+I did not answer; but I thought, 'You err there, ancient Quiz.'
+							<div class="poet">"The Elopement" by <span>Thomas Hardy</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Can a tongue-in-cheek quiz reveal your true professional nature.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cfo.com/article.cfm/14551061/c_14551704?f=magazine_alsoinside" target="_blank" rel="external nofollow">cfo.com</a>
+					</div>
+										<div class="usage">
+						Here's a little troubleshooting quiz for you to think about.
+					</div>
+					<div class="uAuthor">
+						<a href="http://rwonline.com/article/what-caused-his-erratic-vswr/215203" target="_blank" rel="external nofollow">rwonline.com</a>
+					</div>
+										<div class="usage">
+						MILLEDGEVILLE — Pop Quiz: When was the last time you've had to deal with a leak.
+					</div>
+					<div class="uAuthor">
+						<a href="http://unionrecorder.com/columns/x1501151477/OUR-SPACE-Nobody-likes-a-leak-especially-on-the-ISS/print" target="_blank" rel="external nofollow">unionrecorder.com</a>
+					</div>
+										<div class="usage">
+						Take our quiz to find out.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/The-Culture/Family/Modern-Parenthood/2012/0509/Thank-you-Gloria-Steinem-Feminism-family-and-the-fourth-wave" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						New York's Finger Lakes Quiz.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kids.nationalgeographic.com/travel/road-trips/finger-lakes-new-york-quiz/" target="_blank" rel="external nofollow">kids.nationalgeographic.com</a>
+					</div>
+										<div class="usage">
+						Now that the Penguins are 17 games into their season, including a 5-2 loss to Philadelphia at the Wachovia Center last night, it might be a good time for a quiz.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/pg/07315/833035-61.stm" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						Another quiz to brighten up your gloomy Winnipeg September.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winnipegfreepress.com/local/lets-get-down-169078556.html" target="_blank" rel="external nofollow">winnipegfreepress.com</a>
+					</div>
+										<div class="usage">
+						Quiz Style get Out Pen And Paper.
+					</div>
+					<div class="uAuthor">
+						<a href="http://ktrh.com/pages/mattthomas.html?article=10582053" target="_blank" rel="external nofollow">ktrh.com</a>
+					</div>
+										<div class="usage">
+						Pediatrics Quiz of the Week.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.consultantlive.com/display/article/1803329/2116395" target="_blank" rel="external nofollow">consultantlive.com</a>
+					</div>
+										<div class="usage">
+						Take our ultimate quiz with Miss Happiness herself, Goldie Hawn.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/showinfo/Are-You-Happy-Take-Our-Quiz-with-Oscar-Winner-Goldie-Hawn" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						Test your grammar 'smarts' with our quiz.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/The-Culture/The-Home-Forum/2012/1113/Test-your-grammar-smarts-with-our-quiz/Fill-in-the-blank-with-who-whom-whose-or-who-s./(result)/1" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Yesterday's quiz question answer fire.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.whms.com/blogs/mitm/2012-02/groundhog-day.html" target="_blank" rel="external nofollow">whms.com</a>
+					</div>
+										<div class="usage">
+						But this quiz will help.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.esquire.com/features/quiz/sex-quiz" target="_blank" rel="external nofollow">esquire.com</a>
+					</div>
+										<div class="usage">
+						Lawmakers quiz officials on risks, upsides to health insurance exchange.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.greenfieldreporter.com/view/story/c336708731d547acb7068acaec206f83/WV--Health-Overhaul-Exchange/" target="_blank" rel="external nofollow">greenfieldreporter.com</a>
+					</div>
+										<div class="usage">
+						NaNoWriMo Giveaway (Day 21): The Hero/ Heroine Quiz.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.writersdigest.com/online-editor/nanowrimo-giveaway-day-21-the-heroheroine-quiz" target="_blank" rel="external nofollow">writersdigest.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						La primera y quizá la más importante es que debido a las ﬂuctuaciones de la distribución de materia, pequeñas ﬂuctuaciones deben de existir en el CBR. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Quizás eliminando esta complejidad añadida los humanos hubieran obtenido mejores puntuaciones. 
+					</div>
+					<div class="uAuthor">
+						Analysis of first prototype universal intelligence tests: evaluating and comparing AI algorithms and humans
+					</div>
+										<div class="usage">
+						Una posibilidad es que quizás el tamaño de nuestra muestra sea demasiado pequeño. 
+					</div>
+					<div class="uAuthor">
+						Analysis of first prototype universal intelligence tests: evaluating and comparing AI algorithms and humans
+					</div>
+										<div class="usage">
+						Si hubiéramos tenido más entornos con mayor complejidad y dejando que los agentes interactuasen más tiempo en cada uno de ellos, quizás veríamos una imagen distinta. 
+					</div>
+					<div class="uAuthor">
+						Analysis of first prototype universal intelligence tests: evaluating and comparing AI algorithms and humans
+					</div>
+										<div class="usage">
+						Segundo, Q-learning requiere muchas interacciones para converger, por lo que quizás solo se exagerase la diferencia a favor de Q-learning. 
+					</div>
+					<div class="uAuthor">
+						Analysis of first prototype universal intelligence tests: evaluating and comparing AI algorithms and humans
+					</div>
+										<div class="usage">
+						Por lo que una mejor distribución de entornos (o quizás clase) debería dar mayor probabilidad a la adquisición incremental de conocimiento, a las capacidades sociales y a entornos más reactivos. 
+					</div>
+					<div class="uAuthor">
+						Analysis of first prototype universal intelligence tests: evaluating and comparing AI algorithms and humans
+					</div>
+										<div class="usage">
+						Galley’s paper in the chemistry education literature (figure 13) in a quiz early in the second term of the class.35 An O-P bond in ATP is referred to as a "high energy phosphate bond" because: (choose all correct answers.) A. 
+					</div>
+					<div class="uAuthor">
+						The role of context and culture in teaching physics: The implication of disciplinary differences
+					</div>
+										<div class="usage">
+						Gregor explicitly describes his loss of points on the quiz as a framing error. 
+					</div>
+					<div class="uAuthor">
+						The role of context and culture in teaching physics: The implication of disciplinary differences
+					</div>
+										<div class="usage">
+						The second interview, with Wylie, was three weeks later, after the research team had seen the Gregor interview data, so the interviewer prompted Wylie more directly about the ATP quiz question, in order to compare with Gregor. 
+					</div>
+					<div class="uAuthor">
+						Students' Interdisciplinary Reasoning about "High-Energy Bonds" and ATP
+					</div>
+										<div class="usage">
+						On the quiz question, 79% of the class (N=19) selected choice C (breaking the bond releases energy) as a correct answer (whether on its own or along with other answer choices). 
+					</div>
+					<div class="uAuthor">
+						Students' Interdisciplinary Reasoning about "High-Energy Bonds" and ATP
+					</div>
+										<div class="usage">
+						They were encouraged to discuss the response with each other, and each test counted for one quiz grade. 
+					</div>
+					<div class="uAuthor">
+						Effectiveness of group interaction on conceptual standardized test performance
+					</div>
+										<div class="usage">
+						We present the WebTeach project, formed by a web interface to database for test management, a wiki site for the diffusion of teaching material and student forums, and a suite for the generation of multiple-choice mathematical quiz with automatic elaboration of forms. 
+					</div>
+					<div class="uAuthor">
+						WebTeach in practice: the entrance test to the Engineering faculty in Florence
+					</div>
+										<div class="usage">
+						Key Words: distance teaching, database interface, multiple-choice quiz, optical mark recognition. 
+					</div>
+					<div class="uAuthor">
+						WebTeach in practice: the entrance test to the Engineering faculty in Florence
+					</div>
+										<div class="usage">
+						Therefore, we have developed another version of this module: Ttest (Tomić, Lacković, &amp; Verbić, 2008). It is based on Quiz but provides us not only with students’ scores but all data including time required that student answer each particular question. 
+					</div>
+					<div class="uAuthor">
+						Test item response time and the response likelihood
+					</div>
+										<div class="usage">
+						We have developed a software application for quiz-based testing. The application, called GrileX has been developed in the C# programming language, in the Visual Studio .
+					</div>
+					<div class="uAuthor">
+						XML Technologies in Computer Assisted Learning and Testing Systems
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="examine someone's knowledge of something"><a href="test.html">test</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="exam.html">exam</a>, <a href="examination.html">examination</a>, <a href="examine.html">examine</a>, <a href="test.html">test</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="pop%20quiz.html">pop quiz</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="quizzer.html">quizzer</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="banter.html">banter</a>, <a href="chaff.html">chaff</a>, <a href="Persifleur.html">Persifleur</a>, <a href="pop%20quiz.html">pop quiz</a>, <a href="question%20master.html">question master</a>, <a href="quizmaster.html">quizmaster</a>, <a href="quizzer.html">quizzer</a>, <a href="quizzical.html">quizzical</a>, <a href="Quizzify.html">Quizzify</a>, <a href="rally.html">rally</a>, <a href="smoke.html">smoke</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wuiz, auiz, suiz, qyiz, qhiz, qjiz, qiiz, quuz, qujz, qukz, quoz, quia, quis, quix
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

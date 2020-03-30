@@ -1,0 +1,430 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>heroism</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">heroism</span> <span class="exp">the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)</span> <span class="quot">"he showed great heroism in battle","he received a medal for valor"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Heroism</span> <span class="exp">The qualities characteristic of a hero, as courage, bravery, fortitude, unselfishness, etc.; the display of such qualities.</span> <span class="wuQuot">"Heroism is the self-devotion of genius manifesting itself in action."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">heroism</span> <span class="exp">The qualities of a hero, as courage, intrepidity, fortitude, etc.; heroic character or action.</span> </li><li><span class="tSpeech">n</span> <span class="term">heroism</span> <span class="exp">Synonyms Valor, gallantry, daring, boldness, fearlessness. See brave and heroic.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Heroism</span> <span class="exp">the qualities of a hero: courage: boldness</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Natalie Clifford Barney</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Natalie%20Clifford%20Barney.jpg" alt="Natalie%20Clifford%20Barney">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Renouncement: the heroism of mediocrity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Hazlitt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Hazlitt.jpg" alt="William%20Hazlitt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is a heroism in crime as well as in virtue. Vice and infamy have their altars and their religion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles H. Parkhurst</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles H. Parkhurst">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Faith is the heroism of the intellect.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Napoleon Bonaparte</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Napoleon%20Bonaparte.jpg" alt="Napoleon%20Bonaparte">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“True heroism consists in being superior to the ills of life, in whatever shape they may challenge us to combat.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Carlyle.jpg" alt="Thomas%20Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Heroism is the divine relation which, in all times, unites a great man to other men.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Calvin Coolidge</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Calvin%20Coolidge.jpg" alt="Calvin%20Coolidge">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Heroism is not only in the man, but in the occasion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">héroïsme</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Through O. Fr. and L. from Gr. <i>hērōs</i>; akin to L. <i>vir</i>, A.S. <i>wer</i>, a man, Sans. <i>víra</i>, a hero.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						SCENES OF TERROR, DEATH AND HEROISM.
+					</div>
+					<div class="uAuthor">
+						"Complete Story of the San Francisco Horror" by <span>Richard Linthicum</span>					</div>
+										<div class="usage">
+						As they floated along the river, they imagined themselves to be adventurers, bent on discovery and deeds of heroism.
+					</div>
+					<div class="uAuthor">
+						"The Hero of Garside School" by <span>J. Harwood Panting</span>					</div>
+										<div class="usage">
+						The man whom Berselius, with splendid heroism, had tried to save.
+					</div>
+					<div class="uAuthor">
+						"The Pools of Silence" by <span>H. de Vere Stacpoole</span>					</div>
+										<div class="usage">
+						But it is not the waste of blood that so appals, it's the waste of effort and the waste of heroism.
+					</div>
+					<div class="uAuthor">
+						"The Sequel" by <span>George A. Taylor</span>					</div>
+										<div class="usage">
+						There is an inexhaustible store of pathos and heroism in the tale of this disaster.
+					</div>
+					<div class="uAuthor">
+						"The Johnstown Horror" by <span>James Herbert Walker</span>					</div>
+										<div class="usage">
+						Even the heroism of the settler's wife was not for her.
+					</div>
+					<div class="uAuthor">
+						"The Rhodesian" by <span>Gertrude Page</span>					</div>
+										<div class="usage">
+						In this emergency the heroism of woman was shown.
+					</div>
+					<div class="uAuthor">
+						"History of Woman Suffrage, Volume I"					</div>
+										<div class="usage">
+						The glamour of his heroism will blot out any taint of sin his mother may have put upon him.
+					</div>
+					<div class="uAuthor">
+						"The Scarlet Feather" by <span>Houghton Townley</span>					</div>
+										<div class="usage">
+						It was in this conflict that the heroism of John Brown developed.
+					</div>
+					<div class="uAuthor">
+						"Shadow and Light" by <span>Mifflin Wistar Gibbs</span>					</div>
+										<div class="usage">
+						Her heroism was her crime.
+					</div>
+					<div class="uAuthor">
+						"Madame Roland, Makers of History" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						Philippe used to laugh and call it her daily heroism.
+					</div>
+					<div class="uAuthor">
+						"The Frontier" by <span>Maurice LeBlanc</span>					</div>
+										<div class="usage">
+						Such heroism is without doubt somewhat unconscious, but it is of such heroism that history is made.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						Heroism, Kate Shelly, iii, 633.
+					</div>
+					<div class="uAuthor">
+						"History of Woman Suffrage, Volume III (of III)" by <span>Various</span>					</div>
+										<div class="usage">
+						I will write the essay on Heroism, and you shall accept it as your work.
+					</div>
+					<div class="uAuthor">
+						"A Bunch of Cherries" by <span>L. T. Meade</span>					</div>
+										<div class="usage">
+						If so, the more heroism.
+					</div>
+					<div class="uAuthor">
+						"Diary from March 4, 1861, to November 12, 1862" by <span>Adam Gurowski</span>					</div>
+										<div class="usage">
+						Neither can we greatly admire the heroism displayed by the assailants.
+					</div>
+					<div class="uAuthor">
+						"Ferdinand De Soto, The Discoverer of the Mississippi" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						One can hardly imagine the courage and heroism necessary to bear the terrible hardships of fighting under such conditions.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume III (of VIII)" by <span>Various</span>					</div>
+										<div class="usage">
+						The soldiers fought with a skill and heroism that have never been equaled.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume II (of VIII)" by <span>Various</span>					</div>
+										<div class="usage">
+						Every battle which he has lost, he has lost through too great heroism.
+					</div>
+					<div class="uAuthor">
+						"A Struggle for Rome, v. 1" by <span>Felix Dahn</span>					</div>
+										<div class="usage">
+						Its intoxication is called heroism.
+					</div>
+					<div class="uAuthor">
+						"Toilers of the Sea" by <span>Victor Hugo</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							There is a heroism born of pain<br>
+Whose recompense in noble impulse lies;<br>
+And sometimes tears that e'en from grief did flow<br>
+Are changed to joy-drops in pathetic eyes.
+							<div class="poet">"Compensation" by <span>Henrietta Cordelia  Ray</span></div>
+						</div>
+											<div class="poemQuote">
+							Or thee, Old Cause, when'er advancing;<br>
+All great Ideas, the races' aspirations,<br>
+All that exalts, releases thee, my Soul!<br>
+All heroisms, deeds of rapt enthusiasts,<br>
+Be ye my Gods! 
+							<div class="poet">"God" by <span>Walt Whitman</span></div>
+						</div>
+											<div class="poemQuote">
+							This occurs more or less than it did in the past times.<br>
+There are statistics. There are no real statistics.<br>
+There is also no heroism. There is merely<br>
+Fatigue, pain, great confusion, sometimes recovery.
+							<div class="poet">"Minor Litany" by <span>Stephen Vincent Benet</span></div>
+						</div>
+											<div class="poemQuote">
+							Before she died, scores of suitors in marriage sought her hand;<br>
+But no, she'd rather live in Longstone light-house on Farne island,<br>
+And there she lived and died with her father and mother,<br>
+And for her equal in true heroism we cannot find another.
+							<div class="poet">"Grace Darling or "The Wreck of the Forfarshire"" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							What may we chant, O thou within this tomb?<br>
+What tablets, pictures, hang for thee, O millionaire?<br>
+—The life thou lived'st we know not,<br>
+But that thou walk'dst thy years in barter, 'mid the haunts of<br>
+brokers;<br>
+Nor heroism thine, nor war, nor glory.
+							<div class="poet">"Brother Of All, With Generous Hand" by <span>Walt Whitman</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						 Heroism in Northeast Ohio.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wcpn.org/soi/entry/50372" target="_blank" rel="external nofollow">wcpn.org</a>
+					</div>
+										<div class="usage">
+						Head Injury Prevents New Ulm Purple Heart Recipient from Remembering His Heroism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://kaaltv.com/article/stories/S2860336.shtml?cat=10728" target="_blank" rel="external nofollow">kaaltv.com</a>
+					</div>
+										<div class="usage">
+						In final act of heroism , soldier saves wife.
+					</div>
+					<div class="uAuthor">
+						<a href="http://chron.com/news/houston-texas/houston/article/In-final-act-of-heroism-soldier-saves-wife-4045573.php" target="_blank" rel="external nofollow">chron.com</a>
+					</div>
+										<div class="usage">
+						'Lincoln' shows there's heroism in compromise.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailynews.com/opinions/ci_21987280/opinion-lincoln-shows-theres-heroism-compromise" target="_blank" rel="external nofollow">dailynews.com</a>
+					</div>
+										<div class="usage">
+						Maison des Canadiens marks D-Day heroism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/news/Maison+Canadiens+marks+DDay+heroism/7530093/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						'Fukushima 50' Recount Quiet Heroism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hispanicbusiness.com/news/2012/10/11/fukushima_50_recount_quiet_heroism.htm" target="_blank" rel="external nofollow">hispanicbusiness.com</a>
+					</div>
+										<div class="usage">
+						The PSEG Foundation and the New Jersey Higher Education Student Assistance Authority (HESAA) are pleased to announce the availability of the 2012 application for the Dana Christmas Scholarship for Heroism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://hudsonreporter.com/view/full_story/20367610/article-The-Dana-Christmas-Scholarship-for-Heroism?instance=news_special_coverage_right_column" target="_blank" rel="external nofollow">hudsonreporter.com</a>
+					</div>
+										<div class="usage">
+						The heroism of the White Rose.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.maderatribune.com/columns/heroism-white-rose" target="_blank" rel="external nofollow">maderatribune.com</a>
+					</div>
+										<div class="usage">
+						Relaying 9/11 heroism to those too young to remember.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/columnists/daniel_rubin/20120912_Daniel_Rubin__Relaying_9_11_heroism_to_those_too_young_to_remember.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						Tales of Sandy Hook heroism, young and old.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/story/news/nation/2012/12/14/newtown-connecticut-sandy-hook-school-shooting-heroism/1770555/" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						This rich, sweeping panorama of heroism and folly celebrates the 25th anniversary of the Culture, Banks's far-future semi-utopian society.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/978-0-316-21237-3" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<div class="usage">
+						The writer, an admirer of Indian traditions of freedom and heroism, visits an old friend on the Pine Ridge Reservation, explores the place, and discovers a modern-day Indian hero.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/issues/99dec/9912frazier.htm" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						Then there are the imposters , who often from zilch have created military honors, whole careers, records of heroism and splendid triumphs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2011/jun/1/an-imposters-complaint/print/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						They think this is a brand of heroism, but it is probably the single biggest hallmark of incompetence .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-505125_162-57374500/is-the-companys-management-incompetent/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Two new accounts of Polish suffering and heroism during World War II.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424127887323353204578129220634214466.html?mod=WSJ_Books_LS_Books_8" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)"><a href="gallantry.html">gallantry</a>, <a href="valor.html">valor</a>, <a href="valour.html">valour</a>, <a href="valorousness.html">valorousness</a>, <a href="valiance.html">valiance</a>, <a href="valiancy.html">valiancy</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="braveness.html">braveness</a>, <a href="bravery.html">bravery</a>, <a href="courage.html">courage</a>, <a href="courageousness.html">courageousness</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="bravery.html">bravery</a>, <a href="Distinguished%20Flying%20Cross.html">Distinguished Flying Cross</a>, <a href="Distinguished%20Service%20Cross.html">Distinguished Service Cross</a>, <a href="errant.html">errant</a>, <a href="mock.html">mock</a>, <a href="Navy%20Cross.html">Navy Cross</a>, <a href="sublime.html">sublime</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					geroism, yeroism, jeroism, neroism, beroism, hwroism, hsroism, hdroism, hrroism, heeoism, hedoism, hefoism, hetoism, heriism, herkism, herlism, herpism, herousm, herojsm, heroksm, heroosm, heroiam, heroiwm, heroidm, heroixm, heroizm, heroiam, heroisn, heroisj, heroisk
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

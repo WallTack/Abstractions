@@ -1,0 +1,580 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>Depression</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">pushing down</span> <span class="quot">"depression of the space bar on the typewriter"</span></li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">sad feelings of gloom and inadequacy</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">a sunken or depressed geological formation</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">angular distance below the horizon (especially of a celestial object)</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">a concavity in a surface produced by pressing</span> <span class="quot">"he left the impression of his fingers in the soft mud"</span></li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">a state of depression and anhedonia so severe as to require clinical intervention</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">a long-term economic state characterized by unemployment and low prices and low levels of trade and investment</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">an air mass of lower pressure; often brings precipitation</span> <span class="quot">"a low moved in over night bringing sleet and snow"</span></li><li><span class="tSpeech">n</span> <span class="term">Depression</span> <span class="exp">a period during the 1930s when there was a worldwide economic depression and mass unemployment</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Women are twice as likely to be diagnosed with depression than men in the United States									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Depression</span> <span class="exp">A falling in of the surface; a sinking below its true place; a cavity or hollow; as, roughness consists in little protuberances and <span class="wUex">depressions</span>
+            .</span> </li><li><span class="term">Depression</span> <span class="exp"><span class="wuFld">(Surg)</span> A method of operating for cataract; couching. See <span class="wUer">Couch</span>
+            <span class="wUpos">v. t.</span>, 8.</span> </li><li><span class="term">Depression</span> <span class="exp">Dejection; despondency; lowness.</span> <span class="wuQuot">"In a great depression of spirit."</span></li><li><span class="term">Depression</span> <span class="exp">Diminution, as of trade, etc.; inactivity; dullness.</span> </li><li><span class="term">Depression</span> <span class="exp">Humiliation; abasement, as of pride.</span> </li><li><span class="term">Depression</span> <span class="exp">The act of depressing.</span> </li><li><span class="term">Depression</span> <span class="exp"><span class="wuFld">(Astron)</span> The angular distance of a celestial object below the horizon.</span> </li><li><span class="term">Depression</span> <span class="exp"><span class="wuFld">(Math)</span> The operation of reducing to a lower degree; -- said of equations.</span> </li><li><span class="term">Depression</span> <span class="exp">The state of being depressed; a sinking.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										When the First Lady, Eleanor Roosevelt, received an alarming number of threatening letters, soon after her husband became President at the height of the Depression, the Secret Service insisted that she carry a pistol in her purse
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">The act of pressing down, or the state of being pressed down. Specifically</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">In astronomy:  The sinking of the polar star toward the horizon, as the observer recedes from the pole toward the equator</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">In gunnery, the lowering of the muzzle of a gun, corresponding to the raising of the breech.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">In surgery, a kind of couching.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">In music, the lowering or flatting of a tone: denoted in printed music by a ♭, or, after a ♯, by a ♯.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">A hollow; a sinking or falling in of a surface; a forcing inward: as, roughness consisting in little protuberances and depressions; the depression of the skull.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">Figuratively, the act of lowering or abasing: as, the depression of pride.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">A sinking of the spirits; dejection; a state of sadness; want of courage or animation: as, depression of the mind.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">A low state of strength; physical exhaustion.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">A state of dullness or inactivity: as, depression of trade; commercial depression.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">Humiliation, fall.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">Melancholy, despondency.</span> </li><li><span class="tSpeech">n</span> <span class="term">depression</span> <span class="exp">The difference between the low barometric pressure and the normal pressure for that locality; the departure of the pressure.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Negative emotions such as anxiety and depression can weaken your immune system.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Depression</span> <span class="exp">a falling in or sinking: a lowering: a fall of the barometer: a hollow: abasement: dejection</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Paul Tillich</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Paul Tillich">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Depression is rage spread thin.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nothing else is needed to make you depressed, than to fancy you are so.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dodie Smith</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Dodie Smith">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Noble deeds and hot baths are the best cures for depression.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ernest Hemingway</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ernest%20Hemingway.jpg" alt="Ernest%20Hemingway">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“That terrible mood of depression of whether it's any good or not is what is known as The Artist's Reward.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Susan Sontag</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Susan%20Sontag.jpg" alt="Susan%20Sontag">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Depression is melancholy minus its charms -- the animation, the fits.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Franklin D. Roosevelt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Franklin%20D.%20Roosevelt.jpg" alt="Franklin%20D.%20Roosevelt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If we can boondoggle ourselves out of this depression, that word is going to be enshrined in the hearts of the American people for years to come.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">depressio</span>,: cf. F. <span class="wUets">dépression</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>deprimĕre</i>, <i>-pressum</i>—<i>de</i>, down, and <i>primĕre</i>, to press.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The depression finished him.
+					</div>
+					<div class="uAuthor">
+						"Class of '29" by <span>Orrie Lashin and Milo Hastings</span>					</div>
+										<div class="usage">
+						But keep your body in perfect health, and you ought to be immune from extreme depression.
+					</div>
+					<div class="uAuthor">
+						"Bella Donna" by <span>Robert Hichens</span>					</div>
+										<div class="usage">
+						He looked a little less depressed, and I tried to cheer him up.
+					</div>
+					<div class="uAuthor">
+						"Red Hair" by <span>Elinor Glyn</span>					</div>
+										<div class="usage">
+						She longed for sleep, and tried to win it to her by repeating the Psalm which had been her comfort in all times of her depression.
+					</div>
+					<div class="uAuthor">
+						"The Helpmate" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						The hold-up of the train had taken place at a depressing spot.
+					</div>
+					<div class="uAuthor">
+						"Sixteen Months in Four German Prisons" by <span>Henry Charles Mahoney</span>					</div>
+										<div class="usage">
+						The most depressing hours that overtook him were those in which he visualized her floating away beyond his reach.
+					</div>
+					<div class="uAuthor">
+						"The Hidden Places" by <span>Bertrand W. Sinclair</span>					</div>
+										<div class="usage">
+						Janice was so cheerful as often to depress others; so grateful that she gloried in self-abnegation and had no curiosity outside a given command.
+					</div>
+					<div class="uAuthor">
+						"The Shield of Silence" by <span>Harriet T. Comstock</span>					</div>
+										<div class="usage">
+						The anterior end is usually pointed, with the flagella arising from a minute depression; the posterior end is rounded.
+					</div>
+					<div class="uAuthor">
+						"Marine Protozoa from Woods Hole" by <span>Gary N. Calkins</span>					</div>
+										<div class="usage">
+						Everyone is depressed and everyone longs to be out of Petrograd.
+					</div>
+					<div class="uAuthor">
+						"My War Experiences in Two Continents" by <span>Sarah Macnaughtan</span>					</div>
+										<div class="usage">
+						She felt her spirits, which had been greatly depressed, somewhat revived by the free air, the sight of grass and trees.
+					</div>
+					<div class="uAuthor">
+						"A Crooked Path" by <span>Mrs. Alexander</span>					</div>
+										<div class="usage">
+						The cap is depressed, or becomes so at a later stage of growth.
+					</div>
+					<div class="uAuthor">
+						"Among the Mushrooms" by <span>Ellen M. Dallas and Caroline A. Burgin</span>					</div>
+										<div class="usage">
+						The atmosphere of the place depressed him.
+					</div>
+					<div class="uAuthor">
+						"The Golden Silence" by <span>C. N. Williamson and A. M. Williamson</span>					</div>
+										<div class="usage">
+						The cheerful conversation had suddenly taken a depressing turn.
+					</div>
+					<div class="uAuthor">
+						"The Emigrant Trail" by <span>Geraldine Bonner</span>					</div>
+										<div class="usage">
+						The original block is a plate of copper on which the picture is represented by minute depressions and prominences.
+					</div>
+					<div class="uAuthor">
+						"Marvels of Scientific Invention" by <span>Thomas W. Corbin</span>					</div>
+										<div class="usage">
+						Here there are many depressions which have no outlets, and marshes, ponds, and small lakes abound.
+					</div>
+					<div class="uAuthor">
+						"The Geography of the Region about Devils Lake and the Dalles of the Wisconsin" by <span>Rollin D. Salisbury</span>					</div>
+										<div class="usage">
+						It is also a functional toxin, because it depresses the activity of organs by injuring the innervation.
+					</div>
+					<div class="uAuthor">
+						"Essays In Pastoral Medicine" by <span>Austin ÓMalley</span>					</div>
+										<div class="usage">
+						Depression below the surface of the earth has never become a part of human experience beyond the limit of a few hundred feet.
+					</div>
+					<div class="uAuthor">
+						"A System of Practical Medicine by American Authors, Vol. I" by <span>Various</span>					</div>
+										<div class="usage">
+						To tell you the truth, I was feeling a bit depressed.
+					</div>
+					<div class="uAuthor">
+						"The Everlasting Arms" by <span>Joseph Hocking</span>					</div>
+										<div class="usage">
+						At last, Dubourg, throwing off his depression, seemed to have determined upon his course.
+					</div>
+					<div class="uAuthor">
+						"Sister Anne (Novels of Paul de Kock, Volume X)" by <span>Charles Paul de Kock</span>					</div>
+										<div class="usage">
+						It was grave, and the corners of the almost perfect mouth were slightly depressed, like the Greek bow reversed.
+					</div>
+					<div class="uAuthor">
+						"The Socialist" by <span>Cyril Arthur Edward Ranger Gull</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Afar though nation be on nation hurled,<br>
+And life with toil and ancient pain depressed,<br>
+Here one may scarce believe the whole wide world<br>
+Is not at peace, and all man's heart at rest.
+							<div class="poet">"Wordsworth's Grave" by <span>William Watson</span></div>
+						</div>
+											<div class="poemQuote">
+							And time went by, drawn by slow horses.<br>
+We did not ourselves know what the end was.<br>
+The Great Depression had entered our souls like fog.<br>
+We had our flaws, perhaps a few private virtues.
+							<div class="poet">"Pantoum Of The Great Depression" by <span>Donald Justice</span></div>
+						</div>
+											<div class="poemQuote">
+							When six days of labour each other succeeding,<br>
+The husbandman toils with his spirits depress'd;<br>
+What pleasure to think, as the last is receding,<br>
+To--morrow will be a sweet Sabbath of rest!
+							<div class="poet">"To-Morrow -  Written During Sickness." by <span>Susanna Blamire</span></div>
+						</div>
+											<div class="poemQuote">
+							When adverse Fortune bade us part,<br>
+And grief depress'd my aching heart,<br>
+Like yon reviving ray,<br>
+She from behind the cloud would move,<br>
+And with a stolen look of love<br>
+Would melt my cares away.
+							<div class="poet">"Lines To An Auricula, Belonging To----" by <span>Sir John Carr</span></div>
+						</div>
+											<div class="poemQuote">
+							'Stung wi' the taunt, ye back recoil'd,<br>
+Pensive ye mus'd; I mark'd and smil'd;<br>
+Daund'ring depress'd 'mang knows flower'd wild,<br>
+My aten reed<br>
+Ye faund ae bonny morning mild 'Tween Ayre and Tweed.
+							<div class="poet">"The Scottish Muse" by <span>Hector MacNeill </span></div>
+						</div>
+											<div class="poemQuote">
+							We gathered on porches; the moon rose; we were poor.<br>
+And time went by, drawn by slow horses.<br>
+Somewhere beyond our windows shone the actual world.<br>
+The Great Depression had entered our souls like fog.
+							<div class="poet">"Pantoum Of The Great Depression" by <span>Donald Justice</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						How do I distinguish a normal grief reaction, after a loss, from a major depressive episode.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychiatrictimes.com/blog/pies/content/article/10168/2035804" target="_blank" rel="external nofollow">psychiatrictimes.com</a>
+					</div>
+										<div class="usage">
+						"Depression is the inability to construct a future.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychiatrictimes.com/display/article/10168/51281" target="_blank" rel="external nofollow">psychiatrictimes.com</a>
+					</div>
+										<div class="usage">
+						The effect of this economic slump on birthrates has been more rapid and long-lasting than any downturn since the Great Depression.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hispanicbusiness.com/2012/7/26/national_birthrate_lowest_in_25_years.htm" target="_blank" rel="external nofollow">hispanicbusiness.com</a>
+					</div>
+										<div class="usage">
+						Coping with depression and living life to the fullest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychologytoday.com/blog/struck-living/201201/dr-oz-ventures-bravely-ect" target="_blank" rel="external nofollow">psychologytoday.com</a>
+					</div>
+										<div class="usage">
+						The savior of the Great Depression: President Franklin Delano Roosevelt.
+					</div>
+					<div class="uAuthor">
+						<a href="http://queensledger.com/view/full_story/20610222/article-Thanks-for-bringing-up-FDR?instance=lead_story_left_column" target="_blank" rel="external nofollow">queensledger.com</a>
+					</div>
+										<div class="usage">
+						Left him with nightmares and headaches, withdrawn, fearful, and depressed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fishgame.com/blogs/news/?p=6469" target="_blank" rel="external nofollow">fishgame.com</a>
+					</div>
+										<div class="usage">
+						NEW YORK — The raging bull market in stocks — born at the depths of the most severe financial crisis since the Great Depression — turns 2 today.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/money/perfi/stocks/2011-03-09-2yranniversary09_CV_N.htm" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Average national home prices haven't dropped since the Great Depression.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/bwdaily/dnflash/jun2005/nf20050622_9404_db008.htm" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						State fairs across the country have coped with a depressed economy and drought, making 2012 among the most challenging years in recent memory.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.capitalpress.com/content/cs-fair-editorial-083112" target="_blank" rel="external nofollow">capitalpress.com</a>
+					</div>
+										<div class="usage">
+						 Burnham II, a financier whose surname has been on the front door of a Wall Street firm virtually since the depths of the Depression, died on Monday after boating near Norfolk, Va.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2002/06/29/business/iw-burnham-ii-a-baron-of-wall-street-is-dead-at-93.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						IT WAS DEPRESSING enough when US officials finally admitted last year that the country had waterboarded terrorism detainees.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/04/20/AR2009042003165.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Ignore for a moment the depressed real estate market, $3-per-gallon gas prices and long lines at the unemployment office.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/investing/insights/blog/archives/2010/03/luxury_retailer.html" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						Whether he has a headache or feels depressed, Porras, one of the wounded warriors at Fort Belvoir, finds grooming the horse calms him down.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wjla.com/articles/2012/07/caisson-platoon-equine-assisted-program-helps-wounded-warriors-77640.html" target="_blank" rel="external nofollow">wjla.com</a>
+					</div>
+										<div class="usage">
+						The iconic actress and activist explains why she gets depressed about the current presidential candidates from the right.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/live-feed/cnn-piers-morgan-jane-fonda-republican-debates-272136" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						More taxes and more spending will further depress Maryland's economy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/may/24/the-not-so-free-state/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						When T is depressed for a short time NE556A ﬁres producing the monostable output for ∼2 seconds. 
+					</div>
+					<div class="uAuthor">
+						Bipolar Transistor Tester / Digital IC Tester for Physics Lab
+					</div>
+										<div class="usage">
+						For example: “the contraction of the muscles round the eyes when in grief”, “the firm closure of the mouth when in reflection”, “the depression of the corners of the mouth when in low spirits”, etc 3. 
+					</div>
+					<div class="uAuthor">
+						Face Expression Recognition and Analysis: The State of the Art
+					</div>
+										<div class="usage">
+						This is because for λφ and C (rφ ) ﬁxed, increasing d(rφ)Q2 φ depresses the diphoton width as is seen in Fig. 2. 
+					</div>
+					<div class="uAuthor">
+						Constraints on New Scalars from the LHC 125 GeV Higgs Signal
+					</div>
+										<div class="usage">
+						In the ﬁrst case one has to make sure that the BH can grow rapidly by providing a continuous gas supply, avoiding radiation feedback from the growing hole depressing the accretion rate, prevent ejection from the parent halo; in addition one has to be careful not to overproduce ≈ 106M⊙ holes at any observable redshift. 
+					</div>
+					<div class="uAuthor">
+						First Stars IV: Summary Talk
+					</div>
+										<div class="usage">
+						Each time that I get a little depressed by the seemingly endless detail and the great precision that are required to compute an accurate solar model, I think of the much greater diﬃculties that my friends working in the ﬁeld of supernova neutrinos must overcome. 
+					</div>
+					<div class="uAuthor">
+						Summary Talk: International Symposium on Neutrino Astrophysics, Takayama/Kamioka (10/'92)
+					</div>
+										<div class="usage">
+						It would be interesting to look for such a behaviour, either in lepton-induced reactions by depressing as much as possible the effect of hadronisation, or by extension to all other cases, just for curiosity’s sake. 
+					</div>
+					<div class="uAuthor">
+						Soft Physics and Intermittency: Open Question(s) in Krakow
+					</div>
+										<div class="usage">
+						The top squark masses are further altered by squark mixing, which depresses the lighter state even further. 
+					</div>
+					<div class="uAuthor">
+						Supercollider Signatures of Supergravity Models with Yukawa Unification
+					</div>
+										<div class="usage">
+						After hadronization this leads to a depressed level of hadronic activity between the jets and thus allows the formation of rapidity gaps. 
+					</div>
+					<div class="uAuthor">
+						Gluon Radiation Patterns in Pomeron Exchange Events
+					</div>
+										<div class="usage">
+						This should yield a depression of the (cid:13)ux below the Ly(cid:11) line, which would be constant for homogeneously distributed neutral hydrogen. 
+					</div>
+					<div class="uAuthor">
+						THE GUNN-PETERSON EFFECT FROM UNDERDENSE REGIONS IN A PHOTOIONIZED INTERGALACTIC MEDIUM
+					</div>
+										<div class="usage">
+						Since the discovery of the Ly(cid:11) forest, there have been several attempts to detect a uniform Gunn-Peterson e(cid:11)ect, by subtracting the contribution to the average depression of the (cid:13)ux of the individually detected absorption lines. 
+					</div>
+					<div class="uAuthor">
+						THE GUNN-PETERSON EFFECT FROM UNDERDENSE REGIONS IN A PHOTOIONIZED INTERGALACTIC MEDIUM
+					</div>
+										<div class="usage">
+						They showed that in order to account for the total depression of the (cid:13)ux in the region of the Ly(cid:11) forest, there has to be either a uniform Gunn-Peterson e(cid:11)ect at the level of (cid:28)GP ' : at z = , or an equivalent absorption due to lines that are too weak and crowded to be detected. 
+					</div>
+					<div class="uAuthor">
+						THE GUNN-PETERSON EFFECT FROM UNDERDENSE REGIONS IN A PHOTOIONIZED INTERGALACTIC MEDIUM
+					</div>
+										<div class="usage">
+						If a continuum absorption is present, then the number of weak lines must be even lower, since they must produce a smaller average depression, but there must be more of them at NH I (cid:24)&gt;  cm(cid:0) in order to obtain the observed intensity (cid:13)uctuations. 
+					</div>
+					<div class="uAuthor">
+						THE GUNN-PETERSON EFFECT FROM UNDERDENSE REGIONS IN A PHOTOIONIZED INTERGALACTIC MEDIUM
+					</div>
+										<div class="usage">
+						The N stars exhibit very strong depression of light in the violet part of the spectrum. 
+					</div>
+					<div class="uAuthor">
+						The R Stars: Carbon Stars of a Different Kind
+					</div>
+										<div class="usage">
+						We conclude that, at the luxury levels 0 and 1, the deviations have the same qualitative nature, the only difference being that the absolute value of the deviations is depressed for the higher levels of luxury. 
+					</div>
+					<div class="uAuthor">
+						The RANLUX generator: resonances in a random walk test
+					</div>
+										<div class="usage">
+						Let us now return to the analysis of Fig. 4 in relation to the depression in the spectrum. 
+					</div>
+					<div class="uAuthor">
+						From 3K to $10^{20}$eV
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a sunken or depressed geological formation"><a href="natural%20depression.html">natural depression</a>, </div><div class="synGroup" title="a concavity in a surface produced by pressing"><a href="impression.html">impression</a>, <a href="imprint.html">imprint</a>, </div><div class="synGroup" title="a state of depression and anhedonia so severe as to require clinical intervention"><a href="depressive%20disorder.html">depressive disorder</a>, <a href="clinical%20depression.html">clinical depression</a>, </div><div class="synGroup" title="a long-term economic state characterized by unemployment and low prices and low levels of trade and investment"><a href="slump.html">slump</a>, <a href="economic%20crisis.html">economic crisis</a>, </div><div class="synGroup" title="a period during the 1930s when there was a worldwide economic depression and mass unemployment"><a href="great%20depression.html">great depression</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="elation.html">elation</a>, <a href="natural%20elevation.html">natural elevation</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="affective%20disorder.html">affective disorder</a>, <a href="air%20mass.html">air mass</a>, <a href="angular%20position.html">angular position</a>, <a href="concave%20shape.html">concave shape</a>, <a href="concavity.html">concavity</a>, <a href="crisis.html">crisis</a>, <a href="economic%20condition.html">economic condition</a>, <a href="emotional%20disorder.html">emotional disorder</a>, <a href="emotional%20disturbance.html">emotional disturbance</a>, <a href="formation.html">formation</a>, <a href="geological%20formation.html">geological formation</a>, <a href="incurvation.html">incurvation</a>, <a href="incurvature.html">incurvature</a>, <a href="major%20affective%20disorder.html">major affective disorder</a>, <a href="mental%20condition.html">mental condition</a>, <a href="mental%20state.html">mental state</a>, <a href="psychological%20condition.html">psychological condition</a>, <a href="psychological%20state.html">psychological state</a>, <a href="push.html">push</a>, <a href="pushing.html">pushing</a>, <a href="sadness.html">sadness</a>, <a href="unhappiness.html">unhappiness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="agitated%20depression.html">agitated depression</a>, <a href="anaclitic%20depression.html">anaclitic depression</a>, <a href="basin.html">basin</a>, <a href="bed.html">bed</a>, <a href="blue%20devils.html">blue devils</a>, <a href="blue%20funk.html">blue funk</a>, <a href="blues.html">blues</a>, <a href="bottom.html">bottom</a>, <a href="channel.html">channel</a>, <a href="chap.html">chap</a>, <a href="click.html">click</a>, <a href="crack.html">crack</a>, <a href="cranny.html">cranny</a>, <a href="crater.html">crater</a>, <a href="crease.html">crease</a>, <a href="crevice.html">crevice</a>, <a href="crinkle.html">crinkle</a>, <a href="deep.html">deep</a>, <a href="dejection.html">dejection</a>, <a href="demoralisation.html">demoralisation</a>, <a href="demoralization.html">demoralization</a>, <a href="dent.html">dent</a>, <a href="despondence.html">despondence</a>, <a href="despondency.html">despondency</a>, <a href="dimple.html">dimple</a>, <a href="dip.html">dip</a>, <a href="disconsolateness.html">disconsolateness</a>, <a href="droop.html">droop</a>, <a href="dysphoria.html">dysphoria</a>, <a href="dysthymia.html">dysthymia</a>, <a href="dysthymic%20depression.html">dysthymic depression</a>, <a href="endogenous%20depression.html">endogenous depression</a>, <a href="exogenous%20depression.html">exogenous depression</a>, <a href="fissure.html">fissure</a>, <a href="funk.html">funk</a>, <a href="furrow.html">furrow</a>, <a href="groove.html">groove</a>, <a href="heartsickness.html">heartsickness</a>, <a href="helplessness.html">helplessness</a>, <a href="hole.html">hole</a>, <a href="hollow.html">hollow</a>, <a href="incision.html">incision</a>, <a href="line.html">line</a>, <a href="low%20spirits.html">low spirits</a>, <a href="lowland.html">lowland</a>, <a href="major%20depressive%20episode.html">major depressive episode</a>, <a href="megrims.html">megrims</a>, <a href="melancholia.html">melancholia</a>, <a href="melancholy.html">melancholy</a>, <a href="mouse%20click.html">mouse click</a>, <a href="neurotic%20depression.html">neurotic depression</a>, <a href="oceanic%20abyss.html">oceanic abyss</a>, <a href="oppression.html">oppression</a>, <a href="oppressiveness.html">oppressiveness</a>, <a href="prick.html">prick</a>, <a href="psychotic%20depression.html">psychotic depression</a>, <a href="reactive%20depression.html">reactive depression</a>, <a href="retarded%20depression.html">retarded depression</a>, <a href="sag.html">sag</a>, <a href="scratch.html">scratch</a>, <a href="seam.html">seam</a>, <a href="sink.html">sink</a>, <a href="sinkhole.html">sinkhole</a>, <a href="slit.html">slit</a>, <a href="slough%20of%20despond.html">slough of despond</a>, <a href="swallow%20hole.html">swallow hole</a>, <a href="trench.html">trench</a>, <a href="trough.html">trough</a>, <a href="vale.html">vale</a>, <a href="valley.html">valley</a>, <a href="vapors.html">vapors</a>, <a href="vapours.html">vapours</a>, <a href="wrinkle.html">wrinkle</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="depress.html">depress</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="5-hydroxytryptamine.html">5-hydroxytryptamine</a>, <a href="abasement.html">abasement</a>, <a href="Adam.html">Adam</a>, <a href="agitated%20depression.html">agitated depression</a>, <a href="alveolus.html">alveolus</a>, <a href="amphetamine.html">amphetamine</a>, <a href="anaclitic%20depression.html">anaclitic depression</a>, <a href="Anfractuosity.html">Anfractuosity</a>, <a href="antidepressant.html">antidepressant</a>, <a href="antidepressant%20drug.html">antidepressant drug</a>, <a href="Antihypochondriac.html">Antihypochondriac</a>, <a href="Appallment.html">Appallment</a>, <a href="aridity.html">aridity</a>, <a href="Atacama%20Trench.html">Atacama Trench</a>, <a href="atenolol.html">atenolol</a>, <a href="atoll.html">atoll</a>, <a href="basin.html">basin</a>, <a href="bed.html">bed</a>, <a href="bilious.html">bilious</a>, <a href="binge-eating%20syndrome.html">binge-eating syndrome</a>, <a href="bipolar%20disorder.html">bipolar disorder</a>, <a href="Blank%20door.html">Blank door</a>, <a href="Blank%20window.html">Blank window</a>, <a href="blue%20devils.html">blue devils</a>, <a href="blue%20funk.html">blue funk</a>, <a href="blues.html">blues</a>, <a href="bosom.html">bosom</a>, <a href="bottom.html">bottom</a>, <a href="Bougainville%20Trench.html">Bougainville Trench</a>, <a href="bowl.html">bowl</a>, <a href="bulimia.html">bulimia</a>, <a href="caffeinism.html">caffeinism</a>, <a href="caldera.html">caldera</a>, <a href="calyx.html">calyx</a>, <a href="capillarity.html">capillarity</a>, <a href="capillary%20action.html">capillary action</a>, <a href="carbuncle.html">carbuncle</a>, <a href="channel.html">channel</a>, <a href="chap.html">chap</a>, <a href="Ciliata.html">Ciliata</a>, <a href="click.html">click</a>, <a href="clinical%20depression.html">clinical depression</a>, <a href="clinocephaly.html">clinocephaly</a>, <a href="cloud.html">cloud</a>, <a href="Cockeye.html">Cockeye</a>, <a href="col.html">col</a>, <a href="collapse.html">collapse</a>, <a href="condensation.html">condensation</a>, <a href="console.html">console</a>, <a href="countersink.html">countersink</a>, <a href="courage.html">courage</a>, <a href="courtesy.html">courtesy</a>, <a href="crack.html">crack</a>, <a href="craniometry.html">craniometry</a>, <a href="cranny.html">cranny</a>, <a href="crater.html">crater</a>, <a href="crease.html">crease</a>, <a href="crevice.html">crevice</a>, <a href="crinkle.html">crinkle</a>, <a href="Crotaphite.html">Crotaphite</a>, <a href="cupule.html">cupule</a>, <a href="current.html">current</a>, <a href="curtsey.html">curtsey</a>, <a href="curtsy.html">curtsy</a>, <a href="damp.html">damp</a>, <a href="deep.html">deep</a>, <a href="dejectedness.html">dejectedness</a>, <a href="dejection.html">dejection</a>, <a href="Demission.html">Demission</a>, <a href="demoralisation.html">demoralisation</a>, <a href="demoralization.html">demoralization</a>, <a href="dent.html">dent</a>, <a href="deposition.html">deposition</a>, <a href="depressive.html">depressive</a>, <a href="depressive%20disorder.html">depressive disorder</a>, <a href="despondency.html">despondency</a>, <a href="Dib.html">Dib</a>, <a href="dimple.html">dimple</a>, <a href="dinge.html">dinge</a>, <a href="dint.html">dint</a>, <a href="dip.html">dip</a>, <a href="Dip%20of%20the%20horizon.html">Dip of the horizon</a>, <a href="Disanimation.html">Disanimation</a>, <a href="disappointment.html">disappointment</a>, <a href="discouragement.html">discouragement</a>, <a href="disheartenment.html">disheartenment</a>, <a href="dispirited.html">dispirited</a>, <a href="dispiritedness.html">dispiritedness</a>, <a href="Dispiritment.html">Dispiritment</a>, <a href="Dorothea%20Lange.html">Dorothea Lange</a>, <a href="Down.html">Down</a>, <a href="dump.html">dump</a>, <a href="dysphoria.html">dysphoria</a>, <a href="dysthymia.html">dysthymia</a>, <a href="dysthymic%20depression.html">dysthymic depression</a>, <a href="elastic.html">elastic</a>, <a href="elasticity.html">elasticity</a>, <a href="elation.html">elation</a>, <a href="endogenous%20depression.html">endogenous depression</a>, <a href="Ephippium.html">Ephippium</a>, <a href="epigastric%20fossa.html">epigastric fossa</a>, <a href="equanimity.html">equanimity</a>, <a href="erect.html">erect</a>, <a href="escutcheon.html">escutcheon</a>, <a href="Eskalith.html">Eskalith</a>, <a href="evenly.html">evenly</a>, <a href="exogenous%20depression.html">exogenous depression</a>, <a href="eye.html">eye</a>, <a href="eyecup.html">eyecup</a>, <a href="F.%20D.%20Roosevelt.html">F. D. Roosevelt</a>, <a href="FDR.html">FDR</a>, <a href="filling.html">filling</a>, <a href="fissure.html">fissure</a>, <a href="flatness.html">flatness</a>, <a href="Flong.html">Flong</a>, <a href="flute.html">flute</a>, <a href="follicle.html">follicle</a>, <a href="Fonticulus.html">Fonticulus</a>, <a href="foramen.html">foramen</a>, <a href="fortitude.html">fortitude</a>, <a href="fossa.html">fossa</a>, <a href="Fossette.html">Fossette</a>, <a href="fovea.html">fovea</a>, <a href="fovea%20centralis.html">fovea centralis</a>, <a href="Foveola.html">Foveola</a>, <a href="Franklin%20Delano%20Roosevelt.html">Franklin Delano Roosevelt</a>, <a href="Franklin%20Roosevelt.html">Franklin Roosevelt</a>, <a href="Frost-bite.html">Frost-bite</a>, <a href="full-blown.html">full-blown</a>, <a href="funk.html">funk</a>, <a href="furrow.html">furrow</a>, <a href="Geosynclinal.html">Geosynclinal</a>, <a href="glen.html">glen</a>, <a href="Glene.html">Glene</a>, <a href="Glenoid.html">Glenoid</a>, <a href="gloom.html">gloom</a>, <a href="gloominess.html">gloominess</a>, <a href="glumness.html">glumness</a>, <a href="Great%20Depression.html">Great Depression</a>, <a href="Great%20Rift%20Valley.html">Great Rift Valley</a>, <a href="groin.html">groin</a>, <a href="grotto.html">grotto</a>, <a href="gulch.html">gulch</a>, <a href="gutter.html">gutter</a>, <a href="heart.html">heart</a>, <a href="Heart%20heaviness.html">Heart heaviness</a>, <a href="Heart%20sickness.html">Heart sickness</a>, <a href="Heart-heaviness.html">Heart-heaviness</a>, <a href="Heart-spoon.html">Heart-spoon</a>, <a href="hilum.html">hilum</a>, <a href="hilus.html">hilus</a>, <a href="hip.html">hip</a>, <a href="hole.html">hole</a>, <a href="hollow.html">hollow</a>, <a href="hollowness.html">hollowness</a>, <a href="homesickness.html">homesickness</a>, <a href="Homoptera.html">Homoptera</a>, <a href="honey%20gland.html">honey gland</a>, <a href="hopper.html">hopper</a>, <a href="hypochondria.html">hypochondria</a>, <a href="hypochondriac.html">hypochondriac</a>, <a href="Imavate.html">Imavate</a>, <a href="imipramine.html">imipramine</a>, <a href="impramine%20hydrochloride.html">impramine hydrochloride</a>, <a href="Incavation.html">Incavation</a>, <a href="incision.html">incision</a>, <a href="inclination.html">inclination</a>, <a href="indent.html">indent</a>, <a href="indentation.html">indentation</a>, <a href="indention.html">indention</a>, <a href="industrial.html">industrial</a>, <a href="influenza.html">influenza</a>, <a href="Infrasternal.html">Infrasternal</a>, <a href="Introcession.html">Introcession</a>, <a href="Inverted%20siphon.html">Inverted siphon</a>, <a href="Iodism.html">Iodism</a>, <a href="isocarboxazid.html">isocarboxazid</a>, <a href="Japan%20Trench.html">Japan Trench</a>, <a href="Jaw-fall.html">Jaw-fall</a>, <a href="Jawfall.html">Jawfall</a>, <a href="jog.html">jog</a>, <a href="kettle.html">kettle</a>, <a href="key%20stroke.html">key stroke</a>, <a href="keyboard.html">keyboard</a>, <a href="keystroke.html">keystroke</a>, <a href="kick.html">kick</a>, <a href="lacuna.html">lacuna</a>, <a href="lake.html">lake</a>, <a href="Lange.html">Lange</a>, <a href="levallorphan.html">levallorphan</a>, <a href="line.html">line</a>, <a href="Lithane.html">Lithane</a>, <a href="lithium%20carbonate.html">lithium carbonate</a>, <a href="Lithonate.html">Lithonate</a>, <a href="loneliness.html">loneliness</a>, <a href="lonely.html">lonely</a>, <a href="Lopressor.html">Lopressor</a>, <a href="Lorfan.html">Lorfan</a>, <a href="low.html">low</a>, <a href="low%20spirits.html">low spirits</a>, <a href="low-spiritedness.html">low-spiritedness</a>, <a href="lunula.html">lunula</a>, <a href="major%20depressive%20episode.html">major depressive episode</a>, <a href="malaise.html">malaise</a>, <a href="manic%20depression.html">manic depression</a>, <a href="manic%20depressive%20illness.html">manic depressive illness</a>, <a href="manic-depressive.html">manic-depressive</a>, <a href="manic-depressive%20psychosis.html">manic-depressive psychosis</a>, <a href="mark.html">mark</a>, <a href="Marplan.html">Marplan</a>, <a href="megrims.html">megrims</a>, <a href="melancholia.html">melancholia</a>, <a href="melancholy.html">melancholy</a>, <a href="Melograph.html">Melograph</a>, <a href="metoprolol.html">metoprolol</a>, <a href="morbid.html">morbid</a>, <a href="mouse%20click.html">mouse click</a>, <a href="Mudhole.html">Mudhole</a>, <a href="nadir.html">nadir</a>, <a href="narcotic%20antagonist.html">narcotic antagonist</a>, <a href="Nardil.html">Nardil</a>, <a href="Nares%20Deep.html">Nares Deep</a>, <a href="navel.html">navel</a>, <a href="navel%20orange.html">navel orange</a>, <a href="Navelwort.html">Navelwort</a>, <a href="nectary.html">nectary</a>, <a href="neurotic%20depression.html">neurotic depression</a>, <a href="nick.html">nick</a>, <a href="night.html">night</a>, <a href="nip.html">nip</a>, <a href="nortriptyline.html">nortriptyline</a>, <a href="notch.html">notch</a>, <a href="Ocean-basin.html">Ocean-basin</a>, <a href="oceanic%20abyss.html">oceanic abyss</a>, <a href="oppression.html">oppression</a>, <a href="optic%20cup.html">optic cup</a>, <a href="overcloud.html">overcloud</a>, <a href="Pamelor.html">Pamelor</a>, <a href="Pan.html">Pan</a>, <a href="Papillulate.html">Papillulate</a>, <a href="Papillule.html">Papillule</a>, <a href="pear.html">pear</a>, <a href="pensive.html">pensive</a>, <a href="pep%20pill.html">pep pill</a>, <a href="phenelzine.html">phenelzine</a>, <a href="photogravure.html">photogravure</a>, <a href="phrenology.html">phrenology</a>, <a href="pit.html">pit</a>, <a href="pit%20of%20the%20stomach.html">pit of the stomach</a>, <a href="pitch.html">pitch</a>, <a href="pitting.html">pitting</a>, <a href="point.html">point</a>, <a href="pool.html">pool</a>, <a href="pothole.html">pothole</a>, <a href="Preoccipital.html">Preoccipital</a>, <a href="President%20Franklin%20Roosevelt.html">President Franklin Roosevelt</a>, <a href="President%20Roosevelt.html">President Roosevelt</a>, <a href="prick.html">prick</a>, <a href="Primitive%20groove.html">Primitive groove</a>, <a href="Prosternation.html">Prosternation</a>, <a href="prostration.html">prostration</a>, <a href="protriptyline.html">protriptyline</a>, <a href="psychotic%20depression.html">psychotic depression</a>, <a href="puncture.html">puncture</a>, <a href="Punty.html">Punty</a>, <a href="rally.html">rally</a>, <a href="Rapid-fire%20mount.html">Rapid-fire mount</a>, <a href="reaction.html">reaction</a>, <a href="reactive%20depression.html">reactive depression</a>, <a href="recess.html">recess</a>, <a href="recession.html">recession</a>, <a href="recover.html">recover</a>, <a href="refresh.html">refresh</a>, <a href="refreshment.html">refreshment</a>, <a href="Remblai.html">Remblai</a>, <a href="Repoussage.html">Repoussage</a>, <a href="resilience.html">resilience</a>, <a href="resiliency.html">resiliency</a>, <a href="resilient.html">resilient</a>, <a href="retarded%20depression.html">retarded depression</a>, <a href="retina.html">retina</a>, <a href="revival.html">revival</a>, <a href="revive.html">revive</a>, <a href="ribbed.html">ribbed</a>, <a href="roll.html">roll</a>, <a href="Roosevelt.html">Roosevelt</a>, <a href="saddle.html">saddle</a>, <a href="sadness.html">sadness</a>, <a href="sag.html">sag</a>, <a href="scratch.html">scratch</a>, <a href="Scrobiculus.html">Scrobiculus</a>, <a href="scurvy.html">scurvy</a>, <a href="seam.html">seam</a>, <a href="serotonin.html">serotonin</a>, <a href="Shallow-waisted.html">Shallow-waisted</a>, <a href="shift.html">shift</a>, <a href="shock.html">shock</a>, <a href="sink.html">sink</a>, <a href="sinkhole.html">sinkhole</a>, <a href="sinking.html">sinking</a>, <a href="sinus.html">sinus</a>, <a href="slag.html">slag</a>, <a href="Slank.html">Slank</a>, <a href="slash.html">slash</a>, <a href="slit.html">slit</a>, <a href="slot.html">slot</a>, <a href="slouch.html">slouch</a>, <a href="slough%20of%20despond.html">slough of despond</a>, <a href="socket.html">socket</a>, <a href="Sordes.html">Sordes</a>, <a href="speed.html">speed</a>, <a href="spire.html">spire</a>, <a href="Spring-tide.html">Spring-tide</a>, <a href="state.html">state</a>, <a href="stop.html">stop</a>, <a href="subside.html">subside</a>, <a href="suction.html">suction</a>, <a href="sulcus.html">sulcus</a>, <a href="Surmontil.html">Surmontil</a>, <a href="swale.html">swale</a>, <a href="swallow%20hole.html">swallow hole</a>, <a href="swamp.html">swamp</a>, <a href="swing.html">swing</a>, <a href="Swire.html">Swire</a>, <a href="Tenormin.html">Tenormin</a>, <a href="The%20blues.html">The blues</a>, <a href="The%20horrors.html">The horrors</a>, <a href="thesis.html">thesis</a>, <a href="thirst.html">thirst</a>, <a href="tobacco.html">tobacco</a>, <a href="Tofranil.html">Tofranil</a>, <a href="trap.html">trap</a>, <a href="trench.html">trench</a>, <a href="Trifacial.html">Trifacial</a>, <a href="trimipramine.html">trimipramine</a>, <a href="trough.html">trough</a>, <a href="Trough%20of%20the%20sea.html">Trough of the sea</a>, <a href="twilight.html">twilight</a>, <a href="umbilicate.html">umbilicate</a>, <a href="Umbilication.html">Umbilication</a>, <a href="umbilicus.html">umbilicus</a>, <a href="umbo.html">umbo</a>, <a href="unease.html">unease</a>, <a href="uneasiness.html">uneasiness</a>, <a href="univalve.html">univalve</a>, <a href="upper.html">upper</a>, <a href="Ups%20and%20downs.html">Ups and downs</a>, <a href="urethra.html">urethra</a>, <a href="vale.html">vale</a>, <a href="Vallate.html">Vallate</a>, <a href="vallecula.html">vallecula</a>, <a href="valley.html">valley</a>, <a href="vapor.html">vapor</a>, <a href="vapor%20pressure.html">vapor pressure</a>, <a href="Vapor%20tension.html">Vapor tension</a>, <a href="vapors.html">vapors</a>, <a href="vapour.html">vapour</a>, <a href="vapours.html">vapours</a>, <a href="vertical%20angle.html">vertical angle</a>, <a href="vestibule.html">vestibule</a>, <a href="Vly.html">Vly</a>, <a href="wallow.html">wallow</a>, <a href="want.html">want</a>, <a href="wash.html">wash</a>, <a href="wave.html">wave</a>, <a href="weariness.html">weariness</a>, <a href="weaving.html">weaving</a>, <a href="whirlpool.html">whirlpool</a>, <a href="withdrawal%20symptom.html">withdrawal symptom</a>, <a href="wrinkle.html">wrinkle</a>, <a href="Yellow-fever.html">Yellow-fever</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					sepression, eepression, fepression, cepression, xepression, sepression, dwpression, dspression, ddpression, drpression, deoression, delression, depeession, depdession, depfession, deptession, deprwssion, deprsssion, deprdssion, deprrssion, depreasion, deprewsion, depredsion, deprexsion, deprezsion, depreasion, depresaion, depreswion, depresdion, depresxion, depreszion, depresaion, depressuon, depressjon, depresskon, depressoon, depressiin, depressikn, depressiln, depressipn, depressiob, depressioh, depressioj, depressiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

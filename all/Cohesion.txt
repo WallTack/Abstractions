@@ -1,0 +1,420 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>cohesion</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">cohesion</span> <span class="exp">(physics) the intermolecular force that holds together the molecules in a solid or liquid</span> </li><li><span class="tSpeech">n</span> <span class="term">cohesion</span> <span class="exp">(botany) the process in some plants of parts growing together that are usually separate (such as petals)</span> </li><li><span class="tSpeech">n</span> <span class="term">cohesion</span> <span class="exp">the state of cohering or sticking together</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Cohesion</span> <span class="exp">Logical agreement and dependence; as, the <span class="wUex">cohesion</span> of ideas.</span> </li><li><span class="term">Cohesion</span> <span class="exp"><span class="wuFld">(Physics)</span> That from of attraction by which the particles of a body are united throughout the mass, whether like or unlike; -- distinguished from <span class="wUex">adhesion</span>, which unites bodies by their adjacent surfaces.</span> <span class="wuQuot">"Solids and fluids differ in the degree of cohesion , which, being increased, turns a fluid into a solid."</span></li><li><span class="term">Cohesion</span> <span class="exp">The act or state of sticking together; close union.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">cohesion</span> <span class="exp">The act or state of cohering, uniting, or sticking together; specifically, in physical, the state in which, or the force by which, the molecules of the same material are bound together, so as to form a continuous homogeneous mass. This force acts sensibly at insensible distances—that is, when the particles of matter which it unites are placed in apparent contact. At insensible distances it is a much greater, at sensible distances a much smaller, force than gravitation, so that it does not follow the law of variation of the latter. It unites the particles of a homogeneous body, and is thus distinguished from adhesion, which takes place between the molecules of different masses or substances, as between fluids and solids, and from chemical attraction, which unites the atoms of a molecule together. The power of cohesion in a body is estimated by the force necessary to pull its parts asunder. In general, cohesion is most powerful among the particles of solid bodies, weaker among those of fluids, and least of all, or entirely wanting, in elastic fluids, as air and gases. Hardness, softness, tenacity, elasticity, malleability, ductility, and in crystallized bodies cleavage, are to be considered properties dependent upon cohesion. The most powerful influence which tends to diminish cohesion is heat, as shown in the change of a solid to a liquid, or of a liquid to a gas, which is effected by it. See gas and liquid.</span> </li><li><span class="tSpeech">n</span> <span class="term">cohesion</span> <span class="exp">In botany, the congenital union of one part with another. If the parts are similar, as two stamens, their union is specifically called coalescence; if dissimilar, as calyx and ovary, it is styled adnation.</span> </li><li><span class="tSpeech">n</span> <span class="term">cohesion</span> <span class="exp">Connection; dependence; affinity; coherence.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Cohesion</span> <span class="exp">the act of sticking together: a form of attraction by which particles of bodies stick together: logical connection</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Georges Bataille</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Georges%20Bataille.jpg" alt="Georges%20Bataille">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Life has always taken place in a tumult without apparent cohesion, but it only finds its grandeur and its reality in ecstasy and in ecstatic love.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">cohésion</span>,. See <span class="wUer">Cohere</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>cohærēre</i>, <i>cohæsum</i>, <i>co-</i>, together, and <i>hærēre</i>, to stick.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						And may not this be also the cause of the attraction of cohesion?
+					</div>
+					<div class="uAuthor">
+						"Conversations on Chemistry, V. 1-2" by <span>Jane Marcet</span>					</div>
+										<div class="usage">
+						But this was almost the only effectively cohesive provision in the whole instrument.
+					</div>
+					<div class="uAuthor">
+						"The Critical Period of American History" by <span>John Fiske</span>					</div>
+										<div class="usage">
+						The isolation and independence of a farm life are powerful agents in preventing anything like cohesion.
+					</div>
+					<div class="uAuthor">
+						"The Toilers of the Field" by <span>Richard Jefferies</span>					</div>
+										<div class="usage">
+						The cohesion of wealth is a force of peculiar social significance.
+					</div>
+					<div class="uAuthor">
+						"The American Empire" by <span>Scott Nearing</span>					</div>
+										<div class="usage">
+						There is a beautiful cohesion between the words and their significance.
+					</div>
+					<div class="uAuthor">
+						"Commentary on Genesis, Vol. II" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						From this point all cohesion was lost.
+					</div>
+					<div class="uAuthor">
+						"History of the War in South Africa 1899-1902 v. 1 (of 4)" by <span>Frederick Maurice</span>					</div>
+										<div class="usage">
+						But can you wonder at the Negro's cohesion?
+					</div>
+					<div class="uAuthor">
+						"Shadow and Light" by <span>Mifflin Wistar Gibbs</span>					</div>
+										<div class="usage">
+						This so-called socialistic movement in industry represents the growing cohesiveness of modern societies.
+					</div>
+					<div class="uAuthor">
+						"The Evolution of Modern Capitalism" by <span>John Atkinson Hobson</span>					</div>
+										<div class="usage">
+						In the charge against Cavalry cohesion is the first and dominating condition.
+					</div>
+					<div class="uAuthor">
+						"Cavalry in Future Wars" by <span>Frederick von Bernhardi</span>					</div>
+										<div class="usage">
+						But the cohesive force had gone.
+					</div>
+					<div class="uAuthor">
+						"The Belovéd Vagabond" by <span>William J. Locke</span>					</div>
+										<div class="usage">
+						When the union results from a perception of likeness, it is a cohesion.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						The property of cohesion of small conductive bodies when influenced by Hertzian waves was first noticed in 1874 by Professor D.E.
+					</div>
+					<div class="uAuthor">
+						"How it Works" by <span>Archibald Williams</span>					</div>
+										<div class="usage">
+						France was never cohesive until a mixture of Teuton had toughened it.
+					</div>
+					<div class="uAuthor">
+						"A Short History of England, Ireland and Scotland" by <span>Mary Platt Parmele</span>					</div>
+										<div class="usage">
+						Therefore by the mutual contact of strong pieces of iron, the cohesion is strong.
+					</div>
+					<div class="uAuthor">
+						"On the magnet, magnetick bodies also, and on the great magnet the earth" by <span>William Gilbert of Colchester</span>					</div>
+										<div class="usage">
+						Cohesion is the force which holds together molecules which are chemically similar.
+					</div>
+					<div class="uAuthor">
+						"The Mechanism of Life" by <span>Stéphane Leduc</span>					</div>
+										<div class="usage">
+						This is the part of Thomas's system in which the cohesion of the different elements seems weakest.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 9, Slice 7" by <span>Various</span>					</div>
+										<div class="usage">
+						Last, though not least, we may reckon among the agents of geological change the forces of cohesion and affinity.
+					</div>
+					<div class="uAuthor">
+						"The Religion of Geology and Its Connected Sciences" by <span>Edward Hitchcock</span>					</div>
+										<div class="usage">
+						He treats with no greater respect those who have explained cohesion by rest.
+					</div>
+					<div class="uAuthor">
+						"A Philosophical Dictionary, Volume 3 (of 10)" by <span>François-Marie Arouet (AKA Voltaire)</span>					</div>
+										<div class="usage">
+						COHESION, as we said, leads to STRENGTH.
+					</div>
+					<div class="uAuthor">
+						"Manual of the Enumeration" by <span>C. J. Coffman</span>					</div>
+										<div class="usage">
+						Hence an inevitable lack of cohesion among their elements and a constant tendency to break up into caves and coteries.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 15, Slice 3" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Yoga Teaching Strategies for Cohesiveness .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ideafit.com/fitness-library/yoga-teaching-strategies-for-cohesiveness" target="_blank" rel="external nofollow">ideafit.com</a>
+					</div>
+										<div class="usage">
+						James Amos says lifting the ban on openly gay service members might hurt unit cohesion and combat readiness.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/local/la-me-dont-ask-20101107,0,5986584.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						COIN extends US military beyond its competence by making it try to build a cohesive nation in Afghanistan.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatches/globalpost-blogs/commentary/counterinsurgency-doctrine-COIN-Afghanistan-war-US-military" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						After a decade as a rock-anthem-spewing locomotive, Fort Lauderdale's Crease has nearly arrived at a cohesive, big-time-ready persona.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.miaminewtimes.com/2005-06-30/music/crease/" target="_blank" rel="external nofollow">miaminewtimes.com</a>
+					</div>
+										<div class="usage">
+						TextRank is a system for unsupervised extractive summarization that relies on an innovative application of iterative graph-based ranking algorithms to graphs encoding the cohesive structure of texts.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aaai.org/Library/AAAI/2005/isd05-010.php" target="_blank" rel="external nofollow">aaai.org</a>
+					</div>
+										<div class="usage">
+						Andwherein the cohesive engaging and receiving areas do not include hook and loop fasteners .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nonwovens-industry.com/contents/view_patents/2011-12-06/pant-like-disposable-garment-having-improved-faste/" target="_blank" rel="external nofollow">nonwovens-industry.com</a>
+					</div>
+										<div class="usage">
+						The bank's goals were to improve and expand their existing space, including linking the entrances, offices, work areas and conference rooms into a more cohesive whole.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.interiorsandsources.com/ArticleDetails/tabid/3339/ArticleID/14037/Default.aspx" target="_blank" rel="external nofollow">interiorsandsources.com</a>
+					</div>
+										<div class="usage">
+						With its first senior class taking the court this season, River Ridge will attempt to overcome a difficult jump in classifications with both of its basketball teams relying upon a strong sense of unity and cohesion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://cherokeetribune.com/view/full_story/20900112/article-River-Ridge-rosters-now-have-full-complement-of-classes?" target="_blank" rel="external nofollow">cherokeetribune.com</a>
+					</div>
+										<div class="usage">
+						He says he's found getting information for his stories is easy, but getting them to form into a cohesive story is not.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sequimgazette.com/schools/article.exm/2011-02-09_the__growl__goes_digital" target="_blank" rel="external nofollow">sequimgazette.com</a>
+					</div>
+										<div class="usage">
+						More importantly, they will be a cohesive team with a championship goal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://juneauempire.com/sports/2011-11-03/no-hibernation-crimson-bears-hockey-begins" target="_blank" rel="external nofollow">juneauempire.com</a>
+					</div>
+										<div class="usage">
+						Pull up a stool and let their knowledgeable scent bartenders, who have perfected the sense of smell, guide you in finding scents that will blend into cohesive fragrances to use alone or with unscented lotions, soaps and oils.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.midwestliving.com/travel/missouri/saint-louis/cassies-fragrance-boutique-scent-bar/" target="_blank" rel="external nofollow">midwestliving.com</a>
+					</div>
+										<div class="usage">
+						Modelling of Sedimentation and Self-Weight Consolidation of Cohesive Sediments .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.elsevier.com/books/sediment-and-ecohydraulics/kusuda/978-0-444-53184-1" target="_blank" rel="external nofollow">elsevier.com</a>
+					</div>
+										<div class="usage">
+						G- Side 's LP "The One Cohesive" landed at number eight on Spin magazine's 50 Best Albums of 2011 list.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.al.com/entertainment/index.ssf/2012/09/g-side_has_broken_up.html" target="_blank" rel="external nofollow">al.com</a>
+					</div>
+										<div class="usage">
+						Luxury lifestyle brand re-launches both ecommerce and mobile sites on Demandware Commerce to create cohesive shopping experience from web to mobile.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.internetretailer.com/2011/04/18/tory-burch-re-launches-e-commerce-and-mobile-commerce-sites" target="_blank" rel="external nofollow">internetretailer.com</a>
+					</div>
+										<div class="usage">
+						WENY-TV Sports was on hand for the first ever summer cohesion track meet in Chemung County.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.weny.com/sports/sports-news/08-03-track-meet-horseheads" target="_blank" rel="external nofollow">weny.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Incorporating cohesion constraint into our ordering strategy by opportunistically grouping sentences together would be beneﬁcial. 
+					</div>
+					<div class="uAuthor">
+						Inferring Strategies for Sentence Ordering in Multidocument News Summarization
+					</div>
+										<div class="usage">
+						Cohesion is achieved by surface devices, such as repetition of words and coreferences. 
+					</div>
+					<div class="uAuthor">
+						Inferring Strategies for Sentence Ordering in Multidocument News Summarization
+					</div>
+										<div class="usage">
+						We describe next how we include cohesion in the CO algorithm based on these surface features. 
+					</div>
+					<div class="uAuthor">
+						Inferring Strategies for Sentence Ordering in Multidocument News Summarization
+					</div>
+										<div class="usage">
+						Disﬂuencies arise in the output of the CO algorithm when topics are distributed over the whole text, violating cohesion properties (McCoy &amp; Cheng, 1991). A typical scenario is illustrated in Figure 11. 
+					</div>
+					<div class="uAuthor">
+						Inferring Strategies for Sentence Ordering in Multidocument News Summarization
+					</div>
+										<div class="usage">
+						Stairmand M., (1996)., A Computational Analysis of Lexical Cohesion with Applications in Information Retrieval, PhD, Department of Language Engineering, UMIST Computational Linguistics Laboratory. 26. 
+					</div>
+					<div class="uAuthor">
+						Annotation of Scientific Summaries for Information Retrieval
+					</div>
+										<div class="usage">
+						Salton et. al. (1997) presented a sentence extraction method that exploits the semantic links between sentences in the text. The feature they used in this work may be considered as a cohesion feature. 
+					</div>
+					<div class="uAuthor">
+						Bengali text summarization by sentence extraction
+					</div>
+										<div class="usage">
+						Barzilay and Elhadad (1997) described a summarization approach that used lexical chaining method to compute the salience of a sentence. Cohesion (Halliday and Hasan, 1976 ) is a method for sticking together different parts of the text. Lexical cohesion is the simplest form of cohesion. 
+					</div>
+					<div class="uAuthor">
+						Bengali text summarization by sentence extraction
+					</div>
+										<div class="usage">
+						Localization-induced band and cohesive model. J. 
+					</div>
+					<div class="uAuthor">
+						Validation of the material point method and plasticity with Taylor impact tests
+					</div>
+										<div class="usage">
+						The lexical cohesion structure of the text can be exploited to determine the importance of a sentence/phrase. 
+					</div>
+					<div class="uAuthor">
+						Automated Text Summarization Base on Lexicales Chain and graph Using of WordNet and Wikipedia Knowledge Base
+					</div>
+										<div class="usage">
+						Lexical chains are useful tools to analyze the lexical cohesion structure in a text .
+					</div>
+					<div class="uAuthor">
+						Automated Text Summarization Base on Lexicales Chain and graph Using of WordNet and Wikipedia Knowledge Base
+					</div>
+										<div class="usage">
+						The query-based summarizer used only queryterm information, and the hybrid summarizer used some discourse information along with query-term information. The article presents a multi-document, multi-lingual, theme-based summarization system based on modeling text cohesion (story flow). 
+					</div>
+					<div class="uAuthor">
+						Automated Text Summarization Base on Lexicales Chain and graph Using of WordNet and Wikipedia Knowledge Base
+					</div>
+										<div class="usage">
+						Campillos et al. obtained even more explicit evidence for the effects of changing environments and horizontal gene transfer on modularity by studying evolutionarily cohesive functional modules in protein networks . 
+					</div>
+					<div class="uAuthor">
+						The Emergence of Modularity in Biological Systems
+					</div>
+										<div class="usage">
+						As we use extractive summarization as task, documents have to be chunked into cohesive textual segments that will be assembled to produce the summary. 
+					</div>
+					<div class="uAuthor">
+						Beyond Stemming and Lemmatization: Ultra-stemming to Improve Automatic Text Summarization
+					</div>
+										<div class="usage">
+						As we use extractive summarization, documents have to be chunked into cohesive textual segments that will be assembled to produce the summary. 
+					</div>
+					<div class="uAuthor">
+						Artex is AnotheR TEXt summarizer
+					</div>
+										<div class="usage">
+						Binding energies (or cohesive energies) of molecules and solids are clearly improved by the GGA and energy barriers of chemical reactions are improved as well (see Ref. 29 and 30 and references therein). 
+					</div>
+					<div class="uAuthor">
+						Density-Functional Theory of Surface Diffusion and Epitaxial Growth of Metals
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the state of cohering or sticking together"><a href="cohesiveness.html">cohesiveness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="incoherence.html">incoherence</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="connectedness.html">connectedness</a>, <a href="connection.html">connection</a>, <a href="development.html">development</a>, <a href="force.html">force</a>, <a href="growing.html">growing</a>, <a href="growth.html">growth</a>, <a href="link.html">link</a>, <a href="maturation.html">maturation</a>, <a href="ontogenesis.html">ontogenesis</a>, <a href="ontogeny.html">ontogeny</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="consistency.html">consistency</a>, <a href="continuity.html">continuity</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="cohere.html">cohere</a>, <a href="coherent.html">coherent</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adhesion.html">adhesion</a>, <a href="adnate.html">adnate</a>, <a href="Adnation.html">Adnation</a>, <a href="attraction.html">attraction</a>, <a href="Autoclastic.html">Autoclastic</a>, <a href="capillary.html">capillary</a>, <a href="Catapetalous.html">Catapetalous</a>, <a href="cement.html">cement</a>, <a href="cleavage.html">cleavage</a>, <a href="coalescent.html">coalescent</a>, <a href="coherence.html">coherence</a>, <a href="coherency.html">coherency</a>, <a href="Cohesibility.html">Cohesibility</a>, <a href="Cohesible.html">Cohesible</a>, <a href="cohesive.html">cohesive</a>, <a href="cohesiveness.html">cohesiveness</a>, <a href="concrete.html">concrete</a>, <a href="consolidation.html">consolidation</a>, <a href="continuity.html">continuity</a>, <a href="discontinuance.html">discontinuance</a>, <a href="discontinue.html">discontinue</a>, <a href="discontinuity.html">discontinuity</a>, <a href="disintegrate.html">disintegrate</a>, <a href="disintegration.html">disintegration</a>, <a href="displacement.html">displacement</a>, <a href="fixedness.html">fixedness</a>, <a href="flaw.html">flaw</a>, <a href="hardness.html">hardness</a>, <a href="incoherence.html">incoherence</a>, <a href="incoherency.html">incoherency</a>, <a href="incoherent.html">incoherent</a>, <a href="mechanical.html">mechanical</a>, <a href="molecule.html">molecule</a>, <a href="Noncohesion.html">Noncohesion</a>, <a href="Pulverulent.html">Pulverulent</a>, <a href="Regelation.html">Regelation</a>, <a href="Roric.html">Roric</a>, <a href="rot.html">rot</a>, <a href="slack.html">slack</a>, <a href="slacken.html">slacken</a>, <a href="solid.html">solid</a>, <a href="surface%20tension.html">surface tension</a>, <a href="Syssitia.html">Syssitia</a>, <a href="tenacity.html">tenacity</a>, <a href="vegetable%20silk.html">vegetable silk</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xohesion, dohesion, fohesion, vohesion, cihesion, ckhesion, clhesion, cphesion, cogesion, coyesion, cojesion, conesion, cobesion, cohwsion, cohssion, cohdsion, cohrsion, coheaion, cohewion, cohedion, cohexion, cohezion, coheaion, cohesuon, cohesjon, coheskon, cohesoon, cohesiin, cohesikn, cohesiln, cohesipn, cohesiob, cohesioh, cohesioj, cohesiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

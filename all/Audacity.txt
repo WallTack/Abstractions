@@ -1,0 +1,406 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>audacity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">audacity</span> <span class="exp">aggressive boldness or unmitigated effrontery</span> <span class="quot">"he had the audacity to question my decision"</span></li><li><span class="tSpeech">n</span> <span class="term">audacity</span> <span class="exp">fearless daring</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Audacity</span> <span class="exp">Daring spirit, resolution, or confidence; venturesomeness.</span> <span class="wuQuot">"The freedom and audacity necessary in the commerce of men."</span></li><li><span class="term">Audacity</span> <span class="exp">Reckless daring; presumptuous impudence; -- implying a contempt of law or moral restraints.</span> <span class="wuQuot">"With the most arrogant audacity ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">audacity</span> <span class="exp">Boldness; daring; confidence; intrepidity.</span> </li><li><span class="tSpeech">n</span> <span class="term">audacity</span> <span class="exp">Reckless daring; venturesomeness.</span> </li><li><span class="tSpeech">n</span> <span class="term">audacity</span> <span class="exp">Audaciousness; presumptuous impudence; effrontery: in a bad sense, and often implying a contempt of law or moral restraint: as, “arrogant audacity,”</span> </li><li><span class="tSpeech">n</span> <span class="term">audacity</span> <span class="exp">An audacious person or act. Synonyms Hardihood.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Christian Nevell Bovee</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Christian%20Nevell%20Bovee.jpg" alt="Christian%20Nevell%20Bovee">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The method of the enterprising is to plan with audacity and execute with vigor.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Napoleon Bonaparte</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Napoleon%20Bonaparte.jpg" alt="Napoleon%20Bonaparte">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“With audacity one can undertake anything, but not do everything.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Madame Dorothe Deluzy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Madame Dorothe Deluzy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Perseverance and audacity generally win!”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Publilius Syrus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Publilius%20Syrus.jpg" alt="Publilius%20Syrus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Audacity augments courage; hesitation, fear.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Dewey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Dewey.jpg" alt="John%20Dewey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every great advance in science has issued from a new audacity of imagination.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Benjamin Disraeli</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Benjamin%20Disraeli.jpg" alt="Benjamin%20Disraeli">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Success is the child of audacity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						To shoot down people by night is a violation of every law, human and divine, but it lacks audacity.
+					</div>
+					<div class="uAuthor">
+						"Napoleon the Little" by <span>Victor Hugo</span>					</div>
+										<div class="usage">
+						It inspires a sublime audacity and a heroic courage.
+					</div>
+					<div class="uAuthor">
+						"Pushing to the Front" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						The rajah's rage at the audacity of the rebels, as he called them, was excessive.
+					</div>
+					<div class="uAuthor">
+						"The Young Rajah" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Dead stillness fell upon the Tuscans, so astonished were they at the audacity of the Roman.
+					</div>
+					<div class="uAuthor">
+						"Architects of Fate" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						This has the happy audacity of Shakespeare, and his delight in playing with logic; it is almost witty.
+					</div>
+					<div class="uAuthor">
+						"Milton" by <span>Sir Walter Alexander Raleigh</span>					</div>
+										<div class="usage">
+						The audacity of the deed contributed largely to its success.
+					</div>
+					<div class="uAuthor">
+						"Twice Bought" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						His bravery undoubtedly proved his salvation, for they were too much astounded to move at his audacity.
+					</div>
+					<div class="uAuthor">
+						"The Wonder Island Boys: Treasures of the Island" by <span>Roger Thompson Finlay</span>					</div>
+										<div class="usage">
+						He has told me often, with a chuckle at the audacity of it, how he picked out his employer.
+					</div>
+					<div class="uAuthor">
+						"The Best Short Stories of 1920" by <span>Various</span>					</div>
+										<div class="usage">
+						It was broken by Lady Ashton, who in that space partly recovered her natural audacity.
+					</div>
+					<div class="uAuthor">
+						"The Best of the World's Classics, Vol. V (of X) - Great Britain and Ireland III" by <span>Various</span>					</div>
+										<div class="usage">
+						The Lady had entered and listened with some trepidation to the frank audacity of the children's views.
+					</div>
+					<div class="uAuthor">
+						"Danger! and Other Stories" by <span>Arthur Conan Doyle</span>					</div>
+										<div class="usage">
+						An excess of audacity calms and overawes him rather than irritates him.
+					</div>
+					<div class="uAuthor">
+						"The Philippine Islands" by <span>John Foreman</span>					</div>
+										<div class="usage">
+						People do fear a rebuff wonderfully, and all her audacity was in her thoughts.
+					</div>
+					<div class="uAuthor">
+						"Chance" by <span>Joseph Conrad</span>					</div>
+										<div class="usage">
+						Now we'll hear how ably Audacity parleys with Fate.
+					</div>
+					<div class="uAuthor">
+						"Under the Rose" by <span>Frederic Stewart Isham</span>					</div>
+										<div class="usage">
+						The boy rode fearlessly, while exercise and exertion begot in him a certain light-heartedness and audacity good to see.
+					</div>
+					<div class="uAuthor">
+						"The History of Sir Richard Calmady" by <span>Lucas Malet</span>					</div>
+										<div class="usage">
+						Great was the scorn with which she repulsed his audacity, and her sisters participated in her disdain.
+					</div>
+					<div class="uAuthor">
+						"The Posthumous Works of Thomas De Quincey, Vol. 1 (2 vols)" by <span>Thomas De Quincey</span>					</div>
+										<div class="usage">
+						Never were acts of gross injustice meditated with greater audacity.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						She seemed to have the audacity to expect that you would become her humble companion.
+					</div>
+					<div class="uAuthor">
+						"Fairy Fingers" by <span>Anna Cora Mowatt Ritchie</span>					</div>
+										<div class="usage">
+						He was an innovator, and his audacity at once conquered and repelled.
+					</div>
+					<div class="uAuthor">
+						"A History of French Literature" by <span>Edward Dowden</span>					</div>
+										<div class="usage">
+						Yet I do not dislike audacity, at some times, in some places, in some people.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1905 to 1906" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						Thus far her audacity seemed to have earned her nothing but his derision.
+					</div>
+					<div class="uAuthor">
+						"Nobody" by <span>Louis Joseph Vance</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							THE LADY<br>
+I say not that: yet prithee have a care!<br>
+Often audacity has proved a snare.<br>
+How wan and pale do moon-kissed roses grow--<br>
+Dost thou not fear my kisses, Pierrot?
+							<div class="poet">"The Pierrot Of The Minute" by <span>Ernest Christopher Dowson</span></div>
+						</div>
+											<div class="poemQuote">
+							In the twilight of my audacity<br>
+I saw you flee the world, the burnt highways<br>
+Of summer gave up their light: I<br>
+Followed you with the uncommon span<br>
+Of fear-supported and disbursed eyes.
+							<div class="poet">"Ignis Fatuus" by <span>Allen Tate</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						When Kansas' Dayne Crist was in high school, a budding quarterback phenom in Southern California, a rival high school once had the audacity to question his age.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/08/25/3779294/crists-one-last-chance-at-redemption.html" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						Spanish Driver Takes Advantage of His Team's Audacity to Block Vettel Title Bid.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424127887323353204578129103833230408.html?mod=WSJ_article_AutoRacingHeadlines" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						MANY Americans are mystified by the recent rise in the number and the audacity of suicide attacks in Iraq.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2005/05/18/opinion/18pape.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Though turtles are not typically known for their speed and audacity, a Georgia farm saw 1600 turtles free themselves in a daring escape from captivity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/science/120720/turtles-1600-turtles-find-freedom-after-daring-escape-captivity" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						Bill Clinton 's entire speech Ending days of speculation over their once-brittle relationship, Clinton cast his lot with President Obama with rule-breaking audacity — all but abandoning his written script and speaking straight from the heart.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/news/world/uselection/article/1252006--u-s-election-bill-clinton-puts-it-all-on-the-line-for-barack-obama" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						When you don't need ProTools or Logic, but you want something more powerful than Audacity, TwistedWave fits the bill.
+					</div>
+					<div class="uAuthor">
+						<a href="http://livedesignonline.com/gear/sound/0821_twistedwave" target="_blank" rel="external nofollow">livedesignonline.com</a>
+					</div>
+										<div class="usage">
+						Rennie Harris had the audacity to take hip-hop dancing out of the club and put it on the concert stage.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/entertainment/headlines/20121208-dallas-black-dance-theatre-debuts-eclectic-commissioned-work-from-philadelphia-hip-hop-choreographer-rennie-harris.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						While on trial Washington actually had the audacity to "take his confession back" WOW.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.z104.com/He-Confessed-to-a-Murder-on-His-Death-Bed---Then-Survived-/11276821?pid=276969" target="_blank" rel="external nofollow">z104.com</a>
+					</div>
+										<div class="usage">
+						The audacity of cynicism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/apr/27/the-audacity-of-cynicism/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						The Audacity of Cynicism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://spectator.org/archives/2009/03/03/the-audacity-of-cynicism" target="_blank" rel="external nofollow">spectator.org</a>
+					</div>
+										<div class="usage">
+						Johnny Manziel made history Saturday, becoming the first freshman in the Heisman Trophy's 77 years with the audacity to walk off with the prize.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/sports/columnists/kevin-sherrington/20121208-sherrington-johnny-manziel-makes-heisman-history-but-here-s-the-real-question-can-he-do-it-again.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						A copy of US President Barack Obama's book "The Audacity of Hope" is held by a supporter looking for an autograph during a campaign rally.
+					</div>
+					<div class="uAuthor">
+						<a href="http://b93radio.com/news/articles/2012/oct/20/democratic-donors-energize-super-pacs-as-election-nears/" target="_blank" rel="external nofollow">b93radio.com</a>
+					</div>
+										<div class="usage">
+						Accusing Baz Luhrmann of audacity for the exuberant extravagance that is Australia is a bit like telling a shark it has very sharp teeth.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/entertainment/article/543273" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						The United States boat The Audacity of Hope, docked in Athens on Friday, tried to sail to Gaza as part of a protest flotilla .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2011/07/02/world/middleeast/02flotilla.html?_r=2%20" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Passengers who will sail aboard the US boat to Gaza, The Audacity of Hope, prepare for the flotilla 's departure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sfbayview.com/2011/alice-walker-why-i%E2%80%99m-joining-the-freedom-flotilla-to-gaza/" target="_blank" rel="external nofollow">sfbayview.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						What a deception therefore to note the audacity with which P. 
+					</div>
+					<div class="uAuthor">
+						Report to Anaximander: A Dialogue on the Origin of the Cosmos in the Cradle of Western Civilization
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="aggressive boldness or unmitigated effrontery"><a href="audaciousness.html">audaciousness</a>, </div><div class="synGroup" title="fearless daring"><a href="audaciousness.html">audaciousness</a>, <a href="temerity.html">temerity</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="boldness.html">boldness</a>, <a href="brass.html">brass</a>, <a href="cheek.html">cheek</a>, <a href="daring.html">daring</a>, <a href="face.html">face</a>, <a href="hardihood.html">hardihood</a>, <a href="hardiness.html">hardiness</a>, <a href="nerve.html">nerve</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="assumption.html">assumption</a>, <a href="effrontery.html">effrontery</a>, <a href="presumption.html">presumption</a>, <a href="presumptuousness.html">presumptuousness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="audacious.html">audacious</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20high%20hand%2C%20or%20arm.html">A high hand, or arm</a>, <a href="abstract.html">abstract</a>, <a href="admire.html">admire</a>, <a href="assurance.html">assurance</a>, <a href="audaciousness.html">audaciousness</a>, <a href="bravery.html">bravery</a>, <a href="chutzpa.html">chutzpa</a>, <a href="chutzpah.html">chutzpah</a>, <a href="daringly.html">daringly</a>, <a href="effrontery.html">effrontery</a>, <a href="face.html">face</a>, <a href="forehead.html">forehead</a>, <a href="hardihood.html">hardihood</a>, <a href="hardiness.html">hardiness</a>, <a href="hutzpah.html">hutzpah</a>, <a href="impudence.html">impudence</a>, <a href="nerve.html">nerve</a>, <a href="outbrave.html">outbrave</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qudacity, wudacity, sudacity, zudacity, aydacity, ahdacity, ajdacity, aidacity, ausacity, aueacity, aufacity, aucacity, auxacity, ausacity, audqcity, audwcity, audscity, audzcity, audaxity, audadity, audafity, audavity, audacuty, audacjty, audackty, audacoty, audaciry, audacify, audacigy, audaciyy, audacitt, audacitg, audacith, audacitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

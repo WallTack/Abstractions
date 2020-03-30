@@ -1,0 +1,495 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>discord</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">discord</span> <span class="exp">be different from one another</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">strife resulting from a lack of agreement</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">a harsh mixture of sounds</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">disagreement among those expected to cooperate</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">lack of agreement or harmony</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">v. i</span> <span class="term">Discord</span> <span class="exp">To disagree; to be discordant; to jar; to clash; not to suit.</span> <span class="wuQuot">"The one discording with the other."</span></li><li><span class="term">Discord</span> <span class="exp"><span class="wuFld">(Mus)</span> Union of musical sounds which strikes the ear harshly or disagreeably, owing to the incommensurability of the vibrations which they produce; want of musical concord or harmony; a chord demanding resolution into a concord.</span> <span class="wuQuot">"For a discord itself is but a harshness of divers sounds meeting."</span></li><li><span class="term">Discord</span> <span class="exp">Want of concord or agreement; absence of unity or harmony in sentiment or action; variance leading to contention and strife; disagreement; -- applied to persons or to things, and to thoughts, feelings, or purposes.</span> <span class="wuQuot">"A false witness that speaketh lies, and he that soweth discord among brethren."</span><span class="wuQuot">"Peace to arise out of universal discord fomented in all parts of the empire."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">Want of concord or harmony between persons or things; disagreement of relations; especially, as applied to persons, difference of opinions; variance; opposition; contention; strife; any disagreement which produces passion, contest, disputes, litigation, or war.</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">In music: The combination of two tones that are inharmonious with each other, or inconclusive in combined effect; a dissonance.</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">The interval between two such tones; any interval not a unison, octave, perfect fifth, perfect fourth, major or minor third, or major or minor sixth. In medieval music all but the first three of the above intervals were at first regarded as discords.</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">Either of the two tones forming such an interval.</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">A chord containing such intervals.See dissonance.</span> </li><li><span class="tSpeech">n</span> <span class="term">discord</span> <span class="exp">Hence—3. Any confused noise; a mingling or clashing of sounds; a harsh clang or uproar.</span> </li><li><span class="term">discord</span> <span class="exp">To disagree; jar; clash.</span> </li><li><span class="term">discord</span> <span class="exp">To be discordant or dissonant.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Discord</span> <span class="exp"><span class="itl">dis′kord</span> opposite of <span class="itl">concord</span>: disagreement, strife: difference or contrariety of qualities: a combination of inharmonious sounds: uproarious noise</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Discord</span> <span class="exp">to disagree</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Plutarch</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Plutarch.jpg" alt="Plutarch">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Medicine to produce health must examine disease; and music, to create harmony must investigate discord.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Burney</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles Burney">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Discord occasions a momentary distress to the ear, which remains unsatisfied, and even uneasy, until it hears something better.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sallust</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Sallust">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“By union the smallest states thrive. By discord the greatest are destroyed.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">discord</span>, <span class="wUets">descord</span>, OF. <span class="wUets">discorde</span>, <span class="wUets">descorde</span>, F. <span class="wUets">discorde</span>, from L. <span class="wUets">discordia</span>, fr. <span class="wUets">discors</span>, <span class="wUets">-cordis</span>, discordant, disagreeable; <span class="wUets">dis-</span>, + <span class="wUets">cor</span>, <span class="wUets">cordis</span>, heart; cf. F. <span class="wUets">discord</span>, <span class="wUets">n.</span>, and OF. <span class="wUets">descorder</span>, <span class="wUets">discorder</span>, F. <span class="wUets">discorder</span>, to discord, L. <span class="wUets">discordare</span>, from <span class="wUets">discors</span>,. See <span class="wUer">Heart</span>, and cf. <span class="wUer">Discord</span> (v. i.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>descord</i>—L. <i>discordia</i>—<i>dis</i>, neg., and <i>cor</i>, <i>cordis</i>, the heart.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						This action is to bring harmony into the discordant land.
+					</div>
+					<div class="uAuthor">
+						"Homer's Odyssey" by <span>Denton J. Snider</span>					</div>
+										<div class="usage">
+						Discord is thus ingrained at the foundations and woven into the "subtle body" of the child.
+					</div>
+					<div class="uAuthor">
+						"The New Avatar and The Destiny of the Soul" by <span>Jirah D. Buck</span>					</div>
+										<div class="usage">
+						And in the camp of the Twin Springs, shadows moved sometimes with a silence that was scarce a discord in the wood songs of repose.
+					</div>
+					<div class="uAuthor">
+						"That Girl Montana" by <span>Marah Ellis Ryan</span>					</div>
+										<div class="usage">
+						Ah, how I would love you, care for you, shield your ear from ever being hurt by a discordant word!
+					</div>
+					<div class="uAuthor">
+						"The Sign of the Spider" by <span>Bertram Mitford</span>					</div>
+										<div class="usage">
+						There was in his soul a disappointed love, an implacable hate, and a medley of other discords.
+					</div>
+					<div class="uAuthor">
+						"A Handful of Stars" by <span>Frank W. Boreham</span>					</div>
+										<div class="usage">
+						From above came discordant rumblings and eloquent, but smothered remarks on the general subject of trunks.
+					</div>
+					<div class="uAuthor">
+						"Master of the Vineyard" by <span>Myrtle Reed</span>					</div>
+										<div class="usage">
+						With a jarring discord ends the history of the Jews in Spain.
+					</div>
+					<div class="uAuthor">
+						"Jewish Literature and Other Essays" by <span>Gustav Karpeles</span>					</div>
+										<div class="usage">
+						It may be a brand of discord in the hands of the abolitionist and the demagogue.
+					</div>
+					<div class="uAuthor">
+						"Cotton is King and The Pro-Slavery Arguments" by <span>Various</span>					</div>
+										<div class="usage">
+						Discord raged within and without the Ministry.
+					</div>
+					<div class="uAuthor">
+						"Memoirs To Illustrate The History Of My Time" by <span>François Pierre Guillaume Guizot</span>					</div>
+										<div class="usage">
+						The half roar, half bark of the herd comes with harsh discordance upon the ear of the listener at the Cliff.
+					</div>
+					<div class="uAuthor">
+						"Due West" by <span>Maturin Murray Ballou</span>					</div>
+										<div class="usage">
+						The authorities feared to cause friction or discord, and they preferred postponement.
+					</div>
+					<div class="uAuthor">
+						"McGill and its Story, 1821-1921" by <span>Cyrus Macmillan</span>					</div>
+										<div class="usage">
+						Of course all this upheaval and bustle did not take place without some slight discord.
+					</div>
+					<div class="uAuthor">
+						"The End of the Rainbow" by <span>Marian Keith</span>					</div>
+										<div class="usage">
+						There was no discordant note anywhere and Christopher was quite alive to its perfections.
+					</div>
+					<div class="uAuthor">
+						"Christopher Hibbault, Roadmaker" by <span>Marguerite Bryant</span>					</div>
+										<div class="usage">
+						I would not cause discord and conflict.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. II" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						It was precisely the Church quarrel that fed the discords which broke out in the King's own house.
+					</div>
+					<div class="uAuthor">
+						"A History of England Principally in the Seventeenth Century, Volume I (of 6)" by <span>Leopold von Ranke</span>					</div>
+										<div class="usage">
+						Though fire with water strives; yet vapour warm, Discordant mixture, gives a birth to all.
+					</div>
+					<div class="uAuthor">
+						"The Metamorphoses of Publius Ovidus Naso in English blank verse Vols. I &amp; II" by <span>Ovid</span>					</div>
+										<div class="usage">
+						Proud Lysias with him, he whose soul is harsh With jarring discord.
+					</div>
+					<div class="uAuthor">
+						"The Prince of Parthia" by <span>Thomas Godfrey</span>					</div>
+										<div class="usage">
+						Instead, therefore, of pouring oil upon this discord, he applies lemon-juice to aggravate the sound!
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine of Popular Literature and Science, Vol. 26, October, 1880" by <span>Various</span>					</div>
+										<div class="usage">
+						In the latter case they offend each other by pity, or by reproach; and the discordancy carries itself to matters of commerce.
+					</div>
+					<div class="uAuthor">
+						"The Writings Of Thomas Paine, Volume III. 1791-1804" by <span>Thomas Paine</span>					</div>
+										<div class="usage">
+						So it will be with your singing, but rest assured that the discord of your voice will only exist in your own fancy.
+					</div>
+					<div class="uAuthor">
+						"Hansford: A Tale of Bacon's Rebellion" by <span>St. George Tucker</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Thy safety where, stray Liberty?<br>
+In lands where discords cease.<br>
+Thy glory where, bright Liberty?<br>
+In universal Peace.
+							<div class="poet">"Liberty" by <span>Ernest Jones</span></div>
+						</div>
+											<div class="poemQuote">
+							To pass the peaceful dwellings by,<br>
+No stranger eye might guess<br>
+Those scenes of joy and agony,<br>
+Of discord and distress.
+							<div class="poet">"A Town" by <span>Jane Taylor</span></div>
+						</div>
+											<div class="poemQuote">
+							All these drink deep of his music,<br>
+Wherever it may fall,<br>
+But the note of a lower mortal<br>
+Would shake discord through all.
+							<div class="poet">"The Lark's Song" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							Her hair retains its raven hue,<br>
+Her sparkling eye its fire;<br>
+But her heart is sad, discordant,<br>
+A strung, but tuneless lyre.
+							<div class="poet">"Ida" by <span>Samuel Alfred Beadle</span></div>
+						</div>
+											<div class="poemQuote">
+							The birds sing on, the roses blow,<br>
+But like a discord heard but now,<br>
+A stain upon the petal's snow<br>
+Is that one sad, red bough.
+							<div class="poet">"Menace" by <span>Susan Coolidge</span></div>
+						</div>
+											<div class="poemQuote">
+							When elements discordant seek<br>
+To wreck what God in mercy saves,<br>
+The struggle is as vain and weak<br>
+As that of the retiring waves.
+							<div class="poet">"Masonic Hymn." by <span>George Pope Morris</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Today's secessionists are pledged only to discord .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/stories/opinion/editorials/false-allegiance-todays-secessionists-are-pledged-only-to-discord-662325/" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						STMicroelectronics Said to Cool on Splitup Amid Discord .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-11-15/stmicroelectronics-said-to-cool-on-splitup-amid-discord" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						Can we find harmony among discord .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/politics/lessons-from-appomattox-can-we-find-harmony-among-discord-do-we-even-want-to/2012/11/11/927beb5e-2c01-11e2-b631-2aad9d9c73ac_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						 Discord , then common ground.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.jsonline.com/news/opinion/discord-then-common-ground-dg7gu5l-177564751.html" target="_blank" rel="external nofollow">jsonline.com</a>
+					</div>
+										<div class="usage">
+						The Civil Wars shutter tour due to 'internal discord '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/music/posts/la-et-ms-the-civil-wars-shutter-tour-due-to-internal-discord-20121106,0,802008.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Election Day Communion aims to heal partisan discord .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chron.com/life/houston-belief/article/Election-Day-Communion-aims-to-heal-partisan-4001562.php" target="_blank" rel="external nofollow">chron.com</a>
+					</div>
+										<div class="usage">
+						Don't invite conflict and discord into a well-run City Council.
+					</div>
+					<div class="uAuthor">
+						<a href="http://rockfordsquire.com/2012/11/01/dont-invite-conflict-and-discord-into-a-well-run-city-council/" target="_blank" rel="external nofollow">rockfordsquire.com</a>
+					</div>
+										<div class="usage">
+						A quartet in discord .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.jewishjournal.com/arts/article/yaron_zilbermans_new_film_on_a_quartet_in_discord" target="_blank" rel="external nofollow">jewishjournal.com</a>
+					</div>
+										<div class="usage">
+						Naming of Dutch woman to rebel negotiating team stirs discord on eve of Colombia peace talks.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/world/2012/10/16/naming-dutch-woman-to-rebel-negotiating-team-stirs-discord-on-eve-colombia/" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						American Century captures '60s discord .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.telegram.com/article/20121015/NEWS/121019612/1312" target="_blank" rel="external nofollow">telegram.com</a>
+					</div>
+										<div class="usage">
+						 Discord Skewed Benghazi Response.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10000872396390443493304578038491191095384.html?mod=WSJ_article_TelevisionHeadlines" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						S&amp;P 500 extends slump on European crisis discord .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/Stock-Market/2012/09/24/S-P-500-Extends-Slump-on-European-Crisis-Discord.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<div class="usage">
+						Merkel, Hollande Discord Threatens to Delay Debt Crisis Solution.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-09-23/euro-leaders-seek-end-to-stalemate-as-discord-mounts-on-crisis" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						Amid Discord , Romney Seeks to Sharpen Message.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/09/17/us/politics/mitt-romney-seeks-to-turn-campaign-focus-to-his-plans.html?pagewanted=all" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Linguist visiting to discuss painful discord in political discourse.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.somdnews.com/article/20120914/NEWS/709149770/1044/linguist-visiting-to-discuss-painful-discord-in-political-discourse&amp;template=southernMaryland" target="_blank" rel="external nofollow">somdnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						As previously discussed, there have been varied approaches to the investigation into the existence of dark matter in the Galactic disk resulting in discordant conclusions both for and against this claim. 
+					</div>
+					<div class="uAuthor">
+						Dark Matter in the Local Galactic Disk
+					</div>
+										<div class="usage">
+						Various distance estimates have been made for these stars using many techniques, sometimes yielding highly discordant estimates. 
+					</div>
+					<div class="uAuthor">
+						The Solar Neighborhood X: New Nearby Stars in the Southern Sky and Accurate Photometric Distance Estimates for Red Dwarfs
+					</div>
+										<div class="usage">
+						However, there is signiﬁcantly more scatter than for results from the red dwarfs’ photometric relation matrix — three of the 11 white dwarf distance estimates are discordant by more than 20%. 
+					</div>
+					<div class="uAuthor">
+						The Solar Neighborhood X: New Nearby Stars in the Southern Sky and Accurate Photometric Distance Estimates for Red Dwarfs
+					</div>
+										<div class="usage">
+						Also, no particular component of the two abundance analyses could be identiﬁed as the most likely source of the discordance, although internal errors may yet be the underlying cause. 
+					</div>
+					<div class="uAuthor">
+						Carbon Abundances of Three Carbon-Enhanced Metal-Poor Stars from High-Resolution Gemini-S/bHROS Spectra of the 8727A [C I] Line
+					</div>
+										<div class="usage">
+						The original deﬁnition of quantum discord of bipartite states was deﬁned under pro jective measurements. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						In this letter we generalize it in two ways: one is we deﬁne the quantum discord as the minimal loss of conditional entropy under all one-side general measurements; the other is similar with the original case but we perform the pro jective measurements on an extended inﬁnite dimensional Hilbert space. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						We prove some inequalities about different quantum discords, and also derive an equality which relates one of these quantum discords and entanglement of formation (EOF). 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						Finally, a deﬁnition of the quantum discord under two-side measurements is given. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						However, entanglement is not the only type of correlation useful for quantum technology. A different notion of measure, quantum discord, has also been proposed to characterize quantum correlation based on quantum measurements [3, 4]. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						Quantum discord captures the nonlocal correlation more general than entanglement, it can exist in some states even if entanglement does vanish. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						Recently, quantum discord has received much more attention. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						Its evaluation involves optimization procedure, and analytical expressions are known only in a few cases [8, 9]. A witness of quantum discord for 2 × n states was found , while we have known that almost all quantum states have nonvanishing quantum discord . 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						Also, the characteristics of quantum discord in some physical models and in information processing have been studied [16–18]. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						The original deﬁnition of quantum discord was deﬁned under pro jective measurements, in this letter, we give some generalizations of it. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<div class="usage">
+						This is meaningful not only in mathematics but also in physics since through the generalizations we will get a more fundamental understanding about quantum discord. 
+					</div>
+					<div class="uAuthor">
+						Generalizations of Quantum Discord
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="strife resulting from a lack of agreement"><a href="discordance.html">discordance</a>, </div><div class="synGroup" title="disagreement among those expected to cooperate"><a href="dissension.html">dissension</a>, </div><div class="synGroup" title="lack of agreement or harmony"><a href="strife.html">strife</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="agree.html">agree</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="be.html">be</a>, <a href="disagreement.html">disagreement</a>, <a href="disorder.html">disorder</a>, <a href="dissonance.html">dissonance</a>, <a href="strife.html">strife</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="confrontation.html">confrontation</a>, <a href="division.html">division</a>, <a href="variance.html">variance</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="discordant.html">discordant</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="ajar.html">ajar</a>, <a href="anticipation.html">anticipation</a>, <a href="apple%20of%20discord.html">apple of discord</a>, <a href="between.html">between</a>, <a href="broil.html">broil</a>, <a href="cacophony.html">cacophony</a>, <a href="concord.html">concord</a>, <a href="concordance.html">concordance</a>, <a href="conflict.html">conflict</a>, <a href="conflicting.html">conflicting</a>, <a href="confrontation.html">confrontation</a>, <a href="disagree.html">disagree</a>, <a href="discordance.html">discordance</a>, <a href="Discordful.html">Discordful</a>, <a href="Discordous.html">Discordous</a>, <a href="disharmony.html">disharmony</a>, <a href="dislike.html">dislike</a>, <a href="dissension.html">dissension</a>, <a href="Dissensious.html">Dissensious</a>, <a href="dissentious.html">dissentious</a>, <a href="dissonance.html">dissonance</a>, <a href="Dissonancy.html">Dissonancy</a>, <a href="division.html">division</a>, <a href="divisive.html">divisive</a>, <a href="dudgeon.html">dudgeon</a>, <a href="dust.html">dust</a>, <a href="easily.html">easily</a>, <a href="embroil.html">embroil</a>, <a href="enkindle.html">enkindle</a>, <a href="enmity.html">enmity</a>, <a href="Eris.html">Eris</a>, <a href="Extinguishment.html">Extinguishment</a>, <a href="faction.html">faction</a>, <a href="foment.html">foment</a>, <a href="fomentation.html">fomentation</a>, <a href="inharmoniousness.html">inharmoniousness</a>, <a href="Inharmony.html">Inharmony</a>, <a href="instigation.html">instigation</a>, <a href="jangle.html">jangle</a>, <a href="jar.html">jar</a>, <a href="jarring.html">jarring</a>, <a href="Loki.html">Loki</a>, <a href="mediate.html">mediate</a>, <a href="mutiny.html">mutiny</a>, <a href="peacefulness.html">peacefulness</a>, <a href="perceive.html">perceive</a>, <a href="percussion.html">percussion</a>, <a href="preparation.html">preparation</a>, <a href="prepare.html">prepare</a>, <a href="promotion.html">promotion</a>, <a href="Ravelment.html">Ravelment</a>, <a href="resolution.html">resolution</a>, <a href="resolve.html">resolve</a>, <a href="retardation.html">retardation</a>, <a href="reunion.html">reunion</a>, <a href="seed.html">seed</a>, <a href="sow.html">sow</a>, <a href="split.html">split</a>, <a href="strife.html">strife</a>, <a href="suspend.html">suspend</a>, <a href="suspension.html">suspension</a>, <a href="Undiscording.html">Undiscording</a>, <a href="variance.html">variance</a>, <a href="variation.html">variation</a>, <a href="Wolf.html">Wolf</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					siscord, eiscord, fiscord, ciscord, xiscord, siscord, duscord, djscord, dkscord, doscord, diacord, diwcord, didcord, dixcord, dizcord, diacord, disxord, disdord, disford, disvord, discird, disckrd, disclrd, discprd, discoed, discodd, discofd, discotd, discors, discore, discorf, discorc, discorx, discors
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

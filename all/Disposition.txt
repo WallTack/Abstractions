@@ -1,0 +1,542 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>disposition</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">the act or means of getting rid of something</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">your usual mood</span> <span class="quot">"he has a happy disposition"</span></li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">a natural or acquired habit or characteristic tendency in a person or thing</span> <span class="quot">"a swelling with a disposition to rupture"</span></li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">an attitude of mind especially one that favors one alternative over others</span> <span class="quot">"he had an inclination to give up too easily","a tendency to be too strict"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Disposition</span> <span class="exp">Conscious inclination; propension or propensity.</span> <span class="wuQuot">"How stands your disposition to be married?"</span></li><li><span class="term">Disposition</span> <span class="exp">Mood; humor.</span> <span class="wuQuot">"As I perchance hereafter shall think meet<br>
+To put an antic disposition on."</span><span class="wuQuot">"In merry pin ."</span></li><li><span class="term">Disposition</span> <span class="exp">Natural or prevailing spirit, or temperament of mind, especially as shown in intercourse with one's fellow-men; temper of mind.</span> <span class="wuQuot">"A man of turbulent disposition ."</span><span class="wuQuot">"He is of a very melancholy disposition ."</span><span class="wuQuot">"His disposition led him to do things agreeable to his quality and condition wherein God had placed him."</span></li><li><span class="term">Disposition</span> <span class="exp">Tendency to any action or state resulting from natural constitution; nature; quality; as, a <span class="wUex">disposition</span> in plants to grow in a direction upward; a <span class="wUex">disposition</span> in bodies to putrefaction.
+         </span> </li><li><span class="term">Disposition</span> <span class="exp">The act of disposing, arranging, ordering, regulating, or transferring; application; disposal; as, the <span class="wUex">disposition</span> of a man's property by will.</span> <span class="wuQuot">"Who have received the law by the disposition of angels."</span><span class="wuQuot">"The disposition of the work, to put all things in a beautiful order and harmony, that the whole may be of a piece."</span></li><li><span class="term">Disposition</span> <span class="exp">The state or the manner of being disposed or arranged; distribution; arrangement; order; as, the <span class="wUex">disposition</span> of the trees in an orchard; the <span class="wUex">disposition</span> of the several parts of an edifice.
+         </span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">A setting in order; a disposing, placing, or arranging; arrangement of parts; distribution: as, the disposition of the infantry and cavalry of an army; the disposition of the trees in an orchard; the disposition of the several parts of an edifice, or of figures in painting; the disposition of tones in a chord, or of parts in a score.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Disposal; plan or arrangement for the disposal, distribution, or alienation of something; definite settlement with regard to some matter; ultimate destination: as, he has made a good disposition of his property; what disposition do you intend to make of this picture?</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">In architecture, the arrangement of the whole design by means of ichnography (plan), orthography (section and elevation), and scenography (perspective view). It differs from distribution, which signifies the particular arrangement of the internal parts of a building.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Guidance; control; order; command; decree: as, the dispositions of the statute.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Aptitude; inclination; tendency; readiness to take on any character or habit: said of things animate or inanimate, but especially of an emotional tendency or mood.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Natural tendency or constitution of the mind; intellectual and moral bent; innate temper: as, an amiable or an irritable disposition.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">In Scots law, a unilateral deed of alienation, by which a right to property, especially heritable property, is conveyed.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Health; bodily well-being.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Maintenance; allowance.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Synonyms and</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Adjustment, regulation, bestowment, classification, grouping, ordering.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Inclination, Tendency, etc. See bent.</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">Specifically, in organ-building: the plan or specification in accordance with which the whole instrument is built</span> </li><li><span class="tSpeech">n</span> <span class="term">disposition</span> <span class="exp">the arrangement of the visible parts of the instrument, as of the display-pipes, the case, the desk or console, the stops, etc.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Disposition</span> <span class="exp"><span class="itl">dis-po-zish′un</span> arrangement: plan for disposing one's property, &amp;c.: natural tendency: temper: :</span> </li><li><span class="tSpeech">n</span> <span class="term">Disposition</span> <span class="exp"><span class="itl">dis-po-zish′un</span> (<span class="itl">N.T.</span>) ministration</span> </li><li><span class="tSpeech">n</span> <span class="term">Disposition</span> <span class="exp"><span class="itl">dis-po-zish′un</span> (<span class="itl">Scots law</span>) a giving over to another = conveyance or assignment in Eng. phraseology—often 'disposition and settlement,' a deed for the disposal of a man's property at his death</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Plato</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Plato.jpg" alt="Plato">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He who is of a calm and happy nature will hardly feel the pressure of age, but to him who is of an opposite disposition youth and age are equally a burden.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ovid</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ovid.jpg" alt="Ovid">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When disposition wins us, the features please.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Joyce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20Joyce.jpg" alt="James%20Joyce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Art is the human disposition of sensible or intelligible matter for an esthetic end.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">J. E. Dinger</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="J. E. Dinger">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is not the position, but the disposition.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Cesare Pavese</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Cesare%20Pavese.jpg" alt="Cesare%20Pavese">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Will power is only the tensile strength of one's own disposition. One cannot increase it by a single ounce.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Barry Duncan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Barry Duncan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men of the noblest dispositions think themselves happiest when others share their happiness with them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">disposition</span>, <span class="wUets">dispositio</span>, fr. <span class="wUets">disponere</span>, to dispose; <span class="wUets">dis-</span>, + <span class="wUets">ponere</span>, to place. See <span class="wUer">Position</span>, and cf. <span class="wUer">Dispone</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L., from <i>dis</i>, apart, <i>ponĕre</i>, to place.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						They differed greatly in their dispositions.
+					</div>
+					<div class="uAuthor">
+						"Usury" by <span>Calvin Elliott</span>					</div>
+										<div class="usage">
+						With a decided propensity for fun and mischief, there was also in his disposition as evident a proclivity to seriousness and earnestness.
+					</div>
+					<div class="uAuthor">
+						"Hubert's Wife" by <span>Minnie Mary Lee</span>					</div>
+										<div class="usage">
+						It will be noticed that in this disposition no provision was made for holding the fourth or Jamaica Pass far over to the left.
+					</div>
+					<div class="uAuthor">
+						"The Campaign of 1776 around New York and Brooklyn" by <span>Henry P. Johnston</span>					</div>
+										<div class="usage">
+						Bad heart, bad disposition.
+					</div>
+					<div class="uAuthor">
+						"The Comedies of Terence" by <span>Publius Terentius Afer, (AKA) Terence</span>					</div>
+										<div class="usage">
+						The Disposition of the Lamb.
+					</div>
+					<div class="uAuthor">
+						"The Calvary Road" by <span>Roy Hession</span>					</div>
+										<div class="usage">
+						Her disposition was so extraordinary, having never surmounted it in her youth, that she could hardly live with anybody.
+					</div>
+					<div class="uAuthor">
+						"The Autobiography of Madame Guyon" by <span>Jeanne Marie Bouvier de La Motte Guyon</span>					</div>
+										<div class="usage">
+						Hence this prayer not only teaches us how to pray, but serves as the norm of all our dispositions of mind.
+					</div>
+					<div class="uAuthor">
+						"On Prayer and The Contemplative Life" by <span>St. Thomas Aquinas</span>					</div>
+										<div class="usage">
+						Mr Nicol was much respected for his sound discernment in matters of business, as well as for his benevolent disposition.
+					</div>
+					<div class="uAuthor">
+						"The Modern Scottish Minstrel, Volumes I-VI." by <span>Various</span>					</div>
+										<div class="usage">
+						King and other estimable gentlemen had evidenced a disposition to join them.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						But it's no particular compliment to a white man's disposition to be able to qualify as an Indian, as I look at it.
+					</div>
+					<div class="uAuthor">
+						"Joan of Arc of the North Woods" by <span>Holman Day</span>					</div>
+										<div class="usage">
+						If the disposition exists for everything, no one particular thing can be explained by the existence of that disposition.
+					</div>
+					<div class="uAuthor">
+						"Psychotherapy" by <span>Hugo Münsterberg</span>					</div>
+										<div class="usage">
+						Young Joe's face was drawn by the strain, and his hand and tongue showed a disposition to tremble.
+					</div>
+					<div class="uAuthor">
+						"The Huntress" by <span>Hulbert Footner</span>					</div>
+										<div class="usage">
+						Are not these dispositions of the mind fertile in artifices, stratagems, inventions of all kinds?
+					</div>
+					<div class="uAuthor">
+						"Essay on the Creative Imagination" by <span>Th. Ribot</span>					</div>
+										<div class="usage">
+						A gentleman who had a dog of a most endearing disposition, was obliged to go a journey periodically once a-month.
+					</div>
+					<div class="uAuthor">
+						"Anecdotes of Dogs" by <span>Edward Jesse</span>					</div>
+										<div class="usage">
+						Phyllis' irrepressibly cheerful disposition gave a little jump toward the light.
+					</div>
+					<div class="uAuthor">
+						"The Rose Garden Husband" by <span>Margaret Widdemer</span>					</div>
+										<div class="usage">
+						The size, disposition and shape of these is by no means an unimportant matter.
+					</div>
+					<div class="uAuthor">
+						"The Repairing &amp; Restoration of Violins" by <span>Horace Petherick</span>					</div>
+										<div class="usage">
+						In speech, blunt, plain, and humorous; but in disposition, kind, sincere, and generous.
+					</div>
+					<div class="uAuthor">
+						"Wilson's Tales of the Borders and of Scotland Volume 17" by <span>Alexander Leighton</span>					</div>
+										<div class="usage">
+						It will be observed that this was almost exactly the disposition of the room in M'Naughten's story.
+					</div>
+					<div class="uAuthor">
+						"The Works of Robert Louis Stevenson - Swanston Edition" by <span>Robert Louis Stevenson</span>					</div>
+										<div class="usage">
+						There was a private in our shed called Clausel, a man of a very ugly disposition.
+					</div>
+					<div class="uAuthor">
+						"The Works of Robert Louis Stevenson - Swanston Edition Vol. 20 (of 25)" by <span>Robert Louis Stevenson</span>					</div>
+										<div class="usage">
+						Never press a matter where there is a disposition to be reserved upon the subject.
+					</div>
+					<div class="uAuthor">
+						"Talkers" by <span>John Bate</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Health is the first good lent to men;<br>
+A gentle disposition then:<br>
+Next, to be rich by no by-ways;<br>
+Lastly, with friends t' enjoy our days.
+							<div class="poet">"Four Things Make Us Happy Here" by <span>Robert Herrick</span></div>
+						</div>
+											<div class="poemQuote">
+							An shoo wor as nice a young lass as yo'll see<br>
+In a day's march, aw'll wager mi hat;<br>
+But yo know unless fowk's dispositions agree,<br>
+Tho' they're bonny,--noa matter for that.
+							<div class="poet">"What It Comes To" by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							My own disposition to this one inclines,<br>
+But dreadful dyspepsia destroys all the pleasure<br>
+Of dinner, except it's well tinctured with wines<br>
+Which plan I adopt as a health-giving measure.
+							<div class="poet">"Nothing To Eat" by <span>Horatio Alger Jr</span></div>
+						</div>
+											<div class="poemQuote">
+							But who's this that we see, with that mild pensive air,<br>
+And a look so expressively kind?<br>
+It is Ann, gentle Ann, before whom we pass by,<br>
+We will add--'t would be useless in any to try<br>
+Disposition more lovely to find.
+							<div class="poet">"My S.S. Class" by <span>Mary Ann H T Bigelow</span></div>
+						</div>
+											<div class="poemQuote">
+							Whilst perusing exchanges their dispositions I've traced,<br>
+I've paid some attention to their mode of embrace;<br>
+None to me opes his bosom, in language unplanned,<br>
+Like the "Globe," with his good honest shake of the hand.
+							<div class="poet">"The Colored Press" by <span>Robert C O Benjamin</span></div>
+						</div>
+											<div class="poemQuote">
+							To God, and Christ and holy angels stand,<br>
+Dispos'd to ev'ry Church, in ev'ry land,<br>
+The growth of good still helping to compleat,<br>
+Whatever tares be sown among the wheat;<br>
+Who would not wish to have, and to excite,<br>
+A disposition so divinely right?
+							<div class="poet">"On Church Communion - Part IV." by <span>John Byrom</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Disputed issues concerning whether a bar patron was served alcohol while visibly intoxicated should have precluded summary disposition for the bar in this dramshop case.
+					</div>
+					<div class="uAuthor">
+						<a href="http://milawyersweekly.com/news/2011/03/31/negligence-dramshop-act-visible-intoxication/" target="_blank" rel="external nofollow">milawyersweekly.com</a>
+					</div>
+										<div class="usage">
+						The use and disposition of any pre- embryos that are frozen for future use should be consistent with the Council's opinion on frozen pre- embryos (Opinion 2.141, "Frozen Pre- embryos ").
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ama-assn.org/ama/pub/physician-resources/medical-ethics/code-medical-ethics/opinion2145.page?" target="_blank" rel="external nofollow">ama-assn.org</a>
+					</div>
+										<div class="usage">
+						The Indiana Court of Appeals disagrees with the state Department of Child Services that fact-finding and dispositional hearings in a child in need of services case are interchangeable.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theindianalawyer.com/court-chins-factfinding-hearing-required-by-due-process/PARAMS/article/27246" target="_blank" rel="external nofollow">theindianalawyer.com</a>
+					</div>
+										<div class="usage">
+						Having or showing a disposition to avoid exertion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wobmam.com/word-of-the-day-indolent/" target="_blank" rel="external nofollow">wobmam.com</a>
+					</div>
+										<div class="usage">
+						Tonight my teammate—drawn at random—is Don, a white-haired old-timer with a sunny disposition helped by a decent Pabst buzz.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wweek.com/portland/article-18844-headout_the_right_shuff.html" target="_blank" rel="external nofollow">wweek.com</a>
+					</div>
+										<div class="usage">
+						According to Davis, llamas have a gentle disposition, are typically healthy and relatively easy to care for.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gazettenet.com/news/townbytown/goshen/2100132-95/davis-llama-goshen-llamas" target="_blank" rel="external nofollow">gazettenet.com</a>
+					</div>
+										<div class="usage">
+						It is age or disposition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://thevillager.com/villager_56/confessionsofahordaholic.html" target="_blank" rel="external nofollow">thevillager.com</a>
+					</div>
+										<div class="usage">
+						A manager or co-worker whose sunny disposition can cloud an otherwise delightfully pessimistic day.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.idahostatesman.com/2012/11/14/2345282/nothing-worse-than-an-overdose.html" target="_blank" rel="external nofollow">idahostatesman.com</a>
+					</div>
+										<div class="usage">
+						In August Wilson's remarkable 1990 play, The Piano Lesson (Signature Theatre), a brother and sister battle over the disposition of an inherited piano.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/2012-11-21/theater/the-piano-lesson-the-haunting-of-pittsburgh/" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						In the meantime, President Obama has restored foreign policy realism to the White House, giving a liberal gloss to what had traditionally been a conservative disposition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnr.com/article/politics/82677/egypt-and-the-liberal-realists" target="_blank" rel="external nofollow">tnr.com</a>
+					</div>
+										<div class="usage">
+						"The practice of scattering cremated remains on the sea, from the air, or on the ground, or keeping cremated remains in the home of a relative or friend of the deceased are not the reverent disposition that the Church requires.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.osv.com/tabid/7621/itemid/9943/Reverence-for-remains.aspx" target="_blank" rel="external nofollow">osv.com</a>
+					</div>
+										<div class="usage">
+						The Obama administration has been developing blueprints for a "disposition matrix," a database that officials describe as a next-generation capture/kill list.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/world/national-security/the-process-behind-targeted-killing/2012/10/23/4420644c-1d26-11e2-ba31-3083ca97c314_graphic.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Its frowny face and Dutch nickname of mopshond, meaning "to grumble," belie the Pug 's playful, loving disposition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dogchannel.com/pug-dogs-breed-profiles.aspx" target="_blank" rel="external nofollow">dogchannel.com</a>
+					</div>
+										<div class="usage">
+						His mother was a woman of singularly sweet and gentle disposition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marinelink.com/history/george-stout-shimer" target="_blank" rel="external nofollow">marinelink.com</a>
+					</div>
+										<div class="usage">
+						They have such a great disposition and are up for anything.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ktvb.com/first-person/99432884.html" target="_blank" rel="external nofollow">ktvb.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We will use upper braces to show the decomposition of w into f -blocks (that is, to show the disposition of the words X , Y and Z in w). 
+					</div>
+					<div class="uAuthor">
+						There are no iterated morphisms that define the Arshon sequence and the $\sigma$-sequence
+					</div>
+										<div class="usage">
+						We discuss in Section 3 (in view of the theorem and of previous results from [Ko1]) the mutual disposition of adjacent strata. 
+					</div>
+					<div class="uAuthor">
+						On a stratification defined by real roots of polynomials
+					</div>
+										<div class="usage">
+						For any value of σ and for any i ﬁxed the curves Ui,j have the same mutual disposition. 
+					</div>
+					<div class="uAuthor">
+						On a stratification defined by real roots of polynomials
+					</div>
+										<div class="usage">
+						We have parameter x in our disposition to ﬁnd the most precise estimate. 
+					</div>
+					<div class="uAuthor">
+						Limit Theorem for Sums of Random Products
+					</div>
+										<div class="usage">
+						For this reason our approach is more general and applicable for any disposition of the source of light and observer with respect to the source of gravitational radiation. 
+					</div>
+					<div class="uAuthor">
+						General Relativistic Theory of Light Propagation in the Field of Radiative Gravitational Multipoles
+					</div>
+										<div class="usage">
+						Below are cited the 3-dimensional radiation patterns and the equivalent patterns at the three main planes of the modified improved dispositions. 
+					</div>
+					<div class="uAuthor">
+						"D-Dimond1", Prototype Antenna RGA-05
+					</div>
+										<div class="usage">
+						Summing all the above, some useful conclusions are deduced regarding the operation of D-Dimond1’s improved dispositions in comparison with the initial one at a frequency range from 200 to 2850 [ΜΗz]. 
+					</div>
+					<div class="uAuthor">
+						"D-Dimond1", Prototype Antenna RGA-05
+					</div>
+										<div class="usage">
+						For a design requiring a maximum SWR equals to 3 the connection of the improved antenna system with a 50 [Ω] transmission line continues to offer narrower bandwidth than the original disposition, that is 90 compared to 110 [MHz]. 
+					</div>
+					<div class="uAuthor">
+						"D-Dimond1", Prototype Antenna RGA-05
+					</div>
+										<div class="usage">
+						In the forms given before (the ones with all the tensorial indices, or the one with all Lorentzian indices) these tensors would have not transformed in this way; somehow, we can say that it is due to this very disposition of indices that we can have both a tensorial and a Lorentz covariant form for Riemann tensor. 
+					</div>
+					<div class="uAuthor">
+						Higher-Order Theories of Gravitation
+					</div>
+										<div class="usage">
+						For low focal lengths (&lt;∼ 10 m), the best crystal tile disposition is an Archimedes’ spiral,13 that provides a smooth behavior of the lens effective area Aef f with energy. 
+					</div>
+					<div class="uAuthor">
+						Focusing of gamma-rays with Laue lenses: first results
+					</div>
+										<div class="usage">
+						Also it follows by running a multi-scale analysis as in Kirsch having the Wegner estimate from Theorem 2.9 at ones disposition. 
+					</div>
+					<div class="uAuthor">
+						Localization for random operators with non-monotone potentials with exponentially decaying correlations
+					</div>
+										<div class="usage">
+						Geometry is a science on disposition and shape of geometrical ob jects in the space or in the event space (space-time). 
+					</div>
+					<div class="uAuthor">
+						Monistic conception of geometry
+					</div>
+										<div class="usage">
+						The shape and mutual dispositions of all geometrical ob jects are given completely, if the distance ρ (P1 , P2) , ∀P1 , P2 ∈ Ω is given. 
+					</div>
+					<div class="uAuthor">
+						Monistic conception of geometry
+					</div>
+										<div class="usage">
+						The generalized geometry is a science on shape and disposition of geometrical ob jects. 
+					</div>
+					<div class="uAuthor">
+						Monistic conception of geometry
+					</div>
+										<div class="usage">
+						Such opinion is based on results of the contemporary geometry, where any geometry is considered as a logical construction (but not as a science on the dispositions of geometrical objects). 
+					</div>
+					<div class="uAuthor">
+						Monistic conception of geometry
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="your usual mood"><a href="temperament.html">temperament</a>, </div><div class="synGroup" title="an attitude of mind especially one that favors one alternative over others"><a href="tendency.html">tendency</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="act.html">act</a>, <a href="attitude.html">attitude</a>, <a href="deed.html">deed</a>, <a href="human%20action.html">human action</a>, <a href="human%20activity.html">human activity</a>, <a href="mental%20attitude.html">mental attitude</a>, <a href="nature.html">nature</a>, <a href="property.html">property</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="call.html">call</a>, <a href="abandonment.html">abandonment</a>, <a href="agreeability.html">agreeability</a>, <a href="agreeableness.html">agreeableness</a>, <a href="aloneness.html">aloneness</a>, <a href="animalism.html">animalism</a>, <a href="appointment.html">appointment</a>, <a href="aptness.html">aptness</a>, <a href="bent.html">bent</a>, <a href="blood.html">blood</a>, <a href="bloodiness.html">bloodiness</a>, <a href="bloodthirstiness.html">bloodthirstiness</a>, <a href="calm.html">calm</a>, <a href="calmness.html">calmness</a>, <a href="comb-out.html">comb-out</a>, <a href="composure.html">composure</a>, <a href="denominationalism.html">denominationalism</a>, <a href="devices.html">devices</a>, <a href="direction.html">direction</a>, <a href="disagreeableness.html">disagreeableness</a>, <a href="disapproval.html">disapproval</a>, <a href="discomposure.html">discomposure</a>, <a href="disfavor.html">disfavor</a>, <a href="disfavour.html">disfavour</a>, <a href="dislike.html">dislike</a>, <a href="drift.html">drift</a>, <a href="epicurism.html">epicurism</a>, <a href="equanimity.html">equanimity</a>, <a href="esprit%20de%20corps.html">esprit de corps</a>, <a href="favor.html">favor</a>, <a href="favoritism.html">favoritism</a>, <a href="favour.html">favour</a>, <a href="favouritism.html">favouritism</a>, <a href="friendliness.html">friendliness</a>, <a href="giving.html">giving</a>, <a href="good%20nature.html">good nature</a>, <a href="gourmandism.html">gourmandism</a>, <a href="heart.html">heart</a>, <a href="ill%20nature.html">ill nature</a>, <a href="impartiality.html">impartiality</a>, <a href="inclination.html">inclination</a>, <a href="involuntariness.html">involuntariness</a>, <a href="leaning.html">leaning</a>, <a href="lending.html">lending</a>, <a href="literalism.html">literalism</a>, <a href="loaning.html">loaning</a>, <a href="loneliness.html">loneliness</a>, <a href="lonesomeness.html">lonesomeness</a>, <a href="mine%20disposal.html">mine disposal</a>, <a href="moodiness.html">moodiness</a>, <a href="morale.html">morale</a>, <a href="mordacity.html">mordacity</a>, <a href="movement.html">movement</a>, <a href="nervousness.html">nervousness</a>, <a href="nonpartisanship.html">nonpartisanship</a>, <a href="optimism.html">optimism</a>, <a href="partiality.html">partiality</a>, <a href="partisanship.html">partisanship</a>, <a href="perfectionism.html">perfectionism</a>, <a href="permissiveness.html">permissiveness</a>, <a href="perseveration.html">perseveration</a>, <a href="pessimism.html">pessimism</a>, <a href="physicality.html">physicality</a>, <a href="predisposition.html">predisposition</a>, <a href="proclivity.html">proclivity</a>, <a href="proneness.html">proneness</a>, <a href="propensity.html">propensity</a>, <a href="restrictiveness.html">restrictiveness</a>, <a href="separatism.html">separatism</a>, <a href="set.html">set</a>, <a href="sewage%20disposal.html">sewage disposal</a>, <a href="solitariness.html">solitariness</a>, <a href="spirit.html">spirit</a>, <a href="sympathy.html">sympathy</a>, <a href="team%20spirit.html">team spirit</a>, <a href="tendency.html">tendency</a>, <a href="tolerance.html">tolerance</a>, <a href="trend.html">trend</a>, <a href="understanding.html">understanding</a>, <a href="unfriendliness.html">unfriendliness</a>, <a href="unpermissiveness.html">unpermissiveness</a>, <a href="unsociability.html">unsociability</a>, <a href="unsociableness.html">unsociableness</a>, <a href="unwillingness.html">unwillingness</a>, <a href="willingness.html">willingness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="dispose.html">dispose</a>, <a href="incline.html">incline</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Abacus%20harmonicus.html">Abacus harmonicus</a>, <a href="abject.html">abject</a>, <a href="acceptance.html">acceptance</a>, <a href="accommodating.html">accommodating</a>, <a href="accord.html">accord</a>, <a href="acquisitive.html">acquisitive</a>, <a href="acrimony.html">acrimony</a>, <a href="active.html">active</a>, <a href="Adeem.html">Adeem</a>, <a href="affability.html">affability</a>, <a href="affableness.html">affableness</a>, <a href="affect.html">affect</a>, <a href="affected.html">affected</a>, <a href="affection.html">affection</a>, <a href="Affectioned.html">Affectioned</a>, <a href="aggression.html">aggression</a>, <a href="aggressiveness.html">aggressiveness</a>, <a href="agreeability.html">agreeability</a>, <a href="agreeableness.html">agreeableness</a>, <a href="Agriculture.html">Agriculture</a>, <a href="alarm.html">alarm</a>, <a href="Alation.html">Alation</a>, <a href="allocation.html">allocation</a>, <a href="allow.html">allow</a>, <a href="aloneness.html">aloneness</a>, <a href="aloofness.html">aloofness</a>, <a href="ambiversion.html">ambiversion</a>, <a href="ambush.html">ambush</a>, <a href="amenableness.html">amenableness</a>, <a href="amenity.html">amenity</a>, <a href="amiability.html">amiability</a>, <a href="amiable.html">amiable</a>, <a href="amiableness.html">amiableness</a>, <a href="amicability.html">amicability</a>, <a href="amicable.html">amicable</a>, <a href="amicableness.html">amicableness</a>, <a href="amity.html">amity</a>, <a href="amorous.html">amorous</a>, <a href="anatomy.html">anatomy</a>, <a href="animosity.html">animosity</a>, <a href="Antimere.html">Antimere</a>, <a href="antipathetical.html">antipathetical</a>, <a href="Antipathize.html">Antipathize</a>, <a href="antipathy.html">antipathy</a>, <a href="Apothesis.html">Apothesis</a>, <a href="appoint.html">appoint</a>, <a href="appreciativeness.html">appreciativeness</a>, <a href="aptitude.html">aptitude</a>, <a href="aptness.html">aptness</a>, <a href="Arbor%20vit%C3%A6.html">Arbor vitæ</a>, <a href="arrange.html">arrange</a>, <a href="arrangement.html">arrangement</a>, <a href="array.html">array</a>, <a href="arrogance.html">arrogance</a>, <a href="arrogant.html">arrogant</a>, <a href="asparagine.html">asparagine</a>, <a href="Assumption.html">Assumption</a>, <a href="Assurgency.html">Assurgency</a>, <a href="astute.html">astute</a>, <a href="at%20heart.html">at heart</a>, <a href="attitude.html">attitude</a>, <a href="Backbond.html">Backbond</a>, <a href="backward.html">backward</a>, <a href="Battalia.html">Battalia</a>, <a href="battleful.html">battleful</a>, <a href="bay.html">bay</a>, <a href="be%20given.html">be given</a>, <a href="bellicose.html">bellicose</a>, <a href="bellicoseness.html">bellicoseness</a>, <a href="bellicosity.html">bellicosity</a>, <a href="belligerence.html">belligerence</a>, <a href="bend.html">bend</a>, <a href="beneficence.html">beneficence</a>, <a href="benevolence.html">benevolence</a>, <a href="benevolent.html">benevolent</a>, <a href="benign.html">benign</a>, <a href="benignity.html">benignity</a>, <a href="bent.html">bent</a>, <a href="biliousness.html">biliousness</a>, <a href="birth.html">birth</a>, <a href="black%20bryony.html">black bryony</a>, <a href="black-hearted.html">black-hearted</a>, <a href="blood.html">blood</a>, <a href="bloodily.html">bloodily</a>, <a href="bloodiness.html">bloodiness</a>, <a href="bloodthirstiness.html">bloodthirstiness</a>, <a href="bloody.html">bloody</a>, <a href="bloody-minded.html">bloody-minded</a>, <a href="bond.html">bond</a>, <a href="bonhomie.html">bonhomie</a>, <a href="bounty.html">bounty</a>, <a href="breast.html">breast</a>, <a href="brooding.html">brooding</a>, <a href="broody.html">broody</a>, <a href="brother.html">brother</a>, <a href="brute.html">brute</a>, <a href="buoyant.html">buoyant</a>, <a href="burgomaster.html">burgomaster</a>, <a href="buxom.html">buxom</a>, <a href="cacoethes.html">cacoethes</a>, <a href="calculating.html">calculating</a>, <a href="call.html">call</a>, <a href="calm.html">calm</a>, <a href="candor.html">candor</a>, <a href="canny.html">canny</a>, <a href="cantankerous.html">cantankerous</a>, <a href="capibara.html">capibara</a>, <a href="captious.html">captious</a>, <a href="Captiousness.html">Captiousness</a>, <a href="Carniolan%20bee.html">Carniolan bee</a>, <a href="carotid.html">carotid</a>, <a href="character.html">character</a>, <a href="chariness.html">chariness</a>, <a href="charitableness.html">charitableness</a>, <a href="charity.html">charity</a>, <a href="Chatteration.html">Chatteration</a>, <a href="cheer.html">cheer</a>, <a href="cheeseparing.html">cheeseparing</a>, <a href="chiromancy.html">chiromancy</a>, <a href="churlish.html">churlish</a>, <a href="Ciliata.html">Ciliata</a>, <a href="cleanliness.html">cleanliness</a>, <a href="clemency.html">clemency</a>, <a href="clement.html">clement</a>, <a href="clever.html">clever</a>, <a href="cleverness.html">cleverness</a>, <a href="Clincher-work.html">Clincher-work</a>, <a href="close.html">close</a>, <a href="clubby.html">clubby</a>, <a href="collocation.html">collocation</a>, <a href="combative.html">combative</a>, <a href="combativeness.html">combativeness</a>, <a href="Compartition.html">Compartition</a>, <a href="compassionate.html">compassionate</a>, <a href="competitive.html">competitive</a>, <a href="complacence.html">complacence</a>, <a href="complaisance.html">complaisance</a>, <a href="complexion.html">complexion</a>, <a href="Complexional.html">Complexional</a>, <a href="Complexionally.html">Complexionally</a>, <a href="Complexioned.html">Complexioned</a>, <a href="compliance.html">compliance</a>, <a href="compliancy.html">compliancy</a>, <a href="composition.html">composition</a>, <a href="composure.html">composure</a>, <a href="compulsive.html">compulsive</a>, <a href="concurring%20opinion.html">concurring opinion</a>, <a href="condition.html">condition</a>, <a href="confiding.html">confiding</a>, <a href="configuration.html">configuration</a>, <a href="congenial.html">congenial</a>, <a href="congeniality.html">congeniality</a>, <a href="conservatism.html">conservatism</a>, <a href="constellation.html">constellation</a>, <a href="Constitution.html">Constitution</a>, <a href="constitutionally.html">constitutionally</a>, <a href="contemptuousness.html">contemptuousness</a>, <a href="contented.html">contented</a>, <a href="contentiousness.html">contentiousness</a>, <a href="Contexture.html">Contexture</a>, <a href="contrariness.html">contrariness</a>, <a href="contrary.html">contrary</a>, <a href="contrivance.html">contrivance</a>, <a href="Conversableness.html">Conversableness</a>, <a href="conversion.html">conversion</a>, <a href="conviviality.html">conviviality</a>, <a href="cordiality.html">cordiality</a>, <a href="corona.html">corona</a>, <a href="corrupt.html">corrupt</a>, <a href="cosmography.html">cosmography</a>, <a href="coupled.html">coupled</a>, <a href="courage.html">courage</a>, <a href="crab.html">crab</a>, <a href="crabbed.html">crabbed</a>, <a href="crabbedness.html">crabbedness</a>, <a href="crabbiness.html">crabbiness</a>, <a href="Craniognomy.html">Craniognomy</a>, <a href="crankiness.html">crankiness</a>, <a href="credit.html">credit</a>, <a href="credulity.html">credulity</a>, <a href="crossness.html">crossness</a>, <a href="crotchetiness.html">crotchetiness</a>, <a href="crotchety.html">crotchety</a>, <a href="cruel.html">cruel</a>, <a href="cruelty.html">cruelty</a>, <a href="cunning.html">cunning</a>, <a href="curiosity.html">curiosity</a>, <a href="cussedness.html">cussedness</a>, <a href="cynical.html">cynical</a>, <a href="Cynicalness.html">Cynicalness</a>, <a href="dangerous.html">dangerous</a>, <a href="deceit.html">deceit</a>, <a href="deceitfulness.html">deceitfulness</a>, <a href="deference.html">deference</a>, <a href="defiance.html">defiance</a>, <a href="design.html">design</a>, <a href="designation.html">designation</a>, <a href="despair.html">despair</a>, <a href="despairing.html">despairing</a>, <a href="despond.html">despond</a>, <a href="destructive.html">destructive</a>, <a href="device.html">device</a>, <a href="diction.html">diction</a>, <a href="diffidence.html">diffidence</a>, <a href="Digitation.html">Digitation</a>, <a href="Dipylon.html">Dipylon</a>, <a href="disagreeableness.html">disagreeableness</a>, <a href="disarm.html">disarm</a>, <a href="dishonest.html">dishonest</a>, <a href="dishonesty.html">dishonesty</a>, <a href="disorder.html">disorder</a>, <a href="disorderly.html">disorderly</a>, <a href="Dispone.html">Dispone</a>, <a href="disposable.html">disposable</a>, <a href="disposal.html">disposal</a>, <a href="dispose.html">dispose</a>, <a href="disposed.html">disposed</a>, <a href="Disposedness.html">Disposedness</a>, <a href="Dispositional.html">Dispositional</a>, <a href="Dispositioned.html">Dispositioned</a>, <a href="Dispositive.html">Dispositive</a>, <a href="Dispositively.html">Dispositively</a>, <a href="Disposure.html">Disposure</a>, <a href="dissenting%20opinion.html">dissenting opinion</a>, <a href="distribution.html">distribution</a>, <a href="domicile.html">domicile</a>, <a href="drowsiness.html">drowsiness</a>, <a href="ear.html">ear</a>, <a href="earnest.html">earnest</a>, <a href="easiness.html">easiness</a>, <a href="echelon.html">echelon</a>, <a href="economy.html">economy</a>, <a href="emotionalism.html">emotionalism</a>, <a href="enmity.html">enmity</a>, <a href="enterprise.html">enterprise</a>, <a href="enterprising.html">enterprising</a>, <a href="envious.html">envious</a>, <a href="epicurism.html">epicurism</a>, <a href="equilibrium.html">equilibrium</a>, <a href="estivation.html">estivation</a>, <a href="ethos.html">ethos</a>, <a href="euphoria.html">euphoria</a>, <a href="eventuality.html">eventuality</a>, <a href="evil.html">evil</a>, <a href="evolution.html">evolution</a>, <a href="extemporaneous.html">extemporaneous</a>, <a href="extraversion.html">extraversion</a>, <a href="extremism.html">extremism</a>, <a href="extroversion.html">extroversion</a>, <a href="fatalism.html">fatalism</a>, <a href="favor.html">favor</a>, <a href="favorably.html">favorably</a>, <a href="favoritism.html">favoritism</a>, <a href="feeling.html">feeling</a>, <a href="fellow.html">fellow</a>, <a href="ferocious.html">ferocious</a>, <a href="ferocity.html">ferocity</a>, <a href="feverous.html">feverous</a>, <a href="fierce.html">fierce</a>, <a href="Fifish.html">Fifish</a>, <a href="fight.html">fight</a>, <a href="fighting.html">fighting</a>, <a href="fire-eater.html">fire-eater</a>, <a href="fluster.html">fluster</a>, <a href="foliated.html">foliated</a>, <a href="foliation.html">foliation</a>, <a href="forgiveness.html">forgiveness</a>, <a href="forgivingness.html">forgivingness</a>, <a href="form.html">form</a>, <a href="formation.html">formation</a>, <a href="forward.html">forward</a>, <a href="foxy.html">foxy</a>, <a href="frame.html">frame</a>, <a href="Frank.html">Frank</a>, <a href="fretfulness.html">fretfulness</a>, <a href="Friending.html">Friending</a>, <a href="friendliness.html">friendliness</a>, <a href="friendly.html">friendly</a>, <a href="frivolity.html">frivolity</a>, <a href="front.html">front</a>, <a href="fugacity.html">fugacity</a>, <a href="Fugitiveness.html">Fugitiveness</a>, <a href="fun.html">fun</a>, <a href="funeral.html">funeral</a>, <a href="furtiveness.html">furtiveness</a>, <a href="futility.html">futility</a>, <a href="Gabionage.html">Gabionage</a>, <a href="Ganancial.html">Ganancial</a>, <a href="gaur.html">gaur</a>, <a href="generosity.html">generosity</a>, <a href="genial.html">genial</a>, <a href="geniality.html">geniality</a>, <a href="genie.html">genie</a>, <a href="genius.html">genius</a>, <a href="gentle.html">gentle</a>, <a href="Gentle-hearted.html">Gentle-hearted</a>, <a href="gentleness.html">gentleness</a>, <a href="geomancy.html">geomancy</a>, <a href="geotropism.html">geotropism</a>, <a href="ghastly.html">ghastly</a>, <a href="gill.html">gill</a>, <a href="girlishness.html">girlishness</a>, <a href="gloaming.html">gloaming</a>, <a href="glucoside.html">glucoside</a>, <a href="Good%20fellowship.html">Good fellowship</a>, <a href="good%20nature.html">good nature</a>, <a href="good%20will.html">good will</a>, <a href="good-humored.html">good-humored</a>, <a href="Good-nature.html">Good-nature</a>, <a href="good-natured.html">good-natured</a>, <a href="good-neighborliness.html">good-neighborliness</a>, <a href="good-neighbourliness.html">good-neighbourliness</a>, <a href="Good-will.html">Good-will</a>, <a href="goodness.html">goodness</a>, <a href="goodwill.html">goodwill</a>, <a href="gourmandism.html">gourmandism</a>, <a href="grace.html">grace</a>, <a href="grain.html">grain</a>, <a href="graphology.html">graphology</a>, <a href="grateful.html">grateful</a>, <a href="gregariousness.html">gregariousness</a>, <a href="Grippleness.html">Grippleness</a>, <a href="grouping.html">grouping</a>, <a href="groveler.html">groveler</a>, <a href="grudge.html">grudge</a>, <a href="Grudgingness.html">Grudgingness</a>, <a href="grumble.html">grumble</a>, <a href="grumpiness.html">grumpiness</a>, <a href="guile.html">guile</a>, <a href="habit.html">habit</a>, <a href="hackney.html">hackney</a>, <a href="harmless.html">harmless</a>, <a href="heart.html">heart</a>, <a href="Hearted.html">Hearted</a>, <a href="Heavenize.html">Heavenize</a>, <a href="Hectorism.html">Hectorism</a>, <a href="helpfulness.html">helpfulness</a>, <a href="Heteropelmous.html">Heteropelmous</a>, <a href="Heterotaxis.html">Heterotaxis</a>, <a href="Himself.html">Himself</a>, <a href="honest.html">honest</a>, <a href="honesty.html">honesty</a>, <a href="horoscopy.html">horoscopy</a>, <a href="hospitableness.html">hospitableness</a>, <a href="hostility.html">hostility</a>, <a href="humane.html">humane</a>, <a href="humanism.html">humanism</a>, <a href="humanity.html">humanity</a>, <a href="humbleness.html">humbleness</a>, <a href="humility.html">humility</a>, <a href="humor.html">humor</a>, <a href="Humorism.html">Humorism</a>, <a href="humour.html">humour</a>, <a href="hypocrisy.html">hypocrisy</a>, <a href="ideality.html">ideality</a>, <a href="idiosyncratic.html">idiosyncratic</a>, <a href="Idiosyncratical.html">Idiosyncratical</a>, <a href="ill%20nature.html">ill nature</a>, <a href="ill%20will.html">ill will</a>, <a href="ill-natured.html">ill-natured</a>, <a href="illiberality.html">illiberality</a>, <a href="inactiveness.html">inactiveness</a>, <a href="inactivity.html">inactivity</a>, <a href="Inclinable.html">Inclinable</a>, <a href="inclination.html">inclination</a>, <a href="incline.html">incline</a>, <a href="inclined.html">inclined</a>, <a href="inclining.html">inclining</a>, <a href="Incompliance.html">Incompliance</a>, <a href="incurability.html">incurability</a>, <a href="incurable.html">incurable</a>, <a href="Indoles.html">Indoles</a>, <a href="indulgence.html">indulgence</a>, <a href="inertia.html">inertia</a>, <a href="inflorescence.html">inflorescence</a>, <a href="inhospitableness.html">inhospitableness</a>, <a href="inimical.html">inimical</a>, <a href="inquisitiveness.html">inquisitiveness</a>, <a href="introversion.html">introversion</a>, <a href="irritability.html">irritability</a>, <a href="kidney.html">kidney</a>, <a href="kind.html">kind</a>, <a href="kind-hearted.html">kind-hearted</a>, <a href="kindhearted.html">kindhearted</a>, <a href="kindliness.html">kindliness</a>, <a href="kindly.html">kindly</a>, <a href="kindness.html">kindness</a>, <a href="kittenish.html">kittenish</a>, <a href="Kleeneboc.html">Kleeneboc</a>, <a href="larcenous.html">larcenous</a>, <a href="large-hearted.html">large-hearted</a>, <a href="laudable.html">laudable</a>, <a href="law.html">law</a>, <a href="lay%20figure.html">lay figure</a>, <a href="lean.html">lean</a>, <a href="lenience.html">lenience</a>, <a href="leniency.html">leniency</a>, <a href="lenient.html">lenient</a>, <a href="lenity.html">lenity</a>, <a href="Levelism.html">Levelism</a>, <a href="levity.html">levity</a>, <a href="liberality.html">liberality</a>, <a href="like-minded.html">like-minded</a>, <a href="literalism.html">literalism</a>, <a href="litigiousness.html">litigiousness</a>, <a href="loneliness.html">loneliness</a>, <a href="lonesomeness.html">lonesomeness</a>, <a href="longanimity.html">longanimity</a>, <a href="malevolence.html">malevolence</a>, <a href="malice.html">malice</a>, <a href="malign.html">malign</a>, <a href="malignance.html">malignance</a>, <a href="malignancy.html">malignancy</a>, <a href="malignity.html">malignity</a>, <a href="maori%20hen.html">maori hen</a>, <a href="marking.html">marking</a>, <a href="Masterhood.html">Masterhood</a>, <a href="mean.html">mean</a>, <a href="meanie.html">meanie</a>, <a href="Meany.html">Meany</a>, <a href="meekness.html">meekness</a>, <a href="menial.html">menial</a>, <a href="mercifulness.html">mercifulness</a>, <a href="mercy.html">mercy</a>, <a href="metal.html">metal</a>, <a href="mettle.html">mettle</a>, <a href="mild.html">mild</a>, <a href="militant.html">militant</a>, <a href="Minacity.html">Minacity</a>, <a href="mind.html">mind</a>, <a href="misanthropy.html">misanthropy</a>, <a href="mood.html">mood</a>, <a href="morally.html">morally</a>, <a href="morbid.html">morbid</a>, <a href="mordacity.html">mordacity</a>, <a href="moroseness.html">moroseness</a>, <a href="nasty.html">nasty</a>, <a href="nativism.html">nativism</a>, <a href="natural.html">natural</a>, <a href="nature.html">nature</a>, <a href="Natured.html">Natured</a>, <a href="neighborhood.html">neighborhood</a>, <a href="neighborliness.html">neighborliness</a>, <a href="neighbourliness.html">neighbourliness</a>, <a href="Nervation.html">Nervation</a>, <a href="nix.html">nix</a>, <a href="Nobili%27s%20rings.html">Nobili's rings</a>, <a href="notion.html">notion</a>, <a href="obliging.html">obliging</a>, <a href="obligingness.html">obligingness</a>, <a href="obstinacy.html">obstinacy</a>, <a href="optimism.html">optimism</a>, <a href="Opus%20operantis.html">Opus operantis</a>, <a href="order.html">order</a>, <a href="Order%20of%20battle.html">Order of battle</a>, <a href="ordering.html">ordering</a>, <a href="ordination.html">ordination</a>, <a href="ordnance.html">ordnance</a>, <a href="Ordonnance.html">Ordonnance</a>, <a href="ornery.html">ornery</a>, <a href="overlap.html">overlap</a>, <a href="overlapping.html">overlapping</a>, <a href="Overthwart.html">Overthwart</a>, <a href="Paludism.html">Paludism</a>, <a href="paraleipsis.html">paraleipsis</a>, <a href="paternal.html">paternal</a>, <a href="patron.html">patron</a>, <a href="Pedantism.html">Pedantism</a>, <a href="peevishness.html">peevishness</a>, <a href="penitence.html">penitence</a>, <a href="penuriousness.html">penuriousness</a>, <a href="perfectionism.html">perfectionism</a>, <a href="Perfervidum%20ingenium.html">Perfervidum ingenium</a>, <a href="permissiveness.html">permissiveness</a>, <a href="perpetuity.html">perpetuity</a>, <a href="perturbation.html">perturbation</a>, <a href="perverse.html">perverse</a>, <a href="perversity.html">perversity</a>, <a href="pessimism.html">pessimism</a>, <a href="pettishness.html">pettishness</a>, <a href="Phyllotaxis.html">Phyllotaxis</a>, <a href="Pious-minded.html">Pious-minded</a>, <a href="pitched%20battle.html">pitched battle</a>, <a href="Placability.html">Placability</a>, <a href="placidity.html">placidity</a>, <a href="playfulness.html">playfulness</a>, <a href="pliability.html">pliability</a>, <a href="pliable.html">pliable</a>, <a href="Polaristic.html">Polaristic</a>, <a href="posture.html">posture</a>, <a href="potentiality.html">potentiality</a>, <a href="predisposition.html">predisposition</a>, <a href="Preyful.html">Preyful</a>, <a href="private%20property.html">private property</a>, <a href="proneness.html">proneness</a>, <a href="Propenseness.html">Propenseness</a>, <a href="propensity.html">propensity</a>, <a href="Pterylosis.html">Pterylosis</a>, <a href="public-spirited.html">public-spirited</a>, <a href="pugnacity.html">pugnacity</a>, <a href="purview.html">purview</a>, <a href="pyromania.html">pyromania</a>, <a href="Qualmish.html">Qualmish</a>, <a href="quiet.html">quiet</a>, <a href="race.html">race</a>, <a href="Radication.html">Radication</a>, <a href="ready.html">ready</a>, <a href="reclusiveness.html">reclusiveness</a>, <a href="remoteness.html">remoteness</a>, <a href="repose.html">repose</a>, <a href="Respective%20symmetry.html">Respective symmetry</a>, <a href="revenge.html">revenge</a>, <a href="reverence.html">reverence</a>, <a href="Right-hearted.html">Right-hearted</a>, <a href="risibility.html">risibility</a>, <a href="romance.html">romance</a>, <a href="royal.html">royal</a>, <a href="run.html">run</a>, <a href="sanguine.html">sanguine</a>, <a href="Satanism.html">Satanism</a>, <a href="scandalously.html">scandalously</a>, <a href="scenery.html">scenery</a>, <a href="Schematism.html">Schematism</a>, <a href="Schesis.html">Schesis</a>, <a href="secretive.html">secretive</a>, <a href="secretiveness.html">secretiveness</a>, <a href="semaphore.html">semaphore</a>, <a href="sensual.html">sensual</a>, <a href="sentiment.html">sentiment</a>, <a href="separatism.html">separatism</a>, <a href="Sequaciousness.html">Sequaciousness</a>, <a href="Sequacity.html">Sequacity</a>, <a href="serenity.html">serenity</a>, <a href="serious.html">serious</a>, <a href="settlement.html">settlement</a>, <a href="shaitan.html">shaitan</a>, <a href="Sheitan.html">Sheitan</a>, <a href="shrewish.html">shrewish</a>, <a href="snappishness.html">snappishness</a>, <a href="sneakiness.html">sneakiness</a>, <a href="Sober-minded.html">Sober-minded</a>, <a href="sociability.html">sociability</a>, <a href="sociableness.html">sociableness</a>, <a href="softness.html">softness</a>, <a href="solitariness.html">solitariness</a>, <a href="sourness.html">sourness</a>, <a href="spinelessness.html">spinelessness</a>, <a href="spirit.html">spirit</a>, <a href="spite.html">spite</a>, <a href="spoiled.html">spoiled</a>, <a href="spoilt.html">spoilt</a>, <a href="spontaneous.html">spontaneous</a>, <a href="sprite.html">sprite</a>, <a href="standoffishness.html">standoffishness</a>, <a href="stealthiness.html">stealthiness</a>, <a href="stomach.html">stomach</a>, <a href="strain.html">strain</a>, <a href="subduedness.html">subduedness</a>, <a href="sufferance.html">sufferance</a>, <a href="sulkiness.html">sulkiness</a>, <a href="sullenness.html">sullenness</a>, <a href="sunny.html">sunny</a>, <a href="surliness.html">surliness</a>, <a href="sweet-faced.html">sweet-faced</a>, <a href="Sweet-tempered.html">Sweet-tempered</a>, <a href="symmetry.html">symmetry</a>, <a href="sympathetic.html">sympathetic</a>, <a href="table.html">table</a>, <a href="talent.html">talent</a>, <a href="temper.html">temper</a>, <a href="temperament.html">temperament</a>, <a href="tempered.html">tempered</a>, <a href="tend.html">tend</a>, <a href="tendency.html">tendency</a>, <a href="testament.html">testament</a>, <a href="texture.html">texture</a>, <a href="Thew.html">Thew</a>, <a href="thievishness.html">thievishness</a>, <a href="Thinginess.html">Thinginess</a>, <a href="tigerish.html">tigerish</a>, <a href="To%20take%20one%27s%20measure.html">To take one's measure</a>, <a href="tolerance.html">tolerance</a>, <a href="toleration.html">toleration</a>, <a href="tranquility.html">tranquility</a>, <a href="tranquillity.html">tranquillity</a>, <a href="transform.html">transform</a>, <a href="trim.html">trim</a>, <a href="truth.html">truth</a>, <a href="tune.html">tune</a>, <a href="turn.html">turn</a>, <a href="turtledove.html">turtledove</a>, <a href="unapproachability.html">unapproachability</a>, <a href="uncongeniality.html">uncongeniality</a>, <a href="unfriendliness.html">unfriendliness</a>, <a href="unkind%20person.html">unkind person</a>, <a href="unneighborliness.html">unneighborliness</a>, <a href="unsociability.html">unsociability</a>, <a href="unsociableness.html">unsociableness</a>, <a href="vein.html">vein</a>, <a href="Veining.html">Veining</a>, <a href="Verjuice.html">Verjuice</a>, <a href="versatile.html">versatile</a>, <a href="Vibratility.html">Vibratility</a>, <a href="vinegarish.html">vinegarish</a>, <a href="vinegary.html">vinegary</a>, <a href="virulence.html">virulence</a>, <a href="virulency.html">virulency</a>, <a href="Volatileness.html">Volatileness</a>, <a href="volatility.html">volatility</a>, <a href="warlike.html">warlike</a>, <a href="Warm-hearted.html">Warm-hearted</a>, <a href="wasteful.html">wasteful</a>, <a href="watchful.html">watchful</a>, <a href="Weak%20side.html">Weak side</a>, <a href="weka.html">weka</a>, <a href="Well-thewed.html">Well-thewed</a>, <a href="Whimsicalness.html">Whimsicalness</a>, <a href="wickedness.html">wickedness</a>, <a href="wildness.html">wildness</a>, <a href="will.html">will</a>, <a href="wish.html">wish</a>, <a href="withdrawnness.html">withdrawnness</a>, <a href="wood%20hen.html">wood hen</a>, <a href="worm.html">worm</a>, <a href="Zulus.html">Zulus</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					sisposition, eisposition, fisposition, cisposition, xisposition, sisposition, dusposition, djsposition, dksposition, dosposition, diaposition, diwposition, didposition, dixposition, dizposition, diaposition, disoosition, dislosition, dispisition, dispksition, displsition, disppsition, dispoaition, dispowition, dispodition, dispoxition, dispozition, dispoaition, disposution, disposjtion, disposktion, disposotion, disposirion, disposifion, disposigion, disposiyion, disposituon, dispositjon, dispositkon, dispositoon, dispositiin, dispositikn, dispositiln, dispositipn, dispositiob, dispositioh, dispositioj, dispositiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

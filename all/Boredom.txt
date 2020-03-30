@@ -1,0 +1,453 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>boredom</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">boredom</span> <span class="exp">the feeling of being bored by something tedious</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Boredom can lead to madness in parrots. When caged by themselves and neglected for long periods of time, these intelligent, sociable birds can easily become mentally ill. Many inflict wounds upon themselves, develop strange tics, and rip out their own feathers. The birds need constant interaction, affection, and mental stimulation; some bird authorities have determined that some parrot breeds have the mental abilities of a 5-year-old human child. Should a neglected parrot go mad, there is little that can be done to restore it to normalcy. In England, there are "mental institutions" for such unfortunate creatures.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Boredom</span> <span class="exp">The realm of bores; bores, collectively.</span> </li><li><span class="term">Boredom</span> <span class="exp">The state of being bored, or pestered; a state of ennui.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">boredom</span> <span class="exp">The state of being a bore, or the tendency to become tiresome and uninteresting.</span> </li><li><span class="tSpeech">n</span> <span class="term">boredom</span> <span class="exp">The state of being bored; tedium; ennui.</span> </li><li><span class="tSpeech">n</span> <span class="term">boredom</span> <span class="exp">Bores collectively.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Baudrillard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20Baudrillard.jpg" alt="Jean%20Baudrillard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Boredom is like a pitiless zooming in on the epidermis of time. Every instant is dilated and magnified like the pores of the face.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Berger</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Berger.jpg" alt="John%20Berger">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Is boredom anything less than the sense of one's faculties slowly dying?”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Guy Debord</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Guy Debord">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Boredom is always counter-revolutionary. Always.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Wayne Dyer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Wayne%20Dyer.jpg" alt="Wayne%20Dyer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The concept of boredom entails an inability to use up present moments in a personally fulfilling way.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Friedrich Nietzsche</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Friedrich%20Nietzsche.jpg" alt="Friedrich%20Nietzsche">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Against boredom the gods themselves fight in vain.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Earl Nightingale</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Earl%20Nightingale.jpg" alt="Earl%20Nightingale">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You'll find boredom where there is an absence of a good idea.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He believed that he had reached the nadir of boredom.
+					</div>
+					<div class="uAuthor">
+						"The Trail of the Hawk" by <span>Sinclair Lewis</span>					</div>
+										<div class="usage">
+						These long days of boredom in the hospital, these days of incessant wind and rain and cold.
+					</div>
+					<div class="uAuthor">
+						"The Backwash of War" by <span>Ellen N. La Motte</span>					</div>
+										<div class="usage">
+						And after the maiden aunts had seen me safety home, I should simply howl from boredom.
+					</div>
+					<div class="uAuthor">
+						"The Hero" by <span>William Somerset Maugham</span>					</div>
+										<div class="usage">
+						Work is a drug that dull people take to avoid the pangs of unmitigated boredom.
+					</div>
+					<div class="uAuthor">
+						"The Explorer" by <span>W. Somerset Maugham</span>					</div>
+										<div class="usage">
+						His sombre handsome face wore an expression of extreme boredom.
+					</div>
+					<div class="uAuthor">
+						"Where Deep Seas Moan" by <span>E. Gallienne-Robin</span>					</div>
+										<div class="usage">
+						He is bored, but boredom is a duty, and there's nothing else to do.
+					</div>
+					<div class="uAuthor">
+						"Appearances" by <span>Goldsworthy Lowes Dickinson</span>					</div>
+										<div class="usage">
+						Alan felt a strange sort of hopeless boredom spreading over him, as if he had entered a gray fog.
+					</div>
+					<div class="uAuthor">
+						"Starman's Quest" by <span>Robert Silverberg</span>					</div>
+										<div class="usage">
+						Meta Beggs sat motionless, with a look of inexpressible boredom on her pale countenance.
+					</div>
+					<div class="uAuthor">
+						"Mountain Blood" by <span>Joseph Hergesheimer</span>					</div>
+										<div class="usage">
+						Then she went up again, shut her door, put on coals, and fainting with the heat of the hearth, felt her boredom weigh more heavily than ever.
+					</div>
+					<div class="uAuthor">
+						"Madame Bovary" by <span>Gustave Flaubert</span>					</div>
+										<div class="usage">
+						He had argued that boredom might be just the very inimical condition they were having to test.
+					</div>
+					<div class="uAuthor">
+						"Eight Keys to Eden" by <span>Mark Irvin Clifton</span>					</div>
+										<div class="usage">
+						Boredom had settled heavily over his outlook on the operation.
+					</div>
+					<div class="uAuthor">
+						"A Fine Fix" by <span>R. C. Noll</span>					</div>
+										<div class="usage">
+						But it must be boredom with honour.
+					</div>
+					<div class="uAuthor">
+						"Punch, or the London Charivari, Vol. 147, September 30, 1914" by <span>Various</span>					</div>
+										<div class="usage">
+						For three days they existed without a moment's boredom.
+					</div>
+					<div class="uAuthor">
+						"The Double Four" by <span>E. Phillips Oppenheim</span>					</div>
+										<div class="usage">
+						During the next few weeks Paragot suffered the boredom of a provisional condition of existence.
+					</div>
+					<div class="uAuthor">
+						"The Belovéd Vagabond" by <span>William J. Locke</span>					</div>
+										<div class="usage">
+						Simon found the combination of boredom and fear well nigh unbearable.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: Land of the Infidel" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						The young men lounged in at the end of the procession and flopped into their seats with the proper air of insupportable boredom.
+					</div>
+					<div class="uAuthor">
+						"The Silver Maple" by <span>Marian Keith</span>					</div>
+										<div class="usage">
+						Indeed, one can escape boredom, but not love.
+					</div>
+					<div class="uAuthor">
+						"The Book of Khalid" by <span>Ameen Rihani</span>					</div>
+										<div class="usage">
+						His virtue may be vice concealed; he gathers bliss where others find boredom.
+					</div>
+					<div class="uAuthor">
+						"Mountain Meditations" by <span>L. Lind-af-Hageby</span>					</div>
+										<div class="usage">
+						Now for an hour of boredom.
+					</div>
+					<div class="uAuthor">
+						"The Confessions of a Caricaturist, Vol. 1 (of 2)" by <span>Harry Furniss</span>					</div>
+										<div class="usage">
+						Footsteps dragged across the yard in whose very sound discontent and boredom could be detected.
+					</div>
+					<div class="uAuthor">
+						"The German Classics of the Nineteenth and Twentieth Centuries" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Love and boredom and pity I'd take,<br>
+Even the nightingale in the wood -<br>
+Every tiny fraction of life<br>
+We live on earth, I'd take - if I could.
+							<div class="poet">""If God in his almighty Power..."" by <span>Konstantin Simonov</span></div>
+						</div>
+											<div class="poemQuote">
+							People believe it, maybe from laziness<br>
+or boredom, and live accordingly:<br>
+they wait eagerly for meetings, fear parting,<br>
+and when they sing, they sing about love.
+							<div class="poet">"Twenty-First. Night. Monday" by <span>Anna Akhmatova</span></div>
+						</div>
+											<div class="poemQuote">
+							I don’t come to conquer your flesh tonight, O beast<br>
+In whom are the sins of the race, nor to stir<br>
+In your foul tresses a mournful tempest<br>
+Beneath the fatal boredom my kisses pour:
+							<div class="poet">"Distress" by <span>Stephane Mallarme</span></div>
+						</div>
+											<div class="poemQuote">
+							In her is the end of breeding.<br>
+Her boredom is exquisite and excessive.<br>
+She would like some one to speak to her,<br>
+And is almost afraid that I<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Twill commit that indiscretion.<br>
+
+							<div class="poet">"The Garden" by <span>Ezra Pound</span></div>
+						</div>
+											<div class="poemQuote">
+							What sayst thou, traveller, of all thou saw'st afar?<br>
+On every tree hangs boredom, ripening to its fall,<br>
+Didst gather it, thou smoking yon thy sad cigar,<br>
+Black, casting an incongruous shadow on the wall?
+							<div class="poet">"What Sayest Thou, Traveller" by <span>Paul Verlaine</span></div>
+						</div>
+											<div class="poemQuote">
+							I think of that friend too much moved by music<br>
+Who turned to games<br>
+And made a game of boredom,<br>
+Of that one too much moved by faces<br>
+Who turned his face to the wall, and of that marvelous liar<br>
+Who turned at last to truth.
+							<div class="poet">"The Black Angel" by <span>Henri Coulette</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Two new studies point to increasing boredom in the workplace and declining loyalty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/tjmccue/2012/05/30/eight-ways-to-break-down-barriers-in-traditional-workplace-culture/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Take a look at all the fun free and inexpensive activities our area has to offer to beat summer boredom.
+					</div>
+					<div class="uAuthor">
+						<a href="http://citizensvoice.com/arts-living/summer-activities-don-t-have-to-break-the-bank-1.1316713" target="_blank" rel="external nofollow">citizensvoice.com</a>
+					</div>
+										<div class="usage">
+						Does boredom justify camp next summer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/features/life/sc-fam-0724-parenthood-camp-future-20120724,0,462129.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						Bob is a fortysomething professional with a solid grip on the American dream, which is why he can't fathom what's behind his emotional malaise - boredom, simmering discontent and disengagement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.jsonline.com/features/health/adversity-can-build-up-your-resilience-ev6ba85-165192446.html" target="_blank" rel="external nofollow">jsonline.com</a>
+					</div>
+										<div class="usage">
+						Meagher and Mason hope the findings will prompt further research, including looking at whether intelligent animals such as primates and parrots are particularly prone to boredom in captivity , and why under-stimulation causes problems.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vetlearn.com/reference-desk/captive-animals-show-signs-of-boredom-study-finds" target="_blank" rel="external nofollow">vetlearn.com</a>
+					</div>
+										<div class="usage">
+						Ford 'Escapes' compact -SUV boredom.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.norwichbulletin.com/columnist/x255965268/Silvio-Calabi-Ford-Escapes-compact-SUV-boredom?zc_p=1" target="_blank" rel="external nofollow">norwichbulletin.com</a>
+					</div>
+										<div class="usage">
+						Ford 'Escapes' Compact -SUV Boredom.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thekansan.com/article/20121104/BLOGS/311049995/0/blogs01" target="_blank" rel="external nofollow">thekansan.com</a>
+					</div>
+										<div class="usage">
+						Some of the obstacles to a successful and nonviolent outcome, including boredom, overtime costs and traffic disruption , are man made.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.thenewstribune.com/bluebyline/2012/10/17/police-standoffs-are-disruptive-alternative-is-much-worse/2012/" target="_blank" rel="external nofollow">blog.thenewstribune.com</a>
+					</div>
+										<div class="usage">
+						It's bound to happen sometime during the summer break – no matter how overscheduled the kids seem – they will at some point begin to complain of boredom.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.qcsunonline.com/cms/news/story-576553.html" target="_blank" rel="external nofollow">qcsunonline.com</a>
+					</div>
+										<div class="usage">
+						' Whether out of boredom or a plea for attention, that boy lied so many times that when he got into real trouble and needed help, no one would answer his calls.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/opinion/2011/07/05/dominique-strauss-kahn-case-as-modern-day-fable/print" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						According to artist Jenny Holzer, who is in town this week for the opening of her show at L&amp;M Arts, boredom has a way of just not letting up.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/arts/culture/la-et-cm-jenny-holzer-writes-in-light-on-lm-arts-20120913,0,7688550.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						When I was a wee freckle-faced lad fidgeting through Sunday morning church service, the droning minister and ensuing boredom often encouraged me to gaze around and check out everyone else.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ss-times.com/2011/07/29/aging-gracefully-is-%E2%80%98booming%E2%80%99-challenging/" target="_blank" rel="external nofollow">ss-times.com</a>
+					</div>
+										<div class="usage">
+						The History of Boredom May Interest You.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nhpr.org/post/history-boredom-may-interest-you?ft=1" target="_blank" rel="external nofollow">nhpr.org</a>
+					</div>
+										<div class="usage">
+						How to Handle and Relieve Boredom at Work.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/work-in-progress/2012/12/10/how-to-handle-and-relieve-boredom-at-work/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Our 30 minute cardio plan shakes up your direction and arm movements to bust boredom.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.shape.com/fitness/playlists/high-energy-hits-elliptical" target="_blank" rel="external nofollow">shape.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This will likely cause frustration for the disabled player and boredom or even annoyance for the other players. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Accessible Synchronous CMC Applications
+					</div>
+										<div class="usage">
+						Accessible interfaces for synchronous CMC applications should be designed in a way that minimizes frustration for the user with disabilities, and also minimizes boredom or even annoyance for the other users. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Accessible Synchronous CMC Applications
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the feeling of being bored by something tedious"><a href="ennui.html">ennui</a>, <a href="tedium.html">tedium</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="dissatisfaction.html">dissatisfaction</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="blahs.html">blahs</a>, <a href="fatigue.html">fatigue</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="blahs.html">blahs</a>, <a href="bore.html">bore</a>, <a href="drowsy.html">drowsy</a>, <a href="dullard.html">dullard</a>, <a href="fatigue.html">fatigue</a>, <a href="get%20through.html">get through</a>, <a href="longueur.html">longueur</a>, <a href="oscitance.html">oscitance</a>, <a href="oscitancy.html">oscitancy</a>, <a href="oscitant.html">oscitant</a>, <a href="uniformity.html">uniformity</a>, <a href="uniformness.html">uniformness</a>, <a href="while%20away.html">while away</a>, <a href="yawn.html">yawn</a>, <a href="yawning.html">yawning</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					voredom, goredom, horedom, noredom, biredom, bkredom, blredom, bpredom, boeedom, bodedom, bofedom, botedom, borwdom, borsdom, borddom, borrdom, boresom, boreeom, borefom, borecom, borexom, boresom, boredim, boredkm, boredlm, boredpm, boredon, boredoj, boredok
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,423 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>grievance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">grievance</span> <span class="exp">a complaint about a (real or imaginary) wrong that causes resentment and is grounds for action</span> </li><li><span class="tSpeech">n</span> <span class="term">grievance</span> <span class="exp">an allegation that something imposes an illegal obligation or denies some legal right or causes injustice</span> </li><li><span class="tSpeech">n</span> <span class="term">grievance</span> <span class="exp">a resentment strong enough to justify retaliation</span> <span class="quot">"holding a grudge","settling a score"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Grievance</span> <span class="exp">A cause of uneasiness and complaint; a wrong done and suffered; that which gives ground for remonstrance or resistance, as arising from injustice, tyranny, etc.; injury.</span> </li><li><span class="term">Grievance</span> <span class="exp">Grieving; grief; affliction.</span> <span class="wuQuot">"The . . . grievance of a mind unreasonably yoked."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">grievance</span> <span class="exp">A cause of grief or distress; a wrong inflicted by another or others; a source or occasion of annoyance or hardship.</span> </li><li><span class="tSpeech">n</span> <span class="term">grievance</span> <span class="exp">Grief; affliction.</span> </li><li><span class="tSpeech">n</span> <span class="term">grievance</span> <span class="exp">Discomfort; pain.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Grievance</span> <span class="exp">cause of grief: burden: hardship: injury: grief</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aesop</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aesop.jpg" alt="Aesop">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men often bear little grievances with less courage than they do large misfortunes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Never repeat old grievances.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marshall Mcluhan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marshall%20Mcluhan.jpg" alt="Marshall%20Mcluhan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Jokes are grievances.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Hoffer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eric%20Hoffer.jpg" alt="Eric%20Hoffer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A grievance is most poignant when almost redressed.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Hoffer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eric%20Hoffer.jpg" alt="Eric%20Hoffer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To have a grievance is to have a purpose in life.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OF. <span class="wUets">grevance</span>,. See <span class="wUer">Grieve</span> (v. t.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>grever</i>—L. <i>gravāre</i>, <i>gravis</i>, heavy.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						From the first he showed no purpose of discussing the grievances alleged in the petition.
+					</div>
+					<div class="uAuthor">
+						"History of the English People, Volume V (of 8)" by <span>John Richard Green</span>					</div>
+										<div class="usage">
+						She would not trouble her mother with such petty grievances.
+					</div>
+					<div class="uAuthor">
+						"Marjorie Dean High School Freshman" by <span>Pauline Lester</span>					</div>
+										<div class="usage">
+						Behind the garbage-house, in the corner of the yard near the railroad tracks, there was a fine place to talk over secrets and grievances.
+					</div>
+					<div class="uAuthor">
+						"Flamsted quarries" by <span>Mary E. Waller</span>					</div>
+										<div class="usage">
+						Lowell spoke much of the truth when he said that the Southern grievance was the census of 1860; but not the whole truth.
+					</div>
+					<div class="uAuthor">
+						"A History of the United States" by <span>Cecil Chesterton</span>					</div>
+										<div class="usage">
+						When, a week or two before, Mrs. Ford had been seriously angry with Mrs. Gregg, she confided her grievances to Dr. O'Grady.
+					</div>
+					<div class="uAuthor">
+						"General John Regan" by <span>George A. Birmingham</span>					</div>
+										<div class="usage">
+						The entire ship's company were discussing their grievances, and even a large portion of the officers were dissatisfied.
+					</div>
+					<div class="uAuthor">
+						"Down the Rhine" by <span>Oliver Optic</span>					</div>
+										<div class="usage">
+						Speakers at their meetings referred to the condition and hopeless prostration of Van Diemen's Land as a general grievance.
+					</div>
+					<div class="uAuthor">
+						"The History of Tasmania, Volume I (of 2)" by <span>John West</span>					</div>
+										<div class="usage">
+						There seems to be a grievance all around.
+					</div>
+					<div class="uAuthor">
+						"Floyd Grandon's Honor" by <span>Amanda Minnie Douglas</span>					</div>
+										<div class="usage">
+						There were as yet no grievances.
+					</div>
+					<div class="uAuthor">
+						"The Rise of Canada, from Barbarism to Wealth and Civilisation" by <span>Charles Roger</span>					</div>
+										<div class="usage">
+						What, then, in all candor, are the grievances of some of our sister States, as presented by their delegated authority to this Conference?
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<div class="usage">
+						Then came up another grievance of the South.
+					</div>
+					<div class="uAuthor">
+						"The Negro and the Nation" by <span>George S. Merriam</span>					</div>
+										<div class="usage">
+						But it was not to be expected that the Indians would always be satisfied with their treatment; and in fact they had a good many grievances.
+					</div>
+					<div class="uAuthor">
+						"Stories of New Jersey" by <span>Frank Richard Stockton</span>					</div>
+										<div class="usage">
+						That is one of my grievances.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1902 to 1903" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						They forgot their grievances in the fun of that lunch party.
+					</div>
+					<div class="uAuthor">
+						"Molly Brown's Senior Days" by <span>Nell Speed</span>					</div>
+										<div class="usage">
+						That these Uitlanders had very real and pressing grievances no one could possibly deny.
+					</div>
+					<div class="uAuthor">
+						"The War in South Africa" by <span>Arthur Conan Doyle</span>					</div>
+										<div class="usage">
+						In Liverpool there were far other grievances.
+					</div>
+					<div class="uAuthor">
+						"William Pitt and the Great War" by <span>John Holland Rose</span>					</div>
+										<div class="usage">
+						Ralegh was ever at pains to remove any specific grievance.
+					</div>
+					<div class="uAuthor">
+						"Sir Walter Ralegh" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						Under the circumstance of the failure of credit, the matter touched me deeply, and was a personal grievance.
+					</div>
+					<div class="uAuthor">
+						"A Tramp's Notebook" by <span>Morley Roberts</span>					</div>
+										<div class="usage">
+						Grievances of the people; that was their main end.
+					</div>
+					<div class="uAuthor">
+						"State Trials, Political and Social" by <span>Various</span>					</div>
+										<div class="usage">
+						I make my appeal to God, the great judge of the wrongs and grievances done me!
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Volume 07" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Serene, while over other lands<br>
+Rolls revolution's storm,<br>
+Where they can't speak their grievances--<br>
+Dare not demand reform.
+							<div class="poet">"Lines Of Annexation" by <span>Nora Pembroke</span></div>
+						</div>
+											<div class="poemQuote">
+							Thou hast commanded me to come to thee,<br>
+My kind protector, in adversity;<br>
+To thee I come, O God! with woes oppress'd:<br>
+O, let my grievances be now redress'd!
+							<div class="poet">"A Prayer, Against The Oppression Of One's Foe. " by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							A peer of popular applause,<br>
+Who doth our violated laws,<br>
+And grievances proclaim.<br>
+Th' initials show a vanquish'd town,<br>
+That adds fresh glory and renown<br>
+To old Britannia's fame.
+							<div class="poet">"A Rebus" by <span>Phillis Wheatley</span></div>
+						</div>
+											<div class="poemQuote">
+							Death, after all our troubles makes our beds,<br>
+That we thereon may lay our weary'd heads,<br>
+And gives us ease and happiness at last,<br>
+When all our straits and grievances are past.
+							<div class="poet">"A Short Dissertation Against The Fear Of Death, And Concerning The Benefit That Accrues From A Right" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							'Gainst you and all your sages, no joy of mine shall strive,<br>
+This one dead self shall shatter the men you call alive.<br>
+My grief I send to smite you, no pleasure, no belief,<br>
+Lord of the battered grievance, what do you know of grief?
+							<div class="poet">"The Pessimist" by <span>Gilbert Keith Chesterton</span></div>
+						</div>
+											<div class="poemQuote">
+							Releasëd from her daily care,<br>
+No longer listening to complaint,<br>
+She seems to breathe a different air,<br>
+And health once more her cheek does paint.<br>
+Still Anna loves her friends, but will not hear<br>
+Again their list of grievances which cost so dear.
+							<div class="poet">"The Confidant" by <span>Charles Lamb</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Principals denied the grievances , as did Superintendent Dave Bond on an initial appeal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://thenewstribune.com/2012/06/30/v-lite/2200044/kennewick-school-board-denies.html" target="_blank" rel="external nofollow">thenewstribune.com</a>
+					</div>
+										<div class="usage">
+						"They were unable to meet the necessary quorum to hear grievances on May 22," Boisen said.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.denpubs.com/news/2012/jun/09/lewis-family-farm-assessment-grievance-be-heard-co/" target="_blank" rel="external nofollow">denpubs.com</a>
+					</div>
+										<div class="usage">
+						Although the grievances and the lawsuit are separate matters, they have a common thread.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/nflnation/post/_/id/59099/another-saints-grievance-to-be-heard" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						The commissioner has said he'll hear the appeals after rulings are made on the grievances .
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/nflnation/post/_/id/59099/another-saints-grievance-to-be-heard" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Police union files grievance over pay during NATO.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.news-gazette.com/news/courts-police-and-fire/2012-05-25/police-union-files-grievance-over-pay-during-nato.html" target="_blank" rel="external nofollow">news-gazette.com</a>
+					</div>
+										<div class="usage">
+						The Redskins' grievance challenging their $36 million salary cap penalty was dismissed by arbitrator Stephen Burbank, NFL executive vice president and general counsel Jeff Pash told reporters Tuesday at the NFL owners meetings in Atlanta.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/blog/redskins-watch/2012/may/22/arbitrator-dismisses-redskins-salary-cap-grievance/print/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						The NFL players' union grievance against the league in the Saints bounties scandal will be heard Wednesday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winknews.com/NFL/2012-05-14/Players-union-grievance-to-be-heard-Wednesday" target="_blank" rel="external nofollow">winknews.com</a>
+					</div>
+										<div class="usage">
+						Dontrelle Willis drops grievance .
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/mlb/story/_/id/7909337/lefty-dontrelle-willis-drops-grievance-returns-baltimore-orioles" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Pitcher Dontrelle Willis has agreed to drop his grievance against the Baltimore Orioles after the team granted his request to pitch as a starter in the minor leagues, his agent told ESPN.com.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/mlb/story/_/id/7909337/lefty-dontrelle-willis-drops-grievance-returns-baltimore-orioles" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						The NFL Players Association is filing a grievance over the NFL's suspension of four players in the bounty scandal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/sportsnation/post/_/id/7889950/legitimate-grievance" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						The NHLPA filed a grievance over the Edmonton Oilers docking $13,000 from Ben Eager's pay, multiple sources have confirmed to ESPN.com.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/nhl/post/_/id/15679/nhlpa-files-grievance-over-broken-camera" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Gay, transgender advocates must prove ' grievance ' by voided non-discrimination ordinance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nashvillecitypaper.com/content/city-news/gay-transgender-advocates-must-prove-grievance-voided-non-discrimination-ordinance" target="_blank" rel="external nofollow">nashvillecitypaper.com</a>
+					</div>
+										<div class="usage">
+						The Church of Grievance Occupy Wall Street's dangerous creed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nationalreview.com/nrd/articles/295027/church-grievance" target="_blank" rel="external nofollow">nationalreview.com</a>
+					</div>
+										<div class="usage">
+						But Pavey did talk with another guard about 12 hours after the incident, and he alleged that the cell removal was retaliation by another guard because of his history of filing 10 past grievances .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theindianalawyer.com/7th-circuit-rules-on-indianas-prison-grievance-process/PARAMS/article/27606" target="_blank" rel="external nofollow">theindianalawyer.com</a>
+					</div>
+										<div class="usage">
+						A coalition of state employee unions has filed a grievance with the State Office Of Labor Relations over the $7 million in longevity bonuses being given to non-union managers this month.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.norwichbulletin.com/newsnow/x1611318333/Connecticut-unions-file-grievance-over-longevity-pay" target="_blank" rel="external nofollow">norwichbulletin.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="allegation.html">allegation</a>, <a href="bitterness.html">bitterness</a>, <a href="complaint.html">complaint</a>, <a href="gall.html">gall</a>, <a href="rancor.html">rancor</a>, <a href="rancour.html">rancour</a>, <a href="resentment.html">resentment</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="grudge.html">grudge</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20bone%20to%20pick.html">A bone to pick</a>, <a href="Aggrievance.html">Aggrievance</a>, <a href="anger.html">anger</a>, <a href="choler.html">choler</a>, <a href="complaint.html">complaint</a>, <a href="equity.html">equity</a>, <a href="fancied.html">fancied</a>, <a href="Gravamen.html">Gravamen</a>, <a href="grief.html">grief</a>, <a href="Grievancer.html">Grievancer</a>, <a href="hardship.html">hardship</a>, <a href="injustice.html">injustice</a>, <a href="insistence.html">insistence</a>, <a href="ire.html">ire</a>, <a href="limitation.html">limitation</a>, <a href="petitioner.html">petitioner</a>, <a href="plaint.html">plaint</a>, <a href="pressure.html">pressure</a>, <a href="relation.html">relation</a>, <a href="relief.html">relief</a>, <a href="relieve.html">relieve</a>, <a href="sorehead.html">sorehead</a>, <a href="Statable.html">Statable</a>, <a href="strike.html">strike</a>, <a href="suer.html">suer</a>, <a href="To%20pick%20a%20crow.html">To pick a crow</a>, <a href="To%20pluck%20a%20crow.html">To pluck a crow</a>, <a href="venter.html">venter</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					frievance, trievance, hrievance, brievance, vrievance, geievance, gdievance, gfievance, gtievance, gruevance, grjevance, grkevance, groevance, griwvance, grisvance, gridvance, grirvance, griecance, griefance, griegance, griebance, grievqnce, grievwnce, grievsnce, grievznce, grievabce, grievahce, grievajce, grievamce, grievanxe, grievande, grievanfe, grievanve, grievancw, grievancs, grievancd, grievancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

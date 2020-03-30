@@ -1,0 +1,482 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>salvation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">salvation</span> <span class="exp">(theology) the act of delivering from sin or saving from evil</span> </li><li><span class="tSpeech">n</span> <span class="term">salvation</span> <span class="exp">saving someone or something from harm or from an unpleasant situation</span> <span class="quot">"the salvation of his party was the president's major concern"</span></li><li><span class="tSpeech">n</span> <span class="term">salvation</span> <span class="exp">a means of preserving from harm or unpleasantness</span> <span class="quot">"tourism was their economic salvation","they turned to individualism as their salvation"</span></li><li><span class="tSpeech">n</span> <span class="term">salvation</span> <span class="exp">the state of being saved or preserved from harm</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										General William Booth is the founder of the Salvation Army									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Salvation</span> <span class="exp">Saving power; that which saves.</span> <span class="wuQuot">"Fear ye not; stand still, and see the salvation of the Lord, which he will show to you to-day."</span></li><li><span class="term">Salvation</span> <span class="exp">The act of saving; preservation or deliverance from destruction, danger, or great calamity.</span> </li><li><span class="term">Salvation</span> <span class="exp"><span class="wuFld">(Theol)</span> The redemption of man from the bondage of sin and liability to eternal death, and the conferring on him of everlasting happiness.</span> <span class="wuQuot">"To earn salvation for the sons of men."</span><span class="wuQuot">"Godly sorrow worketh repentance to salvation ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">salvation</span> <span class="exp">Preservation from destruction, danger, or calamity; deliverance.</span> </li><li><span class="tSpeech">n</span> <span class="term">salvation</span> <span class="exp">In theology, deliverance from the power and penalty of sin.</span> </li><li><span class="tSpeech">n</span> <span class="term">salvation</span> <span class="exp">Source, cause, or means of preservation from some danger or evil.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Salvation</span> <span class="exp"><span class="itl">sal-vā′shun</span> act of saving: means of preservation from any serious evil: :</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Salvation</span> <span class="exp">to heal, to cure: to remedy: to redeem: to gloss over</span> </li><li><span class="tSpeech">n</span> <span class="term">Salvation</span> <span class="exp"><span class="itl">sal-vā′shun</span> (<span class="itl">theol.</span>) the saving of man from the power and penalty of sin, the conferring of eternal happiness</span> </li><li><span class="tSpeech">n</span> <span class="term">Salvation</span> <span class="exp"><span class="itl">sal-vā′shun</span> (<span class="itl">B.</span>) deliverance from enemies</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Maria Montessori</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Maria Montessori">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If help and salvation are to come, they can only come from the children, for the children are the makers of men.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Michelangelo</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Michelangelo.jpg" alt="Michelangelo">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I have never felt salvation in nature. I love cities above all.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ryszard Kapuscinski</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ryszard%20Kapuscinski.jpg" alt="Ryszard%20Kapuscinski">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Our salvation is in striving to achieve what we know we'll never achieve.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Frank Lloyd Wright</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Frank%20Lloyd%20Wright.jpg" alt="Frank%20Lloyd%20Wright">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“An idea is salvation by imagination.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Baldwin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20Baldwin.jpg" alt="James%20Baldwin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is never time in the future in which we will work out our salvation. The challenge is in the moment; the time is always now.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles E. Popplestone</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles E. Popplestone">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You have to do it yourself, no one else will do it for you. You must work out your own salvation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">salvacioun</span>, <span class="wUets">sauvacion</span>, F. <span class="wUets">salvation</span>, fr. L. <span class="wUets">salvatio</span>, fr. <span class="wUets">salvare</span>, to save. See <span class="wUer">Save</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The individual is lost in the whole, and the realization of this is salvation.
+					</div>
+					<div class="uAuthor">
+						"A Tour of the Missions" by <span>Augustus Hopkins Strong</span>					</div>
+										<div class="usage">
+						To the Christian, Jesus represents the ultimate of God's earthly manifestation, as He does the complete realization of human salvation.
+					</div>
+					<div class="uAuthor">
+						"India, Its Life and Thought" by <span>John P. Jones</span>					</div>
+										<div class="usage">
+						It robs of grace, salvation, virtue, and God with all his blessings, and that without reason, falsely and deceitfully.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. II" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						What eyes would they have for us when their salvation lay aboard the yacht?
+					</div>
+					<div class="uAuthor">
+						"The House Under the Sea" by <span>Sir Max Pemberton</span>					</div>
+										<div class="usage">
+						And the day of salvation is now at hand.
+					</div>
+					<div class="uAuthor">
+						"Hymns and Hymnwriters of Denmark" by <span>Jens Christian Aaberg</span>					</div>
+										<div class="usage">
+						Lord Salisbury is not so bad as he seems, nor is Balfour altogether beyond hope of salvation.
+					</div>
+					<div class="uAuthor">
+						"Ireland as It Is" by <span>Robert John Buckley (AKA R.J.B.)</span>					</div>
+										<div class="usage">
+						And verily his coming seemed to bode destruction rather than salvation.
+					</div>
+					<div class="uAuthor">
+						"Dreamers of the Ghetto" by <span>I. Zangwill</span>					</div>
+										<div class="usage">
+						While still essentially monastic, it offers salvation and a way of life to all.
+					</div>
+					<div class="uAuthor">
+						"History of Religion" by <span>Allan Menzies</span>					</div>
+										<div class="usage">
+						Filling the world with the honor of Claude and Salvator, it has never once tended to the honor of God.
+					</div>
+					<div class="uAuthor">
+						"Modern Painters Volume I (of V)" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						Some come into the world with salvation assured by being well born while others are foredoomed to failure.
+					</div>
+					<div class="uAuthor">
+						"Elementary Theosophy" by <span>L. W. Rogers</span>					</div>
+										<div class="usage">
+						He is now patronised by the Salvation Army.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						For righteousness is salvation.
+					</div>
+					<div class="uAuthor">
+						"Carmen Ariza" by <span>Charles Francis Stocking</span>					</div>
+										<div class="usage">
+						Beyond this, no other disclosure about the nature of this salvation is given.
+					</div>
+					<div class="uAuthor">
+						"Christology of the Old Testament: And a Commentary on the Messianic Predictions, v. 1" by <span>Ernst Wilhelm Hengstenberg</span>					</div>
+										<div class="usage">
+						There is no doubt that salvation is worth all that effort; but we do not obtain it by our works.
+					</div>
+					<div class="uAuthor">
+						"The Way to God and How to Find It" by <span>Dwight Moody</span>					</div>
+										<div class="usage">
+						Self-preservation was the struggle of his life, and personal salvation was his aspiration in prayer.
+					</div>
+					<div class="uAuthor">
+						"The Evolution of the Country Community" by <span>Warren H. Wilson</span>					</div>
+										<div class="usage">
+						It was to them a sign of Christ who was to be offered for the salvation of sinners.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. III" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						Man can by no work of his own either procure salvation or merit salvation.
+					</div>
+					<div class="uAuthor">
+						"Sovereign Grace" by <span>Dwight Moody</span>					</div>
+										<div class="usage">
+						There is in the museum at Florence a celebrated painting, which calls to mind a thrilling adventure of Salvator Rosa when quite young.
+					</div>
+					<div class="uAuthor">
+						"Happy Days for Boys and Girls" by <span>Various</span>					</div>
+										<div class="usage">
+						Work out your own salvation, for it is God (not any teacher) Who worketh in you.
+					</div>
+					<div class="uAuthor">
+						"The Expositor's Bible: The Book of Exodus" by <span>G. A. Chadwick</span>					</div>
+										<div class="usage">
+						Salvation has been worked out for you by another.
+					</div>
+					<div class="uAuthor">
+						"Wondrous Love" by <span>Dwight Moody</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							How have we chased them through the field,<br>
+And trod them to the ground,<br>
+While thy salvation was our shield,<br>
+But they no shelter found!
+							<div class="poet">"Psalm 18  part 2" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							God from eternity hath willed<br>
+All flesh shall His salvation see:<br>
+So be the Father’s love fulfilled,<br>
+The Savior’s sufferings crowned through Thee.
+							<div class="poet">"O Spirit of the Living God" by <span>James Montgomery</span></div>
+						</div>
+											<div class="poemQuote">
+							Trebles and Tenors:<br>
+Blessed was she by all creation<br>
+Who brought forth the world's salvation;<br>
+Blest are they and ever blest,<br>
+Who love Thee most and serve Thee best.
+							<div class="poet">"Virgin-Born! We Bow Before Thee!" by <span>Reginald Heber</span></div>
+						</div>
+											<div class="poemQuote">
+							Christ can supply thy sinful mind with grace<br>
+And strength, on him thy confidence to place —<br>
+With learning, virtue, wisdom, and with worth,<br>
+Fully to work thy own salvation forth.
+							<div class="poet">"Advice, To Search For The Lord Jesus Christ" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							We'd faith in this great country then;<br>
+We'd hope in her great, stalwart men,<br>
+Who built a worthy nation.<br>
+Hope? Hope was ever in our hearts,<br>
+For we seemed cast for Builders' parts -<br>
+And there was our salvation.
+							<div class="poet">"Hope" by <span>C J Dennis</span></div>
+						</div>
+											<div class="poemQuote">
+							Thou Saviour God, who of thy grace<br>
+Hast brought salvation to our race,<br>
+And from infernal flames thy servants freed,<br>
+O, save us, in the day of doom,<br>
+When we to thy tribunal come,<br>
+And to the blissful seats of Eden lead!
+							<div class="poet">"To The Sons Of Brutus" by <span>Rees Prichard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Salvation Army Red Kettle Drive underway.
+					</div>
+					<div class="uAuthor">
+						<a href="http://ktbs.com/news/texarkana" target="_blank" rel="external nofollow">ktbs.com</a>
+					</div>
+										<div class="usage">
+						The Salvation Army kicked off it's annual Red Kettle drive this week.
+					</div>
+					<div class="uAuthor">
+						<a href="http://ktbs.com/news/texarkana" target="_blank" rel="external nofollow">ktbs.com</a>
+					</div>
+										<div class="usage">
+						Scott Salvator shoulders the holiday decorations for very special clients.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/slideshow/2010/12/15/garden/20101216-outsource.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						God doesn't love you more when you tithe , and it's not a salvation issue.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.knoxnews.com/news/2012/oct/28/dave-ramsey-tithing-should-come-from-the-heart/" target="_blank" rel="external nofollow">knoxnews.com</a>
+					</div>
+										<div class="usage">
+						From left, Lisa Berry, Dawn Brandon and Debbie Self volunteer for the Salvation Army's Thanksgiving dinner at Lee's Famous Recipe Chicken on Thursday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiamissourian.com/m/23415/ready-to-dish-up-thanksgiving-day-dinner/" target="_blank" rel="external nofollow">columbiamissourian.com</a>
+					</div>
+										<div class="usage">
+						According to George Olson, business manager for the Cheboygan Salvation Army, those looking for ways to help those affected by the hurricane are being directed to the most efficient means of donating.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cheboygannews.com/article/20121113/NEWS/121119816/196/features?template=emailfriend" target="_blank" rel="external nofollow">cheboygannews.com</a>
+					</div>
+										<div class="usage">
+						According to George Olson, business manager for the Cheboygan Salvation Army, those looking for ways to help those affected by the hurricane are being directed to the most efficient means of donating, the Internet.
+					</div>
+					<div class="uAuthor">
+						<a href="http://cheboygannews.com/article/20121113/NEWS/121119816/-1/Top%20stories" target="_blank" rel="external nofollow">cheboygannews.com</a>
+					</div>
+										<div class="usage">
+						Do you ever question your own salvation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theandersonnews.com/content/times-spiritual-questioning-rely-unchangeable-god" target="_blank" rel="external nofollow">theandersonnews.com</a>
+					</div>
+										<div class="usage">
+						I think doubting one's own salvation borders on sin itself if it applies to a Christian.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theandersonnews.com/content/times-spiritual-questioning-rely-unchangeable-god" target="_blank" rel="external nofollow">theandersonnews.com</a>
+					</div>
+										<div class="usage">
+						Christian Bale on "Terminator Salvation" and Vaguely Explained Visits to Bartlesville.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.newsok.com/staticblog/2009/05/20/preview-christian-bale-on-terminator-salvation-and-vaguely-explained-visits-to-bartlesville/" target="_blank" rel="external nofollow">blog.newsok.com</a>
+					</div>
+										<div class="usage">
+						Dalloway' brings one writer to literary salvation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Books/chapter-and-verse/2012/0125/How-to-date-Virginia-Woolf" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Former Salvation Army executive director David Rennie is in police custody after he turned himself.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/news/gta/article/1293231--all-torontonians-will-pay-for-rob-ford-s-wilful-blindness-james" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						Local schools taking part in 23rd annual Salvation Army Food Drive: Nonperishable food items to be collected through Friday at any school or at Salvation Army.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.plainsman.com/v2_news_articles.php?heading=0&amp;story_id=18023&amp;page=75" target="_blank" rel="external nofollow">plainsman.com</a>
+					</div>
+										<div class="usage">
+						Clint Black performed during halftime of the Dallas Cowboys game to help the Salvation Army kick off its annual holiday fund drive.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.973rivercountry.com/corp/page/A_Day_in_Music_-_November_25th/7131" target="_blank" rel="external nofollow">973rivercountry.com</a>
+					</div>
+										<div class="usage">
+						Captain Jon Jackson, Mount Vernon Salvation Army.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mountvernonnews.com/local/12/11/01/pr?id=2" target="_blank" rel="external nofollow">mountvernonnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Symp., N33-165. 20) J. Baro, J. Sempau, J. M. Fernandez-Varea and F. Salvat, “Penelope, an algorithm for Monte Carlo simulation of the penetration and energy loss of electrons and positrons in matter”, Nucl. 
+					</div>
+					<div class="uAuthor">
+						New techniques in Monte Carlo simulation: experience with a prototype of generic programming application to Geant4 physics processes
+					</div>
+										<div class="usage">
+						The salvation of a psycho-physical parallelism of this kind was von Neumann’s main argument for the introduction of his “ﬁrst intervention” (2.2): the collapse. 
+					</div>
+					<div class="uAuthor">
+						Decoherence: Basic Concepts and Their Interpretation
+					</div>
+										<div class="usage">
+						Salvation comes, however, from the observation that the RG running of coupling constants is strong enough and drives A to a range compatible with the CMB data and the conventional range of the Higgs mass. 
+					</div>
+					<div class="uAuthor">
+						Asymptotic freedom in inflationary cosmology with a non-minimally coupled Higgs field
+					</div>
+										<div class="usage">
+						In the high dimension, low sample size setting, where consistency seems to be hopeless, sparsity turns out to be the statistician’s salvation. 
+					</div>
+					<div class="uAuthor">
+						Optimal detection of sparse principal components in high dimension
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="agency.html">agency</a>, <a href="deliverance.html">deliverance</a>, <a href="delivery.html">delivery</a>, <a href="means.html">means</a>, <a href="rescue.html">rescue</a>, <a href="safety.html">safety</a>, <a href="saving.html">saving</a>, <a href="way.html">way</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="absolution.html">absolution</a>, <a href="atonement.html">atonement</a>, <a href="conversion.html">conversion</a>, <a href="expiation.html">expiation</a>, <a href="propitiation.html">propitiation</a>, <a href="rebirth.html">rebirth</a>, <a href="remission.html">remission</a>, <a href="remission%20of%20sin.html">remission of sin</a>, <a href="remittal.html">remittal</a>, <a href="spiritual%20rebirth.html">spiritual rebirth</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="redeem.html">redeem</a>, <a href="redemptional.html">redemptional</a>, <a href="salve.html">salve</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Amice.html">Amice</a>, <a href="anointing%20of%20the%20sick.html">anointing of the sick</a>, <a href="antinomian.html">antinomian</a>, <a href="Apocatastasis.html">Apocatastasis</a>, <a href="Army.html">Army</a>, <a href="assurance.html">assurance</a>, <a href="believer.html">believer</a>, <a href="bhakti.html">bhakti</a>, <a href="Bote.html">Bote</a>, <a href="Buddha.html">Buddha</a>, <a href="calender.html">calender</a>, <a href="Calvinism.html">Calvinism</a>, <a href="cargo%20cult.html">cargo cult</a>, <a href="creed.html">creed</a>, <a href="divinity.html">divinity</a>, <a href="Effectual%20calling.html">Effectual calling</a>, <a href="elect.html">elect</a>, <a href="election.html">election</a>, <a href="evangelicalism.html">evangelicalism</a>, <a href="extreme%20unction.html">extreme unction</a>, <a href="fiducial.html">fiducial</a>, <a href="fiduciary.html">fiduciary</a>, <a href="foreordination.html">foreordination</a>, <a href="Gnostic.html">Gnostic</a>, <a href="gospel.html">gospel</a>, <a href="grace.html">grace</a>, <a href="health.html">health</a>, <a href="Hinayana.html">Hinayana</a>, <a href="Jansenism.html">Jansenism</a>, <a href="last%20rites.html">last rites</a>, <a href="legal.html">legal</a>, <a href="legalism.html">legalism</a>, <a href="Legalist.html">Legalist</a>, <a href="legality.html">legality</a>, <a href="liberation%20theology.html">liberation theology</a>, <a href="lost.html">lost</a>, <a href="Luther.html">Luther</a>, <a href="Mahayana.html">Mahayana</a>, <a href="Mahayana%20Buddhism.html">Mahayana Buddhism</a>, <a href="Martin%20Luther.html">Martin Luther</a>, <a href="Meritmonger.html">Meritmonger</a>, <a href="mourner.html">mourner</a>, <a href="naturalism.html">naturalism</a>, <a href="non.html">non</a>, <a href="Nonelect.html">Nonelect</a>, <a href="Nullifidian.html">Nullifidian</a>, <a href="Origenism.html">Origenism</a>, <a href="Orthodox.html">Orthodox</a>, <a href="particularism.html">particularism</a>, <a href="predestination.html">predestination</a>, <a href="predetermination.html">predetermination</a>, <a href="preordination.html">preordination</a>, <a href="preterition.html">preterition</a>, <a href="purgatory.html">purgatory</a>, <a href="redeeming.html">redeeming</a>, <a href="redemptive.html">redemptive</a>, <a href="Restoration.html">Restoration</a>, <a href="Salue.html">Salue</a>, <a href="Salvable.html">Salvable</a>, <a href="Salvation%20Sally.html">Salvation Sally</a>, <a href="Salvationist.html">Salvationist</a>, <a href="salvific.html">salvific</a>, <a href="Savacioun.html">Savacioun</a>, <a href="saving.html">saving</a>, <a href="saving%20grace.html">saving grace</a>, <a href="Savingly.html">Savingly</a>, <a href="Savingness.html">Savingness</a>, <a href="Savior.html">Savior</a>, <a href="So%20help%20me%20God.html">So help me God</a>, <a href="Socinianism.html">Socinianism</a>, <a href="Soterial.html">Soterial</a>, <a href="soteriological.html">soteriological</a>, <a href="soteriology.html">soteriology</a>, <a href="supererogation.html">supererogation</a>, <a href="Supralapsarian.html">Supralapsarian</a>, <a href="synergism.html">synergism</a>, <a href="Terminism.html">Terminism</a>, <a href="The%20elect.html">The elect</a>, <a href="theology.html">theology</a>, <a href="Theravada.html">Theravada</a>, <a href="Theravada%20Buddhism.html">Theravada Buddhism</a>, <a href="To%20walk%20by%20faith.html">To walk by faith</a>, <a href="Trisacramentarian.html">Trisacramentarian</a>, <a href="Universal%20restoration.html">Universal restoration</a>, <a href="universalism.html">universalism</a>, <a href="universalist.html">universalist</a>, <a href="vocation.html">vocation</a>, <a href="Volunteers%20of%20America.html">Volunteers of America</a>, <a href="Waterlander.html">Waterlander</a>, <a href="Works%20of%20supererogation.html">Works of supererogation</a>, <a href="Zionward.html">Zionward</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					aalvation, walvation, dalvation, xalvation, zalvation, aalvation, sqlvation, swlvation, sslvation, szlvation, sakvation, saovation, sapvation, salcation, salfation, salgation, salbation, salvqtion, salvwtion, salvstion, salvztion, salvarion, salvafion, salvagion, salvayion, salvatuon, salvatjon, salvatkon, salvatoon, salvatiin, salvatikn, salvatiln, salvatipn, salvatiob, salvatioh, salvatioj, salvatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

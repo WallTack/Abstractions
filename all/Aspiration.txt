@@ -1,0 +1,536 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>aspiration</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">the act of inhaling; the drawing in of air (or other gases) as in breathing</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">a will to succeed</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">a manner of articulation involving an audible release of breath</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">a cherished desire</span> <span class="quot">"his ambition is to own his own business"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Aspiration</span> <span class="exp">The act of aspirating; the pronunciation of a letter with a full or strong emission of breath; an aspirated sound.</span> <span class="wuQuot">"If aspiration be defined to be an impetus of breathing."</span></li><li><span class="term">Aspiration</span> <span class="exp">The act of aspiring of a ardently desiring; strong wish; high desire.</span> <span class="wuQuot">"Aspirations after virtue."</span><span class="wuQuot">"Vague aspiration after military renown."</span></li><li><span class="term">Aspiration</span> <span class="exp">The act of breathing; a breath; an inspiration.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">The act of aspirating or breathing; a breath.</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">An aspirated sound; a phonetic breathing.</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">The act of aspiring or ardently desiring; an ardent wish or desire, chiefly after what is elevated or spiritual.</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">Aid; inspiration; countenance.</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">The act of removing a fluid, as pus or serum, from some cavity of the body, by means of a hollow needle or trocar connected with a suction-syringe.</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">Suction; the act or process of drawing air through (by some method of exhaustion), as opposed to the act or process of forcing it through—that is, to a blast.</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">Synonyms Longing, yearning.</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">The staccato mark (which see, under staccato).</span> </li><li><span class="tSpeech">n</span> <span class="term">aspiration</span> <span class="exp">The drawing forward, in flight, against the direction of motion of a wind-current. See the extract.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Aspiration</span> <span class="exp">pronunciation of a letter with a full breathing: an aspirated sound (like Gr. <span class="itl">ch</span>, <span class="itl">th</span>, &amp;c.): drawing air in</span> </li><li><span class="tSpeech">n</span> <span class="term">Aspiration</span> <span class="exp">eager desire</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Laurens Van du Post</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Laurens Van du Post">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The depth of darkness to which you can descend and still live is an exact measure of the height to which you can aspire to reach.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Browning</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Robert%20Browning.jpg" alt="Robert%20Browning">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What I aspired to be and was not, comforts me.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marcus T. Cicero</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marcus%20T.%20Cicero.jpg" alt="Marcus%20T.%20Cicero">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When you are aspiring to the highest place, it is honorable to reach the second or even the third rank.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joseph Conrad</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Joseph%20Conrad.jpg" alt="Joseph%20Conrad">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Any work that aspires, however humbly, to the condition of art should carry its justification in every line.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Allen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20Allen.jpg" alt="James%20Allen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To desire is to obtain; to aspire is to achieve.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Wolfgang Von Goethe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Wolfgang%20Von%20Goethe.jpg" alt="Johann%20Wolfgang%20Von%20Goethe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“While man's desires and aspirations stir he cannot choose but err.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">aspiratio</span>, fr. <span class="wUets">aspirare</span>,: cf. F. <span class="wUets">aspiration</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.—L. <i>aspirāre</i>, <i>-ātum</i>—<i>ad</i>, to, <i>spirāre</i>, to breathe.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						This single fact sufficiently proves that the Italians had never seized the true idea of Gothic or aspiring architecture.
+					</div>
+					<div class="uAuthor">
+						"Sketches and Studies in Italy and Greece, Vol III." by <span>John Symonds</span>					</div>
+										<div class="usage">
+						This single fact sufficiently proves that the Italians had never seized the true idea of Gothic or aspiring architecture.
+					</div>
+					<div class="uAuthor">
+						"Sketches and Studies in Italy and Greece, Complete" by <span>John Symonds</span>					</div>
+										<div class="usage">
+						Why, that you aspired to nothing?
+					</div>
+					<div class="uAuthor">
+						"The Vicomte de Bragelonne" by <span>Alexandre Dumas</span>					</div>
+										<div class="usage">
+						At another time he may brood over his hopes and aspirations; but he has no hope of solace.
+					</div>
+					<div class="uAuthor">
+						"Japanese Literature" by <span>Various</span>					</div>
+										<div class="usage">
+						They have the same sort of instincts and the same underlying aspiration to get the most and the best out of life.
+					</div>
+					<div class="uAuthor">
+						"Heart and Soul" by <span>Victor Mapes (AKA Maveric Post)</span>					</div>
+										<div class="usage">
+						The aspirator meant life to him now, he suddenly realized.
+					</div>
+					<div class="uAuthor">
+						"Badge of Infamy" by <span>Lester del Rey</span>					</div>
+										<div class="usage">
+						His work appeared the climax toward which music had aspired through centuries, and from which it must of necessity descend again.
+					</div>
+					<div class="uAuthor">
+						"Musical Portraits" by <span>Paul Rosenfeld</span>					</div>
+										<div class="usage">
+						He aspired to be society itself.
+					</div>
+					<div class="uAuthor">
+						"The Young Duke" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						Ambitious in one sense he certainly was, but it was not the mere aspiration for place or power.
+					</div>
+					<div class="uAuthor">
+						"Hidden Treasures" by <span>Harry A. Lewis</span>					</div>
+										<div class="usage">
+						Not that the aspiration in itself is singular, for it is probably shared in by every poet in his turn.
+					</div>
+					<div class="uAuthor">
+						"How to Succeed" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						The two young aspirants tried the organs and clavicembalos, but did not care to accept the post.
+					</div>
+					<div class="uAuthor">
+						"Woman's Work in Music" by <span>Arthur Elson</span>					</div>
+										<div class="usage">
+						Ah, the aspiration, the aspiration, like a hope, like a yearning constant and unfailing with which we take in breath.
+					</div>
+					<div class="uAuthor">
+						"Fantasia of the Unconscious" by <span>D. H. Lawrence</span>					</div>
+										<div class="usage">
+						New devices come into use to keep aspiring and insurgent individuals and groups at the proper social level.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						They had never inquired about each other's aspirations or virtues, in the style of sentimental school-books.
+					</div>
+					<div class="uAuthor">
+						"Beside Still Waters" by <span>Arthur Christopher Benson</span>					</div>
+										<div class="usage">
+						The aspirated form extends to all the cases and numbers.
+					</div>
+					<div class="uAuthor">
+						"Elements of Gaelic Grammar" by <span>Alexander  Stewart</span>					</div>
+										<div class="usage">
+						They have no aspirations to make them restless.
+					</div>
+					<div class="uAuthor">
+						"The English in the West Indies" by <span>James Anthony Froude</span>					</div>
+										<div class="usage">
+						There stood the poor fellow, and it was laughable to think of his daring to aspire to an equality with a Pranken.
+					</div>
+					<div class="uAuthor">
+						"Villa Eden:" by <span>Berthold Auerbach</span>					</div>
+										<div class="usage">
+						These aspirations are alien to the nature of Judaism.
+					</div>
+					<div class="uAuthor">
+						"The Expositor's Bible: The Epistle to the Hebrews" by <span>Thomas Charles Edwards</span>					</div>
+										<div class="usage">
+						Desire flooded her soul with ineffable aspirations.
+					</div>
+					<div class="uAuthor">
+						"Carnival" by <span>Compton Mackenzie</span>					</div>
+										<div class="usage">
+						These aspirations always constituted the mainsprings of Carducci's poetry.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 5, Slice 3" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Regretting much thy falling short,<br>
+Dost after more aspire?<br>
+There's hope in Israel for thy sort,<br>
+Thy Husband's thy desire.
+							<div class="poet">"The Believer's Jointure : Chapter II." by <span>Ralph Erskine</span></div>
+						</div>
+											<div class="poemQuote">
+							Our boyhood's hopes, and boyhood's dreams,<br>
+And aspirations high,<br>
+Will doubtless never be fulfill'd,<br>
+Until the day we die.
+							<div class="poet">"Memories Of Schooldays" by <span>Thomas Frederick Young</span></div>
+						</div>
+											<div class="poemQuote">
+							But O, that nobler life on high,<br>
+To which my hopes aspire!<br>
+Does it not prompt the frequent sigh,<br>
+And wake the warm desire?
+							<div class="poet">"A Thought on Life and Death" by <span>Ann Steele</span></div>
+						</div>
+											<div class="poemQuote">
+							For, having set the town on fire,<br>
+They perish'd in the flame,<br>
+And thus to future praise aspire--<br>
+Now tell the city's name.
+							<div class="poet">"Enigma XXVI." by <span>Elizabeth Hitchener</span></div>
+						</div>
+											<div class="poemQuote">
+							Jesus, thy blessings are not few,<br>
+Nor is thy gospel weak;<br>
+Thy grace can melt the stubborn Jew,<br>
+And bow th' aspiring Greek.
+							<div class="poet">"Hymn 34  part 2" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Right cannot fail, but must prevail,<br>
+If noble be the motive;<br>
+Heaven is nigher if we aspire<br>
+With hearts sincere and votive.
+							<div class="poet">"Duty Done" by <span>Jared Barhite</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Offers aspiring artists chance to perform.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tcpalm.com/news/2012/sep/14/ginny-beagan-stuart-coffee-co-offers-aspiring-to/" target="_blank" rel="external nofollow">tcpalm.com</a>
+					</div>
+										<div class="usage">
+						Comedy Phil Bacharach Here are a few tips for aspiring moviemakers: If you want to mock the clichés of romantic comedy, try not to fall prey to them yourself.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.okgazette.com/oklahoma/tag-0-1-Will%20Gluck.html" target="_blank" rel="external nofollow">okgazette.com</a>
+					</div>
+										<div class="usage">
+						The City of Rawlins was recognized as Wyoming's first "aspiring tourism community".
+					</div>
+					<div class="uAuthor">
+						<a href="http://kingfm.com/famous-grizzly-hazed-back-into-grand-teton-national-park-audio/" target="_blank" rel="external nofollow">kingfm.com</a>
+					</div>
+										<div class="usage">
+						A few months ago, Ellen Stalonas, a 24-year-old Brooklyn native, was just one of New York City's many aspiring young actors, looking for a break and working as a bartender.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1998/05/17/nyregion/new-yorkers-co-a-half-baked-art-business-that-involves-no-crackpots.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Park Slope–based designer Brookelynn Starnes hasn't had the quite the same uphill struggle as most aspiring young designers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/daily/fashion/2009/05/brookelynn_starnes_envies_your.html" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						President Barack Obama suggested that Iran may have some right to nuclear energy - provided it proves by the end of the year that its aspirations are peaceful.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/stories/2009/06/02/politics/main5056426.shtml" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Choosing between music and science as a career is an ongoing debate for young musicians and aspiring scientist/physicians.
+					</div>
+					<div class="uAuthor">
+						<a href="http://rockrivertimes.com/2012/08/22/heartstrings-connections-between-music-and-medicine/" target="_blank" rel="external nofollow">rockrivertimes.com</a>
+					</div>
+										<div class="usage">
+						Playboy's Decline and the Dilemma of Aspiration.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagomag.com/Chicago-Magazine/The-312/December-2011/Playboys-Decline-and-its-Pictures-of-Women/" target="_blank" rel="external nofollow">chicagomag.com</a>
+					</div>
+										<div class="usage">
+						EAST PROVIDENCE — As their roster sizes have rebounded, so, too, have the aspirations of the East Providence High School cross country teams this fall.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eastbayri.com/sports/east-providence-high-cross-country-squads-seek-improved-results/" target="_blank" rel="external nofollow">eastbayri.com</a>
+					</div>
+										<div class="usage">
+						In Depression-era Memphis, aspiring blues singer Toulou and her neighbor, a hoodoo witch known as Candy Lady, cook up a love spell to keep Toulou's man from rambling.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagoreader.com/chicago/hoodoo-love/Event?oid=7482337" target="_blank" rel="external nofollow">chicagoreader.com</a>
+					</div>
+										<div class="usage">
+						After competing at the national level in college, Kris has become a trainer to other aspiring equestrian competitors.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiamissourian.com/m/33682/kris-maloney-gives-horseback-riding-lessons/" target="_blank" rel="external nofollow">columbiamissourian.com</a>
+					</div>
+										<div class="usage">
+						Acer's Aspire S7 is touch-enabled for Windows 8 and sports a unique metallic unibody design, similar to Apple's MacBook Air.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.crn.com/slide-shows/mobility/240007444/intel-inside-12-hot-mobile-devices-from-idf-2012.htm?pgno=4" target="_blank" rel="external nofollow">crn.com</a>
+					</div>
+										<div class="usage">
+						While I have been known to revel in lounging now and again, to hear/see a product with that name marketed as something to aspire owning is a bit much.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.miningjournal.net/page/content.detail/id/571666/Forever-lazy--When-did-we-give-up-on-looking-our-best-.html?nav=5141" target="_blank" rel="external nofollow">miningjournal.net</a>
+					</div>
+										<div class="usage">
+						Although every Kurd aspires for statehood, Syria's Kurds say their goal is rather to become more autonomous.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lubbockonline.com/filed-online/2012-08-20/syria-war-empowers-long-oppressed-kurdish-minority-emerge-winners-crisis" target="_blank" rel="external nofollow">lubbockonline.com</a>
+					</div>
+										<div class="usage">
+						There are many among the nameless, faceless generation who walk in a level of humility and honor that I aspire to.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.charismamag.com/blogs/the-plumb-line/15368-the-making-of-a-prophetic-prima-donna" target="_blank" rel="external nofollow">charismamag.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Any method aspiring to introduce an arbitrary amount of clustering into a network must interpolate between two extremely different topologies. 
+					</div>
+					<div class="uAuthor">
+						Random Networks with Tunable Degree Distribution and Clustering
+					</div>
+										<div class="usage">
+						It is aspiring to offer a uniform treatment of this class of groups through a four-way categorization that uses a suitable notion of Weyl group which ultimately proves to be equivalent to all the proposed notions of Weyl groups for this class. 
+					</div>
+					<div class="uAuthor">
+						A Jordan decomposition for groups of finite Morley rank
+					</div>
+										<div class="usage">
+						Many single-cell measurement techniques e.g. micropipette aspiration , forced or ﬂow induced stretching of an RBC with the help of optical tweezers [5–9], microrheology study using optical magnetic twisting cytometry and high-frequency electrical deformation tests etc. have been used for this purpose. 
+					</div>
+					<div class="uAuthor">
+						Optical tweezer for probing erythrocyte membrane deformability
+					</div>
+										<div class="usage">
+						Cryptography is a wide and varied ﬁeld that attracts lots of young, aspiring scientists, engineers, and mathematicians. 
+					</div>
+					<div class="uAuthor">
+						Learning by Test-infecting Symmetric Ciphers
+					</div>
+										<div class="usage">
+						We, the global community of astronomy, aspire to the following guidelines for managing astronomical data, believing that they would maximise the rate and cost-effectiveness of scientiﬁc discovery. 
+					</div>
+					<div class="uAuthor">
+						Astronomical Data Management
+					</div>
+										<div class="usage">
+						The middle names were Virginio and Jefferson Jackson, reﬂecting parently aspirations that do not seem to have been fulﬁlled. 
+					</div>
+					<div class="uAuthor">
+						Astrophysics in 2006
+					</div>
+										<div class="usage">
+						Markets with large numbers of agents have very large approximate symmetries, expressing the fact that there are many individuals with similar educations, interests or aspirations and many ﬁrms competing to offer similar products and services. 
+					</div>
+					<div class="uAuthor">
+						Time and symmetry in models of economic markets
+					</div>
+										<div class="usage">
+						After all, this aspiration set the scale of the instrument. 
+					</div>
+					<div class="uAuthor">
+						IceCube: Neutrinos Associated with Cosmic Rays
+					</div>
+										<div class="usage">
+						The user has the freedom to choose all, some or one of the offered advertisement classes, as per the individual aspirations. After the subscrip tion is done, the user’s location is constantly updated to the application by using MO-LR. 
+					</div>
+					<div class="uAuthor">
+						Management of Location Based Advertisement Services using Spatial Triggers in Cellular Networks
+					</div>
+										<div class="usage">
+						This is nevertheless inevitable in any circumstance where one’s aspiration is to describe, at least to linear accuracy, situations departing from local thermal equilibrium. 
+					</div>
+					<div class="uAuthor">
+						Heat conduction in relativistic systems: alternatives and perspectives
+					</div>
+										<div class="usage">
+						The program will either aspire to even greater sensitivity or a collection of experiments will be developed to better study the decay. 
+					</div>
+					<div class="uAuthor">
+						Double Beta Decay
+					</div>
+										<div class="usage">
+						The quest for a Unified Theory of Everything (UTE) is well known to be a central goal in natural sciences. In recent years a similar aspiration to find a Unified Theory of Information (UTI) has been observed in computational sciences [1-13]. 
+					</div>
+					<div class="uAuthor">
+						Efficiency Theory: a Unifying Theory for Information, Computation and Intelligence
+					</div>
+										<div class="usage">
+						Depending on whether 0ν ββ is observed or not, a collection of experiments will be developed the better to study the decay or the program will aspire to even greater sensitivity - reaching toward the normal hierarchy mass scale. 
+					</div>
+					<div class="uAuthor">
+						Recent Progress in Double Beta Decay
+					</div>
+										<div class="usage">
+						While identifying the physical cause for this phenomenon remains a distant aspiration (the label “dark energy” encapsulates our helplessness), the prospects for discovering the dark matter particles seem more promising. 
+					</div>
+					<div class="uAuthor">
+						Dark matter and cosmic structure
+					</div>
+										<div class="usage">
+						This aspiration is documented by a “white paper” coauthored by a large number of scientists (theorists, experimenters and phenomenologists) aﬃliated with more than one hundreds international institutions. 
+					</div>
+					<div class="uAuthor">
+						Phenomenology of light sterile neutrinos: a brief review
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the act of inhaling; the drawing in of air (or other gases) as in breathing"><a href="intake.html">intake</a>, <a href="breathing%20in.html">breathing in</a>, </div><div class="synGroup" title="a cherished desire"><a href="dream.html">dream</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ambition.html">ambition</a>, <a href="ambitiousness.html">ambitiousness</a>, <a href="articulation.html">articulation</a>, <a href="breath.html">breath</a>, <a href="desire.html">desire</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="american%20dream.html">american dream</a>, <a href="drag.html">drag</a>, <a href="emulation.html">emulation</a>, <a href="gasp.html">gasp</a>, <a href="nationalism.html">nationalism</a>, <a href="pant.html">pant</a>, <a href="puff.html">puff</a>, <a href="pull.html">pull</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="ambition.html">ambition</a>, <a href="ambitious.html">ambitious</a>, <a href="aspirate.html">aspirate</a>, <a href="aspire.html">aspire</a>, <a href="inhale.html">inhale</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="American%20Dream.html">American Dream</a>, <a href="Anhelation.html">Anhelation</a>, <a href="aspirate.html">aspirate</a>, <a href="aspirator.html">aspirator</a>, <a href="aspire.html">aspire</a>, <a href="Aspirement.html">Aspirement</a>, <a href="breath.html">breath</a>, <a href="breathing.html">breathing</a>, <a href="cycle.html">cycle</a>, <a href="desire.html">desire</a>, <a href="E.html">E</a>, <a href="endotracheal%20tube.html">endotracheal tube</a>, <a href="H.html">H</a>, <a href="He.html">He</a>, <a href="longing.html">longing</a>, <a href="May.html">May</a>, <a href="nationalism.html">nationalism</a>, <a href="pretense.html">pretense</a>, <a href="R.html">R</a>, <a href="rough.html">rough</a>, <a href="smooth.html">smooth</a>, <a href="spirit.html">spirit</a>, <a href="syringe.html">syringe</a>, <a href="W.html">W</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qspiration, wspiration, sspiration, zspiration, aapiration, awpiration, adpiration, axpiration, azpiration, aapiration, asoiration, asliration, aspuration, aspjration, aspkration, asporation, aspieation, aspidation, aspifation, aspitation, aspirqtion, aspirwtion, aspirstion, aspirztion, aspirarion, aspirafion, aspiragion, aspirayion, aspiratuon, aspiratjon, aspiratkon, aspiratoon, aspiratiin, aspiratikn, aspiratiln, aspiratipn, aspiratiob, aspiratioh, aspiratioj, aspiratiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

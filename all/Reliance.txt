@@ -1,0 +1,537 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>reliance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">reliance</span> <span class="exp">certainty based on past experience</span> <span class="quot">"he wrote the paper with considerable reliance on the work of other scientists","he put more trust in his own two legs than in the gun"</span></li><li><span class="tSpeech">n</span> <span class="term">reliance</span> <span class="exp">the state of relying on something</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Reliance</span> <span class="exp">Anything on which to rely; dependence; ground of trust; as, the boat was a poor <span class="wUex">reliance</span>
+            .</span> </li><li><span class="term">Reliance</span> <span class="exp">The act of relying, or the condition or quality of being reliant; dependence; confidence; trust; repose of mind upon what is deemed sufficient support or authority.</span> <span class="wuQuot">"In reliance on promises which proved to be of very little value."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">reliance</span> <span class="exp">The act of relying, or the state or character of being reliant; confident rest for support; confidence; dependence: as, we may have perfect reliance on the promises of God; to have reliance on the testimony of witnesses.</span> </li><li><span class="tSpeech">n</span> <span class="term">reliance</span> <span class="exp">Anything on which to rely; sure dependence: ground of trust.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Reliance</span> <span class="exp">trust: confidence</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Neil</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Neil">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Hardship and opposition are the native soil of manhood and self-reliance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The basis of good manners is self-reliance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The masses have no habit of self reliance or original action.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Perseverance, self-reliance, energetic effort, are doubly strengthened when your rise to battle again.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“This gives force to the strong -- that the multitude have no habit of self-reliance or original action.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Self-reliance is its aversion. It loves not realities and creators, but names and customs.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					From <span class="wUer">Rely</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					<i>Rely</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He carried with him a primitive vessel, filled with some mysterious fluid, upon the virtues of which he had implicit reliance.
+					</div>
+					<div class="uAuthor">
+						"My Native Land" by <span>James Cox</span>					</div>
+										<div class="usage">
+						Either form of reliance is clearly inartistic.
+					</div>
+					<div class="uAuthor">
+						"Play-Making" by <span>William Archer</span>					</div>
+										<div class="usage">
+						The chief reliance should be upon personal recognition or identification of all persons claiming authority to pass.
+					</div>
+					<div class="uAuthor">
+						"Manual for Noncommissioned Officers and Privates of Infantry of the" by <span>War Department</span>					</div>
+										<div class="usage">
+						Astonishing, the reliance on number in this matter of amusement!
+					</div>
+					<div class="uAuthor">
+						"Buried Alive: A Tale of These Days" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						Too much reliance, however, must not be put upon the breaks, as they sometimes give way, and in frosty weather are nearly inoperative.
+					</div>
+					<div class="uAuthor">
+						"A Catechism of the Steam Engine" by <span>John Bourne</span>					</div>
+										<div class="usage">
+						Their reliance under heaven, was their tact in managing the savages, and their own goodly rifles and strong arms.
+					</div>
+					<div class="uAuthor">
+						"The Lost Trail" by <span>Edward S. Ellis</span>					</div>
+										<div class="usage">
+						They never perilled them needlessly, and through a presumptuous reliance on God.
+					</div>
+					<div class="uAuthor">
+						"The Anti-Slavery Examiner, Part 1 of 4" by <span>American Anti-Slavery Society</span>					</div>
+										<div class="usage">
+						As there are but few springs in the island, the sole reliance is upon rain water.
+					</div>
+					<div class="uAuthor">
+						"The Anti-Slavery Examiner, Part 2 of 4" by <span>American Anti-Slavery Society</span>					</div>
+										<div class="usage">
+						They never perilled them needlessly, and through a presumptuous reliance on God.
+					</div>
+					<div class="uAuthor">
+						"The Anti-Slavery Examiner, Omnibus" by <span>American Anti-Slavery Society</span>					</div>
+										<div class="usage">
+						She was older than any of the party, and it was in reliance on her discretion that the visit had been permitted.
+					</div>
+					<div class="uAuthor">
+						"Emilie the Peacemaker" by <span>Mrs. Thomas Geldart</span>					</div>
+										<div class="usage">
+						The exact quantity of reliance that can be placed upon them, I must leave to my reader's judgment.
+					</div>
+					<div class="uAuthor">
+						"Lands of the Slave and the Free" by <span>Henry A. Murray</span>					</div>
+										<div class="usage">
+						Have you, Madam, any reliance upon my honour?
+					</div>
+					<div class="uAuthor">
+						"Clarissa, Volume 6 (of 9)" by <span>Samuel Richardson</span>					</div>
+										<div class="usage">
+						These show a deep reliance on the sustaining Spirit.
+					</div>
+					<div class="uAuthor">
+						"Summer on the Lakes, in 1843" by <span>S.M. Fuller</span>					</div>
+										<div class="usage">
+						Two or three smaller crafts were in company, each under the direction of some one on whom reliance could be placed.
+					</div>
+					<div class="uAuthor">
+						"The Crater" by <span>James Fenimore Cooper</span>					</div>
+										<div class="usage">
+						Great reliance is placed upon that important element in treatment, the rousing of a hopeful feeling in the mind of the patient.
+					</div>
+					<div class="uAuthor">
+						"Scientific American Supplement, No. 799, April 25, 1891" by <span>Various</span>					</div>
+										<div class="usage">
+						Reliance on God is the Dove to our Ark, And Peace is the olive she plucks in the dark.
+					</div>
+					<div class="uAuthor">
+						"The Illustrated London Reading Book" by <span>Various</span>					</div>
+										<div class="usage">
+						All the rest spoke and said that the king must not place any reliance upon my words.
+					</div>
+					<div class="uAuthor">
+						"A Popular History of France From The Earliest Times Volume IV. of VI." by <span>Francois Pierre Guillaume Guizot</span>					</div>
+										<div class="usage">
+						I want now to find an equine reliance whose motto is "Nulla vestigia retrorsum," or "No steps backward.
+					</div>
+					<div class="uAuthor">
+						"Adopting An Abandoned Farm" by <span>Kate Sanborn</span>					</div>
+										<div class="usage">
+						Some particulars, however, may be gathered of it on which we may place reliance.
+					</div>
+					<div class="uAuthor">
+						"The Seven Great Monarchies Of The Ancient Eastern World, Vol 6. (of 7): Parthia" by <span>George Rawlinson</span>					</div>
+										<div class="usage">
+						It is an effort to get boys to appreciate the things about them and to train them in self-reliance, manhood, and good citizenship.
+					</div>
+					<div class="uAuthor">
+						"Outdoor Sports and Games" by <span>Claude H. Miller</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Then manfully resist, with<br>
+A firm reliance;<br>
+Trusting to Providence, meet<br>
+It with defiance.<br>
+
+							<div class="poet">"The Crisis" by <span>Benjamin Cutler Clark</span></div>
+						</div>
+											<div class="poemQuote">
+							And through the will's reliance<br>
+He only sees aright<br>
+A frightened child's defiance<br>
+Left lonely in the night.<br>
+
+							<div class="poet">"The Seer Of Hearts" by <span>Theodosia Garrison</span></div>
+						</div>
+											<div class="poemQuote">
+							—"In vain,"—Childe Launcelot cried in scorn,—<br>
+—"On them is your reliance;"—<br>
+Sir Hornbook wound his bugle horn,<br>
+And twange'd a loud defiance.
+							<div class="poet">"Sir Hornbook" by <span>Thomas Love Peacock</span></div>
+						</div>
+											<div class="poemQuote">
+							And here let the moral be duly made known,<br>
+And hereafter signed and attested:<br>
+We should place more reliance on that which is shown<br>
+And less upon what is suggested.
+							<div class="poet">"A Little Mistake" by <span>Henry Lawson</span></div>
+						</div>
+											<div class="poemQuote">
+							Hail, sacred Ark of ever sure reliance,<br>
+Ne'er known to meet perdition on a shoal;<br>
+Thou, buoyant, bid'st life's dashing sea defiance,<br>
+And turn'st aside its mountains as they roll!
+							<div class="poet">"Ark Of Faith" by <span>Thomas Odiorne</span></div>
+						</div>
+											<div class="poemQuote">
+							So he spake in his large self-reliance,—he, a man open-browed<br>
+as the skies;<br>
+Would not measure his soul by a standard that was womanish-weak<br>
+to his eyes,<br>
+Smite his breast and go on with his sinning,—savage Raedwald,<br>
+the simple yet wise!
+							<div class="poet">"King Raedwald" by <span>Helen Gray Cone</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In the 36-page report, she defines " racial profiling" as the "inappropriate reliance on race" as a factor in police decisions to stop or search a person.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/portland/index.ssf/2009/02/_portland_police_chief_rosie.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						In the 36-page report, she defines " racial profiling " as the "inappropriate reliance on race" as a factor in police decisions to stop or search a person.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/portland/index.ssf/2009/02/_portland_police_chief_rosie.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						What can we do specifically to reduce our nation's reliance on fossil fuels.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.resmagonline.com/green-integration/0029/reducing-home-energy/83298" target="_blank" rel="external nofollow">resmagonline.com</a>
+					</div>
+										<div class="usage">
+						Reliance Industries is planning a giant cracker complex based largely, if not entirely, on off-gases from its Jamnagar refineries .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.icis.com/blogs/asian-chemical-connections/2010/05/asia-resurgent-on-refinery-int.html" target="_blank" rel="external nofollow">icis.com</a>
+					</div>
+										<div class="usage">
+						 Reliance , SD Radio Stations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wlfnradiomart.com/SD/Reliance/radio-stations.aspx" target="_blank" rel="external nofollow">wlfnradiomart.com</a>
+					</div>
+										<div class="usage">
+						Syndicate content RSS - self- reliance .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.acacamps.org/category/free-tags/self-reliance" target="_blank" rel="external nofollow">acacamps.org</a>
+					</div>
+										<div class="usage">
+						Filed in The Reliance Network.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.logisticsmgmt.com/topic/tag/The_Reliance_Network" target="_blank" rel="external nofollow">logisticsmgmt.com</a>
+					</div>
+										<div class="usage">
+						India's Reliance MediaWorks Reports Quarterly Loss.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/news/reliance-mediaworks-quarter-loss-361656" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						News End-User News Reliance Industries Mulls Merger with Reliance Petroleum.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.valvemagazine.com/index.php/news/end-user-news/976-reliance-industries-mulls-merger-with-reliance-petroleum" target="_blank" rel="external nofollow">valvemagazine.com</a>
+					</div>
+										<div class="usage">
+						Recent news and coverage of Reliance Industries.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/tags/reliance-industries/" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						India's Reliance Industries issued a statement Monday dispelling talk it plans to acquire San Antonio-based Valero Energy Corp.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.mysanantonio.com/clockingin/2011/10/reliance-not-to-bid-on-valero-energy/" target="_blank" rel="external nofollow">blog.mysanantonio.com</a>
+					</div>
+										<div class="usage">
+						 Reliance Worldwide has added two regional sales managers to support the continued growth of its SharkBite and Cash Acme plumbing product brands.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.homechannelnews.com/topics/Reliance%20Worldwide" target="_blank" rel="external nofollow">homechannelnews.com</a>
+					</div>
+										<div class="usage">
+						 Reliance on Oil From Saudi Arabia Is Growing Again.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/08/17/business/energy-environment/us-reliance-on-saudi-oil-is-growing-again.html?pagewanted=all" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Natural-gas Reliance Sparks Concern in Northeast.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.governing.com/news/state/Natural-gas-Reliance-Sparks-Concern-in-Northeast.html" target="_blank" rel="external nofollow">governing.com</a>
+					</div>
+										<div class="usage">
+						One of the shibboleths tossed about by some Republicans is that we need to get back to self- reliance .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.midweek.com/the-self-reliance-lie-waikiki-gem/" target="_blank" rel="external nofollow">midweek.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Recently attention has focused on the size of S 2 , see for example [26, 10, 20, 27, 28], because of the possibility of extracting New Physics from hard processes, accompanied by gaps, in an almost background-free environment and, from a theoretical viewpoint, because of its reliance on subtle QCD techniques. 
+					</div>
+					<div class="uAuthor">
+						Summary Talk: First Workshop on Forward Physics and Luminosity Determination at the LHC
+					</div>
+										<div class="usage">
+						We present a description of fundamentally neutral particles without any reliance on Dirac spinors. 
+					</div>
+					<div class="uAuthor">
+						Extended set of Majorana spinors, a new dispersion relation, and a preferred frame
+					</div>
+										<div class="usage">
+						The existing description of Ma jorana particles has a pivotal reliance on Dirac spinors – a circumstance I, and many other scholars who concern themselves with such questions, consider unsatisfactory. 
+					</div>
+					<div class="uAuthor">
+						Extended set of Majorana spinors, a new dispersion relation, and a preferred frame
+					</div>
+										<div class="usage">
+						The improved experimental accuracy also permits the exploration of new methods, in which the reliance on non-perturbative calculations is greatly reduced, such as in the spectral-moments determination of |Vcb |. 
+					</div>
+					<div class="uAuthor">
+						CKM matrix elements from tree-level decays and b-hadron lifetimes
+					</div>
+										<div class="usage">
+						This conclusion had been reached without any reliance on path integrals and on physical applications in Ref.. 
+					</div>
+					<div class="uAuthor">
+						From Ginzburg-Landau to Hilbert-Einstein via Yamabe
+					</div>
+										<div class="usage">
+						The decay measurements, which are based on purely kinematical observables, have essentially no reliance on theoretical assumptions about neutrino properties and hence offer a completely model independent probe of absolute neutrino mass. 
+					</div>
+					<div class="uAuthor">
+						Neutrinoless double beta decay and direct searches for neutrino mass
+					</div>
+										<div class="usage">
+						Fairly quickly, however, we came to understand that eccentric giant planets could be found close in, and we had been biased by our previous reliance on only the Solar System. 
+					</div>
+					<div class="uAuthor">
+						Planetesimals To Brown Dwarfs: What is a Planet?
+					</div>
+										<div class="usage">
+						That is, FDP C (H) is a matrix function of H, given by the right hand side of (5) (for brevity of notation, we neglect the reliance of FDP C (·) on ΣX and ΣZ ). 
+					</div>
+					<div class="uAuthor">
+						On the Fading Paper Achievable Region of the Fading MIMO Broadcast Channel
+					</div>
+										<div class="usage">
+						This is in contrast to what might be expected if the trend toward both greater spectral resolution and greater sensitivity were to occur, which might lead to more extensive application of discrete diagnostics and a reduced reliance on global modeling. 
+					</div>
+					<div class="uAuthor">
+						Atomic Data for X-ray Astrophysics
+					</div>
+										<div class="usage">
+						The main obvious diﬃculty of original BLG formulation was its reliance upon sophisticated 3-algebra (quantum Nambu bracket) structure – new for the fundamental physical considerations. 
+					</div>
+					<div class="uAuthor">
+						From Simplified BLG Action to the First-Quantized M-Theory
+					</div>
+										<div class="usage">
+						To completely avoid reliance on Theorem 2.5 we need to show that the depth of a limit group is controlled by its rank. 
+					</div>
+					<div class="uAuthor">
+						Krull dimension for limit groups II: aligning JSJ decompositions
+					</div>
+										<div class="usage">
+						Thus reliance on the correctness of the theoretical prediction of the cross-section in η and PT is relatively large. 
+					</div>
+					<div class="uAuthor">
+						Collider Physics at HERA
+					</div>
+										<div class="usage">
+						The methods for measuring beam sizes and emittances are also limited, with greater reliance on beam-gas ionization monitors and Schottky spectra than for protons. 
+					</div>
+					<div class="uAuthor">
+						The LHC as a Nucleus-Nucleus Collider
+					</div>
+										<div class="usage">
+						However, the possibility of systematic effects which become more important for high-Z nuclei have led Marciano59 to place most reliance in the 14O value, with the error reﬂecting systematic as well as statistical uncertainty: |Vud | = 0.9748 ± 0.0010. 
+					</div>
+					<div class="uAuthor">
+						Present and Future Aspects of CP Violation
+					</div>
+										<div class="usage">
+						Future effort in this ﬁeld at LEP 1 will probably include studies of differences in the identiﬁed particle rates in gluon and quark jets, differences in particle correlation phenomena and attempts to reduce the reliance of the analysis method on the jet deﬁnition (as the ALEPH study discussed above attempts to do). 
+					</div>
+					<div class="uAuthor">
+						QCD Event Generators
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="certainty based on past experience"><a href="trust.html">trust</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="certainty.html">certainty</a>, <a href="dependance.html">dependance</a>, <a href="dependence.html">dependence</a>, <a href="dependency.html">dependency</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="reliant.html">reliant</a>, <a href="rely.html">rely</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="affiance.html">affiance</a>, <a href="armament.html">armament</a>, <a href="assurance.html">assurance</a>, <a href="belief.html">belief</a>, <a href="confidence.html">confidence</a>, <a href="confidentially.html">confidentially</a>, <a href="credence.html">credence</a>, <a href="credit.html">credit</a>, <a href="demoralising.html">demoralising</a>, <a href="demoralizing.html">demoralizing</a>, <a href="dependable.html">dependable</a>, <a href="dependence.html">dependence</a>, <a href="dependency.html">dependency</a>, <a href="diffidence.html">diffidence</a>, <a href="disheartening.html">disheartening</a>, <a href="dispiriting.html">dispiriting</a>, <a href="distrust.html">distrust</a>, <a href="empiricism.html">empiricism</a>, <a href="faith.html">faith</a>, <a href="fiducial.html">fiducial</a>, <a href="fiduciary%20relation.html">fiduciary relation</a>, <a href="Hope.html">Hope</a>, <a href="independence.html">independence</a>, <a href="individualism.html">individualism</a>, <a href="legal.html">legal</a>, <a href="legality.html">legality</a>, <a href="militarism.html">militarism</a>, <a href="mysticism.html">mysticism</a>, <a href="on.html">on</a>, <a href="On%20the%20strength%20of.html">On the strength of</a>, <a href="overconfidence.html">overconfidence</a>, <a href="reliable.html">reliable</a>, <a href="reliant.html">reliant</a>, <a href="Reposance.html">Reposance</a>, <a href="reposeful.html">reposeful</a>, <a href="rugged%20individualism.html">rugged individualism</a>, <a href="self-confidence.html">self-confidence</a>, <a href="Self-dependence.html">Self-dependence</a>, <a href="self-reliance.html">self-reliance</a>, <a href="Self-righteousness.html">Self-righteousness</a>, <a href="Self-trust.html">Self-trust</a>, <a href="skyscraper.html">skyscraper</a>, <a href="spear.html">spear</a>, <a href="strength.html">strength</a>, <a href="tack.html">tack</a>, <a href="The%20main%20chance.html">The main chance</a>, <a href="trust.html">trust</a>, <a href="tuberculosis.html">tuberculosis</a>, <a href="Unbottomed.html">Unbottomed</a>, <a href="undependable.html">undependable</a>, <a href="unreliable.html">unreliable</a>, <a href="Upon%20the%20strength%20of.html">Upon the strength of</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					eeliance, deliance, feliance, teliance, rwliance, rsliance, rdliance, rrliance, rekiance, reoiance, repiance, reluance, reljance, relkance, reloance, reliqnce, reliwnce, relisnce, reliznce, reliabce, reliahce, reliajce, reliamce, relianxe, reliande, relianfe, relianve, reliancw, reliancs, reliancd, reliancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

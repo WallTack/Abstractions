@@ -1,0 +1,526 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>infinity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">infinity</span> <span class="exp">time without end</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Infinity</span> <span class="exp"><span class="wuFld">(Math)</span> A quantity greater than any assignable quantity of the same kind.</span> </li><li><span class="term">Infinity</span> <span class="exp">Endless or indefinite number; great multitude; as an <span class="wUex">infinity</span> of beauties.</span> </li><li><span class="term">Infinity</span> <span class="exp"><span class="wuFld">(Geom)</span> That part of a line, or of a plane, or of space, which is infinitely distant. In modern geometry, parallel lines or planes are sometimes treated as lines or planes meeting at infinity.</span> </li><li><span class="term">Infinity</span> <span class="exp">Unlimited capacity, energy, excellence, or knowledge; as, the <span class="wUex">infinity</span> of God and his perfections.</span> </li><li><span class="term">Infinity</span> <span class="exp">Unlimited extent of time, space, or quantity; eternity; boundlessness; immensity.</span> <span class="wuQuot">"There can not be more infinities than one; for one of them would limit the other."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">infinity</span> <span class="exp">The condition of being infinite or the greatest possible; immeasurableness; innumerability; perfection: as, the infinity of God; infinity of duration.</span> </li><li><span class="tSpeech">n</span> <span class="term">infinity</span> <span class="exp">Unlimited extension; figuratively, exhaustless quantity or number: as, inconceivable infinity; an infinity of details.</span> </li><li><span class="tSpeech">n</span> <span class="term">infinity</span> <span class="exp">In geometry, the part of space at an infinite distance from the part chiefly considered. Owing to the mechanical properties of the straight line, the most important mode of geometrical transformation is that which transforms every straight line into a straight line, its position only being changed. But this transforms the part of space at infinity into a plane, just as in a perspective view of an unbounded plane the infinitely distant parts are compressed into a line. Hence, mathematicians generally speak of the plane at infinity, or the line at infinity in a plane. In analytical geometry the plane at infinity is best considered as two coincident planes, fastened together at an imaginary nodal circle, and constituting a degenerate sphere, called the sphere at infinity. (See absolute, n., 2.) In the theory of functions, the most important mode of transformation of the plane is one which preserves the magnitudes of all angles, and this transforms the infinitely distant parts of the plane into a point; hence, in that branch of mathematics, the point at infinity is spoken of.</span> </li><li><span class="tSpeech">n</span> <span class="term">infinity</span> <span class="exp">An infinite number: as, an infinity of straight lines. Its symbol is ∞.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Infinity</span> <span class="exp">boundlessness: immensity: countless or indefinite number</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Taylor Coleridge</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Taylor%20Coleridge.jpg" alt="Samuel%20Taylor%20Coleridge">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The principle of the Gothic architecture is infinity made imaginable.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Blake</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Blake.jpg" alt="William%20Blake">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To see the world in a grain of sand, and to see heaven in a wild flower, hold infinity in the palm of your hand, and eternity in an hour.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alfred Jarry</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Alfred Jarry">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“God is the tangential point between zero and infinity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jacques Maritain</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jacques Maritain">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A single idea, if it is right, saves us the labor of an infinity of experiences.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joseph Brodsky</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Joseph%20Brodsky.jpg" alt="Joseph%20Brodsky">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The poetic notion of infinity is far greater than that which is sponsored by any creed.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edgar Quinet</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edgar%20Quinet.jpg" alt="Edgar%20Quinet">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I mistrust the satisfaction which makes a display of the possession of Infinity; that is called fatuity in philosophic terms.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">infinitas</span>,; pref. <span class="wUets">in-</span>, not + <span class="wUets">finis</span>, boundary, limit, end: cf. F. <span class="wUets">infinité</span>,. See <span class="wUer">Finite</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The lower courses then stretch seemingly into infinity to right and left, while the summit soars up out of our sight into the sky.
+					</div>
+					<div class="uAuthor">
+						"History Of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 2 (of 12)" by <span>G. Maspero</span>					</div>
+										<div class="usage">
+						To quarrel now, indeed, requires an infinity of patience.
+					</div>
+					<div class="uAuthor">
+						"Certain Personal Matters" by <span>H. G. Wells</span>					</div>
+										<div class="usage">
+						The idea of infinity is for us in idea without model, without prototype, without object.
+					</div>
+					<div class="uAuthor">
+						"Superstition In All Ages (1732)" by <span>Jean Meslier</span>					</div>
+										<div class="usage">
+						You are the infinity of the unmitigated, the supreme of the superfluous.
+					</div>
+					<div class="uAuthor">
+						"Olympian Nights" by <span>John Kendrick Bangs</span>					</div>
+										<div class="usage">
+						Arnold took it delicately in his own thin fingers to examine it; an infinity of contrast rested in the touch.
+					</div>
+					<div class="uAuthor">
+						"Hilda" by <span>Sarah Jeanette Duncan</span>					</div>
+										<div class="usage">
+						This impassioned taste for infinity and pious sentiment continued their influences over her after her return to her father's house.
+					</div>
+					<div class="uAuthor">
+						"History of the Girondists, Volume I" by <span>Alphonse de Lamartine</span>					</div>
+										<div class="usage">
+						Usually with the infin.
+					</div>
+					<div class="uAuthor">
+						"Latin for Beginners" by <span>Benjamin Leonard D'Ooge</span>					</div>
+										<div class="usage">
+						For who doubts that geometry, for instance, has an infinite infinity of problems to solve?
+					</div>
+					<div class="uAuthor">
+						"Pascal's Pensées" by <span>Blaise Pascal</span>					</div>
+										<div class="usage">
+						Infinity, a source of the sublime, i.
+					</div>
+					<div class="uAuthor">
+						"The Works of the Right Honourable Edmund Burke, Vol. XII. (of XII.)" by <span>Edmund Burke</span>					</div>
+										<div class="usage">
+						To be floating in that infinity of blue water would be better than this.
+					</div>
+					<div class="uAuthor">
+						"Old Kaskaskia" by <span>Mary Hartwell Catherwood</span>					</div>
+										<div class="usage">
+						Out of the corner of my eye I saw Lezard fold his arms and sit frowning at infinity.
+					</div>
+					<div class="uAuthor">
+						"Police!!!" by <span>Robert W. Chambers</span>					</div>
+										<div class="usage">
+						And first would come the vastness of the sea, which prompts vague intuitions of mystery and infinity.
+					</div>
+					<div class="uAuthor">
+						"Nature Mysticism" by <span>J. Edward Mercer</span>					</div>
+										<div class="usage">
+						There are also precious stones, pearls, and an infinity of spices.
+					</div>
+					<div class="uAuthor">
+						"The Northmen, Columbus and Cabot, 985-1503" by <span>Various</span>					</div>
+										<div class="usage">
+						That an infinity of paper will not produce an infinity of food.
+					</div>
+					<div class="uAuthor">
+						"The Life of George Washington, Vol. 5 (of 5)" by <span>John Marshall</span>					</div>
+										<div class="usage">
+						Infinity, absolute infinity, is impracticable in any German metre.
+					</div>
+					<div class="uAuthor">
+						"The Uncollected Writings of Thomas de Quincey--Vol. 1" by <span>Thomas de Quincey</span>					</div>
+										<div class="usage">
+						I saw then that his eyes, although they looked straight at her, were focused beyond her for infinity.
+					</div>
+					<div class="uAuthor">
+						"Caves of Terror" by <span>Talbot Mundy</span>					</div>
+										<div class="usage">
+						Great circling patches of mist rose up from below and added a sense of infinity to its depths.
+					</div>
+					<div class="uAuthor">
+						"The Triumph of John Kars" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						Because of all this, this all, which hath an infinity in it, the Lord God hath made with us a sure covenant.
+					</div>
+					<div class="uAuthor">
+						"The Covenants And The Covenanters" by <span>Various</span>					</div>
+										<div class="usage">
+						And as it is with extension, so it is with mind, which is also infinite with the infinity of its object.
+					</div>
+					<div class="uAuthor">
+						"Short Studies on Great Subjects" by <span>James Anthony Froude</span>					</div>
+										<div class="usage">
+						All three stared into the plate, seeing only an infinity of emptiness, marked only by the infinitely remote and coldly brilliant stars.
+					</div>
+					<div class="uAuthor">
+						"Triplanetary" by <span>Edward Elmer Smith</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Then only in the empty spaces,<br>
+Death, walking very silently,<br>
+Shall fear the glory of our faces<br>
+Through all the dark infinity.
+							<div class="poet">"The Call" by <span>Rupert Brooke</span></div>
+						</div>
+											<div class="poemQuote">
+							O Space and Time and stars at strife,<br>
+How dreadful your infinity!<br>
+Shrined by your termless trinity,<br>
+How strange, how terrible, is life!
+							<div class="poet">"The Testimony of the Suns" by <span>George Sterling</span></div>
+						</div>
+											<div class="poemQuote">
+							Among the sons of an accursed century<br>
+I took my place at the irreverent table,<br>
+Where still was heard, under all the revel,<br>
+The moan of a helpless thirst for infinity.
+							<div class="poet">"The Convert" by <span>Antero Tarquinio de Quental</span></div>
+						</div>
+											<div class="poemQuote">
+							From point to point, over there, the distant lights,<br>
+And in the sky, above, dreadful voices<br>
+Coming and going from the infinity of the marshes and planes<br>
+To the infinity of the valleys and the woods.
+							<div class="poet">"Infinitely" by <span>Emile Verhaeren</span></div>
+						</div>
+											<div class="poemQuote">
+							I learned not to fear infinity,<br>
+The far field, the windy cliffs of forever,<br>
+The dying of time in the white light of tomorrow,<br>
+The wheel turning away from itself,<br>
+The sprawl of the wave,<br>
+The on-coming water.
+							<div class="poet">"The Far Field" by <span>Theodore Roethke</span></div>
+						</div>
+											<div class="poemQuote">
+							Shining in dim transparence, the whole of infinity lies<br>
+Behind the veils that the finger of radiant winter weaves;<br>
+And down on us falls the foliage of star in glittering sheaves,<br>
+From out the depths of the forest, the forest obscure of the skies.
+							<div class="poet">"The Glory Of The Heavens" by <span>Emile Verhaeren</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						From Mayapple Salon and Boutique's own Roxie Hunt, here is an Infinity Braid tutorial featuring Brooke Boatright.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.freeweekly.com/2012/10/04/infinity-braid-made-easy/" target="_blank" rel="external nofollow">freeweekly.com</a>
+					</div>
+										<div class="usage">
+						Affiliates of US Joiner ("US Joiner") announced today the acquisition of Infinity Offshore Marine, LLC (" Infinity ").
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marinelink.com/news/acquisition-announces348187.aspx" target="_blank" rel="external nofollow">marinelink.com</a>
+					</div>
+										<div class="usage">
+						Years late, but it's still worth taking a look at the landmark iOS game ' Infinity Blade.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/erikkain/2012/09/28/late-to-the-party-thoughts-on-infinity-blade/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Avolites Media's Groundbreaking Sapphire Media Infinity Wins Coveted Innovation Award at PLASA 2012.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.livedesignonline.com/briefingroom/2012/09/21/avolites-medias-groundbreaking-sapphire-media-infinity-wins-coveted-innovation-award-at-plasa-2012/" target="_blank" rel="external nofollow">blog.livedesignonline.com</a>
+					</div>
+										<div class="usage">
+						The Avolites Media Sapphire Media Infinity video control system has been awarded the prestigious PLASA Award for Innovation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.livedesignonline.com/briefingroom/2012/09/21/avolites-medias-groundbreaking-sapphire-media-infinity-wins-coveted-innovation-award-at-plasa-2012/" target="_blank" rel="external nofollow">blog.livedesignonline.com</a>
+					</div>
+										<div class="usage">
+						View to Infinity ,' at Neue Galerie.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/09/21/arts/design/ferdinand-hodler-view-to-infinity-at-neue-galerie.html?_r=0" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Ferdinand Hodler, "View to Infinity ".
+					</div>
+					<div class="uAuthor">
+						<a href="http://timeoutny.com/newyork/art/ferdinand-hodler-view-to-infinity" target="_blank" rel="external nofollow">timeoutny.com</a>
+					</div>
+										<div class="usage">
+						Much like 2010's Omni, Minus The Bear's latest release, Infinity Overhead, should come with a warning label.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cmj.com/reviews/minus-the-bear-infinity-overhead/" target="_blank" rel="external nofollow">cmj.com</a>
+					</div>
+										<div class="usage">
+						For young readers who are also gamers, 'The Infinity Ring' series from Scholastic offers a chance to interact with history through a role-playing video game.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/news/la-ca-kids-middle-grade-infinity-ring-feature-20120826,0,192809.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Scholastic's ' Infinity Ring' a multimedia ride through history.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/news/la-ca-kids-middle-grade-infinity-ring-feature-20120826,0,192809.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						To say a thousand and one nights is to add one to infinity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metropulse.com/news/2012/aug/22/ewing-gallerys-confabulatores-nocturni-considers-n/" target="_blank" rel="external nofollow">metropulse.com</a>
+					</div>
+										<div class="usage">
+						Getloaded, an Internet-based logistics freight matching site, is now integrating its software with McLeod Software and Infinity Software Solutions, two large transportation technology players.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.americanshipper.com/Main/News/Getloaded_integrates_with_McLeod_Infinity_50853.aspx?taxonomy=TMS" target="_blank" rel="external nofollow">americanshipper.com</a>
+					</div>
+										<div class="usage">
+						I'm Nick Eliopulos, editor of the new series Infinity Ring which launches on August 28th.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.scholastic.com/ink_splot_26/2012/08/infinity-ring-sneak-peek.html" target="_blank" rel="external nofollow">blog.scholastic.com</a>
+					</div>
+										<div class="usage">
+						 Infinity Ring is a fun, action-packed time-travel adventure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.scholastic.com/ink_splot_26/2012/08/infinity-ring-sneak-peek.html" target="_blank" rel="external nofollow">blog.scholastic.com</a>
+					</div>
+										<div class="usage">
+						Kptm.com Thor Purchases Bus Assets Of Krystal Infinity , LLC.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kptm.com/story/19738838/thor-purchases-bus-assets-of-krystal-infinity-llc" target="_blank" rel="external nofollow">kptm.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						To make it more convincing now let us assume that the velocity v is very high, say is near to infinity, so that even if the real rest mass of the particle is very high its relative mass at v will be small. 
+					</div>
+					<div class="uAuthor">
+						On a heuristic point regarding the origin of tachyons and a revamped definition for them
+					</div>
+										<div class="usage">
+						The velocity = v/c is the velocity the particle would have “at infinity” as measured by the (stationary) observer at infinity. 
+					</div>
+					<div class="uAuthor">
+						Hamilton's equations of motion from the SU(1,1)/U(1) symmetry of Schwarzschild radial dynamics
+					</div>
+										<div class="usage">
+						Note dτ/dε approaches infinity as E approaches 1 and ε approaches 0, the point corresponding to the stationary observer at infinity. 
+					</div>
+					<div class="uAuthor">
+						Hamilton's equations of motion from the SU(1,1)/U(1) symmetry of Schwarzschild radial dynamics
+					</div>
+										<div class="usage">
+						This is consistent with a particle starting at rest at infinity. 
+					</div>
+					<div class="uAuthor">
+						Hamilton's equations of motion from the SU(1,1)/U(1) symmetry of Schwarzschild radial dynamics
+					</div>
+										<div class="usage">
+						By (2.18), the solution of this equation is to be subject to the condition that us(xs) → 1 as the magnitude of all differences rj – rk tends to infinity, that is, as Us(xs) → 0. 
+					</div>
+					<div class="uAuthor">
+						A new view on superfluidity
+					</div>
+										<div class="usage">
+						It has Planck limits. Not only energy but also space seems quantized at Plank limits, and loop quantum gravity theory uses discrete space to avoid mathematical infinities (Smolin, 2001). 
+					</div>
+					<div class="uAuthor">
+						The emergence of the physical world from information processing
+					</div>
+										<div class="usage">
+						Its energy does not reach infinity, despite the infinite number of passes, because of a defocusing of the light . 
+					</div>
+					<div class="uAuthor">
+						The Universal Arrow of Time III-IV:(Part III) Nonquantum gravitation theory (Part IV) Quantum gravitation theory
+					</div>
+										<div class="usage">
+						We now see what happens when l, m, n go to infinity ble with it (see ). This result plus the elusiveness Fix l, m and let n » l. 
+					</div>
+					<div class="uAuthor">
+						Instrumentality Tests Revisited
+					</div>
+										<div class="usage">
+						Therefore, the simple form of spherical wave ASF in Eq. (8) is not valid in this case since the first integral in Eq. (6) cannot be extended to infinity. 
+					</div>
+					<div class="uAuthor">
+						Atomic Scattering Factor for a Spherical Wave and the Near Field Effects in X-ray Fluorescence Holography
+					</div>
+										<div class="usage">
+						But a boundary condition is a boundary condition, even if the boundary is at infinity. 
+					</div>
+					<div class="uAuthor">
+						Cosmology from the Top Down
+					</div>
+										<div class="usage">
+						Another deep concern with the unitary representation of the Poincaré group framework is the appearance of the infinities. 
+					</div>
+					<div class="uAuthor">
+						Canonically relativistic quantum mechanics: Casimir field equations of the quaplectic group
+					</div>
+										<div class="usage">
+						There is a considerable body of literature associated with theories with a maximal acceleration, as for example described in the references of . One of the goals is to address the infinities encountered in the quantum theories. One of the most notable of these is as it seeks to provide a deep geometric foundation. 
+					</div>
+					<div class="uAuthor">
+						Canonically relativistic quantum mechanics: Casimir field equations of the quaplectic group
+					</div>
+										<div class="usage">
+						G(t) grows quadratically with time, never reaching a pole: it is dynamically suppressing its own infinities. 
+					</div>
+					<div class="uAuthor">
+						A Scenario for Strong Gravity without Extra Dimensions
+					</div>
+										<div class="usage">
+						It results in the infinity of the losses of the energy used for radiation of the internal waves and for the wave resistance. 
+					</div>
+					<div class="uAuthor">
+						General problems of the internal gravity waves linear theory
+					</div>
+										<div class="usage">
+						The peculiarities of the exchange of information via light signals, between the observers mentioned above, are generated by the fact that after a very long time of motion theirs velocities tend to infinity without reaching it. 
+					</div>
+					<div class="uAuthor">
+						The system of uniformly accelerating observers
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="time.html">time</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="alpha%20and%20omega.html">alpha and omega</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absolute.html">absolute</a>, <a href="ad%20infinitum.html">ad infinitum</a>, <a href="Anaximander.html">Anaximander</a>, <a href="Anharmonic.html">Anharmonic</a>, <a href="asymptote.html">asymptote</a>, <a href="branch.html">branch</a>, <a href="center.html">center</a>, <a href="chaos.html">chaos</a>, <a href="Circle%20at%20infinity.html">Circle at infinity</a>, <a href="Circular%20cubics.html">Circular cubics</a>, <a href="Cissoid.html">Cissoid</a>, <a href="Conchoid.html">Conchoid</a>, <a href="depth.html">depth</a>, <a href="direction.html">direction</a>, <a href="diverge.html">diverge</a>, <a href="ellipse.html">ellipse</a>, <a href="evaporation.html">evaporation</a>, <a href="exterior.html">exterior</a>, <a href="figurative.html">figurative</a>, <a href="formality.html">formality</a>, <a href="humanism.html">humanism</a>, <a href="hyperbolic.html">hyperbolic</a>, <a href="hyperboloid.html">hyperboloid</a>, <a href="hyperfocal%20distance.html">hyperfocal distance</a>, <a href="immensity.html">immensity</a>, <a href="inconceivable.html">inconceivable</a>, <a href="Infinitary.html">Infinitary</a>, <a href="infinite.html">infinite</a>, <a href="infiniteness.html">infiniteness</a>, <a href="infinitive.html">infinitive</a>, <a href="infinitude.html">infinitude</a>, <a href="Interminate%20decimal.html">Interminate decimal</a>, <a href="involution.html">involution</a>, <a href="Lemniscate.html">Lemniscate</a>, <a href="limit.html">limit</a>, <a href="limit%20point.html">limit point</a>, <a href="parabola.html">parabola</a>, <a href="parabolic.html">parabolic</a>, <a href="Paraboliform.html">Paraboliform</a>, <a href="parallel.html">parallel</a>, <a href="perspective.html">perspective</a>, <a href="point%20of%20accumulation.html">point of accumulation</a>, <a href="projection.html">projection</a>, <a href="proper.html">proper</a>, <a href="representative.html">representative</a>, <a href="Sectant.html">Sectant</a>, <a href="Semi-infinite.html">Semi-infinite</a>, <a href="surface.html">surface</a>, <a href="tangent.html">tangent</a>, <a href="trident.html">trident</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					unfinity, jnfinity, knfinity, onfinity, ibfinity, ihfinity, ijfinity, imfinity, indinity, inrinity, inginity, invinity, incinity, infunity, infjnity, infknity, infonity, infibity, infihity, infijity, infimity, infinuty, infinjty, infinkty, infinoty, infiniry, infinify, infinigy, infiniyy, infinitt, infinitg, infinith, infinitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

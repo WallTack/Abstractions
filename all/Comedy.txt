@@ -1,0 +1,499 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>comedy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/74/50/12874.jpg" alt="Light Comedy Man of the Period">
+							<div class="caption">Light Comedy Man of the Period</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">comedy</span> <span class="exp">a comic incident or series of incidents</span> </li><li><span class="tSpeech">n</span> <span class="term">comedy</span> <span class="exp">light and humorous drama with a happy ending</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										There are songs in all of Shakespeare's plays except The Comedy of Errors.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Comedy</span> <span class="exp">A dramatic composition, or representation of a bright and amusing character, based upon the foibles of individuals, the manners of society, or the ludicrous events or accidents of life; a play in which mirth predominates and the termination of the plot is happy; -- opposed to <span class="wUcontr">tragedy</span>.</span> <span class="wuQuot">"With all the vivacity of comedy ."</span><span class="wuQuot">"Are come to play a pleasant comedy ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In 1992, Sarah Ophelia Colley Cannon, better known to country music fans as singer/comedienne Minnie Pearl, was awarded a National Medal of Arts by President George Bush. In 1994, Minnie became the first woman to be inducted into the Comedy Hall of Fame. She was too frail and sick to attend the ceremony, and so good friend and comedian George Lindsey ("Goober") accepted the award for her. She died in 1996 at age 83.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">comedy</span> <span class="exp">That branch of the drama which addresses itself primarily to the sense of the humorous or the ridiculous: opposed to tragedy, which appeals to the more serious and profound emotions. See drama and tragedy.</span> </li><li><span class="tSpeech">n</span> <span class="term">comedy</span> <span class="exp">In a restricted sense, a form of the drama which is humorous without being broadly or grossly comical: distinguished from farce.</span> </li><li><span class="tSpeech">n</span> <span class="term">comedy</span> <span class="exp">A dramatic composition written in the style of comedy; a comic play or drama.</span> </li><li><span class="tSpeech">n</span> <span class="term">comedy</span> <span class="exp">Hence A humorous or comic incident or series of incidents in real life.</span> </li><li><span class="tSpeech">n</span> <span class="term">comedy</span> <span class="exp">A narrative poem: applied to the Divina Commedia (‘Divine Comedy’) of Dante. See Dante and Divina Commedia in the Cyclopedia of Names.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Before he became famous for his TV comedy work, the late Phil Hartman worked as a talented and respected graphic designer. In fact, he was the designer of the logo for Crosby, Stills, Nash, and Young.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Comedy</span> <span class="exp"><span class="itl">kom′e-di</span> a dramatic piece of a pleasant or humorous character, originally accompanied with dancing and singing</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mark Twain</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mark%20Twain.jpg" alt="Mark%20Twain">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There was never yet an uninteresting life. Such a thing is an impossibility. Inside of the dullest exterior there is a drama, a comedy, and a tragedy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Angela Carter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Angela%20Carter.jpg" alt="Angela%20Carter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Comedy is tragedy that happens to other people.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charlie Chaplin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charlie%20Chaplin.jpg" alt="Charlie%20Chaplin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“All I need to make a comedy is a park, a policeman and a pretty girl.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marty Feldman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marty Feldman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Comedy, like sodomy, is an unnatural act.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Christopher Fry</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Christopher Fry">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Comedy is an escape, not from truth but from despair; a narrow escape into faith.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Warren Mitchell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Warren Mitchell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Comedy comes from conflict, from hatred.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">comédie</span>, L. <span class="wUets">comoedia</span>, fr. Gr. ;  a jovial festivity with music and dancing, a festal procession, an ode sung at this procession (perh. akin to  village, E. <span class="wUets">home</span>,) +  to sing; for comedy was originally of a lyric character. See <span class="wUer">Home</span>, and <span class="wUer">Ode</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L.,—Gr. <i>kōmōdia</i>, <i>kōmos</i>, revel, <i>ōdē</i>, song.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						We now find him irresistibly impelled to try his hand at comedy, and he accordingly wrote the six which are published with his other works.
+					</div>
+					<div class="uAuthor">
+						"The International Monthly, Volume 3, No. 2, May, 1851" by <span>Various</span>					</div>
+										<div class="usage">
+						Busoni's "Comedy Overture" in C major given by the Boston Symphony Orchestra.
+					</div>
+					<div class="uAuthor">
+						"Annals of Music in America" by <span>Henry Charles Lahee</span>					</div>
+										<div class="usage">
+						INTERMEZZO (Zwischenspiel); a comedy in three acts; 1904 (1905).
+					</div>
+					<div class="uAuthor">
+						"The Lonely Way--Intermezzo--Countess Mizzie" by <span>Arthur Schnitzler</span>					</div>
+										<div class="usage">
+						More comedy than romance, he thought, Taterleg on one side of the fence, that girl on the other.
+					</div>
+					<div class="uAuthor">
+						"The Duke Of Chimney Butte" by <span>G. W. Ogden</span>					</div>
+										<div class="usage">
+						He reminded me of the handsome young lieutenant in a musical comedy.
+					</div>
+					<div class="uAuthor">
+						"Kid Scanlan" by <span>H. C. Witwer</span>					</div>
+										<div class="usage">
+						Do you mind if I put it in my comedy.
+					</div>
+					<div class="uAuthor">
+						"Changing Winds" by <span>St. John G. Ervine</span>					</div>
+										<div class="usage">
+						Comedy of intrigue and comedy of character lead to no real catastrophe.
+					</div>
+					<div class="uAuthor">
+						"The American Mind" by <span>Bliss Perry</span>					</div>
+										<div class="usage">
+						Blank verse, then, is the predominating musical form of Shakspeare's comedies, histories, and tragedies.
+					</div>
+					<div class="uAuthor">
+						"Blackwood's Edinburgh Magazine - Volume 57, No. 352, February 1845" by <span>Various</span>					</div>
+										<div class="usage">
+						The old Greeks had comedies, and our professors still study them.
+					</div>
+					<div class="uAuthor">
+						"Walter Pieterse" by <span>Multatuli</span>					</div>
+										<div class="usage">
+						The old Latin tragedies and comedies were revived and were produced in the original and in translation at schools and colleges.
+					</div>
+					<div class="uAuthor">
+						"An Introduction to Shakespeare" by <span>H. N. MacCracken</span>					</div>
+										<div class="usage">
+						It is a modern rogues' comedy.
+					</div>
+					<div class="uAuthor">
+						"Ivory Apes and Peacocks" by <span>James Huneker</span>					</div>
+										<div class="usage">
+						The action of the comedy does not lag or limp from the opening scene to Valere's last words.
+					</div>
+					<div class="uAuthor">
+						"The Atlantic Monthly, Volume 15, No. 92, June, 1865" by <span>Various</span>					</div>
+										<div class="usage">
+						They plotted comedies and even fantastical ballets from their subjects.
+					</div>
+					<div class="uAuthor">
+						"Curiosities of Literature, Vol. 3 (of 3)" by <span>Isaac Disraeli</span>					</div>
+										<div class="usage">
+						The progress of manners and knowledge has an influence on the stage, and will in time perhaps destroy both tragedy and comedy.
+					</div>
+					<div class="uAuthor">
+						"Hazlitt on English Literature" by <span>Jacob Zeitlin</span>					</div>
+										<div class="usage">
+						Up to that point, the young actress played with the true spirit of comedy.
+					</div>
+					<div class="uAuthor">
+						"Francezka" by <span>Molly Elliot Seawell</span>					</div>
+										<div class="usage">
+						We played comedies there, and comic operas.
+					</div>
+					<div class="uAuthor">
+						"The Memoirs of Madame Vigée Lebrun" by <span>Marie Louise Elisabeth Vigée-Lebrun</span>					</div>
+										<div class="usage">
+						The comedies of Goldoni were the fashion.
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine of Popular Literature and Science, Volume 20, September, 1877." by <span>Various</span>					</div>
+										<div class="usage">
+						Billy, with all his air of breeding and general adaptability, looked like comedy in comparison.
+					</div>
+					<div class="uAuthor">
+						"Rose MacLeod" by <span>Alice Brown</span>					</div>
+										<div class="usage">
+						But we must remember that we are reading comedy.
+					</div>
+					<div class="uAuthor">
+						"Greek Women" by <span>Mitchell Carroll</span>					</div>
+										<div class="usage">
+						That is the comedy of life.
+					</div>
+					<div class="uAuthor">
+						"Miscellaneous Aphorisms; The Soul of Man" by <span>Oscar Wilde</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							I note the obvious differences<br>
+in the human family.<br>
+Some of us are serious,<br>
+some thrive on comedy.
+							<div class="poet">"Human Family" by <span>Maya Angelou</span></div>
+						</div>
+											<div class="poemQuote">
+							Nature, by God directed, formed in space<br>
+The universal comedy we see;<br>
+Wherein each star, each man, each entity,<br>
+Each living creature, hath its part and place:
+							<div class="poet">"Sonnet XIV." by <span>Tommaso Campanella</span></div>
+						</div>
+											<div class="poemQuote">
+							The DAME was silent; for the Lover<br>
+Would, when she spoke,<br>
+She fear'd, discover<br>
+Her envious joke:<br>
+And she was too much charm'd to be<br>
+In haste,—to end the Comedy!
+							<div class="poet">"The Granny Grey, a Love Tale" by <span>Mary Darby Robinson</span></div>
+						</div>
+											<div class="poemQuote">
+							And when the play is over, it shall be<br>
+That God will judge with justice and with grace.--<br>
+Aping this art divine, the human race<br>
+Plans for itself on earth a comedy:
+							<div class="poet">"Sonnet XIV." by <span>Tommaso Campanella</span></div>
+						</div>
+											<div class="poemQuote">
+							AT length their ardour 'gan, it seems, to cool,<br>
+And Harry, they no longer tried to fool;<br>
+'Twas time to seek the myst'ry of the plot,<br>
+Since, to three acts, the comedy was got.
+							<div class="poet">"The Three Gossips' Wager" by <span>Jean de La Fontaine</span></div>
+						</div>
+											<div class="poemQuote">
+							My poetry’s well is a winemaker’s vat.<br>
+As if into golden must I pour my soul into poison.<br>
+Rimbaud’s twin, I love the comedy of dangerous passions.<br>
+My forefathers were Chavchavadze, Teimuraz.
+							<div class="poet">"Self-Portrait" by <span>Giorgi Leonidze</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In association with Comedy Bang Bang Prods.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.variety.com/review/VE1117947717?refCatId=32" target="_blank" rel="external nofollow">variety.com</a>
+					</div>
+										<div class="usage">
+						IF YOU THINK TINA FEY and Judd Apatow — amusing as they are — represent the cutting edge of comedy, it may be time for a refresher in the work of Norman Lear.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hemispheresmagazine.com/2009/06/01/bunker-mentality/" target="_blank" rel="external nofollow">hemispheresmagazine.com</a>
+					</div>
+										<div class="usage">
+						The fast paced comedy / farce will have you laughing as scantily dressed nuns, would-be Burglars , sexy lovers and a clumsy photographer dash from room to room.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/hunterdon-county-democrat/index.ssf/2012/11/off-broadstreet_in_hopewell_pr.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						'Zach Stone': Duo Cast in MTV's Bo Burnham Comedy Pilot (Exclusive).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/live-feed/zach-stone-duo-cast-mtvs-196609" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						About 15 students at Westminster College in Fulton protested last night outside a comedy performance by 18-year-old YouTube sensation Bo Burnham .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiatribune.com/news/2009/mar/04/in-your-face-comedy/" target="_blank" rel="external nofollow">columbiatribune.com</a>
+					</div>
+										<div class="usage">
+						Candy brands have embraced absurdist comedy in recent years, rolling out "oddvertising" that leaves the youth target in stitches.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.adweek.com/video/advertising-branding/funniest-commercials-starburst-bus-station-132705" target="_blank" rel="external nofollow">adweek.com</a>
+					</div>
+										<div class="usage">
+						His influence on physical comedy is rivaled only by Charlie Chaplin.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wnet/americanmasters/episodes/buster-keaton/about-buster-keaton/644/" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Sanaa Lathan reprises her New York City role of a maid-turned-movie star in By the Way , Meet Vera Stark starting Sept 18 as the Lynn Nottage's comedy makes its West Coast premiere at Geffen Playhouse in Los Angeles.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.playbill.com/multimedia/gallery/4412" target="_blank" rel="external nofollow">playbill.com</a>
+					</div>
+										<div class="usage">
+						 Calais Campbell as comedy writer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/nfcwest/post/_/id/37890/podcast-calais-campbell-as-comedy-writer" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						IMPROV COMEDY TROUPE NEED ACTORS.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.themorningcall.com/entertainment/arts/theater/mc-callboard-1104-20121103,0,4534572.story" target="_blank" rel="external nofollow">themorningcall.com</a>
+					</div>
+										<div class="usage">
+						"Incorruptible": Pentacle Theatre in Salem holds auditions Oct 27 for men and women, ages 20-70, for roles in the dark comedy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/performance/index.ssf/2012/10/call_board_for_october_8-14_up.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						Simsbury Cantor Starring In Jewish Comedy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.courant.com/community/simsbury/hc-simsbury-cantor-performance-20121002,0,5646528.story" target="_blank" rel="external nofollow">courant.com</a>
+					</div>
+										<div class="usage">
+						The cast takes a break from filming to pose with the Knope We Can Mobile Billboard as Team Leslie looks to close the gap with Paul Rudd's clueless but likable Bobby Newport on the NBC comedy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/live-feed/parks-and-recreation-team-knope-283747" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						The Cleveland Comedy Festival is going to get a little younger this year, or at least part of it will, with a Class Clown Graduation Show Nov 18 at the 14th Street Theatre in Playhouse Square.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cleveland.com/sun/all/index.ssf/2012/09/cleveland_comedy_festival_seek_1.html" target="_blank" rel="external nofollow">cleveland.com</a>
+					</div>
+										<div class="usage">
+						These are sketches of the comedy kind.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cleveland.com/sun/all/index.ssf/2012/06/show_will_go_in_the_gutter_for.html" target="_blank" rel="external nofollow">cleveland.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						RTAI is the real-time Linux that has the best integration with other open source tools scilab/scicos and Comedi. 
+					</div>
+					<div class="uAuthor">
+						Building XenoBuntu Linux Distribution for Teaching and Prototyping Real-Time Operating Systems
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a comic incident or series of incidents"><a href="funniness.html">funniness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="tragedy.html">tragedy</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="drama.html">drama</a>, <a href="fun.html">fun</a>, <a href="play.html">play</a>, <a href="sport.html">sport</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="black%20comedy.html">black comedy</a>, <a href="commedia%20dell%27arte.html">commedia dell'arte</a>, <a href="dark%20comedy.html">dark comedy</a>, <a href="farce.html">farce</a>, <a href="farce%20comedy.html">farce comedy</a>, <a href="high%20comedy.html">high comedy</a>, <a href="low%20comedy.html">low comedy</a>, <a href="melodrama.html">melodrama</a>, <a href="seriocomedy.html">seriocomedy</a>, <a href="sitcom.html">sitcom</a>, <a href="situation%20comedy.html">situation comedy</a>, <a href="slapstick.html">slapstick</a>, <a href="tragicomedy.html">tragicomedy</a>, <a href="travesty.html">travesty</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="comic.html">comic</a>, <a href="comical.html">comical</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adaptation.html">adaptation</a>, <a href="Bacchus.html">Bacchus</a>, <a href="Beatrice.html">Beatrice</a>, <a href="black%20comedy.html">black comedy</a>, <a href="Break-up.html">Break-up</a>, <a href="breakup.html">breakup</a>, <a href="buskin.html">buskin</a>, <a href="Caesar.html">Caesar</a>, <a href="Canticum.html">Canticum</a>, <a href="catastrophe.html">catastrophe</a>, <a href="comedian.html">comedian</a>, <a href="comedienne.html">comedienne</a>, <a href="Comedietta.html">Comedietta</a>, <a href="comedy%20ballet.html">comedy ballet</a>, <a href="comic.html">comic</a>, <a href="comical.html">comical</a>, <a href="comically.html">comically</a>, <a href="commedia%20dell%27arte.html">commedia dell'arte</a>, <a href="Commonty.html">Commonty</a>, <a href="Dante.html">Dante</a>, <a href="Dante%20Alighieri.html">Dante Alighieri</a>, <a href="dark%20comedy.html">dark comedy</a>, <a href="Dionysia.html">Dionysia</a>, <a href="discovery.html">discovery</a>, <a href="drama.html">drama</a>, <a href="farce.html">farce</a>, <a href="farce%20comedy.html">farce comedy</a>, <a href="genteel.html">genteel</a>, <a href="Gracioso.html">Gracioso</a>, <a href="harlequin.html">harlequin</a>, <a href="Harold%20Clayton%20Lloyd.html">Harold Clayton Lloyd</a>, <a href="Harold%20Lloyd.html">Harold Lloyd</a>, <a href="heller.html">heller</a>, <a href="high%20comedy.html">high comedy</a>, <a href="intermezzo.html">intermezzo</a>, <a href="Joseph%20Heller.html">Joseph Heller</a>, <a href="knockabout.html">knockabout</a>, <a href="language.html">language</a>, <a href="Laurel%20and%20Hardy.html">Laurel and Hardy</a>, <a href="light.html">light</a>, <a href="Lloyd.html">Lloyd</a>, <a href="low%20comedy.html">low comedy</a>, <a href="ludicrous.html">ludicrous</a>, <a href="lyric.html">lyric</a>, <a href="melodrama.html">melodrama</a>, <a href="merriment.html">merriment</a>, <a href="miles%20gloriosus.html">miles gloriosus</a>, <a href="Muse.html">Muse</a>, <a href="ode.html">ode</a>, <a href="Pantaloon.html">Pantaloon</a>, <a href="Parabasis.html">Parabasis</a>, <a href="patter.html">patter</a>, <a href="play.html">play</a>, <a href="pry.html">pry</a>, <a href="Punchinello.html">Punchinello</a>, <a href="Scapinade.html">Scapinade</a>, <a href="Scaramouch.html">Scaramouch</a>, <a href="seriocomedy.html">seriocomedy</a>, <a href="Sid%20Caesar.html">Sid Caesar</a>, <a href="Sidney%20Caesar.html">Sidney Caesar</a>, <a href="Simon-pure.html">Simon-pure</a>, <a href="slapstick.html">slapstick</a>, <a href="sock.html">sock</a>, <a href="soubrette.html">soubrette</a>, <a href="Stasimon.html">Stasimon</a>, <a href="Tartuffe.html">Tartuffe</a>, <a href="Thalia.html">Thalia</a>, <a href="Thalian.html">Thalian</a>, <a href="Tragi-comedy.html">Tragi-comedy</a>, <a href="Tragi-comi-pastoral.html">Tragi-comi-pastoral</a>, <a href="Tragi-comic.html">Tragi-comic</a>, <a href="Tragi-comical.html">Tragi-comical</a>, <a href="tragicomedy.html">tragicomedy</a>, <a href="travesty.html">travesty</a>, <a href="vaudeville.html">vaudeville</a>, <a href="words.html">words</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xomedy, domedy, fomedy, vomedy, cimedy, ckmedy, clmedy, cpmedy, conedy, cojedy, cokedy, comwdy, comsdy, comddy, comrdy, comesy, comeey, comefy, comecy, comexy, comesy, comedt, comedg, comedh, comedu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

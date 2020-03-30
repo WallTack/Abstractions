@@ -1,0 +1,535 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>uneasiness</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">uneasiness</span> <span class="exp">inability to rest or relax or be still</span> </li><li><span class="tSpeech">n</span> <span class="term">uneasiness</span> <span class="exp">the trait of seeming ill at ease</span> </li><li><span class="tSpeech">n</span> <span class="term">uneasiness</span> <span class="exp">embarrassment deriving from the feeling that others are critically aware of you</span> </li><li><span class="tSpeech">n</span> <span class="term">uneasiness</span> <span class="exp">feelings of anxiety that make you tense and irritable</span> </li><li><span class="tSpeech">n</span> <span class="term">uneasiness</span> <span class="exp">physical discomfort (as mild sickness or depression)</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Uneasiness</span> <span class="exp">The quality of making uneasy; discomfort; as, the <span class="wUex">uneasiness</span> of the road.</span> </li><li><span class="term">Uneasiness</span> <span class="exp">The quality or state of being uneasy; restlessness; disquietude; anxiety.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">uneasiness</span> <span class="exp">The state of being uneasy; want of ease or comfort, physical or mental.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Uneasiness</span> <span class="exp">state of being uneasy or not at ease: want of ease: disquiet</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every man who attacks my belief, diminishes in some degree my confidence in it, and therefore makes me uneasy; and I am angry with him who makes me uneasy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Germaine Greer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Germaine%20Greer.jpg" alt="Germaine%20Greer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The sight of women talking together has always made men uneasy; nowadays it means rank subversion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Eliot.jpg" alt="George%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is a sort of jealousy which needs very little fire; it is hardly a passion, but a blight bred in the cloudy, damp despondency of uneasy egoism.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Victor Serge</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Victor Serge">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I followed his argument with the blank uneasiness which one might feel in the presence of a logical lunatic.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean De La Bruyere</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20De%20La%20Bruyere.jpg" alt="Jean%20De%20La%20Bruyere">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We can recognize the dawn and the decline of love by the uneasiness we feel when alone together.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Uneasy lies the head that wears a crown.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Uneasy lies the head that wears the crown</span> - This means that people with serious responsibilities have a heavy burden.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+												<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Yet I confess I looked up at the gaunt walls and chimneys with uneasiness.
+					</div>
+					<div class="uAuthor">
+						"Kilgorman" by <span>Talbot Baines Reed</span>					</div>
+										<div class="usage">
+						But on Jack Smith's account I felt very sorry, and not a little uneasy, for they had never "hit" it, and from what I could judge never would.
+					</div>
+					<div class="uAuthor">
+						"My Friend Smith" by <span>Talbot Baines Reed</span>					</div>
+										<div class="usage">
+						But she missed him, and an uneasiness grew in her mind.
+					</div>
+					<div class="uAuthor">
+						"A Voice in the Wilderness" by <span>Grace Livingston Hill</span>					</div>
+										<div class="usage">
+						He was very far from realising the imperfections of his equipment for the grand entry; but still he was not without uneasiness.
+					</div>
+					<div class="uAuthor">
+						"Clayhanger" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						For the moment his visit made them uneasy, but their anxiety was soon dispelled.
+					</div>
+					<div class="uAuthor">
+						"The works of Guy de Maupassant, Vol. 5 (of 8)" by <span>Guy de Maupassant 1850-1893</span>					</div>
+										<div class="usage">
+						I looked for life or death from the hand of God, without testifying the least uneasiness.
+					</div>
+					<div class="uAuthor">
+						"The Autobiography of Madame Guyon" by <span>Jeanne Marie Bouvier de La Motte Guyon</span>					</div>
+										<div class="usage">
+						An opportunity offered itself when all the uneasiness felt by this integral portion of the population of France might have been removed.
+					</div>
+					<div class="uAuthor">
+						"Memoirs of the Private Life, Return, and Reign of Napoleon in 1815, Vol. I" by <span>Pierre Antoine Edouard Fleury de Chaboulon</span>					</div>
+										<div class="usage">
+						The Morells had not been uneasy about her.
+					</div>
+					<div class="uAuthor">
+						"The International Magazine, Volume 2, No. 2, January, 1851" by <span>Various</span>					</div>
+										<div class="usage">
+						He is beginning to grow uneasy at the delay, and shape conjectures as to the cause.
+					</div>
+					<div class="uAuthor">
+						"The Death Shot" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						He turned often between the blankets of his hard bed, disturbed by uneasy dreams quite unlike the deep oblivion of his usual sleep.
+					</div>
+					<div class="uAuthor">
+						"The Fighting Shepherdess" by <span>Caroline Lockhart</span>					</div>
+										<div class="usage">
+						I stood there irresolute and uneasy like a baffled thief.
+					</div>
+					<div class="uAuthor">
+						"Chance" by <span>Joseph Conrad</span>					</div>
+										<div class="usage">
+						All this I saw without any uneasiness.
+					</div>
+					<div class="uAuthor">
+						"Ran Away to Sea" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Anna sent for Krak; in the interval before the governess's arrival I grew uneasy.
+					</div>
+					<div class="uAuthor">
+						"The King's Mirror" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						He looked thrilled by his victory but uneasy about his prize.
+					</div>
+					<div class="uAuthor">
+						"The Pirates of Ersatz" by <span>Murray Leinster</span>					</div>
+										<div class="usage">
+						Marjorie was uneasy; she thought Miss Leigh was unkind not to allow her to wait for Alan.
+					</div>
+					<div class="uAuthor">
+						"Chatterbox, 1906" by <span>Various</span>					</div>
+										<div class="usage">
+						All was well with the rest, except that Joseph was uneasy, and wished to become an officer too.
+					</div>
+					<div class="uAuthor">
+						"The Life of Napoleon Bonaparte" by <span>William Milligan Sloane</span>					</div>
+										<div class="usage">
+						This made him so uneasy that he found it necessary to change his seat.
+					</div>
+					<div class="uAuthor">
+						"The Goose Man" by <span>Jacob Wassermann</span>					</div>
+										<div class="usage">
+						His presence, as always, made White Bear uneasy.
+					</div>
+					<div class="uAuthor">
+						"Shaman" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						The air o' that place got uneasy.
+					</div>
+					<div class="uAuthor">
+						"The Night Riders" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						Without knowing exactly why, he felt somewhat uneasy beneath her gaze.
+					</div>
+					<div class="uAuthor">
+						"The Greater Power" by <span>Harold Bindloss</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							I stood in the gathering twilight,<br>
+In a gently blowing wind;<br>
+Then the house looked half uneasy,<br>
+Like one that was left behind.
+							<div class="poet">"The Old Garden" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							Restless and hot two children lay<br>
+Plagued with uneasy dreams,<br>
+Each wandered lonely through false day<br>
+A twilight torn with screams.
+							<div class="poet">"Thunder At Night" by <span>Robert Graves</span></div>
+						</div>
+											<div class="poemQuote">
+							Aw wor fooilish to send 'em away,<br>
+But they'll ha to do th' best at they can;<br>
+But aw'st feel reight uneasy all th' day,--<br>
+Wimmen's net fit to goa baght a man.
+							<div class="poet">"A Quiet Day" by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							There was an Old Man of the West,<br>
+Who wore a pale plum-coloured vest;<br>
+When they said, 'Does it fit?'<br>
+He replied, 'Not a bit!'<br>
+That uneasy Old Man of the West.
+							<div class="poet">"Limerick: There was an Old Man of the West" by <span>Edward Lear</span></div>
+						</div>
+											<div class="poemQuote">
+							Long in her womb th' uneasy load she bore,<br>
+And with her blood nine months sustain'd thee there,<br>
+Then calm'd thy hunger with her breasts sweet store;<br>
+Canst thou enough reward her for such care?
+							<div class="poet">"The Duty Of Children To Their Parents" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							I have scarcely left you When you go in me, crystalline,<br>
+Or trembling,<br>
+Or uneasy, wounded by me<br>
+Or overwhelmed with love, as<br>
+when your eyes Close upon the gift of life<br>
+That without cease I give you.
+							<div class="poet">"Absence" by <span>Pablo Neruda</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						EMC, IBM Extend Their Uneasy Storage Arrangement .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eweek.com/c/a/Data-Storage/EMC-IBM-Extend-Their-Uneasy-Storage-Arrangement-184976/" target="_blank" rel="external nofollow">eweek.com</a>
+					</div>
+										<div class="usage">
+						Ellen Douglas, 91, a Mississippi-born writer whose novels explored the uneasy, sometimes surprisingly tender alliances between black and white women in the American South, died Nov 7 at her home in Jackson, Miss.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/obituaries/179042511.html" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						State legislators took up the fight last week, introducing a bill that critics say would upset the uneasy balance between development and nature.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newsobserver.com/2011/02/27/1017086/debate-rises-on-saving-ncs-eroding.html" target="_blank" rel="external nofollow">newsobserver.com</a>
+					</div>
+										<div class="usage">
+						One is the uneasy thought of someone applying an ultraviolet laser to your eyeball.
+					</div>
+					<div class="uAuthor">
+						<a href="http://money.cnn.com/magazines/moneymag/moneymag_archive/2000/02/01/272489/index.htm" target="_blank" rel="external nofollow">money.cnn.com</a>
+					</div>
+										<div class="usage">
+						So why am I feeling uneasy about the new Dodgers way.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailynews.com/ci_22173589/vincent-bonsignore-dodgers-spending-binge-just-doesnt-feel?source=most_emailed" target="_blank" rel="external nofollow">dailynews.com</a>
+					</div>
+										<div class="usage">
+						And that gives me an uneasy feeling .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailynews.com/ci_22173589/vincent-bonsignore-dodgers-spending-binge-just-doesnt-feel?source=most_emailed" target="_blank" rel="external nofollow">dailynews.com</a>
+					</div>
+										<div class="usage">
+						One week after the bloodbath, an uneasy feeling hangs on Cairo.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatches/globalpost-blogs/tahrir-square/the-night-maspero-turned-war-zone-firsthand-account" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						But Hurricane Sandy's path is uncertain, and that makes some residents uneasy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wwaytv3.com/2012/10/25/wrightsville-beach-takes-sandy-threat-stride" target="_blank" rel="external nofollow">wwaytv3.com</a>
+					</div>
+										<div class="usage">
+						There's something about this political campaign season that has left us uneasy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sagharboronline.com/sagharborexpress/express-editiorials/shaken-not-stirred-101812-20269" target="_blank" rel="external nofollow">sagharboronline.com</a>
+					</div>
+										<div class="usage">
+						Since the increased security and airport restrictions that came about after the 9/11 terrorist attacks in 2001, air passengers can understandably at times be a bit uneasy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://973thedawg.com/jet-blue-pilot-is-subdued-by-passengers-after-mental-breakdown/" target="_blank" rel="external nofollow">973thedawg.com</a>
+					</div>
+										<div class="usage">
+						The uneasy truce between Southampton Town Supervisor Anna Throne-Holst and Alex Gregor, the town's Highway Superintendent, is over.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.indyeastend.com/Articles-News-i-2012-10-03-104263.113117-Supervisor-Gregor-Bickering-Again.html" target="_blank" rel="external nofollow">indyeastend.com</a>
+					</div>
+										<div class="usage">
+						As employees navigate this short-term, fast-paced, tension-filled terrain, they develop an attitude that creates an uneasy environment: survival mode.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/glennllopis/2011/12/19/5-signs-that-employees-are-in-survival-mode/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						He counsels people to put aside the personal uneasiness of the moment and focus on needs and feelings of the loved one who is near the end of life.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kcet.org/shows/yourturntocare/heal/how-to-talk-about-dying.html" target="_blank" rel="external nofollow">kcet.org</a>
+					</div>
+										<div class="usage">
+						The relationship between art and architecture is a complex and at times an uneasy one.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wicn.org/podcasts/audio/dina-deitsch-temporary-structures" target="_blank" rel="external nofollow">wicn.org</a>
+					</div>
+										<div class="usage">
+						I'm feeling a little uneasy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/inside-jersey/index.ssf/cover_stories/the_sex_lives_of_jersey_swingers.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						One might feel uneasy about the second of these points because the procedure of coarse-graining is not the result of the equations of motion, and therefore it is somehow voluntary. 
+					</div>
+					<div class="uAuthor">
+						Geometry of irreversibility: The film of nonequilibrium states
+					</div>
+										<div class="usage">
+						For Lehmann ’s algorithm, since it extends from Pal la ’s work, the required user input value k , the lower and upper limit value of the community size, often put a signiﬁcant impact on the discovered communities, and are uneasy to be determined before the algorithm can run. 
+					</div>
+					<div class="uAuthor">
+						Overlapping Community Detection in Bipartite Networks
+					</div>
+										<div class="usage">
+						Detec ting a malicious machine is uneasy, particularly that a machine could potentially be compromised after a connection is established. 
+					</div>
+					<div class="uAuthor">
+						Efficient Defence against Misbehaving TCP Receiver DoS Attacks
+					</div>
+										<div class="usage">
+						However, the arbitrariness of κ may make us somewhat uneasy. 
+					</div>
+					<div class="uAuthor">
+						Set theory for category theory
+					</div>
+										<div class="usage">
+						The reader who feels uneasy about this may always add other conformal ﬁeld theories, such as for example free bosons or minimal models, to make up for the missing anomaly. 
+					</div>
+					<div class="uAuthor">
+						Duality of string amplitudes in a curved background
+					</div>
+										<div class="usage">
+						However, one cannot be completely unjustiﬁed in feeling rather uneasy about the wide agreement on values whose inherent uncertainty should suggest one to expect a large spread in measured values. 
+					</div>
+					<div class="uAuthor">
+						Report to Anaximander: A Dialogue on the Origin of the Cosmos in the Cradle of Western Civilization
+					</div>
+										<div class="usage">
+						This uneasy problem has found in the conference two developments. 
+					</div>
+					<div class="uAuthor">
+						The Diffractive Interactions Working Group Summary
+					</div>
+										<div class="usage">
+						Instead, I plan to post my future work in the ArXiv, and this raises another issue. I am uneasy about recent changes in ArXiv policies which make it more diﬃcult to place papers there. 
+					</div>
+					<div class="uAuthor">
+						Comment on Phys. Rev. D 60 084017 "Classical self-force" by F. Rohrlich
+					</div>
+										<div class="usage">
+						Even though I use JavaTM in my lab sessions, the use of C# does not seem to cost lots of uneasiness among the students . 
+					</div>
+					<div class="uAuthor">
+						Learning by Test-infecting Symmetric Ciphers
+					</div>
+										<div class="usage">
+						Much of the criticism against LQG of which some can be found in has to do with the fact that physicists equipped with a particle physics background feel uneasy when one explains to them that in LQG we cannot use perturbation theory, Fock spaces, background metrics etc. 
+					</div>
+					<div class="uAuthor">
+						Loop Quantum Gravity: An Inside View
+					</div>
+										<div class="usage">
+						The reader who is uneasy with orbifolds may take a regular Sasakian manifold in what follows. 
+					</div>
+					<div class="uAuthor">
+						New Results in Sasaki-Einstein Geometry
+					</div>
+										<div class="usage">
+						Neal Koblitz, The uneasy relationship between mathematics and cryptography, Notices Amer. 
+					</div>
+					<div class="uAuthor">
+						Group theory in cryptography
+					</div>
+										<div class="usage">
+						That removes the contradiction, but leaves one a little uneasy that although there seems no obvious way that the mathematics of quantum mechanics could facilitate superluminal communication, nevertheless some clever person might someday ﬁnd a way to do it. 
+					</div>
+					<div class="uAuthor">
+						What do quantum "weak" measurements actually measure?
+					</div>
+										<div class="usage">
+						However, they also leave a certain degree of uneasiness towards the obviously not suﬃciently well understood possibilities in diffraction theory. 
+					</div>
+					<div class="uAuthor">
+						A Glimpse at Mathematical Diffraction Theory
+					</div>
+										<div class="usage">
+						The above argument requires that we equate the von Neumann entropy with the thermodynamic entropy, and will thus leave many people uneasy. 
+					</div>
+					<div class="uAuthor">
+						Deriving Landauer's erasure principle from statistical mechanics
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="inability to rest or relax or be still"><a href="queasiness.html">queasiness</a>, </div><div class="synGroup" title="embarrassment deriving from the feeling that others are critically aware of you"><a href="uncomfortableness.html">uncomfortableness</a>, </div><div class="synGroup" title="feelings of anxiety that make you tense and irritable"><a href="inquietude.html">inquietude</a>, <a href="disquietude.html">disquietude</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="anxiety.html">anxiety</a>, <a href="discomfort.html">discomfort</a>, <a href="discomposure.html">discomposure</a>, <a href="embarrassment.html">embarrassment</a>, <a href="nervousness.html">nervousness</a>, <a href="uncomfortableness.html">uncomfortableness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="jactation.html">jactation</a>, <a href="jactitation.html">jactitation</a>, <a href="willies.html">willies</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="disquiet.html">disquiet</a>, <a href="edgy.html">edgy</a>, <a href="restless.html">restless</a>, <a href="self-conscious.html">self-conscious</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="ail.html">ail</a>, <a href="anger.html">anger</a>, <a href="anxiety.html">anxiety</a>, <a href="anxious.html">anxious</a>, <a href="Aporia.html">Aporia</a>, <a href="burdensome.html">burdensome</a>, <a href="Cardol.html">Cardol</a>, <a href="complain.html">complain</a>, <a href="complaint.html">complaint</a>, <a href="compunction.html">compunction</a>, <a href="concern.html">concern</a>, <a href="desire.html">desire</a>, <a href="discomfort.html">discomfort</a>, <a href="Discomfortable.html">Discomfortable</a>, <a href="discontent.html">discontent</a>, <a href="discontentedness.html">discontentedness</a>, <a href="Discontenting.html">Discontenting</a>, <a href="discontentment.html">discontentment</a>, <a href="disease.html">disease</a>, <a href="Diseaseful.html">Diseaseful</a>, <a href="Diseasement.html">Diseasement</a>, <a href="Displeasedness.html">Displeasedness</a>, <a href="displeasure.html">displeasure</a>, <a href="disquiet.html">disquiet</a>, <a href="disquieted.html">disquieted</a>, <a href="Disquietful.html">Disquietful</a>, <a href="Disquietment.html">Disquietment</a>, <a href="Disquietness.html">Disquietness</a>, <a href="Disquietous.html">Disquietous</a>, <a href="Disquiettude.html">Disquiettude</a>, <a href="dissatisfaction.html">dissatisfaction</a>, <a href="dissatisfy.html">dissatisfy</a>, <a href="distaste.html">distaste</a>, <a href="distemper.html">distemper</a>, <a href="Distemperature.html">Distemperature</a>, <a href="distressed.html">distressed</a>, <a href="disturbance.html">disturbance</a>, <a href="disturbed.html">disturbed</a>, <a href="Ekbom%20syndrome.html">Ekbom syndrome</a>, <a href="envy.html">envy</a>, <a href="fidget.html">fidget</a>, <a href="grievance.html">grievance</a>, <a href="hanker.html">hanker</a>, <a href="Heigh-ho.html">Heigh-ho</a>, <a href="hunger.html">hunger</a>, <a href="hungry.html">hungry</a>, <a href="hypochondria.html">hypochondria</a>, <a href="impatiently.html">impatiently</a>, <a href="inconvenience.html">inconvenience</a>, <a href="inconvenient.html">inconvenient</a>, <a href="inoffensive.html">inoffensive</a>, <a href="inquietude.html">inquietude</a>, <a href="irksome.html">irksome</a>, <a href="itch.html">itch</a>, <a href="jaundice.html">jaundice</a>, <a href="Little-ease.html">Little-ease</a>, <a href="malaise.html">malaise</a>, <a href="misgiving.html">misgiving</a>, <a href="nettle.html">nettle</a>, <a href="nightmare.html">nightmare</a>, <a href="observe.html">observe</a>, <a href="opiate.html">opiate</a>, <a href="oppressive.html">oppressive</a>, <a href="pain.html">pain</a>, <a href="painful.html">painful</a>, <a href="painfully.html">painfully</a>, <a href="qualm.html">qualm</a>, <a href="relief.html">relief</a>, <a href="repose.html">repose</a>, <a href="restless%20legs.html">restless legs</a>, <a href="restless%20legs%20syndrome.html">restless legs syndrome</a>, <a href="scruple.html">scruple</a>, <a href="sinking.html">sinking</a>, <a href="sinking%20feeling.html">sinking feeling</a>, <a href="solicitousness.html">solicitousness</a>, <a href="solicitude.html">solicitude</a>, <a href="sorrow.html">sorrow</a>, <a href="surfeit.html">surfeit</a>, <a href="thirst.html">thirst</a>, <a href="tickle.html">tickle</a>, <a href="titillate.html">titillate</a>, <a href="To%20be%20on%20tenterhooks.html">To be on tenterhooks</a>, <a href="To%20be%20on%20the%20tenter-hooks.html">To be on the tenter-hooks</a>, <a href="To%20be%20on%20the%20tenters.html">To be on the tenters</a>, <a href="trouble.html">trouble</a>, <a href="uncomfortable.html">uncomfortable</a>, <a href="uncomfortably.html">uncomfortably</a>, <a href="unease.html">unease</a>, <a href="uneasily.html">uneasily</a>, <a href="Unquietness.html">Unquietness</a>, <a href="Unquietude.html">Unquietude</a>, <a href="unrest.html">unrest</a>, <a href="upset.html">upset</a>, <a href="vellicate.html">vellicate</a>, <a href="vexation.html">vexation</a>, <a href="willies.html">willies</a>, <a href="winch.html">winch</a>, <a href="worried.html">worried</a>, <a href="yearn.html">yearn</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					yneasiness, hneasiness, jneasiness, ineasiness, ubeasiness, uheasiness, ujeasiness, umeasiness, unwasiness, unsasiness, undasiness, unrasiness, uneqsiness, unewsiness, unessiness, unezsiness, uneaainess, uneawiness, uneadiness, uneaxiness, uneaziness, uneaainess, uneasuness, uneasjness, uneaskness, uneasoness, uneasibess, uneasihess, uneasijess, uneasimess, uneasinwss, uneasinsss, uneasindss, uneasinrss, uneasineas, uneasinews, uneasineds, uneasinexs, uneasinezs, uneasineas, uneasinesa, uneasinesw, uneasinesd, uneasinesx, uneasinesz, uneasinesa
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

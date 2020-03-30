@@ -1,0 +1,567 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>avoidance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">avoidance</span> <span class="exp">deliberately avoiding; keeping away from or preventing from happening</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Avoidance</span> <span class="exp">A dismissing or a quitting; removal; withdrawal.</span> </li><li><span class="term">Avoidance</span> <span class="exp">The act of annulling; annulment.</span> </li><li><span class="term">Avoidance</span> <span class="exp">The act of avoiding or shunning; keeping clear of.</span> <span class="wuQuot">"The avoidance of pain."</span></li><li><span class="term">Avoidance</span> <span class="exp">The act of becoming vacant, or the state of being vacant; -- specifically used for the state of a benefice becoming void by the death, deprivation, or resignation of the incumbent.</span> <span class="wuQuot">"Wolsey, . . . on every avoidance of St. Peter's chair, was sitting down therein, when suddenly some one or other clapped in before him."</span></li><li><span class="term">Avoidance</span> <span class="exp">The courts by which anything is carried off.</span> <span class="wuQuot">"Avoidances and drainings of water."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Americans spent over $360 million in 1982 to avoid having bad breath.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">avoidance</span> <span class="exp">The act of annulling or making void; annulment.</span> </li><li><span class="tSpeech">n</span> <span class="term">avoidance</span> <span class="exp">The act of becoming, or the state of being, vacant; especially, the state of a benefice when it becomes void by death, deprivation, resignation, or preferment of the incumbent; vacancy.</span> </li><li><span class="tSpeech">n</span> <span class="term">avoidance</span> <span class="exp">The act of avoiding or shunning anything disagreeable or unwelcome.</span> </li><li><span class="tSpeech">n</span> <span class="term">avoidance</span> <span class="exp">A retiring from or leaving a place.</span> </li><li><span class="tSpeech">n</span> <span class="term">avoidance</span> <span class="exp">An emptying out; that by which a fluid is carried off; an outlet.</span> </li><li><span class="tSpeech">n</span> <span class="term">avoidance</span> <span class="exp">The custom which forbids one member of a family to meet or address another member. This custom is found among many primitive tribes, and relates most frequently to a man and his mother-in-law.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Dave Matthews relocated to the United States to avoid service in the South African Military.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Avoidance</span> <span class="exp">the act of avoiding or shunning: act of annulling</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“'Tis a rule of manners to avoid exaggeration.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">E. L. Doctorow</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="E. L. Doctorow">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I try to avoid experience if I can. Most experience is bad.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Steven Weinberg</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Steven Weinberg">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“An expert is a person who avoids the small errors while sweeping on to the grand fallacy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Roberto Goizueta</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Roberto Goizueta">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The moment avoiding failure becomes your motivation, you're down the path of inactivity. You stumble only if you're moving.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Fred A. Allen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Fred%20A.%20Allen.jpg" alt="Fred%20A.%20Allen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A celebrity is a person who works hard all of their life to become well known, and then wears dark glasses to avoid being recognized.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jeremy P. Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jeremy P. Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If we catch a glimpse of freedom, we wish to possess it; if we catch a glimpse of death, we want nothing to do with it. One we cannot have, the other we cannot avoid.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Pfx. <i>a-</i> = Fr. <i>es</i> = L. <i>ex</i>, out, and <b>Void</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						We kept our fires blazing through the night, and thus avoided any attacks from lions or panthers, or any other wild beasts.
+					</div>
+					<div class="uAuthor">
+						"In the Wilds of Africa" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						A true lady will avoid familiarity in her deportment towards gentlemen.
+					</div>
+					<div class="uAuthor">
+						"Searchlights on Health: Light on Dark Corners" by <span>B.G. Jefferis</span>					</div>
+										<div class="usage">
+						Then add the perfumes and sift again, so as to avoid any lumps.
+					</div>
+					<div class="uAuthor">
+						"The Woman Beautiful" by <span>Helen Follett Stevans</span>					</div>
+										<div class="usage">
+						Long walks, shopping, dancing, riding, hard work whether for pleasure or profit, should be avoided to the utmost.
+					</div>
+					<div class="uAuthor">
+						"The Physical Life of Woman:" by <span>Dr. George H Napheys</span>					</div>
+										<div class="usage">
+						Avoid it, ye John Bulls, and eke ye Paddies!
+					</div>
+					<div class="uAuthor">
+						"Tobacco; Its History, Varieties, Culture, Manufacture and Commerce" by <span>E. R. Billings</span>					</div>
+										<div class="usage">
+						Avoid discourtesy, but avoid still more a hollow, insincere, merely outward, gracefulness.
+					</div>
+					<div class="uAuthor">
+						"The Young Maiden" by <span>A. B. (Artemas Bowers) Muzzey</span>					</div>
+										<div class="usage">
+						If there was, or had been, our present troubles would have been avoided.
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<div class="usage">
+						The French naval officer avoided battle on principle, and when he could not avoid it he accepted the defensive.
+					</div>
+					<div class="uAuthor">
+						"A History of Sea Power" by <span>William Oliver Stevens and Allan Westcott</span>					</div>
+										<div class="usage">
+						By way of avoiding Lord Fleckwood he might have started Mrs. Seaton on teetotalism.
+					</div>
+					<div class="uAuthor">
+						"Robert Elsmere" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						Do not invite him to tell a lie in order to avoid a scolding.
+					</div>
+					<div class="uAuthor">
+						"The Eugenic Marriage, Vol. 3 (of 4)" by <span>W. Grant Hague</span>					</div>
+										<div class="usage">
+						In terror of having to spend money, he avoided all human intercourse.
+					</div>
+					<div class="uAuthor">
+						"The Goose Man" by <span>Jacob Wassermann</span>					</div>
+										<div class="usage">
+						I am told that Americans avoid serious topics in Society.
+					</div>
+					<div class="uAuthor">
+						"Black Oxen" by <span>Gertrude Franklin Horn Atherton</span>					</div>
+										<div class="usage">
+						The guard will shift around their charge to avoid these attacks, and the Panjandrum himself may evade them by moving around his guard.
+					</div>
+					<div class="uAuthor">
+						"Games for the Playground, Home, School and Gymnasium" by <span>Jessie H. Bancroft</span>					</div>
+										<div class="usage">
+						Avoid seeing curves in relief as you have avoided curves of outline.
+					</div>
+					<div class="uAuthor">
+						"The Painter in Oil" by <span>Daniel Burleigh Parkhurst</span>					</div>
+										<div class="usage">
+						He avoided her; yesterday evening she had plainly seen it.
+					</div>
+					<div class="uAuthor">
+						"The German Classics of the Nineteenth and Twentieth Centuries" by <span>Various</span>					</div>
+										<div class="usage">
+						Avoid stacking if possible, for they are always wasted rapidly by moving.
+					</div>
+					<div class="uAuthor">
+						"Soil Culture" by <span>J. H. Walden</span>					</div>
+										<div class="usage">
+						The upper part of the voice was conserved with infinite care to avoid early breakdowns.
+					</div>
+					<div class="uAuthor">
+						"Great Singers on the Art of Singing" by <span>James Francis Cooke</span>					</div>
+										<div class="usage">
+						All of these types of poisoning may be avoided by using care in the handling of the fresh foods.
+					</div>
+					<div class="uAuthor">
+						"Dietetics for Nurses" by <span>Fairfax T. Proudfit</span>					</div>
+										<div class="usage">
+						Pain is that which has to be avoided.
+					</div>
+					<div class="uAuthor">
+						"A Critical History of Greek Philosophy" by <span>W. T. Stace</span>					</div>
+										<div class="usage">
+						Most men of the preceding generation avoided matrimony as they would have avoided ridicule.
+					</div>
+					<div class="uAuthor">
+						"Rambles in Womanland" by <span>Max O'Rell</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Like Daniel, whilst thou yet art young,<br>
+Avoid all liquors that are strong:<br>
+To dainty food be not inclin'd,<br>
+But fix on God alone thy mind. 
+							<div class="poet">"Advice To A Youth" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							Bolders sneak'd off, t' avoid a fray;<br>
+The place was much too hot to stay.<br>
+Then to decamp he did not fail,<br>
+And leave me to record the tale.
+							<div class="poet">"John Bolders" by <span>William Hutton</span></div>
+						</div>
+											<div class="poemQuote">
+							'The hand of fate is ever over us;<br>
+No destined ill can mortal shun;<br>
+None call avoid the wrath of heaven<br>
+So why complain? God's will be done!
+							<div class="poet">"Gamzrdeli" by <span>Akaki Tsereteli</span></div>
+						</div>
+											<div class="poemQuote">
+							For heaven's sake, avoid excess,<br>
+And the vile sin of drunkenness,<br>
+Which to a fiend does man transmute,<br>
+Or worse, much worse, than any brute.
+							<div class="poet">"Advice To A Youth" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							O Lord, at Joseph's humble bench<br>
+Thy hands did handle saw and plane;<br>
+Thy hammer nails did drive and clench,<br>
+Avoiding knot and humouring grain.
+							<div class="poet">"The Carpenter" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							The giddy tribe he much avoided,<br>
+But fix'd his heart as prudence guided:<br>
+Nay, in his choice, we freely own,<br>
+His judgment most conspicuous shone.
+							<div class="poet">"The Jealous Head" by <span>William Hutton</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A Gifted Teacher Has to Jump Through Bureaucratic Hoops to Avoid Firing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/08/23/AR2009082302154.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						City settles Burge torture case, avoids Daley deposition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/news/politics/clout/chi-city-settles-burge-torture-case-avoids-daley-deposition-20120723,0,6152232.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						 Burrowing owl s need short vegetation to avoid predators and see their prey in order to survive.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.davisenterprise.com/forum/opinion-columns/burrowing-owl-mitigation-has-failed/" target="_blank" rel="external nofollow">davisenterprise.com</a>
+					</div>
+										<div class="usage">
+						Burrowing owls need short vegetation to avoid predators and see their prey in order to survive.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.davisenterprise.com/forum/opinion-columns/burrowing-owl-mitigation-has-failed/" target="_blank" rel="external nofollow">davisenterprise.com</a>
+					</div>
+										<div class="usage">
+						TRAP' An unfinished bus lane has caused drivers to change lanes to avoid it, only to be pulled over by the police for having changed lanes over a double solid line.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.taipeitimes.com/News/taiwan/archives/2007/08/11/2003373637" target="_blank" rel="external nofollow">taipeitimes.com</a>
+					</div>
+										<div class="usage">
+						Compromise Crucial To Avoid Fiscal Cliff.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wina.com/Chamber-Names-Winner-Of-2012-Small-Businessperson-/13167901" target="_blank" rel="external nofollow">wina.com</a>
+					</div>
+										<div class="usage">
+						If you are unfamiliar with any of the exercises that have been listed, I encourage you to view tutorial videos online to ensure proper form and technique are executed to avoid any possible injuries.
+					</div>
+					<div class="uAuthor">
+						<a href="http://scotsmanonline.com/the-busy-bee-workout/" target="_blank" rel="external nofollow">scotsmanonline.com</a>
+					</div>
+										<div class="usage">
+						For the first time in a half-century, Cubans will be allowed to buy and sell real estate openly, bequeath property to relatives without restriction and avoid forfeiting their homes if they abandon the country.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.semissourian.com/story/1781663.html" target="_blank" rel="external nofollow">semissourian.com</a>
+					</div>
+										<div class="usage">
+						Always purchase produce when it's in season, like grapefruits and kiwis in the winter and berries in the spring and summer, to avoid overspending.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/food/Make-Your-Food-Last-Longer/7" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						SLOW PROGRESS Mine authorities are digging slowly to try and avoid sparking another explosion as they try to rescue 13 miners trapped about 80m below ground.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.taipeitimes.com/News/world/archives/2006/01/04/2003287363" target="_blank" rel="external nofollow">taipeitimes.com</a>
+					</div>
+										<div class="usage">
+						The studio mogul (Spencer Garrett) and the director go head-to-head over the issue of whether the "truth" should be pursued in earnest or studiously avoided for the sake of comforting audiences during an economic downturn.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.laweekly.com/2012-10-04/stage/by-the-way-meet-vera-stark-at-the-geffen-playhouse-and-the-plight-of-black-performers-in-hollywood/2/" target="_blank" rel="external nofollow">laweekly.com</a>
+					</div>
+										<div class="usage">
+						Oregon must keep track of Cal's leading scorer if it wants to avoid another three-fest by the sophomore.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.registerguard.com/web/sports/27618002-41/oregon-ducks-cal-ppg-altman.html.csp" target="_blank" rel="external nofollow">registerguard.com</a>
+					</div>
+										<div class="usage">
+						Virginia Republican doesn't say how Congress and president will avoid the cuts.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.govexec.com/oversight/2012/10/obama-signs-new-government-charge-card-rules/58663/" target="_blank" rel="external nofollow">govexec.com</a>
+					</div>
+										<div class="usage">
+						Here are three broad categories of dangerous charisma , and how to avoid them in your personal leadership.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.inc.com/brian-evje/three-dangers-of-charismatic-leadership.html" target="_blank" rel="external nofollow">inc.com</a>
+					</div>
+										<div class="usage">
+						What causes a charley horse and how can I avoid it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/learning/students/scienceqa/archive/20010904.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						These data set a stringent limit on the rate of cosmological evolution for IR galaxies above z ∼ 1, which needs to level off to avoid exceeding the observed d(z ) on the high-z tail. 
+					</div>
+					<div class="uAuthor">
+						High-Redshift Galaxies: The Far-Infrared and Sub-Millimeter View
+					</div>
+										<div class="usage">
+						A direct prediction of our scheme above is that most of the metals produced during the starburst phase have to be removed by the galaxies to avoid largely exceeding the locally observed metals in galaxies. 
+					</div>
+					<div class="uAuthor">
+						High-Redshift Galaxies: The Far-Infrared and Sub-Millimeter View
+					</div>
+										<div class="usage">
+						The change of units can of course be avoided by presenting the NCOS theory directly in the new units: this would entail keeping ls and the transverse metric parameter h ﬁxed, while scaling the parallel components of the metric according to gab = ǫ−1ηab . 
+					</div>
+					<div class="uAuthor">
+						IIA/B, Wound and Wrapped
+					</div>
+										<div class="usage">
+						In Section 3.2 we will see o = 1/N , α′ with parameters G2 that the boost can also be avoided, by working in the gauge where it is B and not E that becomes critical. 
+					</div>
+					<div class="uAuthor">
+						IIA/B, Wound and Wrapped
+					</div>
+										<div class="usage">
+						Recently, Propp and Wilson have shown how to avoid these problems using techniques such as coupling from the past (CFTP) . 
+					</div>
+					<div class="uAuthor">
+						The Randomness Recycler: A new technique for perfect sampling
+					</div>
+										<div class="usage">
+						In order to avoid periodicity of the random walk, we work with the continuous time random walk. 
+					</div>
+					<div class="uAuthor">
+						On the mixing time of simple random walk on the super critical percolation cluster
+					</div>
+										<div class="usage">
+						We will present a somewhat modiﬁed version of this growth model, which avoids the limiting procedure in . 
+					</div>
+					<div class="uAuthor">
+						Non-intersecting Paths, Random Tilings and Random Matrices
+					</div>
+										<div class="usage">
+						The strongest candidates in each DM trial were recorded if they had a signal-to-noise ratio greater than 7 and appeared in at least 6 of the DM trials (in order to avoid an excess of spurious candidates). 
+					</div>
+					<div class="uAuthor">
+						Radio Pulsars in the Magellanic Clouds
+					</div>
+										<div class="usage">
+						Enumeration formulas become more complicated and, for the introductory purpose of this paper, we avoid these walks. 
+					</div>
+					<div class="uAuthor">
+						Enumeration of simple random walks and tridiagonal matrices
+					</div>
+										<div class="usage">
+						However, very few AGN are known behind nearby galaxies as surveys for these objects avoided the crowded ﬁelds. 
+					</div>
+					<div class="uAuthor">
+						AGN in the XMM-Newton first-light image as probes for the interstellar medium in the LMC
+					</div>
+										<div class="usage">
+						It seems to be more instructive to rely on this purely geometrical caracterization of B and to avoid a formal formal deﬁnition. 
+					</div>
+					<div class="uAuthor">
+						Random walks on hyperbolic groups and their Riemann surfaces
+					</div>
+										<div class="usage">
+						This method also has a merit in avoiding to calculate a complicated integral in the original deﬁnition of C1 . 
+					</div>
+					<div class="uAuthor">
+						Application of random walk theory to the first order Fermi acceleration in shock waves
+					</div>
+										<div class="usage">
+						The calculation of Moore–Penrose inverses arising from short gradings of classical simple Lie algebras is quite straight-forward, so we shall give here only the summary of these calculations and avoid proofs. 
+					</div>
+					<div class="uAuthor">
+						Moore-Penrose inverse, parabolic subgroups, and Jordan pairs
+					</div>
+										<div class="usage">
+						Some of these diﬃculties can be avoided by trying to reproduce higher-order supergravity interactions from interactions of more than two ob jects in matrix theory, the sub ject to which we turn in the next subsection. 
+					</div>
+					<div class="uAuthor">
+						M(atrix) Theory: Matrix Quantum Mechanics as a Fundamental Theory
+					</div>
+										<div class="usage">
+						Of the FRIIs, we selected the narrow-line radio galaxies only, to avoid any effects due to orientation. 
+					</div>
+					<div class="uAuthor">
+						Radio Galaxy Spectra
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="deliberately avoiding; keeping away from or preventing from happening"><a href="turning%20away.html">turning away</a>, <a href="shunning.html">shunning</a>, <a href="dodging.html">dodging</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="rejection.html">rejection</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="aversion.html">aversion</a>, <a href="averting.html">averting</a>, <a href="escape.html">escape</a>, <a href="near%20thing.html">near thing</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="avoid.html">avoid</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abient.html">abient</a>, <a href="ahimsa.html">ahimsa</a>, <a href="atonal.html">atonal</a>, <a href="composition.html">composition</a>, <a href="dignity.html">dignity</a>, <a href="economy.html">economy</a>, <a href="escape.html">escape</a>, <a href="evasion.html">evasion</a>, <a href="Evitation.html">Evitation</a>, <a href="exception.html">exception</a>, <a href="Go-by.html">Go-by</a>, <a href="grange.html">grange</a>, <a href="Indifferentism.html">Indifferentism</a>, <a href="indolence.html">indolence</a>, <a href="indolent.html">indolent</a>, <a href="lapse.html">lapse</a>, <a href="mean.html">mean</a>, <a href="moderate.html">moderate</a>, <a href="neglect.html">neglect</a>, <a href="outing.html">outing</a>, <a href="parade.html">parade</a>, <a href="Plenarty.html">Plenarty</a>, <a href="political%20correctitude.html">political correctitude</a>, <a href="political%20correctness.html">political correctness</a>, <a href="proof.html">proof</a>, <a href="punctuation.html">punctuation</a>, <a href="realism.html">realism</a>, <a href="recitative.html">recitative</a>, <a href="repose.html">repose</a>, <a href="restrained.html">restrained</a>, <a href="saving.html">saving</a>, <a href="sobriety.html">sobriety</a>, <a href="special%20pleading.html">special pleading</a>, <a href="Swing-back.html">Swing-back</a>, <a href="Symmetrophobia.html">Symmetrophobia</a>, <a href="taboo.html">taboo</a>, <a href="traverse.html">traverse</a>, <a href="truth.html">truth</a>, <a href="unambiguity.html">unambiguity</a>, <a href="unequivocalness.html">unequivocalness</a>, <a href="unkeyed.html">unkeyed</a>, <a href="vacation.html">vacation</a>, <a href="Wolf.html">Wolf</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qvoidance, wvoidance, svoidance, zvoidance, acoidance, afoidance, agoidance, aboidance, aviidance, avkidance, avlidance, avpidance, avoudance, avojdance, avokdance, avoodance, avoisance, avoieance, avoifance, avoicance, avoixance, avoisance, avoidqnce, avoidwnce, avoidsnce, avoidznce, avoidabce, avoidahce, avoidajce, avoidamce, avoidanxe, avoidande, avoidanfe, avoidanve, avoidancw, avoidancs, avoidancd, avoidancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

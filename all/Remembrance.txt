@@ -1,0 +1,466 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>remembrance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">the ability to recall past occurrences</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">a recognition of meritorious service</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Remembrance</span> <span class="exp">Power of remembering; reach of personal knowledge; period over which one's memory extends.</span> <span class="wuQuot">"Thee I have heard relating what was done<br>
+Ere my remembrance ."</span></li><li><span class="term">Remembrance</span> <span class="exp">Something remembered; a person or thing kept in memory.</span> </li><li><span class="term">Remembrance</span> <span class="exp">Something to be remembered; counsel; admonition; instruction.</span> </li><li><span class="term">Remembrance</span> <span class="exp">That which serves to keep in or bring to mind; a memorial; a token; a memento; a souvenir; a memorandum or note of something to be remembered.</span> <span class="wuQuot">"And on his breast a bloody cross he bore,<br>
+The dear remembrance of his dying Lord."</span><span class="wuQuot">"Keep this remembrance for thy Julia's sake."</span></li><li><span class="term">Remembrance</span> <span class="exp">The act of remembering; a holding in mind, or bringing to mind; recollection.</span> <span class="wuQuot">"Lest fierce remembrance wake my sudden rage."</span><span class="wuQuot">"Lest the remembrance of his grief should fail."</span></li><li><span class="term">Remembrance</span> <span class="exp">The state of being remembered, or held in mind; memory; recollection.</span> <span class="wuQuot">"This, ever grateful, in remembrance bear."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">The act of remembering; the keeping of a thing in mind or recalling it to mind; a revival in the mind or memory.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">The power or faculty of remembering; memory; also, the limit of time over which the memory extends.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">The state of being remembered; the state of being held honorably in memory.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">That which is remembered; a recollection.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">That which serves to bring to or keep in mind.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">An account preserved; a memorandum or note to preserve or assist the memory; a record; mention.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">A monument; a memorial.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">A token by which one is kept in the memory; a keep-sake.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">The state of being mindful; thought; regard; consideration; notice of something absent.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">Admonition; reminder.</span> </li><li><span class="tSpeech">n</span> <span class="term">remembrance</span> <span class="exp">=Syn. 1, 2, and Recollection, Reminiscence, etc. See memory.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Remembrance</span> <span class="exp">memory: that which serves to bring to or keep in mind: a memorial: the power of remembering: the length of time a thing can be remembered</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bible</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bible">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The desire of our soul is to thy name, and to the remembrance of thee. [Isaiah 26:8]”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edgar Allan Poe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edgar%20Allan%20Poe.jpg" alt="Edgar%20Allan%20Poe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Mournful and Never-ending Remembrance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alexander Pope</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Alexander%20Pope.jpg" alt="Alexander%20Pope">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Remembrance and reflection how allied. What thin partitions divides sense from thought.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Agesilaus II</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Agesilaus II">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If I have done any deed worthy of remembrance, that deed will be my monument. If not, no monument can preserve my memory.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Remembrance of things past.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Let's not burden our remembrance with a heaviness that's gone.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OF. <span class="wUets">remembrance</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>remembrer</i>—L. <i>rememorāre</i>—<i>re-</i>, again, <i>memorāre</i>, to call to mind—<i>memor</i>, mindful.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						By whom also is remembred the beginning and continuation of their famous common wealth.
+					</div>
+					<div class="uAuthor">
+						"The Palace of Pleasure, Volume 1" by <span>William Painter</span>					</div>
+										<div class="usage">
+						That scene is past, but its remembrance is undying.
+					</div>
+					<div class="uAuthor">
+						"Ernest Linwood" by <span>Caroline Lee Hentz</span>					</div>
+										<div class="usage">
+						Long did the remembrance of that day continue to be cherished, in mingled pride and sorrow!
+					</div>
+					<div class="uAuthor">
+						"Memoirs of the Jacobites of 1715 and 1745" by <span>Mrs. Thomson</span>					</div>
+										<div class="usage">
+						To keep the blue muslin would be only anticipating the remembrance.
+					</div>
+					<div class="uAuthor">
+						"Flaming June" by <span>Mrs. George de Horne Vaizey</span>					</div>
+										<div class="usage">
+						In those very quiet hours, thoughts of home came to her only as a vague and shadowy remembrance.
+					</div>
+					<div class="uAuthor">
+						"Christie Redfern's Troubles" by <span>Margaret Robertson</span>					</div>
+										<div class="usage">
+						I retain grateful remembrances of him.
+					</div>
+					<div class="uAuthor">
+						"Memoirs" by <span>Charles Godfrey Leland</span>					</div>
+										<div class="usage">
+						The remembrance of the desire I had of being a nun, came pouring in.
+					</div>
+					<div class="uAuthor">
+						"The Autobiography of Madame Guyon" by <span>Jeanne Marie Bouvier de La Motte Guyon</span>					</div>
+										<div class="usage">
+						He knew her for his mother, of course, but this was his first remembrance of her.
+					</div>
+					<div class="uAuthor">
+						"Despair's Last Journey" by <span>David Christie Murray</span>					</div>
+										<div class="usage">
+						The remembrance of the Vicar's first sermon came back to my heart like a breath of fresh air.
+					</div>
+					<div class="uAuthor">
+						"The Lady of the Basement Flat" by <span>Mrs. George de Horne Vaizey</span>					</div>
+										<div class="usage">
+						The very remembrance of her beauty pained me!
+					</div>
+					<div class="uAuthor">
+						"The War Trail" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						She had a record book, and she crowded it with her remembrances of God's goodness.
+					</div>
+					<div class="uAuthor">
+						"My Daily Meditation for the Circling Year" by <span>John Henry Jowett</span>					</div>
+										<div class="usage">
+						Lord Shotover's very obvious faults faded from her remembrance.
+					</div>
+					<div class="uAuthor">
+						"The History of Sir Richard Calmady" by <span>Lucas Malet</span>					</div>
+										<div class="usage">
+						Then inclosed was a bank note for one hundred pounds sterling, and much love and fond remembrances.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old Boston" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						Give my most affectionate remembrance to your husband.
+					</div>
+					<div class="uAuthor">
+						"Hortense, Makers of History Series" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						The very remembrance of that saint-like expression put to shame the despair to which I have yielded.
+					</div>
+					<div class="uAuthor">
+						"Fairy Fingers" by <span>Anna Cora Mowatt Ritchie</span>					</div>
+										<div class="usage">
+						When he went in, just as he entered the door, the remembrance of the money flashed over him.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1896 to 1901" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						Loving friend, my most kind remembrance to you &amp; your wife, with loving E. M. &amp;c. whom in this world I never looke to see againe.
+					</div>
+					<div class="uAuthor">
+						"Bradford's History of 'Plimoth Plantation'" by <span>William Bradford</span>					</div>
+										<div class="usage">
+						My best remembrances to him.
+					</div>
+					<div class="uAuthor">
+						"The Life of Charles Dickens, Vol. I-III, Complete" by <span>John Forster</span>					</div>
+										<div class="usage">
+						The remembrance of her dear father often saddened her heart.
+					</div>
+					<div class="uAuthor">
+						"Old French Fairy Tales" by <span>Comtesse de Ségur</span>					</div>
+										<div class="usage">
+						Some remembrance of old time brought me hither.
+					</div>
+					<div class="uAuthor">
+						"Hope Mills" by <span>Amanda M. Douglas</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							But how shall I who cannot sing?<br>
+I was wont to sing, once on a time,—<br>
+There is never an echo now to ring<br>
+Remembrance back to the trick of rhyme.
+							<div class="poet">"The Way To Arcady" by <span>Henry Cuyler Bunner</span></div>
+						</div>
+											<div class="poemQuote">
+							Thus do we walk with her, and keep unbroken<br>
+The bond which nature gives,<br>
+Thinking that our remembrance, though unspoken,<br>
+May reach her where she lives. 
+							<div class="poet">"By The Fireside : Resignation" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+											<div class="poemQuote">
+							OBLIVION, teach me, teach me thee to find;<br>
+They tell me, in thy waters thou canst steep<br>
+Each sad remembrance of the troubled mind,<br>
+And lull sharp Misery to eternal sleep.
+							<div class="poet">"To Oblivion" by <span>Charlotte Dacre</span></div>
+						</div>
+											<div class="poemQuote">
+							"Shall no remembrance in Siena linger<br>
+Of me, once fair, whom slow Maremma slays?<br>
+As well he knows, whose ring upon my finger<br>
+Hath sealed for his alone mine earthly days!"
+							<div class="poet">"Madonna Pia" by <span>Helen Gray Cone</span></div>
+						</div>
+											<div class="poemQuote">
+							Remembrance may fade in sorrow and strife,<br>
+The darkness, the storms, the winter of life;<br>
+Summer returning will bring in her train<br>
+The rose in her bloom and fragrance again.
+							<div class="poet">"Be Hopeful: II -- The Rose" by <span>Janet Hamilton</span></div>
+						</div>
+											<div class="poemQuote">
+							"The voice, or the look, gifted thus, has a charm<br>
+Remembrance springs onward to greet;<br>
+And thought, like an angel, flies, living and warm,<br>
+When announcing the moment to meet!
+							<div class="poet">"The Lay Of Marie - Canto Second" by <span>Matilda Betham</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Fred Pearson on Hiroshima Remembrance Day .
+					</div>
+					<div class="uAuthor">
+						<a href="http://wdetfm.org/shows/craig-fahle-show/episode/fred-pearson-hiroshima-remembrance-day/" target="_blank" rel="external nofollow">wdetfm.org</a>
+					</div>
+										<div class="usage">
+						Dignitaries, students and survivors gathered at the Illinois Holocaust Museum for Holocaust Remembrance Day .
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/wls/story?section=news/local&amp;id=8649056&amp;rss=rss-wls-article-8649056" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						Holocaust Remembrance Day , around the world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/lifestyle/style/holocaust-remembrance-day-around-the-world/2012/04/19/gIQA7UxATT_gallery.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Today is National Holocaust Remembrance Day .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.naplesnews.com/blogs/peek-nest-jeffrey-haut/2012/apr/19/worldwar2/" target="_blank" rel="external nofollow">naplesnews.com</a>
+					</div>
+										<div class="usage">
+						Holocaust Remembrance Day is Thursday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kios.org/post/holocaust-remembrance-day-thursday" target="_blank" rel="external nofollow">kios.org</a>
+					</div>
+										<div class="usage">
+						Two survivors tell their stories on Holocaust Remembrance Day .
+					</div>
+					<div class="uAuthor">
+						<a href="http://minnesota.publicradio.org/display/web/2009/04/21/midday2/" target="_blank" rel="external nofollow">minnesota.publicradio.org</a>
+					</div>
+										<div class="usage">
+						Growing frustration among veterans and widows casts shadow on Remembrance Day .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/news/canada/politics/article/1284969--growing-frustration-among-veterans-and-widows-casts-shadow-on-remembrance-day" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						Cafe Levain a remembrance of things repast .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/entertainment/dining/11461481.html" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						When writing my Civil War column, I often refer to the terrific opportunity we have to revisit our nation's history during this sesquicentennial remembrance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.coloradostatesman.com/content/992802-understanding-constitution-requires-more-sanitized-%3Fchildren%3Fs-book-version%3F" target="_blank" rel="external nofollow">coloradostatesman.com</a>
+					</div>
+										<div class="usage">
+						The novelist offers a loving remembrance of her former employer and her ex-boyfriend's mother.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/news/books/la-ca-sigrid-nunez-20110508,0,3895490.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						 Sikh supporters stand with photos and signs in remembrance for the Wisconsin Gurdwara shootings.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/guest-voices/post/in-conversation-sikhism-islam-and-hinduism/2012/08/12/5a04387c-e493-11e1-8f62-58260e3940a0_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						9/11: Ten years later - 'Empty Sky' reflects both similarity to Vietnam memorial and its own version of remembrance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/entertainment/arts/index.ssf/2011/09/911_ten_years_later_-_empty_sk.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						In the athletics building which bears his name, Claude " Skeet " O'Connell will be honored during a remembrance and celebration of life on Thurs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.oregonlive.com/my-vancouver/2012/08/colleague_coach_mentor_legend.html" target="_blank" rel="external nofollow">blog.oregonlive.com</a>
+					</div>
+										<div class="usage">
+						They speak of loss and remembrance, pain but also healing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kolotv.com/news/headlines/Solace-Tree-Helping-Children-and-Teens-Deal-With-Loss-and-Grief--179593001.html" target="_blank" rel="external nofollow">kolotv.com</a>
+					</div>
+										<div class="usage">
+						While there were two solemn moments of remembrance, one for those killed in conflicts, neither made reference to the 11 Israeli athletes and coaches murdered by Palestinian terrorists at the 1972 Munich Olympics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/sports/olympics/ct-spt-0728-olympics-opening-ceremony--20120728,0,7439950.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The wearable remembrance agent: a system for augmented memory. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						The rapid pace of successes over the past decade have inspired many fond remembrances of the prevailing wisdom prior to October 1995, some of which may be more accurate than others. 
+					</div>
+					<div class="uAuthor">
+						Hot Jupiters: Lands of Plenty
+					</div>
+										<div class="usage">
+						Its appearance in PB, a book dealing primarily with ritual, must be explained as a remembrance of an old idea. 
+					</div>
+					<div class="uAuthor">
+						Early Theories on the Distance to the Sun
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the ability to recall past occurrences"><a href="recollection.html">recollection</a>, <a href="anamnesis.html">anamnesis</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="credit.html">credit</a>, <a href="memory.html">memory</a>, <a href="recognition.html">recognition</a>, <a href="retention.html">retention</a>, <a href="retentiveness.html">retentiveness</a>, <a href="retentivity.html">retentivity</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="epitaph.html">epitaph</a>, <a href="festschrift.html">festschrift</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="memorialize.html">memorialize</a>, <a href="remember.html">remember</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="amnesty.html">amnesty</a>, <a href="anamnesis.html">anamnesis</a>, <a href="blot.html">blot</a>, <a href="bury.html">bury</a>, <a href="catch.html">catch</a>, <a href="certain.html">certain</a>, <a href="commemorate.html">commemorate</a>, <a href="commemoration.html">commemoration</a>, <a href="commend.html">commend</a>, <a href="commendation.html">commendation</a>, <a href="Conventual%20mass.html">Conventual mass</a>, <a href="cover.html">cover</a>, <a href="embalm.html">embalm</a>, <a href="forget.html">forget</a>, <a href="forgetful.html">forgetful</a>, <a href="forgetfulness.html">forgetfulness</a>, <a href="impression.html">impression</a>, <a href="indistinct.html">indistinct</a>, <a href="lost.html">lost</a>, <a href="meaning.html">meaning</a>, <a href="medal.html">medal</a>, <a href="memorabilia.html">memorabilia</a>, <a href="memorable.html">memorable</a>, <a href="memorably.html">memorably</a>, <a href="Memorate.html">Memorate</a>, <a href="memorial.html">memorial</a>, <a href="memorize.html">memorize</a>, <a href="memory.html">memory</a>, <a href="Menologium.html">Menologium</a>, <a href="Menology.html">Menology</a>, <a href="min.html">min</a>, <a href="mind.html">mind</a>, <a href="mindful.html">mindful</a>, <a href="Misrecollect.html">Misrecollect</a>, <a href="monument.html">monument</a>, <a href="Mother%27s%20Day.html">Mother's Day</a>, <a href="name.html">name</a>, <a href="Nonsense%20verses.html">Nonsense verses</a>, <a href="oblivion.html">oblivion</a>, <a href="Pentecost.html">Pentecost</a>, <a href="perpetuate.html">perpetuate</a>, <a href="recollection.html">recollection</a>, <a href="record.html">record</a>, <a href="Recordance.html">Recordance</a>, <a href="Recordation.html">Recordation</a>, <a href="relic.html">relic</a>, <a href="remember.html">remember</a>, <a href="Remembrancer.html">Remembrancer</a>, <a href="Rememoration.html">Rememoration</a>, <a href="remind.html">remind</a>, <a href="reminder.html">reminder</a>, <a href="reminiscence.html">reminiscence</a>, <a href="reminiscent.html">reminiscent</a>, <a href="Reminiscential.html">Reminiscential</a>, <a href="repetition.html">repetition</a>, <a href="sadness.html">sadness</a>, <a href="Souvenance.html">Souvenance</a>, <a href="Sovenaunce.html">Sovenaunce</a>, <a href="unrecorded.html">unrecorded</a>, <a href="Unremembrance.html">Unremembrance</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					eemembrance, demembrance, femembrance, temembrance, rwmembrance, rsmembrance, rdmembrance, rrmembrance, renembrance, rejembrance, rekembrance, remwmbrance, remsmbrance, remdmbrance, remrmbrance, remenbrance, remejbrance, remekbrance, rememvrance, rememgrance, rememhrance, rememnrance, remembeance, remembdance, remembfance, remembtance, remembrqnce, remembrwnce, remembrsnce, remembrznce, remembrabce, remembrahce, remembrajce, remembramce, remembranxe, remembrande, remembranfe, remembranve, remembrancw, remembrancs, remembrancd, remembrancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

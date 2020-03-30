@@ -1,0 +1,534 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>aggression</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">aggression</span> <span class="exp">violent action that is hostile and usually unprovoked</span> </li><li><span class="tSpeech">n</span> <span class="term">aggression</span> <span class="exp">deliberately unfriendly behavior</span> </li><li><span class="tSpeech">n</span> <span class="term">aggression</span> <span class="exp">the act of initiating hostilities</span> </li><li><span class="tSpeech">n</span> <span class="term">aggression</span> <span class="exp">a disposition to behave aggressively</span> </li><li><span class="tSpeech">n</span> <span class="term">aggression</span> <span class="exp">a feeling of hostility that arouses thoughts of attack</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Aggression</span> <span class="exp">The first attack, or act of hostility; the first act of injury, or first act leading to a war or a controversy; unprovoked attack; assault; as, a war of <span class="wUex">aggression</span>
+         . “<span class="wUex">Aggressions</span> of power.”</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">aggression</span> <span class="exp">The act of proceeding to hostilities or invasion; a breach of the peace or right of another or others; an assault, inroad, or encroachment; hence, any offensive action or procedure: as, an aggression upon a country, or upon vested rights or liberties.</span> </li><li><span class="tSpeech">n</span> <span class="term">aggression</span> <span class="exp">The practice of making assaults or attacks; offensive action in general.</span> </li><li><span class="tSpeech">n</span> <span class="term">aggression</span> <span class="exp">Synonyms Attack, invasion, assault, encroachment, injury, offense.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Aggression</span> <span class="exp"><span class="itl">ag-gresh′un</span> first act of hostility or injury: a breach of the peace: an attack on public privileges.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ted Solotaroff</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Ted Solotaroff">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Aggression, the writer's main source of energy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sigmund Freud</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sigmund%20Freud.jpg" alt="Sigmund%20Freud">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The tendency of aggression is an innate, independent, instinctual disposition in man... it constitutes the most powerful obstacle to culture.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marshall Mcluhan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marshall%20Mcluhan.jpg" alt="Marshall%20Mcluhan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The car has become the carapace, the protective and aggressive shell, of urban and suburban man.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Foster Dulles</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Foster Dulles">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Our capacity to retaliate must be, and is, massive in order to deter all forms of aggression.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">King Jr. Martin Luther</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/King%20Jr.%20Martin%20Luther.jpg" alt="King%20Jr.%20Martin%20Luther">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Mankind must evolve for all human conflict a method which rejects revenge, aggression, and retaliation. The foundation of such a method is love.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bette Davis</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Bette%20Davis.jpg" alt="Bette%20Davis">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“My passions were all gathered together like fingers that made a fist. Drive is considered aggression today; I knew it then as purpose.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">aggressio</span>, fr. <span class="wUets">aggredi</span>,: cf. F. <span class="wUets">agression</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>aggredi</i>, <i>-gressus</i>—<i>ad</i>, to, <i>gradi</i>, to step.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Many of them condemn all unjust, aggressive, or even unnecessary wars.
+					</div>
+					<div class="uAuthor">
+						"The Map of Life" by <span>William Edward Hartpole Lecky</span>					</div>
+										<div class="usage">
+						A navy was raised with surprising promptitude, to prevent insolence and to chastise aggression.
+					</div>
+					<div class="uAuthor">
+						"Great Men and Famous Women. Vol. 4 of 8" by <span>Various</span>					</div>
+										<div class="usage">
+						The capitulation of Baylen paralysed for a time the aggressive movements of France in Spain.
+					</div>
+					<div class="uAuthor">
+						"The Political History of England - Vol XI" by <span>George Brodrick</span>					</div>
+										<div class="usage">
+						Here the aggression was on your side.
+					</div>
+					<div class="uAuthor">
+						"Borneo and the Indian Archipelago" by <span>Frank S. Marryat</span>					</div>
+										<div class="usage">
+						These wars in the South were incited by the insolence and aggressiveness of the Americans.
+					</div>
+					<div class="uAuthor">
+						"The Indian Today" by <span>Charles A. Eastman</span>					</div>
+										<div class="usage">
+						At Baltimore, his supporters were enthusiastic, aggressive, boisterous.
+					</div>
+					<div class="uAuthor">
+						"Stephen Arnold Douglas" by <span>William Garrott Brown</span>					</div>
+										<div class="usage">
+						And if you really mean to 'play with' me you must also leave off looking so aggressively industrious.
+					</div>
+					<div class="uAuthor">
+						"Captain Desmond, V.C." by <span>Maud Diver</span>					</div>
+										<div class="usage">
+						He is not aggressive.
+					</div>
+					<div class="uAuthor">
+						"Buchanan's Journal of Man, November 1887" by <span>Various</span>					</div>
+										<div class="usage">
+						He dreaded his aggressive masculinity.
+					</div>
+					<div class="uAuthor">
+						"The Rough Road" by <span>William John Locke</span>					</div>
+										<div class="usage">
+						That, by our code of morals, would be criminal aggression.
+					</div>
+					<div class="uAuthor">
+						"The American Empire" by <span>Scott Nearing</span>					</div>
+										<div class="usage">
+						His manner was aggressive and feverish enough to be called a symptom of the disease of the period.
+					</div>
+					<div class="uAuthor">
+						"The Message" by <span>Alec John Dawson</span>					</div>
+										<div class="usage">
+						So far as the parties were concerned the Republicans took the aggressive in 1888.
+					</div>
+					<div class="uAuthor">
+						"The New Nation" by <span>Frederic L. Paxson</span>					</div>
+										<div class="usage">
+						Conquest and aggression are foreign to our spirit, and foreign to our thoughts and ambitions.
+					</div>
+					<div class="uAuthor">
+						"The Higher Powers of Mind and Spirit" by <span>Ralph Waldo Trine</span>					</div>
+										<div class="usage">
+						The policy of the governors of Nova Scotia and New England became more and more aggressive.
+					</div>
+					<div class="uAuthor">
+						"Glimpses of the Past" by <span>W. O. Raymond</span>					</div>
+										<div class="usage">
+						The third issue contained stronger language, and the fourth was energetically aggressive.
+					</div>
+					<div class="uAuthor">
+						"The Coming of the Law" by <span>Charles Alden Seltzer</span>					</div>
+										<div class="usage">
+						Precipitated by a fiery aggression from Nippon the gasping Slav had been pushed back across the Yalu.
+					</div>
+					<div class="uAuthor">
+						"Trusia" by <span>Davis Brinton</span>					</div>
+										<div class="usage">
+						But, though the general was dead, his policy survived, his idea of aggression taking deep root in the Chinese official mind.
+					</div>
+					<div class="uAuthor">
+						"Historic Tales, Vol. 12 (of 15)" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						It destroyed the captivating aggressiveness of the "Disunionists," and threw their leaders upon the defensive.
+					</div>
+					<div class="uAuthor">
+						"The Struggle for Missouri" by <span>John McElroy</span>					</div>
+										<div class="usage">
+						His opinions were considered detestable, his manners aggressive.
+					</div>
+					<div class="uAuthor">
+						"The Great Miss Driver" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						Both teams were playing straight football and it would be difficult to say which was the more aggressive.
+					</div>
+					<div class="uAuthor">
+						"The Crimson Sweater" by <span>Ralph Henry Barbour</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Nothing, in brief, but maudlin confession,<br>
+Irresponse to human aggression,<br>
+Amid the precipitation, down-float<br>
+Of insubstantial manna,<br>
+Lifting the faint susurrus<br>
+Of his subjective hosannah.
+							<div class="poet">"'The Age Demanded'" by <span>Ezra Pound</span></div>
+						</div>
+											<div class="poemQuote">
+							His Indicative some new aggression foreshews—<br>
+His Potential means plunder to friends and to foes—<br>
+His Subjunctive denotes turning Saints into Cash—<br>
+His Optative aims at these Islands a dash:
+							<div class="poet">"The New French Grammar Analysed" by <span>Thomas Stott</span></div>
+						</div>
+											<div class="poemQuote">
+							Long years we have suffered opprobrium and wrong,<br>
+But we clung to your side with affection so strong,<br>
+That at last, in mere wanton aggression, you broke<br>
+All the ties of our hearts with one murderous stroke.
+							<div class="poet">"Farewell To Brother Jonathan" by <span>Anonymous Americas</span></div>
+						</div>
+											<div class="poemQuote">
+							But even morons think a while<br>
+When trembling on the brink a while<br>
+Of chaos, and they've lately come to see,<br>
+Subtracting his aggressiveness<br>
+And picturesque expressiveness.<br>
+There's noting much remaining of John T.
+							<div class="poet">"'John T'" by <span>C J Dennis</span></div>
+						</div>
+											<div class="poemQuote">
+							October blasts had strown the wreaths that erstwhile hung so gay,<br>
+Above the brows of Queenston Heights where we impatient lay;<br>
+Niagara fretted at our feet, as chafing at his post,<br>
+And impotence to turn the fleets that bore the aggressive host.
+							<div class="poet">"Laura Secord: The Heroine of The War Of 1812  -  Act III" by <span>Sarah Anne Curzon</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The rookie guard put together his best performance of the season with a team-high 22 points (on 7-for-14 shooting), four rebounds and demonstrated the aggressiveness that Coach Randy Wittman has been encouraging.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/wizards-insider/wp/2012/11/10/bradley-beal-receives-a-flagrant-foul-against-milwaukee/" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						California Chiropractic Association Launches Aggressive Campaign.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chiroweb.com/archives/10/10/05.html" target="_blank" rel="external nofollow">chiroweb.com</a>
+					</div>
+										<div class="usage">
+						Aggressive flight maneuver led to deadly Corona airplane crash.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailybulletin.com/ci_21971240/ntsb-aggressive-flight-maneuver-led-deadly-corona-airplane" target="_blank" rel="external nofollow">dailybulletin.com</a>
+					</div>
+										<div class="usage">
+						That same aggressive approach comes through more than a year later.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.espn.go.com/blog/nflnation/post/_/id/59585/not-to-be-flippant-but-cards-aiming-high" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Noninvasive Measurement Enables Use of Interstitial Fluid Pressure as Potential Biomarker for Tumor Aggressiveness.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mdtmag.com/news/2012/10/noninvasive-measurement-enables-use-interstitial-fluid-pressure-potential-biomarker-tumor-aggressiveness" target="_blank" rel="external nofollow">mdtmag.com</a>
+					</div>
+										<div class="usage">
+						 Foggy Bottom residents are learning that the hard way this week, as an "aggressive raccoon" has started to prowl the neighborhood.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtoncitypaper.com/blogs/citydesk/2012/11/08/rowdy-raccoon-terrorizes-foggy-bottom/" target="_blank" rel="external nofollow">washingtoncitypaper.com</a>
+					</div>
+										<div class="usage">
+						What took place Oct 25 at UFC 90 won't be repeated Wednesday night (Versus at 8) in Hollywood, Fla WEC featherweight champion Urijah Faber promises to be his usual aggressive self against challenger Mike Brown.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.nj.com/ledgerboxing/2008/11/faber_wont_fool_around_with_br.html" target="_blank" rel="external nofollow">blog.nj.com</a>
+					</div>
+										<div class="usage">
+						Aggressively connect with your network face-to-face.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.blackenterprise.com/career/get-into-this-instead-of-grad-school-do-some-real-footwork/" target="_blank" rel="external nofollow">blackenterprise.com</a>
+					</div>
+										<div class="usage">
+						The NHL, with rosters that read like a United Nations roll call, has been aggressively trying to prevent games from becoming arenas for anti-war protest.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/sports/hockey/nhl/2003-03-23-anthem-booing_x.htm" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						An energetic and aggressive Mitt Romney took on a subdued President Barack Obama Wednesday over jobs, taxes, Medicare, health care and even Big Bird in the first high-stakes debate of the 2012 White House campaign.
+					</div>
+					<div class="uAuthor">
+						<a href="http://tucsoncitizen.com/arizona-news/2012/10/03/presidential-debate-romney-comes-out-forcefully-vs-obama/" target="_blank" rel="external nofollow">tucsoncitizen.com</a>
+					</div>
+										<div class="usage">
+						Wood himself is not diagnosed, but his fiancée, Emily Niinemets, was diagnosed with aggressive lymphoma cancer in early January, the story stated.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cmmonline.com/articles/print/window-cleaner-offers-free-services-to-cancer-patients" target="_blank" rel="external nofollow">cmmonline.com</a>
+					</div>
+										<div class="usage">
+						It's a busy week for Syracuse aggressive rock front man Karl Buechner.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.syracuse.com/listenup/2010/01/freya_releases_new_cd_earth_cr.html" target="_blank" rel="external nofollow">blog.syracuse.com</a>
+					</div>
+										<div class="usage">
+						TORONTO (AP) – Jason Hammel gave up a career-high four homers to the Toronto Blue Jays, and it was their aggressive swings on his breaking balls that left the right-hander asking questions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/sports/baseball/al/story/2012-05-31/hammel-accuses-jays-stealing-signs/55296082/1" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						Washington's Marjorie Heard, a freshman who played at Glacier Peak High School, has impressed Huskies' coach Tia Jackson with her aggressive approach to basketball.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.heraldnet.com/article/20110105/SPORTS/701069893/1004" target="_blank" rel="external nofollow">heraldnet.com</a>
+					</div>
+										<div class="usage">
+						EPA contracts support aggressive move to cloud computing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://gcn.com/articles/2012/07/18/epa-contracts-support-fast-cloud-timetable.aspx?admgarea=TC_Cloud" target="_blank" rel="external nofollow">gcn.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The broad ob jective of this initiative was to identify the opportunities and challenges towards achieving petaﬂops computing and to formulate a research program that will lead this nation aggressively toward that goal. 
+					</div>
+					<div class="uAuthor">
+						GRAPE-6: A Petaflops Prototype
+					</div>
+										<div class="usage">
+						The value γ = 107◦ is marginally consistent with the range speciﬁed in Ref. , but far outside the aggressive limits quoted in Ref. . 
+					</div>
+					<div class="uAuthor">
+						New Information on B Decays to Charmless VP Final States
+					</div>
+										<div class="usage">
+						But Arkani-Hamed, Dimopoulos, and Dvali [114] have argued that this aggressive choice is not excluded. 
+					</div>
+					<div class="uAuthor">
+						Theoretical Summary Lecture for EPS HEP99
+					</div>
+										<div class="usage">
+						Perhaps the most aggressive use of new technology is in triggers and data acquisition systems for BTeV and the LHC experiments. 
+					</div>
+					<div class="uAuthor">
+						Conference Summary - Beauty 2000
+					</div>
+										<div class="usage">
+						The scenario just presented is being pursued aggressively by a private company, Technanogy, LLC, with funding from NASA, and the small storage ring could be in operation within the next several years. 
+					</div>
+					<div class="uAuthor">
+						Prospects for low-energy antiproton physics at Fermilab
+					</div>
+										<div class="usage">
+						People use to get very aggressive on this topic. 
+					</div>
+					<div class="uAuthor">
+						Cosmological parameters from Galaxy Clusters: an Introduction
+					</div>
+										<div class="usage">
+						However, as mentioned above, there is some spread between predictions coming from different models, and there are also uncertainties in the calculations themselves, so that this value may be too aggressive at the present time. 
+					</div>
+					<div class="uAuthor">
+						Null tests of the Standard Model at an International Super $B$ Factory
+					</div>
+										<div class="usage">
+						The small values for the χ2 probabilities might indicate that the systematic errors in some of the analyses are estimated aggressively. 
+					</div>
+					<div class="uAuthor">
+						Review of alpha_s Measurements
+					</div>
+										<div class="usage">
+						An aggressive plan calls for performing the complete upgrade up to 1.2 MW by 2012. 
+					</div>
+					<div class="uAuthor">
+						Report of the US long baseline neutrino experiment study
+					</div>
+										<div class="usage">
+						Together with prolactin, plasma levels of corticosterone, known to interact with prolactin release (Criscuolo, 2001; for review see Chastel et al. 2005) and testosterone (potentially involved in aggressive behaviour, Dittami, 1981) were also measured. MATERIALS AND METHODS Animals and experimental condition. 
+					</div>
+					<div class="uAuthor">
+						Post-hatching parental care behaviour and hormonal status in a precocial bird
+					</div>
+										<div class="usage">
+						The ILC community has set an aggressive goal of routinely achieving3 35 MV/m in ninecell cavities, with a minimum production yield of 80%. 
+					</div>
+					<div class="uAuthor">
+						ILC Reference Design Report Volume 1 - Executive Summary
+					</div>
+										<div class="usage">
+						This operating gradient is higher than that typically achievable today and assumes further progress will be made during the next few years in the aggressive program that is being pursued to improve cavity performance. • control of emittance growth due to static misalignments, resulting in dispersion and coupling. 
+					</div>
+					<div class="uAuthor">
+						ILC Reference Design Report Volume 1 - Executive Summary
+					</div>
+										<div class="usage">
+						Players commit fouls at different rates; some players are dirtier or more aggressive than others. 
+					</div>
+					<div class="uAuthor">
+						Quantization of Prior Probabilities for Hypothesis Testing
+					</div>
+										<div class="usage">
+						Experts deem the small claimed uncertainty aggressive, but not manifestly implausible. 
+					</div>
+					<div class="uAuthor">
+						Theoretical Perspectives: XLIII Rencontres de Moriond - QCD
+					</div>
+										<div class="usage">
+						Therefore, we employ an aggressive band-pass ﬁlter, shown in the boxed section of the schematic. 
+					</div>
+					<div class="uAuthor">
+						Single barium ion spectroscopy: light shifts, hyperfine structure, and progress on an optical frequency standard and atomic parity violation
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="violent action that is hostile and usually unprovoked"><a href="hostility.html">hostility</a>, </div><div class="synGroup" title="a feeling of hostility that arouses thoughts of attack"><a href="aggressiveness.html">aggressiveness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="action.html">action</a>, <a href="armed%20combat.html">armed combat</a>, <a href="behavior.html">behavior</a>, <a href="behaviour.html">behaviour</a>, <a href="combat.html">combat</a>, <a href="conduct.html">conduct</a>, <a href="doings.html">doings</a>, <a href="enmity.html">enmity</a>, <a href="hostility.html">hostility</a>, <a href="ill%20will.html">ill will</a>, <a href="unfriendliness.html">unfriendliness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="aggravation.html">aggravation</a>, <a href="bitchery.html">bitchery</a>, <a href="bullying.html">bullying</a>, <a href="force.html">force</a>, <a href="hell%20raising.html">hell raising</a>, <a href="intimidation.html">intimidation</a>, <a href="irritation.html">irritation</a>, <a href="meat%20grinder.html">meat grinder</a>, <a href="pillage.html">pillage</a>, <a href="pillaging.html">pillaging</a>, <a href="plundering.html">plundering</a>, <a href="provocation.html">provocation</a>, <a href="raising%20hell.html">raising hell</a>, <a href="self-assertion.html">self-assertion</a>, <a href="violence.html">violence</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="aggress.html">aggress</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="aggress.html">aggress</a>, <a href="aggressive.html">aggressive</a>, <a href="aggressor.html">aggressor</a>, <a href="aggro.html">aggro</a>, <a href="Armed%20neutrality.html">Armed neutrality</a>, <a href="beat.html">beat</a>, <a href="beat%20up.html">beat up</a>, <a href="defensive.html">defensive</a>, <a href="force.html">force</a>, <a href="George%20F.%20Kennan.html">George F. Kennan</a>, <a href="George%20Frost%20Kennan.html">George Frost Kennan</a>, <a href="hostility.html">hostility</a>, <a href="Kennan.html">Kennan</a>, <a href="onslaught.html">onslaught</a>, <a href="oral.html">oral</a>, <a href="preventive%20attack.html">preventive attack</a>, <a href="preventive%20strike.html">preventive strike</a>, <a href="To%20be%20on%20the%20defensive.html">To be on the defensive</a>, <a href="To%20stand%20on%20the%20defensive.html">To stand on the defensive</a>, <a href="Triple%20Alliance.html">Triple Alliance</a>, <a href="violence.html">violence</a>, <a href="war.html">war</a>, <a href="work%20over.html">work over</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qggression, wggression, sggression, zggression, afgression, atgression, ahgression, abgression, avgression, agfression, agtression, aghression, agbression, agvression, aggeession, aggdession, aggfession, aggtession, aggrwssion, aggrsssion, aggrdssion, aggrrssion, aggreasion, aggrewsion, aggredsion, aggrexsion, aggrezsion, aggreasion, aggresaion, aggreswion, aggresdion, aggresxion, aggreszion, aggresaion, aggressuon, aggressjon, aggresskon, aggressoon, aggressiin, aggressikn, aggressiln, aggressipn, aggressiob, aggressioh, aggressioj, aggressiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

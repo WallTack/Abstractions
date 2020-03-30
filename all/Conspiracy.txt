@@ -1,0 +1,532 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>conspiracy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">conspiracy</span> <span class="exp">a plot to carry out some harmful or illegal act (especially a political plot)</span> </li><li><span class="tSpeech">n</span> <span class="term">conspiracy</span> <span class="exp">a secret agreement between two or more people to perform an unlawful act</span> </li><li><span class="tSpeech">n</span> <span class="term">conspiracy</span> <span class="exp">a group of conspirators banded together to achieve some harmful or illegal purpose</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										When he resigned in 1923 because of illegal behavior in the Teapot Dome Affair, Secretary of the Interior Albert Fall was offered an appointment to the Supreme Court by President Harding. In 1931, Fall was tried and found guilty of conspiracy to defraud.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Conspiracy</span> <span class="exp">A combination of people for an evil purpose; an agreement, between two or more persons, to commit a crime in concert, as treason; a plot.</span> <span class="wuQuot">"When shapen was all his conspiracy From point to point."</span><span class="wuQuot">"They made a conspiracy against [Amaziah]."</span><span class="wuQuot">"I had forgot that foul conspiracy"</span><span class="wuQuot">"Of the beast Caliban and his confederates."</span></li><li><span class="term">Conspiracy</span> <span class="exp">A concurence or general tendency, as of circumstances, to one event, as if by agreement.</span> <span class="wuQuot">"A conspiracy in all heavenly and earthly things."</span></li><li><span class="term">Conspiracy</span> <span class="exp"><span class="wuFld">(Law)</span> An agreement, manifesting itself in words or deeds, by which two or more persons confederate to do an unlawful act, or to use unlawful to do an act which is lawful; confederacy.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">conspiracy</span> <span class="exp">A combination of persons for an evil purpose; an agreement between two or more persons to commit in concert something reprehensible, injurious, or illegal; particularly, a combination to commit treason, or excite sedition or insurrection; a plot; concerted treason. In legal usage a conspiracy is a combination of two or more persons, by some concerted action, to accomplish some criminal or unlawful purpose, or to accomplish some purpose not in itself criminal or unlawful by criminal or unlawful means. The term was formerly used in English law more specifically to designate an agreement between two or more persons falsely and maliciously to indict, or procure to be indicted, an innocent person of felony.</span> </li><li><span class="tSpeech">n</span> <span class="term">conspiracy</span> <span class="exp">Hence Any concurrence in action; combination in bringing about a given result.</span> </li><li><span class="tSpeech">n</span> <span class="term">conspiracy</span> <span class="exp">Synonyms Intrigue, cabal, machination.</span> </li><li><span class="tSpeech">n</span> <span class="term">conspiracy</span> <span class="exp">An ancient writ which was issued against parties alleged to be guilty of a conspiracy to indict a party for treason or a felony.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Conspiracy</span> <span class="exp">the act of conspiring: a banding together for an evil purpose: a plot: concurrence</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Updike</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Updike.jpg" alt="John%20Updike">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“America is a vast conspiracy to make you happy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Buchan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John Buchan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Civilization is a conspiracy. Modern life is the silent compact of comfortable folk to keep up pretences.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alexis De Tocqueville</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Alexis%20De%20Tocqueville.jpg" alt="Alexis%20De%20Tocqueville">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In countries where associations are free, secret societies are unknown. In America there are factions, but no conspiracies.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jim Henson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jim Henson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nobody creates a fad. It just happens. People love going along with the idea of a beautiful pig. It's like a conspiracy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Martin Amis</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Martin Amis">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Money doesn't mind if we say it's evil, it goes from strength to strength. It's a fiction, an addiction, and a tacit conspiracy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Bernard Shaw</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Bernard%20Shaw.jpg" alt="George%20Bernard%20Shaw">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“All professions are conspiracies against the laity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					See <span class="wUer">Conspiration</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>conspirāre</i>—<i>con</i>, together, <i>spirāre</i>, to breathe.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Indeed, the charge of conspiracy was proved beyond the shadow of a doubt.
+					</div>
+					<div class="uAuthor">
+						"The Swedish Revolution Under Gustavus Vasa" by <span>Paul Barron Watson</span>					</div>
+										<div class="usage">
+						The conspiracy was crushed, and crushed, happily, without bloodshed.
+					</div>
+					<div class="uAuthor">
+						"The Reign of Mary Tudor" by <span>James Anthony Froude</span>					</div>
+										<div class="usage">
+						It was a conspiracy... "My counsel was a fool too," he added.
+					</div>
+					<div class="uAuthor">
+						"Chance" by <span>Joseph Conrad</span>					</div>
+										<div class="usage">
+						The glory of a grand conspiracy shone in their eyes.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old New York" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						He formed a conspiracy to seize the persons of Mary and her husband.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						A conspiracy was on foot to murder the father of the armies, the greatest and best of Caesars.
+					</div>
+					<div class="uAuthor">
+						""Unto Caesar"" by <span>Baroness Emmuska Orczy</span>					</div>
+										<div class="usage">
+						The Babington conspiracy had been detected the year before.
+					</div>
+					<div class="uAuthor">
+						"Sir Walter Ralegh" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						He was given the nickname of Malagrida, a Portuguese Jesuit who had been executed for conspiracy in 1761.
+					</div>
+					<div class="uAuthor">
+						"The Political History of England - Vol. X." by <span>William Hunt</span>					</div>
+										<div class="usage">
+						A conspiracy was organized against him by a soldier named Caius Cassius and others of the discontented.
+					</div>
+					<div class="uAuthor">
+						"Historic Tales, Volume 11 (of 15)" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						The offences principally cognizable in this court were forgery, perjury, riot, maintenance, fraud, libel, and conspiracy.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Volume 11" by <span>Various</span>					</div>
+										<div class="usage">
+						This paper is of the utmost importance to you, since it proves your identity, and lays bare the conspiracy against you.
+					</div>
+					<div class="uAuthor">
+						"Tom, The Bootblack" by <span>Horatio Alger</span>					</div>
+										<div class="usage">
+						There was but one insignificant conspiracy against him during his whole reign.
+					</div>
+					<div class="uAuthor">
+						"Great Men and Famous Women. Vol. 1 of 8" by <span>Various</span>					</div>
+										<div class="usage">
+						No one ever joins a conspiracy who has any.
+					</div>
+					<div class="uAuthor">
+						"Vera" by <span>Oscar Wilde</span>					</div>
+										<div class="usage">
+						The conspiracy had no wide ramifications, and the arrest of its leader and his companions brought it to an immediate end.
+					</div>
+					<div class="uAuthor">
+						"The Political History of England - Vol XI" by <span>George Brodrick</span>					</div>
+										<div class="usage">
+						If you give me any trouble I will summon you before the police for conspiracy against a traveller.
+					</div>
+					<div class="uAuthor">
+						"The Dodge Club" by <span>James De Mille</span>					</div>
+										<div class="usage">
+						He has heard rumours of conspiracy, and here, as in the field, would die to serve his prince.
+					</div>
+					<div class="uAuthor">
+						"The Mirror of Taste, and Dramatic Censor, Vol. I, No. 6, June 1810" by <span>Various</span>					</div>
+										<div class="usage">
+						There was a woman in the secret of this conspiracy, though how she obtained a knowledge of it no one seemed to know.
+					</div>
+					<div class="uAuthor">
+						"Nero" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						What was meant I do not know, except that there is some conspiracy afoot.
+					</div>
+					<div class="uAuthor">
+						"My Sword's My Fortune" by <span>Herbert Hayens</span>					</div>
+										<div class="usage">
+						The Government has unravelled a good deal of the conspiracy.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science, October, 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						Even though they looked rich, they had that habit of finding oppression and conspiracy everywhere.
+					</div>
+					<div class="uAuthor">
+						"The Cup of Fury" by <span>Rupert Hughes</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Theirs is a blest intrigue,<br>
+They are in league,<br>
+God and my conscience, in conspiracy<br>
+To parch my corporal being utterly.
+							<div class="poet">"Keepers On The Tower" by <span>Benjamin Musser</span></div>
+						</div>
+											<div class="poemQuote">
+							To them it was revealed how they had found<br>
+The kindred nature and the needed mind;<br>
+The mate by long conspiracy designed;<br>
+The flower to plant in sanctuary ground.
+							<div class="poet">"The Hueless Love" by <span>George Meredith</span></div>
+						</div>
+											<div class="poemQuote">
+							Low strips of mist that mesh the moon<br>
+Above the foaming waterfall;<br>
+And mountains, that God's hand hath hewn,<br>
+And forests, where the great winds call,—<br>
+Within the grasp of such as see<br>
+Are parts of a conspiracy;
+							<div class="poet">"The Age Of Gold" by <span>Madison Julius Cawein</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Among the conspiracy theories floating around the 2012 election is this one: That in Wood County in northwest Ohio, more voters voted for President Obama than there were eligible voters.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.daytondailynews.com/news/news/national-govt-politics/countys-registration-oddity-fires-up-conspiracy-th/nS8YZ/" target="_blank" rel="external nofollow">daytondailynews.com</a>
+					</div>
+										<div class="usage">
+						He said that Chafin's lawsuit is part of a conspiracy that she, Jeananne Gilco and Sherry Frye came up with while they were housed together in a regional jail.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wvgazette.com/News/201210100254?page=2&amp;build=cache" target="_blank" rel="external nofollow">wvgazette.com</a>
+					</div>
+										<div class="usage">
+						In Jerry Sandusky trial, the jury would have to believe in one outlandish conspiracy theory to find him not guilty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/sports/index.ssf/2012/06/politi_in_jerry_sandusky_trial.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Mark Wilson/Getty Images For the jury to find Jerry Sandusky not guilty, it will have to believe in a wild conspiracy theory.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/sports/index.ssf/2012/06/politi_in_jerry_sandusky_trial.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						 Overheated politics cooks up conspiracy theories.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/10/08/3858158/overheated-politics-cooks-up-conspiracy.html" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						More than a century ago, a conspiracy surrounding drug prohibition helped undo the Hawaiian monarchy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mauitime.com/Articles-i-2010-01-14-72113.113117_Opium_and_the_Overthrow.html" target="_blank" rel="external nofollow">mauitime.com</a>
+					</div>
+										<div class="usage">
+						Denver Police Chief Gerry Whitman might just be part of a conspiracy to cover up information that could be embarrassing to Governor Bill Ritter and his pick for Colorado's next US attorney, Stephanie Villafuerte.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.5280.com/blogs/2009/12/01/how-denver-police-department-became-involved-party-politics" target="_blank" rel="external nofollow">5280.com</a>
+					</div>
+										<div class="usage">
+						 PCP conspiracy alleged in KC area.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/11/14/3917468/pcp-conspiracy-alleged-in-kc-area.html" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						Audi Pineda, 38, of Pawtucket, was convicted of possession with the intent to distribute oxycodone and conspiracy, federal prosecutors said.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pawtuckettimes.com/content/man-convicted-peddling-drugs" target="_blank" rel="external nofollow">pawtuckettimes.com</a>
+					</div>
+										<div class="usage">
+						Conspiracy theories about 9/11 permeate the Muslim world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/stories/opinion/perspectives/spurn-the-truthers-conspiracy-theories-about-911-permeate-the-muslim-world-652914/" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						I'm not much of a con­spir­acy the­o­rist, but does any­body remem­ber when DST was just a sum­mer thing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://delgazette.com/2012/10/perseus/" target="_blank" rel="external nofollow">delgazette.com</a>
+					</div>
+										<div class="usage">
+						Louisiana Institute of Film Technology founder Malcolm Petal pleaded guilty Friday, December 12, 2008 on conspiracy charges stemming from a $65,000 bribe paid to Louisiana's former Director of Entertainment Economic Development, Mark Smith.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.nola.com/business_of_film/2008/12/malcolm_petal_pleads_guilty_to.html" target="_blank" rel="external nofollow">blog.nola.com</a>
+					</div>
+										<div class="usage">
+						Rubio has had enough of Trump's birther conspiracies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.timesunion.com/capitol/archives/63724/roundup-cathie-black-is-phenomenally-qualified-says-bloomberg/" target="_blank" rel="external nofollow">blog.timesunion.com</a>
+					</div>
+										<div class="usage">
+						In retrial, Arthur J Chappell was found guilty of sex trafficking a minor and conspiracy to make child porn.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/local/south/175784711.html" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						A Capitol Heights woman and her younger brother were found guilty of first-degree murder and conspiracy in the beating and stabbing death of a Northeast Washington pizza parlor owner Wednesday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://washingtonpost.com/blogs/crime-scene/post/woman-brother-guilty-in-2009-dc-pizza-shop-killing/2011/08/03/gIQAyxYesI_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						If, in addition, there is a stage of granduniﬁcation, since there is no reason for a conspiracy between contributions of different nature, such processes should eventually be enhanced. 
+					</div>
+					<div class="uAuthor">
+						Lepton Flavour Violation
+					</div>
+										<div class="usage">
+						They do not, as often stated (see for example Lalo¨e’s review article, ref. ) require “conspiracies” between the detectors. 
+					</div>
+					<div class="uAuthor">
+						The "Chaotic Ball" model,local realism and the Bell test loopholes
+					</div>
+										<div class="usage">
+						Thus if we assume higher order terms become increasingly small, then barring a conspiracy of cancellation between terms ′ | ∼ (nS − 1)2 or less. 
+					</div>
+					<div class="uAuthor">
+						Next-generation test of cosmic inflation
+					</div>
+										<div class="usage">
+						Measuring the locations of multiple peaks makes this conspiracy of power spectrum parameters more difﬁcult, however, and for the best experiments the correlation disappears. 
+					</div>
+					<div class="uAuthor">
+						Next-generation test of cosmic inflation
+					</div>
+										<div class="usage">
+						This conspiracy of two ∼ 20% effects produces a sizable shift in the ratio of the Λb and B -meson lifetimes. 
+					</div>
+					<div class="uAuthor">
+						Spectator effects and lifetimes of heavy hadrons
+					</div>
+										<div class="usage">
+						This conspiracy of two ∼ 20% effects produces such a sizable shift in the ratio of the Λb and B -meson lifetimes. 
+					</div>
+					<div class="uAuthor">
+						Lifetimes of heavy hadrons
+					</div>
+										<div class="usage">
+						The present limit on the electron EDM de &lt; ∼ 10−27 ecm restricts the imaginary part of the ﬂavor-diagonal insertion (δ ˜ℓ LR )ee (to the level of 10−8) and arg(µ) (less strongly due to a possible conspiracy of Ma jorana phases). 
+					</div>
+					<div class="uAuthor">
+						Mini-review on Lepton Flavor and CP Violation in SUSY
+					</div>
+										<div class="usage">
+						It may seem that proposing a deviation from the power law source spectrum at that energy would be a conspiracy and considered unlikely. 
+					</div>
+					<div class="uAuthor">
+						Modern tests of Lorentz invariance
+					</div>
+										<div class="usage">
+						Relaxing it allows for “conspiracies” that can spoof the test, and it is not so clear how to work around them (See Appendix A for an example given by Wim van Dam). 
+					</div>
+					<div class="uAuthor">
+						Self-Testing of Quantum Circuits
+					</div>
+										<div class="usage">
+						The main tool for thwarting conspiracies is the Mayers-Yao test of an EPR pair. 
+					</div>
+					<div class="uAuthor">
+						Self-Testing of Quantum Circuits
+					</div>
+										<div class="usage">
+						The assumptions we have made so far for gate testing are allowing very broad and generic conspiracies. 
+					</div>
+					<div class="uAuthor">
+						Self-Testing of Quantum Circuits
+					</div>
+										<div class="usage">
+						Then as now the central concerns were apparent conspiracies among fundamental parameters of physics and cosmology that appear necessary to insure the emergence of life. 
+					</div>
+					<div class="uAuthor">
+						Enlightenment, Knowledge, Ignorance, Temptation
+					</div>
+										<div class="usage">
+						It prominently featured a number of physicists who subsisted on the fringes, voices in the wilderness who had for many years promoted strange arguments about conspiracies among fundamental constants and alternative universes. 
+					</div>
+					<div class="uAuthor">
+						Enlightenment, Knowledge, Ignorance, Temptation
+					</div>
+										<div class="usage">
+						The required conspiracies among the masses mu , md , me are all the more perplexing because each of the masses is far smaller than the “natural” value, 250 GeV, set by the Higgs condensate. 
+					</div>
+					<div class="uAuthor">
+						Enlightenment, Knowledge, Ignorance, Temptation
+					</div>
+										<div class="usage">
+						This must be either true or the result of a total1y uncopernican conspiracy (in which most of the systems are face-on and so do not eclipse) or an almost equally unlikely gross overestimate of the size of the parent population of B dwarfs in general. 
+					</div>
+					<div class="uAuthor">
+						Astrophysics in 2006
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a plot to carry out some harmful or illegal act (especially a political plot)"><a href="cabal.html">cabal</a>, </div><div class="synGroup" title="a secret agreement between two or more people to perform an unlawful act"><a href="confederacy.html">confederacy</a>, </div><div class="synGroup" title="a group of conspirators banded together to achieve some harmful or illegal purpose"><a href="confederacy.html">confederacy</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="agreement.html">agreement</a>, <a href="band.html">band</a>, <a href="circle.html">circle</a>, <a href="game.html">game</a>, <a href="lot.html">lot</a>, <a href="plot.html">plot</a>, <a href="secret%20plan.html">secret plan</a>, <a href="set.html">set</a>, <a href="understanding.html">understanding</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="gunpowder%20plot.html">gunpowder plot</a>, <a href="conspiracy%20of%20silence.html">conspiracy of silence</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="conspiratorial.html">conspiratorial</a>, <a href="conspire.html">conspire</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Brutus.html">Brutus</a>, <a href="cabal.html">cabal</a>, <a href="Cassius.html">Cassius</a>, <a href="Cassius%20Longinus.html">Cassius Longinus</a>, <a href="Catilinarian.html">Catilinarian</a>, <a href="coconspirator.html">coconspirator</a>, <a href="combination%20in%20restraint%20of%20trade.html">combination in restraint of trade</a>, <a href="combine.html">combine</a>, <a href="complot.html">complot</a>, <a href="Complotment.html">Complotment</a>, <a href="concoct.html">concoct</a>, <a href="Confederacy.html">Confederacy</a>, <a href="conjuration.html">conjuration</a>, <a href="conjure.html">conjure</a>, <a href="conspiracy%20of%20silence.html">conspiracy of silence</a>, <a href="Conspirant.html">Conspirant</a>, <a href="Conspiration.html">Conspiration</a>, <a href="conspirative.html">conspirative</a>, <a href="conspirator.html">conspirator</a>, <a href="conspiratorial.html">conspiratorial</a>, <a href="conspire.html">conspire</a>, <a href="Conspiringly.html">Conspiringly</a>, <a href="consult.html">consult</a>, <a href="Covin.html">Covin</a>, <a href="Decembrist.html">Decembrist</a>, <a href="delusions%20of%20persecution.html">delusions of persecution</a>, <a href="foul.html">foul</a>, <a href="frame-up.html">frame-up</a>, <a href="Gaius%20Cassius%20Longinus.html">Gaius Cassius Longinus</a>, <a href="Gunpowder%20Plot.html">Gunpowder Plot</a>, <a href="implicate.html">implicate</a>, <a href="intrigue.html">intrigue</a>, <a href="Land%20League.html">Land League</a>, <a href="Luddite.html">Luddite</a>, <a href="machinate.html">machinate</a>, <a href="machinator.html">machinator</a>, <a href="Marcus%20Junius%20Brutus.html">Marcus Junius Brutus</a>, <a href="moon.html">moon</a>, <a href="plot.html">plot</a>, <a href="plotter.html">plotter</a>, <a href="ramification.html">ramification</a>, <a href="Sun%20Myung%20Moon.html">Sun Myung Moon</a>, <a href="Synomosy.html">Synomosy</a>, <a href="To%20fob%20off.html">To fob off</a>, <a href="traitorous.html">traitorous</a>, <a href="tyrant.html">tyrant</a>, <a href="Whiskey%20Ring.html">Whiskey Ring</a>, <a href="Whisky%20Ring.html">Whisky Ring</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xonspiracy, donspiracy, fonspiracy, vonspiracy, cinspiracy, cknspiracy, clnspiracy, cpnspiracy, cobspiracy, cohspiracy, cojspiracy, comspiracy, conapiracy, conwpiracy, condpiracy, conxpiracy, conzpiracy, conapiracy, consoiracy, consliracy, conspuracy, conspjracy, conspkracy, consporacy, conspieacy, conspidacy, conspifacy, conspitacy, conspirqcy, conspirwcy, conspirscy, conspirzcy, conspiraxy, conspirady, conspirafy, conspiravy, conspiract, conspiracg, conspirach, conspiracu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

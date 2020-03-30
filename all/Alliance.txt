@@ -1,0 +1,539 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>alliance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">the act of forming an alliance or confederation</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">a formal agreement establishing an association or alliance between nations or other groups to achieve a particular aim</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">an organization of people (or countries) involved in a pact or treaty</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">a connection based on kinship or marriage or common interest</span> <span class="quot">"the shifting alliances within a large family","their friendship constitutes a powerful bond between them"</span></li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">the state of being allied or confederated</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Alliance</span> <span class="exp">Any union resembling that of families or states; union by relationship in qualities; affinity.</span> <span class="wuQuot">"The alliance of the principles of the world with those of the gospel."</span><span class="wuQuot">"The alliance . . . between logic and metaphysics."</span></li><li><span class="term">Alliance</span> <span class="exp">The persons or parties allied.</span> </li><li><span class="term">Alliance</span> <span class="exp">The state of being allied; the act of allying or uniting; a union or connection of interests between families, states, parties, etc., especially between families by marriage and states by compact, treaty, or league; as, matrimonial <span class="wUex">alliances</span>; an <span class="wUex">alliance</span> between church and state; an <span class="wUex">alliance</span> between France and England.
+         </span> </li><li><span class="tSpeech">v. t</span> <span class="term">Alliance</span> <span class="exp">To connect by alliance; to ally.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">The state of being allied or connected; the relation between parties allied or connected. Specifically— Marriage, or the relation or union brought about between families through marriage.</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">Connection by kindred.</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">Union between nations, contracted by compact, treaty, or league. Such alliance may be defensive, that is, an agreement to defend each other when attacked; or offensive, that is, an agreement to make a combined attack on another nation; or it may be both offensive and defensive.</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">Any joining of efforts or interests by persons, families, states, or organizations: as, an alliance between church and state.</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">The compact or treaty which is the instrument of allying or confederating: as, to draw up an alliance.</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">The aggregate of persons or parties allied.</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">In botany, a grade intermediate between class and order: the equivalent in Lindley's classification of the more recent term cohort.</span> </li><li><span class="tSpeech">n</span> <span class="term">alliance</span> <span class="exp">In zoology, a natural group of related families; a superfamily or suborder.</span> </li><li><span class="term">alliance</span> <span class="exp">To unite by confederacy; join in alliance; ally.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Alliance</span> <span class="exp"><span class="itl">al-lī′ans</span> state of being allied: union by marriage or treaty.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Phaedrus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Phaedrus.jpg" alt="Phaedrus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“An alliance with a powerful person is never safe.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Jefferson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Jefferson.jpg" alt="Thomas%20Jefferson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Peace, commerce and honest friendship with all nations; entangling alliances with none.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Washington</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Washington.jpg" alt="George%20Washington">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“'Tis our true policy to steer clear of permanent alliances with any portion of the foreign world.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edwin Hubbel Chapin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edwin%20Hubbel%20Chapin.jpg" alt="Edwin%20Hubbel%20Chapin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Not in achievement, but in endurance, of the human soul, does it show its divine grandeur and its alliance with the infinite.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Isidore Ducasse Lautreamont</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Isidore Ducasse Lautreamont">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is a power stronger than will. Could a stone escape from the laws of gravity? Impossible. Impossible, for evil to form an alliance with good.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Caleb Colton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Caleb%20Colton.jpg" alt="Charles%20Caleb%20Colton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Love is an alliance of friendship and animalism; if the former predominates it is passion exalted and refined; if the latter, gross and sensual.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">aliaunce</span>, OF. <span class="wUets">aliance</span>, F. <span class="wUets">alliance</span>, fr. OF. <span class="wUets">alier</span>, F. <span class="wUets">allier</span>,. See <span class="wUer">Ally</span>, and cf. LL. <span class="wUets">alligantia</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					See <b>Ally</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Henceforward, no alliances could be formed with any native prince without the express sanction of Parliament.
+					</div>
+					<div class="uAuthor">
+						"A History of the Nineteenth Century, Year by Year" by <span>Edwin Emerson</span>					</div>
+										<div class="usage">
+						Through her embassadors she endeavored to effect an alliance.
+					</div>
+					<div class="uAuthor">
+						"Louis XIV., Makers of History Series" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						So far he had relied on the Czar, who stood by the alliance in the face of his people's opposition.
+					</div>
+					<div class="uAuthor">
+						"The Life of Napoleon Bonaparte" by <span>William Milligan Sloane</span>					</div>
+										<div class="usage">
+						For, said he, if this alliance with the Pope should come, it must be an alliance with the Pope and the Emperor Charles.
+					</div>
+					<div class="uAuthor">
+						"The Fifth Queen Crowned" by <span>Ford Madox Ford</span>					</div>
+										<div class="usage">
+						In spite of the reluctance of Maria Theresa, Kaunitz, in July 1771, concluded a defensive alliance with the Porte.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 3, Part 1, Slice 1" by <span>Various</span>					</div>
+										<div class="usage">
+						Englishmen were dismissed from the Scottish court, their fiefs were confiscated, and an alliance was concluded with Philip IV., king of France.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 3, Part 1, Slice 2" by <span>Various</span>					</div>
+										<div class="usage">
+						It is the alliance of God and Nature, immutable, eternal, fixed as the firmament of heaven.
+					</div>
+					<div class="uAuthor">
+						"Lectures on the French Revolution" by <span>John Emerich Edward Dalberg-Acton</span>					</div>
+										<div class="usage">
+						He would like an alliance between England and us.
+					</div>
+					<div class="uAuthor">
+						"The Art of Disappearing" by <span>John Talbot Smith</span>					</div>
+										<div class="usage">
+						The Democrats defeated the Republicans in the East while the Farmers' Alliance undermined them in the West.
+					</div>
+					<div class="uAuthor">
+						"The New Nation" by <span>Frederic L. Paxson</span>					</div>
+										<div class="usage">
+						Don Estevan does not wish this alliance.
+					</div>
+					<div class="uAuthor">
+						"Wood Rangers" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Beorhtric gained the upper hand, and entered into alliance with Offa by taking his daughter to wife.
+					</div>
+					<div class="uAuthor">
+						"A Student's History of England, v. 1 (of 3)" by <span>Samuel Rawson Gardiner</span>					</div>
+										<div class="usage">
+						She desires an alliance.
+					</div>
+					<div class="uAuthor">
+						"The Master Mummer" by <span>E. Phillips Oppenheim</span>					</div>
+										<div class="usage">
+						In the brief space that remains I desire to discuss the policy of the nations which are fighting the Teutonic Alliance.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume I (of 8)" by <span>Various</span>					</div>
+										<div class="usage">
+						His daughters made foreign matrimonial alliances.
+					</div>
+					<div class="uAuthor">
+						"As I Remember" by <span>Marian Gouverneur</span>					</div>
+										<div class="usage">
+						Why have you suffered me, father, to contract these intellectual habits and tastes, if you wish me to form such an alliance?
+					</div>
+					<div class="uAuthor">
+						"Madame Roland, Makers of History" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						I am here for one purpose, to prevent the forming of an alliance between Christians and Tartars.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: Land of the Infidel" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						But if the question of the alliance were to drag on, the foes of the alliance would try again to strike at them.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: The Holy War" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						In short, the barons, far from breaking up their alliance, confirmed it with new oaths.
+					</div>
+					<div class="uAuthor">
+						"A History of England Principally in the Seventeenth Century, Volume I (of 6)" by <span>Leopold von Ranke</span>					</div>
+										<div class="usage">
+						Before the French alliance more than six hundred British vessels fell a prey to American cruisers, mainly privateers.
+					</div>
+					<div class="uAuthor">
+						"Paul Jones" by <span>Hutchins Hapgood</span>					</div>
+										<div class="usage">
+						The alliance was rendered more easy by Duchesneau's devoutness.
+					</div>
+					<div class="uAuthor">
+						"The Fighting Governor" by <span>Charles W. Colby</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							America, the land of science,<br>
+The land of every nation's love,<br>
+Has formed with Freedom an alliance<br>
+So pure, 'tis registered above!
+							<div class="poet">"The Triumph Of Liberty" by <span>James Madison Bell</span></div>
+						</div>
+											<div class="poemQuote">
+							So long as of Nature the charms I pursue,<br>
+I still must my Delia's dear image renew;<br>
+The Graces have yielded with Delia to rove,<br>
+And the Muses are all in alliance with Love.
+							<div class="poet">"The Scholar's Relapse" by <span>William Shenstone</span></div>
+						</div>
+											<div class="poemQuote">
+							And of th' all-glorious Trinity entreat<br>
+That this alliance thou may'st still defeat,<br>
+And that he'd grace and strength to thee afford,<br>
+In thy profession, well to serve the Lord.
+							<div class="poet">"A Warning To Guard, Whilst It Is Yet Day, Against The Assaults Of The World, The Flesh, And The Devi" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							As for beautiful plants they were there by the score,<br>
+And some belonging to William Alliance and Peter Balmore<br>
+Also exotic Ferns most charming to be seen<br>
+In the Grand Flower Show on the Magdalen Green
+							<div class="poet">"The Dundee Flower Show:Dedicated to the Right Honourable Earl of Dalhousie" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							Yes, toward the ocean, far out toward ocean,<br>
+That knows no hour of self-atonement!<br>
+For all that suffer release it offers,<br>
+But trails forever its own enigma.<br>
+A strange alliance with Death unites it,<br>
+That all it give Him,—itself excepting!
+							<div class="poet">"The Ocean" by <span>Bjornstjerne Bjornson</span></div>
+						</div>
+											<div class="poemQuote">
+							The place from which Bonaparte viewed the bloody field<br>
+Was the farmhouse of La Belle Alliance, which some protection did yield;<br>
+And there he remained for the most part of the day,<br>
+Pacing to and fro with his hands behind him in doubtful dismay. 
+							<div class="poet">"The Battle of Waterloo" by <span>William Topaz McGonagall</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The trust set up to compensate people injured by fen -phen, the formerly popular diet drug, says that an alliance of doctors and lawyers filing invalid claims threatens to drain its coffers.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2003/10/07/business/tough-questions-are-raised-on-fen-phen-compensation.html?ref=pondimindrug" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Jason Braverman Chuck Warbington, executive director of the Gwinnett Village CID, addresses a crowd on Thursday at the Gwinnett Village Community Alliance Financial Services Center in Norcross.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gwinnettdailypost.com/news/2009/oct/22/gwinnett-village-opens-financial-center/" target="_blank" rel="external nofollow">gwinnettdailypost.com</a>
+					</div>
+										<div class="usage">
+						The Fort Wayne-Allen County Economic Development Alliance began in 2000 as the lead organization for economic development activities throughout the county.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.journalgazette.net/article/20120501/BLOGS01/120509974" target="_blank" rel="external nofollow">journalgazette.net</a>
+					</div>
+										<div class="usage">
+						The Crossing Arts Alliance is offering a fun Flipside Kids activity: paper hat making.
+					</div>
+					<div class="uAuthor">
+						<a href="http://brainerddispatch.com/blog-post/crossing-arts-alliance/2012-06-29/arts-park-flipside-kids-hat-making-activity" target="_blank" rel="external nofollow">brainerddispatch.com</a>
+					</div>
+										<div class="usage">
+						 Flipside Summer Art Camp is co-sponsored by The Crossing Arts Alliance and ISD 181 Community Education.
+					</div>
+					<div class="uAuthor">
+						<a href="http://brainerddispatch.com/blog-post/crossing-arts-alliance/2012-05-25/flipside-art-camp-kids" target="_blank" rel="external nofollow">brainerddispatch.com</a>
+					</div>
+										<div class="usage">
+						And Fluor Global Services has created a strategic alliance that will deliver a broad range of service and manufacturing solutions through a single source.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.industrialheating.com/articles/84513-rockwell-automation-fluor-global-services-form-alliance" target="_blank" rel="external nofollow">industrialheating.com</a>
+					</div>
+										<div class="usage">
+						Search over 40,000 real estate listings and homes for sale in the Denver, Aurora, Boulder, Fort Collins and Englewood areas at www.homesincolorado.com Denver real estate advertisement for RE/MAX Alliance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.denverpost.com/realestate/ci_20950958/location-focal-point-range-view-estates" target="_blank" rel="external nofollow">denverpost.com</a>
+					</div>
+										<div class="usage">
+						Concord Medical's Chang'an Hospital and Fox Chase Cancer Center Sign Strategic Alliance Agreement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mdtmag.com/news/2012/07/concord-medicals-changan-hospital-and-fox-chase-cancer-center-sign-strategic-alliance-agreement" target="_blank" rel="external nofollow">mdtmag.com</a>
+					</div>
+										<div class="usage">
+						Tacoma's Franciscan announces alliance with Seattle Children's Hospital.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.thenewstribune.com/business/2012/10/04/tacomas-franciscan-announces-alliance-with-seattle-childrens-hospital/" target="_blank" rel="external nofollow">blog.thenewstribune.com</a>
+					</div>
+										<div class="usage">
+						Kathy Franceschini (left) with Spike's Prime Time Fishin' laughs with Joe Yantz during a fishing trip put on Thursday by the Smith Mountain Striper Club and Freedom Alliance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.roanoke.com/news/roanoke/wb/309307" target="_blank" rel="external nofollow">roanoke.com</a>
+					</div>
+										<div class="usage">
+						Romney Looks to Rebuild Frayed Alliances With Missile Defense.
+					</div>
+					<div class="uAuthor">
+						<a href="http://spectator.org/blog/2012/10/23/gov-romney-looks-to-rebuild-fr" target="_blank" rel="external nofollow">spectator.org</a>
+					</div>
+										<div class="usage">
+						Microsoft/Intel alliance is fraying .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mactech.com/2012/09/05/isuppli-microsoftintel-alliance-fraying" target="_blank" rel="external nofollow">mactech.com</a>
+					</div>
+										<div class="usage">
+						Insurgent Alliance Is Fraying In Fallujah.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/articles/A28105-2004Oct12_2.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The Northend Ministerial Alliance will host a three-day Community Revival on Aug 7-9 at the corner of 14th and Waller Streets, in Portsmouth.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.portsmouth-dailytimes.com/view/full_story/19579240/article-Free-school-supplies-at-Community-Revival?" target="_blank" rel="external nofollow">portsmouth-dailytimes.com</a>
+					</div>
+										<div class="usage">
+						Didier Heiremans, Board President of the Alliance Française in DC.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.georgetowner.com/articles/2011/oct/19/brussels-and-french-speaking-belgium-celebrate-gastronomy-2012/" target="_blank" rel="external nofollow">georgetowner.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This work has been partially supported by Fermi Research Alliance, LLC, under Contract No. 
+					</div>
+					<div class="uAuthor">
+						The NLO multileg working group: summary report
+					</div>
+										<div class="usage">
+						Fermilab is operated by Fermi Research Alliance, LLC, under Contract No. 
+					</div>
+					<div class="uAuthor">
+						New lattice action for heavy quarks
+					</div>
+										<div class="usage">
+						Fermilab is operated by Fermi Research Alliance, LLC under Contract No. 
+					</div>
+					<div class="uAuthor">
+						Theoretical Perspectives: XLIII Rencontres de Moriond - QCD
+					</div>
+										<div class="usage">
+						BJS acknowledges support by the BMBF under grant 06DA123 and JW from the Extreme Matter Institute within the Helmholtz Alliance ’Cosmic Matter in the Laboratory’. 
+					</div>
+					<div class="uAuthor">
+						On the appearance of hyperons in neutron stars
+					</div>
+										<div class="usage">
+						CG and LW acknowledge support from the Helmholtz Association through the research alliance ―Planetary Evolution and Life‖. 
+					</div>
+					<div class="uAuthor">
+						The Cyborg Astrobiologist: Testing a Novelty-Detection Algorithm on Two Mobile Exploration Systems at Rivas Vaciamadrid in Spain and at the Mars Desert Research Station in Utah
+					</div>
+										<div class="usage">
+						Buckley additionally acknowledges support from the Scottish Universities Physics Alliance (SUPA); H. 
+					</div>
+					<div class="uAuthor">
+						THE TOOLS AND MONTE CARLO WORKING GROUP Summary Report from the Les Houches 2009 Workshop on TeV Colliders
+					</div>
+										<div class="usage">
+						Buckley additionally acknowledges support from the Scottish Universities Physics Alliance (SUPA); H. 
+					</div>
+					<div class="uAuthor">
+						THE TOOLS AND MONTE CARLO WORKING GROUP Summary Report from the Les Houches 2009 Workshop on TeV Colliders
+					</div>
+										<div class="usage">
+						Hall for fruitful discussions. A. C. D. gratefully acknowledges support from the Scottish Universities Physics Alliance and E. A. from EP/G009821/1. 
+					</div>
+					<div class="uAuthor">
+						On Bell inequality violations with high-dimensional systems
+					</div>
+										<div class="usage">
+						It can be argued that alliances can be established in a purely competitive scenario in such a way that cooperation might be valuable. 
+					</div>
+					<div class="uAuthor">
+						On the influence of intelligence in (social) intelligence testing environments
+					</div>
+										<div class="usage">
+						Work supported by Fermi Research Alliance, LLC under Contract No. 
+					</div>
+					<div class="uAuthor">
+						CW RF system of the Project-X accelerator front end
+					</div>
+										<div class="usage">
+						Fermilab is operated by Fermi Research Alliance, LLC under Contract No. 
+					</div>
+					<div class="uAuthor">
+						Stability of non-linear integrable accelerator
+					</div>
+										<div class="usage">
+						Fermilab is operated by Fermi Research Alliance, LLC under Contract No. 
+					</div>
+					<div class="uAuthor">
+						Superfluid helium testing of a stainless steel to titanium piping transition joint
+					</div>
+										<div class="usage">
+						Fermilab is operated by the Fermi Research Alliance, LLC under Contract No. 
+					</div>
+					<div class="uAuthor">
+						Design and testing of the New Muon Lab cryogenic system at Fermilab
+					</div>
+										<div class="usage">
+						Fermilab is operated by Fermi Research Alliance, LLC under Contract No. 
+					</div>
+					<div class="uAuthor">
+						Beam Physics of Integrable Optics Test Accelerator at Fermilab
+					</div>
+										<div class="usage">
+						Numerical Relativity Grand Challenge Alliance, 1995. 
+					</div>
+					<div class="uAuthor">
+						Gravitational Radiation -- A New Window Onto the Universe
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an organization of people (or countries) involved in a pact or treaty"><a href="coalition.html">coalition</a>, <a href="alignment.html">alignment</a>, <a href="alinement.html">alinement</a>, </div><div class="synGroup" title="a connection based on kinship or marriage or common interest"><a href="bond.html">bond</a>, </div><div class="synGroup" title="the state of being allied or confederated"><a href="confederation.html">confederation</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="accord.html">accord</a>, <a href="coalition.html">coalition</a>, <a href="connectedness.html">connectedness</a>, <a href="connection.html">connection</a>, <a href="connexion.html">connexion</a>, <a href="fusion.html">fusion</a>, <a href="group%20action.html">group action</a>, <a href="organisation.html">organisation</a>, <a href="organization.html">organization</a>, <a href="pact.html">pact</a>, <a href="treaty.html">treaty</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="allies.html">allies</a>, <a href="axis.html">axis</a>, <a href="central%20powers.html">central powers</a>, <a href="northern%20alliance.html">northern alliance</a>, <a href="united%20front.html">united front</a>, <a href="allies.html">allies</a>, <a href="axis.html">axis</a>, <a href="bloc.html">bloc</a>, <a href="combination.html">combination</a>, <a href="entente.html">entente</a>, <a href="entente%20cordiale.html">entente cordiale</a>, <a href="global%20organization.html">global organization</a>, <a href="international%20organisation.html">international organisation</a>, <a href="international%20organization.html">international organization</a>, <a href="popular%20front.html">popular front</a>, <a href="silver%20cord.html">silver cord</a>, <a href="world%20organisation.html">world organisation</a>, <a href="world%20organization.html">world organization</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="confederate.html">confederate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="advantage.html">advantage</a>, <a href="affiliation.html">affiliation</a>, <a href="agnation.html">agnation</a>, <a href="Alliable.html">Alliable</a>, <a href="Allies.html">Allies</a>, <a href="ally.html">ally</a>, <a href="Arales.html">Arales</a>, <a href="associate.html">associate</a>, <a href="axis.html">axis</a>, <a href="battle%20of%20Boyne.html">battle of Boyne</a>, <a href="Battle%20of%20Ravenna.html">Battle of Ravenna</a>, <a href="bloc.html">bloc</a>, <a href="Boyne.html">Boyne</a>, <a href="breed.html">breed</a>, <a href="Central%20Powers.html">Central Powers</a>, <a href="CIS.html">CIS</a>, <a href="class.html">class</a>, <a href="Coalise.html">Coalise</a>, <a href="coalition.html">coalition</a>, <a href="Coelenterata.html">Coelenterata</a>, <a href="cohort.html">cohort</a>, <a href="combination.html">combination</a>, <a href="combine.html">combine</a>, <a href="Commonwealth%20of%20Independent%20States.html">Commonwealth of Independent States</a>, <a href="Confederacy.html">Confederacy</a>, <a href="Confederate.html">Confederate</a>, <a href="confederation.html">confederation</a>, <a href="connection.html">connection</a>, <a href="consociate.html">consociate</a>, <a href="Consociation.html">Consociation</a>, <a href="Cucurbital.html">Cucurbital</a>, <a href="Disally.html">Disally</a>, <a href="dissolve.html">dissolve</a>, <a href="Dreibund.html">Dreibund</a>, <a href="entente.html">entente</a>, <a href="entente%20cordiale.html">entente cordiale</a>, <a href="Evangelical%20Alliance.html">Evangelical Alliance</a>, <a href="Federal.html">Federal</a>, <a href="federate.html">federate</a>, <a href="federation.html">federation</a>, <a href="friendship.html">friendship</a>, <a href="Fumimaro%20Konoe.html">Fumimaro Konoe</a>, <a href="Fumimaro%20Konoye.html">Fumimaro Konoye</a>, <a href="fungal.html">fungal</a>, <a href="global%20organization.html">global organization</a>, <a href="Hamburg.html">Hamburg</a>, <a href="honorary.html">honorary</a>, <a href="Inleague.html">Inleague</a>, <a href="international%20organisation.html">international organisation</a>, <a href="international%20organization.html">international organization</a>, <a href="juncture.html">juncture</a>, <a href="kin.html">kin</a>, <a href="Konoe.html">Konoe</a>, <a href="Konoye.html">Konoye</a>, <a href="Lawrence.html">Lawrence</a>, <a href="league.html">league</a>, <a href="Liage.html">Liage</a>, <a href="Lilial.html">Lilial</a>, <a href="Liliales.html">Liliales</a>, <a href="Louis%20XI.html">Louis XI</a>, <a href="Malvales.html">Malvales</a>, <a href="misalliance.html">misalliance</a>, <a href="misally.html">misally</a>, <a href="nearness.html">nearness</a>, <a href="Northern%20Alliance.html">Northern Alliance</a>, <a href="Pan-American.html">Pan-American</a>, <a href="Pan-Americanism.html">Pan-Americanism</a>, <a href="partnership.html">partnership</a>, <a href="party.html">party</a>, <a href="Prince%20Fumimaro%20Konoe.html">Prince Fumimaro Konoe</a>, <a href="Prince%20Fumimaro%20Konoye.html">Prince Fumimaro Konoye</a>, <a href="propose.html">propose</a>, <a href="proximity.html">proximity</a>, <a href="quadruple.html">quadruple</a>, <a href="Ravenna.html">Ravenna</a>, <a href="Realliance.html">Realliance</a>, <a href="related.html">related</a>, <a href="relationship.html">relationship</a>, <a href="secession.html">secession</a>, <a href="Sir%20Thomas%20Lawrence.html">Sir Thomas Lawrence</a>, <a href="Siraj-ud-daula.html">Siraj-ud-daula</a>, <a href="Spiritual%20incest.html">Spiritual incest</a>, <a href="Teuton.html">Teuton</a>, <a href="The%20Holy%20League.html">The Holy League</a>, <a href="treaty.html">treaty</a>, <a href="triple.html">triple</a>, <a href="Triple%20Alliance.html">Triple Alliance</a>, <a href="Unallied.html">Unallied</a>, <a href="United%20Front.html">United Front</a>, <a href="Urtical.html">Urtical</a>, <a href="Vespertilionine.html">Vespertilionine</a>, <a href="with.html">with</a>, <a href="withdrawal.html">withdrawal</a>, <a href="world%20organisation.html">world organisation</a>, <a href="world%20organization.html">world organization</a>, <a href="yakuza.html">yakuza</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qlliance, wlliance, slliance, zlliance, akliance, aoliance, apliance, alkiance, aloiance, alpiance, alluance, alljance, allkance, alloance, alliqnce, alliwnce, allisnce, alliznce, alliabce, alliahce, alliajce, alliamce, allianxe, alliande, allianfe, allianve, alliancw, alliancs, alliancd, alliancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

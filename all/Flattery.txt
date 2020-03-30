@@ -1,0 +1,445 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>flattery</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/180/11/2996.jpg" alt="&quot;FLATTERY WITH AN OBJECT&quot;">
+							<div class="caption">"FLATTERY WITH AN OBJECT"</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">flattery</span> <span class="exp">excessive or insincere praise</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Flattery</span> <span class="exp">The act or practice of flattering; the act of pleasing by artful commendation or compliments; adulation; false, insincere, or excessive praise.</span> <span class="wuQuot">"Just praise is only a debt, but flattery is a present."</span><span class="wuQuot">"Flattery corrupts both the receiver and the giver."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">flattery</span> <span class="exp">The act of one who flatters; false, insincere, or venal praise; obsequiousness; adulation; cajolery.</span> </li><li><span class="tSpeech">n</span> <span class="term">flattery</span> <span class="exp">Synonyms Compliment, Adulation, Flattery, etc. (see adulation); sycophancy, fawning, blandishment.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Flattery</span> <span class="exp">false praise</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Minna Antrim</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Minna%20Antrim.jpg" alt="Minna%20Antrim">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Between flattery and admiration there often flows a river of contempt.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bible</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bible">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Flattery is a form of hatred.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Josh Billings</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Josh%20Billings.jpg" alt="Josh%20Billings">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Flattery is like cologne water, to be smelt, not swallowed.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Just praise is only a debt, but flattery is a present.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Spanish Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Spanish Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Flattery makes friends and truth makes enemies.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Baruch (Benedict de) Spinoza</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Baruch%20%28Benedict%20de%29%20Spinoza.jpg" alt="Baruch%20%28Benedict%20de%29%20Spinoza">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“None are more taken in by flattery than the proud, who wish to be the first and are not.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">flaterie</span>, OF. <span class="wUets">flaterie</span>, F. <span class="wUets">flaterie</span>, fr. <span class="wUets">flater</span>, to flatter, F. <span class="wUets">flatter</span>,; of uncertain origin. See <span class="wUer">Flatter</span> (v. t.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>flater</i> (Fr. <i>flatter</i>); Teut.; cf. Ice. <i>fladhra</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In his early manhood, Henry was accounted the handsomest prince of his time, but allowance must be made for the flattery of his subjects.
+					</div>
+					<div class="uAuthor">
+						"Sir Joshua Reynolds" by <span>Estelle M. Hurll</span>					</div>
+										<div class="usage">
+						Were I to tell you of the impression you have made on every one here you would accuse me of flattery.
+					</div>
+					<div class="uAuthor">
+						"Charlotte Bronte and Her Circle" by <span>Clement K. Shorter</span>					</div>
+										<div class="usage">
+						He stole from them, only to be thrown the kisses of flattery in return.
+					</div>
+					<div class="uAuthor">
+						"Germany and the Germans" by <span>Price Collier</span>					</div>
+										<div class="usage">
+						Then Meares had gone south past Flattery, seeking in vain for the River of the West.
+					</div>
+					<div class="uAuthor">
+						"Vikings of the Pacific" by <span>Agnes C. Laut</span>					</div>
+										<div class="usage">
+						A love of flattery was her weak point.
+					</div>
+					<div class="uAuthor">
+						"Eventide" by <span>Effie Afton</span>					</div>
+										<div class="usage">
+						But the flattery of women is so much more delicate, and so much more sincere, that it is far more dangerous.
+					</div>
+					<div class="uAuthor">
+						"Hours in a Library, Volume I. (of III.)" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						How proud and dignified she had been, how piquant and daring and indifferent to flattery!
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old Detroit" by <span>Amanda Minnie Douglas</span>					</div>
+										<div class="usage">
+						He has not sought to ennoble her heart so much as to weaken it with flatteries.
+					</div>
+					<div class="uAuthor">
+						"Aims and Aids for Girls and Young Women" by <span>George Sumner Weaver</span>					</div>
+										<div class="usage">
+						Flattery may be considered as a mode of companionship, degrading but profitable to him who flatters.
+					</div>
+					<div class="uAuthor">
+						"Book of Wise Sayings" by <span>W. A. Clouston</span>					</div>
+										<div class="usage">
+						Few men are insensible to flattery.
+					</div>
+					<div class="uAuthor">
+						"The Lone Ranche" by <span>Captain Mayne Reid</span>					</div>
+										<div class="usage">
+						Flattery came easily to men in those days, and there was small hope of advancement for one who did not master the art.
+					</div>
+					<div class="uAuthor">
+						"The Bibliotaph" by <span>Leon H. Vincent</span>					</div>
+										<div class="usage">
+						And so stupid; they thought that much flattery, much fear, would move Him.
+					</div>
+					<div class="uAuthor">
+						"The Wind Bloweth" by <span>Brian Oswald Donn-Byrne</span>					</div>
+										<div class="usage">
+						Like the majority of the unworthy, she craved flattery.
+					</div>
+					<div class="uAuthor">
+						"Marjorie Dean, College Sophomore" by <span>Pauline Lester</span>					</div>
+										<div class="usage">
+						This pleased him; or perhaps it was the sense of flattery that pleased him.
+					</div>
+					<div class="uAuthor">
+						"Erik Dorn" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						It thus includes the love of flattery.
+					</div>
+					<div class="uAuthor">
+						"The Philosophy of the Moral Feelings" by <span>John Abercrombie</span>					</div>
+										<div class="usage">
+						You come with a new flattery.
+					</div>
+					<div class="uAuthor">
+						"Old Ebenezer" by <span>Opie Read</span>					</div>
+										<div class="usage">
+						Some attempt to do it by compulsion; others by flattery.
+					</div>
+					<div class="uAuthor">
+						"The Young Man's Guide" by <span>William A. Alcott</span>					</div>
+										<div class="usage">
+						He was too acute not to measure Tornabuoni's exaggerated flattery, but still the flattery had a pleasant flavour.
+					</div>
+					<div class="uAuthor">
+						"Romola" by <span>George Eliot</span>					</div>
+										<div class="usage">
+						Artful, shrewd and scheming though she was, her susceptibility to flattery was her weak point, amounting almost to a mania.
+					</div>
+					<div class="uAuthor">
+						"When Dreams Come True" by <span>Ritter Brown</span>					</div>
+										<div class="usage">
+						These letters to Lentulus are full of flattery.
+					</div>
+					<div class="uAuthor">
+						"The Life of Cicero" by <span>Anthony Trollope</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"Happy must be the State<br>
+Whose ruler heedeth more<br>
+The murmurs of the poor<br>
+Than flatteries of the great."
+							<div class="poet">"King Solomon and the Ants" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							"Nor pass the words as idle phrases by;<br>
+Stranger! I never writ a flattery,<br>
+Nor sign'd the page that register'd a lie."<br>
+
+							<div class="poet">"The Pen And The Album" by <span>William Makepeace Thackeray</span></div>
+						</div>
+											<div class="poemQuote">
+							Ah! let not pleasure blind thy eyes,<br>
+Or flattery lure thy heart;<br>
+But in the morning of thy life,<br>
+Secure the better part.
+							<div class="poet">""Though Life Is Young"" by <span>Mary Ann H T Bigelow</span></div>
+						</div>
+											<div class="poemQuote">
+							``Their pompous flatteries are not for me,<br>
+My panegyric is the secret sigh:<br>
+Wherefore should mortals monuments decree<br>
+To Me who cannot die?
+							<div class="poet">"Sacred And Profane Love" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							Deck your dull talk with pilfered shreds<br>
+Of learning from a nobler time,<br>
+And oil each other's little heads<br>
+With mutual Flattery's golden slime: 
+							<div class="poet">"Fame's Penny-Trumpet" by <span>Lewis Carroll</span></div>
+						</div>
+											<div class="poemQuote">
+							DARIA.<br>
+These fine flatteries, these fine phrases<br>
+Make me doubt of thee, Chrysanthus.<br>
+He who gilds the false so well,<br>
+Must mere truth find unattractive.
+							<div class="poet">"The Purgatory Of St. Patrick  -  Act III" by <span>Denis Florence MacCarthy</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						If imitation is flattery, then cable should be getting a dozen roses and a thank-you card any day now.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.broadcastingcable.com/article/99154-Family_resemblance.php" target="_blank" rel="external nofollow">broadcastingcable.com</a>
+					</div>
+										<div class="usage">
+						If imitation is the sincerest form of flattery, what can be said of plagiarism.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/opinion/blogs/alvin-felzenberg/2011/01/26/obamas-state-of-the-union-was-tantamount-to-plagiarism" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						MONTPELIER – The letter begins with pure flattery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesargus.com/article/20091011/NEWS01/910110347/1002/NEWS01" target="_blank" rel="external nofollow">timesargus.com</a>
+					</div>
+										<div class="usage">
+						Your form of flirtatious flattery might be reading a little creepy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mensfitness.com/women/dating-advice/why-don%E2%80%99t-my-compliments-work" target="_blank" rel="external nofollow">mensfitness.com</a>
+					</div>
+										<div class="usage">
+						He knew flattery would net him a steady supply.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thepilot.com/news/2012/jul/25/spent-less-eat-better-deconstructing-the-worlds/" target="_blank" rel="external nofollow">thepilot.com</a>
+					</div>
+										<div class="usage">
+						I know imitation is the highest form of flattery but when does it become downright stealing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kiss1041fm.com/weblogs/cynthia-youngs-blog/2011/oct/11/beyonce-creative-or-copycat/" target="_blank" rel="external nofollow">kiss1041fm.com</a>
+					</div>
+										<div class="usage">
+						From LivingSocial to Yipit, a roundup of some of the most notable daily deal sites out there, proving that imitation remains the best form of flattery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://money.cnn.com/galleries/2011/technology/1103/gallery.meet_groupon_groupies.fortune/index.html" target="_blank" rel="external nofollow">money.cnn.com</a>
+					</div>
+										<div class="usage">
+						 Imitation , flattery, etc: New York Magazine's Sarah Palin story looks awfully familiar.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.thephoenix.com/BLOGS/phlog/archive/2010/04/26/imitation-flattery-etc-new-york-magazine-s-sarah-palin-story-looks-awfully-familiar.aspx" target="_blank" rel="external nofollow">blog.thephoenix.com</a>
+					</div>
+										<div class="usage">
+						All Blogs Phlog Imitation , flattery, etc: New York Magazine's Sarah Palin story looks awfully familiar.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.thephoenix.com/BLOGS/phlog/archive/2010/04/26/imitation-flattery-etc-new-york-magazine-s-sarah-palin-story-looks-awfully-familiar.aspx" target="_blank" rel="external nofollow">blog.thephoenix.com</a>
+					</div>
+										<div class="usage">
+						 Imitation the Sincerest Flattery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.broadcastingcable.com/article/146232-HBO_and_Encore_Imitation_the_Sincerest_Flattery.php" target="_blank" rel="external nofollow">broadcastingcable.com</a>
+					</div>
+										<div class="usage">
+						When HBO unveiled its 15-channel digital multiplex last week, Encore Group Chairman John Sie let it be known that imitation is the sincerest form of flattery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.broadcastingcable.com/article/146232-HBO_and_Encore_Imitation_the_Sincerest_Flattery.php" target="_blank" rel="external nofollow">broadcastingcable.com</a>
+					</div>
+										<div class="usage">
+						Roisin Murphy Knows That Lady GaGa's Imitation Is In Fact Flattery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.weldamfm.com/roisin-murphy-knows-that-lady-gaga%E2%80%99s-imitation-is-in-fact-flattery/" target="_blank" rel="external nofollow">weldamfm.com</a>
+					</div>
+										<div class="usage">
+						"Weird Al" Yankovic on Imitation as Flattery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rollingstone.com/music/news/michael-jackson-remembered-weird-al-yankovic-on-imitation-as-flattery-20090709" target="_blank" rel="external nofollow">rollingstone.com</a>
+					</div>
+										<div class="usage">
+						Imitation is the sincerest form of flattery.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lite987.com/plastic-surgery-wish-list/" target="_blank" rel="external nofollow">lite987.com</a>
+					</div>
+										<div class="usage">
+						Her favorite flattery is being told her personality and body stand out from other Playmates .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lvrj.com/news/playmate-hefner-son-connect-120440429.html" target="_blank" rel="external nofollow">lvrj.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="compliment.html">compliment</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="adulation.html">adulation</a>, <a href="blandishment.html">blandishment</a>, <a href="blarney.html">blarney</a>, <a href="cajolery.html">cajolery</a>, <a href="coaxing.html">coaxing</a>, <a href="palaver.html">palaver</a>, <a href="puffery.html">puffery</a>, <a href="soft%20soap.html">soft soap</a>, <a href="sweet%20talk.html">sweet talk</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="flatter.html">flatter</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adulation.html">adulation</a>, <a href="adulator.html">adulator</a>, <a href="allure.html">allure</a>, <a href="amuse.html">amuse</a>, <a href="Assentation.html">Assentation</a>, <a href="attach.html">attach</a>, <a href="Beslaver.html">Beslaver</a>, <a href="Blandation.html">Blandation</a>, <a href="blandishment.html">blandishment</a>, <a href="blarney.html">blarney</a>, <a href="Blarney%20Stone.html">Blarney Stone</a>, <a href="blow.html">blow</a>, <a href="bootlicking.html">bootlicking</a>, <a href="buy.html">buy</a>, <a href="cajole.html">cajole</a>, <a href="Cajolement.html">Cajolement</a>, <a href="cajolery.html">cajolery</a>, <a href="Captation.html">Captation</a>, <a href="Carney.html">Carney</a>, <a href="Carny.html">Carny</a>, <a href="charm%20campaign.html">charm campaign</a>, <a href="coax.html">coax</a>, <a href="coaxing.html">coaxing</a>, <a href="collogue.html">collogue</a>, <a href="Comether.html">Comether</a>, <a href="compliment.html">compliment</a>, <a href="coquet.html">coquet</a>, <a href="Court.html">Court</a>, <a href="court%20favor.html">court favor</a>, <a href="court%20favour.html">court favour</a>, <a href="Court%20holy%20water.html">Court holy water</a>, <a href="curry%20favor.html">curry favor</a>, <a href="curry%20favour.html">curry favour</a>, <a href="daubing.html">daubing</a>, <a href="Demulsion.html">Demulsion</a>, <a href="Double-gild.html">Double-gild</a>, <a href="dupe.html">dupe</a>, <a href="favel.html">favel</a>, <a href="fawn.html">fawn</a>, <a href="fawning.html">fawning</a>, <a href="Fawningly.html">Fawningly</a>, <a href="feed.html">feed</a>, <a href="flannel.html">flannel</a>, <a href="Flapdoodle.html">Flapdoodle</a>, <a href="flatter.html">flatter</a>, <a href="flatterer.html">flatterer</a>, <a href="flattering.html">flattering</a>, <a href="Flatteringly.html">Flatteringly</a>, <a href="flummery.html">flummery</a>, <a href="fulsome.html">fulsome</a>, <a href="fume.html">fume</a>, <a href="gild.html">gild</a>, <a href="Gipsyism.html">Gipsyism</a>, <a href="Glaver.html">Glaver</a>, <a href="Gloze.html">Gloze</a>, <a href="Glozing.html">Glozing</a>, <a href="Gypsyism.html">Gypsyism</a>, <a href="humbug.html">humbug</a>, <a href="insinuate.html">insinuate</a>, <a href="insusceptible.html">insusceptible</a>, <a href="inveigle.html">inveigle</a>, <a href="Inveigler.html">Inveigler</a>, <a href="Legacy-hunter.html">Legacy-hunter</a>, <a href="Losengerie.html">Losengerie</a>, <a href="Losing.html">Losing</a>, <a href="luscious.html">luscious</a>, <a href="mummery.html">mummery</a>, <a href="Nootka.html">Nootka</a>, <a href="obsequious.html">obsequious</a>, <a href="palaver.html">palaver</a>, <a href="parasite.html">parasite</a>, <a href="ply.html">ply</a>, <a href="prattle.html">prattle</a>, <a href="puff.html">puff</a>, <a href="purchase.html">purchase</a>, <a href="Sawder.html">Sawder</a>, <a href="Seducement.html">Seducement</a>, <a href="seducer.html">seducer</a>, <a href="servile.html">servile</a>, <a href="sick.html">sick</a>, <a href="soap.html">soap</a>, <a href="soapy.html">soapy</a>, <a href="soft.html">soft</a>, <a href="Soft%20sawder.html">Soft sawder</a>, <a href="soft%20soap.html">soft soap</a>, <a href="soft-soap.html">soft-soap</a>, <a href="soothe.html">soothe</a>, <a href="soothing.html">soothing</a>, <a href="spoil.html">spoil</a>, <a href="sugar.html">sugar</a>, <a href="Sugar-plum.html">Sugar-plum</a>, <a href="sugarplum.html">sugarplum</a>, <a href="susceptible.html">susceptible</a>, <a href="sweet%20talk.html">sweet talk</a>, <a href="sycophancy.html">sycophancy</a>, <a href="sycophantic.html">sycophantic</a>, <a href="taffy.html">taffy</a>, <a href="temptation.html">temptation</a>, <a href="To%20come%20round.html">To come round</a>, <a href="To%20curry%20favor.html">To curry favor</a>, <a href="toadyish.html">toadyish</a>, <a href="wheedle.html">wheedle</a>, <a href="wheedling.html">wheedling</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					dlattery, rlattery, glattery, vlattery, clattery, fkattery, foattery, fpattery, flqttery, flwttery, flsttery, flzttery, flartery, flaftery, flagtery, flaytery, flatrery, flatfery, flatgery, flatyery, flattwry, flattsry, flattdry, flattrry, flatteey, flattedy, flattefy, flattety, flattert, flatterg, flatterh, flatteru
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

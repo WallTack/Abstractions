@@ -1,0 +1,545 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>tomorrow</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">adv</span> <span class="term">tomorrow</span> <span class="exp">the next day, the day after, following the present day</span> </li><li><span class="tSpeech">n</span> <span class="term">tomorrow</span> <span class="exp">the day after today</span> <span class="quot">"what are our tasks for tomorrow?"</span></li><li><span class="tSpeech">n</span> <span class="term">tomorrow</span> <span class="exp">the near future</span> <span class="quot">"tomorrow's world","everyone hopes for a better tomorrow"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										EPCOT stands for "Experimental Prototype City Of Tomorrow."									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">adv</span> <span class="term">Tomorrow</span> <span class="exp">On the day after the present day; on the next day; on the morrow.</span> <span class="wuQuot">"Summon him to-morrow to the Tower."</span></li><li><span class="tSpeech">n</span> <span class="term">Tomorrow</span> <span class="exp">The day after the present; the morrow.</span> <span class="wuQuot">"To-morrow is our wedding day."</span><span class="wuQuot">"One today is worth two to-morrows ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">tomorrow</span> <span class="exp">On the morrow; on the day after the present.</span> </li><li><span class="tSpeech">n</span> <span class="term">tomorrow</span> <span class="exp">The morrow; the day after the present day.</span> </li><li><span class="tSpeech">n</span> <span class="term">tomorrow</span> <span class="exp">[To-morrow, whether as adverb or noun, is often used with a noun following, also adverbial: as, to-morrow morning.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You are young at any age if you are planning for tomorrow.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Stacia Tauscher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Stacia Tauscher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We worry about what a child will be tomorrow, yet we forget that he is someone today.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Dean</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="James Dean">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Dream as if you'll live forever. Live as if you'll die tomorrow.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Tomorrow never comes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Benjamin Franklin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Benjamin%20Franklin.jpg" alt="Benjamin%20Franklin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One today is worth two tomorrows.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">German Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="German Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Today must not borrow from tomorrow.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Feast today, famine tomorrow</span> - If you indulge yourself with all that you have today, you may have to go without tomorrow.
+				</div>	
+				<span class="separatorSmall">***</span>
+								<div class="idioms">
+					<span>Here today, gone tomorrow</span> - Money, happiness and other desirable things are often here today, gone tomorrow, which means that they don't last for very long.
+				</div>	
+				<span class="separatorSmall">***</span>
+								<div class="idioms">
+					<span>Jam tomorrow</span> - (UK) This idiom is used when people promise good things for the future that will never come.
+				</div>	
+				<span class="separatorSmall">***</span>
+								<div class="idioms">
+					<span>Tomorrow's another day</span> - This means that things might turn out better or that there might be another opportunity in the future.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Prep. <span class="wUets">to + morrow</span>, 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						We can go out to Viking tomorrow.
+					</div>
+					<div class="uAuthor">
+						"A Spaceship Named McGuire" by <span>Gordon Randall Garrett</span>					</div>
+										<div class="usage">
+						I walked home, trying to figure out what I was going to do tomorrow.
+					</div>
+					<div class="uAuthor">
+						"Greener Than You Think" by <span>Ward Moore</span>					</div>
+										<div class="usage">
+						Come up tomorrow at eight o'clock.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1896 to 1901" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						Tomorrow I'll have a good talk with you, but tonight I'll be too busy to remember you're around.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1904" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						It will be along tomorrow and, girls, we'll celebrate when it comes.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1905 to 1906" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						When Gus Sinclair was leaving he asked if he might see me alone tomorrow afternoon.
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1907 to 1908" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						Will you be here tomorrow afternoon?
+					</div>
+					<div class="uAuthor">
+						"Lucy Maud Montgomery Short Stories, 1909 to 1922" by <span>Lucy Maud Montgomery</span>					</div>
+										<div class="usage">
+						You are therefore invited to take tea with her tomorrow afternoon.
+					</div>
+					<div class="uAuthor">
+						"Explorers of the Dawn" by <span>Mazo de la Roche</span>					</div>
+										<div class="usage">
+						Dine with me tomorrow night if you have nothing better to do.
+					</div>
+					<div class="uAuthor">
+						"Black Oxen" by <span>Gertrude Franklin Horn Atherton</span>					</div>
+										<div class="usage">
+						I'm off to Chicago tomorrow.
+					</div>
+					<div class="uAuthor">
+						"Little Lost Sister" by <span>Virginia Brooks</span>					</div>
+										<div class="usage">
+						I guarantee to return everything tomorrow, properly done.
+					</div>
+					<div class="uAuthor">
+						"At Plattsburg" by <span>Allen French</span>					</div>
+										<div class="usage">
+						I'll have the list ready for you tomorrow.
+					</div>
+					<div class="uAuthor">
+						"Left Guard Gilbert" by <span>Ralph Henry Barbour</span>					</div>
+										<div class="usage">
+						Well, tomorrow I starts arrangin'.
+					</div>
+					<div class="uAuthor">
+						"Lady Luck" by <span>Hugh Wiley</span>					</div>
+										<div class="usage">
+						What should make me sight danger in a man I never saw before, and who will probably go out on the stage tomorrow morning?
+					</div>
+					<div class="uAuthor">
+						"Winning the Wilderness" by <span>Margaret Hill McCarter</span>					</div>
+										<div class="usage">
+						He'll be gone tomorrow.
+					</div>
+					<div class="uAuthor">
+						"Nobody's Girl" by <span>Hector Malot</span>					</div>
+										<div class="usage">
+						But I can come up and see you tomorrow, can't I?
+					</div>
+					<div class="uAuthor">
+						"David and the Phoenix" by <span>Edward Ormondroyd</span>					</div>
+										<div class="usage">
+						You are not thinking of all the tomorrows.
+					</div>
+					<div class="uAuthor">
+						"A Modern Cinderella" by <span>Amanda M. Douglas</span>					</div>
+										<div class="usage">
+						Tomorrow's dumping, he thought, would quite conceal it.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: The Holy War" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						I have had a lovely time but I have to go back tomorrow.
+					</div>
+					<div class="uAuthor">
+						"The "Genius"" by <span>Theodore Dreiser</span>					</div>
+										<div class="usage">
+						I'll get him awa' tomorrow, if so be it's possible.
+					</div>
+					<div class="uAuthor">
+						"Christine" by <span>Amelia Edith Huddleston Barr</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							My Baby, my Burden,<br>
+Tomorrow the morn<br>
+I shall go lighter<br>
+And you will be born.
+							<div class="poet">"Mary's Burden" by <span>Eleanor Farjeon</span></div>
+						</div>
+											<div class="poemQuote">
+							Tomorrow you'll bear it<br>
+Your burden alone,<br>
+Tonight you've no burden<br>
+That is not my own
+							<div class="poet">"Mary's Burden" by <span>Eleanor Farjeon</span></div>
+						</div>
+											<div class="poemQuote">
+							Hast thou slain love with sorrow?<br>
+Have thy tears quenched the sun?<br>
+Nay even yet tomorrow<br>
+Shall many a deed be done.
+							<div class="poet">"Earth The Healer, Earth The Keeper" by <span>William Morris</span></div>
+						</div>
+											<div class="poemQuote">
+							'Gladly would I rejoice,' she said,<br>
+'But grief weighs down my heart.<br>
+'Can I be happy when I know<br>
+Tomorrow we must part?
+							<div class="poet">"Alexander And Zenobia" by <span>Anne Bronte</span></div>
+						</div>
+											<div class="poemQuote">
+							KING: Count Ramon, — since tomorrow thou must die,<br>
+And seeing thou hast been nearer to our heart<br>
+Than any other, — we have called you here<br>
+To bid thee farewell —
+							<div class="poet">"The King's Grief" by <span>Cicely Fox Smith</span></div>
+						</div>
+											<div class="poemQuote">
+							The morning broke, when they all asked:<br>
+Now tell us, when will your "Tomorrow" come?<br>
+Tomorrow, Tomorrow, where are you?<br>
+I cried and cried, but my Tomorrow never returned!
+							<div class="poet">"He Promised He'd Return Tomorrow" by <span>Vidyapati</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Utica, NY (WIBX) – Utica Councilman Jim Zecca will introduce legislation at tomorrow night's Common Council meeting to reduce the number of council members from nine to eight.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wibx950.com/zecca-wants-to-reduce-size-of-the-utica-common-council/" target="_blank" rel="external nofollow">wibx950.com</a>
+					</div>
+										<div class="usage">
+						For Congo Children, Food Today Means None Tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/01/03/world/africa/in-congolese-capital-power-cut-applies-to-food.html?pagewanted=all" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Make tracks for Firestone in Hadley tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gazettenet.com/Blogs/TheConspicuousConsumer/" target="_blank" rel="external nofollow">gazettenet.com</a>
+					</div>
+										<div class="usage">
+						Tomorrow when thou leav'st, what wilt thou say.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sdreader.com/news/2011/jul/27/poetry-womans-constancy-john-donne/" target="_blank" rel="external nofollow">sdreader.com</a>
+					</div>
+										<div class="usage">
+						Get hands-on with the Art of the Book tomorrow at Locust Grove.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.louisville.com/content/construction-paper-get-hands-art-book-tomorrow-locust-grove-books" target="_blank" rel="external nofollow">louisville.com</a>
+					</div>
+										<div class="usage">
+						The Consul General of France in Louisiana pays his first visit to Shreveport/Bossier tomorrow and Friday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://710keel.com/french-consul-general-to-visit/" target="_blank" rel="external nofollow">710keel.com</a>
+					</div>
+										<div class="usage">
+						I'll be back with regular posts tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.texasobserver.org/primary-sources/item/15971-contrarian-watch" target="_blank" rel="external nofollow">texasobserver.org</a>
+					</div>
+										<div class="usage">
+						Both Red Bulls defender Wilman Conde and coach Hans Backe have both pronounced the big centerback fit to play tomorrow against Chivas USA.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/blogs/soccerblog/contrite_conde_promises_red_bulls_Vi4HrRB11DRadtzlAybawN" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						Tomorrow is St Patrick's Day and I'm craving some corned beef and cabbage.
+					</div>
+					<div class="uAuthor">
+						<a href="http://965kvki.com/wheres-a-good-place-to-find-corned-beef-and-cabbage-in-shreveportbossier/" target="_blank" rel="external nofollow">965kvki.com</a>
+					</div>
+										<div class="usage">
+						Parents of the pro-Palestinian activist who died in the Gaza strip in 2003 will hear their case's verdict against Israel's military tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/regions/middle-east/israel-and-palestine/120827/rachel-corrie-verdict-due-tomorrow" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						Two cosmetology students from the Mid-East Career and Technology Center are in a state competition tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.whiznews.com/content/news/local/2010/04/22/cosmetology-students-compete-in-state-competition" target="_blank" rel="external nofollow">whiznews.com</a>
+					</div>
+										<div class="usage">
+						We Go Inside The Car Of Tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.circletrack.com/ultimateracing/ctrp_0712_nascar_cot_concept/" target="_blank" rel="external nofollow">circletrack.com</a>
+					</div>
+										<div class="usage">
+						 Cree , Inc won the top prize in the 2009 Lighting for Tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appliancemagazine.com/news.php?article=1329174&amp;zone=0&amp;first=1" target="_blank" rel="external nofollow">appliancemagazine.com</a>
+					</div>
+										<div class="usage">
+						Competing views on dairy farming in Albany tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ogd.com/article/20120611/BLOGS13/120619969" target="_blank" rel="external nofollow">ogd.com</a>
+					</div>
+										<div class="usage">
+						Tomorrow, celebrate national cheeseburger day.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/celebritology/post/claire-danes-and-hugh-dancy-are-expecting-as-are-matthew-mcconaughey-and-his-wife/2012/07/05/gJQAWc3LPW_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The reﬂection principle does not, however, give a prescription for setting probabilities, either today’s in terms of tomorrow’s or vice versa. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Conditioning, the Reflection Principle, and Quantum Decoherence
+					</div>
+										<div class="usage">
+						In this section, we will see that there is a generic situation in quantum theory where the reﬂection principle is used directly to set today’s probabilities in terms of tomorrow’s. 
+					</div>
+					<div class="uAuthor">
+						Bayesian Conditioning, the Reflection Principle, and Quantum Decoherence
+					</div>
+										<div class="usage">
+						The question “will the world be quasiclassical tomorrow?” is thus comparable to “will tomorrow’s coarse graining use large cells?”. 
+					</div>
+					<div class="uAuthor">
+						Choice of Consistent Family, and Quantum Incompatibility
+					</div>
+										<div class="usage">
+						Kent has claimed that even if one assumes that the world will be quasiclassical tomorrow, the consistent history approach does not always yield probabilistic predictions which agree with those provided by Copenhagen (i.e., standard textbook) quantum theory. 
+					</div>
+					<div class="uAuthor">
+						Choice of Consistent Family, and Quantum Incompatibility
+					</div>
+										<div class="usage">
+						In: Optical Telescopes of Today and Tomorrow, Ardeberg, A.L. (ed.), Proc. 
+					</div>
+					<div class="uAuthor">
+						Near-infrared adaptive optics observations of galaxy clusters: Abell 262 at z=0.0157, J1836.3CR at z=0.414, and PKS 0743-006 at z=0.994
+					</div>
+										<div class="usage">
+						But, clearly, this connection can not be phrased in the old context of local hidden variables, but rather in the context of the security of tomorrows communications. 
+					</div>
+					<div class="uAuthor">
+						Quantum Cryptography
+					</div>
+										<div class="usage">
+						The total cost of the system was around $25,000 but it could be built for considerably less today, and less still tomorrow. 
+					</div>
+					<div class="uAuthor">
+						Computational Asteroseismology
+					</div>
+										<div class="usage">
+						Orbital Migration and Disc–Planet Interactions. Extrasolar Planets: Today and Tomorrow. 
+					</div>
+					<div class="uAuthor">
+						Planetesimals To Brown Dwarfs: What is a Planet?
+					</div>
+										<div class="usage">
+						Today |b¯b &gt;, tomorrow |c¯c &gt;? Let me move on from improved precision to real discoveries. 
+					</div>
+					<div class="uAuthor">
+						Summary of Experimental Meson Physics
+					</div>
+										<div class="usage">
+						One typical example in ﬁnance is that S is the tomorrow’s price of a stock. 
+					</div>
+					<div class="uAuthor">
+						G-Brownian Motion and Dynamic Risk Measure under Volatility Uncertainty
+					</div>
+										<div class="usage">
+						This problem can be traced back to Laplace [11, 29] who considered the problem of estimation of the probability that the sun will rise tomorrow, given that it has risen every day since Creation. 
+					</div>
+					<div class="uAuthor">
+						Applications of Universal Source Coding to Statistical Analysis of Time Series
+					</div>
+										<div class="usage">
+						On its face this seems to be inconsistent with everything we believe about the past. I may conjecture that the Sun will come up tomorrow, but I know that the Sun came up yesterday. 
+					</div>
+					<div class="uAuthor">
+						A Quantum Past
+					</div>
+										<div class="usage">
+						Tomorrow, Alice will be in Mumbai, and Bob in Chennai. 
+					</div>
+					<div class="uAuthor">
+						Quantum Advantage in Communication Networks
+					</div>
+										<div class="usage">
+						However, this does hold at ﬁnite Q2 , so the knowledge of ∆Σ and ∆G at today or tomorrow accessible kinematics is not suﬃcient to speculate about the importance of Lq and LG ; there are suggestions on how to measure them, e.g. by means of Deeply Virtual Compton Scattering . 
+					</div>
+					<div class="uAuthor">
+						Theory Meets Experiment for the Determination of $\Delta G/G$
+					</div>
+										<div class="usage">
+						I won’t exclude cases we would deem good today, but ﬁnd out that they are bad tomorrow. 
+					</div>
+					<div class="uAuthor">
+						Summary Talk at Chiral '99
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="24-hour%20interval.html">24-hour interval</a>, <a href="day.html">day</a>, <a href="future.html">future</a>, <a href="futurity.html">futurity</a>, <a href="hereafter.html">hereafter</a>, <a href="mean%20solar%20day.html">mean solar day</a>, <a href="solar%20day.html">solar day</a>, <a href="time%20to%20come.html">time to come</a>, <a href="twenty-four%20hour%20period.html">twenty-four hour period</a>, <a href="twenty-four%20hours.html">twenty-four hours</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="clear.html">clear</a>, <a href="due.html">due</a>, <a href="theme%20park.html">theme park</a>, <a href="today.html">today</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					romorrow, fomorrow, gomorrow, yomorrow, timorrow, tkmorrow, tlmorrow, tpmorrow, tonorrow, tojorrow, tokorrow, tomirrow, tomkrrow, tomlrrow, tomprrow, tomoerow, tomodrow, tomofrow, tomotrow, tomoreow, tomordow, tomorfow, tomortow, tomorriw, tomorrkw, tomorrlw, tomorrpw, tomorroq, tomorroa, tomorros, tomorroe
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

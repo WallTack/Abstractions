@@ -1,0 +1,531 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>expediency</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">expediency</span> <span class="exp">the quality of being suited to the end in view</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Expediency</span> <span class="exp">An expedition; enterprise; adventure.</span> <span class="wuQuot">"Forwarding this dear expedience ."</span></li><li><span class="term">Expediency</span> <span class="exp">Expedition; haste; dispatch.</span> <span class="wuQuot">"Making hither with all due expedience ."</span></li><li><span class="term">Expediency</span> <span class="exp">The quality of being expedient or advantageous; fitness or suitableness to effect a purpose intended; adaptedness to self-interest; desirableness; advantage; advisability; -- sometimes contradistinguished from <span class="wUcontr">moral rectitude</span> or <span class="wUcontr">principle</span>.</span> <span class="wuQuot">"Divine wisdom discovers no expediency in vice."</span><span class="wuQuot">"To determine concerning the expedience of action."</span><span class="wuQuot">"Much declamation may be heard in the present day against expediency , as if it were not the proper object of a deliberative assembly, and as if it were only pursued by the unprincipled."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">expediency</span> <span class="exp">The quality of being expedient; fitness or suitableness to effect some desired end or the purpose intended; propriety or advisability under the particular circumstances of a case; advantageousness.</span> </li><li><span class="tSpeech">n</span> <span class="term">expediency</span> <span class="exp">That which is expedient or suitable; the proper or most efficient mode of procedure for gaining a desired end.</span> </li><li><span class="tSpeech">n</span> <span class="term">expediency</span> <span class="exp">Specifically, the principle of doing what is deemed most practicable or serviceable under the circumstances; utilitarian wisdom.</span> </li><li><span class="tSpeech">n</span> <span class="term">expediency</span> <span class="exp">An expedient.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Expediency</span> <span class="exp">fitness: desirableness: self-interest</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Russell Lowell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20Russell%20Lowell.jpg" alt="James%20Russell%20Lowell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Compromise makes a good umbrella, but a poor roof; it is temporary expedient, often wise in party politics, almost sure to be unwise ;in statesmanship.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Theodore Roosevelt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Theodore%20Roosevelt.jpg" alt="Theodore%20Roosevelt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No man is justified in doing evil on the ground of expediency.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Horace</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Horace.jpg" alt="Horace">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A good and faithful judge ever prefers the honorable to the expedient.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Quentin Crisp</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Quentin%20Crisp.jpg" alt="Quentin%20Crisp">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The law is simply expediency wearing a long white dress.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry David Thoreau</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20David%20Thoreau.jpg" alt="Henry%20David%20Thoreau">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The lawyer's truth is not Truth, but consistency or a consistent expediency.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edmund Burke</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edmund%20Burke.jpg" alt="Edmund%20Burke">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The true danger is when liberty is nibbled away, for expedience, and by parts.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>expediens</i>, <i>-entis</i>, pr.p. of <i>expedīre</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It will invent weapons and expedients with which to face each new phase of the position.
+					</div>
+					<div class="uAuthor">
+						"Success (Second Edition)" by <span>Max Aitken Beaverbrook</span>					</div>
+										<div class="usage">
+						Justice falls on the neck of expediency.
+					</div>
+					<div class="uAuthor">
+						"The Open Secret of Ireland" by <span>T. M. Kettle</span>					</div>
+										<div class="usage">
+						When the present tariff was first levied it was defended as a temporary expedient only, required as a necessity by war.
+					</div>
+					<div class="uAuthor">
+						"American Eloquence, Volume IV. (of 4) Studies In American Political History (1897)" by <span>Various</span>					</div>
+										<div class="usage">
+						They know that, for her, toleration is only a temporary expedient.
+					</div>
+					<div class="uAuthor">
+						"Against Home Rule (1912)" by <span>Various</span>					</div>
+										<div class="usage">
+						O, tell us all, since thou art conversant with every excellent expedient.
+					</div>
+					<div class="uAuthor">
+						"The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1"					</div>
+										<div class="usage">
+						There are various kinds of expedients inferrable from the scriptures.
+					</div>
+					<div class="uAuthor">
+						"The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2"					</div>
+										<div class="usage">
+						Or perhaps that you have some expedient for raising the money soon?
+					</div>
+					<div class="uAuthor">
+						"A Doll's House" by <span>Henrik Ibsen</span>					</div>
+										<div class="usage">
+						It might not be expedient to proclaim so much to the men.
+					</div>
+					<div class="uAuthor">
+						"Verner's Pride" by <span>Mrs. Henry Wood</span>					</div>
+										<div class="usage">
+						Various expedients were resorted to, in order to bring it inside of the guard-lines.
+					</div>
+					<div class="uAuthor">
+						"Thirteen Months in the Rebel Army" by <span>William G. Stevenson</span>					</div>
+										<div class="usage">
+						It came to seem expedient to Bernal, however, in the first spring of his new life, to make a final choice between early death and a life, of sin.
+					</div>
+					<div class="uAuthor">
+						"The Seeker" by <span>Harry Leon Wilson</span>					</div>
+										<div class="usage">
+						If this scheme should be adopted, it should only be done as a temporary expedient to meet an urgent necessity.
+					</div>
+					<div class="uAuthor">
+						"A Compilation of the Messages and Papers of the Presidents" by <span>Grover Cleveland</span>					</div>
+										<div class="usage">
+						Capital punishment is expedient.
+					</div>
+					<div class="uAuthor">
+						"Public Speaking" by <span>Clarence Stratton</span>					</div>
+										<div class="usage">
+						Doubts expressed as to the expediency of the competitive system.
+					</div>
+					<div class="uAuthor">
+						"Practical Essays" by <span>Alexander Bain</span>					</div>
+										<div class="usage">
+						Laura looked from one to the other of them and fell upon an expedient.
+					</div>
+					<div class="uAuthor">
+						"Hilda" by <span>Sarah Jeanette Duncan</span>					</div>
+										<div class="usage">
+						I could discover no other expedient to obviate the present evil.
+					</div>
+					<div class="uAuthor">
+						"Arthur Mervyn" by <span>Charles Brockden Brown</span>					</div>
+										<div class="usage">
+						Strange as it may seem, he once doubted the expediency of encouraging immigration.
+					</div>
+					<div class="uAuthor">
+						"Continental Monthly, Vol. 5, Issue 2, February, 1864" by <span>Various</span>					</div>
+										<div class="usage">
+						We have lived upon expedients until we can live no longer.
+					</div>
+					<div class="uAuthor">
+						"The Life of George Washington, Vol. 3 (of 5)" by <span>John Marshall</span>					</div>
+										<div class="usage">
+						As a question of principle or expediency Clinton's conduct, therefore, admits of no defence.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						It transformed a needful expedient into an unholy end.
+					</div>
+					<div class="uAuthor">
+						"My Daily Meditation for the Circling Year" by <span>John Henry Jowett</span>					</div>
+										<div class="usage">
+						Scepticism warred with expediency.
+					</div>
+					<div class="uAuthor">
+						"The History of Sir Richard Calmady" by <span>Lucas Malet</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Anhalt Dessau, bold and daring,<br>
+Anhalt Dessau wise and slow,<br>
+With a brain full of expedients,<br>
+To subdue or outwit the foe.
+							<div class="poet">"The Prince Of Anhalt Dessau" by <span>Nora Pembroke</span></div>
+						</div>
+											<div class="poemQuote">
+							Yet he'll profess no wrath to feel<br>
+'Gainst such a hapless wretch as I;<br>
+No! ... but for the public weal,<br>
+'Tis expedient that I die.
+							<div class="poet">"The Culprit" by <span>Nathaniel Bloomfield</span></div>
+						</div>
+											<div class="poemQuote">
+							groan:<br>
+Expedients fail'd that brought relief before,<br>
+In vain his alms gave comfort to the poor,<br>
+Give what he would, to him the comfort came no 
+							<div class="poet">"Tale XIV" by <span>George Crabbe</span></div>
+						</div>
+											<div class="poemQuote">
+							Christ is with ev'ry useful gift replete,<br>
+Which for the souls of sinful men is meet —<br>
+In Christ alone is found each saving grace,<br>
+Expedient to preserve a wretched race.
+							<div class="poet">"Christ Is All In All" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							Because your sinful Karma has created<br>
+Dense blindness and impenetrable obstruction,<br>
+You cannot understand the meaning<br>
+Of Ultimate Truth.<br>
+Listen, therefore, to the Expedient Truth.
+							<div class="poet">"The Song Of Perfect Assurance (To The Demons)" by <span>Jetsun Milarepa</span></div>
+						</div>
+											<div class="poemQuote">
+							Pursue the search, and you will find<br>
+Good sense and knowledge of mankind<br>
+To be at least expedient,<br>
+And, after summing all the rest,<br>
+Religion ruling in the breast<br>
+A principal ingredient.
+							<div class="poet">"Friendship" by <span>William Cowper</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A new history of the British Empire elevates expediency to principle.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/magazine/archive/2001/11/a-bit-of-bunting/302340/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						The triumph of expedience .
+					</div>
+					<div class="uAuthor">
+						<a href="http://harpers.org/archive/2001/05/the-triumph-of-expedience-2/" target="_blank" rel="external nofollow">harpers.org</a>
+					</div>
+										<div class="usage">
+						Procrastination, expedience and piecemeal-ism don't lead to building a great city.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/realestate/procrastination-expedience-and-piecemeal-ism-dont-lead-to-building-a-great-city/2012/07/26/gJQAiGeKCX_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Marriage and political expedience .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/news/opinion/sns-201205091800--tms--cthomastq--b-a20120510may10,0,4224957.column" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						Gay marriage and political expedience .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baltimoresun.com/news/opinion/bal-gay-marriage-and-political-expedience-20120510,0,5910841.story" target="_blank" rel="external nofollow">baltimoresun.com</a>
+					</div>
+										<div class="usage">
+						Marriage, religion &amp; political expedience .
+					</div>
+					<div class="uAuthor">
+						<a href="http://columbiadailyherald.com/sections/opinion/columns/marriage-religion-political-expedience.html" target="_blank" rel="external nofollow">columbiadailyherald.com</a>
+					</div>
+										<div class="usage">
+						Political expediency must be set aside.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mpnnow.com/opinions/letters_to_the_editor/x470415747/LETTER-Political-expediency-must-be-set-aside" target="_blank" rel="external nofollow">mpnnow.com</a>
+					</div>
+										<div class="usage">
+						 Expediency undermines California governance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sacbee.com/2012/09/23/4845561/dan-walters-expediency-undermines.html" target="_blank" rel="external nofollow">sacbee.com</a>
+					</div>
+										<div class="usage">
+						Observing the rule of expediency .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2010/mar/17/observing-the-rule-of-expediency/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Political Expediency Abounds in Schiavo Case.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/articles/A59502-2005Mar23.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Politically expedient deal for Lockheed.
+					</div>
+					<div class="uAuthor">
+						<a href="https://www.nujournal.com/page/content.comment/id/531641/Politically-expedient-deal-for-Lockheed.html?nav=5011" target="_blank" rel="external nofollow">nujournal.com</a>
+					</div>
+										<div class="usage">
+						Last night, Democratic Presidential Candidate Barack Obama made expedient use of his war chest and bought a full 30 minutes during prime time on CBS, NBC, and Fox.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hispanicbusiness.com/2008/10/30/did_you_miss_barack_obamas_infomercial.htm" target="_blank" rel="external nofollow">hispanicbusiness.com</a>
+					</div>
+										<div class="usage">
+						The Obama administration advises Pentagon contractors that federal labor law requiring a 60-day notice of layoffs does not apply to Jan 1 sequester GOP senators dub the move 'political expediency.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Politics/2012/0801/Defense-cuts-Should-defense-firms-notify-workers-of-looming-layoffs" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Procrastination, expedience and piecemeal -ism don't lead to building a great city.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/realestate/procrastination-expedience-and-piecemeal-ism-dont-lead-to-building-a-great-city/2012/07/26/gJQAiGeKCX_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						It is not politically expedient or perhaps even desirable for the US to sanction China or push it to the point whereby it will have to cease all business with the Islamic Republic.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/10/briefing-sanctioning-iran-implications-and-consequences.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Before we turn to the analysis of the asymptotic behavior of the distribution function, it might be expedient to present several ﬁrst P (2) n (w) explicitly. 
+					</div>
+					<div class="uAuthor">
+						Distribution of Schmidt-like eigenvalues for Gaussian Ensembles of the Random Matrix Theory
+					</div>
+										<div class="usage">
+						This is a good thing, as it makes it expedient for programmers to develop representations that best serve their application. 
+					</div>
+					<div class="uAuthor">
+						High-Order Discontinuous Galerkin Methods by GPU Metaprogramming
+					</div>
+										<div class="usage">
+						As the continuum limit is approached it is expedient to rescale p → pδd for some exponent d. 
+					</div>
+					<div class="uAuthor">
+						Polymer Collapse on Fluctuating Random Surfaces
+					</div>
+										<div class="usage">
+						As in the case of the homogeneous system in section II A, it is expedient to differentiate Eqs. (2.31) and (2.32) once more. 
+					</div>
+					<div class="uAuthor">
+						Spurious poles of the axial gauge propagators and dynamics of the interacting fields
+					</div>
+										<div class="usage">
+						Next, it is expedient to use current conservation and to rewrite the Fourier component of the charge density as j 0 (k, ω ) = −k i ji (k, ω )/ω . 
+					</div>
+					<div class="uAuthor">
+						Spurious poles of the axial gauge propagators and dynamics of the interacting fields
+					</div>
+										<div class="usage">
+						Thus, for the sake of safety, it is expedient to start from the very beginning. 
+					</div>
+					<div class="uAuthor">
+						Spurious poles of the axial gauge propagators and dynamics of the interacting fields
+					</div>
+										<div class="usage">
+						Similar to §2, the use of the connection is only an expedient way of deﬁnition. 
+					</div>
+					<div class="uAuthor">
+						On Quantum de Rham Cohomology
+					</div>
+										<div class="usage">
+						Although bounds on ˙G/G from solar-system measurements can be correctly obtained in a phenomenological manner through the simple expedient of replacing G by G0 + ˙G0(t − t0 ) in Newton’s equations of motion, the same does not hold true for pulsar and binary pulsar timing measurements. 
+					</div>
+					<div class="uAuthor">
+						The Confrontation between General Relativity and Experiment
+					</div>
+										<div class="usage">
+						Rtitj (t) are components of the Riemann tensor evaluated at a ﬁxed point of the solid, most expediently chosen at its center of mass. 
+					</div>
+					<div class="uAuthor">
+						The detection of Gravitational Waves
+					</div>
+										<div class="usage">
+						The selection of tolerance limits L = y (1) and U = y (N ) appears to be expedient in many cases. 
+					</div>
+					<div class="uAuthor">
+						Remarks on statistical aspects of safety analysis of complex systems
+					</div>
+										<div class="usage">
+						It turns out there is, by the simple expedient of transforming redshifts to the rest frame of the presumed parent galaxy and then varying the redshift of that parent. 
+					</div>
+					<div class="uAuthor">
+						Periodicities of Quasar Redshifts in Large Area Surveys
+					</div>
+										<div class="usage">
+						Although bounds on ˙G/G from solar-system measurements can be correctly obtained in a phenomenological manner through the simple expedient of replacing G by G0 + ˙G0 (t − t0 ) in Newton’s equations of motion, the same does not hold true for pulsar and binary pulsar timing measurements. 
+					</div>
+					<div class="uAuthor">
+						The Confrontation between General Relativity and Experiment
+					</div>
+										<div class="usage">
+						Although bounds on ˙G/G using solar-system measurements can be obtained in a phenomenological manner through the simple expedient of replacing G by G0 + ˙G0(t − t0 ) in Newton’s equations of motion, the same does not hold true for pulsar and binary pulsar timing measurements. 
+					</div>
+					<div class="uAuthor">
+						The Confrontation between General Relativity and Experiment: A 1998 Update
+					</div>
+										<div class="usage">
+						We ﬁnd that the Z background is peaked in the negative rapidity region, which suggests that it will be expedient to use a positive y cut so as to diminish the effects of the Z background. 
+					</div>
+					<div class="uAuthor">
+						Seeking TeV-Scale Quantum Gravity at an $e \gamma$ collider
+					</div>
+										<div class="usage">
+						It is found that there is exactly one substance— pure, unqualiﬁed existence,—and that the physical world arises from it by the only logically consistent expedient— the realization of spatial relations. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics and the Cookie Cutter Paradigm
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="inexpedience.html">inexpedience</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="advantage.html">advantage</a>, <a href="vantage.html">vantage</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="expedient.html">expedient</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="advisability.html">advisability</a>, <a href="Advisable-ness.html">Advisable-ness</a>, <a href="agree.html">agree</a>, <a href="expedience.html">expedience</a>, <a href="Expediential.html">Expediential</a>, <a href="Impoliticly.html">Impoliticly</a>, <a href="Machiavelian.html">Machiavelian</a>, <a href="Machiavellian.html">Machiavellian</a>, <a href="Machiavellianism.html">Machiavellianism</a>, <a href="marriage%20of%20convenience.html">marriage of convenience</a>, <a href="obligate.html">obligate</a>, <a href="opportunist.html">opportunist</a>, <a href="Ought.html">Ought</a>, <a href="rifling.html">rifling</a>, <a href="self-seeker.html">self-seeker</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wxpediency, sxpediency, dxpediency, rxpediency, ezpediency, espediency, edpediency, ecpediency, exoediency, exlediency, expwdiency, expsdiency, expddiency, exprdiency, expesiency, expeeiency, expefiency, expeciency, expexiency, expesiency, expeduency, expedjency, expedkency, expedoency, expediwncy, expedisncy, expedidncy, expedirncy, expediebcy, expediehcy, expediejcy, expediemcy, expedienxy, expediendy, expedienfy, expedienvy, expedienct, expediencg, expediench, expediencu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

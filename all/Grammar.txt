@@ -1,0 +1,553 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>grammar</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/219/32/8411.jpg" alt="Giggles-wick Grammar School">
+							<div class="caption">Giggles-wick Grammar School</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">grammar</span> <span class="exp">the branch of linguistics that deals with syntax and morphology (and sometimes also deals with semantics)</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In 1850, Michigan's state constitution included the following line: "Neither slavery nor involuntary servitude, unless for the punishment of crime, shall ever be tolerated in this state." This inadvertently legalized slavery as an appropriate punishment for crime. It wasn't until 1963 that the grammar was fixed to outlaw slavery. The change required shifting the comma following "servitude" to the position after "slavery."									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Grammar</span> <span class="exp">A treatise on the principles of language; a book containing the principles and rules for correctness in speaking or writing.</span> </li><li><span class="term">Grammar</span> <span class="exp">The art of speaking or writing with correctness or according to established usage; speech considered with regard to the rules of a grammar.</span> <span class="wuQuot">"The original bad grammar and bad spelling."</span></li><li><span class="term">Grammar</span> <span class="exp">The science which treats of the principles of language; the study of forms of speech, and their relations to one another; the art concerned with the right use and application of the rules of a language, in speaking or writing.</span> </li><li><span class="tSpeech">v. i</span> <span class="term">Grammar</span> <span class="exp">To discourse according to the rules of grammar; to use grammar.</span> </li><li><span class="term">Grammar</span> <span class="exp">treatise on the elements or principles of any science; as, a grammar of geography.</span> <span class="wuQuot">"When any town shall increase to the number of a hundred<br>
+families or householders, they shall set up a grammar school, the master thereof being able to instruct youth so far as they may be fitted for the University."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">grammar</span> <span class="exp">A systematic account of the usages of a language, as regards especially the parts of speech it distinguishes, the forms and uses of inflected words, and the combinations of words into sentences; hence, also, a similar account of a group of languages, or of all languages or language in general, so far as these admit a common treatment. The formerly current classification of the subjects of grammar as fivefold, namely, orthography, orthoëpy, etymology, syntax, and prosody, is heterogeneous and obsolescent. The first and last do not belong really to grammar, though often for convenience included in the text-books of grammar; orthoëpy is properly phonology or phonetics, an account of the system of sounds used by a language and of their combinations; and etymology is improperly used for an account of the parts of speech and their inflections. See these words. Abbreviated grammar</span> </li><li><span class="tSpeech">n</span> <span class="term">grammar</span> <span class="exp">Grammatical statements viewed as the rules of a language to which speakers or writers must conform; propriety of linguistic usage; accepted or correct mode of speech or writing.</span> </li><li><span class="tSpeech">n</span> <span class="term">grammar</span> <span class="exp">A treatise on grammar.</span> </li><li><span class="tSpeech">n</span> <span class="term">grammar</span> <span class="exp">An account of the elements of any branch of knowledge, prepared for teaching or learning: an outline or sketch of the principles of a subject: as, a grammar of geography; a grammar of art.</span> </li><li><span class="tSpeech">n</span> <span class="term">grammar</span> <span class="exp">The formal principles of any science; a system of rules to be observed in the putting together of any kind of elements.</span> </li><li><span class="term">grammar</span> <span class="exp">To discourse according to the rules of grammar.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Grammar</span> <span class="exp"><span class="itl">gram′ar</span> the science of the right use of language: a book which teaches grammar: any elementary work</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Grammar</span> <span class="exp">to act the grammarian</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Octavio Paz</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Octavio%20Paz.jpg" alt="Octavio%20Paz">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Social criticism begins with grammar and the re-establishing of meanings.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Friedrich Nietzsche</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Friedrich%20Nietzsche.jpg" alt="Friedrich%20Nietzsche">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I fear we are not getting rid of God because we still believe in grammar.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joan Didion</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Joan%20Didion.jpg" alt="Joan%20Didion">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Grammar is a piano I play by ear. All I know about grammar is its power.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Elbert Hubbard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Elbert%20Hubbard.jpg" alt="Elbert%20Hubbard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Grammar is the grave of letters.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Moliere</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Moliere.jpg" alt="Moliere">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Grammar, which can govern even Kings.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Carl Sandburg</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Carl%20Sandburg.jpg" alt="Carl%20Sandburg">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I never made a mistake in grammar but one in my life and as soon as I done it I seen it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">gramere</span>, OF. <span class="wUets">gramaire</span>, F. <span class="wUets">grammaire</span>, Prob. fr. L. <span class="wUets">gramatica</span>, Gr , fem. of  skilled in grammar, fr.  letter. See <span class="wUer">Gramme</span> <span class="wUer">Graphic</span>, and cf. <span class="wUer">Grammatical</span> <span class="wUer">Gramarye</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						We might as well call the horse unhappy because it does not learn grammar or eat cakes.
+					</div>
+					<div class="uAuthor">
+						"Erasmus and the Age of Reformation" by <span>Johan Huizinga</span>					</div>
+										<div class="usage">
+						Bring your exercise book with the grammar and history.
+					</div>
+					<div class="uAuthor">
+						"Red Rose and Tiger Lily" by <span>L. T. Meade</span>					</div>
+										<div class="usage">
+						But, in general, our practice has been not to alter the text, in order to make the grammar conform to the fixed rules of modern English.
+					</div>
+					<div class="uAuthor">
+						"The Works of William Shakespeare [Cambridge Edition] [9 vols.]" by <span>William Shakespeare</span>					</div>
+										<div class="usage">
+						By John Angell, Senior Science Master, Grammar School, Manchester.
+					</div>
+					<div class="uAuthor">
+						"The Education of American Girls" by <span>Anna Callender Brackett</span>					</div>
+										<div class="usage">
+						Only a very limited number of them in later years, remained at Oak Hill to complete the Grammar course.
+					</div>
+					<div class="uAuthor">
+						"The Choctaw Freedmen" by <span>Robert Elliott Flickinger</span>					</div>
+										<div class="usage">
+						Spelling, punctuation, and grammar he corrected and modernised.
+					</div>
+					<div class="uAuthor">
+						"A Life of William Shakespeare with portraits and facsimiles" by <span>Sidney Lee</span>					</div>
+										<div class="usage">
+						He himself was one of the first class that graduated from the old Fairhaven Grammar School.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great, Volume 11 (of 14)" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						Herbert Spencer never studied grammar until he had learned to write.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great Philosophers, Volume 8" by <span>Elbert  Hubbard</span>					</div>
+										<div class="usage">
+						So many girls leave school when their grammar school course is finished.
+					</div>
+					<div class="uAuthor">
+						"Marjorie Dean High School Freshman" by <span>Pauline Lester</span>					</div>
+										<div class="usage">
+						He had likewise thumbed over his Greek grammar, and gone through the gospel of John.
+					</div>
+					<div class="uAuthor">
+						"Ups and Downs in the Life of a Distressed Gentleman" by <span>William L. Stone</span>					</div>
+										<div class="usage">
+						My brother is in the Grammar School, and he has Examinations.
+					</div>
+					<div class="uAuthor">
+						"Emmy Lou" by <span>George Madden Martin</span>					</div>
+										<div class="usage">
+						The Hutchins' grammar-school was erected as an appropriate memorial of his worth.
+					</div>
+					<div class="uAuthor">
+						"The History of Tasmania, Volume I (of 2)" by <span>John West</span>					</div>
+										<div class="usage">
+						Before leaving England I had possessed myself of a Hindustanee Grammar, and in Calcutta of a Hindustanee Dictionary.
+					</div>
+					<div class="uAuthor">
+						"Life and Work in Benares and Kumaon, 1839-1877" by <span>James Kennedy</span>					</div>
+										<div class="usage">
+						The grammar of the Veda (to turn from the contents to the structure of the work) is important in many respects.
+					</div>
+					<div class="uAuthor">
+						"Chips From A German Workshop - Volume I" by <span>Friedrich Max  Müller</span>					</div>
+										<div class="usage">
+						Indeed, that portion of his history which relates to grammar seems to us by far the most unsatisfactory of all.
+					</div>
+					<div class="uAuthor">
+						"The Atlantic Monthly, Volume 14, No. 85, November, 1864" by <span>Various</span>					</div>
+										<div class="usage">
+						But according to orthodox standards Miss Cross's grammar was faulty.
+					</div>
+					<div class="uAuthor">
+						"Working With the Working Woman" by <span>Cornelia Stratton Parker</span>					</div>
+										<div class="usage">
+						He received the early part of his education at the grammar schools of Nuneaton and Sutton Coldfield.
+					</div>
+					<div class="uAuthor">
+						"English Book Collectors" by <span>William Younger Fletcher</span>					</div>
+										<div class="usage">
+						I can only allow you till twelve o'clock for it, and then you must begin the grammar.
+					</div>
+					<div class="uAuthor">
+						"The Nicest Girl in the School" by <span>Angela Brazil</span>					</div>
+										<div class="usage">
+						In both, lectures are given in grammar, philosophy, and theology.
+					</div>
+					<div class="uAuthor">
+						"The Philippine Islands, 14931898, Volume XXXVI, 16491666" by <span>Various</span>					</div>
+										<div class="usage">
+						He was the son of a respectable tradesman in the town, and had been educated at the Grammar School.
+					</div>
+					<div class="uAuthor">
+						"A History of Horncastle from the earliest period to the present time" by <span>James Conway Walter</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Primer where the angels all<br>
+God's grammar spell in small,<br>
+Nor spell<br>
+The highest too well.
+							<div class="poet">"Any Saint" by <span>Francis Thompson</span></div>
+						</div>
+											<div class="poemQuote">
+							The giant with the stammer<br>
+was the landlady’s son,<br>
+grumbling on the stairs<br>
+over an old grammar.
+							<div class="poet">"A Summer’s Dream" by <span>Elizabeth Bishop</span></div>
+						</div>
+											<div class="poemQuote">
+							Y was a young Yellowhammer,<br>
+Who raised a ridiculous clamor;<br>
+And he chattered until<br>
+An owl said, "Keep still!<br>
+I'm trying to study my grammar."
+							<div class="poet">"An Alphabet Zoo" by <span>Carolyn Wells</span></div>
+						</div>
+											<div class="poemQuote">
+							Ye critics wha do grammar ken,<br>
+If ye do think that ye can men'<br>
+These sapless lines that I have pen'd,<br>
+The leaf ye'll turn,<br>
+For Nature's fire near the end<br>
+Did cease to burn.
+							<div class="poet">"The Miser's Glundie Wife" by <span>Susannah Hawkins</span></div>
+						</div>
+											<div class="poemQuote">
+							Take of these elements any you care about,<br>
+Put 'em in Texas, the Bowery, or thereabout;<br>
+Put in the powder and leave out the grammar,<br>
+And the certain result is a swell melodrammer.
+							<div class="poet">"Melodrama" by <span>Franklin Pierce Adams</span></div>
+						</div>
+											<div class="poemQuote">
+							She had an edication, an' that was good for her;<br>
+But when she twitted me on mine, 'twas carryin' things too far;<br>
+An' I told her once, 'fore company (an' it almost made her sick),<br>
+That I never swallowed a grammar, or 'et a 'rithmetic.
+							<div class="poet">"Over The Hill To The Poor-House" by <span>William McKendree Carleton</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Readers sound off on Jerry Sandusky's sentence, voter registration, support group, prayer at games and proper grammar .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wacotrib.com/opinion/173823021.html" target="_blank" rel="external nofollow">wacotrib.com</a>
+					</div>
+										<div class="usage">
+						Ain't no excuses for bad grammar .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.albanyherald.com/news/2012/oct/06/aint-no-excuses-bad-grammar/" target="_blank" rel="external nofollow">albanyherald.com</a>
+					</div>
+										<div class="usage">
+						I will grudgingly admit to being somewhat persnickety about grammar and usage in both written and spoken English.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fayobserver.com/articles/2012/10/05/1207978?sac=fo.opinion" target="_blank" rel="external nofollow">fayobserver.com</a>
+					</div>
+										<div class="usage">
+						Getting after bad grammar .
+					</div>
+					<div class="uAuthor">
+						<a href="http://niagara-gazette.com/columns/x240470949/LETTERS-TO-THE-ISLAND-Getting-after-bad-grammar" target="_blank" rel="external nofollow">niagara-gazette.com</a>
+					</div>
+										<div class="usage">
+						Your editorial "Texting interferes with student's recognition of proper grammar " points out the negative effects of texting.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailytribune.com/article/20120913/OPINION02/120919832/letters-to-the-editor-grammar-in-jeopardy" target="_blank" rel="external nofollow">dailytribune.com</a>
+					</div>
+										<div class="usage">
+						St Mary's teacher leaves legacy — and grammar book — for students.
+					</div>
+					<div class="uAuthor">
+						<a href="http://commercialappeal.com/news/2012/sep/02/wendi-c-thomas-st-marys-teacher-leaves-legacy/" target="_blank" rel="external nofollow">commercialappeal.com</a>
+					</div>
+										<div class="usage">
+						Does grammar still matter in an age of texting and tweeting.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mpbn.net/OnDemand/AudioOnDemand/MaineCalling/tabid/288/ctl/ViewItem/mid/4857/ItemId/23450/Default.aspx" target="_blank" rel="external nofollow">mpbn.net</a>
+					</div>
+										<div class="usage">
+						 Grammar , again: Dems proclaim Romney 'too extreme for woman.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dcexaminer.com/grammar-again-dems-proclaim-romney-too-extreme-for-woman/article/2506363" target="_blank" rel="external nofollow">dcexaminer.com</a>
+					</div>
+										<div class="usage">
+						Texting creates poor grammar habits.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.onlineathens.com/opinion/2012-08-25/johnson-texting-creates-poor-grammar-habits" target="_blank" rel="external nofollow">onlineathens.com</a>
+					</div>
+										<div class="usage">
+						Fundraising, Grammar Among Todd Akin's Issues After His 'Legitimate Rape' Remark.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nydailynews.com/blogs/dailypolitics/2012/08/fundraising-grammar-among-todd-akins-issues-after-his-legitimate-rape-remark" target="_blank" rel="external nofollow">nydailynews.com</a>
+					</div>
+										<div class="usage">
+						"Good grammar makes good business sense – and not just when it comes to hiring writers.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://libn.com/2012/08/17/grammar-should-matter-to-employers/" target="_blank" rel="external nofollow">libn.com</a>
+					</div>
+										<div class="usage">
+						Without command of grammar , one can't even truly read, much less write.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/roomfordebate/2012/08/13/is-our-children-learning-enough-grammar-to-get-hired" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Texting Teens Don't Have GR8 Grammar .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kiss1041fm.com/weblogs/kiss-news-now/2012/jul/30/texting-teens-dont-have-gr8-grammar-man-jailed-for/" target="_blank" rel="external nofollow">kiss1041fm.com</a>
+					</div>
+										<div class="usage">
+						A new study has found that texting teens have worse grammar skills.
+					</div>
+					<div class="uAuthor">
+						<a href="http://globalpost.com/photo/5715528/clone-texting-grammar" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						But his inflexibility on the rules of grammar was an occasional aggravation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/Tom-Walton/2012/09/24/On-good-grammar-short-sentences-hazy-headlines.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Constraint-based grammars can, in principle, serve as the ma jor linguistic knowledge source for both parsing and generation. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						Surface generation starts from input semantics representations that may vary across grammars. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						Such grammars can be used for both parsing and generation and are called reversible. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						Semantic monotonicity is very strict and could be relaxed in shdg: It was shown that semantically non-monotonic grammars can be processed by shdg. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						Moreover, we present the speciﬁc solution for the grammar in hand. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						The kind of problem investigated in this paper relates to the fundamental question of how to organize a modular system consisting of linguistic knowledge (a grammar) and control knowledge (parser or generator). 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						Without loosing generality we assume that the grammar has a semantics layer and that a generator input expression is an element of the semantic representation language encoded by the grammar. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						The System Setup This section introduces the generator/grammar pair used for the present study. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						Alshawi, 1992) that are deﬁned through the grammar and represented with help of feature structures (Nerbonne, 1992). 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						The modularity of the grammar and the generator are preserved. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						On the other hand, designers of generation (or parsing) algorithms want to create generic tools that can be used for large classes of grammars. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						It is very important to notice that its deﬁnition does not modify the grammar, rather a new module is added to it. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						Interfaces between constraint-based grammars and generation systems ultimaltely are deﬁned in a very specialized way. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						Grammars developed independently of a speciﬁc generator can be adapted quickly without changing them. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						It uses the same representational means that serve for the implementation of the grammar. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="descriptive%20linguistics.html">descriptive linguistics</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="descriptive%20grammar.html">descriptive grammar</a>, <a href="morphology.html">morphology</a>, <a href="prescriptive%20grammar.html">prescriptive grammar</a>, <a href="syntax.html">syntax</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="grammatic.html">grammatic</a>, <a href="grammatical.html">grammatical</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="11-plus.html">11-plus</a>, <a href="A.%20Noam%20Chomsky.html">A. Noam Chomsky</a>, <a href="ablative.html">ablative</a>, <a href="ablative%20absolute.html">ablative absolute</a>, <a href="absolute.html">absolute</a>, <a href="abstract.html">abstract</a>, <a href="accidence.html">accidence</a>, <a href="accident.html">accident</a>, <a href="accusative.html">accusative</a>, <a href="Accusatively.html">Accusatively</a>, <a href="active.html">active</a>, <a href="adjective.html">adjective</a>, <a href="adjunct.html">adjunct</a>, <a href="Adnominal.html">Adnominal</a>, <a href="adnoun.html">adnoun</a>, <a href="adscript.html">adscript</a>, <a href="adverb.html">adverb</a>, <a href="Aelius%20Donatus.html">Aelius Donatus</a>, <a href="agree.html">agree</a>, <a href="agreement.html">agreement</a>, <a href="anacoluthic.html">anacoluthic</a>, <a href="anacoluthon.html">anacoluthon</a>, <a href="analogy.html">analogy</a>, <a href="Anarthrous.html">Anarthrous</a>, <a href="anastrophe.html">anastrophe</a>, <a href="animate.html">animate</a>, <a href="Anomal.html">Anomal</a>, <a href="Antanaclasis.html">Antanaclasis</a>, <a href="antecedent.html">antecedent</a>, <a href="Anteposition.html">Anteposition</a>, <a href="Antiptosis.html">Antiptosis</a>, <a href="aorist.html">aorist</a>, <a href="apheresis.html">apheresis</a>, <a href="apheretic.html">apheretic</a>, <a href="Apocopate.html">Apocopate</a>, <a href="apocope.html">apocope</a>, <a href="Apodosis.html">Apodosis</a>, <a href="apostrophe.html">apostrophe</a>, <a href="apostrophic.html">apostrophic</a>, <a href="apostrophize.html">apostrophize</a>, <a href="appellative.html">appellative</a>, <a href="Appellatively.html">Appellatively</a>, <a href="apposition.html">apposition</a>, <a href="appositive.html">appositive</a>, <a href="Aptote.html">Aptote</a>, <a href="Arrestive.html">Arrestive</a>, <a href="art.html">art</a>, <a href="article.html">article</a>, <a href="articulation.html">articulation</a>, <a href="ascensive.html">ascensive</a>, <a href="asper.html">asper</a>, <a href="atactic.html">atactic</a>, <a href="attribute.html">attribute</a>, <a href="attributive.html">attributive</a>, <a href="attributively.html">attributively</a>, <a href="augment.html">augment</a>, <a href="augmentative.html">augmentative</a>, <a href="auxiliary.html">auxiliary</a>, <a href="barytone.html">barytone</a>, <a href="Brachylogy.html">Brachylogy</a>, <a href="breathing.html">breathing</a>, <a href="Cacology.html">Cacology</a>, <a href="Casal.html">Casal</a>, <a href="case.html">case</a>, <a href="category.html">category</a>, <a href="causal.html">causal</a>, <a href="causative.html">causative</a>, <a href="Chomsky.html">Chomsky</a>, <a href="clause.html">clause</a>, <a href="cognitive.html">cognitive</a>, <a href="Cohortative.html">Cohortative</a>, <a href="collective.html">collective</a>, <a href="colon.html">colon</a>, <a href="comma.html">comma</a>, <a href="common.html">common</a>, <a href="comparative.html">comparative</a>, <a href="compare.html">compare</a>, <a href="comparison.html">comparison</a>, <a href="Compellative.html">Compellative</a>, <a href="compendious.html">compendious</a>, <a href="composition.html">composition</a>, <a href="compound.html">compound</a>, <a href="compound%20morphology.html">compound morphology</a>, <a href="Conative.html">Conative</a>, <a href="concessive.html">concessive</a>, <a href="Concinnity.html">Concinnity</a>, <a href="conclusion.html">conclusion</a>, <a href="concord.html">concord</a>, <a href="concordance.html">concordance</a>, <a href="concrete.html">concrete</a>, <a href="condition.html">condition</a>, <a href="conditional.html">conditional</a>, <a href="congruence.html">congruence</a>, <a href="congruent.html">congruent</a>, <a href="conjugate.html">conjugate</a>, <a href="conjunction.html">conjunction</a>, <a href="conjunctive.html">conjunctive</a>, <a href="connective.html">connective</a>, <a href="constituent.html">constituent</a>, <a href="construct.html">construct</a>, <a href="construction.html">construction</a>, <a href="continuative.html">continuative</a>, <a href="contract.html">contract</a>, <a href="contraction.html">contraction</a>, <a href="copula.html">copula</a>, <a href="copular.html">copular</a>, <a href="Coronis.html">Coronis</a>, <a href="correlative.html">correlative</a>, <a href="Crasis.html">Crasis</a>, <a href="dative.html">dative</a>, <a href="declension.html">declension</a>, <a href="Declensional.html">Declensional</a>, <a href="Declinable.html">Declinable</a>, <a href="declination.html">declination</a>, <a href="decline.html">decline</a>, <a href="defective.html">defective</a>, <a href="definite.html">definite</a>, <a href="definitive.html">definitive</a>, <a href="degree.html">degree</a>, <a href="Denominative.html">Denominative</a>, <a href="dental.html">dental</a>, <a href="deponent.html">deponent</a>, <a href="derivation.html">derivation</a>, <a href="derivational%20morphology.html">derivational morphology</a>, <a href="descriptive%20grammar.html">descriptive grammar</a>, <a href="Desiderative.html">Desiderative</a>, <a href="Desinence.html">Desinence</a>, <a href="determinative.html">determinative</a>, <a href="Diacope.html">Diacope</a>, <a href="dialysis.html">dialysis</a>, <a href="diastole.html">diastole</a>, <a href="diminutive.html">diminutive</a>, <a href="diphthong.html">diphthong</a>, <a href="Diptote.html">Diptote</a>, <a href="directive.html">directive</a>, <a href="disjunctive.html">disjunctive</a>, <a href="distinctive.html">distinctive</a>, <a href="distraction.html">distraction</a>, <a href="distributive.html">distributive</a>, <a href="Donat.html">Donat</a>, <a href="Donatus.html">Donatus</a>, <a href="Donet.html">Donet</a>, <a href="drill.html">drill</a>, <a href="dual.html">dual</a>, <a href="Ecthlipsis.html">Ecthlipsis</a>, <a href="Education.html">Education</a>, <a href="eleven-plus.html">eleven-plus</a>, <a href="elide.html">elide</a>, <a href="elision.html">elision</a>, <a href="ellipsis.html">ellipsis</a>, <a href="enallage.html">enallage</a>, <a href="Enclitic.html">Enclitic</a>, <a href="ending.html">ending</a>, <a href="epenthesis.html">epenthesis</a>, <a href="epicene.html">epicene</a>, <a href="Epithesis.html">Epithesis</a>, <a href="etymology.html">etymology</a>, <a href="example.html">example</a>, <a href="exclamation.html">exclamation</a>, <a href="expletive.html">expletive</a>, <a href="Factitive.html">Factitive</a>, <a href="false.html">false</a>, <a href="feminine.html">feminine</a>, <a href="finite.html">finite</a>, <a href="flat.html">flat</a>, <a href="flection.html">flection</a>, <a href="form.html">form</a>, <a href="formative.html">formative</a>, <a href="frequentative.html">frequentative</a>, <a href="future.html">future</a>, <a href="gender.html">gender</a>, <a href="Genderless.html">Genderless</a>, <a href="generative%20grammar.html">generative grammar</a>, <a href="genitive.html">genitive</a>, <a href="gentile.html">gentile</a>, <a href="Glossology.html">Glossology</a>, <a href="gnomic.html">gnomic</a>, <a href="govern.html">govern</a>, <a href="government.html">government</a>, <a href="gram.html">gram</a>, <a href="Gramary.html">Gramary</a>, <a href="grammar%20school.html">grammar school</a>, <a href="Grammar-school.html">Grammar-school</a>, <a href="grammarian.html">grammarian</a>, <a href="Grammarianism.html">Grammarianism</a>, <a href="Grammarless.html">Grammarless</a>, <a href="Grammates.html">Grammates</a>, <a href="grammatic.html">grammatic</a>, <a href="grammatical.html">grammatical</a>, <a href="grammatical%20category.html">grammatical category</a>, <a href="grammatical%20constituent.html">grammatical constituent</a>, <a href="grammatical%20relation.html">grammatical relation</a>, <a href="grammatically.html">grammatically</a>, <a href="Grammatication.html">Grammatication</a>, <a href="Grammaticism.html">Grammaticism</a>, <a href="Grammaticize.html">Grammaticize</a>, <a href="graph.html">graph</a>, <a href="Guna.html">Guna</a>, <a href="Hamiltonian.html">Hamiltonian</a>, <a href="head.html">head</a>, <a href="head%20word.html">head word</a>, <a href="Heteroclite.html">Heteroclite</a>, <a href="heterosis.html">heterosis</a>, <a href="hiatus.html">hiatus</a>, <a href="historical.html">historical</a>, <a href="humanities.html">humanities</a>, <a href="humanity.html">humanity</a>, <a href="hypallage.html">hypallage</a>, <a href="Hypocoristic.html">Hypocoristic</a>, <a href="Hypotaxis.html">Hypotaxis</a>, <a href="hypozeuxis.html">hypozeuxis</a>, <a href="ill-formed.html">ill-formed</a>, <a href="illative.html">illative</a>, <a href="Imperatival.html">Imperatival</a>, <a href="imperative.html">imperative</a>, <a href="imperfect.html">imperfect</a>, <a href="impersonal.html">impersonal</a>, <a href="inanimate.html">inanimate</a>, <a href="inchoative.html">inchoative</a>, <a href="incipient.html">incipient</a>, <a href="inclination.html">inclination</a>, <a href="increment.html">increment</a>, <a href="Indeclinable.html">Indeclinable</a>, <a href="indefinite.html">indefinite</a>, <a href="indicative.html">indicative</a>, <a href="infection.html">infection</a>, <a href="infinitival.html">infinitival</a>, <a href="infinitive.html">infinitive</a>, <a href="infix.html">infix</a>, <a href="inflect.html">inflect</a>, <a href="inflected.html">inflected</a>, <a href="inflection.html">inflection</a>, <a href="inflectional.html">inflectional</a>, <a href="inflectional%20morphology.html">inflectional morphology</a>, <a href="Inflective.html">Inflective</a>, <a href="instrumental.html">instrumental</a>, <a href="intensive.html">intensive</a>, <a href="interjection.html">interjection</a>, <a href="interrogative.html">interrogative</a>, <a href="intransitive.html">intransitive</a>, <a href="inversion.html">inversion</a>, <a href="involution.html">involution</a>, <a href="iterative.html">iterative</a>, <a href="Jussive.html">Jussive</a>, <a href="lapse.html">lapse</a>, <a href="Latin.html">Latin</a>, <a href="Laureateship.html">Laureateship</a>, <a href="Laureation.html">Laureation</a>, <a href="learn.html">learn</a>, <a href="liquid.html">liquid</a>, <a href="local.html">local</a>, <a href="locative.html">locative</a>, <a href="macron.html">macron</a>, <a href="major%20form%20class.html">major form class</a>, <a href="masculine.html">masculine</a>, <a href="medial.html">medial</a>, <a href="Metaplasm.html">Metaplasm</a>, <a href="Metaplast.html">Metaplast</a>, <a href="metathesis.html">metathesis</a>, <a href="metrics.html">metrics</a>, <a href="middle.html">middle</a>, <a href="mode.html">mode</a>, <a href="Monoptote.html">Monoptote</a>, <a href="mood.html">mood</a>, <a href="mute.html">mute</a>, <a href="name.html">name</a>, <a href="Neogrammarian.html">Neogrammarian</a>, <a href="Noam%20Chomsky.html">Noam Chomsky</a>, <a href="object.html">object</a>, <a href="orthography.html">orthography</a>, <a href="oxytone.html">oxytone</a>, <a href="Paulo-post-future.html">Paulo-post-future</a>, <a href="philology.html">philology</a>, <a href="poet%20laureate.html">poet laureate</a>, <a href="Poet-laureate.html">Poet-laureate</a>, <a href="prescriptive%20grammar.html">prescriptive grammar</a>, <a href="primitive.html">primitive</a>, <a href="prosody.html">prosody</a>, <a href="quadrivium.html">quadrivium</a>, <a href="quantifier.html">quantifier</a>, <a href="rough.html">rough</a>, <a href="school.html">school</a>, <a href="subject.html">subject</a>, <a href="sutra.html">sutra</a>, <a href="syllepsis.html">syllepsis</a>, <a href="syntactic%20category.html">syntactic category</a>, <a href="syntactician.html">syntactician</a>, <a href="syntax.html">syntax</a>, <a href="taxis.html">taxis</a>, <a href="tense.html">tense</a>, <a href="The%20seven%20liberal%20sciences.html">The seven liberal sciences</a>, <a href="toss.html">toss</a>, <a href="trivium.html">trivium</a>, <a href="ungrammatical.html">ungrammatical</a>, <a href="Vedanga.html">Vedanga</a>, <a href="Volapuk.html">Volapuk</a>, <a href="well-formed.html">well-formed</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					frammar, trammar, hrammar, brammar, vrammar, geammar, gdammar, gfammar, gtammar, grqmmar, grwmmar, grsmmar, grzmmar, granmar, grajmar, grakmar, gramnar, gramjar, gramkar, grammqr, grammwr, grammsr, grammzr, grammae, grammad, grammaf, grammat
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

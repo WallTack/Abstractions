@@ -1,0 +1,575 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>abundance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">abundance</span> <span class="exp">the property of a more than adequate quantity or supply</span> <span class="quot">"an age of abundance"</span></li><li><span class="tSpeech">n</span> <span class="term">abundance</span> <span class="exp">(chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million</span> </li><li><span class="tSpeech">n</span> <span class="term">abundance</span> <span class="exp">(physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Armadillos breed in July, but get pregnant in November after delaying implantation. This allows the young to be born during the spring when there is an abundance of food									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Abundance</span> <span class="exp">An overflowing fullness; ample sufficiency; great plenty; profusion; copious supply; superfluity; wealth: -- strictly applicable to quantity only, but sometimes used of number.</span> <span class="wuQuot">"It is lamentable to remember what abundance of noble blood hath been shed with small benefit to the Christian state."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The most abundant metal in the Earth's crust is aluminum.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">abundance</span> <span class="exp">A copious supply or quantity; overflowing plenteousness; unrestricted sufficiency: strictly applicable to quantity only, but sometimes used of number: as, an abundance of corn, or of people; to have money in great abundance.</span> </li><li><span class="tSpeech">n</span> <span class="term">abundance</span> <span class="exp">Overflowing fullness or affluence; repletion; amplitude of means or resources.</span> </li><li><span class="tSpeech">n</span> <span class="term">abundance</span> <span class="exp">Synonyms Exuberance, Profusion, etc. (see plenty); plenteousness, plentifulness, plenitude, sufficiency, copiousness, ampleness, luxuriance, supply. See affluence.</span> </li><li><span class="tSpeech">n</span> <span class="term">abundance</span> <span class="exp">In card-playing, same as abondance.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Las Vegas means "the meadows" in Spanish. Ironically, the city in the desert was once abundant in water and vegetation.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Abundance</span> <span class="exp"><span class="itl">ab-und′ans</span> ample sufficiency: great plenty</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Wayne Dyer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Wayne%20Dyer.jpg" alt="Wayne%20Dyer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Abundance is not something we acquire. It is something we tune into.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Milton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Milton.jpg" alt="John%20Milton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Good, the more communicated, more abundant grows.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mohammed</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Mohammed">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Riches are not from abundance of worldly goods, but from a contented mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">St. Basil</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="St. Basil">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Many a man curses the rain that falls upon his head, and knows that it brings abundance to drive away hunger.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Peter Ustinov</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Peter Ustinov">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Unfortunately, the balance of nature decrees that a super-abundance of dreams is paid for by a growing potential for nightmares.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John F. Kennedy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20F.%20Kennedy.jpg" alt="John%20F.%20Kennedy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Economic growth without social progress lets the great majority of people remain in poverty, while a privileged few reap the benefits of rising abundance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">h)abundaunce</span>, <span class="wUets">abundance</span>, F. <span class="wUets">abondance</span>, L. <span class="wUets">abundantia</span>, fr. <span class="wUets">abundare</span>,. See <span class="wUer">Abound</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					See <b>Abound</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Though gold is found here, it is not so abundant as in other sections of the country.
+					</div>
+					<div class="uAuthor">
+						"Foot-prints of Travel" by <span>Maturin M. Ballou</span>					</div>
+										<div class="usage">
+						Hops, flax, and hemp are abundant.
+					</div>
+					<div class="uAuthor">
+						"Travels in North America, From Modern Writers" by <span>William Bingley</span>					</div>
+										<div class="usage">
+						It is a very abundant plant in the woods of Columbiana county, this state.
+					</div>
+					<div class="uAuthor">
+						"The Mushroom, Edible and Otherwise" by <span>M. E. Hard</span>					</div>
+										<div class="usage">
+						The climate was delightful, the soil fertile, the means of living abundant.
+					</div>
+					<div class="uAuthor">
+						"Ferdinand De Soto, The Discoverer of the Mississippi" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						Religious books there are in abundance, thanks to the zeal of the Protestant clergy.
+					</div>
+					<div class="uAuthor">
+						"Literary Tours in The Highlands and Islands of Scotland" by <span>Daniel Turner Holmes</span>					</div>
+										<div class="usage">
+						It is abundant along the coasts of western Europe, entering the Baltic and the Mediterranean.
+					</div>
+					<div class="uAuthor">
+						"Tales of Fishes" by <span>Zane Grey</span>					</div>
+										<div class="usage">
+						Still others lack the woolly coating in its finest abundance, and the browsing animals eat these.
+					</div>
+					<div class="uAuthor">
+						"The Meaning of Evolution" by <span>Samuel Christian Schmucker</span>					</div>
+										<div class="usage">
+						But the evidence was abundant that the region had formerly been quite populous with a people very poor and uncultivated.
+					</div>
+					<div class="uAuthor">
+						"King Philip" by <span>John S. C. (John Stevens Cabot) Abbott</span>					</div>
+										<div class="usage">
+						Spores abundant, globose, umber or olivaceous.
+					</div>
+					<div class="uAuthor">
+						"The Myxomycetes of the Miami Valley, Ohio" by <span>A. P. Morgan</span>					</div>
+										<div class="usage">
+						Fruit abundantly formed, with several (2 to 12) seeds to the cone.
+					</div>
+					<div class="uAuthor">
+						"Trees of the Northern United States" by <span>Austin C. Apgar</span>					</div>
+										<div class="usage">
+						In the seas where Dog-fish are abundant, one or more of them become attached to a ship, and quit it neither night nor day.
+					</div>
+					<div class="uAuthor">
+						"The Industries of Animals" by <span>Frédéric Houssay</span>					</div>
+										<div class="usage">
+						They nest abundantly in the marshes of North Dakota and central Canada.
+					</div>
+					<div class="uAuthor">
+						"The Bird Book" by <span>Chester A. Reed</span>					</div>
+										<div class="usage">
+						It is particularly abundant in parts of Ohio, Indiana, and Illinois, and in western North Carolina.
+					</div>
+					<div class="uAuthor">
+						"Special Report on Diseases of Cattle" by <span>U.S. Department of Agriculture</span>					</div>
+										<div class="usage">
+						He had compelled his wife to remain in Simiti to watch over the little store, while he fled with two boatmen and abundant supplies.
+					</div>
+					<div class="uAuthor">
+						"Carmen Ariza" by <span>Charles Francis Stocking</span>					</div>
+										<div class="usage">
+						In youth, the fluids are more abundant than in advanced life.
+					</div>
+					<div class="uAuthor">
+						"A Treatise on Anatomy, Physiology, and Hygiene (Revised Edition)" by <span>Calvin Cutter</span>					</div>
+										<div class="usage">
+						God gives the ungodly mighty kingdoms, riches, lands and houses, making them to enjoy greatness and abundance.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. III" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						This fact may be turned to great pecuniary value, by producing an abundance of apples every year.
+					</div>
+					<div class="uAuthor">
+						"Soil Culture" by <span>J. H. Walden</span>					</div>
+										<div class="usage">
+						The china-trees are beautiful, and abundant about the dwellings.
+					</div>
+					<div class="uAuthor">
+						"A Rebel War Clerk's Diary at the Confederate States Capital" by <span>John Beauchamp Jones</span>					</div>
+										<div class="usage">
+						An abundant display of the same species followed in the next June; but, of course, the intervening phases were not observed.
+					</div>
+					<div class="uAuthor">
+						"The North American Slime-Moulds" by <span>Thomas H. (Thomas Huston) MacBride</span>					</div>
+										<div class="usage">
+						The earth abundantly furnishes their daily bread and wine.
+					</div>
+					<div class="uAuthor">
+						"Glories of Spain" by <span>Charles W. Wood</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							God help our native land,<br>
+Bring surcease to her strife,<br>
+And shower from thy hand<br>
+A more abundant life.
+							<div class="poet">"God Bless Our Native Land" by <span>Frances Ellen Watkins Harper</span></div>
+						</div>
+											<div class="poemQuote">
+							Rivers of love and mercy here<br>
+In a rich ocean join;<br>
+Salvation in abundance flows,<br>
+Like floods of milk and wine.
+							<div class="poet">"Hymn 7" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Rivers of love and mercy here,<br>
+In a rich ocean join.<br>
+Salvation in abundance flows<br>
+Like floods of milk and wine.
+							<div class="poet">"Hymn 2" by <span>Noah Calwell W Cannon</span></div>
+						</div>
+											<div class="poemQuote">
+							He takes the men of meanest name<br>
+For sons and heirs of God;<br>
+And thus he pours abundant shame<br>
+On honorable blood.
+							<div class="poet">"Hymn 96" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							His blood abundant value bore,<br>
+To make his purchase broad,<br>
+'Twas fair divinity in gore,<br>
+Thy Husband is thy God. 
+							<div class="poet">"The Believer's Jointure : Chapter II." by <span>Ralph Erskine</span></div>
+						</div>
+											<div class="poemQuote">
+							Spring am I, too soft of heart<br>
+Much to speak ere I depart:<br>
+Ask the Summer-tide to prove<br>
+The abundance of my love.
+							<div class="poet">"Spring" by <span>William Morris</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Service starts 11 am Saturday, Sept 29, 2012, at Abundant Life Community Church, reception to follow at church and wake from 2 to 4 pm at Uncle Sonny's, 13451 Colfax Highway.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theunion.com/news/obituaries/2644517-113/rotter-william-2012-church" target="_blank" rel="external nofollow">theunion.com</a>
+					</div>
+										<div class="usage">
+						Heavy mountain runn off filling the Chowchilla water ways to abundance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ksee24.com/younews/96835164.html" target="_blank" rel="external nofollow">ksee24.com</a>
+					</div>
+										<div class="usage">
+						Delightfully yellow and fragrant, scoparia 'Ilumina Lemon Mist Improved' produces an abundance of dainty, star-shaped blooms throughout the season from April through November.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.greenhousegrower.com/article/31260/spring-production-of-ilumina-scoparia" target="_blank" rel="external nofollow">greenhousegrower.com</a>
+					</div>
+										<div class="usage">
+						 Scotch broom , a noxious weed, grows in abundance in Kitsap County.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kitsapsun.com/news/2009/jun/03/boom-times-for-scotch-broom-blooms/" target="_blank" rel="external nofollow">kitsapsun.com</a>
+					</div>
+										<div class="usage">
+						In the coming weeks, the Chicago Fire should be announcing an abundance of player options that they are picking up heading into 2012.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/chicago/fire/post/_/id/2286/klopas-fire-scour-globe-for-added-talent" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						While the summer cornucopia of fish continues to spill forth with an abundance found nowhere else on the coast, anglers have been heard to moan about how hard it's been to find small porgies to use for bass bait.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.easthamptonstar.com/?q=Outdoors/2012725/Big-Scup-Not-Just-Fluke" target="_blank" rel="external nofollow">easthamptonstar.com</a>
+					</div>
+										<div class="usage">
+						Edible Finger Lakes highlights the culinary abundance of the region.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/travel/weekends/seneca/index5.html" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						Usually we think of testosterone as a hormone that men have — in abundance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.courant.com/health/midlife/la-he-midlife-libido-20110502,0,477163.story" target="_blank" rel="external nofollow">courant.com</a>
+					</div>
+										<div class="usage">
+						A talented African-American saxophonist moves from Boston to Harlem to study with the jazz master he idolizes in Mansbach's first novel, a passionate debut that succeeds despite an abundance of plot clichés.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/978-0-385-50205-4" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<div class="usage">
+						Cobia are rarely encountered in northern waters, but with high water temperatures and an abundance of rays, anglers should be on the lookout for them.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/shore/blogs/fishing/index.ssf/2012/08/al_ristori.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						With the abundance of fresh strawberries this spring, I could not resist the temptation to develop a recipe around this versatile first fruit of the season for Mother's Day.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appeal-democrat.com/articles/recipe-116021-shortcake-day.html" target="_blank" rel="external nofollow">appeal-democrat.com</a>
+					</div>
+										<div class="usage">
+						This latest wireless system from Shure comes packed with an abundance of features that I find very helpful on tour.
+					</div>
+					<div class="uAuthor">
+						<a href="http://svconline.com/proav/pro-av-articles_peer-review-shure-uhf-r-ur24sksm9/" target="_blank" rel="external nofollow">svconline.com</a>
+					</div>
+										<div class="usage">
+						 Sitka 's Abundant Waters.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.saltwatersportsman.com/travel/north-america/sitka-s-abundant-waters?quicktabs_most_popular=0&amp;quicktabs_community_side_bar=2" target="_blank" rel="external nofollow">saltwatersportsman.com</a>
+					</div>
+										<div class="usage">
+						I am not sure why this event has become annual, but assume it has something with an abundance of Skeet and some kind of innate need to shoot them.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thebraziltimes.com/blogs/1174/entry/46872/" target="_blank" rel="external nofollow">thebraziltimes.com</a>
+					</div>
+										<div class="usage">
+						 Sleight of hand, abundant of secrets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/entertainment/museums/ricky-jay-sleight-of-hand-abundant-of-secrets/2012/11/01/d4d388f8-1ee7-11e2-9cd5-b55c38388962_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Thus, spirals are a factor of 2 more abundant at z ∼ 0.5 than in the nearby universe and S0 galaxies are proportionally less abundant, while the fraction of ellipticals is already as large or larger at higher redshift. 
+					</div>
+					<div class="uAuthor">
+						Galactic Morphologies in Distant Clusters
+					</div>
+										<div class="usage">
+						The Mg abundances of giant ellipticals are enhanced with respect to Fe abundances, as compared to the solar ratios (e.g., Worthey, Faber, &amp; Gonzalez 1992). 
+					</div>
+					<div class="uAuthor">
+						A Synthesis of Data from Fundamental Plane and Surface Brightness Fluctuation Surveys
+					</div>
+										<div class="usage">
+						In fact, comparison to solar-abundance ratio stellar population models indicates that (V −I )0 is slightly ‘depressed’ at a given total metalicity, and therefore appears to follow the Fe-peak abundances more than the α-elements abundances. 
+					</div>
+					<div class="uAuthor">
+						A Synthesis of Data from Fundamental Plane and Surface Brightness Fluctuation Surveys
+					</div>
+										<div class="usage">
+						Their potential for abundance analyses is illustrated by discussing the derived oxygen abundances in the Sun and in metal-poor stars, where they seem to resolve long-standing problems as well as signiﬁcantly alter the inferred conclusions. 
+					</div>
+					<div class="uAuthor">
+						Stellar abundance analyses in the light of 3D hydrodynamical model atmospheres
+					</div>
+										<div class="usage">
+						To illustrate the possible impact of the new generation of 3D model atmospheres on abundance analyses, I will describe the situation for the most abundant cosmic metal, oxygen, in two important types of stars: the Sun and metal-poor halo stars. 
+					</div>
+					<div class="uAuthor">
+						Stellar abundance analyses in the light of 3D hydrodynamical model atmospheres
+					</div>
+										<div class="usage">
+						OH vibrational and rotational lines: The slightly cooler temperature structure in our 3D solar model compared with the standard Holweger-M¨uller (1974), which is normally the 1D model of choice for solar abundance determinations, directly translates to a lower derived oxygen abundance from the OH IR lines. 
+					</div>
+					<div class="uAuthor">
+						Stellar abundance analyses in the light of 3D hydrodynamical model atmospheres
+					</div>
+										<div class="usage">
+						Such a radical re-evaluation for the most abundant metal in the star we know the best is certainly a sobering realisation when discussing derived stellar abundances based on inferior spectra and where the modelling uncertainties can be much larger. 
+					</div>
+					<div class="uAuthor">
+						Stellar abundance analyses in the light of 3D hydrodynamical model atmospheres
+					</div>
+										<div class="usage">
+						It has long been known that halo stars show an over-abundance of oxygen ([O/Fe] &gt; 0) but an exact estimate has been notoriously diﬃcult to achieve due to the large discrepancies between the different abundance indicators. 
+					</div>
+					<div class="uAuthor">
+						Stellar abundance analyses in the light of 3D hydrodynamical model atmospheres
+					</div>
+										<div class="usage">
+						Without rotation, most of the change of CNO abundances occurs in the LBV phase, while in the case with rotation, the transition from cosmic to CNO equilibrium abundances occurs partly during the MS phase and partly during the eWNL phase which immediately follows it. 
+					</div>
+					<div class="uAuthor">
+						Stellar evolution with rotation X: Wolf-Rayet star populations at solar metallicity
+					</div>
+										<div class="usage">
+						We can investigate the abundances of the nuclear and inner wind region by grouping elements into 3 groups: (1) He, C, and N (abundance set to solar), (2) Fe group – Fe and Ni (associated with SNe I), and (3) α elements – O, Ne, Mg, Si, S, Ar and Ca (associated with SNeII). 
+					</div>
+					<div class="uAuthor">
+						First Look XMM-Newton EPIC Observations of the Prototypical Starburst Galaxy M82
+					</div>
+										<div class="usage">
+						Fitting again with a two temperature plus power-law model, we ﬁnd that (with the abundances tied between the two models) that the Fe group abundance is ﬁtted to be 0.430.48 0.40 Z(F e,⊙) and for the α group 0.370.40 0.35 Z(α,⊙) , implying a slightly subsolar α/Fe ratio. 
+					</div>
+					<div class="uAuthor">
+						First Look XMM-Newton EPIC Observations of the Prototypical Starburst Galaxy M82
+					</div>
+										<div class="usage">
+						Abundances observed in the legs are consistent with abundances measured in the slow wind in situ. 
+					</div>
+					<div class="uAuthor">
+						Coronal Heating versus Solar Wind Acceleration
+					</div>
+										<div class="usage">
+						The different synthetic spectra correspond to a Nd abundance lower or higher by 0.5 dex with respect to the abundance obtained from the optimum value. 
+					</div>
+					<div class="uAuthor">
+						About the chemical composition of delta Scuti - the prototype of the class of pulsating variables
+					</div>
+										<div class="usage">
+						The abundances of chemical elements and ions in the atmosphere of δ Sct with respect to their abundances in the solar atmosphere. 
+					</div>
+					<div class="uAuthor">
+						About the chemical composition of delta Scuti - the prototype of the class of pulsating variables
+					</div>
+										<div class="usage">
+						The values of abundances of these elements obtained from the lines of second and third spectra are equal. • The abundances of heavy elements shows the overabundances with respect to the Sun up to 1 dex. • The abundance pattern of δ Sct is similar to that of Am-Fm stars. 
+					</div>
+					<div class="uAuthor">
+						About the chemical composition of delta Scuti - the prototype of the class of pulsating variables
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the property of a more than adequate quantity or supply"><a href="copiousness.html">copiousness</a>, <a href="teemingness.html">teemingness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="scarcity.html">scarcity</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="quantity.html">quantity</a>, <a href="ratio.html">ratio</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="amplitude.html">amplitude</a>, <a href="bountifulness.html">bountifulness</a>, <a href="bounty.html">bounty</a>, <a href="cornucopia.html">cornucopia</a>, <a href="lushness.html">lushness</a>, <a href="luxuriance.html">luxuriance</a>, <a href="overabundance.html">overabundance</a>, <a href="overmuch.html">overmuch</a>, <a href="overmuchness.html">overmuchness</a>, <a href="plenitude.html">plenitude</a>, <a href="plenteousness.html">plenteousness</a>, <a href="plentifulness.html">plentifulness</a>, <a href="plentitude.html">plentitude</a>, <a href="plenty.html">plenty</a>, <a href="profuseness.html">profuseness</a>, <a href="profusion.html">profusion</a>, <a href="richness.html">richness</a>, <a href="superabundance.html">superabundance</a>, <a href="voluptuousness.html">voluptuousness</a>, <a href="wealth.html">wealth</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="abound.html">abound</a>, <a href="abundant.html">abundant</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-ous.html">-ous</a>, <a href="A.html">A</a>, <a href="abounding.html">abounding</a>, <a href="affluence.html">affluence</a>, <a href="Affluently.html">Affluently</a>, <a href="agave.html">agave</a>, <a href="Alderney.html">Alderney</a>, <a href="all.html">all</a>, <a href="amber.html">amber</a>, <a href="ampleness.html">ampleness</a>, <a href="amplitude.html">amplitude</a>, <a href="anemophilous.html">anemophilous</a>, <a href="aqueduct.html">aqueduct</a>, <a href="Arara.html">Arara</a>, <a href="Badger.html">Badger</a>, <a href="Bathybius.html">Bathybius</a>, <a href="bellyful.html">bellyful</a>, <a href="benthos.html">benthos</a>, <a href="boon.html">boon</a>, <a href="bountiful.html">bountiful</a>, <a href="bountifulness.html">bountifulness</a>, <a href="bounty.html">bounty</a>, <a href="Cacochymia.html">Cacochymia</a>, <a href="cayman.html">cayman</a>, <a href="Ceroxylon.html">Ceroxylon</a>, <a href="cheap.html">cheap</a>, <a href="choroid.html">choroid</a>, <a href="chub%20mackerel.html">chub mackerel</a>, <a href="Clistogamy.html">Clistogamy</a>, <a href="Conchitic.html">Conchitic</a>, <a href="copious.html">copious</a>, <a href="copiousness.html">copiousness</a>, <a href="copy.html">copy</a>, <a href="Corallian.html">Corallian</a>, <a href="cork.html">cork</a>, <a href="Corn%20in%20Egypt.html">Corn in Egypt</a>, <a href="cornucopia.html">cornucopia</a>, <a href="Cow-tree.html">Cow-tree</a>, <a href="depth.html">depth</a>, <a href="dispense.html">dispense</a>, <a href="disperse.html">disperse</a>, <a href="dodo.html">dodo</a>, <a href="ebony.html">ebony</a>, <a href="eelgrass.html">eelgrass</a>, <a href="Effulge.html">Effulge</a>, <a href="Embarras%20des%20richesses.html">Embarras des richesses</a>, <a href="enough.html">enough</a>, <a href="enrich.html">enrich</a>, <a href="epacris.html">epacris</a>, <a href="Epilobium%20angustifolium.html">Epilobium angustifolium</a>, <a href="Eu.html">Eu</a>, <a href="Evergreen%20State.html">Evergreen State</a>, <a href="exuberance.html">exuberance</a>, <a href="exuberant.html">exuberant</a>, <a href="exuberate.html">exuberate</a>, <a href="Exundation.html">Exundation</a>, <a href="falsehood.html">falsehood</a>, <a href="fat.html">fat</a>, <a href="fathead.html">fathead</a>, <a href="feast.html">feast</a>, <a href="fecundity.html">fecundity</a>, <a href="fertile.html">fertile</a>, <a href="fertility.html">fertility</a>, <a href="fireweed.html">fireweed</a>, <a href="Flesh-pot.html">Flesh-pot</a>, <a href="flood.html">flood</a>, <a href="flow.html">flow</a>, <a href="fluency.html">fluency</a>, <a href="flush.html">flush</a>, <a href="Flushness.html">Flushness</a>, <a href="Foison.html">Foison</a>, <a href="folio.html">folio</a>, <a href="Fouth.html">Fouth</a>, <a href="frequence.html">frequence</a>, <a href="fruitful.html">fruitful</a>, <a href="fruitfulness.html">fruitfulness</a>, <a href="fullness.html">fullness</a>, <a href="fusion.html">fusion</a>, <a href="galore.html">galore</a>, <a href="giant%20willowherb.html">giant willowherb</a>, <a href="glut.html">glut</a>, <a href="Gopher%20State.html">Gopher State</a>, <a href="grass%20wrack.html">grass wrack</a>, <a href="guano.html">guano</a>, <a href="H.html">H</a>, <a href="helium.html">helium</a>, <a href="herring.html">herring</a>, <a href="High-mettled.html">High-mettled</a>, <a href="hyacinth.html">hyacinth</a>, <a href="hygrophytic.html">hygrophytic</a>, <a href="Ichthyodorulite.html">Ichthyodorulite</a>, <a href="Inexhaustibility.html">Inexhaustibility</a>, <a href="influx.html">influx</a>, <a href="inundate.html">inundate</a>, <a href="inundation.html">inundation</a>, <a href="Lavatera.html">Lavatera</a>, <a href="leafage.html">leafage</a>, <a href="Lemuria.html">Lemuria</a>, <a href="liberal.html">liberal</a>, <a href="Live%20in%20clover.html">Live in clover</a>, <a href="load.html">load</a>, <a href="Ludian.html">Ludian</a>, <a href="lush.html">lush</a>, <a href="luxuriance.html">luxuriance</a>, <a href="luxuriant.html">luxuriant</a>, <a href="luxuriate.html">luxuriate</a>, <a href="magnesium.html">magnesium</a>, <a href="manganese.html">manganese</a>, <a href="marmoset.html">marmoset</a>, <a href="Mastful.html">Mastful</a>, <a href="megalosaurus.html">megalosaurus</a>, <a href="Milk.html">Milk</a>, <a href="mullet.html">mullet</a>, <a href="Murra.html">Murra</a>, <a href="Murth.html">Murth</a>, <a href="Nappiness.html">Nappiness</a>, <a href="nappy.html">nappy</a>, <a href="nickel.html">nickel</a>, <a href="oodles.html">oodles</a>, <a href="opening.html">opening</a>, <a href="Ops.html">Ops</a>, <a href="opulently.html">opulently</a>, <a href="overflow.html">overflow</a>, <a href="Overflowingly.html">Overflowingly</a>, <a href="overmuchness.html">overmuchness</a>, <a href="ox.html">ox</a>, <a href="Pezophaps.html">Pezophaps</a>, <a href="phalanger.html">phalanger</a>, <a href="Phenix.html">Phenix</a>, <a href="Phytogeography.html">Phytogeography</a>, <a href="pigment.html">pigment</a>, <a href="pile.html">pile</a>, <a href="plenitude.html">plenitude</a>, <a href="plenteous.html">plenteous</a>, <a href="plentiful.html">plentiful</a>, <a href="plentifulness.html">plentifulness</a>, <a href="plenty.html">plenty</a>, <a href="Pleroma.html">Pleroma</a>, <a href="polonium.html">polonium</a>, <a href="porphyry.html">porphyry</a>, <a href="potash.html">potash</a>, <a href="pottery.html">pottery</a>, <a href="press.html">press</a>, <a href="Procellarian.html">Procellarian</a>, <a href="prodigally.html">prodigally</a>, <a href="profuse.html">profuse</a>, <a href="profusely.html">profusely</a>, <a href="profusion.html">profusion</a>, <a href="prolific.html">prolific</a>, <a href="Psarolite.html">Psarolite</a>, <a href="Pseudotsuga.html">Pseudotsuga</a>, <a href="Pulverulence.html">Pulverulence</a>, <a href="purslane.html">purslane</a>, <a href="Quadrat.html">Quadrat</a>, <a href="Raff.html">Raff</a>, <a href="rare.html">rare</a>, <a href="Rhabdite.html">Rhabdite</a>, <a href="rich.html">rich</a>, <a href="riches.html">riches</a>, <a href="richness.html">richness</a>, <a href="riot.html">riot</a>, <a href="riotous.html">riotous</a>, <a href="river.html">river</a>, <a href="rosebay%20willowherb.html">rosebay willowherb</a>, <a href="Routh.html">Routh</a>, <a href="salt.html">salt</a>, <a href="sanguine.html">sanguine</a>, <a href="sargasso.html">sargasso</a>, <a href="Sargasso%20Sea.html">Sargasso Sea</a>, <a href="sargassum.html">sargassum</a>, <a href="scantiness.html">scantiness</a>, <a href="scanty.html">scanty</a>, <a href="Schizoneura.html">Schizoneura</a>, <a href="sea%20wrack.html">sea wrack</a>, <a href="serpentine.html">serpentine</a>, <a href="Shell%20marl.html">Shell marl</a>, <a href="shower.html">shower</a>, <a href="skunk.html">skunk</a>, <a href="Soredium.html">Soredium</a>, <a href="starch.html">starch</a>, <a href="sterculia.html">sterculia</a>, <a href="store.html">store</a>, <a href="Stouth-and-routh.html">Stouth-and-routh</a>, <a href="sufficiency.html">sufficiency</a>, <a href="Suffisance.html">Suffisance</a>, <a href="sulphur.html">sulphur</a>, <a href="Super-.html">Super-</a>, <a href="superabundance.html">superabundance</a>, <a href="swim.html">swim</a>, <a href="talent.html">talent</a>, <a href="Tash.html">Tash</a>, <a href="Taxodium.html">Taxodium</a>, <a href="Tertiary.html">Tertiary</a>, <a href="thick.html">thick</a>, <a href="tin.html">tin</a>, <a href="To%20abound%20in.html">To abound in</a>, <a href="torrential.html">torrential</a>, <a href="touchwood.html">touchwood</a>, <a href="trachea.html">trachea</a>, <a href="treasure.html">treasure</a>, <a href="Treasury.html">Treasury</a>, <a href="Tressful.html">Tressful</a>, <a href="Typha.html">Typha</a>, <a href="Uberous.html">Uberous</a>, <a href="Uberty.html">Uberty</a>, <a href="Valonia.html">Valonia</a>, <a href="verbiage.html">verbiage</a>, <a href="verdant.html">verdant</a>, <a href="veronica.html">veronica</a>, <a href="waxwing.html">waxwing</a>, <a href="wealth.html">wealth</a>, <a href="wickup.html">wickup</a>, <a href="Wolf.html">Wolf</a>, <a href="Yapon.html">Yapon</a>, <a href="Zostera%20marina.html">Zostera marina</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qbundance, wbundance, sbundance, zbundance, avundance, agundance, ahundance, anundance, abyndance, abhndance, abjndance, abindance, abubdance, abuhdance, abujdance, abumdance, abunsance, abuneance, abunfance, abuncance, abunxance, abunsance, abundqnce, abundwnce, abundsnce, abundznce, abundabce, abundahce, abundajce, abundamce, abundanxe, abundande, abundanfe, abundanve, abundancw, abundancs, abundancd, abundancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

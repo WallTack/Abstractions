@@ -1,0 +1,560 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>hostility</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">violent action that is hostile and usually unprovoked</span> </li><li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">a hostile (very unfriendly) disposition</span> <span class="quot">"he could not conceal his hostility"</span></li><li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">the feeling of a hostile person</span> <span class="quot">"he could no longer contain his hostility"</span></li><li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">a state of deep-seated ill-will</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The British once went to war over a sailorÃ¢â‚¬â„¢s ear. It happened in 1739, when Britain launched hostilities against Spain because a Spanish officer had supposedly sliced off the ear of a shipÃ¢â‚¬â„¢s captain named Robert Jenkins.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Hostility</span> <span class="exp">An act of an open enemy; a hostile deed; especially in the plural, acts of warfare; attacks of an enemy.  See <span class="wUer">hostilities</span>
+         </span> <span class="wuQuot">"He who proceeds to wanton hostility , often provokes an enemy where he might have a friend."</span></li><li><span class="term">Hostility</span> <span class="exp">State of being hostile; public or private enemy; unfriendliness; animosity.</span> <span class="wuQuot">"Hostility being thus suspended with France."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">The state of being hostile; inimical feeling; antagonism.</span> </li><li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">Hostile action; open opposition by war or other means; especially, in the plural, acts of warfare.</span> </li><li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">A hostile act which follows a declaration of war.</span> </li><li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">Synonyms Animosity, Ill-will, Enmity (see animosity); unfriendliness, opposition, violence, aggression.</span> </li><li><span class="tSpeech">n</span> <span class="term">hostility</span> <span class="exp">War, fighting.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Hostility</span> <span class="exp">enmity:—<span class="itl">pl.</span> <span class="bld">Hostil′ities</span>, acts of warfare</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Carlyle.jpg" alt="Thomas%20Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Our life is not really a mutual helpfulness; but rather, it's fair competition cloaked under due laws of war; it's a mutual hostility.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Elizabeth Bowen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Elizabeth%20Bowen.jpg" alt="Elizabeth%20Bowen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Some people are molded by their admirations, others by their hostilities.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Norman Mailer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Norman%20Mailer.jpg" alt="Norman%20Mailer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I'm hostile to men, I'm hostile to women, I'm hostile to cats, to poor cockroaches, I'm afraid of horses.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Berger</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Berger.jpg" alt="John%20Berger">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One can say of language that it is potentially the only human home, the only dwelling place that cannot be hostile to man.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Seneca</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Seneca.jpg" alt="Seneca">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He who dreads hostility too much is unfit to rule.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Washington</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Washington.jpg" alt="George%20Washington">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Over grown military establishments are under any form of government inauspicious to liberty, and are to be regarded as particularly hostile to republican liberty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Hostile takeover</span> - If a company is bought out when it does not want to be, it is known as a hostile takeover.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">hostilitas</span>,: cf. F. <span class="wUets">hostilité</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>hostilis</i>—<i>hostis</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						But an event occurred that caused him to look upon Hereward with more hostile eyes.
+					</div>
+					<div class="uAuthor">
+						"Historical Tales, Vol. 4 (of 15)" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						Scarcely a week passed without its dangerous excursions against the Pawnees, Comanches and other hostile tribes of Indians.
+					</div>
+					<div class="uAuthor">
+						"The Victim" by <span>Thomas Dixon</span>					</div>
+										<div class="usage">
+						He stared at the hostile faces of the surgeon and Balch.
+					</div>
+					<div class="uAuthor">
+						"Brigands of the Moon" by <span>Ray Cummings</span>					</div>
+										<div class="usage">
+						Thus if (just for illustration) a blimp spies a hostile submarine, the news is instantly transmitted to the Navy Department.
+					</div>
+					<div class="uAuthor">
+						"Kelly Miller's History of the World War for Human Rights" by <span>Kelly Miller</span>					</div>
+										<div class="usage">
+						Any hostile army could lick Homeburg by aiming lorgnettes at it.
+					</div>
+					<div class="uAuthor">
+						"Homeburg Memories" by <span>George Helgesen Fitch</span>					</div>
+										<div class="usage">
+						Hostilities were renewed on the eighth day of August, and prosecuted with uncommon ardour and animosity.
+					</div>
+					<div class="uAuthor">
+						"The History of England in Three Volumes, Vol.II. From William and Mary to George II." by <span>Tobias Smollett</span>					</div>
+										<div class="usage">
+						But news came that hostile troops were landing on the coast, and the Kalevide mounted his war-horse.
+					</div>
+					<div class="uAuthor">
+						"The Hero of Esthonia and Other Studies in the Romantic Literature of That Country" by <span>William Forsell Kirby</span>					</div>
+										<div class="usage">
+						Among individuals a conspicuous representative of this hostility was the poet Percival.
+					</div>
+					<div class="uAuthor">
+						"James Fenimore Cooper" by <span>Thomas R. Lounsbury</span>					</div>
+										<div class="usage">
+						In either case groups are placed between our main body and the actual or supposed position of the hostile troops.
+					</div>
+					<div class="uAuthor">
+						"The Plattsburg Manual" by <span>O.O. Ellis and E.B. Garey</span>					</div>
+										<div class="usage">
+						Drake dared not go on to unknown, hostile seas with a mutiny, or the chance of a mutiny brewing.
+					</div>
+					<div class="uAuthor">
+						"Vikings of the Pacific" by <span>Agnes C. Laut</span>					</div>
+										<div class="usage">
+						Our reserves and our day positions were behind the escarpment, where was excellent cover from hostile shelling.
+					</div>
+					<div class="uAuthor">
+						"With the British Army in The Holy Land" by <span>Henry Osmond Lock</span>					</div>
+										<div class="usage">
+						I am sure I feel no hostility toward you, Senators from the North.
+					</div>
+					<div class="uAuthor">
+						"The Rise and Fall of the Confederate Government, Vol. 1 (of 2)" by <span>Jefferson Davis</span>					</div>
+										<div class="usage">
+						The relation of comradeship and peace in the we-group and that of hostility and war toward others-groups are correlative to each other.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						The thought in the first member is: every touch of them bears a hostile character.
+					</div>
+					<div class="uAuthor">
+						"Christology of the Old Testament: And a Commentary on the Messianic Predictions, v. 1" by <span>Ernst Wilhelm Hengstenberg</span>					</div>
+										<div class="usage">
+						She was not quite sure what ailed her, but she was conscious of an access of great anger, of passionate hostility.
+					</div>
+					<div class="uAuthor">
+						"Finn The Wolfhound" by <span>A. J. Dawson</span>					</div>
+										<div class="usage">
+						Individuals that early in the year have frequented the same spot daily and have even shown every sign of friendship, become openly hostile.
+					</div>
+					<div class="uAuthor">
+						"Territory in Bird Life" by <span>H. Eliot Howard</span>					</div>
+										<div class="usage">
+						It was but natural for the settlers to mistake this armed cavalcade, red with paint and chanting war-songs, for hostiles.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Trapper" by <span>A. C. Laut</span>					</div>
+										<div class="usage">
+						The ally he had reckoned on seemed to wear an uncommonly hostile look.
+					</div>
+					<div class="uAuthor">
+						"A Veldt Official" by <span>Bertram Mitford</span>					</div>
+										<div class="usage">
+						The opening hostilities of the Mexican War had occurred on the Rio Grande.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 5, Slice 1" by <span>Various</span>					</div>
+										<div class="usage">
+						Received immediately with heavy artillery and infantry fire, he threw himself on the hostile ranks.
+					</div>
+					<div class="uAuthor">
+						"The Franco-German War of 1870-71" by <span>Count Helmuth, von Moltke</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Like Winkelried, he took<br>
+Into his manly breast<br>
+The sheaf of hostile spears, and broke<br>
+A path for the oppressed. 
+							<div class="poet">"Charles Sumner. (Birds Of Passage. Flight The Fourth)" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+											<div class="poemQuote">
+							No cherishing you give,<br>
+I'm hostile in your eyes.<br>
+As pedler's wares for which none cares,<br>
+My virtues you despise.
+							<div class="poet">"The Plaint Of A Rejected Wife" by <span>Confucius</span></div>
+						</div>
+											<div class="poemQuote">
+							Near it she draws, but entrance there<br>
+A swelling sea denies;<br>
+For hostile to her callow care,<br>
+The cruel waters rise.
+							<div class="poet">"The Halcyon" by <span>William Hayley</span></div>
+						</div>
+											<div class="poemQuote">
+							"For YORK , a warrior known to fame,<br>
+Uplifts the hostile spear,<br>
+EDWIN the blooming hero's name,<br>
+To ALBERT'S bosom dear.
+							<div class="poet">"Edwin and Eltruda, a Legendary Tale" by <span>Helen Maria Williams</span></div>
+						</div>
+											<div class="poemQuote">
+							He rush'd against the Austrian hand,<br>
+In desperate career,<br>
+And with his body, breast, and hand,<br>
+Bore down each hostile spear.
+							<div class="poet">"The Battle of Sempach" by <span>Sir Walter Scott</span></div>
+						</div>
+											<div class="poemQuote">
+							Once over the ocean in distant lands,<br>
+In an age long past, were two hostile bands—<br>
+Two armies of men, both brave, both strong,<br>
+And their hearts beat high as they marched along<br>
+To fight the battle of right and wrong.
+							<div class="poet">"The Two Armies" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The Hostile Takeover of Anheuser-Busch.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/magazine/content/10_50/b4207102597065.htm" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						Activist investor Carl Icahn, who holds an almost 10 percent stake in Netflix (NFLX), said on Thursday he has considered a hostile takeover bid for Netflix, but it was uncertain he stood a chance of acquiring the Internet streaming service.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.insidebayarea.com/business/ci_21959032/carl-icahn-admits-considering-hostile-takeover-netflix" target="_blank" rel="external nofollow">insidebayarea.com</a>
+					</div>
+										<div class="usage">
+						The year of the hostile takeover .
+					</div>
+					<div class="uAuthor">
+						<a href="http://money.cnn.com/2011/12/30/markets/merger_2012/index.htm" target="_blank" rel="external nofollow">money.cnn.com</a>
+					</div>
+										<div class="usage">
+						Martin Marietta Bets on Efficiencies in Hostile Takeover Bid for Vulcan.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forconstructionpros.com/news/10536342/martin-marietta-bets-on-efficiencies-in-hostile-takeover-bid-for-vulcan" target="_blank" rel="external nofollow">forconstructionpros.com</a>
+					</div>
+										<div class="usage">
+						Martin Marietta proposes hostile takeover of Vulcan Materials.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aggman.com/martin-marietta-proposes-hostile-takeover-of-vulcan-materials/" target="_blank" rel="external nofollow">aggman.com</a>
+					</div>
+										<div class="usage">
+						Acxiom Vows to Fight Possible Hostile Takeover Bid.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dmnews.com/acxiom-vows-to-fight-possible-hostile-takeover-bid/article/87771/" target="_blank" rel="external nofollow">dmnews.com</a>
+					</div>
+										<div class="usage">
+						USA Truck, which just two weeks ago reported a record quarterly loss, has announced a board shakeup and other efforts designed to stem the Van Buren company's financial bleeding and prevent a hostile takeover .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.arkansasbusiness.com/article/88582/usa-truck-announces-board-shakeup-efforts-to-repel-hostile-takeover" target="_blank" rel="external nofollow">arkansasbusiness.com</a>
+					</div>
+										<div class="usage">
+						Israel-Gaza hostilities remind us of our stake in Middle East.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wacotrib.com/opinion/180788101.html" target="_blank" rel="external nofollow">wacotrib.com</a>
+					</div>
+										<div class="usage">
+						The Youth Justice Council rallied outside the LA County Men's Jail at 10 am on 10/10, the day set by the Pelican Bay Prison Short Corridor Collective for the beginning of the end of racial hostilities .
+					</div>
+					<div class="uAuthor">
+						<a href="http://sfbayview.com/2012/california-rises-to-prisoners-challenge-to-end-racial-hostilities/" target="_blank" rel="external nofollow">sfbayview.com</a>
+					</div>
+										<div class="usage">
+						Religious strictures, hostilities linked to Arab Spring.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bendbulletin.com/archive/2012/09/29/religious_strictures_hostilities_linked_to_arab_spring.html" target="_blank" rel="external nofollow">bendbulletin.com</a>
+					</div>
+										<div class="usage">
+						Agreement to end hostilities .
+					</div>
+					<div class="uAuthor">
+						<a href="http://sfbayview.com/2012/california-prisoners-make-historic-call-for-peace-between-racial-groups-in-california-prisons-and-jails/" target="_blank" rel="external nofollow">sfbayview.com</a>
+					</div>
+										<div class="usage">
+						California prisoners make historic call to end hostilities between racial groups in California prisons and jails.
+					</div>
+					<div class="uAuthor">
+						<a href="http://sfbayview.com/2012/california-prisoners-make-historic-call-for-peace-between-racial-groups-in-california-prisons-and-jails/" target="_blank" rel="external nofollow">sfbayview.com</a>
+					</div>
+										<div class="usage">
+						RNC festivities inside, hostilities outside.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.naplesnews.com/photos/galleries/2012/aug/30/rnc-festivities-inside-hostilities-outside/247326/" target="_blank" rel="external nofollow">naplesnews.com</a>
+					</div>
+										<div class="usage">
+						As Iraq Hostilities End, Fate Of Combatant Unclear.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wkar.org/post/iraq-hostilities-end-fate-combatant-unclear" target="_blank" rel="external nofollow">wkar.org</a>
+					</div>
+										<div class="usage">
+						A break from customary hostilities .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.economist.com/blogs/easternapproaches/2011/09/serbia-and-kosovo" target="_blank" rel="external nofollow">economist.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The existence of these clusters was somewhat unexpected; one would think that the strong tidal shear produced by the central black hole, the high velocity dispersion, and the strong magnetic ﬁeld would make this a hostile environment for forming young massive clusters. 
+					</div>
+					<div class="uAuthor">
+						The Formation of Star Clusters
+					</div>
+										<div class="usage">
+						Finally, the sensor nodes may be deployed in adversarial environments such as battle ﬁelds, hostile territories or hazardous domains t hat make their management, control and security very difﬁcult. 
+					</div>
+					<div class="uAuthor">
+						Threshold-Controlled Global Cascading in Wireless Sensor Networks
+					</div>
+										<div class="usage">
+						Two versions of the directed merging model, friend ly and hostile merging, give rise to two distinct network types. 
+					</div>
+					<div class="uAuthor">
+						Models and average properties of scale-free directed networks
+					</div>
+										<div class="usage">
+						We present two such local rules which we term friend ly and hostile merging. 
+					</div>
+					<div class="uAuthor">
+						Models and average properties of scale-free directed networks
+					</div>
+										<div class="usage">
+						By comparing Fig. 6 with Fig. 4, we ﬁnd that model B catches the overal l features of the hostile merging networks. 
+					</div>
+					<div class="uAuthor">
+						Models and average properties of scale-free directed networks
+					</div>
+										<div class="usage">
+						However, there are also differences: the out-degree for the yeast-network is broad but not very scale-free and the percentages of degrees in Fig. 4(d) on the one hand are signiﬁcantly different as compared to hostile merging and model B on the other hand. 
+					</div>
+					<div class="uAuthor">
+						Models and average properties of scale-free directed networks
+					</div>
+										<div class="usage">
+						However, the yeast transcriptional network resembled model B and hostile merging networks. 
+					</div>
+					<div class="uAuthor">
+						Models and average properties of scale-free directed networks
+					</div>
+										<div class="usage">
+						This led us to suggest that friendly- and hostile merging networks represent two distinct classes of directed networks. 
+					</div>
+					<div class="uAuthor">
+						Models and average properties of scale-free directed networks
+					</div>
+										<div class="usage">
+						In case of friendly and hostile merging we suggest that the distinction between A and B might reﬂect a difference in economical strategy. 
+					</div>
+					<div class="uAuthor">
+						Models and average properties of scale-free directed networks
+					</div>
+										<div class="usage">
+						We present and characterize two directed networktypes emerging from two different local time-evolutions called friendly and hostile merging. 
+					</div>
+					<div class="uAuthor">
+						Models and average properties of scale-free directed networks
+					</div>
+										<div class="usage">
+						This is the basic idea underlying the concepts of GHZ (Gonzalez et al. 2001) and of the Rare Earth (Brownlee and Ward 2002): complex life in the Universe may be rare, not for intrinsic reasons (i.e. improbability of development of life on a planet), but for extrinsic ones, related to the hostile cosmic environment. 
+					</div>
+					<div class="uAuthor">
+						On the "Galactic Habitable Zone"
+					</div>
+										<div class="usage">
+						It should be noted that these measurements need to be done “in the ﬁeld”, which in the case of millimeter radio telescopes generally means the hostile environment of a high mountain site. 
+					</div>
+					<div class="uAuthor">
+						Near-Field Radio Holography of Large Reflector Antennas
+					</div>
+										<div class="usage">
+						The implementation is not created in an hostile environment and any implementation error is only an unintended bug such as use of poor pseudo-random generators. 
+					</div>
+					<div class="uAuthor">
+						Statistical Analysis of Privacy and Anonymity Guarantees in Randomized Security Protocol Implementations
+					</div>
+										<div class="usage">
+						If the implementation is hostile, it can contain bugs which can not be easily detected by random sampling. 
+					</div>
+					<div class="uAuthor">
+						Statistical Analysis of Privacy and Anonymity Guarantees in Randomized Security Protocol Implementations
+					</div>
+										<div class="usage">
+						In fact, it is not clear if any type of planet could form under such hostile conditions in which strong disk heating is induced by perturbations from the stellar companion. 
+					</div>
+					<div class="uAuthor">
+						Second generation planets
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a hostile (very unfriendly) disposition"><a href="ill%20will.html">ill will</a>, </div><div class="synGroup" title="the feeling of a hostile person"><a href="enmity.html">enmity</a>, <a href="ill%20will.html">ill will</a>, </div><div class="synGroup" title="a state of deep-seated ill-will"><a href="enmity.html">enmity</a>, <a href="antagonism.html">antagonism</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="action.html">action</a>, <a href="hate.html">hate</a>, <a href="hatred.html">hatred</a>, <a href="state.html">state</a>, <a href="unfriendliness.html">unfriendliness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="aggression.html">aggression</a>, <a href="aggressiveness.html">aggressiveness</a>, <a href="animosity.html">animosity</a>, <a href="animus.html">animus</a>, <a href="antagonism.html">antagonism</a>, <a href="bad%20blood.html">bad blood</a>, <a href="belligerence.html">belligerence</a>, <a href="belligerency.html">belligerency</a>, <a href="bitterness.html">bitterness</a>, <a href="class%20feeling.html">class feeling</a>, <a href="cold%20war.html">cold war</a>, <a href="force.html">force</a>, <a href="gall.html">gall</a>, <a href="latent%20hostility.html">latent hostility</a>, <a href="meat%20grinder.html">meat grinder</a>, <a href="pillage.html">pillage</a>, <a href="pillaging.html">pillaging</a>, <a href="plundering.html">plundering</a>, <a href="rancor.html">rancor</a>, <a href="rancour.html">rancour</a>, <a href="resentment.html">resentment</a>, <a href="state%20of%20war.html">state of war</a>, <a href="suspicion.html">suspicion</a>, <a href="tension.html">tension</a>, <a href="violence.html">violence</a>, <a href="virulence.html">virulence</a>, <a href="virulency.html">virulency</a>, <a href="war.html">war</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="aggress.html">aggress</a>, <a href="hostile.html">hostile</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adversary.html">adversary</a>, <a href="aggress.html">aggress</a>, <a href="aggression.html">aggression</a>, <a href="aggressiveness.html">aggressiveness</a>, <a href="aggressor.html">aggressor</a>, <a href="alien.html">alien</a>, <a href="alienate.html">alienate</a>, <a href="alienating.html">alienating</a>, <a href="alienation.html">alienation</a>, <a href="animosity.html">animosity</a>, <a href="animus.html">animus</a>, <a href="antagonise.html">antagonise</a>, <a href="antagonism.html">antagonism</a>, <a href="antagonistic.html">antagonistic</a>, <a href="antagonize.html">antagonize</a>, <a href="Anticivism.html">Anticivism</a>, <a href="Antipathize.html">Antipathize</a>, <a href="arise.html">arise</a>, <a href="Asura.html">Asura</a>, <a href="At%20daggers%20drawn.html">At daggers drawn</a>, <a href="bad%20blood.html">bad blood</a>, <a href="Barrace.html">Barrace</a>, <a href="belligerently.html">belligerently</a>, <a href="bitter.html">bitter</a>, <a href="black.html">black</a>, <a href="blow.html">blow</a>, <a href="callithumpian.html">callithumpian</a>, <a href="capital%20of%20Tibet.html">capital of Tibet</a>, <a href="Cold%20War.html">Cold War</a>, <a href="come.html">come</a>, <a href="conciliate.html">conciliate</a>, <a href="conciliation.html">conciliation</a>, <a href="confront.html">confront</a>, <a href="Controlment.html">Controlment</a>, <a href="conversion.html">conversion</a>, <a href="copperhead.html">copperhead</a>, <a href="dirty.html">dirty</a>, <a href="disaffect.html">disaffect</a>, <a href="Disaffectedness.html">Disaffectedness</a>, <a href="disaffection.html">disaffection</a>, <a href="disarming.html">disarming</a>, <a href="divide.html">divide</a>, <a href="enemy.html">enemy</a>, <a href="enmity.html">enmity</a>, <a href="estrange.html">estrange</a>, <a href="estrangement.html">estrangement</a>, <a href="face.html">face</a>, <a href="feud.html">feud</a>, <a href="Foehood.html">Foehood</a>, <a href="Forbidden%20City.html">Forbidden City</a>, <a href="growl.html">growl</a>, <a href="Hakka.html">Hakka</a>, <a href="hostilely.html">hostilely</a>, <a href="Hunkerism.html">Hunkerism</a>, <a href="Iconomachy.html">Iconomachy</a>, <a href="ill.html">ill</a>, <a href="In%20arms.html">In arms</a>, <a href="In%20the%20gall%20of%20bitterness.html">In the gall of bitterness</a>, <a href="Inimicality.html">Inimicality</a>, <a href="inroad.html">inroad</a>, <a href="intransigency.html">intransigency</a>, <a href="Lassa.html">Lassa</a>, <a href="latent%20hostility.html">latent hostility</a>, <a href="Lhasa.html">Lhasa</a>, <a href="Lift%20the%20hand.html">Lift the hand</a>, <a href="Maffia.html">Maffia</a>, <a href="malicious.html">malicious</a>, <a href="opponent.html">opponent</a>, <a href="opposing.html">opposing</a>, <a href="Oppugnant.html">Oppugnant</a>, <a href="piracy.html">piracy</a>, <a href="posture.html">posture</a>, <a href="pursue.html">pursue</a>, <a href="pursuit.html">pursuit</a>, <a href="quarrel.html">quarrel</a>, <a href="Ramism.html">Ramism</a>, <a href="resentment.html">resentment</a>, <a href="rupture.html">rupture</a>, <a href="starer.html">starer</a>, <a href="tension.html">tension</a>, <a href="To%20turn%20upon.html">To turn upon</a>, <a href="uncompromising.html">uncompromising</a>, <a href="vandalism.html">vandalism</a>, <a href="virulence.html">virulence</a>, <a href="virulency.html">virulency</a>, <a href="war.html">war</a>, <a href="with.html">with</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					gostility, yostility, jostility, nostility, bostility, histility, hkstility, hlstility, hpstility, hoatility, howtility, hodtility, hoxtility, hoztility, hoatility, hosrility, hosfility, hosgility, hosyility, hostulity, hostjlity, hostklity, hostolity, hostikity, hostioity, hostipity, hostiluty, hostiljty, hostilkty, hostiloty, hostiliry, hostilify, hostiligy, hostiliyy, hostilitt, hostilitg, hostilith, hostilitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

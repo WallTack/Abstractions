@@ -1,0 +1,444 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>yearning</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">yearning</span> <span class="exp">prolonged unfulfilled desire or need</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">yearning</span> <span class="exp">The feeling of one who yearns; a strong feeling of tenderness, pity, or longing desire.</span> </li><li><span class="tSpeech">n</span> <span class="term">yearning</span> <span class="exp">Rennet.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Yearning</span> <span class="exp">earnest desire, tenderness, or pity</span> </li><li><span class="tSpeech">n</span> <span class="term">Yearning</span> <span class="exp">rennet</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Hoffer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eric%20Hoffer.jpg" alt="Eric%20Hoffer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Man is the only creature that strives to surpass himself, and yearns for the impossible.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Harriet Beecher Stowe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Harriet%20Beecher%20Stowe.jpg" alt="Harriet%20Beecher%20Stowe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In all ranks of life the human heart yearns for the beautiful; and the beautiful things that God makes are his gift to all alike.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Yevgeny Yevtushenko</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Yevgeny Yevtushenko">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“He who is conceived in a cage, yearns for the cage.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jose Ortega Y Gasset</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jose%20Ortega%20Y%20Gasset.jpg" alt="Jose%20Ortega%20Y%20Gasset">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Brendan Francis</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Brendan Francis">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“At the innermost core of all loneliness is a deep and powerful yearning for union with one's lost self.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">W. A. Clarke</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="W. A. Clarke">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Before marriage a man yearns for a woman. Afterward the y is silent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						His yearning was to stay in the neighborhood of Bellemore.
+					</div>
+					<div class="uAuthor">
+						"Brave Tom" by <span>Edward S. Ellis</span>					</div>
+										<div class="usage">
+						Oh how my whole soul yearns towards him.
+					</div>
+					<div class="uAuthor">
+						"Eric" by <span>Frederic William Farrar</span>					</div>
+										<div class="usage">
+						Two of the expressions of sentiment of the day, by reason of their deep yearning and philosophic calm, somehow stand apart from others.
+					</div>
+					<div class="uAuthor">
+						"A Social History of The American Negro" by <span>Benjamin Brawley</span>					</div>
+										<div class="usage">
+						She still yearned for him when she did not see him, even though she dreaded his ill-humor when he was nigh.
+					</div>
+					<div class="uAuthor">
+						"The Nest of the Sparrowhawk" by <span>Baroness Orczy</span>					</div>
+										<div class="usage">
+						Yet where there is the warm touch with Jesus there will come the yearning for purity, and the life of service.
+					</div>
+					<div class="uAuthor">
+						"Quiet Talks on Service" by <span>S. D. Gordon</span>					</div>
+										<div class="usage">
+						The consciousness of something finer than his life had known aroused in him strange devotional impulses, unfamiliar yearnings.
+					</div>
+					<div class="uAuthor">
+						"Port O' Gold" by <span>Louis John Stellman</span>					</div>
+										<div class="usage">
+						He told his stepmother's guests all about love and all about his own yearnings.
+					</div>
+					<div class="uAuthor">
+						"Helen with the High Hand (2nd ed.)" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						It yearns to bring into being another upon whom it may freely lavish itself.
+					</div>
+					<div class="uAuthor">
+						"Quiet Talks with World Winners" by <span>S. D. Gordon</span>					</div>
+										<div class="usage">
+						In body and soul Mrs Browning felt strong yearnings for the calm of Casa Guidi.
+					</div>
+					<div class="uAuthor">
+						"Robert Browning" by <span>Edward Dowden</span>					</div>
+										<div class="usage">
+						These restless yearnings and thirstings, remember, are the work of God.
+					</div>
+					<div class="uAuthor">
+						"The Master's Indwelling" by <span>Andrew Murray</span>					</div>
+										<div class="usage">
+						We hear a yearning sigh of the Siren strain before it is swept away in the tide and tumult of strife.
+					</div>
+					<div class="uAuthor">
+						"Symphonies and Their Meaning; Third Series, Modern Symphonies" by <span>Philip H. Goepp</span>					</div>
+										<div class="usage">
+						Whatever of heart yearning there may be that moves you to prayer is from Him.
+					</div>
+					<div class="uAuthor">
+						"Quiet Talks on Prayer" by <span>S. D. (Samuel Dickey) Gordon</span>					</div>
+										<div class="usage">
+						His spirit was cool and thoughtful, unheated by the feverish yearning after increased possessions.
+					</div>
+					<div class="uAuthor">
+						"My Daily Meditation for the Circling Year" by <span>John Henry Jowett</span>					</div>
+										<div class="usage">
+						Out in the street there is the same homely, yearning atmosphere.
+					</div>
+					<div class="uAuthor">
+						"Nights in London" by <span>Thomas Burke</span>					</div>
+										<div class="usage">
+						His heart yearned over her.
+					</div>
+					<div class="uAuthor">
+						"The Squirrel-Cage" by <span>Dorothy Canfield</span>					</div>
+										<div class="usage">
+						Perhaps it was a yearning for something he did not know how to define.
+					</div>
+					<div class="uAuthor">
+						"Valley of Wild Horses" by <span>Zane Grey</span>					</div>
+										<div class="usage">
+						He yearned for Joan with all the strength and passionate ardor of his strong young heart.
+					</div>
+					<div class="uAuthor">
+						"The Golden Woman" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						She yearned as only a mother can yearn for the warm caresses of her children.
+					</div>
+					<div class="uAuthor">
+						"The Twins of Suffering Creek" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						The daughter fed the horse day by day, but she was lonely and yearned for her father.
+					</div>
+					<div class="uAuthor">
+						"The Chinese Fairy Book" by <span>Various</span>					</div>
+										<div class="usage">
+						Wherein may the yearnings of the soul discover the satisfaction hitherto denied them?
+					</div>
+					<div class="uAuthor">
+						"Browning and Dogma" by <span>Ethel M. Naish</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							This thought forever haunts my mind,<br>
+Some day to Thee I must return,<br>
+From Thee I came and backward yearn<br>
+My very fount and source to find.
+							<div class="poet">"Lord Of The World" by <span>Shlomo ibn Gabirol</span></div>
+						</div>
+											<div class="poemQuote">
+							Sometimes I hear, as 'twere a sigh,<br>
+The sea's deep yearning far above,<br>
+'Thou hast the secret not,' I cry,<br>
+'In deeper deeps is hid my Love.'
+							<div class="poet">"The Miner" by <span>James Russell Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							But vain is that pent-up yearning,<br>
+And wish for the summer gleam<br>
+That ran through my young existence,<br>
+Like the plot through a fairy's dream.
+							<div class="poet">"The Old School-House" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							Moreover, having lived, and learned<br>
+The taste of Life's most bitter spring,<br>
+For all the sick this sister yearned —<br>
+The poor and suffering.
+							<div class="poet">"In Memoriam~ -- Alice Fane Gunn Stenhouse" by <span>Henry Kendall</span></div>
+						</div>
+											<div class="poemQuote">
+							But she said when she saw me sad,<br>
+"Tho' the world be gloomy as fate,<br>
+And we yearn for the days to be glad,<br>
+Dear heart, we can afford to wait.
+							<div class="poet">"Anticipation" by <span>Madison Julius Cawein</span></div>
+						</div>
+											<div class="poemQuote">
+							Stood there before me, and, with gaze<br>
+I had been purblind not to see,<br>
+Said, ``I to you will, all my days,<br>
+Give what you yearn to give to me''?
+							<div class="poet">"The Door Of Humility" by <span>Alfred Austin</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Oh, the yearning and exquisite heartache.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/book/The-Great-Gatsby-by-F-Scott-Fitzgerald" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						Why do people yearn to possess wolves and other wild animals.
+					</div>
+					<div class="uAuthor">
+						<a href="https://www.hcn.org/issues/43.19/why-do-people-yearn-to-possess-wolves-and-other-wild-animals" target="_blank" rel="external nofollow">hcn.org</a>
+					</div>
+										<div class="usage">
+						Ben Tupper's second Afghanistan book mines soldiers' yearnings and frustrations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.syracuse.com/news/index.ssf/2011/03/post_393.html" target="_blank" rel="external nofollow">syracuse.com</a>
+					</div>
+										<div class="usage">
+						Many LDS gays struggle to cling to faith despite their yearnings .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.deseretnews.com/article/635165814/Alone-in-the-fold-Many-LDS-gays-struggle-to-cling-to-faith-despite-their-yearnings.html" target="_blank" rel="external nofollow">deseretnews.com</a>
+					</div>
+										<div class="usage">
+						) Oddly, Neuenschwander doesn't promote her work as controversial, saying in her artist statement that the figurines represent "a fresh look at who we are, and who we yearn to be".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.portlandmercury.com/portland/belles-and-birds/Content?oid=7910894" target="_blank" rel="external nofollow">portlandmercury.com</a>
+					</div>
+										<div class="usage">
+						Pakistani birthplace of Indian prime minister yearns for him to visit.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/world/asia_pacific/pakistani-birthplace-of-indian-prime-minister-yearns-for-him-to-visit/2012/08/04/9f418856-dce4-11e1-8ad1-909913931f71_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The routine dependability that so often eludes us in our careers or relationships is what we yearn for, and deserve, in each spoonful.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/living/article/592512" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						In the din , Jessica's voice is the one we yearn for.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sptimes.com/2006/02/24/Citrus/In_the_din__Jessica_s.shtml" target="_blank" rel="external nofollow">sptimes.com</a>
+					</div>
+										<div class="usage">
+						Atlanta businessman Bobby Collier yearned to build a Lambo worthy of car shows and high-end establishments alike.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rides-mag.com/car-features/2012/11/2009-lamborghini-gallardo-everyday-exotic/" target="_blank" rel="external nofollow">rides-mag.com</a>
+					</div>
+										<div class="usage">
+						And that is exactly true for a group of siblings who are yearning to find a forever family.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kbtx.com/kbtxcares/wednesdayschild/headlines/Wednesdays_Child_-_Maribel_Isabel_Noah__Jr__129453898.html" target="_blank" rel="external nofollow">kbtx.com</a>
+					</div>
+										<div class="usage">
+						This is the kind of announcement any governor would yearn to make.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.georgiatrend.com/September-2005/You-Get-What-You-Pay-For/" target="_blank" rel="external nofollow">georgiatrend.com</a>
+					</div>
+										<div class="usage">
+						While Darfur boils, Sudan 's forgotten yearn to go home.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baltimoresun.com/topic/intl/sudan-PLGEO00000100.topic" target="_blank" rel="external nofollow">baltimoresun.com</a>
+					</div>
+										<div class="usage">
+						Meet Bully, a 27 year old SuicideGirl who really loves puppies and yearns to be a kid again.
+					</div>
+					<div class="uAuthor">
+						<a href="http://therockstation99x.com/category/suicide-girls-2/" target="_blank" rel="external nofollow">therockstation99x.com</a>
+					</div>
+										<div class="usage">
+						INTERVIEWS Hear Lemonade's Yearning Dance-Pop 'Softkiss'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.spin.com/articles/hear-lemonades-yearning-dance-pop-soft-kiss" target="_blank" rel="external nofollow">spin.com</a>
+					</div>
+										<div class="usage">
+						 Yearning To Break Free Into The Wild Life Of A Librarian.
+					</div>
+					<div class="uAuthor">
+						<a href="http://1057thehawk.com/keith-yearning-to-break-free-into-the-wild-life-of-a-librarian/" target="_blank" rel="external nofollow">1057thehawk.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The astrophysicists yearned for physics providing a compelling set of physical laws. 
+					</div>
+					<div class="uAuthor">
+						Report to Anaximander: A Dialogue on the Origin of the Cosmos in the Cradle of Western Civilization
+					</div>
+										<div class="usage">
+						Although all cosmic ray physicists yearn for an explanation of cosmic ray origins, it would be rash to assume that TeV astronomy has yet provided the smoking gun to solve this mystery. 
+					</div>
+					<div class="uAuthor">
+						TeV Gamma-ray Observations and the Origin of Cosmic Rays: I
+					</div>
+										<div class="usage">
+						But there are many, including myself, who yearn for analytic methods that reveal the essence of the phenomena. 
+					</div>
+					<div class="uAuthor">
+						Geometry of Multihadron Production
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="prolonged unfulfilled desire or need"><a href="hungriness.html">hungriness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="desire.html">desire</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="discontent.html">discontent</a>, <a href="discontentedness.html">discontentedness</a>, <a href="discontentment.html">discontentment</a>, <a href="hankering.html">hankering</a>, <a href="nostalgia.html">nostalgia</a>, <a href="pining.html">pining</a>, <a href="wishfulness.html">wishfulness</a>, <a href="wistfulness.html">wistfulness</a>, <a href="yen.html">yen</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="long.html">long</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="aspiration.html">aspiration</a>, <a href="craving.html">craving</a>, <a href="desire.html">desire</a>, <a href="die.html">die</a>, <a href="Earnful.html">Earnful</a>, <a href="fond.html">fond</a>, <a href="hankering.html">hankering</a>, <a href="long.html">long</a>, <a href="longing.html">longing</a>, <a href="longingly.html">longingly</a>, <a href="love.html">love</a>, <a href="nostalgia.html">nostalgia</a>, <a href="wish.html">wish</a>, <a href="wishfulness.html">wishfulness</a>, <a href="yearningly.html">yearningly</a>, <a href="yen.html">yen</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					tearning, gearning, hearning, uearning, ywarning, ysarning, ydarning, yrarning, yeqrning, yewrning, yesrning, yezrning, yeaening, yeadning, yeafning, yeatning, yearbing, yearhing, yearjing, yearming, yearnung, yearnjng, yearnkng, yearnong, yearnibg, yearnihg, yearnijg, yearnimg, yearninf, yearnint, yearninh, yearninb, yearninv
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,582 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>mannerism</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/167/30/7847.jpg" alt="MANNERS AND MODES">
+							<div class="caption">MANNERS AND MODES</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">mannerism</span> <span class="exp">a deliberate pretense or exaggerated display</span> </li><li><span class="tSpeech">n</span> <span class="term">mannerism</span> <span class="exp">a behavioral attribute that is distinctive and peculiar to an individual</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Children spend more time learning about life through media than any other manner. The average child spends approximately 28 hours a week watching television, which is twice as much time as they spend in school.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Mannerism</span> <span class="exp">Adherence to a peculiar style or manner carried to excess, especially in literature or art.</span> <span class="wuQuot">"Mannerism is pardonable,and is sometimes even agreeable, when the manner, though vicious, is natural . . . . But a mannerism which does not sit easy on the mannerist, which has been adopted on principle, and which can be sustained only by constant effort, is always offensive."</span></li><li><span class="term">Mannerism</span> <span class="exp">Adherence to a peculiar style or manner; a characteristic mode of action, bearing, behavior, or treatment of others.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In 1649, Massachusetts's Puritan government ruled the following: "Any childe over 16 who shall CURSE or SMITE their natural FATHER or MOTHER, or act in a STUBBORNE or REBELLIOUS manner shall be put to death."
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">mannerism</span> <span class="exp">Monotonous, formal, or pedantic adherence to the same manner; uniformity of manner, especially a tasteless uniformity, without freedom or variety; excessive adherence to a characteristic mode or manner of action or treatment.</span> </li><li><span class="tSpeech">n</span> <span class="term">mannerism</span> <span class="exp">A peculiarity of manner in deportment, speech, or execution; an exceptionally characteristic mode or method; an idiosynerasy.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In ancient Rome, people found guilty of murdering their fathers were executed in a bizarre manner. The punishment was to be put in a sack with a rooster, a viper, and a dog, then drowned along with all three animals.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Mannerism</span> <span class="exp">a constant sameness of manner: a marked peculiarity of style or manner, esp. in literary composition: manner or style becoming wearisome by its sameness</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Voltaire</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Voltaire.jpg" alt="Voltaire">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To succeed in the world it is not enough to be stupid, you must also be well-mannered.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Hardy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Hardy.jpg" alt="Thomas%20Hardy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Of course poets have morals and manners of their own, and custom is no argument with them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marcus Aurelius</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marcus%20Aurelius.jpg" alt="Marcus%20Aurelius">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Everything that exists is in a manner the seed of that which will be.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Hazlitt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Hazlitt.jpg" alt="William%20Hazlitt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We never do anything well till we cease to think about the manner of doing it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lillian Hellman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Lillian Hellman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You lose your manners when you're poor.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Seneca</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Seneca.jpg" alt="Seneca">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is a noble manner of being poor, and who does not know it will never be rich.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">maniérisme</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>manière</i>—<i>main</i>—L. <i>manus</i>, the hand.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The Indians join us in a friendly Manner, but depart presently on account of the Misconduct of our Men.
+					</div>
+					<div class="uAuthor">
+						"A General History and Collection of Voyages and Travels, Volume 17" by <span>Robert Kerr</span>					</div>
+										<div class="usage">
+						I did not understand this free and easy manner of life.
+					</div>
+					<div class="uAuthor">
+						"Children of the Market Place" by <span>Edgar Lee Masters</span>					</div>
+										<div class="usage">
+						She looked gentle and refined as any lady, and her manners and speech would not have destroyed the illusion.
+					</div>
+					<div class="uAuthor">
+						"Verner's Pride" by <span>Mrs. Henry Wood</span>					</div>
+										<div class="usage">
+						He saw them create a light in some manner, and his hands almost slipped from the rope.
+					</div>
+					<div class="uAuthor">
+						"The Texan Star" by <span>Joseph A. Altsheler</span>					</div>
+										<div class="usage">
+						There were others selected in like manner to whom the laws were taught as the traditions, and in like manner these were taught the people.
+					</div>
+					<div class="uAuthor">
+						"The Memories of Fifty Years" by <span>William H. Sparks</span>					</div>
+										<div class="usage">
+						They had been cut with knives in the most wanton manner, and hardly a square inch had escaped.
+					</div>
+					<div class="uAuthor">
+						"The Gold Hunter's Adventures" by <span>William H. Thomes</span>					</div>
+										<div class="usage">
+						In what manner was an army levied?
+					</div>
+					<div class="uAuthor">
+						"Pinnock's Improved Edition of Dr. Goldsmith's History of Rome" by <span>Oliver Goldsmith</span>					</div>
+										<div class="usage">
+						Times and Manner of Eating.
+					</div>
+					<div class="uAuthor">
+						"A General History and Collection of Voyages and Travels, Volume 16" by <span>Robert Kerr</span>					</div>
+										<div class="usage">
+						The inhabitants live on rice and draw liquor from certain trees in the manner before described.
+					</div>
+					<div class="uAuthor">
+						"The History of Sumatra" by <span>William Marsden</span>					</div>
+										<div class="usage">
+						Affected (manner) = afekta.
+					</div>
+					<div class="uAuthor">
+						"English-Esperanto Dictionary" by <span>John Charles O'Connor and Charles Frederic Hayes</span>					</div>
+										<div class="usage">
+						Pull yourself together, Mannering, for Heaven's sake.
+					</div>
+					<div class="uAuthor">
+						"A Lost Leader" by <span>E. Phillips Oppenheim</span>					</div>
+										<div class="usage">
+						His manner, as he addressed his wife and daughter, was almost official.
+					</div>
+					<div class="uAuthor">
+						"The Black Box" by <span>E. Phillips Oppenheim</span>					</div>
+										<div class="usage">
+						John could not argue with a woman who was so unresistant of manner: to him, manner constituted argument.
+					</div>
+					<div class="uAuthor">
+						"The Wind Before the Dawn" by <span>Dell H. Munger</span>					</div>
+										<div class="usage">
+						Under the circumstances, it is really a breach of good manners.
+					</div>
+					<div class="uAuthor">
+						"Lover or Friend" by <span>Rosa Nouchette Carey</span>					</div>
+										<div class="usage">
+						Manners shook him warmly by the hand; and, with many expressions of thankfulness, Jones withdrew, leaving Miss Manners in tears.
+					</div>
+					<div class="uAuthor">
+						"Wilson's Tales of the Borders and of Scotland, Volume VI" by <span>Various</span>					</div>
+										<div class="usage">
+						And in a manner suitable to the poverty in which he died was he buried.
+					</div>
+					<div class="uAuthor">
+						"The Lusiad" by <span>Luís de Camões</span>					</div>
+										<div class="usage">
+						He soon became interested in Bella von Pranken, a woman of imposing manners, and a brilliant performer upon the piano.
+					</div>
+					<div class="uAuthor">
+						"Villa Eden:" by <span>Berthold Auerbach</span>					</div>
+										<div class="usage">
+						He tried to imitate Lambert's manner.
+					</div>
+					<div class="uAuthor">
+						"The Guarded Heights" by <span>Wadsworth Camp</span>					</div>
+										<div class="usage">
+						And above all cares of this life, let our ardent anxiety be to mould the minds and manners of our children.
+					</div>
+					<div class="uAuthor">
+						"Familiar Letters of John Adams and His Wife Abigail Adams During the Revolution" by <span>John Adams</span>					</div>
+										<div class="usage">
+						Mr. Davis' manner and appearance always impressed me with a feeling of kindness and even admiration.
+					</div>
+					<div class="uAuthor">
+						"The Boy Spy" by <span>Joseph Kerby</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"Manners, miss,<br>
+Please behave.<br>
+Those who ask,<br>
+Shan't have."
+							<div class="poet">"Ding Dong" by <span>Arthur Clement Hilton</span></div>
+						</div>
+											<div class="poemQuote">
+							So hung their girdles, not for show;--<br>
+To their own length 'twas due.<br>
+'Twas not by art their hair curled so;--<br>
+By nature so it grew.<br>
+I seek such manners now in vain,<br>
+And pine for them with longing pain.
+							<div class="poet">"In Praise Of" by <span>Confucius</span></div>
+						</div>
+											<div class="poemQuote">
+							Fine dames from their carriages, noble and fair,<br>
+Have entered his shop, less to buy than to stare;<br>
+And have afterwards said, though the dirt was so frightful,<br>
+The Dirty Man's manners were truly delightful.
+							<div class="poet">"The Dirty Old Man" by <span>William Allingham</span></div>
+						</div>
+											<div class="poemQuote">
+							Well, the motorman was a nice young chap!<br>
+And he came right up and tipped his cap<br>
+And said, "Beg pardon," and was so kind<br>
+That his gentle manner soothed my mind:<br>
+Especially as he took such pains<br>
+To gather up my spilt remains.
+							<div class="poet">"Says Mister Doojabs" by <span>Ellis Parker Butler</span></div>
+						</div>
+											<div class="poemQuote">
+							Now Napoleon he had thought, when a British ship he sought,<br>
+And gave himself uncalled-for, in a manner, you might say,<br>
+He'd be treated like a king with the best of every thing,<br>
+And maybe have a palace for to live in every day.
+							<div class="poet">"After Waterloo" by <span>Robert Fuller Murray</span></div>
+						</div>
+											<div class="poemQuote">
+							Well did they know that service all by rote,<br>
+And there was many and many a lovely note,<br>
+Some, singing loud, as if they had complained;<br>
+Some with their notes another manner feigned;<br>
+And some did sing all out with the full throat.
+							<div class="poet">"From The Cuckoo And The Nightingale" by <span>William Wordsworth</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Russ Widdall captures Robert F Kennedy's manners at Adrienne Theatre's… (www.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/entertainment/arts/20121009_RFK_play_plunges_audience_convincingly_into_the_era.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						Since manners will never go out of style, someone must teach them, according to Mary Kennerty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.islandpacket.com/2012/08/27/2186761/junior-cotillion-to-revive-etiquette.html" target="_blank" rel="external nofollow">islandpacket.com</a>
+					</div>
+										<div class="usage">
+						Shandong police may have mistaken a mild-mannered household pet for a ferocious predator.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/international/archive/2012/03/what-chinas-talking-about-today-do-police-wanna-eat-dog-meat/255135/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						Attractive and well-mannered, the Cape Dory 28 offers the promise of a rewarding relationship.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cruisingworld.com/sailboats/boat-reviews/cape-dory-28-seductive-yet-safe" target="_blank" rel="external nofollow">cruisingworld.com</a>
+					</div>
+										<div class="usage">
+						His attorney said she needs more time to review autopsy reports that discuss the manner and cause of his brother's death.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.krcrtv.com/news/local/Man-Accused-of-Murdering-His-Brother-with-a-Dumbbell-Back-in-Court/-/14322302/16766128/-/view/print/-/errwa3/-/index.html" target="_blank" rel="external nofollow">krcrtv.com</a>
+					</div>
+										<div class="usage">
+						TrumpJet® is a new system for mixing papermaking chemicals into the main process stream with an effective and uniform manner.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.paperage.com/2011news/10_14_2011eka_wetend.html" target="_blank" rel="external nofollow">paperage.com</a>
+					</div>
+										<div class="usage">
+						Crystal McClernon of Enchantment Pet Resort &amp; Spa talks about the new dog "Manners Institute" in which your pet can learn household skills while you're on vacation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kob.com/article/stories/S2794742.shtml?cat=11753" target="_blank" rel="external nofollow">kob.com</a>
+					</div>
+										<div class="usage">
+						They are so much like humans, from facial expressions to mannerisms.
+					</div>
+					<div class="uAuthor">
+						<a href="http://1280ksli.com/watch-these-big-gorillas-be-entranced-by-small-caterpillar-video/" target="_blank" rel="external nofollow">1280ksli.com</a>
+					</div>
+										<div class="usage">
+						Nacho Vigalondo's follow-up to "Timecrimes" plays like a little comedy of manners set in an overlooked corner of somebody else's big-budget genre movie.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/review/extraterrestrial-extraterrestre-toronto-review-236651" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						He thinks differently and genuinely in the manner successful people always do.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sun-sentinel.com/sports/miami-dolphins/sfl-hyde5-jimmy-talks-um-irish-and-tells-a-fish-story-20121002,0,4620838.story" target="_blank" rel="external nofollow">sun-sentinel.com</a>
+					</div>
+										<div class="usage">
+						Best-in-class marketing campaigns touch a large customer base with relevant material in an engaging, timely, and unique manner across all available channels.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.destinationcrm.com/Articles/Columns-Departments/REAL-ROI/Game-Show-Network-Marketing-Link-Heats-Up-Frozen-Food-Company-73281.aspx" target="_blank" rel="external nofollow">destinationcrm.com</a>
+					</div>
+										<div class="usage">
+						The Supreme Court's recent decision is important both in its content and in the manner in which the case was decided.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metrocorpcounsel.com/announcements/12865/acc-statement-us-supreme-court-ruling-free-enterprise-case" target="_blank" rel="external nofollow">metrocorpcounsel.com</a>
+					</div>
+										<div class="usage">
+						Kind people, my wish is for you to hear me out, stick your stereotyping in your pocket, step back and consider the following in an unbiased manner.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.roanoke.com/editorials/commentary/wb/307720" target="_blank" rel="external nofollow">roanoke.com</a>
+					</div>
+										<div class="usage">
+						Arizona Department of Corrections policies state: "A pregnant woman will not be restrained in any manner while in labor, while giving birth , or during the postpartum recovery period.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.phoenixnewtimes.com/2009-10-22/news/pregnant-latina-says-she-was-forced-to-give-birth-to-her-baby-in-shackles-after-one-of-arpaio-s-deputies-racially-profiled-her/" target="_blank" rel="external nofollow">phoenixnewtimes.com</a>
+					</div>
+										<div class="usage">
+						Slipping seamlessly — and sleevelessly — into the spotlight, first lady Michelle Obama has enjoyed high approval ratings for her gracious manner and fashionable presence.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.amny.com/urbanite-1.812039/first-lady-to-make-national-service-fashionable-1.1290747" target="_blank" rel="external nofollow">amny.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In order to recover the known q-deformed oscillators, well established in the literature, we have to proceed in a special manner. 
+					</div>
+					<div class="uAuthor">
+						On The Construction of Generalized Coherent States for Generalized Harmonic Oscillators
+					</div>
+										<div class="usage">
+						However, in our case, the pressure is a product of the local number density and the local temperature, hence one of these can be chosen in an arbitrary manner. 
+					</div>
+					<div class="uAuthor">
+						Simple solutions of relativistic hydrodynamics for cylindrically symmetric systems
+					</div>
+										<div class="usage">
+						The proof proceeds in a similar manner to the proof of Theorem (2.1). 
+					</div>
+					<div class="uAuthor">
+						On the universality of the probability distribution of the product $B^{-1}X$ of random matrices
+					</div>
+										<div class="usage">
+						In this case we cannot just include Ma jorana fermions in the standard theory of weak interactions by gauge invariance manner. 
+					</div>
+					<div class="uAuthor">
+						Neutrino Oscillations. Theory and Experiment
+					</div>
+										<div class="usage">
+						The ﬁrst rewrite rule restates COUNTleaf in a type-preserving manner. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						The str ategy TD (s) applies s to each node in top-down manner. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						In Figure 12, we extend the basic calculus S ′ 0 with concepts for polyadic strategies in a straightforward manner. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						The three forms interact with the type system and the reduction semantics in the following manner. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						In addition to the convenience added by overloading, it is also worth mentioning that overloading can be used to reconstruct generic strategies in some restricted manner. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						In fact, the Natural semantics deﬁnitions from the present paper are immediately i mplementable in this manner. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						The judgements were mapped to Prolog in the following manner. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						In this manner, Prolog I/O can be used instead of parsing. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						The combinator 2(·), for example, would be deﬁned in roughly the same manner as in t he above Prolog encoding. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						We already explained in Section 6.2 how ELAN’s features can be used to implement the γ combinators in a typeful manner. 
+					</div>
+					<div class="uAuthor">
+						Typed Generic Traversal With Term Rewriting Strategies
+					</div>
+										<div class="usage">
+						Conjecture 6.1 arises in a natural manner from the observation that L2 is a selfdual graph, and p = psd (q) = √q/(1 + √q) is the self-dual point of a random-cluster measure on L2 with parameters p, q . 
+					</div>
+					<div class="uAuthor">
+						The Random-Cluster Model
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a deliberate pretense or exaggerated display"><a href="pose.html">pose</a>, <a href="affectedness.html">affectedness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="distinctiveness.html">distinctiveness</a>, <a href="feigning.html">feigning</a>, <a href="peculiarity.html">peculiarity</a>, <a href="pretence.html">pretence</a>, <a href="pretending.html">pretending</a>, <a href="pretense.html">pretense</a>, <a href="simulation.html">simulation</a>, <a href="speciality.html">speciality</a>, <a href="specialness.html">specialness</a>, <a href="specialty.html">specialty</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="attitude.html">attitude</a>, <a href="radical%20chic.html">radical chic</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="idiosyncratic.html">idiosyncratic</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="academicism.html">academicism</a>, <a href="mannered.html">mannered</a>, <a href="Mannerist.html">Mannerist</a>, <a href="Marinism.html">Marinism</a>, <a href="Portamento.html">Portamento</a>, <a href="trick.html">trick</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					nannerism, jannerism, kannerism, mqnnerism, mwnnerism, msnnerism, mznnerism, mabnerism, mahnerism, majnerism, mamnerism, manberism, manherism, manjerism, manmerism, mannwrism, mannsrism, manndrism, mannrrism, manneeism, mannedism, mannefism, mannetism, mannerusm, mannerjsm, mannerksm, mannerosm, manneriam, manneriwm, manneridm, mannerixm, mannerizm, manneriam, mannerisn, mannerisj, mannerisk
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

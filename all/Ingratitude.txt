@@ -1,0 +1,372 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>ingratitude</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/212/44/11476.jpg" alt="INGRATITUDE">
+							<div class="caption">INGRATITUDE</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">ingratitude</span> <span class="exp">a lack of gratitude</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Ingratitude</span> <span class="exp">Lack of gratitude; insensibility to, forgetfulness of, or ill return for, kindness or favors received; unthankfulness; ungratefulness.</span> <span class="wuQuot">"Ingratitude , thou marble-hearted fiend."</span><span class="wuQuot">"Ingratitude is abhorred both by God and man."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">ingratitude</span> <span class="exp">Lack of gratitude; indisposition to acknowledge or reciprocate favors; a state of unthankfulness for benefits conferred.</span> </li><li><span class="tSpeech">n</span> <span class="term">ingratitude</span> <span class="exp">Synonyms See grateful.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Ingratitude</span> <span class="exp"><span class="itl">in-grat′i-tūd</span> unthankfulness: the return of evil for good.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Time hath a wallet at his back, wherein he puts. Alms for oblivion, a great-sized monster of ingratitudes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Ward Beecher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Ward%20Beecher.jpg" alt="Henry%20Ward%20Beecher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Next to ingratitude the most painful thing to bear is gratitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Benjamin Franklin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Benjamin%20Franklin.jpg" alt="Benjamin%20Franklin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Most people return small favors, acknowledge medium ones and repay greater ones -- with ingratitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Francois De La Rochefoucauld</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Francois%20De%20La%20Rochefoucauld.jpg" alt="Francois%20De%20La%20Rochefoucauld">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Too great a hurry to discharge an obligation is a kind of ingratitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Walter Savage Landor</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Walter%20Savage%20Landor.jpg" alt="Walter%20Savage%20Landor">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We think that we suffer from ingratitude, while in reality we suffer from self-love.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Thomson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="James Thomson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ingratitude is treason to mankind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">ingratitude</span>, L. <span class="wUets">ingratitudo</span>,. See <span class="wUer">Ingrate</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Low L. <i>ingratitudo</i>—L. <i>ingratus</i>, unthankful.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The ingratitude, when she owed everything to him alone!
+					</div>
+					<div class="uAuthor">
+						"A Siren" by <span>Thomas Adolphus Trollope</span>					</div>
+										<div class="usage">
+						He longed to be at her that he might shake the wickedness, and the folly, and the ingratitude out of her.
+					</div>
+					<div class="uAuthor">
+						"The Way We Live Now" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						But, as I have no intention to treat the good priest with ingratitude, I shall not present him to my readers at the tail of a chapter.
+					</div>
+					<div class="uAuthor">
+						"The Confessions of Harry Lorrequer, Vol. 1" by <span>Charles James Lever</span>					</div>
+										<div class="usage">
+						But, as I have no intention to treat the good priest with ingratitude, I shall not present him to my readers at the tail of a chapter.
+					</div>
+					<div class="uAuthor">
+						"The Confessions of Harry Lorrequer, Complete" by <span>Charles James Lever (1806-1872)</span>					</div>
+										<div class="usage">
+						There is your ingratitude again!
+					</div>
+					<div class="uAuthor">
+						"A Thorny Path [Per Aspera], Complete" by <span>Georg Ebers</span>					</div>
+										<div class="usage">
+						Hitherto Barbara had placed no one under obligation to be grateful, and therefore the ugliness of ingratitude was unknown to her.
+					</div>
+					<div class="uAuthor">
+						"Barbara Blomberg, Complete" by <span>Georg Ebers</span>					</div>
+										<div class="usage">
+						If this insolent fellow is more to you than I am, I'll leave this place of ingratitude.
+					</div>
+					<div class="uAuthor">
+						"Complete Short Works" by <span>Georg Ebers</span>					</div>
+										<div class="usage">
+						I never thought to meet with such ingratitude, but it runs in the breed!
+					</div>
+					<div class="uAuthor">
+						"The Young Step-Mother" by <span>Charlotte M. Yonge</span>					</div>
+										<div class="usage">
+						Nay, only look at my disposition, is that likely to show ingratitude to anyone?
+					</div>
+					<div class="uAuthor">
+						"The History of Don Quixote, Volume II., Complete" by <span>Miguel de Cervantes</span>					</div>
+										<div class="usage">
+						There was no mystery there, nothing but the most commonplace record of misplaced trust and ingratitude.
+					</div>
+					<div class="uAuthor">
+						"Kent Knowles: Quahaug" by <span>Joseph C. Lincoln</span>					</div>
+										<div class="usage">
+						Against ingratitude and premeditated treachery, should you find any one guilty of them, my resentment will be as warm as your own.
+					</div>
+					<div class="uAuthor">
+						"Guy Mannering, or The Astrologer, Complete, Illustrated" by <span>Sir Walter Scott</span>					</div>
+										<div class="usage">
+						But I hope Pamela incapable of such ingratitude.
+					</div>
+					<div class="uAuthor">
+						"Pamela, or Virtue Rewarded" by <span>Samuel Richardson</span>					</div>
+										<div class="usage">
+						The trial of Miltiades has often been quoted in proof of the ingratitude and fickleness of the Athenian people.
+					</div>
+					<div class="uAuthor">
+						"Athens: Its Rise and Fall, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						By ingratitude and aspersion?
+					</div>
+					<div class="uAuthor">
+						"The Seats Of The Mighty, Complete" by <span>Gilbert Parker</span>					</div>
+										<div class="usage">
+						Forgive my ingratitude, father!
+					</div>
+					<div class="uAuthor">
+						"Love and Intrigue A Play" by <span>Friedrich Schiller</span>					</div>
+										<div class="usage">
+						There is no ingratitude in saying this, because she herself admitted it.
+					</div>
+					<div class="uAuthor">
+						"Erema" by <span>R. D. Blackmore</span>					</div>
+										<div class="usage">
+						I hate treachery and ingratitude, your honour; they are so terribly ungentlemanlike.
+					</div>
+					<div class="uAuthor">
+						"Pelham, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						Her heart had now gone back to her grandfather; it was smiting her for ingratitude to him.
+					</div>
+					<div class="uAuthor">
+						"What Will He Do With It, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						He was surprised, he said, at the ingratitude of the Italians.
+					</div>
+					<div class="uAuthor">
+						"The Liberation of Italy" by <span>Countess Evelyn Martinengo-Cesaresco</span>					</div>
+										<div class="usage">
+						For what purpose had he lived and died if his memory was treated with this dark ingratitude?
+					</div>
+					<div class="uAuthor">
+						"Jaffery" by <span>William J. Locke</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Blow, blow, thou winter wind,<br>
+Thou art not so unkind<br>
+As man's ingratitude...<br>
+SHAKESPEARE.
+							<div class="poet">"Old F. S. Coat" by <span>Robert A Donaldson</span></div>
+						</div>
+											<div class="poemQuote">
+							Ingratitude will sure pursue thee,<br>
+Persecution be thy doom;<br>
+I weep, and while I sadly view thee,<br>
+Think how peaceful is the tomb.
+							<div class="poet">"The Mother" by <span>Charlotte Dacre</span></div>
+						</div>
+											<div class="poemQuote">
+							E'en the sun which has sunk from our sight,<br>
+Ingratitude seem'd to reprove;<br>
+Unfailing that fountain of light,<br>
+Ordain'd by the father of love.
+							<div class="poet">"A Summer's Evening's Contemplation" by <span>Elizabeth Bath</span></div>
+						</div>
+											<div class="poemQuote">
+							O make me glad for every scalding tear,<br>
+For hope deferred, ingratitude, disdain!<br>
+Wait, and love more for every hate, and fear<br>
+No ill,--since God is good, and loss is gain.
+							<div class="poet">"Mother’s Evening Prayer" by <span>Mary Baker Eddy</span></div>
+						</div>
+											<div class="poemQuote">
+							If sad Experience e'er should steel my breast,<br>
+Show me mankind, ungen'rous, cruel base,<br>
+Ingratitude, the vice of all the race;<br>
+Then, Prudence! then I'll hail thee for my guest!
+							<div class="poet">"To Prudence" by <span>Charlotte Dacre</span></div>
+						</div>
+											<div class="poemQuote">
+							The poor old farmer bowed his head. "Ingratitude!" he cried,<br>
+"And after all I've done for you, my offer is denied!"<br>
+And dad, to-day, is forced to plough and harrow, dig and sow,<br>
+For they were most ungrateful sons, Josiah, Jim and Joe.
+							<div class="poet">"Dad's Philanthropic Plan" by <span>C J Dennis</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						What a lesson of ingratitude she is teaching to her.
+					</div>
+					<div class="uAuthor">
+						<a href="http://chronicle.augusta.com/opinion/letters/2012-01-31/dont-gripe-about-free-lunch" target="_blank" rel="external nofollow">chronicle.augusta.com</a>
+					</div>
+										<div class="usage">
+						Climate change &amp; the ingratitude of the eighth generation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.boulderweekly.com/article-7889-climate-change-the-ingratitude-of-the-eighth-generation.html" target="_blank" rel="external nofollow">boulderweekly.com</a>
+					</div>
+										<div class="usage">
+						The shame of such ingratitude is inscribed on the human conscience, and even the most dogmatic atheists are not immune from the knowledge that they ought to give thanks to God.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/nov/21/the-atheists-thanksgiving-dilemma/print/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a lack of gratitude"><a href="ungratefulness.html">ungratefulness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="gratitude.html">gratitude</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="feeling.html">feeling</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="inflict.html">inflict</a>, <a href="return.html">return</a>, <a href="Thanklessness.html">Thanklessness</a>, <a href="The%20Reproaches.html">The Reproaches</a>, <a href="unequaled.html">unequaled</a>, <a href="ungrateful.html">ungrateful</a>, <a href="wound.html">wound</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					ungratitude, jngratitude, kngratitude, ongratitude, ibgratitude, ihgratitude, ijgratitude, imgratitude, infratitude, intratitude, inhratitude, inbratitude, invratitude, ingeatitude, ingdatitude, ingfatitude, ingtatitude, ingrqtitude, ingrwtitude, ingrstitude, ingrztitude, ingraritude, ingrafitude, ingragitude, ingrayitude, ingratutude, ingratjtude, ingratktude, ingratotude, ingratirude, ingratifude, ingratigude, ingratiyude, ingratityde, ingratithde, ingratitjde, ingratitide, ingratituse, ingratituee, ingratitufe, ingratituce, ingratituxe, ingratituse, ingratitudw, ingratituds, ingratitudd, ingratitudr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

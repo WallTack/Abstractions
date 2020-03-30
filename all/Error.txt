@@ -1,0 +1,572 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>error</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">a wrong action attributable to bad judgment or ignorance or inattention</span> <span class="quot">"he made a bad mistake","she was quick to point out my errors","I could understand his English in spite of his grammatical faults"</span></li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">(baseball) a failure of a defensive player to make an out when normal play would have sufficed</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">inadvertent incorrectness</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">departure from what is ethically acceptable</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">a misconception resulting from incorrect information</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">part of a statement that is not correct</span> <span class="quot">"the book was full of errors"</span></li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">(computer science) the occurrence of an incorrect result produced by a computer</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Hans Christian Anderson, creater of fairy tales, was word-blind. He never learned to spell correctly, and his publishers always had errors									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Error</span> <span class="exp">A departing or deviation from the truth; falsity; false notion; wrong opinion; mistake; misapprehension.</span> <span class="wuQuot">"His judgment was often in error , though his candor remained unimpaired."</span></li><li><span class="term">Error</span> <span class="exp"><span class="wuFld">(Baseball)</span> A fault of a player of the side in the field which results in failure to put out a player on the other side, or gives him an unearned base.</span> </li><li><span class="term">Error</span> <span class="exp"><span class="wuFld">(Law)</span> A mistake in the proceedings of a court of record in matters of law or of fact.</span> </li><li><span class="term">Error</span> <span class="exp">A moral offense; violation of duty; a sin or transgression; iniquity; fault.</span> </li><li><span class="term">Error</span> <span class="exp">A wandering or deviation from the right course or standard; irregularity; mistake; inaccuracy; something made wrong or left wrong; as, an <span class="wUex">error</span> in writing or in printing; a clerical <span class="wUex">error</span>.
+         </span> </li><li><span class="term">Error</span> <span class="exp">A wandering; a roving or irregular course.</span> <span class="wuQuot">"The rest of his journey, his error by sea."</span></li><li><span class="term">Error</span> <span class="exp"><span class="wuFld">(Mensuration)</span> The difference between an observed value and the true value of a quantity.</span> </li><li><span class="term">Error</span> <span class="exp"><span class="wuFld">(Math)</span> The difference between the approximate result and the true result; -- used particularly in the rule of double position.</span> </li><li><span class="term">Error</span> <span class="exp"><span class="wuFld">(Mensuration)</span> The difference between the observed value of a quantity and that which is taken or computed to be the true value; -- sometimes called <span class="wUaltname">residual error</span>.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Ovaltine was originally called Ovamaltine. A clerical error forced the name to be changed when the manufacturer registered the name.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">A wandering; a devious and uncertain course.</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">A deviation from the truth; a discrepancy between what is thought to be true and what is true; an unintentional positive falsity; a false proposition or mode of thought.</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">An inaccuracy due to oversight or accident; something different from what was intended, especially in speaking, writing, or printing: as, a clerical error (which see, below).</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">A wrong-doing; a moral fault; a sin, especially one that is not very heinous.</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">The difference between the observed or otherwise determined value of a physical quantity and the true value: also called the true error. By the error is often meant the error according to some possible theory. Thus, in physics, the rule is to make the sum of the squares of the errors a minimum—that is, that theory is adopted according to which the sum of the squares of the errors of the observations is represented to be less than according to any other theory. The error of an observation is separated into two parts, the accidental error and the constant error. The accidental error is that part of the total error which would entirely disappear from the mean of an indefinitely large series of observations taken under precisely the same circumstances; the constant error is that error which would still affect such a mean. The law of error is a law connecting the relative magnitudes of errors with their frequency. The law is that the logarithm of the frequency is proportional to the square of the error. This law holds only for the accidental part of the error, and only for certain kinds of observations, and to those only when certain observations affected by abnormal errors have been struck out. The probable error is a magnitude which one half the accidental errors would in the long run exceed; this is a well-established but unfortunate expression. The mean error is the quadratic mean of the errors of observations similar to given observations.</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">In law, a mistake in a judicial determination of a court, whether in deciding wrongly on the merits or ruling wrongly on an incidental point, to the prejudice of the rights of a party. It implies, without imputing corruptness, a deviation from or misapprehension of the law, of a nature sufficiently serious to entitle the aggrieved party to carry the case to a court of review.</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">Perplexity; anxiety; concern.</span> </li><li><span class="tSpeech">n</span> <span class="term">error</span> <span class="exp">In base-ball, a failure by one of the fielders to put out an opponent when he has the opportunity; a misplay by which a runner secures a base.</span> </li><li><span class="term">error</span> <span class="exp">In law, upon an appeal, to reverse the judgment or other determination of the court below, on account of error in its proceedings.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The board game Monopoly was originally rejected by Parker Brothers, who claimed it had 52 fundamental errors.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Error</span> <span class="exp">a deviation from truth, right, &amp;c.: a blunder or mistake: a fault: sin</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arthur Schopenhauer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Arthur%20Schopenhauer.jpg" alt="Arthur%20Schopenhauer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To free a person from error is to give, and not to take away.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ambrose Bierce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ambrose%20Bierce.jpg" alt="Ambrose%20Bierce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Experience is a revelation in the light of which we renounce our errors of youth for those of age.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Chesterfield</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Chesterfield.jpg" alt="Lord%20Chesterfield">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Honest error is to be pitied, not ridiculed.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Russell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Thomas Russell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The errors of faith are better than the best thoughts of unbelief.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Euripides</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Euripides.jpg" alt="Euripides">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No one who lives in error is free.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Friedrich Von Schiller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Friedrich%20Von%20Schiller.jpg" alt="Johann%20Friedrich%20Von%20Schiller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Where there is much freedom there is much error.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OF. <span class="wUets">error</span>, <span class="wUets">errur</span>, F. <span class="wUets">erreur</span>, L. <span class="wUets">error</span>, fr. <span class="wUets">errare</span>, to err. See <span class="wUer">Err</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>errer</i>—L. <i>errāre</i>, to stray; cog. with Ger. <i>irren</i>, and <i>irre</i>, astray.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Comte's error was to mistake a theory of progress for progress itself.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						This work is undoubtedly necessary to every Englishman, but its errors are manifold.
+					</div>
+					<div class="uAuthor">
+						"Bibliomania; or Book-Madness" by <span>Thomas Frognall Dibdin</span>					</div>
+										<div class="usage">
+						The common error is the reverse of all this.
+					</div>
+					<div class="uAuthor">
+						"Hints on Horsemanship, to a Nephew and Niece" by <span>George Greenwood</span>					</div>
+										<div class="usage">
+						Was it the fault of the Gospel, or was the error rooted in human nature, a melancholy misinterpretation of a high truth?
+					</div>
+					<div class="uAuthor">
+						"Beside Still Waters" by <span>Arthur Christopher Benson</span>					</div>
+										<div class="usage">
+						Said court erred in remanding this plaintiff in error to the custody of said defendant in error.
+					</div>
+					<div class="uAuthor">
+						"The Mysterious Murder of Pearl Bryan" by <span>Unknown</span>					</div>
+										<div class="usage">
+						Even then he will not escape errors.
+					</div>
+					<div class="uAuthor">
+						"College Teaching" by <span>Paul Klapper</span>					</div>
+										<div class="usage">
+						Even now most young students would, if left to themselves, fall into the old errors.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Study of History" by <span>Charles V. Langlois</span>					</div>
+										<div class="usage">
+						With what liabilities to error.
+					</div>
+					<div class="uAuthor">
+						"Modern Painters Volume II (of V)" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						Errors of Cuyp in graduation of color.
+					</div>
+					<div class="uAuthor">
+						"Modern Painters Volume I (of V)" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						It is the shirking of these life-facts that has resulted so often in error.
+					</div>
+					<div class="uAuthor">
+						"The Truth About Woman" by <span>C. Gasquoine Hartley</span>					</div>
+										<div class="usage">
+						Such errors are to be avoided by careful study of the meaning of words and careful observation of the best written and spoken speech.
+					</div>
+					<div class="uAuthor">
+						"Word Study and English Grammar" by <span>Frederick W. Hamilton</span>					</div>
+										<div class="usage">
+						The error of assigning to the one universal a preponderance over the other arose from the easy confusion of pure with applied thought.
+					</div>
+					<div class="uAuthor">
+						"The Religious Sentiment" by <span>Daniel G. Brinton</span>					</div>
+										<div class="usage">
+						Any doctrinal error seemed capable of poisoning the whole body of belief.
+					</div>
+					<div class="uAuthor">
+						"Monophysitism Past and Present" by <span>A. A. Luce</span>					</div>
+										<div class="usage">
+						But how can she teach the truth when she herself is so filled with error?
+					</div>
+					<div class="uAuthor">
+						"Carmen Ariza" by <span>Charles Francis Stocking</span>					</div>
+										<div class="usage">
+						Find out what's causing all these errors.
+					</div>
+					<div class="uAuthor">
+						"Occasion for Disaster" by <span>Gordon Randall Garrett</span>					</div>
+										<div class="usage">
+						But I regret my error most sincerely.
+					</div>
+					<div class="uAuthor">
+						"Shirley" by <span>Charlotte Brontë</span>					</div>
+										<div class="usage">
+						No doubt such error has its rise in the principle that we are to do good and avoid evil.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. III" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						But the fatal errors of sentiment are, nevertheless, always traceable.
+					</div>
+					<div class="uAuthor">
+						"The Stones of Venice, Volume III (of 3)" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						Find out why men make errors.
+					</div>
+					<div class="uAuthor">
+						"Human Error" by <span>Raymond F. Jones</span>					</div>
+										<div class="usage">
+						Error gave it, and ran off.
+					</div>
+					<div class="uAuthor">
+						"History of the Reformation in the Sixteenth Century, Vol 2" by <span>J. H. Merle  D'Aubigné</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Festus.<br>
+It is our trust<br>
+That there is yet another world to mend<br>
+All error and mischance.
+							<div class="poet">"Paracelsus: Part III: Paracelsus" by <span>Robert Browning</span></div>
+						</div>
+											<div class="poemQuote">
+							Supreme and omnipresent God,<br>
+Guide him in wisdom's way!<br>
+Give peaceful triumph to the truth,<br>
+Bid error melt away!
+							<div class="poet">"To My Absent Brother" by <span>Mary Baker Eddy</span></div>
+						</div>
+											<div class="poemQuote">
+							And her heart is very tender,<br>
+Full of love and kindliness,<br>
+Yearning evermore to render<br>
+Goodness fuller, error less.
+							<div class="poet">"Sorrow" by <span>Walter Richard Cassels</span></div>
+						</div>
+											<div class="poemQuote">
+							Be with thine heart a sharer,<br>
+But go not thou too nigh;<br>
+Else thou wilt rue thine error,<br>
+With a tear-filled, sleepless eye.
+							<div class="poet">"Within and Without: Part III: A Dramatic Poem" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							I thought He signed that I should yield,<br>
+And give the error way.<br>
+I held my peace; no word revealed,<br>
+No gesture uttered nay.
+							<div class="poet">"A Book of Dreams: Part I" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							As mind and soul matter surpass<br>
+And error flies from truth,<br>
+So should we train the nobler parts<br>
+Of plastic, trusting youth.
+							<div class="poet">"Needs And Powers" by <span>Jared Barhite</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The latest polls show a neck and neck race for the Presidential election and this has some residents worried about any potential errors at the polls on election day.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nbc11news.com/news/headlines/Double-check-your-ballot-177403711.html" target="_blank" rel="external nofollow">nbc11news.com</a>
+					</div>
+										<div class="usage">
+						Errors uncharacteristic for Ducks, but they won't dwell on them.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/ducks/index.ssf/2012/06/oregon_ducks_baseball_errors_u.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						However, all of these methods still introduce some errors into the communcations and key receptions, meaning that it's possible for Alice and Bob to notice the eavesdropping and act accordingly.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/alexknapp/2011/06/15/researchers-successfully-eavesdrop-on-quantum-encrypted-communications/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						CORPUS CHRISTI — State Rep Connie Scott's error in claiming the endorsement of former Nueces County Judge Richard Borchard raises questions about how political endorsement is defined these days.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.caller.com/news/2012/oct/25/the-elastic-definition-of-endorsement/" target="_blank" rel="external nofollow">caller.com</a>
+					</div>
+										<div class="usage">
+						Errors in ASTM G148 Keywords.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.astm.org/DATABASE.CART/WORKITEMS/WK6791.htm" target="_blank" rel="external nofollow">astm.org</a>
+					</div>
+										<div class="usage">
+						This guarantees that in the event of an error there is no hazardous voltage to the conductive parts of the device.
+					</div>
+					<div class="uAuthor">
+						<a href="http://eponline.com/articles/2012/08/20/using-virtual-reference-grounding-for-electromagnetic-flowmeters.aspx?admgarea=ht.water" target="_blank" rel="external nofollow">eponline.com</a>
+					</div>
+										<div class="usage">
+						Ryan bumps Romney within margin of error in WI, FL, pollster says.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/video/watch/?id=4525044n" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Zips strong, but errors lead to loss.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ohio.com/blogs/ua-zips/university-of-akron-zips-blog-1.277207/the-poll-to-end-all-polls-1.278970?month=8&amp;year=2008" target="_blank" rel="external nofollow">ohio.com</a>
+					</div>
+										<div class="usage">
+						GE Engine Failure Caused by Assembly Error.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10000872396390444223104578036620292254236.html?ru=MKTW&amp;mod=MKTW" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						ICD-9-CM 2009 Physician volumes 1 and 2, full size edition This section has seven errors.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ama-assn.org/ama/pub/physician-resources/solutions-managing-your-practice/coding-billing-insurance/cpt/announcements-reports/for-ama-icd-9-cm.page?" target="_blank" rel="external nofollow">ama-assn.org</a>
+					</div>
+										<div class="usage">
+						Error prone football adds up to sound defeat for Claremont High School.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.claremont-courier.com/articles/sports/t5064-sports" target="_blank" rel="external nofollow">claremont-courier.com</a>
+					</div>
+										<div class="usage">
+						 Error-prone Sooners fall at home to Kansas State.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120923_92_B11_CUTLIN600076" target="_blank" rel="external nofollow">tulsaworld.com</a>
+					</div>
+										<div class="usage">
+						Castillo entered Monday riding a streak of 129 games without an error, the longest ever for a major league second baseman, according to the Elias Sports Bureau.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/509/story/1198128.html" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						Error establishing a database connection.
+					</div>
+					<div class="uAuthor">
+						<a href="http://gadsdenmessenger.com/2012/04/19/friendship-legacies-etched-in-stone-4/" target="_blank" rel="external nofollow">gadsdenmessenger.com</a>
+					</div>
+										<div class="usage">
+						Your contributions and help in correcting any errors are greatly appreciated.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/ktrk/feature?section=news/local&amp;id=7097186" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The error in the calculated spectral type includes both the error in our mass estimate and the error in the relation itself. 
+					</div>
+					<div class="uAuthor">
+						A TiO study of the dwarf nova IP Pegasi
+					</div>
+										<div class="usage">
+						The ﬁrst error is observational, and the second one includes theoretical errors, statistical errors of the simulations and errors of the ﬁts. 
+					</div>
+					<div class="uAuthor">
+						A simple model of the hierarchical formation of galaxies
+					</div>
+										<div class="usage">
+						The error for α comes both from the error in ν and the statistical error in α/ν . 
+					</div>
+					<div class="uAuthor">
+						Specific-Heat Exponent of Random-Field Systems via Ground-State Calculations
+					</div>
+										<div class="usage">
+						The error bars include the statistical error of the simulation combined with the expected error of the extrapolation procedure. 
+					</div>
+					<div class="uAuthor">
+						Multifractal current distribution in random diode networks
+					</div>
+										<div class="usage">
+						We have traced back to several sources of error which inﬂuence this part of the waveform, most notably numerical differencing error originating near the punctures in our simulations and radiation errors associated with the ﬁnite spatial extent of our numerical domain. 
+					</div>
+					<div class="uAuthor">
+						Modeling gravitational radiation from coalescing binary black holes
+					</div>
+										<div class="usage">
+						This systematic error is added in quadrature with the statistical error to determine the total error, increasing the errors to 0.0054. 
+					</div>
+					<div class="uAuthor">
+						Precision Primordial $^4$He Measurement with CMB Experiments
+					</div>
+										<div class="usage">
+						Also, supposing that ˜S approximates S , we will be considering two measures of the error, the absolute error kS − ˜SkL2 ,i and the relative error kS − ˜S kL2 ,i/kS kL2 ,i . 
+					</div>
+					<div class="uAuthor">
+						Coarse graining and control theory model reduction
+					</div>
+										<div class="usage">
+						Gauss’s principle asserts that if the probability of an error, given the true value, is a function of the error alone, and the log-likelihood function is maximum when the true value coincides with the mean of the observed values, then the law of error must be normal . 
+					</div>
+					<div class="uAuthor">
+						The linear Ising model and its analytic continuation, random walk
+					</div>
+										<div class="usage">
+						The ﬁnal errors listed for the distance estimates throughout this paper include this 15.3% error (the “external” error from the ﬁts) and the standard deviation of the up to 12 different distance estimates for an individual star (the “internal” error for each star). 
+					</div>
+					<div class="uAuthor">
+						The Solar Neighborhood X: New Nearby Stars in the Southern Sky and Accurate Photometric Distance Estimates for Red Dwarfs
+					</div>
+										<div class="usage">
+						Error probability Again, we estimate the decoding error probabilities for these codes when qubit errors are independent and have probability p. 
+					</div>
+					<div class="uAuthor">
+						Simple Rate-1/3 Convolutional and Tail-Biting Quantum Error-Correcting Codes
+					</div>
+										<div class="usage">
+						The error was determined by combining in quadrature the error from the χ2 -ﬁt and the systematic error in the reddening of SN 1999em. 
+					</div>
+					<div class="uAuthor">
+						A Study of the Type II-P Supernova 2003gd in M74
+					</div>
+										<div class="usage">
+						The error in the magnitude at day 50 for SN 1999em. (ii) The error in the χ2 -ﬁt. (iii) An error associated with the assumption that the light curves of SNe 2003gd and 1999em are intrinsically the same. 
+					</div>
+					<div class="uAuthor">
+						A Study of the Type II-P Supernova 2003gd in M74
+					</div>
+										<div class="usage">
+						The resulting distance moduli are listed in Table 12, where the errors are the combined errors from Rozanski &amp; RowanRobinson (1994, Table 5), the error in the brightest supergiant magnitude and an error for the host galaxy reddening. 
+					</div>
+					<div class="uAuthor">
+						A Study of the Type II-P Supernova 2003gd in M74
+					</div>
+										<div class="usage">
+						The simple mean is also listed in Table 13 where the error is a combination of the statistical error and the systematic error of ∆µ = 0.59 which corresponds to a distance of 2.2 Mpc (Rozanski &amp; RowanRobinson 1994; Karachentsev &amp; Tikhonov 1994). 
+					</div>
+					<div class="uAuthor">
+						A Study of the Type II-P Supernova 2003gd in M74
+					</div>
+										<div class="usage">
+						For the error in the ejected mass we have added, in quadrature, an extra error of 1 M⊙ to the error in the observed mass. 
+					</div>
+					<div class="uAuthor">
+						A Study of the Type II-P Supernova 2003gd in M74
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a wrong action attributable to bad judgment or ignorance or inattention"><a href="fault.html">fault</a>, </div><div class="synGroup" title="(baseball) a failure of a defensive player to make an out when normal play would have sufficed"><a href="misplay.html">misplay</a>, </div><div class="synGroup" title="departure from what is ethically acceptable"><a href="wrongdoing.html">wrongdoing</a>, </div><div class="synGroup" title="a misconception resulting from incorrect information"><a href="erroneous%20belief.html">erroneous belief</a>, </div><div class="synGroup" title="part of a statement that is not correct"><a href="mistake.html">mistake</a>, </div><div class="synGroup" title="(computer science) the occurrence of an incorrect result produced by a computer"><a href="computer%20error.html">computer error</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="evil.html">evil</a>, <a href="evilness.html">evilness</a>, <a href="failure.html">failure</a>, <a href="happening.html">happening</a>, <a href="incorrectness.html">incorrectness</a>, <a href="misconception.html">misconception</a>, <a href="misstatement.html">misstatement</a>, <a href="natural%20event.html">natural event</a>, <a href="nonaccomplishment.html">nonaccomplishment</a>, <a href="nonachievement.html">nonachievement</a>, <a href="occurrence.html">occurrence</a>, <a href="occurrent.html">occurrent</a>, <a href="wrongness.html">wrongness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="algorithm%20error.html">algorithm error</a>, <a href="balls-up.html">balls-up</a>, <a href="ballup.html">ballup</a>, <a href="betise.html">betise</a>, <a href="bloomer.html">bloomer</a>, <a href="blooper.html">blooper</a>, <a href="blot.html">blot</a>, <a href="blunder.html">blunder</a>, <a href="boner.html">boner</a>, <a href="boo-boo.html">boo-boo</a>, <a href="botch.html">botch</a>, <a href="bungle.html">bungle</a>, <a href="cockup.html">cockup</a>, <a href="confusion.html">confusion</a>, <a href="corrigendum.html">corrigendum</a>, <a href="deviation.html">deviation</a>, <a href="distortion.html">distortion</a>, <a href="erratum.html">erratum</a>, <a href="flub.html">flub</a>, <a href="folly.html">folly</a>, <a href="foolishness.html">foolishness</a>, <a href="foul-up.html">foul-up</a>, <a href="fuckup.html">fuckup</a>, <a href="hardware%20error.html">hardware error</a>, <a href="imbecility.html">imbecility</a>, <a href="incursion.html">incursion</a>, <a href="lapse.html">lapse</a>, <a href="literal.html">literal</a>, <a href="literal%20error.html">literal error</a>, <a href="mess-up.html">mess-up</a>, <a href="miscalculation.html">miscalculation</a>, <a href="miscue.html">miscue</a>, <a href="misestimation.html">misestimation</a>, <a href="misprint.html">misprint</a>, <a href="misreckoning.html">misreckoning</a>, <a href="mix-up.html">mix-up</a>, <a href="offside.html">offside</a>, <a href="omission.html">omission</a>, <a href="oversight.html">oversight</a>, <a href="parapraxis.html">parapraxis</a>, <a href="pratfall.html">pratfall</a>, <a href="programming%20error.html">programming error</a>, <a href="renege.html">renege</a>, <a href="revoke.html">revoke</a>, <a href="skip.html">skip</a>, <a href="slip.html">slip</a>, <a href="slip-up.html">slip-up</a>, <a href="smear.html">smear</a>, <a href="smirch.html">smirch</a>, <a href="software%20error.html">software error</a>, <a href="spot.html">spot</a>, <a href="stain.html">stain</a>, <a href="stupidity.html">stupidity</a>, <a href="typo.html">typo</a>, <a href="typographical%20error.html">typographical error</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="erroneous.html">erroneous</a>, <a href="mistake.html">mistake</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20clerical%20error.html">A clerical error</a>, <a href="abash.html">abash</a>, <a href="Accedence.html">Accedence</a>, <a href="accurate.html">accurate</a>, <a href="accurately.html">accurately</a>, <a href="accusation.html">accusation</a>, <a href="accuse.html">accuse</a>, <a href="adhesion.html">adhesion</a>, <a href="adjustment.html">adjustment</a>, <a href="admission.html">admission</a>, <a href="admonition.html">admonition</a>, <a href="Alethiology.html">Alethiology</a>, <a href="algorithm%20error.html">algorithm error</a>, <a href="amend.html">amend</a>, <a href="amendable.html">amendable</a>, <a href="amendment.html">amendment</a>, <a href="amiss.html">amiss</a>, <a href="Anachorism.html">Anachorism</a>, <a href="anachronism.html">anachronism</a>, <a href="Anatifa.html">Anatifa</a>, <a href="antiseptic.html">antiseptic</a>, <a href="anxiety.html">anxiety</a>, <a href="apart.html">apart</a>, <a href="appeal.html">appeal</a>, <a href="aright.html">aright</a>, <a href="Armgaunt.html">Armgaunt</a>, <a href="assign.html">assign</a>, <a href="assignment.html">assignment</a>, <a href="backsliding.html">backsliding</a>, <a href="Badger.html">Badger</a>, <a href="balk.html">balk</a>, <a href="Barracan.html">Barracan</a>, <a href="base%20hit.html">base hit</a>, <a href="befool.html">befool</a>, <a href="Belace.html">Belace</a>, <a href="betray.html">betray</a>, <a href="bill%20of%20review.html">bill of review</a>, <a href="Bissextile.html">Bissextile</a>, <a href="bitterness.html">bitterness</a>, <a href="blunder.html">blunder</a>, <a href="bug.html">bug</a>, <a href="bull.html">bull</a>, <a href="calorimeter.html">calorimeter</a>, <a href="catachresis.html">catachresis</a>, <a href="catch%20out.html">catch out</a>, <a href="check.html">check</a>, <a href="check%20bit.html">check bit</a>, <a href="Christian%20era.html">Christian era</a>, <a href="clerical.html">clerical</a>, <a href="Collimating%20eyepiece.html">Collimating eyepiece</a>, <a href="collimation.html">collimation</a>, <a href="conceit.html">conceit</a>, <a href="confess.html">confess</a>, <a href="confident.html">confident</a>, <a href="confusion.html">confusion</a>, <a href="confute.html">confute</a>, <a href="conviction.html">conviction</a>, <a href="convince.html">convince</a>, <a href="correct.html">correct</a>, <a href="correction.html">correction</a>, <a href="correctly.html">correctly</a>, <a href="corrigendum.html">corrigendum</a>, <a href="cyclic%20redundancy%20check.html">cyclic redundancy check</a>, <a href="darkness.html">darkness</a>, <a href="deceit.html">deceit</a>, <a href="Deceivable.html">Deceivable</a>, <a href="deceive.html">deceive</a>, <a href="deceiver.html">deceiver</a>, <a href="defect.html">defect</a>, <a href="delude.html">delude</a>, <a href="delusion.html">delusion</a>, <a href="density.html">density</a>, <a href="Desophisticate.html">Desophisticate</a>, <a href="detect.html">detect</a>, <a href="Developable.html">Developable</a>, <a href="deviation.html">deviation</a>, <a href="dialectics.html">dialectics</a>, <a href="discreet.html">discreet</a>, <a href="disk%20error.html">disk error</a>, <a href="disprove.html">disprove</a>, <a href="Down.html">Down</a>, <a href="Dwale.html">Dwale</a>, <a href="dysostosis%20multiplex.html">dysostosis multiplex</a>, <a href="earned%20run.html">earned run</a>, <a href="ellipticity.html">ellipticity</a>, <a href="emancipate.html">emancipate</a>, <a href="emendation.html">emendation</a>, <a href="Epact.html">Epact</a>, <a href="err.html">err</a>, <a href="Errable.html">Errable</a>, <a href="Errableness.html">Errableness</a>, <a href="errancy.html">errancy</a>, <a href="erratum.html">erratum</a>, <a href="erring.html">erring</a>, <a href="erroneous.html">erroneous</a>, <a href="Error%20of%20the%20mean%20square.html">Error of the mean square</a>, <a href="error-prone.html">error-prone</a>, <a href="Errorful.html">Errorful</a>, <a href="Errorist.html">Errorist</a>, <a href="errorless.html">errorless</a>, <a href="exploiter.html">exploiter</a>, <a href="exterminate.html">exterminate</a>, <a href="extermination.html">extermination</a>, <a href="extirpate.html">extirpate</a>, <a href="fall.html">fall</a>, <a href="fallaciousness.html">fallaciousness</a>, <a href="Fallency.html">Fallency</a>, <a href="fallible.html">fallible</a>, <a href="false.html">false</a>, <a href="falsehood.html">falsehood</a>, <a href="fatal.html">fatal</a>, <a href="fault.html">fault</a>, <a href="faultiness.html">faultiness</a>, <a href="faultless.html">faultless</a>, <a href="faultlessness.html">faultlessness</a>, <a href="fess%20up.html">fess up</a>, <a href="find%20out.html">find out</a>, <a href="foolproof.html">foolproof</a>, <a href="forego.html">forego</a>, <a href="forfeit.html">forfeit</a>, <a href="forgo.html">forgo</a>, <a href="fragility.html">fragility</a>, <a href="fraud.html">fraud</a>, <a href="gargoylism.html">gargoylism</a>, <a href="ghost%20word.html">ghost word</a>, <a href="gibbet.html">gibbet</a>, <a href="give%20up.html">give up</a>, <a href="gloss%20over.html">gloss over</a>, <a href="goof-proof.html">goof-proof</a>, <a href="goofproof.html">goofproof</a>, <a href="Gore.html">Gore</a>, <a href="grammatical.html">grammatical</a>, <a href="Green.html">Green</a>, <a href="Gregorian%20calendar.html">Gregorian calendar</a>, <a href="H.html">H</a>, <a href="hallucination.html">hallucination</a>, <a href="hamartia.html">hamartia</a>, <a href="hardware%20error.html">hardware error</a>, <a href="Harlock.html">Harlock</a>, <a href="Hebenon.html">Hebenon</a>, <a href="heresy.html">heresy</a>, <a href="heuristic.html">heuristic</a>, <a href="Horometry.html">Horometry</a>, <a href="howler.html">howler</a>, <a href="Hurler%27s%20disease.html">Hurler's disease</a>, <a href="Hurler%27s%20syndrome.html">Hurler's syndrome</a>, <a href="hush%20up.html">hush up</a>, <a href="iconoclasm.html">iconoclasm</a>, <a href="ideology.html">ideology</a>, <a href="idol.html">idol</a>, <a href="Illapsable.html">Illapsable</a>, <a href="illegal.html">illegal</a>, <a href="illiteracy.html">illiteracy</a>, <a href="illusion.html">illusion</a>, <a href="immaculate.html">immaculate</a>, <a href="immunity.html">immunity</a>, <a href="impeach.html">impeach</a>, <a href="impeachment.html">impeachment</a>, <a href="impeccability.html">impeccability</a>, <a href="impeccable.html">impeccable</a>, <a href="In%20the%20right.html">In the right</a>, <a href="inaccuracy.html">inaccuracy</a>, <a href="incorrectness.html">incorrectness</a>, <a href="incorrigible.html">incorrigible</a>, <a href="Index%20error.html">Index error</a>, <a href="Inerrability.html">Inerrability</a>, <a href="inerrable.html">inerrable</a>, <a href="Inerrableness.html">Inerrableness</a>, <a href="Inerrably.html">Inerrably</a>, <a href="inerrancy.html">inerrancy</a>, <a href="inerrant.html">inerrant</a>, <a href="Inerringly.html">Inerringly</a>, <a href="infallibility.html">infallibility</a>, <a href="infallible.html">infallible</a>, <a href="Infallibleness.html">Infallibleness</a>, <a href="infection.html">infection</a>, <a href="internal%20control.html">internal control</a>, <a href="Into.html">Into</a>, <a href="Inveteracy.html">Inveteracy</a>, <a href="Jeofail.html">Jeofail</a>, <a href="Julian%20year.html">Julian year</a>, <a href="kilogram.html">kilogram</a>, <a href="knowledge.html">knowledge</a>, <a href="Lactocrite.html">Lactocrite</a>, <a href="lamentable.html">lamentable</a>, <a href="lapse.html">lapse</a>, <a href="latitude.html">latitude</a>, <a href="Law%20of%20error.html">Law of error</a>, <a href="Law%20of%20frequency%20of%20error.html">Law of frequency of error</a>, <a href="level.html">level</a>, <a href="Lie.html">Lie</a>, <a href="life.html">life</a>, <a href="light.html">light</a>, <a href="lipochondrodystrophy.html">lipochondrodystrophy</a>, <a href="literal.html">literal</a>, <a href="logarithm.html">logarithm</a>, <a href="Logography.html">Logography</a>, <a href="lysinemia.html">lysinemia</a>, <a href="make.html">make</a>, <a href="make%20a%20clean%20breast%20of.html">make a clean breast of</a>, <a href="margin.html">margin</a>, <a href="maze.html">maze</a>, <a href="mazy.html">mazy</a>, <a href="mea%20culpa.html">mea culpa</a>, <a href="Mean%20error.html">Mean error</a>, <a href="Mean-square%20error.html">Mean-square error</a>, <a href="Mesfaith.html">Mesfaith</a>, <a href="Met-.html">Met-</a>, <a href="Meta-.html">Meta-</a>, <a href="Metachronism.html">Metachronism</a>, <a href="miosis.html">miosis</a>, <a href="Mischarge.html">Mischarge</a>, <a href="Miscopy.html">Miscopy</a>, <a href="misdirection.html">misdirection</a>, <a href="misguide.html">misguide</a>, <a href="Misjudgment.html">Misjudgment</a>, <a href="mislead.html">mislead</a>, <a href="misleader.html">misleader</a>, <a href="misnomer.html">misnomer</a>, <a href="Mispleading.html">Mispleading</a>, <a href="misprint.html">misprint</a>, <a href="Misprision.html">Misprision</a>, <a href="Misprize.html">Misprize</a>, <a href="miss.html">miss</a>, <a href="misstep.html">misstep</a>, <a href="mistake.html">mistake</a>, <a href="mistaken.html">mistaken</a>, <a href="mistaking.html">mistaking</a>, <a href="Misthought.html">Misthought</a>, <a href="mistrial.html">mistrial</a>, <a href="misunderstanding.html">misunderstanding</a>, <a href="muggins.html">muggins</a>, <a href="mumpsimus.html">mumpsimus</a>, <a href="nail.html">nail</a>, <a href="neural%20net.html">neural net</a>, <a href="neural%20network.html">neural network</a>, <a href="New%20Style%20calendar.html">New Style calendar</a>, <a href="Obliquation.html">Obliquation</a>, <a href="obliqueness.html">obliqueness</a>, <a href="obliquity.html">obliquity</a>, <a href="orthographic.html">orthographic</a>, <a href="out.html">out</a>, <a href="outlier.html">outlier</a>, <a href="over-correct.html">over-correct</a>, <a href="overcompensate.html">overcompensate</a>, <a href="overlook.html">overlook</a>, <a href="oversight.html">oversight</a>, <a href="own%20up.html">own up</a>, <a href="P.html">P</a>, <a href="Palinurus.html">Palinurus</a>, <a href="papal%20infallibility.html">papal infallibility</a>, <a href="Parachronism.html">Parachronism</a>, <a href="parity.html">parity</a>, <a href="parity%20bit.html">parity bit</a>, <a href="perfect.html">perfect</a>, <a href="personal%20equation.html">personal equation</a>, <a href="pervert.html">pervert</a>, <a href="pH.html">pH</a>, <a href="pilot.html">pilot</a>, <a href="Plenary%20inspiration.html">Plenary inspiration</a>, <a href="Plumbagin.html">Plumbagin</a>, <a href="point.html">point</a>, <a href="position.html">position</a>, <a href="precise.html">precise</a>, <a href="Probable%20error.html">Probable error</a>, <a href="Prochronism.html">Prochronism</a>, <a href="Proemptosis.html">Proemptosis</a>, <a href="programming%20error.html">programming error</a>, <a href="prolepsis.html">prolepsis</a>, <a href="proof.html">proof</a>, <a href="psychophysics.html">psychophysics</a>, <a href="Ptolemaic.html">Ptolemaic</a>, <a href="Put%20in%20the%20wrong.html">Put in the wrong</a>, <a href="q.html">q</a>, <a href="quarrel.html">quarrel</a>, <a href="rate.html">rate</a>, <a href="reclaim.html">reclaim</a>, <a href="reclamation.html">reclamation</a>, <a href="rectification.html">rectification</a>, <a href="rectitude.html">rectitude</a>, <a href="redeem.html">redeem</a>, <a href="redress.html">redress</a>, <a href="reflection.html">reflection</a>, <a href="reformation.html">reformation</a>, <a href="refutation.html">refutation</a>, <a href="refute.html">refute</a>, <a href="regret.html">regret</a>, <a href="relapse.html">relapse</a>, <a href="Relapser.html">Relapser</a>, <a href="remediation.html">remediation</a>, <a href="remedy.html">remedy</a>, <a href="Residual%20error.html">Residual error</a>, <a href="restitution.html">restitution</a>, <a href="resumption.html">resumption</a>, <a href="reverse.html">reverse</a>, <a href="Revince.html">Revince</a>, <a href="Rh.html">Rh</a>, <a href="right.html">right</a>, <a href="rock.html">rock</a>, <a href="Root%20and%20branch.html">Root and branch</a>, <a href="Root%20of%20bitterness.html">Root of bitterness</a>, <a href="run-time%20error.html">run-time error</a>, <a href="runtime%20error.html">runtime error</a>, <a href="rush.html">rush</a>, <a href="rusticity.html">rusticity</a>, <a href="Safe%20hit.html">Safe hit</a>, <a href="salt.html">salt</a>, <a href="sea.html">sea</a>, <a href="seducer.html">seducer</a>, <a href="Self-deceived.html">Self-deceived</a>, <a href="semantic%20error.html">semantic error</a>, <a href="short.html">short</a>, <a href="sin.html">sin</a>, <a href="sincere.html">sincere</a>, <a href="skew.html">skew</a>, <a href="sleek%20over.html">sleek over</a>, <a href="slip.html">slip</a>, <a href="slip%20up.html">slip up</a>, <a href="snag.html">snag</a>, <a href="software%20error.html">software error</a>, <a href="solecism.html">solecism</a>, <a href="sound.html">sound</a>, <a href="stand.html">stand</a>, <a href="steal.html">steal</a>, <a href="structural.html">structural</a>, <a href="stumble.html">stumble</a>, <a href="Stumbling-block.html">Stumbling-block</a>, <a href="Stumbling-blockstone.html">Stumbling-blockstone</a>, <a href="submission.html">submission</a>, <a href="sure-footed.html">sure-footed</a>, <a href="surefooted.html">surefooted</a>, <a href="syntax%20error.html">syntax error</a>, <a href="Tantalus.html">Tantalus</a>, <a href="Tender-hefted.html">Tender-hefted</a>, <a href="The%20doctrine%20of%20infallibility.html">The doctrine of infallibility</a>, <a href="thermometry.html">thermometry</a>, <a href="throw%20overboard.html">throw overboard</a>, <a href="To%20face%20the%20music.html">To face the music</a>, <a href="To%20lead%20astray.html">To lead astray</a>, <a href="To%20stand%20corrected.html">To stand corrected</a>, <a href="To%20walk%20in%20darkness.html">To walk in darkness</a>, <a href="tragic%20flaw.html">tragic flaw</a>, <a href="transit.html">transit</a>, <a href="trial.html">trial</a>, <a href="trial-and-error.html">trial-and-error</a>, <a href="trip.html">trip</a>, <a href="trip%20up.html">trip up</a>, <a href="unconscious.html">unconscious</a>, <a href="Under%20correction.html">Under correction</a>, <a href="unearned%20run.html">unearned run</a>, <a href="unerring.html">unerring</a>, <a href="unerringly.html">unerringly</a>, <a href="unfair.html">unfair</a>, <a href="Unpropriety.html">Unpropriety</a>, <a href="verity.html">verity</a>, <a href="vice.html">vice</a>, <a href="waive.html">waive</a>, <a href="whitewash.html">whitewash</a>, <a href="Without.html">Without</a>, <a href="writ.html">writ</a>, <a href="writ%20of%20error.html">writ of error</a>, <a href="wrong.html">wrong</a>, <a href="wrongness.html">wrongness</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wrror, srror, drror, rrror, eeror, edror, efror, etror, ereor, erdor, erfor, ertor, errir, errkr, errlr, errpr, erroe, errod, errof, errot
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

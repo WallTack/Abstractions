@@ -1,0 +1,593 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>loss</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/224/25/6624.jpg" alt="THE LOSS OF A LINER">
+							<div class="caption">THE LOSS OF A LINER</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">the act of losing someone or something</span> <span class="quot">"everyone expected him to win so his loss was a shock"</span></li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">the disadvantage that results from losing something</span> <span class="quot">"his loss of credibility led to his resignation","losing him is no great deprivation"</span></li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">the experience of losing a loved one</span> <span class="quot">"he sympathized on the loss of their grandfather"</span></li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">euphemistic expressions for death</span> <span class="quot">"thousands mourned his passing"</span></li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">military personnel lost by death or capture</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">the amount by which the cost of a business exceeds its revenue</span> <span class="quot">"the company operated at a loss last year","the company operated in the red last year"</span></li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">something that is lost</span> <span class="quot">"the car was a total loss","loss of livestock left the rancher bankrupt"</span></li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">gradual decline in amount or activity</span> <span class="quot">"weight loss","a serious loss of business"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The loss of eyelashes is referred to as madarosis									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Loss</span> <span class="exp"><span class="wuFld">(Insurance)</span> Destruction or diminution of value, if brought about in a manner provided for in the insurance contract (as destruction by fire or wreck, damage by water or smoke), or the death or injury of an insured person; also, the sum paid or payable therefor; as, the <span class="wUex">losses</span> of the company this year amount to a million of dollars.</span> </li><li><span class="term">Loss</span> <span class="exp">Failure to gain or win; as, <span class="wUex">loss</span> of a race or battle.</span> </li><li><span class="term">Loss</span> <span class="exp">Failure to use advantageously; as, <span class="wUex">loss</span> of time.</span> </li><li><span class="term">Loss</span> <span class="exp"><span class="wuFld">(Mil)</span> Killed, wounded, and captured persons, or captured property.</span> </li><li><span class="term">Loss</span> <span class="exp">That which is lost or from which one has parted; waste; -- opposed to <span class="wUant">gain</span> or <span class="wUant">increase</span>; as, the <span class="wUex">loss</span> of liquor by leakage was considerable.</span> </li><li><span class="term">Loss</span> <span class="exp">The act of losing; failure; destruction; privation; as, the <span class="wUex">loss</span> of property; <span class="wUex">loss</span> of money by gaming; <span class="wUex">loss</span> of health or reputation.
+         </span> <span class="wuQuot">"Assured loss before the match be played."</span></li><li><span class="term">Loss</span> <span class="exp">The state of being lost or destroyed; especially, the wreck or foundering of a ship or other vessel.</span> </li><li><span class="term">Loss</span> <span class="exp">The state of losing or having lost; the privation, defect, misfortune, harm, etc., which ensues from losing.</span> <span class="wuQuot">"Though thou repent, yet I have still the loss ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										80% of people that are on weight loss programs exercise on average three times a week
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">Failure to hold, keep, or preserve what one has had in his possession; disappearance from possession, use, or knowledge; deprivation of that which one has had: as, the loss of money by gaming; loss of health or reputation; loss of children: opposed to gain.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">Specifically, death.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">Failure to gain or win: as, the loss of a prize or battle.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">That which is lost or forfeited; that which has been scattered or wasted: as, the loss by leakage amounted to 20 gallons; an insurance company's loss by a fire.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">Defeat; overthrow; ruin.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">Lack; want.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">The state of being at fault; the state of having lost the trail and scent of game.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">At such a price as to lose or incur loss.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">To sustain a loss with spirit or fortitude.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">Synonyms Loss, Detriment, Damage, Waste, Forfeiture, etc. Loss is the class word under which detriment, damage, waste, forfeiture, etc., are species. Loss, detriment, and damage apply to persons or things; waste and forfeiture only to things. As to detriment and damage, see injury. Waste is generally voluntary, although not always realized; sometimes it is only by neglect. Forfeiture is a loss through the law, as a penalty or as the result of neglect.</span> </li><li><span class="tSpeech">n</span> <span class="term">loss</span> <span class="exp">See loess.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The metric system was to blame for the loss of the Mars Climate orbiter.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Loss</span> <span class="exp">the act of losing: injury: destruction: defeat: that which is lost: waste</span> </li><li><span class="term">Loss</span> <span class="exp">. See <span class="bld">Loess</span>.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arthur Christopher Benson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Arthur Christopher Benson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The worst sorrows in life are not in its losses and misfortune, but its fears.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Niccolo Machiavelli</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Niccolo%20Machiavelli.jpg" alt="Niccolo%20Machiavelli">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Men sooner forget the death of their father than the loss of their patrimony.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Pat Riley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Pat%20Riley.jpg" alt="Pat%20Riley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Giving yourself permission to lose guarantees a loss.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Tai Shang Kan Ying P'Ien</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Tai Shang Kan Ying P'Ien">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Regard your neighbor's gain as your own gain, and your neighbor's loss as your own loss.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mark Van Doren</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Mark Van Doren">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The job of the poet is to render the world -- to see it and report it without loss, without perversion. No poet ever talks about feelings. Only sentimental people do.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Hoffer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eric%20Hoffer.jpg" alt="Eric%20Hoffer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Sometimes we feel the loss of a prejudice as a loss of vigor.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>At a loss</span> - If you are at a loss, you are unable to understand or comply.
+				</div>	
+				<span class="separatorSmall">***</span>
+								<div class="idioms">
+					<span>Cut your losses</span> - If you cut your losses, you avoid losing any more money than you already have by getting out of a situation before matters worsen.
+				</div>	
+				<span class="separatorSmall">***</span>
+								<div class="idioms">
+					<span>One man's loss is another man's gain</span> - This means thato ne person's setback benefits someone else.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					AS. <span class="wUets">los</span>, loss, losing, fr. <span class="wUets">leósan</span>, to lose. √127. See <span class="wUer">Lose</span> (v. t.) 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						This method of advancing results in serious (though temporary) loss of control over the company.
+					</div>
+					<div class="uAuthor">
+						"Manual of Military Training" by <span>James A. Moss</span>					</div>
+										<div class="usage">
+						Of course, when one finds that a mistake has been made, the sooner one sells and takes a loss the better.
+					</div>
+					<div class="uAuthor">
+						"Successful Stock Speculation" by <span>John James Butler</span>					</div>
+										<div class="usage">
+						Napoleon's final prophecy that Bourbon rule would end in the ruin of Spain, and the loss of all the best colonies was near fulfilment.
+					</div>
+					<div class="uAuthor">
+						"A History of the Nineteenth Century, Year by Year" by <span>Edwin Emerson</span>					</div>
+										<div class="usage">
+						The passenger pigeon is one of our greatest losses.
+					</div>
+					<div class="uAuthor">
+						"Conservation Reader" by <span>Harold W. Fairbanks</span>					</div>
+										<div class="usage">
+						Of natural sources of loss we have only one, and that is loss by drainage.
+					</div>
+					<div class="uAuthor">
+						"Manures and the principles of manuring" by <span>Charles Morton Aikman</span>					</div>
+										<div class="usage">
+						It will take many a day to make up the reckoning of the material loss.
+					</div>
+					<div class="uAuthor">
+						"The Johnstown Horror" by <span>James Herbert Walker</span>					</div>
+										<div class="usage">
+						Thus end the remarks on gains and losses, and attendant gains and losses.
+					</div>
+					<div class="uAuthor">
+						"The Kama Sutra of Vatsyayana" by <span>Vatsyayana</span>					</div>
+										<div class="usage">
+						He felt the loss as much as it was in his iron nature to feel the loss of anything but a province or a battle.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<div class="usage">
+						Thus in either case a valuable stroke is lost, and if the enemy is playing the correct game the loss may be most serious.
+					</div>
+					<div class="uAuthor">
+						"The Complete Golfer [1905]" by <span>Harry Vardon</span>					</div>
+										<div class="usage">
+						The losses of Ypres.
+					</div>
+					<div class="uAuthor">
+						"The War in the Air; Vol. 1" by <span>Walter Raleigh</span>					</div>
+										<div class="usage">
+						Almost the only loss the enemy sustained was in this conflict.
+					</div>
+					<div class="uAuthor">
+						"Chronicles of Border Warfare" by <span>Alexander Scott Withers</span>					</div>
+										<div class="usage">
+						The first serious losses on either side were naval.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume III (of VIII)" by <span>Various</span>					</div>
+										<div class="usage">
+						The others escaped, but the airship was a total loss.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume IV (of 8)"					</div>
+										<div class="usage">
+						Neither the loss of life nor the name of the vessel was made public by Vienna.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume V (of 8)"					</div>
+										<div class="usage">
+						But their foothold in the French trenches was only temporary, and they were driven out with considerable losses.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume VI (of VIII)" by <span>Various</span>					</div>
+										<div class="usage">
+						Our loss includes only nine killed and sixty wounded.
+					</div>
+					<div class="uAuthor">
+						"Three Years in the Federal Cavalry" by <span>Willard Glazier</span>					</div>
+										<div class="usage">
+						I wanted to see what I could make, between the two, out of young Lossing.
+					</div>
+					<div class="uAuthor">
+						"Against Odds" by <span>Lawrence L. Lynch</span>					</div>
+										<div class="usage">
+						Loss of Charge in an Idle Battery.
+					</div>
+					<div class="uAuthor">
+						"The Automobile Storage Battery" by <span>O. A. Witte</span>					</div>
+										<div class="usage">
+						Near Princeton another corps was routed with heavy loss; but the joy of the Americans was mingled with grief for the loss of General Mercer.
+					</div>
+					<div class="uAuthor">
+						"History of the Colony and Ancient Dominion of Virginia" by <span>Charles Campbell</span>					</div>
+										<div class="usage">
+						A fight ensued, and the British, after suffering severe losses, were surrounded and surrendered.
+					</div>
+					<div class="uAuthor">
+						"South Africa and the Boer-British War, Volume I" by <span>J. Castell Hopkins</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							The joy, the rest, the life<br>
+That I enioyed of yore<br>
+Came to my lot that by my losse,<br>
+My smarte might smarte the more.
+							<div class="poet">"A Fancy" by <span>Edward Dyer</span></div>
+						</div>
+											<div class="poemQuote">
+							"Arise," he said, "why look behind,<br>
+When hope is all before,<br>
+And patient hand and willing mind,<br>
+Your loss may yet restore?
+							<div class="poet">"A Lay Of Old Time" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							Ah well-a-day! But so it is,<br>
+Pale sorrow groaneth everywhere,<br>
+And pain and loss we cannot miss;<br>
+To think is almost to despair.
+							<div class="poet">"How Full of God" by <span>Charles Harpur</span></div>
+						</div>
+											<div class="poemQuote">
+							Our merchants Spain has near undone,<br>
+For lost ships not requiting;<br>
+This bears our noble King to shun<br>
+The loss of blood—in fighting!
+							<div class="poet">"Stanzas - To the Memory of an agreeable Lady, buried in marriage to a Person undeserving her" by <span>William Shenstone</span></div>
+						</div>
+											<div class="poemQuote">
+							And may his love who can restore<br>
+All losses, give all new good things,<br>
+Like loving eyes and sheltering wings<br>
+Be round us all for evermore!
+							<div class="poet">"With A Copy of: "In Memoriam"" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							They think I burrow from the sun,<br>
+In darkness, all alone, and weak;<br>
+Such loss were gain if He were won,<br>
+For 'tis the sun's own Sun I seek.
+							<div class="poet">"The Miner" by <span>James Russell Lowell</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						After a 49-3 loss to Michigan, the school's worse loss in 55 years, athletic director Ron Mason pulled the plug after Monday's practice SAN ANTIONIO, Texas--Michigan State has seen enough.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.insightnews.com/archives/147-williams" target="_blank" rel="external nofollow">insightnews.com</a>
+					</div>
+										<div class="usage">
+						Following the Marshall Thundering Herd's loss to Tulsa the players looked stunned, at a loss at how they had come so close to victory yet again only to come up short in the end.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.herald-dispatch.com/sports/x2102455080/Ben-Fields-Thundering-Herd-stung-stunned-by-loss" target="_blank" rel="external nofollow">herald-dispatch.com</a>
+					</div>
+										<div class="usage">
+						It's no secret in the loss prevention industry that sweethearting , the practice of giving customers unauthorized discounts or free merchandise or services, is a major source of loss in retail.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chainstoreage.com/article/sweethearting-bottom-line-drain-retailers" target="_blank" rel="external nofollow">chainstoreage.com</a>
+					</div>
+										<div class="usage">
+						Seton Hall's loss in Big East Tournament, toughest loss Pirates have sustained.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/setonhall/index.ssf/2012/03/the_tip_in_seton_halls_loss_in.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Hot Topic reported Wednesday that it tightened its loss in the second quarter to $6.2 million, compared with a loss of $6.3 million a year earlier.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chainstoreage.com/article/hot-topic-narrows-loss-q2-track-open-40-net-new-torrid-stores" target="_blank" rel="external nofollow">chainstoreage.com</a>
+					</div>
+										<div class="usage">
+						Panasonic reports $8.7 billion quarterly loss, forecasts yearly loss.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tulsaworld.com/site/articlepath.aspx?articleid=20121101_52_E3_CUTLIN686505&amp;rss_lnk=52" target="_blank" rel="external nofollow">tulsaworld.com</a>
+					</div>
+										<div class="usage">
+						A 21-14 loss to the Minnesota Vikings marked the fourth loss in the past five games for the Bears (8-5), who fell behind by two quick touchdowns and could not recover.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nwherald.com/2012/12/09/vikings-hand-bears-4th-loss-in-5-games/aofm8hk/" target="_blank" rel="external nofollow">nwherald.com</a>
+					</div>
+										<div class="usage">
+						Arizona's woeful season hits new low in 58-0 loss to Seattle, 9th straight loss for Cardinals.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/sports/vikings/nfl/182764121.html?page=2&amp;c=y" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						Wisconsin's players and coaches felt the frustration build week after week, loss after loss, over a 12-game regular season.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.jsonline.com/newswatch/182086221.html?newsWatchDate=12-1-2012" target="_blank" rel="external nofollow">jsonline.com</a>
+					</div>
+										<div class="usage">
+						Ravens win in addition to a Steelers loss (against Chargers) and a Bengals loss (against Dallas).
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/nflnation/post/_/id/68079/how-ravens-can-clinch-playoff-berth" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Illinois Republicans suffered big losses in this fall's election, losses big enough to threaten some of the party's leaders.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wcbufm.org/content/il-senates-top-republican-could-be-booted" target="_blank" rel="external nofollow">wcbufm.org</a>
+					</div>
+										<div class="usage">
+						After dropping a disappointing 62-43 loss one night earlier, Panther head coach Jay Morris was fearful of the repercussions of back-to-back losses to open the season.
+					</div>
+					<div class="uAuthor">
+						<a href="https://www.timesleaderonline.com/page/content.detail/id/543241/Rozenek-nets-36-in-Buckeye-s-win-against-Union-Local.html?nav=5012" target="_blank" rel="external nofollow">timesleaderonline.com</a>
+					</div>
+										<div class="usage">
+						 Carpenter had nine points and 12 rebounds in a 70-56 loss to Boise State and eight points and eight rebounds in an 80-55 loss to BYU.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kitsapsun.com/news/2012/nov/17/bremertonts-carpenter-starting-for-weber-state/" target="_blank" rel="external nofollow">kitsapsun.com</a>
+					</div>
+										<div class="usage">
+						 Cassandra Syndrome, loss of reason, loss of action, loss of choices.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kgab.com/the-cassandra-syndrome-for-canada-europe-australia-and-america-1-of-3/" target="_blank" rel="external nofollow">kgab.com</a>
+					</div>
+										<div class="usage">
+						Michigan coach Brady Hoke, after loss to Nebraska: Michigan coach Brady Hoke addresses the media following the loss to Nebraska on Saturday night.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.freep.com/article/20121028/SPORTS06/310280359/1054/sports06" target="_blank" rel="external nofollow">freep.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In addition to determining the dust loss rate, we would like to estimate the gas loss rate. 
+					</div>
+					<div class="uAuthor">
+						The Very Slow Wind From the Pulsating Semiregular Red Giant L2 Pup
+					</div>
+										<div class="usage">
+						Such a choice is also suggested by the appearance of a constant loss term (Kudlik et al 1999; Ngai 2000; Sokolov et al 2001) in many glass formers just below Tg . A constant loss term corresponds to a constant f (V ). 
+					</div>
+					<div class="uAuthor">
+						Energy landscape - a key concept for the dynamics of glasses and liquids
+					</div>
+										<div class="usage">
+						This is ﬁrstly the result of the strong mass loss necessary to produce the WR stars and also of the mass loss during the WR stages. 
+					</div>
+					<div class="uAuthor">
+						Stellar evolution with rotation X: Wolf-Rayet star populations at solar metallicity
+					</div>
+										<div class="usage">
+						We see that the present non–rotating models follow more or less the behaviour we obtained with our normal mass loss rate models of 1994, although, due to smaller mass loss rates in the present grid, the WR lifetimes are in general reduced and the minimum mass for WR star formation from single stars is enhanced. 
+					</div>
+					<div class="uAuthor">
+						Stellar evolution with rotation X: Wolf-Rayet star populations at solar metallicity
+					</div>
+										<div class="usage">
+						The loss of mass phenomenon stated above is completely different from erosion or sudden loss of mass: it is due to the fact that small fragments tend to decay faster when α &lt; 0. 
+					</div>
+					<div class="uAuthor">
+						The genealogy of self-similar fragmentations with negative index as a continuum random tree
+					</div>
+										<div class="usage">
+						Why can’t we, in the proof of 1.5, after (∗)3 , put the instead assuming 2ℵ1 ≤ µ use “as N ≺ (H (2λ )+ ), ∈, &lt;∗ ) without loss of generality u = w1 ”? The set u chosen above depends on δ , so if 2ℵ1 ≤ µ still u ∈ N , but otherwise the “without loss of generality u ∈ N ” does not seem to be justiﬁed. 
+					</div>
+					<div class="uAuthor">
+						Reflection implies the SCH
+					</div>
+										<div class="usage">
+						Hamann et al. 1995), although Schmutz (1997) obtained a rather higher bolometric luminosity, due to a combination of his photon loss mechanism and more complete line opacity, whilst clumping corrected mass-loss rates are much lower. 
+					</div>
+					<div class="uAuthor">
+						Spitzer-IRS Sectroscopy of the Prototype Wolf-Rayet star EZ CMa (HD 50896)
+					</div>
+										<div class="usage">
+						Although the RPA is a good approximation to the neutrino energy losses due to annihilation of electrons and positrons, and reproduces accurately the neutrino energy losses caused by the plasmon decays, it is not yet suﬃcient for a complete description of the neutrino energy losses from a hot plasma. 
+					</div>
+					<div class="uAuthor">
+						Random phase approximation to neutrino energy losses from a relativistic electron-positron plasma
+					</div>
+										<div class="usage">
+						The main diﬁerence comes from the loss due to the additional isolation cuts { typically a 5% loss per ob ject. 
+					</div>
+					<div class="uAuthor">
+						The CMS High Level Trigger
+					</div>
+										<div class="usage">
+						Reilly was of the opinion that macular degeneration has more to do with sensory loss than loss of cognitive processing. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						Compton losses dominate synchrotron losses for secondary electrons and positrons in starbursts (see TQW; Thompson et al. 2006). 
+					</div>
+					<div class="uAuthor">
+						Assessing The Starburst Contribution to the Gamma-Ray and Neutrino Backgrounds
+					</div>
+										<div class="usage">
+						It is quite narrow because photo-pion energy losses increase with energy almost exponentially and at E &gt; Eeq2 the pair-production energy losses become too small. 
+					</div>
+					<div class="uAuthor">
+						Second dip as a signature of ultrahigh energy proton interactions with cosmic microwave background radiation
+					</div>
+										<div class="usage">
+						On the other hand, at E &lt; Eeq2 the photo-pion energy losses are too small, the spectrum is fully determined by pair-production energy losses, while the interference effect disappears. 
+					</div>
+					<div class="uAuthor">
+						Second dip as a signature of ultrahigh energy proton interactions with cosmic microwave background radiation
+					</div>
+										<div class="usage">
+						The average energy loss ( ¯∆) The average particle energy loss −dE /dx is usually given in units of M eV /(g/cm2). 
+					</div>
+					<div class="uAuthor">
+						Study of accelerator neutrino interactions in a liquid argon TPC
+					</div>
+										<div class="usage">
+						Figure 4.20: Average energy loss −dE /dx from Bethe-Bloch formula (top line) compared to the most probable energy loss for three values of the track pitch length ∆z (bottom lines). 
+					</div>
+					<div class="uAuthor">
+						Study of accelerator neutrino interactions in a liquid argon TPC
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the disadvantage that results from losing something"><a href="deprivation.html">deprivation</a>, </div><div class="synGroup" title="euphemistic expressions for death"><a href="departure.html">departure</a>, <a href="exit.html">exit</a>, <a href="expiration.html">expiration</a>, <a href="going.html">going</a>, <a href="release.html">release</a>, </div><div class="synGroup" title="military personnel lost by death or capture"><a href="personnel%20casualty.html">personnel casualty</a>, </div><div class="synGroup" title="the amount by which the cost of a business exceeds its revenue"><a href="red%20ink.html">red ink</a>, <a href="red.html">red</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="gain.html">gain</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="amount.html">amount</a>, <a href="amount%20of%20money.html">amount of money</a>, <a href="casualty.html">casualty</a>, <a href="death.html">death</a>, <a href="decease.html">decease</a>, <a href="decline.html">decline</a>, <a href="diminution.html">diminution</a>, <a href="disadvantage.html">disadvantage</a>, <a href="experience.html">experience</a>, <a href="expiry.html">expiry</a>, <a href="failure.html">failure</a>, <a href="sum.html">sum</a>, <a href="sum%20of%20money.html">sum of money</a>, <a href="transferred%20possession.html">transferred possession</a>, <a href="transferred%20property.html">transferred property</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="capitulation.html">capitulation</a>, <a href="combat%20injury.html">combat injury</a>, <a href="default.html">default</a>, <a href="epilation.html">epilation</a>, <a href="fall.html">fall</a>, <a href="financial%20loss.html">financial loss</a>, <a href="forfeit.html">forfeit</a>, <a href="forfeiture.html">forfeiture</a>, <a href="injury.html">injury</a>, <a href="paper%20loss.html">paper loss</a>, <a href="reducing.html">reducing</a>, <a href="sacrifice.html">sacrifice</a>, <a href="squeeze.html">squeeze</a>, <a href="surrender.html">surrender</a>, <a href="wastage.html">wastage</a>, <a href="wound.html">wound</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="lossy.html">lossy</a>, <a href="pass.html">pass</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abandon.html">abandon</a>, <a href="abandonment.html">abandonment</a>, <a href="abase.html">abase</a>, <a href="abiotrophy.html">abiotrophy</a>, <a href="Abord.html">Abord</a>, <a href="aboulia.html">aboulia</a>, <a href="abrasion.html">abrasion</a>, <a href="abulia.html">abulia</a>, <a href="Accident%20insurance.html">Accident insurance</a>, <a href="accrue.html">accrue</a>, <a href="acoustic.html">acoustic</a>, <a href="acroanaesthesia.html">acroanaesthesia</a>, <a href="acroanesthesia.html">acroanesthesia</a>, <a href="adiabatic.html">adiabatic</a>, <a href="adiabatic%20process.html">adiabatic process</a>, <a href="adjuster.html">adjuster</a>, <a href="adrift.html">adrift</a>, <a href="adventure.html">adventure</a>, <a href="advertise.html">advertise</a>, <a href="affect.html">affect</a>, <a href="afflict.html">afflict</a>, <a href="affliction.html">affliction</a>, <a href="afford.html">afford</a>, <a href="agape.html">agape</a>, <a href="agglutination.html">agglutination</a>, <a href="aging.html">aging</a>, <a href="agraphia.html">agraphia</a>, <a href="Air-jacket.html">Air-jacket</a>, <a href="akinesia.html">akinesia</a>, <a href="alalia.html">alalia</a>, <a href="alarm.html">alarm</a>, <a href="alexia.html">alexia</a>, <a href="alienating.html">alienating</a>, <a href="Alkalimeter.html">Alkalimeter</a>, <a href="all.html">all</a>, <a href="allow.html">allow</a>, <a href="alluviation.html">alluviation</a>, <a href="alopecia.html">alopecia</a>, <a href="alopecic.html">alopecic</a>, <a href="Alopecy.html">Alopecy</a>, <a href="amaurosis.html">amaurosis</a>, <a href="amends.html">amends</a>, <a href="amenity.html">amenity</a>, <a href="amerce.html">amerce</a>, <a href="Amission.html">Amission</a>, <a href="amnesia.html">amnesia</a>, <a href="amnesiac.html">amnesiac</a>, <a href="amnesic.html">amnesic</a>, <a href="amnestic.html">amnestic</a>, <a href="anaesthesia.html">anaesthesia</a>, <a href="Anaesthesis.html">Anaesthesis</a>, <a href="anaesthetic.html">anaesthetic</a>, <a href="anaesthetic%20agent.html">anaesthetic agent</a>, <a href="Anaplerosis.html">Anaplerosis</a>, <a href="ancient.html">ancient</a>, <a href="anesthesia.html">anesthesia</a>, <a href="anesthetic.html">anesthetic</a>, <a href="anesthetic%20agent.html">anesthetic agent</a>, <a href="anger.html">anger</a>, <a href="Angevin.html">Angevin</a>, <a href="anorectic.html">anorectic</a>, <a href="anorexia.html">anorexia</a>, <a href="anorexigenic.html">anorexigenic</a>, <a href="anosmatic.html">anosmatic</a>, <a href="anosmia.html">anosmia</a>, <a href="anosmic.html">anosmic</a>, <a href="anterograde%20amnesia.html">anterograde amnesia</a>, <a href="antineoplastic.html">antineoplastic</a>, <a href="antineoplastic%20drug.html">antineoplastic drug</a>, <a href="An%C3%A6sthesia.html">Anæsthesia</a>, <a href="aphasia.html">aphasia</a>, <a href="Aphasy.html">Aphasy</a>, <a href="Aphemia.html">Aphemia</a>, <a href="aphesis.html">aphesis</a>, <a href="Aphetism.html">Aphetism</a>, <a href="aphonia.html">aphonia</a>, <a href="Aphony.html">Aphony</a>, <a href="Aphrasia.html">Aphrasia</a>, <a href="apocope.html">apocope</a>, <a href="apoplexy.html">apoplexy</a>, <a href="Aporia.html">Aporia</a>, <a href="apraxia.html">apraxia</a>, <a href="Archimedes%27%20principle.html">Archimedes' principle</a>, <a href="Arriere-ban.html">Arriere-ban</a>, <a href="Asemia.html">Asemia</a>, <a href="Asitia.html">Asitia</a>, <a href="asperse.html">asperse</a>, <a href="assessment.html">assessment</a>, <a href="assurance.html">assurance</a>, <a href="assure.html">assure</a>, <a href="Assurer.html">Assurer</a>, <a href="astereognosis.html">astereognosis</a>, <a href="asthenia.html">asthenia</a>, <a href="astheny.html">astheny</a>, <a href="astonishment.html">astonishment</a>, <a href="ataxia.html">ataxia</a>, <a href="ataxy.html">ataxy</a>, <a href="Atimy.html">Atimy</a>, <a href="Atmidometer.html">Atmidometer</a>, <a href="atrocious.html">atrocious</a>, <a href="attainder.html">attainder</a>, <a href="Atypic.html">Atypic</a>, <a href="Autoclastic.html">Autoclastic</a>, <a href="automobile%20insurance.html">automobile insurance</a>, <a href="autoplasty.html">autoplasty</a>, <a href="average.html">average</a>, <a href="average%20out.html">average out</a>, <a href="avulsion.html">avulsion</a>, <a href="awake.html">awake</a>, <a href="bad.html">bad</a>, <a href="baldness.html">baldness</a>, <a href="bankruptcy.html">bankruptcy</a>, <a href="BASIC.html">BASIC</a>, <a href="battle%20damage.html">battle damage</a>, <a href="Be.html">Be</a>, <a href="bemoan.html">bemoan</a>, <a href="bereaved.html">bereaved</a>, <a href="bereavement.html">bereavement</a>, <a href="bereft.html">bereft</a>, <a href="bewail.html">bewail</a>, <a href="bicker.html">bicker</a>, <a href="blackout.html">blackout</a>, <a href="Blanket%20clause.html">Blanket clause</a>, <a href="bloodless.html">bloodless</a>, <a href="Bloodstroke.html">Bloodstroke</a>, <a href="blow.html">blow</a>, <a href="bottom%20line.html">bottom line</a>, <a href="brain%20dead.html">brain dead</a>, <a href="brain%20drain.html">brain drain</a>, <a href="break%20even.html">break even</a>, <a href="brilliant.html">brilliant</a>, <a href="brokenheartedness.html">brokenheartedness</a>, <a href="Buffle.html">Buffle</a>, <a href="bushed.html">bushed</a>, <a href="business%20interruption%20insurance.html">business interruption insurance</a>, <a href="butcher.html">butcher</a>, <a href="calamity.html">calamity</a>, <a href="cancer%20drug.html">cancer drug</a>, <a href="candid.html">candid</a>, <a href="canonic.html">canonic</a>, <a href="canonical.html">canonical</a>, <a href="capital.html">capital</a>, <a href="capital%20loss.html">capital loss</a>, <a href="Capitally.html">Capitally</a>, <a href="car%20insurance.html">car insurance</a>, <a href="Carnot%20cycle.html">Carnot cycle</a>, <a href="Carnot%27s%20ideal%20cycle.html">Carnot's ideal cycle</a>, <a href="carry%20back.html">carry back</a>, <a href="casualty.html">casualty</a>, <a href="cataclysm.html">cataclysm</a>, <a href="catalepsy.html">catalepsy</a>, <a href="catastrophe.html">catastrophe</a>, <a href="chance.html">chance</a>, <a href="check.html">check</a>, <a href="chela.html">chela</a>, <a href="chloroform.html">chloroform</a>, <a href="civil%20death.html">civil death</a>, <a href="coinsurance.html">coinsurance</a>, <a href="cold.html">cold</a>, <a href="collapse.html">collapse</a>, <a href="combat%20casualty.html">combat casualty</a>, <a href="compensate.html">compensate</a>, <a href="compensation.html">compensation</a>, <a href="concussion.html">concussion</a>, <a href="condemn.html">condemn</a>, <a href="confusion.html">confusion</a>, <a href="congeal.html">congeal</a>, <a href="conk.html">conk</a>, <a href="conservation.html">conservation</a>, <a href="Conservative.html">Conservative</a>, <a href="conservatory.html">conservatory</a>, <a href="Conservatrix.html">Conservatrix</a>, <a href="conserve.html">conserve</a>, <a href="conserved.html">conserved</a>, <a href="Conserver.html">Conserver</a>, <a href="consumption.html">consumption</a>, <a href="contraction.html">contraction</a>, <a href="contribution.html">contribution</a>, <a href="conversion.html">conversion</a>, <a href="conveyer.html">conveyer</a>, <a href="Cophosis.html">Cophosis</a>, <a href="corruption.html">corruption</a>, <a href="cost.html">cost</a>, <a href="costly.html">costly</a>, <a href="Counter-bond.html">Counter-bond</a>, <a href="cover.html">cover</a>, <a href="Cross-stone.html">Cross-stone</a>, <a href="Crusade.html">Crusade</a>, <a href="cudweed.html">cudweed</a>, <a href="damage.html">damage</a>, <a href="damage%20control.html">damage control</a>, <a href="damages.html">damages</a>, <a href="damnable.html">damnable</a>, <a href="Damnific.html">Damnific</a>, <a href="Damnification.html">Damnification</a>, <a href="Damnify.html">Damnify</a>, <a href="damnum.html">damnum</a>, <a href="danger.html">danger</a>, <a href="deactivation.html">deactivation</a>, <a href="deadly.html">deadly</a>, <a href="deadly%20sin.html">deadly sin</a>, <a href="deafening.html">deafening</a>, <a href="dearly-won.html">dearly-won</a>, <a href="dearth.html">dearth</a>, <a href="death.html">death</a>, <a href="debilitation.html">debilitation</a>, <a href="decalcification.html">decalcification</a>, <a href="decay.html">decay</a>, <a href="decimation.html">decimation</a>, <a href="decline.html">decline</a>, <a href="decrease.html">decrease</a>, <a href="decrement.html">decrement</a>, <a href="dedifferentiated.html">dedifferentiated</a>, <a href="dedifferentiation.html">dedifferentiation</a>, <a href="deductible.html">deductible</a>, <a href="default.html">default</a>, <a href="defeat.html">defeat</a>, <a href="defervescence.html">defervescence</a>, <a href="Defervescency.html">Defervescency</a>, <a href="deficiency.html">deficiency</a>, <a href="Deflectionization.html">Deflectionization</a>, <a href="defoliation.html">defoliation</a>, <a href="deformed.html">deformed</a>, <a href="degeneration.html">degeneration</a>, <a href="degenerative.html">degenerative</a>, <a href="degenerative%20disorder.html">degenerative disorder</a>, <a href="degradation.html">degradation</a>, <a href="dehydrated.html">dehydrated</a>, <a href="deletion.html">deletion</a>, <a href="deliquium.html">deliquium</a>, <a href="deliverance.html">deliverance</a>, <a href="delivery.html">delivery</a>, <a href="Demency.html">Demency</a>, <a href="Dement.html">Dement</a>, <a href="dementia.html">dementia</a>, <a href="demineralization.html">demineralization</a>, <a href="demyelination.html">demyelination</a>, <a href="deossification.html">deossification</a>, <a href="Deperdition.html">Deperdition</a>, <a href="depersonalisation.html">depersonalisation</a>, <a href="depersonalization.html">depersonalization</a>, <a href="depigmentation.html">depigmentation</a>, <a href="depilation.html">depilation</a>, <a href="Deplumation.html">Deplumation</a>, <a href="depolarisation.html">depolarisation</a>, <a href="depolarization.html">depolarization</a>, <a href="deposit%20account.html">deposit account</a>, <a href="depreciation%20allowance.html">depreciation allowance</a>, <a href="deprivation.html">deprivation</a>, <a href="Desegmentation.html">Desegmentation</a>, <a href="desolate.html">desolate</a>, <a href="despair.html">despair</a>, <a href="despairing.html">despairing</a>, <a href="desperate.html">desperate</a>, <a href="despond.html">despond</a>, <a href="despondency.html">despondency</a>, <a href="desquamation.html">desquamation</a>, <a href="destabilization.html">destabilization</a>, <a href="detriment.html">detriment</a>, <a href="Devitrification.html">Devitrification</a>, <a href="dew.html">dew</a>, <a href="dialysis.html">dialysis</a>, <a href="die.html">die</a>, <a href="diphtheria.html">diphtheria</a>, <a href="disability.html">disability</a>, <a href="disable.html">disable</a>, <a href="disadvantage.html">disadvantage</a>, <a href="disadvantageously.html">disadvantageously</a>, <a href="disarray.html">disarray</a>, <a href="disaster.html">disaster</a>, <a href="disband.html">disband</a>, <a href="Discommodity.html">Discommodity</a>, <a href="disease.html">disease</a>, <a href="disequilibrium.html">disequilibrium</a>, <a href="disgrace.html">disgrace</a>, <a href="dismay.html">dismay</a>, <a href="disorientation.html">disorientation</a>, <a href="disorienting.html">disorienting</a>, <a href="Disprofit.html">Disprofit</a>, <a href="Disreputation.html">Disreputation</a>, <a href="disrepute.html">disrepute</a>, <a href="dissipation.html">dissipation</a>, <a href="distemper.html">distemper</a>, <a href="Distemperature.html">Distemperature</a>, <a href="distress.html">distress</a>, <a href="distrust.html">distrust</a>, <a href="Disworship.html">Disworship</a>, <a href="Dolours%20of%20the%20Virgin.html">Dolours of the Virgin</a>, <a href="double%20fault.html">double fault</a>, <a href="downfall.html">downfall</a>, <a href="drawback.html">drawback</a>, <a href="drawing%20card.html">drawing card</a>, <a href="droop.html">droop</a>, <a href="dry%20up.html">dry up</a>, <a href="dying.html">dying</a>, <a href="dysosmia.html">dysosmia</a>, <a href="E.html">E</a>, <a href="earsplitting.html">earsplitting</a>, <a href="echolalia.html">echolalia</a>, <a href="eclipse.html">eclipse</a>, <a href="eclipsis.html">eclipsis</a>, <a href="economic.html">economic</a>, <a href="economy.html">economy</a>, <a href="ED.html">ED</a>, <a href="efficiency.html">efficiency</a>, <a href="effloresce.html">effloresce</a>, <a href="effuse.html">effuse</a>, <a href="elastosis.html">elastosis</a>, <a href="emanation.html">emanation</a>, <a href="emasculation.html">emasculation</a>, <a href="Encauma.html">Encauma</a>, <a href="Endamage.html">Endamage</a>, <a href="Endamagement.html">Endamagement</a>, <a href="endanger.html">endanger</a>, <a href="enervation.html">enervation</a>, <a href="enfeeblement.html">enfeeblement</a>, <a href="epilation.html">epilation</a>, <a href="epilepsy.html">epilepsy</a>, <a href="equipment%20casualty.html">equipment casualty</a>, <a href="escape.html">escape</a>, <a href="etiolation.html">etiolation</a>, <a href="everlasting.html">everlasting</a>, <a href="everlasting%20flower.html">everlasting flower</a>, <a href="eviction.html">eviction</a>, <a href="evilness.html">evilness</a>, <a href="exchangeable.html">exchangeable</a>, <a href="exhaust.html">exhaust</a>, <a href="exhaustion.html">exhaustion</a>, <a href="Exinanition.html">Exinanition</a>, <a href="expense.html">expense</a>, <a href="exposure.html">exposure</a>, <a href="face%20saver.html">face saver</a>, <a href="face%20saving.html">face saving</a>, <a href="fadeout.html">fadeout</a>, <a href="fading.html">fading</a>, <a href="failure.html">failure</a>, <a href="faint.html">faint</a>, <a href="Fainting.html">Fainting</a>, <a href="faintness.html">faintness</a>, <a href="fair%20hearing.html">fair hearing</a>, <a href="fall.html">fall</a>, <a href="fatigue.html">fatigue</a>, <a href="feather.html">feather</a>, <a href="fellowship.html">fellowship</a>, <a href="feminisation.html">feminisation</a>, <a href="feminization.html">feminization</a>, <a href="fermentation.html">fermentation</a>, <a href="fever.html">fever</a>, <a href="financial%20loss.html">financial loss</a>, <a href="fire%20insurance.html">fire insurance</a>, <a href="Fire%20policy.html">Fire policy</a>, <a href="Fire-policy.html">Fire-policy</a>, <a href="fit.html">fit</a>, <a href="flag.html">flag</a>, <a href="flat.html">flat</a>, <a href="floater.html">floater</a>, <a href="floating%20policy.html">floating policy</a>, <a href="floxuridine.html">floxuridine</a>, <a href="For-.html">For-</a>, <a href="forfeiture.html">forfeiture</a>, <a href="forgetfulness.html">forgetfulness</a>, <a href="forsake.html">forsake</a>, <a href="freeze.html">freeze</a>, <a href="frustrate.html">frustrate</a>, <a href="gain.html">gain</a>, <a href="gambler.html">gambler</a>, <a href="gangrene.html">gangrene</a>, <a href="garget.html">garget</a>, <a href="general%20anaesthetic.html">general anaesthetic</a>, <a href="general%20anesthetic.html">general anesthetic</a>, <a href="General%20average.html">General average</a>, <a href="give.html">give</a>, <a href="gloat.html">gloat</a>, <a href="go%20back.html">go back</a>, <a href="good.html">good</a>, <a href="grave.html">grave</a>, <a href="grief.html">grief</a>, <a href="grief-stricken.html">grief-stricken</a>, <a href="grieving.html">grieving</a>, <a href="guarantee.html">guarantee</a>, <a href="guard.html">guard</a>, <a href="guide%20rope.html">guide rope</a>, <a href="gum.html">gum</a>, <a href="gutlessness.html">gutlessness</a>, <a href="gutsiness.html">gutsiness</a>, <a href="hair.html">hair</a>, <a href="Hard%20hit.html">Hard hit</a>, <a href="hard-of-hearing.html">hard-of-hearing</a>, <a href="harm.html">harm</a>, <a href="harmless.html">harmless</a>, <a href="hazard.html">hazard</a>, <a href="hazardous.html">hazardous</a>, <a href="health%20insurance.html">health insurance</a>, <a href="hearing-impaired.html">hearing-impaired</a>, <a href="heartache.html">heartache</a>, <a href="heartbreak.html">heartbreak</a>, <a href="hedge.html">hedge</a>, <a href="hedger.html">hedger</a>, <a href="Helenium.html">Helenium</a>, <a href="hemianopsia.html">hemianopsia</a>, <a href="Holocaust.html">Holocaust</a>, <a href="Holophotal.html">Holophotal</a>, <a href="humiliate.html">humiliate</a>, <a href="hurt.html">hurt</a>, <a href="hurtful.html">hurtful</a>, <a href="hypovolemic%20shock.html">hypovolemic shock</a>, <a href="Hysteretic%20constant.html">Hysteretic constant</a>, <a href="ignominy.html">ignominy</a>, <a href="ill.html">ill</a>, <a href="imbecility.html">imbecility</a>, <a href="immersion.html">immersion</a>, <a href="imminent%20abortion.html">imminent abortion</a>, <a href="immunity.html">immunity</a>, <a href="impair.html">impair</a>, <a href="impunity.html">impunity</a>, <a href="Incommodity.html">Incommodity</a>, <a href="Inco%C3%B6rdination%20of%20muscular%20movement.html">Incoördination of muscular movement</a>, <a href="indemnification.html">indemnification</a>, <a href="indemnify.html">indemnify</a>, <a href="indemnity.html">indemnity</a>, <a href="individual.html">individual</a>, <a href="infamy.html">infamy</a>, <a href="injury.html">injury</a>, <a href="insecure.html">insecure</a>, <a href="insurable.html">insurable</a>, <a href="insurance.html">insurance</a>, <a href="insurance%20company.html">insurance company</a>, <a href="insure.html">insure</a>, <a href="insured.html">insured</a>, <a href="insured%20person.html">insured person</a>, <a href="Integrant%20particles.html">Integrant particles</a>, <a href="Integrant%20parts.html">Integrant parts</a>, <a href="interchangeable.html">interchangeable</a>, <a href="irrecoverable.html">irrecoverable</a>, <a href="irreparable.html">irreparable</a>, <a href="jaundice.html">jaundice</a>, <a href="Jeopard.html">Jeopard</a>, <a href="jeopardize.html">jeopardize</a>, <a href="Jeopardous.html">Jeopardous</a>, <a href="jeopardy.html">jeopardy</a>, <a href="keen.html">keen</a>, <a href="keep.html">keep</a>, <a href="keep%20up.html">keep up</a>, <a href="lag.html">lag</a>, <a href="law%20of%20Archimedes.html">law of Archimedes</a>, <a href="lay%20on%20the%20line.html">lay on the line</a>, <a href="leader.html">leader</a>, <a href="leak.html">leak</a>, <a href="liquid.html">liquid</a>, <a href="local%20anaesthesia.html">local anaesthesia</a>, <a href="local%20anesthesia.html">local anesthesia</a>, <a href="lose.html">lose</a>, <a href="Losing.html">Losing</a>, <a href="Losingly.html">Losingly</a>, <a href="loss%20leader.html">loss leader</a>, <a href="loss%20of%20consciousness.html">loss of consciousness</a>, <a href="lossless.html">lossless</a>, <a href="Madarosis.html">Madarosis</a>, <a href="magnify.html">magnify</a>, <a href="maim.html">maim</a>, <a href="maintain.html">maintain</a>, <a href="make.html">make</a>, <a href="malabsorption%20syndrome.html">malabsorption syndrome</a>, <a href="margin.html">margin</a>, <a href="memory%20loss.html">memory loss</a>, <a href="metabolic%20acidosis.html">metabolic acidosis</a>, <a href="metabolic%20alkalosis.html">metabolic alkalosis</a>, <a href="miscarriage.html">miscarriage</a>, <a href="miss.html">miss</a>, <a href="Missingly.html">Missingly</a>, <a href="mortal.html">mortal</a>, <a href="mortal%20sin.html">mortal sin</a>, <a href="mortification.html">mortification</a>, <a href="mournful.html">mournful</a>, <a href="mourning.html">mourning</a>, <a href="mummify.html">mummify</a>, <a href="Mutual%20insurance.html">Mutual insurance</a>, <a href="near.html">near</a>, <a href="necrobiosis.html">necrobiosis</a>, <a href="negative%20stimulation.html">negative stimulation</a>, <a href="Niobe.html">Niobe</a>, <a href="nominal%20damages.html">nominal damages</a>, <a href="nonextant.html">nonextant</a>, <a href="nonpayment.html">nonpayment</a>, <a href="nonremittal.html">nonremittal</a>, <a href="notary.html">notary</a>, <a href="Obmutescence.html">Obmutescence</a>, <a href="on.html">on</a>, <a href="operational%20casualty.html">operational casualty</a>, <a href="operational%20damage.html">operational damage</a>, <a href="Osteoplasty.html">Osteoplasty</a>, <a href="out.html">out</a>, <a href="out%20of.html">out of</a>, <a href="oxidation.html">oxidation</a>, <a href="oxidisation.html">oxidisation</a>, <a href="oxidization.html">oxidization</a>, <a href="palsy.html">palsy</a>, <a href="paper%20loss.html">paper loss</a>, <a href="paralysis.html">paralysis</a>, <a href="Particular%20average.html">Particular average</a>, <a href="pass%20out.html">pass out</a>, <a href="peeling.html">peeling</a>, <a href="penalty.html">penalty</a>, <a href="perdition.html">perdition</a>, <a href="performance%20bond.html">performance bond</a>, <a href="peril.html">peril</a>, <a href="persecution.html">persecution</a>, <a href="Philip%20V.html">Philip V</a>, <a href="Phrenoplegia.html">Phrenoplegia</a>, <a href="plain.html">plain</a>, <a href="pluck.html">pluck</a>, <a href="pluckiness.html">pluckiness</a>, <a href="policy.html">policy</a>, <a href="poliosis.html">poliosis</a>, <a href="posttraumatic%20amnesia.html">posttraumatic amnesia</a>, <a href="poverty%20trap.html">poverty trap</a>, <a href="presbyope.html">presbyope</a>, <a href="preservation.html">preservation</a>, <a href="preserve.html">preserve</a>, <a href="profit%20and%20loss.html">profit and loss</a>, <a href="profit%20and%20loss%20account.html">profit and loss account</a>, <a href="prompt.html">prompt</a>, <a href="prompter.html">prompter</a>, <a href="prostration.html">prostration</a>, <a href="protected.html">protected</a>, <a href="protection.html">protection</a>, <a href="protest.html">protest</a>, <a href="pull.html">pull</a>, <a href="puncture.html">puncture</a>, <a href="punish.html">punish</a>, <a href="punished.html">punished</a>, <a href="punishment.html">punishment</a>, <a href="purpura.html">purpura</a>, <a href="put%20on%20the%20line.html">put on the line</a>, <a href="rate.html">rate</a>, <a href="Ratten.html">Ratten</a>, <a href="reassurance.html">reassurance</a>, <a href="recompense.html">recompense</a>, <a href="recoup.html">recoup</a>, <a href="recover.html">recover</a>, <a href="recuperate.html">recuperate</a>, <a href="redress.html">redress</a>, <a href="reducing.html">reducing</a>, <a href="regional%20anaesthesia.html">regional anaesthesia</a>, <a href="regional%20anesthesia.html">regional anesthesia</a>, <a href="regret.html">regret</a>, <a href="regretful.html">regretful</a>, <a href="reimburse.html">reimburse</a>, <a href="relic.html">relic</a>, <a href="Remediless.html">Remediless</a>, <a href="remedy.html">remedy</a>, <a href="remunerate.html">remunerate</a>, <a href="remuneration.html">remuneration</a>, <a href="repair.html">repair</a>, <a href="rescue.html">rescue</a>, <a href="restitution.html">restitution</a>, <a href="retrieve.html">retrieve</a>, <a href="retrograde%20amnesia.html">retrograde amnesia</a>, <a href="risk.html">risk</a>, <a href="risk%20taker.html">risk taker</a>, <a href="Rudder%20chain.html">Rudder chain</a>, <a href="Rudder-chain.html">Rudder-chain</a>, <a href="ruin.html">ruin</a>, <a href="ruination.html">ruination</a>, <a href="sacrifice.html">sacrifice</a>, <a href="safely.html">safely</a>, <a href="safeness.html">safeness</a>, <a href="safety.html">safety</a>, <a href="sag.html">sag</a>, <a href="salt%20depletion.html">salt depletion</a>, <a href="save.html">save</a>, <a href="save-all.html">save-all</a>, <a href="saving.html">saving</a>, <a href="Sea%20risk.html">Sea risk</a>, <a href="Second%20Crusade.html">Second Crusade</a>, <a href="secure.html">secure</a>, <a href="Seventh%20Crusade.html">Seventh Crusade</a>, <a href="shedding.html">shedding</a>, <a href="shipwreck.html">shipwreck</a>, <a href="shrink.html">shrink</a>, <a href="shrinkage.html">shrinkage</a>, <a href="shrivel.html">shrivel</a>, <a href="shrivel%20up.html">shrivel up</a>, <a href="similar.html">similar</a>, <a href="skidder.html">skidder</a>, <a href="sleep.html">sleep</a>, <a href="slider.html">slider</a>, <a href="slipper.html">slipper</a>, <a href="smart.html">smart</a>, <a href="soar.html">soar</a>, <a href="Solatium.html">Solatium</a>, <a href="sorrow.html">sorrow</a>, <a href="sorrowful.html">sorrowful</a>, <a href="sorrowing.html">sorrowing</a>, <a href="sorry.html">sorry</a>, <a href="sought%20after.html">sought after</a>, <a href="Spiritual%20death.html">Spiritual death</a>, <a href="spontaneous%20abortion.html">spontaneous abortion</a>, <a href="stall.html">stall</a>, <a href="standardised.html">standardised</a>, <a href="standardized.html">standardized</a>, <a href="Stern%20board.html">Stern board</a>, <a href="Sternboard.html">Sternboard</a>, <a href="stillbirth.html">stillbirth</a>, <a href="straightway.html">straightway</a>, <a href="suffer.html">suffer</a>, <a href="sufferance.html">sufferance</a>, <a href="sufferer.html">sufferer</a>, <a href="suffering.html">suffering</a>, <a href="surety.html">surety</a>, <a href="surety%20bond.html">surety bond</a>, <a href="survey.html">survey</a>, <a href="suspended%20animation.html">suspended animation</a>, <a href="swag.html">swag</a>, <a href="swoon.html">swoon</a>, <a href="syncopation.html">syncopation</a>, <a href="syncope.html">syncope</a>, <a href="synizesis.html">synizesis</a>, <a href="tactile%20agnosia.html">tactile agnosia</a>, <a href="Thermoan%C3%A6sthesia.html">Thermoanæsthesia</a>, <a href="Thermostable.html">Thermostable</a>, <a href="threat.html">threat</a>, <a href="threatened%20abortion.html">threatened abortion</a>, <a href="thunderous.html">thunderous</a>, <a href="thundery.html">thundery</a>, <a href="Thymus%20body.html">Thymus body</a>, <a href="thymus%20gland.html">thymus gland</a>, <a href="time%20deposit%20account.html">time deposit account</a>, <a href="tiredness.html">tiredness</a>, <a href="To%20bargain%20away.html">To bargain away</a>, <a href="To%20be%20burned%20out.html">To be burned out</a>, <a href="To%20bear%20a%20loss.html">To bear a loss</a>, <a href="to%20hazard.html">to hazard</a>, <a href="To%20hedge%20a%20bet.html">To hedge a bet</a>, <a href="To%20hold%20one%27s%20own.html">To hold one's own</a>, <a href="To%20lose%20ground.html">To lose ground</a>, <a href="To%20pay%20for.html">To pay for</a>, <a href="To%20protest%20a%20bill.html">To protest a bill</a>, <a href="To%20protest%20a%20note.html">To protest a note</a>, <a href="To%20rate%20a%20chronometer.html">To rate a chronometer</a>, <a href="To%20save%20one%27s%20bacon.html">To save one's bacon</a>, <a href="To%20sell%20one%27s%20life%20dearly.html">To sell one's life dearly</a>, <a href="topical%20anaesthesia.html">topical anaesthesia</a>, <a href="topical%20anesthesia.html">topical anesthesia</a>, <a href="torpor.html">torpor</a>, <a href="total.html">total</a>, <a href="tourniquet.html">tourniquet</a>, <a href="tragedy.html">tragedy</a>, <a href="tragic.html">tragic</a>, <a href="transferable.html">transferable</a>, <a href="trespass%20on%20the%20case.html">trespass on the case</a>, <a href="trip.html">trip</a>, <a href="turn%20a%20loss.html">turn a loss</a>, <a href="turnoff.html">turnoff</a>, <a href="ugly.html">ugly</a>, <a href="unassured.html">unassured</a>, <a href="underwrite.html">underwrite</a>, <a href="urge%20incontinence.html">urge incontinence</a>, <a href="Valued-policy%20law.html">Valued-policy law</a>, <a href="venial%20sin.html">venial sin</a>, <a href="venture.html">venture</a>, <a href="Viduation.html">Viduation</a>, <a href="want.html">want</a>, <a href="warrant.html">warrant</a>, <a href="wastage.html">wastage</a>, <a href="waste.html">waste</a>, <a href="weakener.html">weakener</a>, <a href="wean.html">wean</a>, <a href="wear.html">wear</a>, <a href="wear%20and%20tear.html">wear and tear</a>, <a href="weariness.html">weariness</a>, <a href="Weregild.html">Weregild</a>, <a href="whipsaw.html">whipsaw</a>, <a href="wind.html">wind</a>, <a href="wither.html">wither</a>, <a href="Word-blindness.html">Word-blindness</a>, <a href="worse.html">worse</a>, <a href="write%20off.html">write off</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					koss, ooss, poss, liss, lkss, llss, lpss, loas, lows, lods, loxs, lozs, loas, losa, losw, losd, losx, losz, losa
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

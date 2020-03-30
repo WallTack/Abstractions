@@ -1,0 +1,583 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>habit</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/251/2/763.jpg" alt="&quot;His playful habit of pulling out the pegs.&quot;">
+							<div class="caption">"His playful habit of pulling out the pegs."</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">habit</span> <span class="exp">put a habit on</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">(psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition</span> <span class="quot">"owls have nocturnal habits","she had a habit twirling the ends of her hair","long use had hardened him to it"</span></li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">excessive use of drugs</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">a distinctive attire worn by a member of a religious order</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">attire that is typically worn by a horseback rider (especially a woman's attire)</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">an established custom</span> <span class="quot">"it was their habit to dine at 7 every evening"</span></li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">the general form or mode of growth (especially of a plant or crystal)</span> <span class="quot">"a shrub of spreading habit"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Due to eating habits in the USA, one in three children born in the year 2000 have a chance of getting type II diabetes									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Habit</span> <span class="exp">Fixed or established custom; ordinary course of conduct; practice; usage; hence, prominently, the involuntary tendency or aptitude to perform certain actions which is acquired by their frequent repetition; as, <span class="wUex">habit</span> is second nature; also, peculiar ways of acting; characteristic forms of behavior.</span> <span class="wuQuot">"A man of very shy, retired habits ."</span></li><li><span class="term">Habit</span> <span class="exp">Outward appearance; attire; dress; hence, a garment; esp., a closely fitting garment or dress worn by ladies; as, a riding <span class="wUex">habit</span>
+            .</span> <span class="wuQuot">"Costly thy habit as thy purse can buy."</span><span class="wuQuot">"There are, among the statues, several of Venus, in different habits ."</span></li><li><span class="term">Habit</span> <span class="exp">The distinctive clothing worn commonly by nuns or monks; as, in the late 1900's many orders of nuns discarded their <span class="wUex">habits</span> and began to dress as ordinary lay women.</span> <span class="wuQuot">"How use doth breed a habit in a man!"</span><span class="wuQuot">"He who reigns . . . upheld by old repute,<br>
+Consent, or custom"</span></li><li><span class="term">Habit</span> <span class="exp"><span class="wuFld">(Biol)</span> The general appearance and manner of life of a living organism.</span> </li><li><span class="term">Habit</span> <span class="exp">The usual condition or state of a person or thing, either natural or acquired, regarded as something had, possessed, and firmly retained; as, a religious <span class="wUex">habit</span>; his <span class="wUex">habit</span> is morose; elms have a spreading <span class="wUex">habit</span>
+            ; esp., physical temperament or constitution; as, a full <span class="wUex">habit</span> of body.</span> </li><li><span class="term">Habit</span> <span class="exp">To accustom; to habituate.</span> <span class="wuQuot">"Haunt thyself to pity."</span></li><li><span class="term">Habit</span> <span class="exp">To dress; to clothe; to array.</span> <span class="wuQuot">"They habited themselves like those rural deities."</span></li><li><span class="term">Habit</span> <span class="exp">To inhabit.</span> <span class="wuQuot">"In thilke places as they [birds habiten ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Born on November 2, 1718, British politician, John Montagu, the 4th Earl of Sandwich, is credited with naming the 'sandwich.' He developed a habit of eating beef between slice of toast so he could continue to play cards uninterrupted.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">A usual or characteristic state or condition; natural condition, attitude, appearance, or development; customary mode of being.  Specifically— A characteristic or particular physical state or condition: as, a full, lax, or costive habit of body; a man of spare habit.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">A usual or customary mode of action; particularly, a mode of action so established by use as to be entirely natural, involuntary, instinctive, unconscious, uncontrollable, etc.: used especially of the action, whether physical, mental, or moral, of living beings, but also, by extension, of that of inanimate things; hence, in general, custom; usage; also, a natural or more generally an acquired proclivity, disposition, or tendency to act in a certain way.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">In logic, a character which can be separated from its subject, without the destruction of the latter.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">External dress; particularly, the costume or dress regularly worn, or appropriate for a particular occasion, use, or vocation.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">A costume worn by women when riding on horseback; a riding-habit. This, until a recent date (perhaps 1870), had a very long full skirt of cloth which it was customary to pin or otherwise fasten below the feet of the wearer when mounted. The habit used at present is much shorter, and close-fitting. The edge or hem of the skirt is sometimes loaded.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">The grade marked by this dress. Entering this grade involves almost entire seclusion from earthly things, and constant devotion to religious exercises. Most Oriental monks do not assume the great habit except at the approach of death, the greater number being vowed to the little habit only.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">In Scotland, general report: as, by habit and repute a thief.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">The grade marked by this dress. Those who wish to enter this grade have first to pass through the rhasophoria or novitiate. See great habit.</span> </li><li><span class="term">habit</span> <span class="exp">To dwell; abide; reside.</span> </li><li><span class="term">habit</span> <span class="exp">To dwell in; inhabit.</span> </li><li><span class="term">habit</span> <span class="exp">To fix by custom; accustom; habituate.</span> </li><li><span class="term">habit</span> <span class="exp">To dress; clothe; array.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">In petrography, the general appearance of a rock given by the texture and the mode, that is, the mineral composition. Rocks may have the same habit and not agree closely in composition.</span> </li><li><span class="tSpeech">n</span> <span class="term">habit</span> <span class="exp">A small piece of linen attached to a woman's collar at the back, designed to go under the neck of the dress and keep the collar in place.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										New York City has the most skyscrapers of any city in the world with 140. Chicago is a distant second at 68. The term "skyscraper" technically describes all habitable buildings with a height of more than 500 ft (152m).
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Habit</span> <span class="exp"><span class="itl">hab′it</span> ordinary course of conduct: tendency to perform certain actions: general condition or tendency, as of the body: practice: custom: outward appearance: dress, esp. any official or customary costume: a garment, esp. a tight-fitting dress, with a skirt, worn by ladies on horseback</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Habit</span> <span class="exp">to dress:—<span class="itl">pr.p.</span> hab′iting; <span class="itl">pa.p.</span> hab′ited</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ed Foreman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Ed Foreman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Winners are those people who make a habit of doing the things losers are uncomfortable doing.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Duke of Wellington Arthur Wellesley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Duke of Wellington Arthur Wellesley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Habit is ten times nature.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">St. Augustine</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/St.%20Augustine.jpg" alt="St.%20Augustine">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Habit, if not resisted, soon becomes necessity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Frederick Book</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William Frederick Book">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Never permit failure to become a habit.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Vince Lombardi</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Vince%20Lombardi.jpg" alt="Vince%20Lombardi">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Once you learn to quit, it becomes a habit.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mary Martin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Mary Martin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Stop the habit of wishful thinking and start the habit of thoughtful wishes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Kick a habit</span> - If you kick a habit, you stop doing it.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">habit</span>, <span class="wUets">abit</span>, F. <span class="wUets">habit</span>, fr. L. <span class="wUets">habitus</span>, state, appearance, dress, fr. <span class="wUets">habere</span>, to have, be in a condition; prob. akin to E. <span class="wUets">have.</span>, See <span class="wUer">Have</span>, and cf. <span class="wUer">Able</span> <span class="wUer">Binnacle</span> <span class="wUer">Debt</span> <span class="wUer">Due</span> <span class="wUer">Exhibit</span> <span class="wUer">Malady.</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						These birds have another habit that is worth mentioning.
+					</div>
+					<div class="uAuthor">
+						"Our Bird Comrades" by <span>Leander S. (Leander Sylvester) Keyser</span>					</div>
+										<div class="usage">
+						The habit of storing feces for twenty-four hours ought to concur and keep pace with a habit of eating one meal in the same period.
+					</div>
+					<div class="uAuthor">
+						"Intestinal Ills" by <span>Alcinous Burton Jamison</span>					</div>
+										<div class="usage">
+						There are other causes, such as late hours, bad habits, improper food or irregular meals.
+					</div>
+					<div class="uAuthor">
+						"Alcohol: A Dangerous and Unnecessary Medicine, How and Why" by <span>Martha M. Allen</span>					</div>
+										<div class="usage">
+						The habit gains strength, till, at last, the daily drinker is swept away by the first adverse gale.
+					</div>
+					<div class="uAuthor">
+						"Select Temperance Tracts" by <span>American Tract Society</span>					</div>
+										<div class="usage">
+						Efforts should be continued until the habit is established.
+					</div>
+					<div class="uAuthor">
+						"Popular Education" by <span>Ira Mayhew</span>					</div>
+										<div class="usage">
+						From an early age he had been in the habit of amusing himself by writing.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<div class="usage">
+						If you waken unrefreshed, I should want to inquire into your habits of life.
+					</div>
+					<div class="uAuthor">
+						"What a Young Woman Ought to Know" by <span>Mary Wood-Allen</span>					</div>
+										<div class="usage">
+						The existing habits of the ape tribe lead us to the conclusion that the ancestral animal may have soon begun to seek support from upper limbs.
+					</div>
+					<div class="uAuthor">
+						"Man And His Ancestor" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						In this sense the proverb is significant that habit is called a second nature, and that man is a creature of habit.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						That is, it must serve to correct bad and wandering habits of thinking and to cultivate good and consecutive habits.
+					</div>
+					<div class="uAuthor">
+						"A Plea for the Criminal" by <span>James Leslie Allan Kayll</span>					</div>
+										<div class="usage">
+						To those who acquire habits of observation, every thing that is to be seen or heard, becomes a source of amusement.
+					</div>
+					<div class="uAuthor">
+						"Practical Education, Volume I" by <span>Maria Edgeworth</span>					</div>
+										<div class="usage">
+						Periodical habits are likewise transmitted, but generally, as it would appear, with little force.
+					</div>
+					<div class="uAuthor">
+						"The Variation of Animals and Plants Under Domestication, Volume II (of 2)" by <span>Charles Darwin</span>					</div>
+										<div class="usage">
+						Its favorite habit is about stumps.
+					</div>
+					<div class="uAuthor">
+						"The Mushroom, Edible and Otherwise" by <span>M. E. Hard</span>					</div>
+										<div class="usage">
+						Lydia's habit of speech demanded these isolating calms.
+					</div>
+					<div class="uAuthor">
+						"The Prisoner" by <span>Alice Brown</span>					</div>
+										<div class="usage">
+						The English sparrow was once probably quite as migratory as any of the rest of these, but a great change has come over his habits.
+					</div>
+					<div class="uAuthor">
+						"The Meaning of Evolution" by <span>Samuel Christian Schmucker</span>					</div>
+										<div class="usage">
+						Would {xii} you like to form habits that will surely make your success in life?
+					</div>
+					<div class="uAuthor">
+						"Boy Scouts Handbook" by <span>Boy Scouts of America</span>					</div>
+										<div class="usage">
+						Adaptation comes through the habit-forming experiences of stimulus and response.
+					</div>
+					<div class="uAuthor">
+						"College Teaching" by <span>Paul Klapper</span>					</div>
+										<div class="usage">
+						Similarly, criticism is not a natural habit; it must be inculcated, and only becomes organic by dint of continued practice.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Study of History" by <span>Charles V. Langlois</span>					</div>
+										<div class="usage">
+						Mention some stimulus to which you have a habit of attention, and one to which you have a habit of inattention.
+					</div>
+					<div class="uAuthor">
+						"Psychology" by <span>Robert S. Woodworth</span>					</div>
+										<div class="usage">
+						If possible the student should study the living animal and observe its habits.
+					</div>
+					<div class="uAuthor">
+						"Elementary Zoology, Second Edition" by <span>Vernon L. Kellogg</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							O habitants of homes of clay,<br>
+Why lift ye such a swelling eye,<br>
+Ye are but as the beasts that die,<br>
+What do ye boast of more than they?
+							<div class="poet">"The Dwellers In Clay" by <span>Shlomo ibn Gabirol</span></div>
+						</div>
+											<div class="poemQuote">
+							Old Nick, who taught the village-school,<br>
+Wedded a maid of homespun habit;<br>
+He was as stubborn as a mule,<br>
+She was as playful as a rabbit.
+							<div class="poet">"The Retort." by <span>George Pope Morris</span></div>
+						</div>
+											<div class="poemQuote">
+							I love thy habitation, Lord,<br>
+The temple where thine honors dwell;<br>
+There shall I hear thine holy word,<br>
+And there thy works of wonder tell.
+							<div class="poet">"Psalm 26" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							What husky habitations seem<br>
+These comfortable sayings! they fell,<br>
+In some rich year become a dream:-<br>
+So cries my heart, the infidel! . . .
+							<div class="poet">"Lines To A Friend Visiting America" by <span>George Meredith</span></div>
+						</div>
+											<div class="poemQuote">
+							Thine be the quiet habitations,<br>
+Thine the green pastures, blossom-sown,<br>
+And smiles of saintly recognition,<br>
+As sweet and tender as thy own.
+							<div class="poet">"A Memorial" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							Aw prize thee just for what tha art;--<br>
+Net for thi brass, thi clooas, or station;<br>
+But just becoss aw know thi heart,<br>
+Finds honest worth an habitation.
+							<div class="poet">"Gooid" by <span>John Hartley</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This review contains suggestive language and encourages poor dining habits.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ibj.com/dining-h2o-sushi-offers-titillating-surprises/PARAMS/article/26724" target="_blank" rel="external nofollow">ibj.com</a>
+					</div>
+										<div class="usage">
+						'Sister Act' not exactly habit-forming .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newsday.com/entertainment/theater/sister-act-not-exactly-habit-forming-1.2828991" target="_blank" rel="external nofollow">newsday.com</a>
+					</div>
+										<div class="usage">
+						Latest Pier One offering ' habit-forming ' by Carey James Staff Writer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://homernews.com/stories/071102/ent_071102art1420001.shtml" target="_blank" rel="external nofollow">homernews.com</a>
+					</div>
+										<div class="usage">
+						New Mars theory casts doubt on planet's habitability .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/science/la-sci-mars-water-20120910,0,4424250.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Warranty of Habitability took 50 years to reach the law books, but will it work.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.coloradostatesman.com/kopel/991158-warranty-habitability-took-50-years-reach-law-books-will-it-work" target="_blank" rel="external nofollow">coloradostatesman.com</a>
+					</div>
+										<div class="usage">
+						The New Planetary Habitability Index.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.popsci.com/science/article/2012-04/new-planetary-habitability-index" target="_blank" rel="external nofollow">popsci.com</a>
+					</div>
+										<div class="usage">
+						Planetary Habitability Index Katie Peek.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.popsci.com/science/article/2012-04/new-planetary-habitability-index" target="_blank" rel="external nofollow">popsci.com</a>
+					</div>
+										<div class="usage">
+						Astronomers often estimate the habitability of extrasolar planets and moons based mostly on their temperatures and distance from the nearest star.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.popsci.com/science/article/2012-04/new-planetary-habitability-index" target="_blank" rel="external nofollow">popsci.com</a>
+					</div>
+										<div class="usage">
+						Newfound 'super-Earth' could be habitable for life.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Science/2012/1108/Newfound-super-Earth-could-be-habitable-for-life" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Astronomers Discover Potentially Habitable 'Super Earth' 42 Light Years Away.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/news/articles/2012/11/08/astronomers-discover-potentially-habitable-super-earth-42-light-years-away" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						The term, however, does not have anything to do with the potential habitability of these planets—so you can put the terraforming gear back in the closet for now.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/science/121108/super-earth-could-potentially-be-habitable-and-mere-42-light-years-away" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						Fresh methods help scientists spot super-Earth in habitable zone.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/science/sciencenow/la-sci-sn-super-earth-exoplanet-habitable-zone-20121108,0,3974074.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						An artist's representation of a super-Earth planet HD 40307-g in the habitable zone around HD 40307, 42 light years away.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/science/sciencenow/la-sci-sn-super-earth-exoplanet-habitable-zone-20121108,0,3974074.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						 Habitable zone 'Super Earth' candidate planet detected.
+					</div>
+					<div class="uAuthor">
+						<a href="http://usatoday.com/story/tech/sciencefair/2012/11/07/habitable-super-earth/1690169/" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<div class="usage">
+						"It clearly does satisfy the agreed-upon necessary condition for habitability ," Vogt says.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usatoday.com/tech/science/columnist/vergano/story/2012-07-21/goldilocks-planet-debate/56381428/1" target="_blank" rel="external nofollow">usatoday.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Applying Habits of Mind to Teachers Basic habits of mind. The table below shows examples of how teachers can apply the six basic habits of mind to their own instructional practice. Note that the examples apply not only to teachers interactions with students but also to their interactions with colleagues. 
+					</div>
+					<div class="uAuthor">
+						ASK-IT/A2L: Assessing student knowlede with instructional technology
+					</div>
+										<div class="usage">
+						Basic habits of mind. The table below shows examples of how students can apply the basic habits of mind to their learning. 
+					</div>
+					<div class="uAuthor">
+						ASK-IT/A2L: Assessing student knowlede with instructional technology
+					</div>
+										<div class="usage">
+						Advanced habits of mind. The following are examples of how students can apply the advanced habits of mind to their learning, thinking, and communication. 
+					</div>
+					<div class="uAuthor">
+						ASK-IT/A2L: Assessing student knowlede with instructional technology
+					</div>
+										<div class="usage">
+						The MEarth Pro ject is a survey to photometrically monitor approximately 2000 nearby M dwarfs, searching for transits by planets that could be habitable Super-Earths (Irwin et al. 2009a). 
+					</div>
+					<div class="uAuthor">
+						Searching for Planets During Predicted Mesolensing Events: II. PLAN-IT: An Observing Program and its Application to VB 10
+					</div>
+										<div class="usage">
+						For a 0.25M⊙ star with a planet in an orbit of 0.13 AU, corresponding roughly to the center of the habitable zone (Di Stefano &amp; Night 2008), this probability is roughly equal to 0.009 . 
+					</div>
+					<div class="uAuthor">
+						Searching for Planets During Predicted Mesolensing Events: II. PLAN-IT: An Observing Program and its Application to VB 10
+					</div>
+										<div class="usage">
+						The test persons’ reading habits are predominated by “power-browsing”; the rapid looking up of information (n=21). 18 out of the group stated that they do not use ebooks for intensive onscreen reading, indicating that important parts of texts were printed (n=18). 
+					</div>
+					<div class="uAuthor">
+						Are e-readers suitable tools for scholarly work?
+					</div>
+										<div class="usage">
+						Menou &amp; Tabachnik (2003) modeled terrestrial planets as test particles, and investigated dynamical habitability of these planets in 85 then-known exoplanetary systems. 
+					</div>
+					<div class="uAuthor">
+						Effects of Dynamical Evolution of Giant Planets on Survival of Terrestrial Planets
+					</div>
+										<div class="usage">
+						They found that about 25% of their samples could host habitable, Earth-like planets. 
+					</div>
+					<div class="uAuthor">
+						Effects of Dynamical Evolution of Giant Planets on Survival of Terrestrial Planets
+					</div>
+										<div class="usage">
+						Moreover, even if the probability to produce the universes with different φ were entirely φ-independent, one could argue that the main volume of the habitable parts of the universe is contained in the bubbles with Ω = 1, since the interior of each such bubble inﬂated longer. 
+					</div>
+					<div class="uAuthor">
+						Recent Progress in Inflationary Cosmology
+					</div>
+										<div class="usage">
+						The growth of the twinned nucleus is not isotropic, but along habit planes. 
+					</div>
+					<div class="uAuthor">
+						Arrested States of Solids
+					</div>
+										<div class="usage">
+						In this respect, consideration needs to be given as to what critical mass of lunar habitants is necessary to even suggest construction, maintenance, and operation of a lunar telescope. 
+					</div>
+					<div class="uAuthor">
+						Does the Lunar Surface Still Offer Value As a Site for Astronomical Observatories?
+					</div>
+										<div class="usage">
+						Thus the conclusions in the paper are probably not very reliable. “Snow crystal habit changes explained by layer nucleation”, by Jon Nelson and Charles Knight, J. 
+					</div>
+					<div class="uAuthor">
+						A Critical Look at Ice Crystal Growth Data
+					</div>
+										<div class="usage">
+						The growth mechanism and the habit change of ice crystals growing from the vapor phase,” by T. 
+					</div>
+					<div class="uAuthor">
+						A Critical Look at Ice Crystal Growth Data
+					</div>
+										<div class="usage">
+						It remains possible that diffusion effects alone may have produced the growth rates presented in this paper. “Growth rates and habits of ice crystals grown from the vapor phase,” by W. 
+					</div>
+					<div class="uAuthor">
+						A Critical Look at Ice Crystal Growth Data
+					</div>
+										<div class="usage">
+						The growth mechanism and the habit change of ice crystals growing from the vapor phase. J. 
+					</div>
+					<div class="uAuthor">
+						A Critical Look at Ice Crystal Growth Data
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="(psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition"><a href="use.html">use</a>, </div><div class="synGroup" title="excessive use of drugs"><a href="substance%20abuse.html">substance abuse</a>, <a href="drug%20abuse.html">drug abuse</a>, </div><div class="synGroup" title="attire that is typically worn by a horseback rider (especially a woman's attire)"><a href="riding%20habit.html">riding habit</a>, </div><div class="synGroup" title="an established custom"><a href="wont.html">wont</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abuse.html">abuse</a>, <a href="apparel.html">apparel</a>, <a href="attire.html">attire</a>, <a href="clothe.html">clothe</a>, <a href="custom.html">custom</a>, <a href="development.html">development</a>, <a href="dress.html">dress</a>, <a href="enclothe.html">enclothe</a>, <a href="fit%20out.html">fit out</a>, <a href="garb.html">garb</a>, <a href="garment.html">garment</a>, <a href="growing.html">growing</a>, <a href="growth.html">growth</a>, <a href="habilitate.html">habilitate</a>, <a href="maturation.html">maturation</a>, <a href="misuse.html">misuse</a>, <a href="ontogenesis.html">ontogenesis</a>, <a href="ontogeny.html">ontogeny</a>, <a href="raiment.html">raiment</a>, <a href="tog.html">tog</a>, <a href="tradition.html">tradition</a>, <a href="usage.html">usage</a>, <a href="usance.html">usance</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="alcohol%20abuse.html">alcohol abuse</a>, <a href="alcoholic%20abuse.html">alcoholic abuse</a>, <a href="alcoholism%20abuse.html">alcoholism abuse</a>, <a href="cleanliness.html">cleanliness</a>, <a href="frock.html">frock</a>, <a href="monastic%20habit.html">monastic habit</a>, <a href="nun%27s%20habit.html">nun's habit</a>, <a href="ritual.html">ritual</a>, <a href="second%20nature.html">second nature</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="habitual.html">habitual</a>, <a href="habituate.html">habituate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abbe.html">abbe</a>, <a href="Abit.html">Abit</a>, <a href="absentee.html">absentee</a>, <a href="absenteeism.html">absenteeism</a>, <a href="abstemiousness.html">abstemiousness</a>, <a href="Abstinency.html">Abstinency</a>, <a href="accommodation.html">accommodation</a>, <a href="Accustomably.html">Accustomably</a>, <a href="accustomed.html">accustomed</a>, <a href="addict.html">addict</a>, <a href="addicted.html">addicted</a>, <a href="addiction.html">addiction</a>, <a href="advertency.html">advertency</a>, <a href="Agouara.html">Agouara</a>, <a href="airy.html">airy</a>, <a href="albatross.html">albatross</a>, <a href="aloe.html">aloe</a>, <a href="Alytes%20cisternasi.html">Alytes cisternasi</a>, <a href="amateurism.html">amateurism</a>, <a href="Anchoret.html">Anchoret</a>, <a href="anecdotist.html">anecdotist</a>, <a href="ani.html">ani</a>, <a href="Anthropinism.html">Anthropinism</a>, <a href="Apatura.html">Apatura</a>, <a href="Apheliotropism.html">Apheliotropism</a>, <a href="apoplectic.html">apoplectic</a>, <a href="Apoplectical.html">Apoplectical</a>, <a href="apple.html">apple</a>, <a href="apprehensive.html">apprehensive</a>, <a href="arrogance.html">arrogance</a>, <a href="associate.html">associate</a>, <a href="Assuetude.html">Assuetude</a>, <a href="Automorphism.html">Automorphism</a>, <a href="avocet.html">avocet</a>, <a href="Avoset.html">Avoset</a>, <a href="Bachelorism.html">Bachelorism</a>, <a href="Ballooning%20spider.html">Ballooning spider</a>, <a href="banded%20rudderfish.html">banded rudderfish</a>, <a href="banter.html">banter</a>, <a href="basking%20shark.html">basking shark</a>, <a href="bee.html">bee</a>, <a href="Bejuco.html">Bejuco</a>, <a href="Benedict.html">Benedict</a>, <a href="Betula.html">Betula</a>, <a href="Bibacity.html">Bibacity</a>, <a href="Bicyclism.html">Bicyclism</a>, <a href="bindweed.html">bindweed</a>, <a href="bite.html">bite</a>, <a href="black%20bryony.html">black bryony</a>, <a href="Black-friar.html">Black-friar</a>, <a href="bocconia.html">bocconia</a>, <a href="Bonasa.html">Bonasa</a>, <a href="borer.html">borer</a>, <a href="bottle.html">bottle</a>, <a href="Bower-bird.html">Bower-bird</a>, <a href="box.html">box</a>, <a href="break.html">break</a>, <a href="broom.html">broom</a>, <a href="Brunswick.html">Brunswick</a>, <a href="bug.html">bug</a>, <a href="bulimia.html">bulimia</a>, <a href="Bulimy.html">Bulimy</a>, <a href="Buller.html">Buller</a>, <a href="Bury%20the%20hatchet.html">Bury the hatchet</a>, <a href="Burying%20beetle.html">Burying beetle</a>, <a href="butcher%20bird.html">butcher bird</a>, <a href="butcher-bird.html">butcher-bird</a>, <a href="butcherbird.html">butcherbird</a>, <a href="butt.html">butt</a>, <a href="By%20a%20long%20chalk.html">By a long chalk</a>, <a href="Cacalia.html">Cacalia</a>, <a href="cachexy.html">cachexy</a>, <a href="cacoethes.html">cacoethes</a>, <a href="calculation.html">calculation</a>, <a href="calliandra.html">calliandra</a>, <a href="canonical.html">canonical</a>, <a href="caprice.html">caprice</a>, <a href="Carmelite.html">Carmelite</a>, <a href="Carpintero.html">Carpintero</a>, <a href="Carthusian.html">Carthusian</a>, <a href="catalpa.html">catalpa</a>, <a href="Catastasis.html">Catastasis</a>, <a href="category.html">category</a>, <a href="cestoid.html">cestoid</a>, <a href="Cetacea.html">Cetacea</a>, <a href="Ceterach.html">Ceterach</a>, <a href="Chafer.html">Chafer</a>, <a href="chain.html">chain</a>, <a href="chameleon.html">chameleon</a>, <a href="Chanting%20falcon.html">Chanting falcon</a>, <a href="character.html">character</a>, <a href="Chase.html">Chase</a>, <a href="Chatteration.html">Chatteration</a>, <a href="chattering.html">chattering</a>, <a href="chewer.html">chewer</a>, <a href="Chloralism.html">Chloralism</a>, <a href="Chorizema.html">Chorizema</a>, <a href="Circler.html">Circler</a>, <a href="Clay-eater.html">Clay-eater</a>, <a href="cleanliness.html">cleanliness</a>, <a href="close.html">close</a>, <a href="closet.html">closet</a>, <a href="coat.html">coat</a>, <a href="coca.html">coca</a>, <a href="Cocainism.html">Cocainism</a>, <a href="cocktail.html">cocktail</a>, <a href="collation.html">collation</a>, <a href="collection.html">collection</a>, <a href="commelina.html">commelina</a>, <a href="complaining.html">complaining</a>, <a href="concretism.html">concretism</a>, <a href="condition.html">condition</a>, <a href="Connutritious.html">Connutritious</a>, <a href="conservatism.html">conservatism</a>, <a href="consuetude.html">consuetude</a>, <a href="contemplative.html">contemplative</a>, <a href="contract.html">contract</a>, <a href="conventual.html">conventual</a>, <a href="conversance.html">conversance</a>, <a href="Convolvulaceae.html">Convolvulaceae</a>, <a href="copperhead.html">copperhead</a>, <a href="coprophagy.html">coprophagy</a>, <a href="costly.html">costly</a>, <a href="costume.html">costume</a>, <a href="coterie.html">coterie</a>, <a href="cowpea.html">cowpea</a>, <a href="Crib-biter.html">Crib-biter</a>, <a href="Crib-biting.html">Crib-biting</a>, <a href="Cribber.html">Cribber</a>, <a href="Cribbing.html">Cribbing</a>, <a href="crime.html">crime</a>, <a href="crotchet.html">crotchet</a>, <a href="cuckoo.html">cuckoo</a>, <a href="cure.html">cure</a>, <a href="Dacrydium%20colensoi.html">Dacrydium colensoi</a>, <a href="deceptiveness.html">deceptiveness</a>, <a href="declare.html">declare</a>, <a href="degrade.html">degrade</a>, <a href="dendrobium.html">dendrobium</a>, <a href="Dentiloquy.html">Dentiloquy</a>, <a href="dependance.html">dependance</a>, <a href="dependence.html">dependence</a>, <a href="dependency.html">dependency</a>, <a href="desuetude.html">desuetude</a>, <a href="diathesis.html">diathesis</a>, <a href="dictation.html">dictation</a>, <a href="digit.html">digit</a>, <a href="Diner-out.html">Diner-out</a>, <a href="Dipladenia.html">Dipladenia</a>, <a href="diptych.html">diptych</a>, <a href="Disaccustom.html">Disaccustom</a>, <a href="discipline.html">discipline</a>, <a href="discontinue.html">discontinue</a>, <a href="disposition.html">disposition</a>, <a href="Diswont.html">Diswont</a>, <a href="dolophine%20hydrochloride.html">dolophine hydrochloride</a>, <a href="domesticity.html">domesticity</a>, <a href="Dominican.html">Dominican</a>, <a href="Dowdy.html">Dowdy</a>, <a href="dracaena.html">dracaena</a>, <a href="Dreamery.html">Dreamery</a>, <a href="dress.html">dress</a>, <a href="dropper.html">dropper</a>, <a href="drug.html">drug</a>, <a href="drummer.html">drummer</a>, <a href="drunkard.html">drunkard</a>, <a href="drunkenness.html">drunkenness</a>, <a href="Duyker.html">Duyker</a>, <a href="dyscrasia.html">dyscrasia</a>, <a href="Dysthesia.html">Dysthesia</a>, <a href="Eaves%20swallow.html">Eaves swallow</a>, <a href="Eavesdropping.html">Eavesdropping</a>, <a href="Echinops.html">Echinops</a>, <a href="egoism.html">egoism</a>, <a href="egotism.html">egotism</a>, <a href="elater.html">elater</a>, <a href="emotionalism.html">emotionalism</a>, <a href="energy.html">energy</a>, <a href="Entophyte.html">Entophyte</a>, <a href="Entophytic.html">Entophytic</a>, <a href="Ephod.html">Ephod</a>, <a href="Epidendrum.html">Epidendrum</a>, <a href="episcia.html">episcia</a>, <a href="Evectics.html">Evectics</a>, <a href="Facies.html">Facies</a>, <a href="faineance.html">faineance</a>, <a href="Falcatifolium.html">Falcatifolium</a>, <a href="family%20Convolvulaceae.html">family Convolvulaceae</a>, <a href="Fibbery.html">Fibbery</a>, <a href="fiddler.html">fiddler</a>, <a href="Fierasfer.html">Fierasfer</a>, <a href="fisher.html">fisher</a>, <a href="fixer.html">fixer</a>, <a href="Fly-catching.html">Fly-catching</a>, <a href="follower.html">follower</a>, <a href="foolery.html">foolery</a>, <a href="Franciscan.html">Franciscan</a>, <a href="Free-thought.html">Free-thought</a>, <a href="freethinking.html">freethinking</a>, <a href="freeze.html">freeze</a>, <a href="Frequentage.html">Frequentage</a>, <a href="Frequentation.html">Frequentation</a>, <a href="frivolity.html">frivolity</a>, <a href="frock.html">frock</a>, <a href="Froggy.html">Froggy</a>, <a href="Frutescent.html">Frutescent</a>, <a href="Fucivorous.html">Fucivorous</a>, <a href="galago.html">galago</a>, <a href="Galeopithecus.html">Galeopithecus</a>, <a href="gateway%20drug.html">gateway drug</a>, <a href="gear.html">gear</a>, <a href="Gelechia.html">Gelechia</a>, <a href="general.html">general</a>, <a href="genus%20Commelina.html">genus Commelina</a>, <a href="genus%20Falcatifolium.html">genus Falcatifolium</a>, <a href="genus%20Halocarpus.html">genus Halocarpus</a>, <a href="genus%20Minuartia.html">genus Minuartia</a>, <a href="genus%20Salvia.html">genus Salvia</a>, <a href="Geophagism.html">Geophagism</a>, <a href="gingko.html">gingko</a>, <a href="Gormandising.html">Gormandising</a>, <a href="Gownman.html">Gownman</a>, <a href="Gownsman.html">Gownsman</a>, <a href="gravedigger.html">gravedigger</a>, <a href="great%20millet.html">great millet</a>, <a href="Gressorial.html">Gressorial</a>, <a href="grevillea.html">grevillea</a>, <a href="Grey%20Friar.html">Grey Friar</a>, <a href="grunter.html">grunter</a>, <a href="guimpe.html">guimpe</a>, <a href="H.html">H</a>, <a href="habited.html">habited</a>, <a href="habitual.html">habitual</a>, <a href="habitually.html">habitually</a>, <a href="habituate.html">habituate</a>, <a href="habituation.html">habituation</a>, <a href="habitude.html">habitude</a>, <a href="habitus.html">habitus</a>, <a href="hairball.html">hairball</a>, <a href="Halocarpus.html">Halocarpus</a>, <a href="hank.html">hank</a>, <a href="Hardhead.html">Hardhead</a>, <a href="hare.html">hare</a>, <a href="Harfang.html">Harfang</a>, <a href="haunt.html">haunt</a>, <a href="hectic.html">hectic</a>, <a href="Hectical.html">Hectical</a>, <a href="heed.html">heed</a>, <a href="hermit.html">hermit</a>, <a href="Hermit-crab.html">Hermit-crab</a>, <a href="heterogenesis.html">heterogenesis</a>, <a href="hiddenite.html">hiddenite</a>, <a href="Hill%20partridge.html">Hill partridge</a>, <a href="Homoplasmy.html">Homoplasmy</a>, <a href="honey%20guide.html">honey guide</a>, <a href="hook.html">hook</a>, <a href="horizontal.html">horizontal</a>, <a href="hornbill.html">hornbill</a>, <a href="hornet.html">hornet</a>, <a href="huff.html">huff</a>, <a href="humming%20bird.html">humming bird</a>, <a href="hummingbird.html">hummingbird</a>, <a href="Hydrosaurus.html">Hydrosaurus</a>, <a href="Hydrotropism.html">Hydrotropism</a>, <a href="idealism.html">idealism</a>, <a href="idolization.html">idolization</a>, <a href="Imitancy.html">Imitancy</a>, <a href="inattentive.html">inattentive</a>, <a href="individuality.html">individuality</a>, <a href="inference.html">inference</a>, <a href="informant.html">informant</a>, <a href="Insectivora.html">Insectivora</a>, <a href="institute.html">institute</a>, <a href="institution.html">institution</a>, <a href="Insuetude.html">Insuetude</a>, <a href="intellect.html">intellect</a>, <a href="Inurement.html">Inurement</a>, <a href="Inveteracy.html">Inveteracy</a>, <a href="inveterate.html">inveterate</a>, <a href="Irreflective.html">Irreflective</a>, <a href="Itineracy.html">Itineracy</a>, <a href="Jessamy.html">Jessamy</a>, <a href="Joe%20Millerism.html">Joe Millerism</a>, <a href="jog%20trot.html">jog trot</a>, <a href="joint.html">joint</a>, <a href="Joseph.html">Joseph</a>, <a href="kaffir.html">kaffir</a>, <a href="kaffir%20corn.html">kaffir corn</a>, <a href="kafir%20corn.html">kafir corn</a>, <a href="Kagu.html">Kagu</a>, <a href="kea.html">kea</a>, <a href="kestrel.html">kestrel</a>, <a href="kick.html">kick</a>, <a href="kidney.html">kidney</a>, <a href="kingfisher.html">kingfisher</a>, <a href="Kirumbo.html">Kirumbo</a>, <a href="knavishness.html">knavishness</a>, <a href="knotgrass.html">knotgrass</a>, <a href="lammergeier.html">lammergeier</a>, <a href="Lammergeir.html">Lammergeir</a>, <a href="lammergeyer.html">lammergeyer</a>, <a href="Laugh%20one%20out%20of.html">Laugh one out of</a>, <a href="lay.html">lay</a>, <a href="Lenitude.html">Lenitude</a>, <a href="Leucophlegmacy.html">Leucophlegmacy</a>, <a href="Leucophlegmatic.html">Leucophlegmatic</a>, <a href="Lexiphanicism.html">Lexiphanicism</a>, <a href="liana.html">liana</a>, <a href="Liane.html">Liane</a>, <a href="lisp.html">lisp</a>, <a href="logical.html">logical</a>, <a href="loose.html">loose</a>, <a href="loquacity.html">loquacity</a>, <a href="lying.html">lying</a>, <a href="magnanimity.html">magnanimity</a>, <a href="malapropism.html">malapropism</a>, <a href="man-eater.html">man-eater</a>, <a href="mangrove.html">mangrove</a>, <a href="manna.html">manna</a>, <a href="manner.html">manner</a>, <a href="massasauga.html">massasauga</a>, <a href="Matweed.html">Matweed</a>, <a href="meal.html">meal</a>, <a href="mechanic.html">mechanic</a>, <a href="mechanical.html">mechanical</a>, <a href="mechanically.html">mechanically</a>, <a href="meddling.html">meddling</a>, <a href="medieval.html">medieval</a>, <a href="mendacity.html">mendacity</a>, <a href="Merycism.html">Merycism</a>, <a href="methadon.html">methadon</a>, <a href="methadone.html">methadone</a>, <a href="methadone%20hydrochloride.html">methadone hydrochloride</a>, <a href="metronome.html">metronome</a>, <a href="Micromeria.html">Micromeria</a>, <a href="midwife%20toad.html">midwife toad</a>, <a href="Minuartia.html">Minuartia</a>, <a href="misanthropy.html">misanthropy</a>, <a href="mistletoe.html">mistletoe</a>, <a href="modernism.html">modernism</a>, <a href="Molothrus.html">Molothrus</a>, <a href="monastic%20habit.html">monastic habit</a>, <a href="monogamy.html">monogamy</a>, <a href="Monology.html">Monology</a>, <a href="Monomorium.html">Monomorium</a>, <a href="moralism.html">moralism</a>, <a href="Moralizer.html">Moralizer</a>, <a href="morning-glory%20family.html">morning-glory family</a>, <a href="morphia.html">morphia</a>, <a href="morphine.html">morphine</a>, <a href="Motatorious.html">Motatorious</a>, <a href="mother-of-thousands.html">mother-of-thousands</a>, <a href="motley.html">motley</a>, <a href="mourner.html">mourner</a>, <a href="mullet.html">mullet</a>, <a href="mutism.html">mutism</a>, <a href="Nail%20to%20the%20counter.html">Nail to the counter</a>, <a href="Natatory.html">Natatory</a>, <a href="naturalize.html">naturalize</a>, <a href="naturally.html">naturally</a>, <a href="necessity.html">necessity</a>, <a href="negligence.html">negligence</a>, <a href="negligent.html">negligent</a>, <a href="new.html">new</a>, <a href="nicotine.html">nicotine</a>, <a href="Night-heron.html">Night-heron</a>, <a href="nocturnal.html">nocturnal</a>, <a href="nonintervention.html">nonintervention</a>, <a href="normal.html">normal</a>, <a href="nun%27s%20habit.html">nun's habit</a>, <a href="Nyctitropism.html">Nyctitropism</a>, <a href="observation.html">observation</a>, <a href="oddity.html">oddity</a>, <a href="Omphalopsychite.html">Omphalopsychite</a>, <a href="Orang-outang.html">Orang-outang</a>, <a href="Ouananiche.html">Ouananiche</a>, <a href="pagoda%20tree.html">pagoda tree</a>, <a href="Pantophagist.html">Pantophagist</a>, <a href="Pantophagy.html">Pantophagy</a>, <a href="Partlet.html">Partlet</a>, <a href="peculiarity.html">peculiarity</a>, <a href="Phosphatic%20diathesis.html">Phosphatic diathesis</a>, <a href="pill%20bug.html">pill bug</a>, <a href="plethoric.html">plethoric</a>, <a href="Plumeria%20acutifolia.html">Plumeria acutifolia</a>, <a href="poacher.html">poacher</a>, <a href="polygamy.html">polygamy</a>, <a href="pouter.html">pouter</a>, <a href="practice.html">practice</a>, <a href="practise.html">practise</a>, <a href="pragmatic.html">pragmatic</a>, <a href="pragmatical.html">pragmatical</a>, <a href="precedent.html">precedent</a>, <a href="Premonstrant.html">Premonstrant</a>, <a href="procrastination.html">procrastination</a>, <a href="promptness.html">promptness</a>, <a href="punctuality.html">punctuality</a>, <a href="Punnage.html">Punnage</a>, <a href="punning.html">punning</a>, <a href="Putanism.html">Putanism</a>, <a href="queerness.html">queerness</a>, <a href="quirk.html">quirk</a>, <a href="quirkiness.html">quirkiness</a>, <a href="Quizzism.html">Quizzism</a>, <a href="Recidivous.html">Recidivous</a>, <a href="regimen.html">regimen</a>, <a href="rhizomatous.html">rhizomatous</a>, <a href="Rhymery.html">Rhymery</a>, <a href="riding.html">riding</a>, <a href="riding%20boot.html">riding boot</a>, <a href="Riding-habit.html">Riding-habit</a>, <a href="Riding-robe.html">Riding-robe</a>, <a href="Rock-plants.html">Rock-plants</a>, <a href="roller.html">roller</a>, <a href="romance.html">romance</a>, <a href="routine.html">routine</a>, <a href="rowan%20tree.html">rowan tree</a>, <a href="rudderfish.html">rudderfish</a>, <a href="rumination.html">rumination</a>, <a href="rust.html">rust</a>, <a href="Salix%20blanda.html">Salix blanda</a>, <a href="Salix%20pendulina.html">Salix pendulina</a>, <a href="Salix%20pendulina%20blanda.html">Salix pendulina blanda</a>, <a href="sanguine.html">sanguine</a>, <a href="scapular.html">scapular</a>, <a href="scapulary.html">scapulary</a>, <a href="schema.html">schema</a>, <a href="Schetic.html">Schetic</a>, <a href="Schetical.html">Schetical</a>, <a href="scrofulous.html">scrofulous</a>, <a href="season.html">season</a>, <a href="secretary%20bird.html">secretary bird</a>, <a href="self-confident.html">self-confident</a>, <a href="self-seeking.html">self-seeking</a>, <a href="Seriola%20zonata.html">Seriola zonata</a>, <a href="sheldrake.html">sheldrake</a>, <a href="Silvics.html">Silvics</a>, <a href="Sit%20under.html">Sit under</a>, <a href="smoking.html">smoking</a>, <a href="snapping%20turtle.html">snapping turtle</a>, <a href="Snapping-turtle.html">Snapping-turtle</a>, <a href="Snuff-dipping.html">Snuff-dipping</a>, <a href="sober.html">sober</a>, <a href="sobriety.html">sobriety</a>, <a href="somniloquism.html">somniloquism</a>, <a href="Sorghum%20bicolor.html">Sorghum bicolor</a>, <a href="springbok.html">springbok</a>, <a href="springbuck.html">springbuck</a>, <a href="squint.html">squint</a>, <a href="squirrel.html">squirrel</a>, <a href="Stone%20hawk.html">Stone hawk</a>, <a href="stork.html">stork</a>, <a href="survival.html">survival</a>, <a href="suspend.html">suspend</a>, <a href="synthetic%20heroin.html">synthetic heroin</a>, <a href="take.html">take</a>, <a href="take%20to.html">take to</a>, <a href="tar-wood.html">tar-wood</a>, <a href="tardiness.html">tardiness</a>, <a href="tarwood.html">tarwood</a>, <a href="temple%20tree.html">temple tree</a>, <a href="Thallophyta.html">Thallophyta</a>, <a href="Theroid.html">Theroid</a>, <a href="Thew.html">Thew</a>, <a href="Thuya.html">Thuya</a>, <a href="tidiness.html">tidiness</a>, <a href="Tipping.html">Tipping</a>, <a href="Tittle-tattling.html">Tittle-tattling</a>, <a href="To%20act%20possum.html">To act possum</a>, <a href="To%20break%20of.html">To break of</a>, <a href="To%20play%20possum.html">To play possum</a>, <a href="To%20set%20up%20one%27s%20birse.html">To set up one's birse</a>, <a href="trade.html">trade</a>, <a href="trick.html">trick</a>, <a href="tumbler.html">tumbler</a>, <a href="turnstone.html">turnstone</a>, <a href="unlearn.html">unlearn</a>, <a href="usage.html">usage</a>, <a href="use.html">use</a>, <a href="used%20to.html">used to</a>, <a href="vagabondage.html">vagabondage</a>, <a href="vice.html">vice</a>, <a href="visit.html">visit</a>, <a href="voluble.html">voluble</a>, <a href="wagtail.html">wagtail</a>, <a href="Waistcoateer.html">Waistcoateer</a>, <a href="Water%20ousel.html">Water ousel</a>, <a href="water%20ouzel.html">water ouzel</a>, <a href="wean.html">wean</a>, <a href="weasel.html">weasel</a>, <a href="Wind-sucking.html">Wind-sucking</a>, <a href="Wisconsin%20weeping%20willow.html">Wisconsin weeping willow</a>, <a href="Wone.html">Wone</a>, <a href="wont.html">wont</a>, <a href="wont%20to.html">wont to</a>, <a href="Wood%20lark.html">Wood lark</a>, <a href="writer%27s%20cramp.html">writer's cramp</a>, <a href="wryneck.html">wryneck</a>, <a href="Xerophagy.html">Xerophagy</a>, <a href="xerotes.html">xerotes</a>, <a href="zoophyte.html">zoophyte</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					gabit, yabit, jabit, nabit, babit, hqbit, hwbit, hsbit, hzbit, havit, hagit, hahit, hanit, habut, habjt, habkt, habot, habir, habif, habig, habiy
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

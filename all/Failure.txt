@@ -1,0 +1,563 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>failure</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">an unexpected omission</span> <span class="quot">"he resented my failure to return his call","the mechanic's failure to check the brakes"</span></li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">an act that fails</span> <span class="quot">"his failure to pass the test"</span></li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">an event that does not accomplish its intended purpose</span> <span class="quot">"the surprise party was a complete failure"</span></li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">a person with a record of failing; someone who loses consistently</span> </li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">loss of ability to function normally</span> <span class="quot">"kidney failure"</span></li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">lack of success</span> <span class="quot">"he felt that his entire life had been a failure","that year there was a crop failure"</span></li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">inability to discharge all your debts as they come due</span> <span class="quot">"the company had to declare bankruptcy","fraudulent loans led to the failure of many banks"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In Florida failure to tell your neighbor his house is on fire is illegal.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Failure</span> <span class="exp">A becoming insolvent; bankruptcy; suspension of payment; as, <span class="wUex">failure</span> in business.</span> </li><li><span class="term">Failure</span> <span class="exp">A failing; a slight fault.</span> </li><li><span class="term">Failure</span> <span class="exp">Cessation of supply, or total defect; a failing; deficiency; as, <span class="wUex">failure</span> of rain; <span class="wUex">failure</span> of crops.
+         </span> </li><li><span class="term">Failure</span> <span class="exp">Decay, or defect from decay; deterioration; as, the <span class="wUex">failure</span> of memory or of sight.</span> </li><li><span class="term">Failure</span> <span class="exp">Omission; nonperformance; as, the <span class="wUex">failure</span> to keep a promise.</span> </li><li><span class="term">Failure</span> <span class="exp">Want of success; the state of having failed.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">A failing; deficiency; default; cessation of supply or total defect: as, the failure of springs or streams; failure of crops.</span> </li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">Omission; non-performance: as, the failure of a promise or an engagement.</span> </li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">Decay, or defect from decay: as, the failure of memory or of sight.</span> </li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">The act of failing, or the state of having failed to accomplish a purpose or attain an object; want of success: as, the failures of life.</span> </li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">The condition of becoming bankrupt by reason of insolvency; confession of insolvency; a becoming insolvent or bankrupt: as, the failure of a merchant or a bank.</span> </li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">Neglect.</span> </li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">Miscarriage.</span> </li><li><span class="tSpeech">n</span> <span class="term">failure</span> <span class="exp">Failure, Insolvency, Bankruptcy, Suspension. “Insolvency is a state; failure, an act flowing out of that state; and bankruptcy, an effect of that act” (Crabb). A bank may be insolvent—that is, unable to pay all its debts—without there being a public knowledge of the fact; it is a just law that makes it a criminal offense for a bank officer to receive deposits when he knows his bank to be insolvent. Failure is the popular and common name indicating the cessation of business on account of insolvency, especially if produced by the actual lack of money to meet some demand. Bankruptcy is often in popular use the same as insolvency, but it is more often used of the legal state of those who have surrendered their property to their creditors on account of their insolvency, or of the proceedings in connection therewith: as, he is going through bankruptcy. Suspension, or stoppage of payment, is in the nature of temporary failure, depending upon temporary disabilities not necessarily involving insolvency. Upon converting assets into money or getting an extension of credit, one who has suspended may be able to resume business. Insolvency and bankruptcy, in the legal sense, continue, in respect to past obligations, until the insolvent or bankrupt is formally discharged by the courts.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Failure</span> <span class="exp">a falling short, or cessation: omission: decay: bankruptcy</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Malcolm S. Forbes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Malcolm%20S.%20Forbes.jpg" alt="Malcolm%20S.%20Forbes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Failure is success if we learn from it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ambition is the last refuge of failure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Elmer G. Letterman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Elmer G. Letterman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A man may fall many times but he won't be a failure until he says someone pushed him.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">H. G. Hasler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="H. G. Hasler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You cannot have the success without the failures.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Cindy Adams</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Cindy Adams">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Success has made failures of many men.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sir Max Beerbohm</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sir%20Max%20Beerbohm.jpg" alt="Sir%20Max%20Beerbohm">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is much to be said for failure. It is more interesting than success.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Failure is the mother of success</span> - Failure is often a stepping stone towards success.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					From <span class="wUer">Fail</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>faillir</i>—L. <i>fallĕre</i>, to deceive; cf. Dut. <i>feilen</i>, Ger. <i>fehlen</i>, Ice. <i>feila</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						O, poor; OO, failure.
+					</div>
+					<div class="uAuthor">
+						"Northern Nut Growers Association Thirty-Fourth Annual Report 1943" by <span>Various</span>					</div>
+										<div class="usage">
+						He had also failed to notice that military failures could not affect Madison's strength.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						I was careful to prepare them all for failure.
+					</div>
+					<div class="uAuthor">
+						"The Shadow World" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						Return visits I know of, such as these, have been appalling failures.
+					</div>
+					<div class="uAuthor">
+						"The Confessions of a Caricaturist, Vol 2 (of 2)" by <span>Harry Furniss</span>					</div>
+										<div class="usage">
+						But the attempt proved an utter failure.
+					</div>
+					<div class="uAuthor">
+						"History of the English People" by <span>John Richard Green</span>					</div>
+										<div class="usage">
+						What precautions are you going to take against failure this time?
+					</div>
+					<div class="uAuthor">
+						"Mental Efficiency" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						Seldom does a farmer attribute his failure to the poverty of his soil.
+					</div>
+					<div class="uAuthor">
+						"Farm drainage" by <span>Henry Flagg French</span>					</div>
+										<div class="usage">
+						He told of his failures and successes with impartial enthusiasm.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Unaga" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						But that failure was certainly the turning-point of the war.
+					</div>
+					<div class="uAuthor">
+						"A History of the United States" by <span>Cecil Chesterton</span>					</div>
+										<div class="usage">
+						I'm going to make this fight and I've a sickening foreboding of failure.
+					</div>
+					<div class="uAuthor">
+						"The Root of Evil" by <span>Thomas Dixon</span>					</div>
+										<div class="usage">
+						When we are one with the eternal Substance, weakness, danger, failure shrink into cowering nothingness.
+					</div>
+					<div class="uAuthor">
+						"The Right Knock" by <span>Helen Van-Anderson</span>					</div>
+										<div class="usage">
+						That failure decided him, and he cast in his lot finally with the fortunes of literature.
+					</div>
+					<div class="uAuthor">
+						"American Men of Mind" by <span>Burton E. Stevenson</span>					</div>
+										<div class="usage">
+						One of the best singers I ever knew was so morbidly shy that on the platform she was an absolute failure.
+					</div>
+					<div class="uAuthor">
+						"The Tyranny of the Dark" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						Failure is dull, drab, colorless, and in his heart he had little doubt that for some reason still to be explained, he had failed.
+					</div>
+					<div class="uAuthor">
+						"The Man from the Bitter Roots" by <span>Caroline Lockhart</span>					</div>
+										<div class="usage">
+						The climax of contempt was Peraldi's failure even to notice the challenge.
+					</div>
+					<div class="uAuthor">
+						"The Life of Napoleon Bonaparte" by <span>William Milligan Sloane</span>					</div>
+										<div class="usage">
+						It may have failed, but the world has learned immortal wisdom from the failure.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						Segur's mission to Berlin was therefore an utter failure.
+					</div>
+					<div class="uAuthor">
+						"William Pitt and the Great War" by <span>John Holland Rose</span>					</div>
+										<div class="usage">
+						All his experiments at the colonization of that were failures.
+					</div>
+					<div class="uAuthor">
+						"Sir Walter Ralegh" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						As was to be expected, the scheme was a complete failure.
+					</div>
+					<div class="uAuthor">
+						"All About Coffee" by <span>William H. Ukers</span>					</div>
+										<div class="usage">
+						These disasters involved the utter failure of the expedition.
+					</div>
+					<div class="uAuthor">
+						"A History of England Principally in the Seventeenth Century, Volume I (of 6)" by <span>Leopold von Ranke</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Many a field most fertile<br>
+Bears vile and noxious weeds,<br>
+Through failure of the tiller<br>
+To sow some worthy seeds.
+							<div class="poet">"Many" by <span>Jared Barhite</span></div>
+						</div>
+											<div class="poemQuote">
+							And yet I fear some recreant thought,<br>
+Which now I all forget,<br>
+That painful feeling in me wrought<br>
+Of failure, lingering yet.
+							<div class="poet">"A Book of Dreams: Part I" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							Failure, say they? Who would fear<br>
+When the world is wide before,<br>
+And the skies are wide above,<br>
+And a strong man's heart is sure?
+							<div class="poet">"Nec Aspera Terrent" by <span>Cicely Fox Smith</span></div>
+						</div>
+											<div class="poemQuote">
+							Old MRS. PETER soon began<br>
+To see the failure of his plan,<br>
+And then resolved (I quote the Bard)<br>
+To "hoist him with his own petard."
+							<div class="poet">"The Perils of Invisibility" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							Right wronged, and knowledge wasted;<br>
+Wise labour spurned for ease;<br>
+The sloth and the sin and the failure;<br>
+Did I grow sad for these?
+							<div class="poet">"In the Black Forest" by <span>Amy Levy</span></div>
+						</div>
+											<div class="poemQuote">
+							In danger, failure, suffering, she<br>
+Cheer'd on with her unchanging smile,<br>
+Still looking forth to victory,<br>
+As free from doubt as far from guile.
+							<div class="poet">"The Beauteous Terrorist" by <span>Sir Henry Parkes</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Councilman calls Chase Tower ' congestive heart failure '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wsbt.com/news/wsbt-councilman-calls-chase-tower-congestive-heart-failure-20120709,0,4507892.story" target="_blank" rel="external nofollow">wsbt.com</a>
+					</div>
+										<div class="usage">
+						Elizabeth Taylor, legendary actress, dies at 79 of congestive heart failure .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesfreepress.com/news/2011/mar/23/actress-liz-taylor-has-died-age-79/" target="_blank" rel="external nofollow">timesfreepress.com</a>
+					</div>
+										<div class="usage">
+						Elizabeth Taylor is back in the hospital, being treated for congestive heart failure , RadarOnline.com has confirmed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.radaronline.com/exclusives/2011/02/elizabeth-taylor-hospitalized-with-congestive-heart-failure" target="_blank" rel="external nofollow">radaronline.com</a>
+					</div>
+										<div class="usage">
+						Duckworth's autopsy: congestive heart failure .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oregonlive.com/news/index.ssf/2008/08/former_trail_blazer_kevin_duck.html" target="_blank" rel="external nofollow">oregonlive.com</a>
+					</div>
+										<div class="usage">
+						Failure followed failure as the years went by, and though he never gave up hope for another fresh start, the horizon began to hold darker visions of an angry future.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1997/12/24/us/bombing-verdict-conspirator-troubled-man-life-dead-ends-false-starts-family.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The Government's statutory register plans have been labelled inadequate for their failure to include in-house lobbyists such as News Corporation's Frederic Michel.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.prweek.com/uk/news/1128666/Industry-says-lobbying-consultation-inadequate-Leveson-unfolds/?DCMP=ILC-SEARCH" target="_blank" rel="external nofollow">prweek.com</a>
+					</div>
+										<div class="usage">
+						Patriots receiver Wes Welker said the failure to reach a long-term contract with the Patriots has been removed from his mindset, and his focus is on playing well and helping the team win games.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/boston/new-england-patriots/post/_/id/4725584/welker-contract-out-of-my-mind" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						When one of them has a bearing problem, the belt stops moving — even though the bearings are often not the root cause of the failure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aggman.com/smooth-moves-tips-for-keeping-your-belt-conveyor-running-predictably-and-profitably/" target="_blank" rel="external nofollow">aggman.com</a>
+					</div>
+										<div class="usage">
+						Tips to Prevent Coolant Failure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forconstructionpros.com/article/10288470/play-it-cool-part-1-tips-to-prevent-coolant-failure" target="_blank" rel="external nofollow">forconstructionpros.com</a>
+					</div>
+										<div class="usage">
+						On Monday, the NCAA is scheduled to hit Penn State with ' corrective and punitive measures' for the university's failure to prevent repeated sexual abuse of young boys by former assistant coach Jerry Sandusky.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Sports/2012/0722/NCAA-poised-to-hit-Penn-State-with-corrective-and-punitive-measures" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						The inspectors have not yet seen testing records for the pipe that failed, but given its age and the condition of pipes connected to it, they believe corrosion is a strong possible cause of its failure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lubbockonline.com/filed-online/2012-08-11/calif-refinery-fire-investigation-focuses-old-corroded-pipe" target="_blank" rel="external nofollow">lubbockonline.com</a>
+					</div>
+										<div class="usage">
+						With the stronger disinfectants being used today to meet stricter EPA standards, however, these traditional systems are showing greater vulnerability to pitting, corrosion and premature leaks and failures.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.impomag.com/articles/2010/08/when-cpvc-beats-steel-corrosive-piping" target="_blank" rel="external nofollow">impomag.com</a>
+					</div>
+										<div class="usage">
+						The US bans imports of Costa Rican shrimp over failure to protect endangered turtles.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/costa-rica/090516/shrimp-ban" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						An excuse doesn't substantiate failure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.agweb.com/livestock/dairy/blog/Leave_a_Legacy_266/Countless_Opportunities_Ten_Tries_and_Zero_Results_9968/" target="_blank" rel="external nofollow">agweb.com</a>
+					</div>
+										<div class="usage">
+						Failure is a lack of intended results.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.agweb.com/livestock/dairy/blog/Leave_a_Legacy_266/Countless_Opportunities_Ten_Tries_and_Zero_Results_9968/" target="_blank" rel="external nofollow">agweb.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The failure of the quenched approximation has been reproduced in such lattice models. 
+					</div>
+					<div class="uAuthor">
+						Random Matrix Theory and Chiral Symmetry in QCD
+					</div>
+										<div class="usage">
+						The failure of the quenched approximation at nonzero chemical potential was ﬁrst understood analytically in terms of chRMT by Stephanov [186]. 
+					</div>
+					<div class="uAuthor">
+						Random Matrix Theory and Chiral Symmetry in QCD
+					</div>
+										<div class="usage">
+						Examples are the properties of the Dirac spectrum in the approach to the critical temperature, the failure of the quenched approximation at µ &gt; 0, and the phase diagram of the QCD partition function in the µT m plane. 
+					</div>
+					<div class="uAuthor">
+						Random Matrix Theory and Chiral Symmetry in QCD
+					</div>
+										<div class="usage">
+						The naive limit is shown to exist only for standard Drinfeld-Sokolov hierarchies, due to failure to parameterize the whole phase space by densities Ni of annihilators of the ﬁrst Poisson structure. 
+					</div>
+					<div class="uAuthor">
+						Solutions to WDVV from generalized Drinfeld-Sokolov hierarchies
+					</div>
+										<div class="usage">
+						Non-termination or failure to ﬁnd a derivation will result. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						The combination of tree automata with failures is the basis for the current implementations of most common functional languages [Mar94, Ler90]. 
+					</div>
+					<div class="uAuthor">
+						From Syntactic Theories to Interpreters: A Specification Language and Its Compilation
+					</div>
+										<div class="usage">
+						Failure exceptions may be caught and then other alternatives can be tried. 
+					</div>
+					<div class="uAuthor">
+						From Syntactic Theories to Interpreters: A Specification Language and Its Compilation
+					</div>
+										<div class="usage">
+						The failure state just raises a failure exception. 
+					</div>
+					<div class="uAuthor">
+						From Syntactic Theories to Interpreters: A Specification Language and Its Compilation
+					</div>
+										<div class="usage">
+						With this approximation, we have two cases. (1) The important case is when the failure is due to the inhomogeneities: distributions of microcracks , distributions of bond strengths , or other randomness . 
+					</div>
+					<div class="uAuthor">
+						Formal Considerations about Fracture: Nucleation and Growth
+					</div>
+										<div class="usage">
+						In all of these cases, the rate is number of failures for a given increment of strain, not per unit time. 
+					</div>
+					<div class="uAuthor">
+						Formal Considerations about Fracture: Nucleation and Growth
+					</div>
+										<div class="usage">
+						Either the stress is large enough to trigger failure or not: a given sample, if it survives the initial loading, will survive forever. 
+					</div>
+					<div class="uAuthor">
+						Formal Considerations about Fracture: Nucleation and Growth
+					</div>
+										<div class="usage">
+						The message exchanged with the cnos contains the domains to be tightened and a ﬂag to be raised by a cno whenever some failure occurs. 
+					</div>
+					<div class="uAuthor">
+						Component Programming and Interoperability in Constraint Solver Design
+					</div>
+										<div class="usage">
+						In case of failure, the ﬁrst noun group after the verb is chosen. 
+					</div>
+					<div class="uAuthor">
+						Generating a 3D Simulation of a Car Accident from a Written Description in Natural Language: the CarSim System
+					</div>
+										<div class="usage">
+						Depending on the text, the failure is the result of either only one of these restrictions or a combination. 
+					</div>
+					<div class="uAuthor">
+						Generating a 3D Simulation of a Car Accident from a Written Description in Natural Language: the CarSim System
+					</div>
+										<div class="usage">
+						An attempt to ﬁt it with Eq. (1) is shown in Fig. (5): it is a miserable failure. 
+					</div>
+					<div class="uAuthor">
+						Optical and X-ray Afterglows in the Cannonball Model of GRBs
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a person with a record of failing; someone who loses consistently"><a href="loser.html">loser</a>, <a href="nonstarter.html">nonstarter</a>, <a href="unsuccessful%20person.html">unsuccessful person</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="success.html">success</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="circumstances.html">circumstances</a>, <a href="destiny.html">destiny</a>, <a href="disorder.html">disorder</a>, <a href="fate.html">fate</a>, <a href="fortune.html">fortune</a>, <a href="happening.html">happening</a>, <a href="insolvency.html">insolvency</a>, <a href="lot.html">lot</a>, <a href="luck.html">luck</a>, <a href="natural%20event.html">natural event</a>, <a href="nonaccomplishment.html">nonaccomplishment</a>, <a href="nonachievement.html">nonachievement</a>, <a href="occurrence.html">occurrence</a>, <a href="occurrent.html">occurrent</a>, <a href="omission.html">omission</a>, <a href="portion.html">portion</a>, <a href="skip.html">skip</a>, <a href="unfortunate.html">unfortunate</a>, <a href="unfortunate%20person.html">unfortunate person</a>, <a href="upset.html">upset</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abortion.html">abortion</a>, <a href="backsliding.html">backsliding</a>, <a href="bank%20failure.html">bank failure</a>, <a href="bankrupt.html">bankrupt</a>, <a href="bankruptcy.html">bankruptcy</a>, <a href="breach.html">breach</a>, <a href="breakdown.html">breakdown</a>, <a href="bust.html">bust</a>, <a href="copout.html">copout</a>, <a href="coronary%20failure.html">coronary failure</a>, <a href="crop%20failure.html">crop failure</a>, <a href="dashing%20hopes.html">dashing hopes</a>, <a href="dead%20duck.html">dead duck</a>, <a href="default.html">default</a>, <a href="defeat.html">defeat</a>, <a href="disappointment.html">disappointment</a>, <a href="downfall.html">downfall</a>, <a href="dud.html">dud</a>, <a href="equipment%20failure.html">equipment failure</a>, <a href="error.html">error</a>, <a href="failing.html">failing</a>, <a href="fizzle.html">fizzle</a>, <a href="flame-out.html">flame-out</a>, <a href="flash%20in%20the%20pan.html">flash in the pan</a>, <a href="flop.html">flop</a>, <a href="flunk.html">flunk</a>, <a href="heart%20failure.html">heart failure</a>, <a href="insolvent.html">insolvent</a>, <a href="kidney%20failure.html">kidney failure</a>, <a href="lapse.html">lapse</a>, <a href="lapsing.html">lapsing</a>, <a href="licking.html">licking</a>, <a href="loss.html">loss</a>, <a href="malformation.html">malformation</a>, <a href="malfunction.html">malfunction</a>, <a href="miscarriage.html">miscarriage</a>, <a href="miscreation.html">miscreation</a>, <a href="misfire.html">misfire</a>, <a href="misplay.html">misplay</a>, <a href="miss.html">miss</a>, <a href="naught.html">naught</a>, <a href="nonconformance.html">nonconformance</a>, <a href="nonconformity.html">nonconformity</a>, <a href="nonpayment.html">nonpayment</a>, <a href="nonremittal.html">nonremittal</a>, <a href="out.html">out</a>, <a href="relapse.html">relapse</a>, <a href="relapsing.html">relapsing</a>, <a href="renal%20failure.html">renal failure</a>, <a href="reversion.html">reversion</a>, <a href="reverting.html">reverting</a>, <a href="ruin.html">ruin</a>, <a href="ruination.html">ruination</a>, <a href="underdog.html">underdog</a>, <a href="washout.html">washout</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="bankrupt.html">bankrupt</a>, <a href="fail.html">fail</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20burst%20up.html">A burst up</a>, <a href="abatement.html">abatement</a>, <a href="aberration.html">aberration</a>, <a href="abortion.html">abortion</a>, <a href="Abortional.html">Abortional</a>, <a href="Abortiveness.html">Abortiveness</a>, <a href="absence.html">absence</a>, <a href="accountability.html">accountability</a>, <a href="accretion.html">accretion</a>, <a href="accurate.html">accurate</a>, <a href="ACE%20inhibitor.html">ACE inhibitor</a>, <a href="acute%20kidney%20failure.html">acute kidney failure</a>, <a href="acute%20renal%20failure.html">acute renal failure</a>, <a href="Addison%27s%20disease.html">Addison's disease</a>, <a href="Addison%27s%20syndrome.html">Addison's syndrome</a>, <a href="agalactia.html">agalactia</a>, <a href="Agalaxy.html">Agalaxy</a>, <a href="alarm.html">alarm</a>, <a href="alibi.html">alibi</a>, <a href="amrinone.html">amrinone</a>, <a href="anarchy.html">anarchy</a>, <a href="androgenesis.html">androgenesis</a>, <a href="androgeny.html">androgeny</a>, <a href="angiotensin-converting%20enzyme%20inhibitor.html">angiotensin-converting enzyme inhibitor</a>, <a href="anhidrosis.html">anhidrosis</a>, <a href="anhydrosis.html">anhydrosis</a>, <a href="aphasia.html">aphasia</a>, <a href="aplasia.html">aplasia</a>, <a href="aplastic%20anaemia.html">aplastic anaemia</a>, <a href="aplastic%20anemia.html">aplastic anemia</a>, <a href="apologetic.html">apologetic</a>, <a href="appanage.html">appanage</a>, <a href="Apresoline.html">Apresoline</a>, <a href="asystole.html">asystole</a>, <a href="Ate.html">Ate</a>, <a href="atelectasis.html">atelectasis</a>, <a href="atenolol.html">atenolol</a>, <a href="attribute.html">attribute</a>, <a href="auction%20bridge.html">auction bridge</a>, <a href="B.O..html">B.O.</a>, <a href="Backcast.html">Backcast</a>, <a href="backsliding.html">backsliding</a>, <a href="bafflement.html">bafflement</a>, <a href="balk.html">balk</a>, <a href="bank%20closing.html">bank closing</a>, <a href="bankruptcy.html">bankruptcy</a>, <a href="bashfulness.html">bashfulness</a>, <a href="battle%20of%20Soissons-Reims.html">battle of Soissons-Reims</a>, <a href="battle%20of%20the%20Aisne.html">battle of the Aisne</a>, <a href="battle%20of%20the%20Chemin-des-Dames.html">battle of the Chemin-des-Dames</a>, <a href="befuddlement.html">befuddlement</a>, <a href="bemusement.html">bemusement</a>, <a href="bewilderment.html">bewilderment</a>, <a href="blackout.html">blackout</a>, <a href="blame.html">blame</a>, <a href="blow.html">blow</a>, <a href="body%20odor.html">body odor</a>, <a href="body%20odour.html">body odour</a>, <a href="breach.html">breach</a>, <a href="breach%20of%20contract.html">breach of contract</a>, <a href="breach%20of%20promise.html">breach of promise</a>, <a href="breach%20of%20the%20covenant%20of%20warranty.html">breach of the covenant of warranty</a>, <a href="break.html">break</a>, <a href="breakdown.html">breakdown</a>, <a href="breathing%20apparatus.html">breathing apparatus</a>, <a href="breathing%20device.html">breathing device</a>, <a href="breathing%20machine.html">breathing machine</a>, <a href="burden%20of%20proof.html">burden of proof</a>, <a href="burn%20out.html">burn out</a>, <a href="bust.html">bust</a>, <a href="Bywork.html">Bywork</a>, <a href="Caducity.html">Caducity</a>, <a href="Calan.html">Calan</a>, <a href="Capoten.html">Capoten</a>, <a href="captopril.html">captopril</a>, <a href="cardiac%20arrest.html">cardiac arrest</a>, <a href="cardiac%20glucoside.html">cardiac glucoside</a>, <a href="cardiac%20glycoside.html">cardiac glycoside</a>, <a href="cardiopulmonary%20arrest.html">cardiopulmonary arrest</a>, <a href="Cardizem.html">Cardizem</a>, <a href="carelessness.html">carelessness</a>, <a href="carvedilol.html">carvedilol</a>, <a href="case%20study.html">case study</a>, <a href="catalepsy.html">catalepsy</a>, <a href="caution.html">caution</a>, <a href="cease.html">cease</a>, <a href="certainty.html">certainty</a>, <a href="chagrin.html">chagrin</a>, <a href="child%20neglect.html">child neglect</a>, <a href="chloroform.html">chloroform</a>, <a href="chronic%20kidney%20failure.html">chronic kidney failure</a>, <a href="chronic%20pyelonephritis.html">chronic pyelonephritis</a>, <a href="chronic%20renal%20failure.html">chronic renal failure</a>, <a href="circulatory%20failure.html">circulatory failure</a>, <a href="civil%20contempt.html">civil contempt</a>, <a href="clear.html">clear</a>, <a href="collapse.html">collapse</a>, <a href="Come%20to%20nothing.html">Come to nothing</a>, <a href="condition.html">condition</a>, <a href="confusion.html">confusion</a>, <a href="connivance.html">connivance</a>, <a href="Cooke.html">Cooke</a>, <a href="copout.html">copout</a>, <a href="corner.html">corner</a>, <a href="Coulure.html">Coulure</a>, <a href="crash.html">crash</a>, <a href="crepitation%20rale.html">crepitation rale</a>, <a href="crime.html">crime</a>, <a href="crop%20failure.html">crop failure</a>, <a href="cropper.html">cropper</a>, <a href="crush.html">crush</a>, <a href="cryptorchidism.html">cryptorchidism</a>, <a href="cryptorchidy.html">cryptorchidy</a>, <a href="cryptorchism.html">cryptorchism</a>, <a href="cut.html">cut</a>, <a href="damn.html">damn</a>, <a href="dashing%20hopes.html">dashing hopes</a>, <a href="dead.html">dead</a>, <a href="dead%20duck.html">dead duck</a>, <a href="deadness.html">deadness</a>, <a href="dearth.html">dearth</a>, <a href="debacle.html">debacle</a>, <a href="decay.html">decay</a>, <a href="Defailance.html">Defailance</a>, <a href="Defailure.html">Defailure</a>, <a href="default.html">default</a>, <a href="defect.html">defect</a>, <a href="defection.html">defection</a>, <a href="deficiency.html">deficiency</a>, <a href="deficit.html">deficit</a>, <a href="dejected.html">dejected</a>, <a href="delinquency.html">delinquency</a>, <a href="deliquium.html">deliquium</a>, <a href="demerit.html">demerit</a>, <a href="Denutrition.html">Denutrition</a>, <a href="dereliction.html">dereliction</a>, <a href="desperation.html">desperation</a>, <a href="devolution.html">devolution</a>, <a href="diagnosis.html">diagnosis</a>, <a href="digitoxin.html">digitoxin</a>, <a href="digoxin.html">digoxin</a>, <a href="diltiazem.html">diltiazem</a>, <a href="disappointment.html">disappointment</a>, <a href="disastrous.html">disastrous</a>, <a href="disbelief.html">disbelief</a>, <a href="Discompliance.html">Discompliance</a>, <a href="disconnect.html">disconnect</a>, <a href="disconnection.html">disconnection</a>, <a href="discourtesy.html">discourtesy</a>, <a href="dishonor.html">dishonor</a>, <a href="dismay.html">dismay</a>, <a href="disobedience.html">disobedience</a>, <a href="disregard.html">disregard</a>, <a href="distortion.html">distortion</a>, <a href="doom.html">doom</a>, <a href="downfall.html">downfall</a>, <a href="emergency%20landing.html">emergency landing</a>, <a href="error.html">error</a>, <a href="escheat.html">escheat</a>, <a href="exculpation.html">exculpation</a>, <a href="excuse.html">excuse</a>, <a href="fail.html">fail</a>, <a href="fail-safe.html">fail-safe</a>, <a href="Failance.html">Failance</a>, <a href="failing.html">failing</a>, <a href="fall.html">fall</a>, <a href="famine.html">famine</a>, <a href="fault.html">fault</a>, <a href="fee.html">fee</a>, <a href="fee-tail.html">fee-tail</a>, <a href="feel.html">feel</a>, <a href="fiasco.html">fiasco</a>, <a href="fizzle.html">fizzle</a>, <a href="flame-out.html">flame-out</a>, <a href="flash.html">flash</a>, <a href="flash%20in%20the%20pan.html">flash in the pan</a>, <a href="flop.html">flop</a>, <a href="fluke.html">fluke</a>, <a href="flunk.html">flunk</a>, <a href="foil.html">foil</a>, <a href="foolproof.html">foolproof</a>, <a href="forced%20landing.html">forced landing</a>, <a href="forfeit.html">forfeit</a>, <a href="forfeiture.html">forfeiture</a>, <a href="forgetfulness.html">forgetfulness</a>, <a href="formidable.html">formidable</a>, <a href="Friday.html">Friday</a>, <a href="give.html">give</a>, <a href="Goose-egg.html">Goose-egg</a>, <a href="guarantee.html">guarantee</a>, <a href="guarantor.html">guarantor</a>, <a href="guaranty.html">guaranty</a>, <a href="gulf.html">gulf</a>, <a href="gynogenesis.html">gynogenesis</a>, <a href="haemodialysis.html">haemodialysis</a>, <a href="Hague%20Tribunal.html">Hague Tribunal</a>, <a href="heavy.html">heavy</a>, <a href="help.html">help</a>, <a href="hemodialysis.html">hemodialysis</a>, <a href="hepatojugular%20reflux.html">hepatojugular reflux</a>, <a href="hooky.html">hooky</a>, <a href="hydralazine.html">hydralazine</a>, <a href="hyperkalemia.html">hyperkalemia</a>, <a href="hypoadrenalism.html">hypoadrenalism</a>, <a href="hypoadrenocorticism.html">hypoadrenocorticism</a>, <a href="Icarian.html">Icarian</a>, <a href="Immortification.html">Immortification</a>, <a href="impenitence.html">impenitence</a>, <a href="impotence.html">impotence</a>, <a href="Impunctuality.html">Impunctuality</a>, <a href="In%20default%20of.html">In default of</a>, <a href="inadvertence.html">inadvertence</a>, <a href="Inappetence.html">Inappetence</a>, <a href="inattention.html">inattention</a>, <a href="incognizance.html">incognizance</a>, <a href="Incompliance.html">Incompliance</a>, <a href="incontinence.html">incontinence</a>, <a href="incontinency.html">incontinency</a>, <a href="Indefectible.html">Indefectible</a>, <a href="indigestion.html">indigestion</a>, <a href="Indiscovery.html">Indiscovery</a>, <a href="inefficacy.html">inefficacy</a>, <a href="infallibility.html">infallibility</a>, <a href="infallible.html">infallible</a>, <a href="Infallibleness.html">Infallibleness</a>, <a href="Infallibly.html">Infallibly</a>, <a href="Innutrition.html">Innutrition</a>, <a href="Inocor.html">Inocor</a>, <a href="insolvency.html">insolvency</a>, <a href="intricate.html">intricate</a>, <a href="Irrecognition.html">Irrecognition</a>, <a href="ischemic%20anoxia.html">ischemic anoxia</a>, <a href="ischemic%20hypoxia.html">ischemic hypoxia</a>, <a href="Isoptin.html">Isoptin</a>, <a href="Isordil.html">Isordil</a>, <a href="isosorbide.html">isosorbide</a>, <a href="Jay%20Cooke.html">Jay Cooke</a>, <a href="jinx.html">jinx</a>, <a href="judgment.html">judgment</a>, <a href="lack.html">lack</a>, <a href="Lanoxin.html">Lanoxin</a>, <a href="lap.html">lap</a>, <a href="lapse.html">lapse</a>, <a href="lapsing.html">lapsing</a>, <a href="last.html">last</a>, <a href="last%20laugh.html">last laugh</a>, <a href="lawlessness.html">lawlessness</a>, <a href="Let-off.html">Let-off</a>, <a href="Letters%20of%20horning.html">Letters of horning</a>, <a href="Lopressor.html">Lopressor</a>, <a href="loss.html">loss</a>, <a href="Louis%20XVI.html">Louis XVI</a>, <a href="maintain.html">maintain</a>, <a href="malfunction.html">malfunction</a>, <a href="metoprolol.html">metoprolol</a>, <a href="Michelson-Morley%20experiment.html">Michelson-Morley experiment</a>, <a href="miscarriage.html">miscarriage</a>, <a href="miscarry.html">miscarry</a>, <a href="misfire.html">misfire</a>, <a href="Misimprovement.html">Misimprovement</a>, <a href="misplay.html">misplay</a>, <a href="Misprision.html">Misprision</a>, <a href="Misprision%20of%20heresy.html">Misprision of heresy</a>, <a href="Misprision%20of%20treason.html">Misprision of treason</a>, <a href="misremember.html">misremember</a>, <a href="miss.html">miss</a>, <a href="Missuccess.html">Missuccess</a>, <a href="monorchidism.html">monorchidism</a>, <a href="monorchism.html">monorchism</a>, <a href="mortuary.html">mortuary</a>, <a href="muff.html">muff</a>, <a href="mull.html">mull</a>, <a href="mystification.html">mystification</a>, <a href="myxedema.html">myxedema</a>, <a href="Myx%C5%93dema.html">Myxœdema</a>, <a href="naught.html">naught</a>, <a href="near%20thing.html">near thing</a>, <a href="neglect.html">neglect</a>, <a href="negligence.html">negligence</a>, <a href="negligent.html">negligent</a>, <a href="nephroangiosclerosis.html">nephroangiosclerosis</a>, <a href="nephrogenic%20diabetes%20insipidus.html">nephrogenic diabetes insipidus</a>, <a href="nephrosclerosis.html">nephrosclerosis</a>, <a href="nerve%20deafness.html">nerve deafness</a>, <a href="nitroglycerin.html">nitroglycerin</a>, <a href="No%20go.html">No go</a>, <a href="no-win.html">no-win</a>, <a href="non.html">non</a>, <a href="Non-compliance.html">Non-compliance</a>, <a href="Non-delivery.html">Non-delivery</a>, <a href="Non-observance.html">Non-observance</a>, <a href="Non-payment.html">Non-payment</a>, <a href="Non-performance.html">Non-performance</a>, <a href="Non-residence.html">Non-residence</a>, <a href="Nonacquiescence.html">Nonacquiescence</a>, <a href="Nonadmission.html">Nonadmission</a>, <a href="Nonalienation.html">Nonalienation</a>, <a href="nonappearance.html">nonappearance</a>, <a href="Nonappointment.html">Nonappointment</a>, <a href="Nonarrival.html">Nonarrival</a>, <a href="nonattendance.html">nonattendance</a>, <a href="Nonclaim.html">Nonclaim</a>, <a href="Noncommunion.html">Noncommunion</a>, <a href="Noncompletion.html">Noncompletion</a>, <a href="noncompliance.html">noncompliance</a>, <a href="Nonconduction.html">Nonconduction</a>, <a href="nonconformance.html">nonconformance</a>, <a href="nonconformity.html">nonconformity</a>, <a href="Nondelivery.html">Nondelivery</a>, <a href="Nondeposition.html">Nondeposition</a>, <a href="nondevelopment.html">nondevelopment</a>, <a href="Nondiscovery.html">Nondiscovery</a>, <a href="nondisjunction.html">nondisjunction</a>, <a href="Nonelection.html">Nonelection</a>, <a href="Nonexecution.html">Nonexecution</a>, <a href="Nonexportation.html">Nonexportation</a>, <a href="nonfeasance.html">nonfeasance</a>, <a href="Nonfulfillment.html">Nonfulfillment</a>, <a href="Nonimportation.html">Nonimportation</a>, <a href="Nonlimitation.html">Nonlimitation</a>, <a href="Nonobedience.html">Nonobedience</a>, <a href="nonobservance.html">nonobservance</a>, <a href="nonpayment.html">nonpayment</a>, <a href="nonperformance.html">nonperformance</a>, <a href="Nonpreparation.html">Nonpreparation</a>, <a href="Nonpresentation.html">Nonpresentation</a>, <a href="Nonproduction.html">Nonproduction</a>, <a href="Nonproficiency.html">Nonproficiency</a>, <a href="nonremittal.html">nonremittal</a>, <a href="Nonresidence.html">Nonresidence</a>, <a href="Nonsolution.html">Nonsolution</a>, <a href="Nonsubmission.html">Nonsubmission</a>, <a href="Nonsuit.html">Nonsuit</a>, <a href="Nonusance.html">Nonusance</a>, <a href="Nonuser.html">Nonuser</a>, <a href="oath.html">oath</a>, <a href="obfuscation.html">obfuscation</a>, <a href="obligation.html">obligation</a>, <a href="oblivion.html">oblivion</a>, <a href="offence.html">offence</a>, <a href="offense.html">offense</a>, <a href="offensive%20activity.html">offensive activity</a>, <a href="omission.html">omission</a>, <a href="Omittance.html">Omittance</a>, <a href="On%20one%27s%20last%20legs.html">On one's last legs</a>, <a href="optical%20aberration.html">optical aberration</a>, <a href="out.html">out</a>, <a href="outage.html">outage</a>, <a href="outlawry.html">outlawry</a>, <a href="oversight.html">oversight</a>, <a href="owing.html">owing</a>, <a href="panic.html">panic</a>, <a href="particularly.html">particularly</a>, <a href="perfidious.html">perfidious</a>, <a href="perpetuate.html">perpetuate</a>, <a href="PKD.html">PKD</a>, <a href="placard.html">placard</a>, <a href="polycystic%20kidney%20disease.html">polycystic kidney disease</a>, <a href="power%20failure.html">power failure</a>, <a href="power%20outage.html">power outage</a>, <a href="pragmatist.html">pragmatist</a>, <a href="precariously.html">precariously</a>, <a href="precautional.html">precautional</a>, <a href="precautionary.html">precautionary</a>, <a href="process.html">process</a>, <a href="Promise-breach.html">Promise-breach</a>, <a href="prostration.html">prostration</a>, <a href="protection.html">protection</a>, <a href="Pulselessness.html">Pulselessness</a>, <a href="puzzlement.html">puzzlement</a>, <a href="Quartodeciman.html">Quartodeciman</a>, <a href="quixotic.html">quixotic</a>, <a href="Race%20suicide.html">Race suicide</a>, <a href="rate.html">rate</a>, <a href="readjust.html">readjust</a>, <a href="recognisance.html">recognisance</a>, <a href="recognizance.html">recognizance</a>, <a href="reentry.html">reentry</a>, <a href="Refranation.html">Refranation</a>, <a href="relapse.html">relapse</a>, <a href="relapsing.html">relapsing</a>, <a href="remiss.html">remiss</a>, <a href="renounce.html">renounce</a>, <a href="repossess.html">repossess</a>, <a href="repulse.html">repulse</a>, <a href="reset.html">reset</a>, <a href="retreat.html">retreat</a>, <a href="reversion.html">reversion</a>, <a href="reverting.html">reverting</a>, <a href="revoke.html">revoke</a>, <a href="risk.html">risk</a>, <a href="rot.html">rot</a>, <a href="rudimentary.html">rudimentary</a>, <a href="ruin.html">ruin</a>, <a href="ruination.html">ruination</a>, <a href="rule.html">rule</a>, <a href="sacrifice.html">sacrifice</a>, <a href="satire.html">satire</a>, <a href="Secondary%20evidence.html">Secondary evidence</a>, <a href="secure.html">secure</a>, <a href="securely.html">securely</a>, <a href="security.html">security</a>, <a href="self-justification.html">self-justification</a>, <a href="sensorineural%20hearing%20loss.html">sensorineural hearing loss</a>, <a href="Set-off.html">Set-off</a>, <a href="setback.html">setback</a>, <a href="shiftless.html">shiftless</a>, <a href="shiftlessness.html">shiftlessness</a>, <a href="shipwreck.html">shipwreck</a>, <a href="shortcoming.html">shortcoming</a>, <a href="signal.html">signal</a>, <a href="skimming.html">skimming</a>, <a href="slight.html">slight</a>, <a href="slump.html">slump</a>, <a href="smash.html">smash</a>, <a href="Soissons.html">Soissons</a>, <a href="somnambulism.html">somnambulism</a>, <a href="sorehead.html">sorehead</a>, <a href="stagnant%20anoxia.html">stagnant anoxia</a>, <a href="stagnant%20hypoxia.html">stagnant hypoxia</a>, <a href="stammer.html">stammer</a>, <a href="stop.html">stop</a>, <a href="strabismus.html">strabismus</a>, <a href="strike.html">strike</a>, <a href="stumble.html">stumble</a>, <a href="substitution.html">substitution</a>, <a href="summons.html">summons</a>, <a href="Sun.html">Sun</a>, <a href="suppression.html">suppression</a>, <a href="surcharge.html">surcharge</a>, <a href="sure.html">sure</a>, <a href="surety.html">surety</a>, <a href="suspension.html">suspension</a>, <a href="take%20it%20on%20the%20chin.html">take it on the chin</a>, <a href="taunt.html">taunt</a>, <a href="tax%20evasion.html">tax evasion</a>, <a href="Tenormin.html">Tenormin</a>, <a href="To%20keep%20one%27s%20head%20above%20water.html">To keep one's head above water</a>, <a href="To%20make%20sure.html">To make sure</a>, <a href="transfusion.html">transfusion</a>, <a href="transfusion%20reaction.html">transfusion reaction</a>, <a href="trip.html">trip</a>, <a href="truancy.html">truancy</a>, <a href="Turtleback.html">Turtleback</a>, <a href="tutor.html">tutor</a>, <a href="unerring.html">unerring</a>, <a href="unerringly.html">unerringly</a>, <a href="unfailing.html">unfailing</a>, <a href="unfulfilled.html">unfulfilled</a>, <a href="Unintermission.html">Unintermission</a>, <a href="unlucky.html">unlucky</a>, <a href="unpersuasive.html">unpersuasive</a>, <a href="unrealised.html">unrealised</a>, <a href="unrealized.html">unrealized</a>, <a href="unresponsiveness.html">unresponsiveness</a>, <a href="unrighteousness.html">unrighteousness</a>, <a href="unsatisfactoriness.html">unsatisfactoriness</a>, <a href="Unsuccess.html">Unsuccess</a>, <a href="unsuccessful.html">unsuccessful</a>, <a href="useless.html">useless</a>, <a href="variance.html">variance</a>, <a href="ventilator.html">ventilator</a>, <a href="ventricular%20septal%20defect.html">ventricular septal defect</a>, <a href="verapamil.html">verapamil</a>, <a href="Vigna.html">Vigna</a>, <a href="vote.html">vote</a>, <a href="wane.html">wane</a>, <a href="want.html">want</a>, <a href="warrant.html">warrant</a>, <a href="washout.html">washout</a>, <a href="weakness.html">weakness</a>, <a href="zany.html">zany</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					dailure, railure, gailure, vailure, cailure, fqilure, fwilure, fsilure, fzilure, faulure, fajlure, faklure, faolure, faikure, faioure, faipure, failyre, failhre, failjre, failire, failuee, failude, failufe, failute, failurw, failurs, failurd, failurr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

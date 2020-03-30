@@ -1,0 +1,552 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>argument</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning</span> <span class="quot">"I can't follow your line of reasoning"</span></li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">a variable in a logical or mathematical expression whose value determines the dependent variable; if f(x)=y, x is the independent variable</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">(computer science) a reference or value that is passed to a function, procedure, subroutine, command, or program</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">a summary of the subject or plot of a literary work or play or movie</span> <span class="quot">"the editor added the argument to the poem"</span></li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">a fact or assertion offered as evidence that something is true</span> <span class="quot">"it was a strong argument that his hypothesis was true"</span></li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">a discussion in which reasons are advanced for and against some proposition or proposal</span> <span class="quot">"the argument over foreign aid goes on and on"</span></li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">a contentious speech act; a dispute where there is strong disagreement</span> <span class="quot">"they were involved in a violent argument"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The horse race starting gate is a Canadian invention, designed in the early 1900s by Philip McGinnis, a racetrack reporter from Huntingdon, Quebec. The device proved popular because it prevented arguments caused when horses started prematurely.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Argument</span> <span class="exp">A process of reasoning, or a controversy made up of rational proofs; argumentation; discussion; disputation.</span> <span class="wuQuot">"The argument is about things, but names."</span></li><li><span class="term">Argument</span> <span class="exp">A reason or reasons offered in proof, to induce belief, or convince the mind; reasoning expressed in words; as, an <span class="wUex">argument about</span>
+               <span class="wUex">concerning</span>, or <span class="wUex">regarding</span> a proposition, for or <span class="wUex">in favor of</span> it, or <span class="wUex">against</span> it.</span> </li><li><span class="term">Argument</span> <span class="exp">Matter for question; business in hand.</span> <span class="wuQuot">"Sheathed their swords for lack of argument ."</span></li><li><span class="term">Argument</span> <span class="exp">Proof; evidence.</span> <span class="wuQuot">"There is.. no more palpable and convincing argument of the existence of a Deity."</span><span class="wuQuot">"Why, then, is it made a badge of wit and an argument of parts for a man to commence atheist, and to cast off all belief of providence, all awe and reverence for religion?"</span></li><li><span class="term">Argument</span> <span class="exp"><span class="wuFld">(Math)</span> The independent variable upon whose value that of a function depends.</span> </li><li><span class="term">Argument</span> <span class="exp"><span class="wuFld">(Astron)</span> The quantity on which another quantity in a table depends; as, the altitude is the <span class="wUex">argument</span> of the refraction.</span> </li><li><span class="term">Argument</span> <span class="exp">The subject matter of a discourse, writing, or artistic representation; theme or topic; also, an abstract or summary, as of the contents of a book, chapter, poem.</span> <span class="wuQuot">"You and love are still my argument ."</span><span class="wuQuot">"The abstract or argument of the piece."</span><span class="wuQuot">"Shields] with boastful argument portrayed."</span></li><li><span class="tSpeech">v. i</span> <span class="term">Argument</span> <span class="exp">To make an argument; to argue.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">A statement or fact tending to produce belief concerning a matter in doubt; a premise or premises set forth in order to prove an assumption or conclusion.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">[This, the familiar meaning of the word, probably originated in Roman law-courts. The usual definition given by Cicero and almost all authorities is ratio rei dubiœ faciens fidem, a reason causing belief of a doubtful matter. Boëtius in one place defines it as a medium proving a conclusion. The word medium here means a premise, or premises, according to all the commentators. (Petrus Hisp., tr. v. ad init.) But since medium usually means the middle term of a syllogism, some logicians have been led to give argument this signification.]</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">The middle term of a syllogism.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">A reasoning; the process by which the connection between that which is or is supposed to be admitted and that which is doubted or supposed to need confirmation is traced or tested.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">An address or composition made for the purpose of producing belief or conviction by reasoning or persuasion.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">A series of argumentations for and against a proposition; a debate.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">The subject-matter or groundwork of a discourse or writing; specifically, an abstract or summary of the chief points in a book or section of a book: as, the arguments prefixed to the several books of “Paradise Lost” were an afterthought.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">Matter of contention, controversy, or conversation.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">In mathematics: Of an imaginary quantity, the coefficient of the imaginary unit in its logarithm.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">The angle or quantity on which a series of numbers in a numerical table depends and with which the table is entered. If, for example, a table of the sun's declination were formed corresponding to every degree, etc., of longitude, so that, the longitude being known, the declination might be found opposite to it, then the longitude would be called the argument of the table. Tables of double entry have two arguments. In the Ptolemaic astronomy, the argument, without qualification, is the angular distance on the epicycle of a planet from the true apogee of the epicycle; and the equation of the argument is the angular distance, as seen from the earth, of a planet from the center of the epicycle, the correction to the second inequality. See equation.</span> </li><li><span class="term">argument</span> <span class="exp">To argue; debate; bring forward reasons.</span> </li><li><span class="term">argument</span> <span class="exp">To make the subject of an argument or debate.</span> </li><li><span class="tSpeech">n</span> <span class="term">argument</span> <span class="exp">When one variable is dependent upon another, the dependent variable is called a function of the other variable, which is then called the argument of the function.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Argument</span> <span class="exp"><span class="itl">ärg′ū-ment</span> a statement, or reason based on such, offered as proof: a series of reasons or a step in such: discussion: subject of a discourse: summary of the subject-matter of a book:</span> </li><li><span class="tSpeech">n</span> <span class="term">Argument</span> <span class="exp"><span class="itl">ärg′ū-ment</span> (<span class="itl">obs.</span>) matter of controversy</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Daniel Webster</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Daniel%20Webster.jpg" alt="Daniel%20Webster">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Keep cool; anger is not an argument.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joseph Addison</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Joseph%20Addison.jpg" alt="Joseph%20Addison">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Arguments out of a pretty mouth are unanswerable.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Larry Adler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Larry Adler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The long term versus the short term argument is one used by losers.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Benchley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert Benchley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Most of the arguments to which I am party fall somewhat short of being impressive, knowing to the fact that neither I nor my opponent knows what we are talking about”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Louis D. Brandeis</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Louis D. Brandeis">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Behind every argument is someone's ignorance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Butler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Butler.jpg" alt="Samuel%20Butler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Arguments are like fire-arms which a man may keep at home but should not carry about with him.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">argument</span>, L. <span class="wUets">argumentum</span>, fr. <span class="wUets">arguere</span>, to argue
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>argumentum</i>. See <b>Argue</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In all my experience it was the same; the "affirmative" had the merit and the argument.
+					</div>
+					<div class="uAuthor">
+						"History of Woman Suffrage, Volume I"					</div>
+										<div class="usage">
+						He had the quick eye of his house for the unsound parts of an argument, and a great felicity in exposing them.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<div class="usage">
+						More valuable for literature is another division of arguments into arguments from cause, arguments from sign, and arguments from example.
+					</div>
+					<div class="uAuthor">
+						"English: Composition and Literature" by <span>W. F. (William Franklin) Webster</span>					</div>
+										<div class="usage">
+						Another charges, that the whole work is based on a fallacy, and that all its arguments, therefore, are unsound.
+					</div>
+					<div class="uAuthor">
+						"Cotton is King and The Pro-Slavery Arguments" by <span>Various</span>					</div>
+										<div class="usage">
+						The infidels had the better in this part of the argument.
+					</div>
+					<div class="uAuthor">
+						"The Testimony of the Rocks" by <span>Hugh Miller</span>					</div>
+										<div class="usage">
+						There is one point tacitly postulated in this argument which should not be overlooked.
+					</div>
+					<div class="uAuthor">
+						"Liberalism" by <span>L. T. Hobhouse</span>					</div>
+										<div class="usage">
+						He urges on him many arguments, his duty to his children included.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						Better to ask questions than offer arguments.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: Land of the Infidel" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						Of all arguments for vegetarianism, none is so weak as the argument from humanity.
+					</div>
+					<div class="uAuthor">
+						"Social Rights and Duties, Volume I (of 2)" by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						Then the question occurs: Is this a logical argument, or an appeal from argument to feeling?
+					</div>
+					<div class="uAuthor">
+						"The Life of Sir James Fitzjames Stephen, Bart., K.C.S.I." by <span>Sir Leslie Stephen</span>					</div>
+										<div class="usage">
+						The arguments used were often most absurd.
+					</div>
+					<div class="uAuthor">
+						"The Railroad Question" by <span>William Larrabee</span>					</div>
+										<div class="usage">
+						As to arguments against Home Rule, I do not think it a case for argument.
+					</div>
+					<div class="uAuthor">
+						"Ireland as It Is" by <span>Robert John Buckley (AKA R.J.B.)</span>					</div>
+										<div class="usage">
+						But that was the line of her argument.
+					</div>
+					<div class="uAuthor">
+						"Is He Popenjoy?" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Doubtless the reader already foresees the course of our argument.
+					</div>
+					<div class="uAuthor">
+						"Essays: Scientific, Political, &amp; Speculative, Vol. I" by <span>Herbert Spencer</span>					</div>
+										<div class="usage">
+						Ten years ago it was almost impossible to secure space in any paper for woman suffrage arguments.
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume IV" by <span>Various</span>					</div>
+										<div class="usage">
+						In common, I believe, with the majority of intelligent men I think you have won your case on the argument.
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume V"					</div>
+										<div class="usage">
+						He had the unlimited faith of his generation in the efficacy of argument, and experience had proved his power.
+					</div>
+					<div class="uAuthor">
+						"Shelley, Godwin and Their Circle" by <span>H. N. Brailsford</span>					</div>
+										<div class="usage">
+						The subjects taught were Suffrage History and Argument, Organization, Publicity and Press, Money Raising and Parliamentary Law.
+					</div>
+					<div class="uAuthor">
+						"The History of Woman Suffrage, Volume VI" by <span>Various</span>					</div>
+										<div class="usage">
+						But no arguments were forthcoming.
+					</div>
+					<div class="uAuthor">
+						"The One-Way Trail" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						This will fully open the question and prepare the reader for my argument.
+					</div>
+					<div class="uAuthor">
+						"Junius Unmasked" by <span>Joel Moody</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Yea; wilt thou not relent?<br>
+Be mine the wrong,<br>
+No more the argument,<br>
+Dear love, prolong.
+							<div class="poet">"The Quarrel" by <span>Richard Le Gallienne</span></div>
+						</div>
+											<div class="poemQuote">
+							His argument was novel - for<br>
+A verdict he relied<br>
+On blackening the junior<br>
+Upon the other side.
+							<div class="poet">"Damon vs. Pythias" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							I would but cannot love,<br>
+Though wooed by love divine;<br>
+No arguments have pow'r to move<br>
+A soul so base as mine. 
+							<div class="poet">"The Good That I Would I Do Not" by <span>John Newton</span></div>
+						</div>
+											<div class="poemQuote">
+							There's been fierce argument of late<br>
+In my vicinitee,<br>
+Between the Commonwealth and State,<br>
+For I fell out with me.
+							<div class="poet">"Another Fusion" by <span>C J Dennis</span></div>
+						</div>
+											<div class="poemQuote">
+							Let argument ignore the cost,<br>
+If it be dear or cheap,<br>
+And only claim that naught be lost<br>
+When it's too good to keep.
+							<div class="poet">"A Fowl Affair" by <span>Hattie Howard</span></div>
+						</div>
+											<div class="poemQuote">
+							And many a cogent argument<br>
+She used, of duteous wives;<br>
+And many more that mothers thus<br>
+Should never risk their lives.
+							<div class="poet">"A Ballad  Of 1812" by <span>Sarah Anne Curzon</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Hamilton Mayor John Bencivengo corruption trial: attorneys deliver closing arguments.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/mercer/index.ssf/2012/11/hamilton_mayor_john_bencivengo_20.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						PAUL BILODEAU/Staff photo Daniel Lee Lopez, left, and Ronny Ramos listen to closing arguments during their trial in Salem Superior Court.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eagletribune.com/local/x2135068380/Jurors-continue-deliberations-in-2009-murder-of-food-deliveryman" target="_blank" rel="external nofollow">eagletribune.com</a>
+					</div>
+										<div class="usage">
+						Liberals brag about having won the hearts and minds of America, as if, through logic and argument, they've persuaded people to accept their bankrupt European socialist ideas.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appeal-democrat.com/articles/people-121138-white-democrats.html" target="_blank" rel="external nofollow">appeal-democrat.com</a>
+					</div>
+										<div class="usage">
+						Further, as the argument goes, these long-term demographic shifts could usher in a permanent left-of-center majority.
+					</div>
+					<div class="uAuthor">
+						<a href="http://spectator.org/archives/2012/05/02/demography-destiny-and-delusio" target="_blank" rel="external nofollow">spectator.org</a>
+					</div>
+										<div class="usage">
+						Despite Obama derision , Romney sticks to Navy ships argument.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-34222_162-57541711/despite-obama-derision-romney-sticks-to-navy-ships-argument/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						The state Attorney General's Office is calling a legal argument to dismiss criminal charges against San Bernardino County Supervisor Neil Derry for allegedly laundering a campaign contribution as "meritless" and misinformed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.redlandsdailyfacts.com/sbcountywatch/ci_18326776" target="_blank" rel="external nofollow">redlandsdailyfacts.com</a>
+					</div>
+										<div class="usage">
+						CLEVELAND — A federal judge will hear arguments Dec 11 in Oxford on proposals to desegregate two schools in the Cleveland School District.
+					</div>
+					<div class="uAuthor">
+						<a href="http://msbusiness.com/blog/2012/11/01/federal-judge-to-weigh-delta-schools-desegregation-plan/" target="_blank" rel="external nofollow">msbusiness.com</a>
+					</div>
+										<div class="usage">
+						The Indiana Court of Appeals rejected a man's argument that he could not have been detained in the hospital for mental health reasons before an application for detention was filed, which occurred after facility security guards restrained him.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theindianalawyer.com/appellate-court-upholds-mans-detainment/PARAMS/article/28176" target="_blank" rel="external nofollow">theindianalawyer.com</a>
+					</div>
+										<div class="usage">
+						Of course an argument can be made that even these serve as a tactical deterrent .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/gregorymcneal/2012/07/23/london-olympics-security-focuses-on-deterrence-use-of-drones-electric-fences-missiles-and-more/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						After months of legal filings and lawyers wrangling, a panel of three federal judges in San Antonio listened to opening arguments Tuesday morning in a key trial that encompasses several challenges to the state's redistricting maps.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.chron.com/txpotomac/2011/09/texas-redistricting-trial-opens-with-latino-groups-saying-republicans-sliced-and-diced-minority-communities/" target="_blank" rel="external nofollow">blog.chron.com</a>
+					</div>
+										<div class="usage">
+						During oral arguments last week, Justice Stephen Breyer was trying to come up with a formula to ensure that jury selection processes don't end up excluding minorities from the pool.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lawyersusaonline.com/dcdicta/2010/01/25/the-funniest-justice-weeks-7-and-8-what-happens-in-vegas/" target="_blank" rel="external nofollow">lawyersusaonline.com</a>
+					</div>
+										<div class="usage">
+						Government's closing argument calls on jury to discern "reality from fiction".
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.chron.com/clemens/2012/06/governments-closing-argument-calls-on-jury-to-discern-reality-from-fiction/" target="_blank" rel="external nofollow">blog.chron.com</a>
+					</div>
+										<div class="usage">
+						Nevertheless, arguments like Hinderaker's can have an impact, even if they're easily- discredited .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/stories/2009/06/23/politics/animal/main5107263.shtml" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Bogus arguments from Phil Gramm, Glenn Hubbard, and Peggy Noonan.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cjr.org/the_audit/the_disingenuous_wsj_opinion_p.php" target="_blank" rel="external nofollow">cjr.org</a>
+					</div>
+										<div class="usage">
+						This function takes a SHFILEOPSTRUCT data structure as its single argument and returns zero for success or nonzero for failure.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pcmag.com/article2/0,2817,1159799,00.asp" target="_blank" rel="external nofollow">pcmag.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						There are at least three other proofs of this fact: an argument using q series, specializing an identity about Hall-Littlewood polynomials, or a slick argument using Markov chains and an identity of Cauchy. 
+					</div>
+					<div class="uAuthor">
+						Random matrix theory over finite fields: a survey
+					</div>
+										<div class="usage">
+						The argument here is again a pure homotopy argument as in the proof of the more general Proposition 9.2. 
+					</div>
+					<div class="uAuthor">
+						On the Gribov Problem for Generalized Connections
+					</div>
+										<div class="usage">
+						Its ﬁrst argument points into the second element of QUANT, and its second argument relates to the whole CONTENT feature. 
+					</div>
+					<div class="uAuthor">
+						Interfacing Constraint-Based Grammars and Generation Algorithms
+					</div>
+										<div class="usage">
+						In some sense this matrix model can be thought of in terms of the low-energy theory of N D-instantons, although there does not seem to be an argument analogous to the Seiberg/Sen limiting argument which justiﬁes the dropping of higher-order terms in the Born-Infeld theory for this model. 
+					</div>
+					<div class="uAuthor">
+						M(atrix) Theory: Matrix Quantum Mechanics as a Fundamental Theory
+					</div>
+										<div class="usage">
+						Each argument of the second row is the bicomplex conjugate of the corresponding argument of the ﬁrst row. 
+					</div>
+					<div class="uAuthor">
+						Bicomplex algebra and function theory
+					</div>
+										<div class="usage">
+						The following argument is inspired by an argument of Ohmori [Oh]. 
+					</div>
+					<div class="uAuthor">
+						Rationality properties of unipotent representations
+					</div>
+										<div class="usage">
+						We also devise an analytic scaling argument, a healing time argument, that predicts that the dynamic exponent is equal to z = d + 2 in d dimensions. 
+					</div>
+					<div class="uAuthor">
+						Anomalous Roughness, Localization, and Globally Constrained Random Walks
+					</div>
+										<div class="usage">
+						The arguments of the Z function as well as their helicities are ﬁlled into a list of arguments via Fill Args(). 
+					</div>
+					<div class="uAuthor">
+						AMEGIC++ 1.0, A Matrix Element Generator In C++
+					</div>
+										<div class="usage">
+						If the argument is a propagator, i.e. the number is larger than 99, a signed propagator number and the appropriate helicity is added to the list of arguments. 
+					</div>
+					<div class="uAuthor">
+						AMEGIC++ 1.0, A Matrix Element Generator In C++
+					</div>
+										<div class="usage">
+						With the current Point and these two pointers as arguments the type of the Zfunc can be determined (Determine Zfunc()) and the arguments can be ﬁlled in (Fill Zfunc()). 
+					</div>
+					<div class="uAuthor">
+						AMEGIC++ 1.0, A Matrix Element Generator In C++
+					</div>
+										<div class="usage">
+						The ﬁrst argument of the Pfunc is the number of the appropriate propagator and the two next arguments correspond to the numbers of the left and right handed particles in the graph. 
+					</div>
+					<div class="uAuthor">
+						AMEGIC++ 1.0, A Matrix Element Generator In C++
+					</div>
+										<div class="usage">
+						If one of the two arguments is a propagator, all emerging numbers of this propagator will be replaced by the second argument in all Cfuncs. 
+					</div>
+					<div class="uAuthor">
+						AMEGIC++ 1.0, A Matrix Element Generator In C++
+					</div>
+										<div class="usage">
+						Then, all other delta functions which are multiplied with the current one, are searched for the ﬁrst argument of the delta function which is then replaced by the second argument. 
+					</div>
+					<div class="uAuthor">
+						AMEGIC++ 1.0, A Matrix Element Generator In C++
+					</div>
+										<div class="usage">
+						Our new conjunction, denoted ∧⋆ , is deﬁned precisely when at least one of its arguments is deﬁned, so it resembles ∧SAC in this respect, but instead of assigning the other argument a default value when it is undeﬁned, like SAC does, it uses its most recent deﬁned value, instead. 
+					</div>
+					<div class="uAuthor">
+						The temporal calculus of conditional objects and conditional events
+					</div>
+										<div class="usage">
+						Here, it means another formal argument for supporting conclusions of the (otherwise broadly tested) Davies theory in our main text by independent arguments in the Appendix. 
+					</div>
+					<div class="uAuthor">
+						Stationary flows in quantum dissipative closed circuits as a challenge to thermodynamics
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning"><a href="logical%20argument.html">logical argument</a>, <a href="line%20of%20reasoning.html">line of reasoning</a>, <a href="line.html">line</a>, </div><div class="synGroup" title="(computer science) a reference or value that is passed to a function, procedure, subroutine, command, or program"><a href="parameter.html">parameter</a>, </div><div class="synGroup" title="a summary of the subject or plot of a literary work or play or movie"><a href="literary%20argument.html">literary argument</a>, </div><div class="synGroup" title="a fact or assertion offered as evidence that something is true"><a href="statement.html">statement</a>, </div><div class="synGroup" title="a discussion in which reasons are advanced for and against some proposition or proposal"><a href="argumentation.html">argumentation</a>, <a href="debate.html">debate</a>, </div><div class="synGroup" title="a contentious speech act; a dispute where there is strong disagreement"><a href="arguing.html">arguing</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abstract%20thought.html">abstract thought</a>, <a href="address.html">address</a>, <a href="computer%20address.html">computer address</a>, <a href="conflict.html">conflict</a>, <a href="difference.html">difference</a>, <a href="difference%20of%20opinion.html">difference of opinion</a>, <a href="discussion.html">discussion</a>, <a href="dispute.html">dispute</a>, <a href="evidence.html">evidence</a>, <a href="give-and-take.html">give-and-take</a>, <a href="logical%20thinking.html">logical thinking</a>, <a href="reasoning.html">reasoning</a>, <a href="reference.html">reference</a>, <a href="sum-up.html">sum-up</a>, <a href="summary.html">summary</a>, <a href="value.html">value</a>, <a href="variable.html">variable</a>, <a href="variable%20quantity.html">variable quantity</a>, <a href="word.html">word</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="adducing.html">adducing</a>, <a href="argle-bargle.html">argle-bargle</a>, <a href="argy-bargy.html">argy-bargy</a>, <a href="case.html">case</a>, <a href="casuistry.html">casuistry</a>, <a href="clincher.html">clincher</a>, <a href="con.html">con</a>, <a href="counterargument.html">counterargument</a>, <a href="determiner.html">determiner</a>, <a href="determining%20factor.html">determining factor</a>, <a href="fight.html">fight</a>, <a href="firestorm.html">firestorm</a>, <a href="last%20word.html">last word</a>, <a href="line%20of%20inquiry.html">line of inquiry</a>, <a href="line%20of%20questioning.html">line of questioning</a>, <a href="logomachy.html">logomachy</a>, <a href="polemic.html">polemic</a>, <a href="policy.html">policy</a>, <a href="pro.html">pro</a>, <a href="proof.html">proof</a>, <a href="sparring.html">sparring</a>, <a href="specious%20argument.html">specious argument</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="argue.html">argue</a>, <a href="controversial.html">controversial</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abash.html">abash</a>, <a href="abduce.html">abduce</a>, <a href="abduction.html">abduction</a>, <a href="abstract.html">abstract</a>, <a href="absurdity.html">absurdity</a>, <a href="Achilles.html">Achilles</a>, <a href="acquiesce.html">acquiesce</a>, <a href="ad%20hominem.html">ad hominem</a>, <a href="adduce.html">adduce</a>, <a href="adduction.html">adduction</a>, <a href="admission.html">admission</a>, <a href="admit.html">admit</a>, <a href="admittance.html">admittance</a>, <a href="advance.html">advance</a>, <a href="adversary.html">adversary</a>, <a href="advocate.html">advocate</a>, <a href="afraid.html">afraid</a>, <a href="agonistic.html">agonistic</a>, <a href="agonistical.html">agonistical</a>, <a href="allege.html">allege</a>, <a href="ammunition.html">ammunition</a>, <a href="Ampliation.html">Ampliation</a>, <a href="amplification.html">amplification</a>, <a href="amplify.html">amplify</a>, <a href="analogical.html">analogical</a>, <a href="Analogism.html">Analogism</a>, <a href="analogy.html">analogy</a>, <a href="analysis.html">analysis</a>, <a href="analyze.html">analyze</a>, <a href="annihilate.html">annihilate</a>, <a href="answer.html">answer</a>, <a href="Answerless.html">Answerless</a>, <a href="antagonist.html">antagonist</a>, <a href="antecedent.html">antecedent</a>, <a href="anticipate.html">anticipate</a>, <a href="antinomy.html">antinomy</a>, <a href="Antistrophon.html">Antistrophon</a>, <a href="Apagoge.html">Apagoge</a>, <a href="apologist.html">apologist</a>, <a href="apology.html">apology</a>, <a href="apply.html">apply</a>, <a href="apposite.html">apposite</a>, <a href="argle-bargle.html">argle-bargle</a>, <a href="arguable.html">arguable</a>, <a href="arguably.html">arguably</a>, <a href="argue.html">argue</a>, <a href="argufy.html">argufy</a>, <a href="Argumentable.html">Argumentable</a>, <a href="Argumental.html">Argumental</a>, <a href="argumentative.html">argumentative</a>, <a href="Argumentum.html">Argumentum</a>, <a href="Argumentum%20ad%20ignorantiam.html">Argumentum ad ignorantiam</a>, <a href="Argumentum%20ad%20invidiam.html">Argumentum ad invidiam</a>, <a href="Argumentum%20baculinum.html">Argumentum baculinum</a>, <a href="argy-bargy.html">argy-bargy</a>, <a href="assumed.html">assumed</a>, <a href="attack.html">attack</a>, <a href="axiomatic.html">axiomatic</a>, <a href="back.html">back</a>, <a href="base.html">base</a>, <a href="basic%20assumption.html">basic assumption</a>, <a href="beggar.html">beggar</a>, <a href="believe.html">believe</a>, <a href="bolus.html">bolus</a>, <a href="brief.html">brief</a>, <a href="bring.html">bring</a>, <a href="caption.html">caption</a>, <a href="case.html">case</a>, <a href="Case%20at%20bar.html">Case at bar</a>, <a href="cavil.html">cavil</a>, <a href="circle.html">circle</a>, <a href="circuit.html">circuit</a>, <a href="clench.html">clench</a>, <a href="clinch.html">clinch</a>, <a href="clincher.html">clincher</a>, <a href="cogent.html">cogent</a>, <a href="cognition.html">cognition</a>, <a href="coherent.html">coherent</a>, <a href="combat.html">combat</a>, <a href="combatant.html">combatant</a>, <a href="combative.html">combative</a>, <a href="common.html">common</a>, <a href="commonplace.html">commonplace</a>, <a href="compelling.html">compelling</a>, <a href="con.html">con</a>, <a href="concession.html">concession</a>, <a href="concise.html">concise</a>, <a href="conclude.html">conclude</a>, <a href="conclusive.html">conclusive</a>, <a href="conclusiveness.html">conclusiveness</a>, <a href="conflict.html">conflict</a>, <a href="confutative.html">confutative</a>, <a href="confute.html">confute</a>, <a href="confuter.html">confuter</a>, <a href="conjugate.html">conjugate</a>, <a href="connect.html">connect</a>, <a href="Connectedly.html">Connectedly</a>, <a href="consequence.html">consequence</a>, <a href="constatation.html">constatation</a>, <a href="contend.html">contend</a>, <a href="contention.html">contention</a>, <a href="contest.html">contest</a>, <a href="contradiction.html">contradiction</a>, <a href="controvert.html">controvert</a>, <a href="convince.html">convince</a>, <a href="convincible.html">convincible</a>, <a href="convincingness.html">convincingness</a>, <a href="corker.html">corker</a>, <a href="corner.html">corner</a>, <a href="corral.html">corral</a>, <a href="corroboration.html">corroboration</a>, <a href="counterargument.html">counterargument</a>, <a href="course.html">course</a>, <a href="crush.html">crush</a>, <a href="Cul-de-sac.html">Cul-de-sac</a>, <a href="cumulative.html">cumulative</a>, <a href="datum.html">datum</a>, <a href="deaf.html">deaf</a>, <a href="debatable.html">debatable</a>, <a href="debate.html">debate</a>, <a href="debater.html">debater</a>, <a href="declaim.html">declaim</a>, <a href="declamatory.html">declamatory</a>, <a href="defend.html">defend</a>, <a href="defender.html">defender</a>, <a href="defense.html">defense</a>, <a href="Dehortatory.html">Dehortatory</a>, <a href="demonstration.html">demonstration</a>, <a href="demonstrative.html">demonstrative</a>, <a href="design.html">design</a>, <a href="determiner.html">determiner</a>, <a href="determining%20factor.html">determining factor</a>, <a href="devil%27s%20advocate.html">devil's advocate</a>, <a href="devise.html">devise</a>, <a href="dianoetic.html">dianoetic</a>, <a href="dictum.html">dictum</a>, <a href="difference.html">difference</a>, <a href="difference%20of%20opinion.html">difference of opinion</a>, <a href="digress.html">digress</a>, <a href="dilemma.html">dilemma</a>, <a href="dilution.html">dilution</a>, <a href="dint.html">dint</a>, <a href="discursive.html">discursive</a>, <a href="discursively.html">discursively</a>, <a href="Discursus.html">Discursus</a>, <a href="discussion.html">discussion</a>, <a href="disprove.html">disprove</a>, <a href="disprover.html">disprover</a>, <a href="disputable.html">disputable</a>, <a href="disputation.html">disputation</a>, <a href="dispute.html">dispute</a>, <a href="dissuade.html">dissuade</a>, <a href="dissuasion.html">dissuasion</a>, <a href="dissuasive.html">dissuasive</a>, <a href="divagate.html">divagate</a>, <a href="dogmatic.html">dogmatic</a>, <a href="dogmatist.html">dogmatist</a>, <a href="double-edged.html">double-edged</a>, <a href="drift.html">drift</a>, <a href="drive.html">drive</a>, <a href="Ecbasis.html">Ecbasis</a>, <a href="edgeless.html">edgeless</a>, <a href="Elench.html">Elench</a>, <a href="elicit.html">elicit</a>, <a href="elide.html">elide</a>, <a href="elude.html">elude</a>, <a href="embrace.html">embrace</a>, <a href="Embracery.html">Embracery</a>, <a href="enforcement.html">enforcement</a>, <a href="enlargement.html">enlargement</a>, <a href="enounce.html">enounce</a>, <a href="enter.html">enter</a>, <a href="Enthymeme.html">Enthymeme</a>, <a href="enumeration.html">enumeration</a>, <a href="Epagoge.html">Epagoge</a>, <a href="Epichirema.html">Epichirema</a>, <a href="equation.html">equation</a>, <a href="evade.html">evade</a>, <a href="evasion.html">evasion</a>, <a href="evasive.html">evasive</a>, <a href="excuse.html">excuse</a>, <a href="exhortation.html">exhortation</a>, <a href="expatiate.html">expatiate</a>, <a href="exploitation.html">exploitation</a>, <a href="fairness.html">fairness</a>, <a href="fallacious.html">fallacious</a>, <a href="fallacy.html">fallacy</a>, <a href="fallibility.html">fallibility</a>, <a href="feeble.html">feeble</a>, <a href="fence.html">fence</a>, <a href="final.html">final</a>, <a href="fine.html">fine</a>, <a href="flare-up.html">flare-up</a>, <a href="flimsy.html">flimsy</a>, <a href="floor.html">floor</a>, <a href="Floorer.html">Floorer</a>, <a href="follow.html">follow</a>, <a href="force.html">force</a>, <a href="forcible.html">forcible</a>, <a href="foregone%20conclusion.html">foregone conclusion</a>, <a href="forensic.html">forensic</a>, <a href="former.html">former</a>, <a href="frivolity.html">frivolity</a>, <a href="frivolous.html">frivolous</a>, <a href="full.html">full</a>, <a href="furnish.html">furnish</a>, <a href="gap.html">gap</a>, <a href="gesture.html">gesture</a>, <a href="gist.html">gist</a>, <a href="gradation.html">gradation</a>, <a href="great.html">great</a>, <a href="haggle.html">haggle</a>, <a href="haggling.html">haggling</a>, <a href="handle.html">handle</a>, <a href="Hard-shell.html">Hard-shell</a>, <a href="hardheaded.html">hardheaded</a>, <a href="hazy.html">hazy</a>, <a href="hear.html">hear</a>, <a href="heat.html">heat</a>, <a href="hefty.html">hefty</a>, <a href="Here.html">Here</a>, <a href="hinge.html">hinge</a>, <a href="hither.html">hither</a>, <a href="hodgepodge.html">hodgepodge</a>, <a href="hold.html">hold</a>, <a href="hollow.html">hollow</a>, <a href="home.html">home</a>, <a href="Hypobole.html">Hypobole</a>, <a href="hypothesis.html">hypothesis</a>, <a href="ignoratio%20elenchi.html">ignoratio elenchi</a>, <a href="illegitimacy.html">illegitimacy</a>, <a href="illustrative.html">illustrative</a>, <a href="impale.html">impale</a>, <a href="inadmissibility.html">inadmissibility</a>, <a href="inapplicable.html">inapplicable</a>, <a href="inapposite.html">inapposite</a>, <a href="inarguable.html">inarguable</a>, <a href="Inartificial.html">Inartificial</a>, <a href="include.html">include</a>, <a href="inconclusive.html">inconclusive</a>, <a href="inconsequence.html">inconsequence</a>, <a href="inconsistency.html">inconsistency</a>, <a href="inculcate.html">inculcate</a>, <a href="indecisive.html">indecisive</a>, <a href="inexorable.html">inexorable</a>, <a href="infer.html">infer</a>, <a href="influential.html">influential</a>, <a href="information.html">information</a>, <a href="inject.html">inject</a>, <a href="Insolidity.html">Insolidity</a>, <a href="Interlocution.html">Interlocution</a>, <a href="interlocutory.html">interlocutory</a>, <a href="interpose.html">interpose</a>, <a href="interruption.html">interruption</a>, <a href="invalidate.html">invalidate</a>, <a href="invalidity.html">invalidity</a>, <a href="invulnerable.html">invulnerable</a>, <a href="Irrefragable.html">Irrefragable</a>, <a href="Irrelavancy.html">Irrelavancy</a>, <a href="Jesuitism.html">Jesuitism</a>, <a href="Jesuitry.html">Jesuitry</a>, <a href="jet.html">jet</a>, <a href="jumble.html">jumble</a>, <a href="juridical.html">juridical</a>, <a href="kernel.html">kernel</a>, <a href="knock-kneed.html">knock-kneed</a>, <a href="knockdown.html">knockdown</a>, <a href="labor.html">labor</a>, <a href="lamely.html">lamely</a>, <a href="lameness.html">lameness</a>, <a href="last%20word.html">last word</a>, <a href="launch.html">launch</a>, <a href="law.html">law</a>, <a href="lay.html">lay</a>, <a href="legitimacy.html">legitimacy</a>, <a href="limp.html">limp</a>, <a href="line.html">line</a>, <a href="line%20of%20inquiry.html">line of inquiry</a>, <a href="line%20of%20questioning.html">line of questioning</a>, <a href="logic.html">logic</a>, <a href="logical.html">logical</a>, <a href="logician.html">logician</a>, <a href="logomachy.html">logomachy</a>, <a href="magisterial.html">magisterial</a>, <a href="maintain.html">maintain</a>, <a href="mass.html">mass</a>, <a href="match.html">match</a>, <a href="mighty.html">mighty</a>, <a href="minor.html">minor</a>, <a href="misallege.html">misallege</a>, <a href="misology.html">misology</a>, <a href="missing%20link.html">missing link</a>, <a href="monstrance.html">monstrance</a>, <a href="moot.html">moot</a>, <a href="motive.html">motive</a>, <a href="mulish.html">mulish</a>, <a href="music.html">music</a>, <a href="nail.html">nail</a>, <a href="name%20calling.html">name calling</a>, <a href="names.html">names</a>, <a href="negative.html">negative</a>, <a href="object.html">object</a>, <a href="objection.html">objection</a>, <a href="Objective%20point.html">Objective point</a>, <a href="objector.html">objector</a>, <a href="obstinacy.html">obstinacy</a>, <a href="obstinate.html">obstinate</a>, <a href="Obstination.html">Obstination</a>, <a href="Off-come.html">Off-come</a>, <a href="opponent.html">opponent</a>, <a href="oppugn.html">oppugn</a>, <a href="Oppugner.html">Oppugner</a>, <a href="OR.html">OR</a>, <a href="oration.html">oration</a>, <a href="Outargue.html">Outargue</a>, <a href="outline.html">outline</a>, <a href="Paper-day.html">Paper-day</a>, <a href="paralogism.html">paralogism</a>, <a href="parity.html">parity</a>, <a href="Paromology.html">Paromology</a>, <a href="parry.html">parry</a>, <a href="patchwork.html">patchwork</a>, <a href="peroration.html">peroration</a>, <a href="persuade.html">persuade</a>, <a href="Persuaded.html">Persuaded</a>, <a href="persuasion.html">persuasion</a>, <a href="persuasiveness.html">persuasiveness</a>, <a href="petitio%20principii.html">petitio principii</a>, <a href="phase.html">phase</a>, <a href="philosophical.html">philosophical</a>, <a href="pitch.html">pitch</a>, <a href="plea.html">plea</a>, <a href="plead.html">plead</a>, <a href="plexus.html">plexus</a>, <a href="point.html">point</a>, <a href="polemic.html">polemic</a>, <a href="polemically.html">polemically</a>, <a href="policy.html">policy</a>, <a href="position.html">position</a>, <a href="postulate.html">postulate</a>, <a href="postulation.html">postulation</a>, <a href="postulator.html">postulator</a>, <a href="potent.html">potent</a>, <a href="power.html">power</a>, <a href="powerful.html">powerful</a>, <a href="precis.html">precis</a>, <a href="predicate.html">predicate</a>, <a href="predication.html">predication</a>, <a href="premise.html">premise</a>, <a href="press.html">press</a>, <a href="Presser.html">Presser</a>, <a href="Presumption%20of%20fact.html">Presumption of fact</a>, <a href="presupposition.html">presupposition</a>, <a href="pretence.html">pretence</a>, <a href="pretense.html">pretense</a>, <a href="principal.html">principal</a>, <a href="pro.html">pro</a>, <a href="probability.html">probability</a>, <a href="proceed.html">proceed</a>, <a href="programme%20music.html">programme music</a>, <a href="prolix.html">prolix</a>, <a href="propound.html">propound</a>, <a href="prosecution.html">prosecution</a>, <a href="protract.html">protract</a>, <a href="prove.html">prove</a>, <a href="pursue.html">pursue</a>, <a href="quasi.html">quasi</a>, <a href="quibble.html">quibble</a>, <a href="quiddity.html">quiddity</a>, <a href="Quillet.html">Quillet</a>, <a href="quodlibet.html">quodlibet</a>, <a href="ratiocinate.html">ratiocinate</a>, <a href="rational%20motive.html">rational motive</a>, <a href="Re-present.html">Re-present</a>, <a href="reason.html">reason</a>, <a href="reasoning.html">reasoning</a>, <a href="Reasoning%20in%20a%20circle.html">Reasoning in a circle</a>, <a href="rebut.html">rebut</a>, <a href="rebuttal.html">rebuttal</a>, <a href="rebutter.html">rebutter</a>, <a href="recapitulate.html">recapitulate</a>, <a href="recapitulation.html">recapitulation</a>, <a href="recast.html">recast</a>, <a href="Redargue.html">Redargue</a>, <a href="reenforce.html">reenforce</a>, <a href="refiner.html">refiner</a>, <a href="refutation.html">refutation</a>, <a href="refute.html">refute</a>, <a href="refuter.html">refuter</a>, <a href="regard.html">regard</a>, <a href="rehearing.html">rehearing</a>, <a href="reinforce.html">reinforce</a>, <a href="repel.html">repel</a>, <a href="report.html">report</a>, <a href="respond.html">respond</a>, <a href="respondent.html">respondent</a>, <a href="resume.html">resume</a>, <a href="resumption.html">resumption</a>, <a href="retort.html">retort</a>, <a href="return.html">return</a>, <a href="Romulus.html">Romulus</a>, <a href="room.html">room</a>, <a href="sales%20pitch.html">sales pitch</a>, <a href="sales%20talk.html">sales talk</a>, <a href="satire.html">satire</a>, <a href="Schesis.html">Schesis</a>, <a href="scientific.html">scientific</a>, <a href="see.html">see</a>, <a href="self-contradiction.html">self-contradiction</a>, <a href="self-evident.html">self-evident</a>, <a href="self-evident%20truth.html">self-evident truth</a>, <a href="set-to.html">set-to</a>, <a href="settler.html">settler</a>, <a href="severe.html">severe</a>, <a href="Sharpshooting.html">Sharpshooting</a>, <a href="side.html">side</a>, <a href="sight.html">sight</a>, <a href="silence.html">silence</a>, <a href="skill.html">skill</a>, <a href="slight.html">slight</a>, <a href="slim.html">slim</a>, <a href="Sockdologer.html">Sockdologer</a>, <a href="solely.html">solely</a>, <a href="sophism.html">sophism</a>, <a href="Sophist.html">Sophist</a>, <a href="Sophister.html">Sophister</a>, <a href="sophistication.html">sophistication</a>, <a href="sophistry.html">sophistry</a>, <a href="Sorites.html">Sorites</a>, <a href="sound.html">sound</a>, <a href="soundness.html">soundness</a>, <a href="sparring.html">sparring</a>, <a href="speak.html">speak</a>, <a href="special%20pleading.html">special pleading</a>, <a href="specious.html">specious</a>, <a href="specious%20argument.html">specious argument</a>, <a href="speciousness.html">speciousness</a>, <a href="splitter.html">splitter</a>, <a href="straw%20man.html">straw man</a>, <a href="strawman.html">strawman</a>, <a href="stray.html">stray</a>, <a href="strength.html">strength</a>, <a href="strong.html">strong</a>, <a href="stultify.html">stultify</a>, <a href="subdue.html">subdue</a>, <a href="subjoin.html">subjoin</a>, <a href="subterfuge.html">subterfuge</a>, <a href="Subtile.html">Subtile</a>, <a href="subtilize.html">subtilize</a>, <a href="support.html">support</a>, <a href="suppose.html">suppose</a>, <a href="syllogism.html">syllogism</a>, <a href="synopsis.html">synopsis</a>, <a href="synoptic.html">synoptic</a>, <a href="synoptical.html">synoptical</a>, <a href="take%20off.html">take off</a>, <a href="taken%20for%20granted.html">taken for granted</a>, <a href="talking%20point.html">talking point</a>, <a href="tenable.html">tenable</a>, <a href="test.html">test</a>, <a href="text.html">text</a>, <a href="The%20argument%20from%20design.html">The argument from design</a>, <a href="theme.html">theme</a>, <a href="thesis.html">thesis</a>, <a href="thither.html">thither</a>, <a href="thread.html">thread</a>, <a href="topic.html">topic</a>, <a href="topical.html">topical</a>, <a href="train%20of%20thought.html">train of thought</a>, <a href="truism.html">truism</a>, <a href="twofold.html">twofold</a>, <a href="Ultima%20ratio.html">Ultima ratio</a>, <a href="unanswerable.html">unanswerable</a>, <a href="unanswered.html">unanswered</a>, <a href="unarguable.html">unarguable</a>, <a href="unargumentative.html">unargumentative</a>, <a href="understand.html">understand</a>, <a href="upset.html">upset</a>, <a href="urge.html">urge</a>, <a href="valid.html">valid</a>, <a href="validity.html">validity</a>, <a href="value.html">value</a>, <a href="verbose.html">verbose</a>, <a href="vicious%20circle.html">vicious circle</a>, <a href="wander.html">wander</a>, <a href="weak.html">weak</a>, <a href="weaken.html">weaken</a>, <a href="weapon.html">weapon</a>, <a href="Whiffler.html">Whiffler</a>, <a href="Wiredraw.html">Wiredraw</a>, <a href="wrangle.html">wrangle</a>, <a href="wrangling.html">wrangling</a>, <a href="yielding.html">yielding</a>, <a href="You%27re%20another.html">You're another</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qrgument, wrgument, srgument, zrgument, aegument, adgument, afgument, atgument, arfument, artument, arhument, arbument, arvument, argyment, arghment, argjment, argiment, argunent, argujent, argukent, argumwnt, argumsnt, argumdnt, argumrnt, argumebt, argumeht, argumejt, argumemt, argumenr, argumenf, argumeng, argumeny
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,551 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>desirability</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/112/62/15984.jpg" alt="THE FROGS DESIRING A KING">
+							<div class="caption">THE FROGS DESIRING A KING</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">desirability</span> <span class="exp">attractiveness to the opposite sex</span> </li><li><span class="tSpeech">n</span> <span class="term">desirability</span> <span class="exp">the quality of being worthy of desiring</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The Sanskrit word for "war" means "desire for more cows."									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Desirability</span> <span class="exp">The state or quality of being desirable; desirableness.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										When you give someone roses, the color can have a meaning. The meaning of rose colors: Red = Love and respect, Deep pink = Gratitude, appreciation, Light pink = Admiration, sympathy White = Reverence, humility, Yellow = Joy, gladness,Orange = Enthusiasm, desire, Red &amp; yellow blend = Gaiety, joviality,Pale blended tones = Sociability, friendship
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">desirability</span> <span class="exp">The state or quality of being desirable: desirableness.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jonathan Swift</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jonathan%20Swift.jpg" alt="Jonathan%20Swift">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every one desires to live long, but no one would be old.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bertrand Russell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Bertrand%20Russell.jpg" alt="Bertrand%20Russell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Indignation is a submission of our thoughts, but not of our desires.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Vegetius</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Vegetius">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Let him who desires peace prepare for war.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Emilie Cady</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Emilie Cady">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Desire is the thing you want in incipiency.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Joe Carter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Joe Carter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I honestly believed I would make it. I had the desire. A lot of people have the ability, but they don't put forth the effort.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Louis-Ferdinand Celine</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Louis-Ferdinand%20Celine.jpg" alt="Louis-Ferdinand%20Celine">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Almost every desire a poor man has is a punishable offence.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Of course I desire, all the while I desire.
+					</div>
+					<div class="uAuthor">
+						"The History of Sir Richard Calmady" by <span>Lucas Malet</span>					</div>
+										<div class="usage">
+						Greatly the combatants desire it, little they reck of the roughness it suffers in their struggle!
+					</div>
+					<div class="uAuthor">
+						"The King's Mirror" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						I was at ease, and did not desire it, seeing how men abuse their freedom.
+					</div>
+					<div class="uAuthor">
+						"The Hour and the Man" by <span>Harriet Martineau</span>					</div>
+										<div class="usage">
+						He is a bachelor, lives plainly, and has no vices, though he may have a desire to amass a fortune.
+					</div>
+					<div class="uAuthor">
+						"Floyd Grandon's Honor" by <span>Amanda Minnie Douglas</span>					</div>
+										<div class="usage">
+						But he did not desire a radical reformation, as Luther did, and always shunned danger and obloquy.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						She only desires to be rid of me!
+					</div>
+					<div class="uAuthor">
+						"Fairy Fingers" by <span>Anna Cora Mowatt Ritchie</span>					</div>
+										<div class="usage">
+						It is well to ask, for our desires are the measures of our capacities.
+					</div>
+					<div class="uAuthor">
+						"Expositions of Holy Scripture" by <span>Alexander Maclaren</span>					</div>
+										<div class="usage">
+						Across this sea I instantly felt a strong desire to sail.
+					</div>
+					<div class="uAuthor">
+						"Mizora: A Prophecy" by <span>Mary E. Bradley</span>					</div>
+										<div class="usage">
+						The desire to get it back grew and grew during the voyage across the Atlantic.
+					</div>
+					<div class="uAuthor">
+						"Bradford's History of 'Plimoth Plantation'" by <span>William Bradford</span>					</div>
+										<div class="usage">
+						She told me, also, of her desire to come by boat, and how Mr.
+					</div>
+					<div class="uAuthor">
+						"Roger Trewinion" by <span>Joseph Hocking</span>					</div>
+										<div class="usage">
+						While not as desirable for a street tree as our native Maple, they will give better satisfaction on the lawn.
+					</div>
+					<div class="uAuthor">
+						"Amateur Gardencraft" by <span>Eben E. Rexford</span>					</div>
+										<div class="usage">
+						It was a sign that his mind had reached the desired place.
+					</div>
+					<div class="uAuthor">
+						"The Goose Man" by <span>Jacob Wassermann</span>					</div>
+										<div class="usage">
+						If desired, this bell may be hung around the neck on a string or ribbon.
+					</div>
+					<div class="uAuthor">
+						"Games for the Playground, Home, School and Gymnasium" by <span>Jessie H. Bancroft</span>					</div>
+										<div class="usage">
+						Once let him know that another man desired to take Rose away from him and Mr. Tanqueray would be ten times more desirous to have her.
+					</div>
+					<div class="uAuthor">
+						"The Creators" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						He had told his tale, and had been desired to wait.
+					</div>
+					<div class="uAuthor">
+						"The Vicar of Bullhampton" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						If it is desired that a less distance than four paces be taken, the distance desired should be indicated in the preparatory command.
+					</div>
+					<div class="uAuthor">
+						"Manual of Military Training" by <span>James A. Moss</span>					</div>
+										<div class="usage">
+						He was inspired by the mania to transform his desires into possessions.
+					</div>
+					<div class="uAuthor">
+						"Fantazius Mallare" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						More conclusive evidence to the truth of facts cannot be desired.
+					</div>
+					<div class="uAuthor">
+						"The Life of Trust: Being a Narrative of the Lord's Dealings With George Müller" by <span>George Müller</span>					</div>
+										<div class="usage">
+						I saw she had a nice clean face with bright brown eyes, and then had a desire to fuck her.
+					</div>
+					<div class="uAuthor">
+						"My Secret Life, Volumes I. to III." by <span>Anonymous</span>					</div>
+										<div class="usage">
+						The created works no more desire such servility than we desire subjection to the Turk.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. III" by <span>Martin Luther</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							But the dumb fields<br>
+Desire his tread,<br>
+And no earth yields<br>
+A wheat more red.
+							<div class="poet">"A Sower" by <span>Sir Henry Newbolt</span></div>
+						</div>
+											<div class="poemQuote">
+							The lance and the lyre,<br>
+The water, the fire,<br>
+The tooth of oppression,<br>
+The lip of desire!
+							<div class="poet">"The Ancient Elf" by <span>James Stephens</span></div>
+						</div>
+											<div class="poemQuote">
+							I love Thee, to love Thee,--<br>
+No more I desire;<br>
+By faith is nourished<br>
+My love's strong fire.
+							<div class="poet">"Amor Mysticus" by <span>John Hay</span></div>
+						</div>
+											<div class="poemQuote">
+							Mine eyes and my desire<br>
+Are ever to the Lord;<br>
+I love to plead his promises,<br>
+And rest upon his word.
+							<div class="poet">"Psalm 25  part 3" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							"Thoughts, fancies, hopes, desires,<br>
+All must be yours;<br>
+Sweetest my memories still<br>
+Of our past hours."
+							<div class="poet">"Parted" by <span>Sophie Margaret Hensley</span></div>
+						</div>
+											<div class="poemQuote">
+							Urit spes animi credula mutui.—Hor.<br>
+Imitation.<br>
+Fond hope of a reciprocal desire<br>
+Inflames the breast.
+							<div class="poet">"Ode, written 1739" by <span>William Shenstone</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Bandwidth is expensive, so combining multiple digital signals into a single stream is desirable , but complex.
+					</div>
+					<div class="uAuthor">
+						<a href="http://broadcastengineering.com/infrastructure/multiplexing" target="_blank" rel="external nofollow">broadcastengineering.com</a>
+					</div>
+										<div class="usage">
+						Why Every Woman is Desirable .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.elle.com/life-love/they-like-it-like-that-why-every-woman-is-desirable-455616" target="_blank" rel="external nofollow">elle.com</a>
+					</div>
+										<div class="usage">
+						Theatre A Streetcar Named Desire By all accounts, the acclaimed director and Skokie native David Cromer did wonders with Our Town.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagomag.com/Radar/Chicago-Guide/April-2010/Most-Desirable-Tickets/" target="_blank" rel="external nofollow">chicagomag.com</a>
+					</div>
+										<div class="usage">
+						'Entourage' star Emmanuelle Chriqui named 'most desirable ' woman of 2010 by AskMen.com poll.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nydailynews.com/gossip/2010/01/20/2010-01-20_entourage_star_emmanuelle_chriqui_named_most_desirable_woman_of_2010_by_askmenco.html" target="_blank" rel="external nofollow">nydailynews.com</a>
+					</div>
+										<div class="usage">
+						Most desirable place to live.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.seattlepi.com/seattlepolitics/2009/01/28/seattle-most-desirable-place-to-live/" target="_blank" rel="external nofollow">blog.seattlepi.com</a>
+					</div>
+										<div class="usage">
+						Poland Growing Less Desirable for Outsourcing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appliancemagazine.com/news.php?article=1061814&amp;zone=0&amp;first=1" target="_blank" rel="external nofollow">appliancemagazine.com</a>
+					</div>
+										<div class="usage">
+						Higher ground / Napa and Sonoma's mountain vineyards produce Cabernets with desirable intensity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/03/02/WIG9NOA4601.DTL" target="_blank" rel="external nofollow">sfgate.com</a>
+					</div>
+										<div class="usage">
+						On their list of the 99 "Most Desirable Women of 2005," Faith Hill and Shania Twain made the cut.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.countryweekly.com/news/faith-and-shania-most-desirable" target="_blank" rel="external nofollow">countryweekly.com</a>
+					</div>
+										<div class="usage">
+						Kotite's Job Requires Selling Desirable Free Agents on Jets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1995/02/28/sports/pro-football-kotite-s-job-requires-selling-desirable-free-agents-on-jets.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						You may want to keep this list secret as it contains 99 of AskMen's most desirable women.
+					</div>
+					<div class="uAuthor">
+						<a href="http://bozemanskissfm.com/99-most-desirable-women-pics/" target="_blank" rel="external nofollow">bozemanskissfm.com</a>
+					</div>
+										<div class="usage">
+						"I Have No Desire to Know Him or Work With Him or Do Anything With Him Again".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.guitarworld.com/steven-adler-axl-rose-i-have-no-desire-know-him-or-work-him-or-do-anything-him-again" target="_blank" rel="external nofollow">guitarworld.com</a>
+					</div>
+										<div class="usage">
+						Balancing kit is used for accurate pressure balancing of air systems and other applications where pressure matching is desired.
+					</div>
+					<div class="uAuthor">
+						<a href="http://hydraulicspneumatics.com/200/TechZone/SystemInstrumen/Article/False/82595/TechZone-SystemInstrumen" target="_blank" rel="external nofollow">hydraulicspneumatics.com</a>
+					</div>
+										<div class="usage">
+						When Amani Toomer visited former teammate Plaxico Burress earlier this year at the Oneida Correctional Facility in Rome, N.Y. Burress expressed a strong desire to return to football once he gets out of jail next year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/new-york/giants/post/_/id/1440/toomer-disheartened-by-plaxs-plight-takes-on-jets" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Students show diminishing desire to pursue a career in the sciences despite rosy job prospects.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/education/best-colleges/articles/2011/05/23/combating-students-disinterest-in-the-sciences" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						Saban took a big publicity hit when, as coach of the Miami Dolphins two years ago, he publicly stated a desire to stay put, then jumped to the University of Alabama.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/2009/07/28/the-most-disliked-people-in-sports-business-sports-disliked_slide_10.html" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We solve for x1 and x2 numerically to the desired precision, for each µ in a ﬁne grid. 
+					</div>
+					<div class="uAuthor">
+						Application of Conditioning to the Gaussian-with-Boundary Problem in the Unified Approach to Confidence Intervals
+					</div>
+										<div class="usage">
+						The modiﬁed upper curve is shifted upward for negative x, which results in a less stringent upper limit when ε is known to be negative; this feature is considered desirable by some. 
+					</div>
+					<div class="uAuthor">
+						Application of Conditioning to the Gaussian-with-Boundary Problem in the Unified Approach to Confidence Intervals
+					</div>
+										<div class="usage">
+						Perhaps the main point of contention is that BP desire a“complexity” measure which can become inﬁnite, whereas we purposefully constructed the measure in SDL so that it would not have this property (for α, β ≥ 0). 
+					</div>
+					<div class="uAuthor">
+						Response to Comments on "Simple Measure for Complexity"
+					</div>
+										<div class="usage">
+						Finally, taking the inverse Fourier transform of the sequence {fW (i)}, yields {W (i)}, the sequence with the desired correlation function G(i). 
+					</div>
+					<div class="uAuthor">
+						Solvable model of a polymer in random media with long ranged disorder correlations
+					</div>
+										<div class="usage">
+						For instance if the group generated by X is GL(n, q) it would be desirable to write any element of GL(n, q) as a word in X . 
+					</div>
+					<div class="uAuthor">
+						Random matrix theory over finite fields: a survey
+					</div>
+										<div class="usage">
+						In principle, all λ− integrations in the equation Eq.(17) can be performed explicitly and the resulting formulae provide the desired general solution of the problem. 
+					</div>
+					<div class="uAuthor">
+						Spectra of Random Contractions and Scattering Theory for Discrete-Time Systems
+					</div>
+										<div class="usage">
+						Summing over i with mi ≥ 2 gives the desired result. 
+					</div>
+					<div class="uAuthor">
+						Homology for irregular connections
+					</div>
+										<div class="usage">
+						E ) it follows that χDR (U ; E , ∇) − χ(U, E ) = − Xij (mij − 1) dim(Mij ) Referring to lemma 1.4, we see that this is the desired formula. 
+					</div>
+					<div class="uAuthor">
+						Homology for irregular connections
+					</div>
+										<div class="usage">
+						However, the resulting structure has the desired functionality. 
+					</div>
+					<div class="uAuthor">
+						Multiagent Control of Self-reconfigurable Robots
+					</div>
+										<div class="usage">
+						Hence (C∆β )+ (A, B )(C∆β ) is of the desired type. 
+					</div>
+					<div class="uAuthor">
+						On the Gribov Problem for Generalized Connections
+					</div>
+										<div class="usage">
+						To the last inner sum, provided ℜ(c + d − a − b − 1) &gt; 0, we can again apply (4.7) and eventually obtain the right side of (4.8), as desired. 
+					</div>
+					<div class="uAuthor">
+						A simple proof of Bailey's very-well-poised 6-psi-6 summation
+					</div>
+										<div class="usage">
+						To the last sum, provided |a2 q/bcde| &lt; 1, we can again apply (5.2) and after some simpliﬁcations we ﬁnally obtain the right side of (5.1), as desired. 
+					</div>
+					<div class="uAuthor">
+						A simple proof of Bailey's very-well-poised 6-psi-6 summation
+					</div>
+										<div class="usage">
+						Further pushing forward to X × X ′ yields the desired product formula. 
+					</div>
+					<div class="uAuthor">
+						Some applications of localization to enumerative problems
+					</div>
+										<div class="usage">
+						Then (f , g ) is the desired birational morphism C2 → C2 . 
+					</div>
+					<div class="uAuthor">
+						Rational polynomials of simple type
+					</div>
+										<div class="usage">
+						Then the proper transform of P1 × ∞ is the desired degree one horizontal curve for f . 
+					</div>
+					<div class="uAuthor">
+						Rational polynomials of simple type
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="attractiveness to the opposite sex"><a href="sex%20appeal.html">sex appeal</a>, <a href="desirableness.html">desirableness</a>, <a href="oomph.html">oomph</a>, </div><div class="synGroup" title="the quality of being worthy of desiring"><a href="desirableness.html">desirableness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="undesirability.html">undesirability</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="attractiveness.html">attractiveness</a>, <a href="good.html">good</a>, <a href="goodness.html">goodness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="sultriness.html">sultriness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="desirable.html">desirable</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="better.html">better</a>, <a href="desirableness.html">desirableness</a>, <a href="egalitarianism.html">egalitarianism</a>, <a href="equalitarianism.html">equalitarianism</a>, <a href="value%20statement.html">value statement</a>, <a href="worse.html">worse</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					sesirability, eesirability, fesirability, cesirability, xesirability, sesirability, dwsirability, dssirability, ddsirability, drsirability, deairability, dewirability, dedirability, dexirability, dezirability, deairability, desurability, desjrability, deskrability, desorability, desieability, desidability, desifability, desitability, desirqbility, desirwbility, desirsbility, desirzbility, desiravility, desiragility, desirahility, desiranility, desirabulity, desirabjlity, desirabklity, desirabolity, desirabikity, desirabioity, desirabipity, desirabiluty, desirabiljty, desirabilkty, desirabiloty, desirabiliry, desirabilify, desirabiligy, desirabiliyy, desirabilitt, desirabilitg, desirabilith
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

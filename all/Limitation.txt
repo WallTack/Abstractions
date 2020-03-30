@@ -1,0 +1,580 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>limitation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">an act of limiting or restricting (as by regulation)</span> </li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">the quality of being limited or restricted</span> <span class="quot">"it is a good plan but it has serious limitations"</span></li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">a principle that limits the extent of something</span> <span class="quot">"I am willing to accept certain restrictions on my movements"</span></li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">the greatest amount of something that is possible or allowed</span> <span class="quot">"there are limits on the amount you can bet","it is growing rapidly with no limitation in sight"</span></li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">(law) a time period after which suits cannot be brought</span> <span class="quot">"statute of limitations"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In Tulsa, Oklahoma the limit on kisses is three minutes (by law).									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Limitation</span> <span class="exp"><span class="wuFld">(Law)</span> A certain period limited by statute after which the claimant shall not enforce his claims by suit.</span> </li><li><span class="term">Limitation</span> <span class="exp">A certain precinct within which friars were allowed to beg, or exercise their functions; also, the time during which they were permitted to exercise their functions in such a district.</span> </li><li><span class="term">Limitation</span> <span class="exp">A limited time within or during which something is to be done.</span> <span class="wuQuot">"You have stood your limitation , and the tribunes<br>
+Endue you with the people's voice."</span></li><li><span class="term">Limitation</span> <span class="exp"><span class="wuFld">(Law)</span> A restriction of power; as, a constitutional <span class="wUex">limitation</span>
+               .</span> </li><li><span class="term">Limitation</span> <span class="exp"><span class="wuFld">(Law)</span> A settling of an estate or property by specific rules.</span> </li><li><span class="term">Limitation</span> <span class="exp">That which limits; a restriction; a qualification; a restraining condition, defining circumstance, or qualifying conception; as, <span class="wUex">limitations</span> of thought.</span> <span class="wuQuot">"The cause of error is ignorance what restraints and limitations all principles have in regard of the matter whereunto they are applicable."</span></li><li><span class="term">Limitation</span> <span class="exp">The act of limiting; the state or condition of being limited; as, the <span class="wUex">limitation</span> of his authority was approved by the council.</span> <span class="wuQuot">"They had no right to mistake the limitation . . . of their own faculties, for an inherent limitation of the possible modes of existence in the universe."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										It is against the law in Pueblo, Colorado, to raise or permit a dandelion to grow within the city limits.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">The act of bounding or circumscribing; the fixing of a limit or restriction.</span> </li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">The condition of being limited, bounded, or circumscribed; restriction.</span> </li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">An opposing limit or bound; a fixed or prescribed restriction; a restraining condition, defining circumstance, or qualifying conception: as, limitations of thought.</span> </li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">That to which one is limited; that which is required as a condition.</span> </li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">In law: The period of time prescribed by law after which an action cannot be brought. Since the investigation of controversies becomes more difficult with the lapse of time, and long delay to sue may imply either that satisfaction has been received or that all claim is abandoned, and as it is vexatious to revive stale claims, the law allows fixed periods, varying with the nature of the grievance, within which, if at all, a claimant must apply to the courts. The statutes fixing these periods are called statutes of limitations. From the limitation prescribed for actions to recover real property, it follows that a practically secure title to land can be acquired by mere adverse possession for a sufficient time.</span> </li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">In the law of conveyancing, the carving out of an estate less than a fee simple absolute (see fee); the prescribing of an ulterior direction for the devolution of an estate in case the estate of the primary grantee shall fail. If a deed or will gives property to A limiting his estate to his life, and on his death giving the property to B, the gift to B is a limitation, or limitation over. If the property is given to A so long as she remains unmarried, adding that in case she marries the property is to go to B, the added clause is a conditional limitation, or a limitation over dependent on a condition. If a condition only is prescribed without adding a limitation over, the property will, if the condition be valid, revert to the donor or his heirs.</span> </li><li><span class="tSpeech">n</span> <span class="term">limitation</span> <span class="exp">The particular district in which a limiter or begging friar was allowed to beg for alms.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The world's first speed limit regulation was in England in 1903. It was 20 mph.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Limitation</span> <span class="exp">the act of limiting, bounding, or restraining: the state of being limited, bounded, or restrained: restriction</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Brendan Francis</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Brendan Francis">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Once we accept our limits, we go beyond them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Wolfgang Von Goethe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Wolfgang%20Von%20Goethe.jpg" alt="Johann%20Wolfgang%20Von%20Goethe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The older we get the more we must limit ourselves if we wish to be active.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Peter Mcwilliams</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Peter Mcwilliams">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When we argue for our limitations, we get to keep them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Elbert Hubbard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Elbert%20Hubbard.jpg" alt="Elbert%20Hubbard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One who limits himself to his chosen mode of ignorance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Whatever limits us we call fate.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marvin Gaye</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marvin Gaye">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Most fear stems from sin; to limit one's sins, one must assuredly limit one's fear, thereby bringing more peace to one's spirit.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Sky is the limit</span> - When people say that the sky is the limit, they think that there are no limits to the possibilities something could have.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">limitatio</span>,: cf. F. <span class="wUets">limitation</span>,. See <span class="wUer">Limit</span> (v. t.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>limes</i>, <i>limitis</i>, a boundary.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The location was then beyond the city limits.
+					</div>
+					<div class="uAuthor">
+						"Lights and Shadows of New York Life" by <span>James D. McCabe</span>					</div>
+										<div class="usage">
+						Individuality involves limitation, limitation in its turn involves ignorance, and ignorance is the source of sorrow.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 4, Part 3" by <span>Various</span>					</div>
+										<div class="usage">
+						This latter limitation did not and could not exist in the Territories.
+					</div>
+					<div class="uAuthor">
+						"The Rise and Fall of the Confederate Government, Vol. 1 (of 2)" by <span>Jefferson Davis</span>					</div>
+										<div class="usage">
+						The Bulgarians are religious in a simple way, but not fanatical, and the influence of the priesthood is limited.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 4, Part 4" by <span>Various</span>					</div>
+										<div class="usage">
+						The northerly limit of its successful growth in North America is somewhere about 50 deg.
+					</div>
+					<div class="uAuthor">
+						"Clovers and How to Grow Them" by <span>Thomas Shaw</span>					</div>
+										<div class="usage">
+						In Warsaw there was much misery, for the plunderer had worked conscription and seizure to its furthest limit.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys to the Homes of the Great - Volume 14" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						If it wasn't for the mountains hemming the horizon, our 'wide open spaces' would be without limit.
+					</div>
+					<div class="uAuthor">
+						"David Lannarck, Midget" by <span>George S. Harney</span>					</div>
+										<div class="usage">
+						Fifty thousand people have occupations in it in the night-time who reside beyond its limits during the day.
+					</div>
+					<div class="uAuthor">
+						"Up To Date Business" by <span>Various</span>					</div>
+										<div class="usage">
+						That strenuous efforts are being made to improve the system, within its own limits, I can well believe.
+					</div>
+					<div class="uAuthor">
+						"What Is and What Might Be" by <span>Edmond Holmes</span>					</div>
+										<div class="usage">
+						Although the Army's racial policy differed from the Navy's, the resulting limited, separate service for Negroes proved similar.
+					</div>
+					<div class="uAuthor">
+						"Integration of the Armed Forces, 1940-1965" by <span>Morris J. MacGregor Jr.</span>					</div>
+										<div class="usage">
+						SOME AVOWED LIMITATIONS OF THE BINET TESTS.
+					</div>
+					<div class="uAuthor">
+						"The Measurement of Intelligence" by <span>Lewis Madison Terman</span>					</div>
+										<div class="usage">
+						I name a higher price than others, to limit my work and to keep away those who would only come from idle curiosity.
+					</div>
+					<div class="uAuthor">
+						"Seen and Unseen" by <span>E. Katharine Bates</span>					</div>
+										<div class="usage">
+						Further, Christian giving gives up to the very edge of ability, and sometimes goes beyond the limits of so-called prudence.
+					</div>
+					<div class="uAuthor">
+						"Expositions of Holy Scripture" by <span>Alexander Maclaren</span>					</div>
+										<div class="usage">
+						This class was limited to the inhabitants of their promised land.
+					</div>
+					<div class="uAuthor">
+						"Usury" by <span>Calvin Elliott</span>					</div>
+										<div class="usage">
+						Is it, for instance, when we know all the conditions of its activity, entirely limited?
+					</div>
+					<div class="uAuthor">
+						"The Complex Vision" by <span>John Cowper Powys</span>					</div>
+										<div class="usage">
+						But while habits are specific, they are within limits transferable.
+					</div>
+					<div class="uAuthor">
+						"Human Traits and their Social Significance" by <span>Irwin Edman</span>					</div>
+										<div class="usage">
+						But it was already seen that the future of the railroad was not to be limited to quarries or collieries.
+					</div>
+					<div class="uAuthor">
+						"The Modern Railroad" by <span>Edward Hungerford</span>					</div>
+										<div class="usage">
+						If he inflicted pain in order to enhance pleasure by and by, he would have to do so within the strictest limits.
+					</div>
+					<div class="uAuthor">
+						"Expositor's Bible: The Book of Job" by <span>Robert Watson</span>					</div>
+										<div class="usage">
+						This arises from the limitation or relativity of our powers of understanding.
+					</div>
+					<div class="uAuthor">
+						"The History of Creation, Vol. I (of 2)" by <span>Ernst Haeckel</span>					</div>
+										<div class="usage">
+						The westernmost limits of this ancient mine extends to within a mile or two of this primitive formation.
+					</div>
+					<div class="uAuthor">
+						"The Indian in his Wigwam" by <span>Henry R. Schoolcraft</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							He bid the liquid waters flow<br>
+To their appointed deep;<br>
+The flowing seas their limits know<br>
+And their own station keep.
+							<div class="poet">"Psalm XXXIII: Rejoice, Ye Righteous" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							He bid the liquid waters flow<br>
+To their appointed deep;<br>
+The flowing seas their limits know,<br>
+And their own station keep).
+							<div class="poet">"Psalm 33  part 1" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							No cage set limits to their pace;<br>
+They held the hunt at bay;<br>
+And in their careless mien I trace<br>
+The savage mood to-day.
+							<div class="poet">"Rebel Hearts" by <span>John Le Gay Brereton</span></div>
+						</div>
+											<div class="poemQuote">
+							Till Forty-mile, and Stony Creek,<br>
+Revived our waning hopes,<br>
+And round Fort-George a limit held<br>
+The Yankees as with ropes.
+							<div class="poet">"A Ballad  Of 1812" by <span>Sarah Anne Curzon</span></div>
+						</div>
+											<div class="poemQuote">
+							“Ask and receive Thy full demands;<br>
+Thine shall the heathen be;<br>
+The utmost limits of the lands<br>
+Shall be possessed by Thee.
+							<div class="poet">"With restless and ungoverned rage" by <span>Nahum Tate and Nicholas Brady</span></div>
+						</div>
+											<div class="poemQuote">
+							Adam. He every place pervades,<br>
+But is confined in none:<br>
+In him the limits of all grandeur lie,<br>
+But he exists unlimited by space.
+							<div class="poet">"Adam: A Sacred Drama. Act 2. " by <span>William Cowper</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						NBA commissioner David Stern's push to see an age limit of 23 for the men's Olympic basketball tournament is losing steam.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/olympics/summer/2012/basketball/story/_/id/8259569/fiba-chief-says-no-age-limit-coming-2016-olympics" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Rotaract Council tackles age limit , dues.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rotary.org/en/MediaAndNews/News/Pages/110522_IC11_RAcouncil.aspx" target="_blank" rel="external nofollow">rotary.org</a>
+					</div>
+										<div class="usage">
+						Concussions expert urges age limit on head blows.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wtnh.com/dpps/health/healthy_living/concussions-expert-urges-age-limit-on-head-blows_4910706" target="_blank" rel="external nofollow">wtnh.com</a>
+					</div>
+										<div class="usage">
+						A study in the journal Science offers this insight: No matter who you are, having severely limited funds alters the way you make decisions about using them.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.courant.com/health/la-sci-poor-people-decisions-20121103,0,2397311.story" target="_blank" rel="external nofollow">courant.com</a>
+					</div>
+										<div class="usage">
+						Proposed Age Limit Is Hollow Altruism .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2001/05/13/sports/pro-con-permitting-teenage-pros-nba-agent-proposed-age-limit-hollow-altruism.html?pagewanted=3&amp;src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Serving people with mobility limitations once made up nearly 100 percent of Amigo 's business.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/business/mid-michigan/index.ssf/2011/08/medicare-funded_power_wheelcha.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						The government could very quickly discover the limits of its borrowing capacity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10001424052748704198004575310962247772540.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						While many Portlanders still pluck aging birds for the broiler, others seek a more pastoral end for them away from the city, where regulations limit the size of urban flocks.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/slideshow/2012/04/25/us/CHICKEN.html?ref=us" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Limited access for people with limited means MISS : Lakeview Market in Lucerne lost the ability to accept food stamp permanently following a USDA investigation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.record-bee.com/letters/ci_22101153/hits-and-misses-who-was-target-and-who" target="_blank" rel="external nofollow">record-bee.com</a>
+					</div>
+										<div class="usage">
+						Limited access for people with limited means.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.record-bee.com/letters/ci_22101153/hits-and-misses-who-was-target-and-who" target="_blank" rel="external nofollow">record-bee.com</a>
+					</div>
+										<div class="usage">
+						Four Democratic lawmakers in the House are up against term limits, and another four are term-limited in the Senate.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.coloradostatesman.com/content/993444-democratic-lawmakers-face-musical-chairs" target="_blank" rel="external nofollow">coloradostatesman.com</a>
+					</div>
+										<div class="usage">
+						A limited run of 250 ornaments will be made this year, with a limit of four ornaments per order.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/rockford/index.ssf/2012/11/ornament_pays_tribute_to_old_m.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						If you're like many start-up founders I know, you're on a limited budget, have limited manpower, and you're working in an industry that's new to you.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.inc.com/ilya-pozin/start-up-marketing-an-essential-road-map.html" target="_blank" rel="external nofollow">inc.com</a>
+					</div>
+										<div class="usage">
+						Transportation officials in Texas are testing a new 41-mile segment of highway to see whether it would be safe to post the state's first 85 mph speed limit, setting it on a path to have the highest posted speed limit in the U.S.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-201_162-57449606/texas-testing-85-mph-speed-limit-on-highway-segment/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						New rules proposed for Council would limit members' comments to five minutes per speech during committee meetings, and also limit the number of proclamations one could carry out in a Council session.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wduq.org/2011/11/16/rules-aim-shorten-city-council-meetings" target="_blank" rel="external nofollow">wduq.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Although it might be easy to ﬁnd the two steady states and the limit cycle by studying the agent based model and not its algebraic representation, one would still need to prove that these are the only ﬁxed points and that there is exactly one limit cycle of length 2, and no limit cycles of greater length. 
+					</div>
+					<div class="uAuthor">
+						A Mathematical Framework for Agent Based Models of Complex Biological Networks
+					</div>
+										<div class="usage">
+						We give a general local central limit theorem for the sum of two independent random variables, one of which satisﬁes a central limit theorem while the other satisﬁes a local central limit theorem with the same order variance. 
+					</div>
+					<div class="uAuthor">
+						Local central limit theorems in stochastic geometry
+					</div>
+										<div class="usage">
+						T Σ−1v ]θ2(cid:9) E (e−θY |X = x) = exp (cid:8)−[ν + vT Σ−1 (x − µ)]θ + 1 converges to a positive limit as m, n → ∞, since because of the value of θ the difference between the large terms in ν and τ 2 converges to a ﬁnite limit, and the other terms also converge to ﬁnite limits. 
+					</div>
+					<div class="uAuthor">
+						The associated random walk and martingales in random walks with stationary increments
+					</div>
+										<div class="usage">
+						Relaxing the mixing assumptions changes the limits somewhat, but the b′ limits vary by less than 20%, while the t′ limits increase in some mixing scenarios to mt′ &gt; O(400 GeV ). 
+					</div>
+					<div class="uAuthor">
+						Four Generations, Higgs Physics, and the MSSM
+					</div>
+										<div class="usage">
+						We remark that the limit random variable Z∞ is a pair of the form (η∞ , X∞ ), where η∞ is the limit conﬁguration of lamps, which is not necessary ﬁnitely supported, and X∞ is the limit of the base random walk (Xn ) on G. 
+					</div>
+					<div class="uAuthor">
+						Lamplighter Random Walks and Entropy-Sensitivity of Languages
+					</div>
+										<div class="usage">
+						Since the category ProD admits all ﬁltered inverse limits, and D (and therefore Pro D) admits all ﬁnite inverse limits, ProD admits all inverse limits (Mac Lane [8, § IX.1]). as above amount to the statement that a collection of such restrictions amalgamates Therefore, the end M of S exists. 
+					</div>
+					<div class="uAuthor">
+						A categorical approach to internality
+					</div>
+										<div class="usage">
+						We then assign the value a to the distance between adjacent vertices in the graph and take the limit a → 0 and L → ∞ in such a way that the scaled combs have a ﬁnite characteristic distance scale; we will refer to this limit as the ‘continuum’ limit and quantities which exist in this limit as continuum quantities. 
+					</div>
+					<div class="uAuthor">
+						Continuum Random Combs and Scale Dependent Spectral Dimension
+					</div>
+										<div class="usage">
+						In particular, we shall consider ad hoc limit conformal gluing and limit uniformizing functions, allowing to connect the ratio of certain limit periods with the ﬁniteness of the limit group. 
+					</div>
+					<div class="uAuthor">
+						Random walks in the quarter plane with zero drift: an explicit criterion for the finiteness of the associated group
+					</div>
+										<div class="usage">
+						O(1/(cid:112)log(λ)) and has limit 0 as λ → ∞, implying that the ﬁrst term should have limit integrand with its lower limit. 
+					</div>
+					<div class="uAuthor">
+						Multi-User Diversity with Random Number of Users
+					</div>
+										<div class="usage">
+						For most of the collective realizations the values of the ratio fall between the pairing limit of 1 and the vibrational limit of 2, while in the rotational limit the ratio of 3.3 is expected. 
+					</div>
+					<div class="uAuthor">
+						Quadrupole collectivity in random two-body ensembles
+					</div>
+										<div class="usage">
+						Left panel: beginning the test at the bright magnitude limit, Tc and Tv are estimated for each trial apparent magnitude limit, m∗ , moving toward and beyond the faint limit of the survey in increments of 0.1. 
+					</div>
+					<div class="uAuthor">
+						Shedding Light on the Galaxy Luminosity Function
+					</div>
+										<div class="usage">
+						The contribution above rule is already approximately satisﬁed for an upper limit of this upper limit tends to cancel and shows an oscillating behavior as a function of the upper limit of the integration. 
+					</div>
+					<div class="uAuthor">
+						Large-Nc Properties of the rho and f0(600) Mesons from Unitary Resonance Chiral Dynamics
+					</div>
+										<div class="usage">
+						Regime II (the ε → 0 limit is taken after the n → ∞ limit). • In Regime III, by taking the continuum limit of the recursions (4.18), we predict the following scaling behavior for the variance of the process: Vn ≈ εW (t). 
+					</div>
+					<div class="uAuthor">
+						On stochastic differential equations with random delay
+					</div>
+										<div class="usage">
+						Lemma : The leading term limit agrees with the Cauchy limit when the Cauchy limit is nonzero. 
+					</div>
+					<div class="uAuthor">
+						Banishing divergence Part 1: Infinite numbers as the limit of sequences of real numbers
+					</div>
+										<div class="usage">
+						Alling ascribes the invention of the pseudo-limit on psuedo-convergent sequences to Ostrowski(1935). His deﬁnition of “limit” as “the unique simplest pseudo-limit” may not correspond all that closely to my “leading term limit”. 
+					</div>
+					<div class="uAuthor">
+						Banishing divergence Part 1: Infinite numbers as the limit of sequences of real numbers
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an act of limiting or restricting (as by regulation)"><a href="restriction.html">restriction</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="disadvantage.html">disadvantage</a>, <a href="indefinite%20quantity.html">indefinite quantity</a>, <a href="regulating.html">regulating</a>, <a href="regulation.html">regulation</a>, <a href="rule.html">rule</a>, <a href="time%20limit.html">time limit</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="arms%20control.html">arms control</a>, <a href="clampdown.html">clampdown</a>, <a href="cutoff.html">cutoff</a>, <a href="extremum.html">extremum</a>, <a href="freeze.html">freeze</a>, <a href="hold-down.html">hold-down</a>, <a href="load-shedding.html">load-shedding</a>, <a href="narrowness.html">narrowness</a>, <a href="peak.html">peak</a>, <a href="quantification.html">quantification</a>, <a href="restraint.html">restraint</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="limit.html">limit</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absolute.html">absolute</a>, <a href="absolutely.html">absolutely</a>, <a href="actuate.html">actuate</a>, <a href="acuminate.html">acuminate</a>, <a href="adoption.html">adoption</a>, <a href="Anomura.html">Anomura</a>, <a href="aorist.html">aorist</a>, <a href="apochromatic.html">apochromatic</a>, <a href="arms%20control.html">arms control</a>, <a href="baronet.html">baronet</a>, <a href="bound.html">bound</a>, <a href="Castle-guard.html">Castle-guard</a>, <a href="circumscription.html">circumscription</a>, <a href="clear.html">clear</a>, <a href="condition.html">condition</a>, <a href="conditional.html">conditional</a>, <a href="conditionality.html">conditionality</a>, <a href="Confineless.html">Confineless</a>, <a href="conterminous.html">conterminous</a>, <a href="corrective.html">corrective</a>, <a href="delimitation.html">delimitation</a>, <a href="derogation.html">derogation</a>, <a href="determinable.html">determinable</a>, <a href="enlarge.html">enlarge</a>, <a href="entail.html">entail</a>, <a href="everlastingly.html">everlastingly</a>, <a href="Executory.html">Executory</a>, <a href="exorbitant.html">exorbitant</a>, <a href="fallacy.html">fallacy</a>, <a href="Fast-day.html">Fast-day</a>, <a href="fee%20simple.html">fee simple</a>, <a href="finitude.html">finitude</a>, <a href="fix.html">fix</a>, <a href="generalization.html">generalization</a>, <a href="gimp.html">gimp</a>, <a href="Greenstone.html">Greenstone</a>, <a href="hitch.html">hitch</a>, <a href="hobble.html">hobble</a>, <a href="hold-down.html">hold-down</a>, <a href="Illimitation.html">Illimitation</a>, <a href="In.html">In</a>, <a href="inclusion.html">inclusion</a>, <a href="Inconditional.html">Inconditional</a>, <a href="indefinitely.html">indefinitely</a>, <a href="institute.html">institute</a>, <a href="interminable.html">interminable</a>, <a href="Kenosis.html">Kenosis</a>, <a href="large.html">large</a>, <a href="Limitary.html">Limitary</a>, <a href="limitedly.html">limitedly</a>, <a href="limp.html">limp</a>, <a href="list.html">list</a>, <a href="localism.html">localism</a>, <a href="locality.html">locality</a>, <a href="long.html">long</a>, <a href="margin.html">margin</a>, <a href="mete.html">mete</a>, <a href="monomania.html">monomania</a>, <a href="necessity.html">necessity</a>, <a href="Neo-Malthusian.html">Neo-Malthusian</a>, <a href="nightly.html">nightly</a>, <a href="Nonlimitation.html">Nonlimitation</a>, <a href="Noxal.html">Noxal</a>, <a href="omnipotence.html">omnipotence</a>, <a href="once.html">once</a>, <a href="parochialism.html">parochialism</a>, <a href="patriarch.html">patriarch</a>, <a href="People%27s%20Party.html">People's Party</a>, <a href="perpetuity.html">perpetuity</a>, <a href="personality.html">personality</a>, <a href="power.html">power</a>, <a href="precision.html">precision</a>, <a href="Prefinition.html">Prefinition</a>, <a href="pretty.html">pretty</a>, <a href="proration.html">proration</a>, <a href="qualification.html">qualification</a>, <a href="qualified.html">qualified</a>, <a href="Qualifiedly.html">Qualifiedly</a>, <a href="quantification.html">quantification</a>, <a href="quota.html">quota</a>, <a href="reservation.html">reservation</a>, <a href="Restrainedly.html">Restrainedly</a>, <a href="restraint.html">restraint</a>, <a href="restriction.html">restriction</a>, <a href="restrictive.html">restrictive</a>, <a href="restrictively.html">restrictively</a>, <a href="SALT%20I.html">SALT I</a>, <a href="SALT%20II.html">SALT II</a>, <a href="scruple.html">scruple</a>, <a href="Soleship.html">Soleship</a>, <a href="stint.html">stint</a>, <a href="tail.html">tail</a>, <a href="term.html">term</a>, <a href="topically.html">topically</a>, <a href="Unless.html">Unless</a>, <a href="unmortgaged.html">unmortgaged</a>, <a href="unqualifiedly.html">unqualifiedly</a>, <a href="unreservedly.html">unreservedly</a>, <a href="unrestrainedly.html">unrestrainedly</a>, <a href="Which.html">Which</a>, <a href="will.html">will</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					kimitation, oimitation, pimitation, lumitation, ljmitation, lkmitation, lomitation, linitation, lijitation, likitation, limutation, limjtation, limktation, limotation, limiration, limifation, limigation, limiyation, limitqtion, limitwtion, limitstion, limitztion, limitarion, limitafion, limitagion, limitayion, limitatuon, limitatjon, limitatkon, limitatoon, limitatiin, limitatikn, limitatiln, limitatipn, limitatiob, limitatioh, limitatioj, limitatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

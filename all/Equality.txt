@@ -1,0 +1,576 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>equality</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">equality</span> <span class="exp">the quality of being the same in quantity or measure or value or status</span> </li><li><span class="tSpeech">n</span> <span class="term">equality</span> <span class="exp">a state of being essentially equal or equivalent; equally balanced</span> <span class="quot">"on a par with the best"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The world population of chickens is about equal to the number of people									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Equality</span> <span class="exp">Evenness; uniformity; as, an <span class="wUex">equality</span> of surface.</span> </li><li><span class="term">Equality</span> <span class="exp"><span class="wuFld">(Math)</span> Exact agreement between two expressions or magnitudes with respect to quantity; -- denoted by the symbol =; thus, <span class="wUmathex">a = x</span> signifies that a contains the same number and kind of units of measure that x does.</span> </li><li><span class="term">Equality</span> <span class="exp">Sameness in state or continued course; evenness; uniformity; as, an <span class="wUex">equality</span> of temper or constitution.</span> </li><li><span class="term">Equality</span> <span class="exp">The condition or quality of being equal; agreement in quantity or degree as compared; likeness in bulk, value, rank, properties, etc.; as, the <span class="wUex">equality</span> of two bodies in length or thickness; an <span class="wUex">equality</span> of rights.
+         </span> <span class="wuQuot">"A footing of equality with nobles."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										If someone was to fly once around the surface of the moon, it would be equal to a round trip from New York to London
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">equality</span> <span class="exp">The state of being equal; identity in magnitude or dimensions, value, qualities, degree, etc.; the state of being neither superior nor inferior, greater nor less, better nor worse, stronger nor weaker, etc., with regard to the thing or things compared.</span> </li><li><span class="tSpeech">n</span> <span class="term">equality</span> <span class="exp">Evenness; uniformity; sameness in state or continued course; equableness: as, equality of surface; an equality of temper or constitution.</span> </li><li><span class="tSpeech">n</span> <span class="term">equality</span> <span class="exp">In other cases, to indicate equality or equivalence of sense: as, Latin gratias = thanks.</span> </li><li><span class="tSpeech">n</span> <span class="term">equality</span> <span class="exp">In a limited use, as in the etymologies of this dictionary, to indicate specifically equality (ultimate identity) of form: as, English two = Latin duo = Greek δύο = Sanskrit dva.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										A person would have to drink more than 12 cups of hot cocoa to equal the amount of caffeine found in one cup of coffee
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Equality</span> <span class="exp">the condition of being equal: sameness: evenness</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Malcolm X</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Malcolm%20X.jpg" alt="Malcolm%20X">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Nobody can give you freedom. Nobody can give you equality or justice or anything. If you're a man, you take it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Woodrow T. Wilson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Woodrow%20T.%20Wilson.jpg" alt="Woodrow%20T.%20Wilson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You cannot be friends upon any other terms than upon the terms of equality.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Walter Lippmann</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Walter%20Lippmann.jpg" alt="Walter%20Lippmann">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is perfectly true that that government is best which governs least. It is equally true that that government is best which provides most.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Simone Weil</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Simone%20Weil.jpg" alt="Simone%20Weil">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Humanism was not wrong in thinking that truth, beauty, liberty, and equality are of infinite value, but in thinking that man can get them for himself without grace.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Heller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert Heller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The first myth of management is that it exists. The second myth of management is that success equals skill.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aeschylus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aeschylus.jpg" alt="Aeschylus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When a match has equal partners then I fear not.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">aequalitas</span>, fr. <span class="wUets">aequalis</span>, equal. See <span class="wUer">Equal</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>æqualis</i>—<i>æquāre</i>, to make equal—<i>æquus</i>, equal.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He produced another piece of the same kind at the appearance of Cato, with equal skill, but not equal happiness.
+					</div>
+					<div class="uAuthor">
+						"The Works of Samuel Johnson, LL.D. in Nine Volumes" by <span>Samuel Johnson</span>					</div>
+										<div class="usage">
+						Organization of the masses.+ Masses of men who are on a substantial equality with each other never can be anything but hopeless savages.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						Measure and boil for five minutes, add equal quantity of heated sugar, boil three minutes, skim and pour into glasses.
+					</div>
+					<div class="uAuthor">
+						"The Community Cook Book" by <span>Anonymous</span>					</div>
+										<div class="usage">
+						We now know that the principle of conservation holds equally good with elastic and unelastic bodies.
+					</div>
+					<div class="uAuthor">
+						"Fragments of science, V. 1-2" by <span>John Tyndall</span>					</div>
+										<div class="usage">
+						The result would be equally grand, equally gratifying.
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<div class="usage">
+						Their luxury and extravagance were only equalled by their presumption and insolence.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						To every action there is always an equal and contrary reaction.
+					</div>
+					<div class="uAuthor">
+						"Aether and Gravitation" by <span>William George Hooper</span>					</div>
+										<div class="usage">
+						Beside which, Fox said that it was idle to expect Pitt to admit the Whig leaders on an equal footing.
+					</div>
+					<div class="uAuthor">
+						"William Pitt and the Great War" by <span>John Holland Rose</span>					</div>
+										<div class="usage">
+						On the quarter, speculation is equally rife, though running in a different channel.
+					</div>
+					<div class="uAuthor">
+						"The Flag of Distress" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Gums are nutritious foods, but it is probable that they are not equal in alimental power to equal weights of starch or sugar.
+					</div>
+					<div class="uAuthor">
+						"The Stock-Feeder's Manual" by <span>Charles Alexander Cameron</span>					</div>
+										<div class="usage">
+						These are equally appropriate for the home circle.
+					</div>
+					<div class="uAuthor">
+						"Games for the Playground, Home, School and Gymnasium" by <span>Jessie H. Bancroft</span>					</div>
+										<div class="usage">
+						Both are deserts of immense extent, equally difficult to cross, and equally dangerous to the traveller.
+					</div>
+					<div class="uAuthor">
+						"Popular Adventure Tales" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Equal pay for both sexes for the performance of equal work.
+					</div>
+					<div class="uAuthor">
+						"British Socialism" by <span>J. Ellis Barker</span>					</div>
+										<div class="usage">
+						To her Zillah at once took a strong liking, and Mrs. Hart seemed to form one equally strong for her.
+					</div>
+					<div class="uAuthor">
+						"The Cryptogram" by <span>James De Mille</span>					</div>
+										<div class="usage">
+						Faith renders you equal with others, and others equal with you, and so on.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. II" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						John Smith would equal so many units of this, plus so many units of that, and so on.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						We give them an equally arbitrary rule for addition.
+					</div>
+					<div class="uAuthor">
+						"In the School-Room" by <span>John S. Hart</span>					</div>
+										<div class="usage">
+						If it failed to produce equal exertion, it could not be an equal conviction.
+					</div>
+					<div class="uAuthor">
+						"The Complete Project Gutenberg Works of Jane Austen" by <span>Jane Austen</span>					</div>
+										<div class="usage">
+						Things are equal to the imagination, which have the power of affecting the mind with an equal degree of terror, admiration, delight, or love.
+					</div>
+					<div class="uAuthor">
+						"Hazlitt on English Literature" by <span>Jacob Zeitlin</span>					</div>
+										<div class="usage">
+						Bismarck and the Pope proved equally persistent.
+					</div>
+					<div class="uAuthor">
+						"German Problems and Personalities" by <span>Charles Sarolea</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Think of the price of liberty,<br>
+Think of the lash and slavery,<br>
+Of lynch rule and its massacre<br>
+And strike for equal rights.
+							<div class="poet">"Strike For Equal Rights" by <span>Samuel Alfred Beadle</span></div>
+						</div>
+											<div class="poemQuote">
+							And my dear sir, fifty years hence,<br>
+When your grandchildren stand;<br>
+Ajax grandchildren's recompense,<br>
+Will show an equal man.
+							<div class="poet">"Ajax at the Centennial. 1897" by <span>Frank Barbour Coffin</span></div>
+						</div>
+											<div class="poemQuote">
+							They little know what dreams have been<br>
+My playmates, night and day;<br>
+Of equal kindness, helpful care,<br>
+A mother's perfect sway.
+							<div class="poet">"The Ugly Princess" by <span>Charles Kingsley</span></div>
+						</div>
+											<div class="poemQuote">
+							Beauteous all, if fur or feather,<br>
+Strength or gift of song be theirs;<br>
+He who planted all together<br>
+Equally their fate prepares.
+							<div class="poet">"Legend Of The Canadian Robin" by <span>John Douglas Sutherland Campbell</span></div>
+						</div>
+											<div class="poemQuote">
+							I meet my servants, growing old,<br>
+But never meet them with a scold.<br>
+My equals in an eye Divine--<br>
+Why not my equals then in mine?
+							<div class="poet">"A Day" by <span>William Hutton</span></div>
+						</div>
+											<div class="poemQuote">
+							It wails—"Our life is far too brief,<br>
+Grant us a little longer day;<br>
+Or make us equal with the leaf,<br>
+It comes again, we pass away.
+							<div class="poet">"Life's Little Day" by <span>Alexander Anderson</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Some further Thoughts on Equality by Civil Union .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.slate.com/blogs/convictions/2008/11/16/the_civil_union_religious_freedom_compromise_and_prop_8.html" target="_blank" rel="external nofollow">slate.com</a>
+					</div>
+										<div class="usage">
+						It's a daunting task, but Moon Mullins and Joe Lowe were equal to it this morning.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wbkr.com/moon-mullins-and-joe-lowe-clean-out-the-wbkr-laboratory-er-refrigerator/" target="_blank" rel="external nofollow">wbkr.com</a>
+					</div>
+										<div class="usage">
+						Marriage Equality Supporters Behaving Like Nazis.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.advocate.com/politics/marriage-equality/2012/10/09/former-top-uk-clergyman-says-marriage-equality-supporters" target="_blank" rel="external nofollow">advocate.com</a>
+					</div>
+										<div class="usage">
+						Advocates for equal marriage rights are slurring their opponents as Nazis slurred Jews, says the former archbishop of Canterbury.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.advocate.com/politics/marriage-equality/2012/10/09/former-top-uk-clergyman-says-marriage-equality-supporters" target="_blank" rel="external nofollow">advocate.com</a>
+					</div>
+										<div class="usage">
+						Royals clobber Nativity to equal most wins.
+					</div>
+					<div class="uAuthor">
+						<a href="http://timesleader.com/stories/Royals-clobber-Nativity-to-equal-most-wins,225589?category_id=647&amp;town_id=1&amp;sub_type=stories" target="_blank" rel="external nofollow">timesleader.com</a>
+					</div>
+										<div class="usage">
+						Numbers on 'our side' do not equal control.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Politics/2012/1014/History-shows-coattail-effect-not-so-crucial-to-presidents" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						'Modern Family' star's fight for equality.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kxly.com/health/family/-/115032/-/format/rsss_2.0/-/evplms/-/index.html" target="_blank" rel="external nofollow">kxly.com</a>
+					</div>
+										<div class="usage">
+						One day France's black citizens will enjoy the equality granted them under law.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/2007/0112/p01s04-woeu.html" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Fight Back Colorado, a group modeled on the effort that removed anti-equality incumbents in New York, will target lawmakers who blocked civil unions this year.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.advocate.com/politics/marriage-equality/2012/06/27/colorado-group-target-lawmakers-who-blocked-civil-unions" target="_blank" rel="external nofollow">advocate.com</a>
+					</div>
+										<div class="usage">
+						You can vote for job creation, social justice, and equality or, impediments to progress and prejudice.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bainbridgereview.com/opinion/letters/152149715.html" target="_blank" rel="external nofollow">bainbridgereview.com</a>
+					</div>
+										<div class="usage">
+						Two and two will equal four anywhere on earth.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ldnews.com/opinion/ci_21679478/counting-house" target="_blank" rel="external nofollow">ldnews.com</a>
+					</div>
+										<div class="usage">
+						Doubling your 52-degree V-angle and adding Honda's crafty 76-degree crankpin offset equals 180 degrees.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.motorcyclistonline.com/howto/answers/122_1012_aprilia_mille_fuel_leak_and_honda_vtx_crankshaft/" target="_blank" rel="external nofollow">motorcyclistonline.com</a>
+					</div>
+										<div class="usage">
+						After you file, all creditors that have filed claims against you in the same class are considered equal in receiving payment from your liquidated property.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mytvwichita.com/guides/legal/bankruptcy/story.aspx?heading=Chapter+7%3A+Liquidation&amp;content_id=e83db322-20ad-4f89-ac26-8e6a59fa1645" target="_blank" rel="external nofollow">mytvwichita.com</a>
+					</div>
+										<div class="usage">
+						RIAA LP Equalization Page 2.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.stereophile.com/content/cut-and-thrust-riaa-lp-equalization-page-2" target="_blank" rel="external nofollow">stereophile.com</a>
+					</div>
+										<div class="usage">
+						DC United equaled its worst start in club history with four straight losses when it fell to Chicago, 2-0, at home on Saturday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.socceramerica.com/article/37757/injuries-deprive-dc-of-key-returnees.html" target="_blank" rel="external nofollow">socceramerica.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						However we see that these oscillations are virtual because when νe really transits into νµ , then it can decay into electron neutrino plus something, i.e. we gain the energy from vacuum, which is equal to the mass difference ∆m = mνµ − mνe (momenta of νe and νµ are equal at oscillations). 
+					</div>
+					<div class="uAuthor">
+						Neutrino Oscillations. Theory and Experiment
+					</div>
+										<div class="usage">
+						As S1 , S2 are equal on the generators of the algebra they are equal. 
+					</div>
+					<div class="uAuthor">
+						Coassociativity breaking and oriented graphs
+					</div>
+										<div class="usage">
+						Pr(W ′X = g) equals 1/|Am | or equals 0 for all g . 
+					</div>
+					<div class="uAuthor">
+						Towards a practical, theoretically sound algorithm for random generation in finite groups
+					</div>
+										<div class="usage">
+						Indeed, we have proved, that we have an equality in (1.15), which also means that there are the equalities in (1.13) and (1.14). 
+					</div>
+					<div class="uAuthor">
+						A Peirce decomposition for generalized Jordan triple systems of second order
+					</div>
+										<div class="usage">
+						There exists a unique m &gt; 0 such that the image of χ equals C(q)[tm , t−m ]. (ii) Suppose that the image of χ equals C(q)[tm , t−m ]. 
+					</div>
+					<div class="uAuthor">
+						Quantum loop modules
+					</div>
+										<div class="usage">
+						The leading order contribution comes from integration around those saddle-points where exactly n parameters ǫk equal 1 (the rest being equal -1). 
+					</div>
+					<div class="uAuthor">
+						Random Matrices close to Hermitian or unitary: overview of methods and results
+					</div>
+										<div class="usage">
+						Thus, all N domain types are equally likely at this ﬁxed point, with any two types of domains equally likely to be adjacent to each other. 
+					</div>
+					<div class="uAuthor">
+						Permutation-Symmetric Multicritical Points in Random Antiferromagnetic Spin Chains
+					</div>
+										<div class="usage">
+						H = π∗ yields Ker H ⊆ Ker π∗ , while third equality H ◦ w = 0 Second equality π∗ means that Im w ⊆ Ker H. 
+					</div>
+					<div class="uAuthor">
+						On the concept of normal shift in non-metric geometry
+					</div>
+										<div class="usage">
+						The above equality (8.25) is an equality of functions. 
+					</div>
+					<div class="uAuthor">
+						On the concept of normal shift in non-metric geometry
+					</div>
+										<div class="usage">
+						Then, the correct speed appears as one equals t/r2 with rd , i.e. as one equals the speed rates for each marginal LDP. 
+					</div>
+					<div class="uAuthor">
+						Large deviations for Brownian motion in a random scenery
+					</div>
+										<div class="usage">
+						If we replace βη-equality in the above deﬁnition by β -equality (i.e., when G ◦ F =β I) we obtain the notion of a β -retraction (resp. β -embedding), denoted by ρ Eβ τ (resp. ρ ≤β τ ). 
+					</div>
+					<div class="uAuthor">
+						Retractions of Types with Many Atoms
+					</div>
+										<div class="usage">
+						In a steady state hydrostatic model LheatS = LradS for each radius, which implies two equalities: the equality of the powers of r in equations (2) and (3) and the equality of the constant terms in these two equations. 
+					</div>
+					<div class="uAuthor">
+						Problems in suppressing cooling flows in clusters of galaxies by global heat conduction
+					</div>
+										<div class="usage">
+						Clearly the unitary DF T -coin transforms each direction into an equally weighted superposition of directions such that after measurement each of them is equally likely to be obtained (with probability 1/d). 
+					</div>
+					<div class="uAuthor">
+						Quantum random walks - an introductory overview
+					</div>
+										<div class="usage">
+						Similarly all vertices of equal distance to the starting vertex, i.e. of equal Hamming weight, can be interchanged without changing the walk. 
+					</div>
+					<div class="uAuthor">
+						Quantum random walks - an introductory overview
+					</div>
+										<div class="usage">
+						Indeed, the equality |ρ|J = |σ |J + |τ |J means that (4.4) is an equality. 
+					</div>
+					<div class="uAuthor">
+						Kerov's central limit theorem for the Plancherel measure on Young diagrams
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a state of being essentially equal or equivalent; equally balanced"><a href="equivalence.html">equivalence</a>, <a href="equation.html">equation</a>, <a href="par.html">par</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="inequality.html">inequality</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="position.html">position</a>, <a href="sameness.html">sameness</a>, <a href="status.html">status</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="balance.html">balance</a>, <a href="egalite.html">egalite</a>, <a href="egality.html">egality</a>, <a href="equatability.html">equatability</a>, <a href="equivalence.html">equivalence</a>, <a href="evenness.html">evenness</a>, <a href="isometry.html">isometry</a>, <a href="tie.html">tie</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="equal.html">equal</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Adenanthera.html">Adenanthera</a>, <a href="adequate.html">adequate</a>, <a href="algebra.html">algebra</a>, <a href="Alternat.html">Alternat</a>, <a href="An%20equal.html">An equal</a>, <a href="analogy.html">analogy</a>, <a href="antifeminist.html">antifeminist</a>, <a href="Aporia.html">Aporia</a>, <a href="As.html">As</a>, <a href="associate.html">associate</a>, <a href="Babism.html">Babism</a>, <a href="balance.html">balance</a>, <a href="bankruptcy.html">bankruptcy</a>, <a href="behind.html">behind</a>, <a href="Chain%20rule.html">Chain rule</a>, <a href="civil%20right.html">civil right</a>, <a href="class.html">class</a>, <a href="classless.html">classless</a>, <a href="Co-ordinateness.html">Co-ordinateness</a>, <a href="Co-tidal.html">Co-tidal</a>, <a href="coequal.html">coequal</a>, <a href="Coequality.html">Coequality</a>, <a href="coextension.html">coextension</a>, <a href="compare.html">compare</a>, <a href="concurrence.html">concurrence</a>, <a href="condescend.html">condescend</a>, <a href="condescension.html">condescension</a>, <a href="Confessional%20equality.html">Confessional equality</a>, <a href="Congress%20of%20Racial%20Equality.html">Congress of Racial Equality</a>, <a href="congruity.html">congruity</a>, <a href="Co%C3%B6rdinateness.html">Coördinateness</a>, <a href="core.html">core</a>, <a href="Cotidal.html">Cotidal</a>, <a href="counterbalance.html">counterbalance</a>, <a href="democracy.html">democracy</a>, <a href="Democrat.html">Democrat</a>, <a href="Democratic.html">Democratic</a>, <a href="Du%20Bois.html">Du Bois</a>, <a href="egalitarian.html">egalitarian</a>, <a href="egalitarianism.html">egalitarianism</a>, <a href="egalite.html">egalite</a>, <a href="egality.html">egality</a>, <a href="Egg%20cleavage.html">Egg cleavage</a>, <a href="emancipate.html">emancipate</a>, <a href="emulate.html">emulate</a>, <a href="Equability.html">Equability</a>, <a href="equal.html">equal</a>, <a href="equalitarian.html">equalitarian</a>, <a href="equalitarianism.html">equalitarianism</a>, <a href="Equalness.html">Equalness</a>, <a href="equanimity.html">equanimity</a>, <a href="equate.html">equate</a>, <a href="equation.html">equation</a>, <a href="Equilibrity.html">Equilibrity</a>, <a href="equilibrium.html">equilibrium</a>, <a href="equipage.html">equipage</a>, <a href="equipoise.html">equipoise</a>, <a href="Equipollence.html">Equipollence</a>, <a href="Equipollency.html">Equipollency</a>, <a href="Equiponderance.html">Equiponderance</a>, <a href="Equiponderancy.html">Equiponderancy</a>, <a href="equity.html">equity</a>, <a href="equivalence.html">equivalence</a>, <a href="even.html">even</a>, <a href="Evenhand.html">Evenhand</a>, <a href="evenly.html">evenly</a>, <a href="evenness.html">evenness</a>, <a href="Farmer.html">Farmer</a>, <a href="Homocercy.html">Homocercy</a>, <a href="Homoousian.html">Homoousian</a>, <a href="Hotchpot.html">Hotchpot</a>, <a href="hotchpotch.html">hotchpotch</a>, <a href="human%20right.html">human right</a>, <a href="Hydrostatic%20paradox.html">Hydrostatic paradox</a>, <a href="identity.html">identity</a>, <a href="imbalance.html">imbalance</a>, <a href="Imparity.html">Imparity</a>, <a href="Indistinction.html">Indistinction</a>, <a href="inequality.html">inequality</a>, <a href="infinitesimal.html">infinitesimal</a>, <a href="Inverse%20proportion.html">Inverse proportion</a>, <a href="irradiation.html">irradiation</a>, <a href="Is-.html">Is-</a>, <a href="Iso-.html">Iso-</a>, <a href="Isobarism.html">Isobarism</a>, <a href="Isochasmic.html">Isochasmic</a>, <a href="Isochronize.html">Isochronize</a>, <a href="isoclinal.html">isoclinal</a>, <a href="isoclinic.html">isoclinic</a>, <a href="Isodynamic.html">Isodynamic</a>, <a href="Isohyetal.html">Isohyetal</a>, <a href="isometric.html">isometric</a>, <a href="isometrical.html">isometrical</a>, <a href="isometropia.html">isometropia</a>, <a href="isometry.html">isometry</a>, <a href="Isonephelic.html">Isonephelic</a>, <a href="Isonomy.html">Isonomy</a>, <a href="Isopycnic.html">Isopycnic</a>, <a href="Isostatic.html">Isostatic</a>, <a href="isothermal.html">isothermal</a>, <a href="James%20Leonard%20Farmer.html">James Leonard Farmer</a>, <a href="Jovinianist.html">Jovinianist</a>, <a href="level.html">level</a>, <a href="leveler.html">leveler</a>, <a href="Levelness.html">Levelness</a>, <a href="match.html">match</a>, <a href="mathematical%20relation.html">mathematical relation</a>, <a href="measure.html">measure</a>, <a href="member.html">member</a>, <a href="moderator.html">moderator</a>, <a href="Monomial.html">Monomial</a>, <a href="nip%20and%20tuck.html">nip and tuck</a>, <a href="numeral.html">numeral</a>, <a href="Omniparity.html">Omniparity</a>, <a href="Orthochromatic.html">Orthochromatic</a>, <a href="Osculatrix.html">Osculatrix</a>, <a href="overbalance.html">overbalance</a>, <a href="Owelty.html">Owelty</a>, <a href="par.html">par</a>, <a href="Parage.html">Parage</a>, <a href="paragon.html">paragon</a>, <a href="parity.html">parity</a>, <a href="patriarch.html">patriarch</a>, <a href="pity.html">pity</a>, <a href="prelacy.html">prelacy</a>, <a href="Presbyterianism.html">Presbyterianism</a>, <a href="proportion.html">proportion</a>, <a href="Reciprocal%20proportion.html">Reciprocal proportion</a>, <a href="reciprocity.html">reciprocity</a>, <a href="reformation.html">reformation</a>, <a href="rhythm.html">rhythm</a>, <a href="Rivality.html">Rivality</a>, <a href="Rubblework.html">Rubblework</a>, <a href="Same.html">Same</a>, <a href="Segmentation%20of%20the%20ovum.html">Segmentation of the ovum</a>, <a href="Semi-Arian.html">Semi-Arian</a>, <a href="side.html">side</a>, <a href="sign.html">sign</a>, <a href="so.html">so</a>, <a href="spectrophotometer.html">spectrophotometer</a>, <a href="square.html">square</a>, <a href="state%20socialism.html">state socialism</a>, <a href="symmetry.html">symmetry</a>, <a href="thou.html">thou</a>, <a href="tie.html">tie</a>, <a href="To%20preach%20up.html">To preach up</a>, <a href="transpose.html">transpose</a>, <a href="trial%20balance.html">trial balance</a>, <a href="unbalanced.html">unbalanced</a>, <a href="unison.html">unison</a>, <a href="up.html">up</a>, <a href="Upon%20the%20square%20with.html">Upon the square with</a>, <a href="W.%20E.%20B.%20Du%20Bois.html">W. E. B. Du Bois</a>, <a href="weight.html">weight</a>, <a href="William%20Edward%20Burghardt%20Du%20Bois.html">William Edward Burghardt Du Bois</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wquality, squality, dquality, rquality, ewuality, eauality, esuality, eqyality, eqhality, eqjality, eqiality, equqlity, equwlity, equslity, equzlity, equakity, equaoity, equapity, equaluty, equaljty, equalkty, equaloty, equaliry, equalify, equaligy, equaliyy, equalitt, equalitg, equalith, equalitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

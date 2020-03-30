@@ -1,0 +1,539 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>democracy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">the doctrine that the numerical majority of an organized group can make decisions binding on the whole group</span> </li><li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">the political orientation of those who favor government by the people or by their elected representatives</span> </li><li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">a political system in which the supreme power lies in a body of citizens who can elect people to represent them</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Democracy</span> <span class="exp">Collectively, the people, regarded as the source of government.</span> </li><li><span class="term">Democracy</span> <span class="exp">Government by popular representation; a form of government in which the supreme power is retained by the people, but is indirectly exercised through a system of representation and delegated authority periodically renewed; a constitutional representative government; a republic.</span> </li><li><span class="term">Democracy</span> <span class="exp">Government by the people; a form of government in which the supreme power is retained and directly exercised by the people.</span> </li><li><span class="term">Democracy</span> <span class="exp">The principles and policy of the Democratic party, so called.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">Government by the people; a system of government in which the sovereign power of the state is vested in the people as a whole, and is exercised directly by them or their elected agents.</span> </li><li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">A state or civil body in which the people themselves exercise all legislative authority, and confer all executive and judicial powers, either by direct collective action or through elected representatives. Athens and some of the other ancient Greek states, and, within the limits of their power, the canton of Appenzell in Switzerland and the towns of the northern United States, are instances of democracies of the first class. In democratic republics generally, however, all power is exercised by delegated authority. See repuiblic.</span> </li><li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">Political and social equality in general; a state of society in which no hereditary differences of rank or privilege are recognized: opposed to aristocracy.</span> </li><li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">[capitalized] In United States political history:</span> </li><li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">The system of principles held by the Democratic party. See democratic.</span> </li><li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">The members of the Democratic party collectively.</span> </li><li><span class="tSpeech">n</span> <span class="term">democracy</span> <span class="exp">In a collective sense, the people; especially, the people regarded as exercising political powers.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Democracy</span> <span class="exp"><span class="itl">de-mok′ra-si</span> a form of government in which the supreme power is vested in the people collectively, and is administered by them or by officers appointed by them: the people, esp. the common people in the United States, the democratic party—also <span class="bld">Democ′raty</span> (<span class="itl">Milt.</span>)</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dave Barry</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Dave Barry">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Democracy: In which you say what you like and do what you're told.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aneurin Bevan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aneurin%20Bevan.jpg" alt="Aneurin%20Bevan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The worst thing I can say about democracy is that it has tolerated the Right Honorable Gentleman for four and a half years.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Bianco</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Robert Bianco">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We once worried that democracy could not survive if an undereducated populace knew too little. Now we worry if it can survive us knowing too much.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James F. Cooper</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20F.%20Cooper.jpg" alt="James%20F.%20Cooper">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The tendency of democracies is, in all things, to mediocrity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Meg Greenfield</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Meg Greenfield">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Everybody's for democracy in principle. It's only in practice that the thing gives rise to stiff objections.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Langston Hughes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Langston Hughes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I swear to the Lord, I still can't see, why Democracy means, everybody but me.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">démocratie</span>, fr. Gr. <span class="wUgrk">dhmokrati`a</span>; <span class="wUgrk">dh^mos</span> the people + <span class="wUgrk">kratei^n</span> to be strong, to rule, <span class="wUgrk">kra`tos</span> strength
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr.,—Gr. <i>dēmokratia</i>—<i>dēmos</i>, the people, and <i>kratein</i>, to rule—<i>kratos</i>, strength.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Democracy in America was a victor, and the republic had been established.
+					</div>
+					<div class="uAuthor">
+						"The Spirit of Lafayette" by <span>James Mott  Hallowell</span>					</div>
+										<div class="usage">
+						The world must be made safe for democracy.
+					</div>
+					<div class="uAuthor">
+						"In Our First Year of the War" by <span>Woodrow Wilson</span>					</div>
+										<div class="usage">
+						There is more or less talk nowadays about Industrial Democracy.
+					</div>
+					<div class="uAuthor">
+						"Working With the Working Woman" by <span>Cornelia Stratton Parker</span>					</div>
+										<div class="usage">
+						It is scarcely too much to call Thomas Paine the Rousseau of English democracy.
+					</div>
+					<div class="uAuthor">
+						"William Pitt and the Great War" by <span>John Holland Rose</span>					</div>
+										<div class="usage">
+						When, in a republic, the whole people possesses sovereign power, it is a democracy.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books--Volume 14--Philosophy and Economics" by <span>Various</span>					</div>
+										<div class="usage">
+						His aristocratic republic had to become a movement of democracy.
+					</div>
+					<div class="uAuthor">
+						"The Jewish State" by <span>Theodor Herzl</span>					</div>
+										<div class="usage">
+						Rebellion against a democracy on the part of members of that democracy stands on a widely different footing.
+					</div>
+					<div class="uAuthor">
+						"Freedom In Service" by <span>Fossey John Cobb Hearnshaw</span>					</div>
+										<div class="usage">
+						The tyranny of democracy is, as Mill insists, the most formidable, searching, and irresistible of all.
+					</div>
+					<div class="uAuthor">
+						"The Quarterly Review, Volume 162, No. 324, April, 1886" by <span>Various</span>					</div>
+										<div class="usage">
+						Thus Claire Boltwood's first voyage into democracy.
+					</div>
+					<div class="uAuthor">
+						"Free Air" by <span>Sinclair Lewis</span>					</div>
+										<div class="usage">
+						The absolute monarchy of one age yields to the semi-democracy of the next.
+					</div>
+					<div class="uAuthor">
+						"The New Education" by <span>Scott Nearing</span>					</div>
+										<div class="usage">
+						Given this difficulty about quite direct democracy over large areas, I think the nearest thing to democracy is despotism.
+					</div>
+					<div class="uAuthor">
+						"What I Saw in America" by <span>G. K. Chesterton</span>					</div>
+										<div class="usage">
+						Either she may develop on democratic lines; and Democracy, as I think, demonstrably implies some kind of socialism.
+					</div>
+					<div class="uAuthor">
+						"Appearances" by <span>Goldsworthy Lowes Dickinson</span>					</div>
+										<div class="usage">
+						If he wants another system, whatever else it may be, it will not be democracy, or at least it will not be a democratic democracy.
+					</div>
+					<div class="uAuthor">
+						"The Cult of Incompetence" by <span>Emile Faguet</span>					</div>
+										<div class="usage">
+						In this way they combined direct democracy with representative democracy.
+					</div>
+					<div class="uAuthor">
+						"Lectures on the French Revolution" by <span>John Emerich Edward Dalberg-Acton</span>					</div>
+										<div class="usage">
+						Senecal, in order to bring this discussion to a close, asked whether the play served the cause of Democracy.
+					</div>
+					<div class="uAuthor">
+						"Sentimental Education, Volume II" by <span>Gustave Flaubert</span>					</div>
+										<div class="usage">
+						This drift toward democracy is seen in the changes made in the state constitutions after the outbreak of the Revolution.
+					</div>
+					<div class="uAuthor">
+						"The Spirit of American Government" by <span>J. Allen Smith</span>					</div>
+										<div class="usage">
+						In a democracy it should, without question, be a fundamental fact that hand in hand with equal rights there should go a sense of equal duty.
+					</div>
+					<div class="uAuthor">
+						"The Higher Powers of Mind and Spirit" by <span>Ralph Waldo Trine</span>					</div>
+										<div class="usage">
+						As books became the possession of the common man the foundation was laid for experiments in democracy.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						This excuse is an additional proof of the moral and political weakness of Social Democracy.
+					</div>
+					<div class="uAuthor">
+						"German Problems and Personalities" by <span>Charles Sarolea</span>					</div>
+										<div class="usage">
+						Aristocracy has not been able to keep a proportionate pace with democracy.
+					</div>
+					<div class="uAuthor">
+						"The Writings Of Thomas Paine, Complete" by <span>Thomas Paine</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Are these the heroes high and true,<br>
+Who, seeing right with honest eyes,<br>
+Will risk their all in putting through<br>
+Democracy's stern Enterprise?
+							<div class="poet">"To A Politician" by <span>Edward Dyson</span></div>
+						</div>
+											<div class="poemQuote">
+							Bill's father would never knowingly sit down at table with a Democrat.<br>
+Now Bill says democracy must go.<br>
+Go on democracy.<br>
+Democracy is the shit.<br>
+Relativity is the shit.
+							<div class="poet">"The Soul Of Spain" by <span>Ernest Hemingway</span></div>
+						</div>
+											<div class="poemQuote">
+							Where do you win your secret<br>
+Of life untroubled, free, And wise with all the wisdom<br>
+Of time's democracy? What do you hear this many a year?—<br>
+Whisper the song to me !
+							<div class="poet">"The Sage" by <span>Harriet Monroe</span></div>
+						</div>
+											<div class="poemQuote">
+							That France hath kissed the mouth of Liberty,<br>
+And found it sweeter than his honied bees,<br>
+And that the giant wave Democracy<br>
+Breaks on the shores where Kings lay crouched at ease.
+							<div class="poet">"Louis Napoleon" by <span>Oscar Wilde</span></div>
+						</div>
+											<div class="poemQuote">
+							Good statesmanship's acutest scheme,<br>
+Philosophy's most perfect dream,<br>
+Democracy's pet plan,<br>
+Philanthropy's devoted will,<br>
+Not all our zeal, nor all our skill<br>
+Can heal the wounds of Man!
+							<div class="poet">"A Dozen Ballads About White Slavery. XII. The Liberator" by <span>Martin Farquhar Tupper </span></div>
+						</div>
+											<div class="poemQuote">
+							(Democracy! while weapons were everywhere aim'd at your breast,<br>
+I saw you serenely give birth to immortal children—saw in dreams<br>
+your dilating form;<br>
+Saw you with spreading mantle covering the world.)
+							<div class="poet">"As I Sat Alone" by <span>Walt Whitman</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The tropical Maldives, recently held up as a victory for democracy, has taken a nosedive, says its ousted president.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Asia-South-Central/2012/0427/Maldives-hailed-as-democracy-poster-child-turns-to-Islamist-fundamentalism" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						This shows how effective the gerrymandering process is in favoring one party over another, and how it undermines a fundamental principle of democracy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newsobserver.com/2012/11/08/2470842/tomas-baer-stop-the-gerrymander.html" target="_blank" rel="external nofollow">newsobserver.com</a>
+					</div>
+										<div class="usage">
+						A look at the rationales for going to war in Iraq, from WMD and terrorism to democracy in the Middle East.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wgbh/pages/frontline/shows/truth/why/" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Claudia Rosett is a journalist-in-residence with the Foundation for Defense of Democracies, and heads its Investigative Reporting Project.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nationalreview.com/articles/279197/goldstone-returns-claudia-rosett" target="_blank" rel="external nofollow">nationalreview.com</a>
+					</div>
+										<div class="usage">
+						No, this is democracy in action.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bendbulletin.com/apps/pbcs.dll/article?AID=/20121120/NEWS01/211200346/1033/NEWS0107&amp;nav_category=NEWS0107" target="_blank" rel="external nofollow">bendbulletin.com</a>
+					</div>
+										<div class="usage">
+						Myanmar's Pro-democracy Leader Grasping Opportunities, Taking Risks.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/newshour/rundown/2011/11/myanmar-democracy-advocate.html" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Let people off work with pay to vote and celebrate American democracy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/news/columnists/gromer-jeffers-jr/20121105-voters-poised-to-finally-answer-questions-about-national-local-races.ece?action=reregister" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						Recently, one defector group named "Democracy Network Against North Korean Gulags " has published the list of 617 peoples' names in the gulags .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.signonsandiego.com/uniontrib/20050515/news_mz1e15howard.html" target="_blank" rel="external nofollow">signonsandiego.com</a>
+					</div>
+										<div class="usage">
+						Bregtje van der Haak , Director of DISHING DEMOCRACY.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wnet/wideangle/episodes/dishing-democracy/filmmaker-notes-bregtje-van-der-haak/1842/" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						Hope on Egypt's hair-raising road toward democracy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2011/11/25/opinion/lust-egypt/index.html?hpt=op_t1" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Dubious Democracy on the Nile.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/11/04/AR2005110401429.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Syrian soldiers shout slogans in support of Syrian President Bashar al-Assad as they sit in the back of an army lorry on Aug 10, 2011, as they withdrew from the city of Hama after a 10-day military operation to quell pro-democracy protests.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/regions/middle-east/110815/syria-the-siege-hama?page=full" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						Benjamin Franklin thought that newspapers are crucial to maintaining a functional democracy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.recorder.com/opinion/2653975-95/franklin-benjamin-internet-newspapers" target="_blank" rel="external nofollow">recorder.com</a>
+					</div>
+										<div class="usage">
+						If we leave Iraq, what happens to the supporters of democracy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.slate.com/id/2152548/" target="_blank" rel="external nofollow">slate.com</a>
+					</div>
+										<div class="usage">
+						You would think that in a democracy, all you have to do to participate in public policy is find out when people meet and then attend.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thenewstribune.com/2012/09/09/2288599/a-free-forum-on-washingtons-public.html" target="_blank" rel="external nofollow">thenewstribune.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Townsend to introduce the notion of “p-brane democracy” . 
+					</div>
+					<div class="uAuthor">
+						The M Theory Five-Brane
+					</div>
+										<div class="usage">
+						The model treats the background and the branes on an equal footing, providing a ’brane-target space democracy’. 
+					</div>
+					<div class="uAuthor">
+						Chern-Simons Supersymmetric Branes
+					</div>
+										<div class="usage">
+						Notice that the possibility of treating on equal footing all fermion mass matrices is also present in the framework of an extended ﬂavour democracy. 
+					</div>
+					<div class="uAuthor">
+						The problem of neutrino masses in extensions of the Standard Model
+					</div>
+										<div class="usage">
+						Introduction The right of individuals to vote for our government representatives is at the heart of the democracy that we enjoy. 
+					</div>
+					<div class="uAuthor">
+						Security Considerations for Remote Electronic Voting over the Internet
+					</div>
+										<div class="usage">
+						One of the important properties of this new theoretical framework lies in the similarity of the mathematical language used to describe the fundamental objects of M-theory, bringing for ﬁrst time the possibility of describing string s and D-branes in a uni ﬁed framework, a “democracy of p-branes ” . 
+					</div>
+					<div class="uAuthor">
+						String bits and the Myers effect
+					</div>
+										<div class="usage">
+						This idea is known as the ﬂavour democracy or Democratic Mass Matrix (DMM) appr oach . 
+					</div>
+					<div class="uAuthor">
+						Four Statements about the Fourth Generation
+					</div>
+										<div class="usage">
+						As in the case of scheme A), diagonalization of the complete mass matrices leads to a gauge independent CKM counterterm matrix δV that preserves unitarity and now satisﬁes another highly desirable theoretical property, namely “ﬂavor-democracy”. 
+					</div>
+					<div class="uAuthor">
+						Radiative Corrections in Precision Electroweak Physics: a Historical Perspective
+					</div>
+										<div class="usage">
+						In introducing Dimensional Democracy we have given the bivector a coordinate and shown its utility in treating the spinning particle problem. 
+					</div>
+					<div class="uAuthor">
+						Physical Applications of a Generalized Clifford Calculus (Papapetrou equations and Metamorphic Curvature)
+					</div>
+										<div class="usage">
+						Thus the hierarchy of particles in QM is replaced by the hierarchy of charges and consequently we obtain “nuclear democracy” between particles. 
+					</div>
+					<div class="uAuthor">
+						Basic Quantum Theory and Measurement from the Viewpoint of Local Quantum Physics
+					</div>
+										<div class="usage">
+						Following the strategy outlined above we are going to discuss a simple phenomenological model of lepton masses and ﬂavor mixing, on the basis of ﬂavor democracy for charged leptons and mass degeneracy for neutrinos . 
+					</div>
+					<div class="uAuthor">
+						Summary of the NOW'98 Phenomenology Working Group
+					</div>
+										<div class="usage">
+						In summary, we have discussed a simple phenomenological model of lepton mass generation and ﬂavor mixing on the basis of ﬂavor democracy for charged leptons and mass degeneracy for neutrinos. 
+					</div>
+					<div class="uAuthor">
+						Summary of the NOW'98 Phenomenology Working Group
+					</div>
+										<div class="usage">
+						As before mentioned, each vote has a limited life, exactly as happens in a democracy where a mandate expires after a certain amount of time. 
+					</div>
+					<div class="uAuthor">
+						On Democracy in Peer-to-Peer systems
+					</div>
+										<div class="usage">
+						It’s not the voting that’s democracy, it’s the counting: Statistical detection of systematic election irregularities. 
+					</div>
+					<div class="uAuthor">
+						Statistical anomalies in 2011-2012 Russian elections revealed by 2D correlation analysis
+					</div>
+										<div class="usage">
+						A simple breaking of the subnuclear democracy of the quarks leads to a mixing between the second and the third family, in agrement with observation. 
+					</div>
+					<div class="uAuthor">
+						The Pattern of Quark Masses and Maximal CP-Violation
+					</div>
+										<div class="usage">
+						In ref. a general breaking of the ﬂavor democracy was discussed in term of two parameters α and β . 
+					</div>
+					<div class="uAuthor">
+						The Pattern of Quark Masses and Maximal CP-Violation
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the doctrine that the numerical majority of an organized group can make decisions binding on the whole group"><a href="majority%20rule.html">majority rule</a>, </div><div class="synGroup" title="a political system in which the supreme power lies in a body of citizens who can elect people to represent them"><a href="republic.html">republic</a>, <a href="commonwealth.html">commonwealth</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="doctrine.html">doctrine</a>, <a href="form%20of%20government.html">form of government</a>, <a href="ideology.html">ideology</a>, <a href="ism.html">ism</a>, <a href="philosophical%20system.html">philosophical system</a>, <a href="philosophy.html">philosophy</a>, <a href="political%20orientation.html">political orientation</a>, <a href="political%20system.html">political system</a>, <a href="political%20theory.html">political theory</a>, <a href="school%20of%20thought.html">school of thought</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="weimar%20republic.html">weimar republic</a>, <a href="parliamentary%20democracy.html">parliamentary democracy</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="democratic.html">democratic</a>, <a href="democratic.html">democratic</a>, <a href="democratize.html">democratize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Arithmocracy.html">Arithmocracy</a>, <a href="Barbados.html">Barbados</a>, <a href="Conservative.html">Conservative</a>, <a href="Democrat.html">Democrat</a>, <a href="Democratic.html">Democratic</a>, <a href="Democratical.html">Democratical</a>, <a href="Democratism.html">Democratism</a>, <a href="Democratist.html">Democratist</a>, <a href="fascism.html">fascism</a>, <a href="hypothesis.html">hypothesis</a>, <a href="Independent%20State%20of%20Papua%20New%20Guinea.html">Independent State of Papua New Guinea</a>, <a href="Jacksonian.html">Jacksonian</a>, <a href="open%20society.html">open society</a>, <a href="Papua%20New%20Guinea.html">Papua New Guinea</a>, <a href="parliamentary%20democracy.html">parliamentary democracy</a>, <a href="Platonic.html">Platonic</a>, <a href="Polyarchy.html">Polyarchy</a>, <a href="republic.html">republic</a>, <a href="self-government.html">self-government</a>, <a href="squint.html">squint</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					semocracy, eemocracy, femocracy, cemocracy, xemocracy, semocracy, dwmocracy, dsmocracy, ddmocracy, drmocracy, denocracy, dejocracy, dekocracy, demicracy, demkcracy, demlcracy, dempcracy, demoxracy, demodracy, demofracy, demovracy, democeacy, democdacy, democfacy, democtacy, democrqcy, democrwcy, democrscy, democrzcy, democraxy, democrady, democrafy, democravy, democract, democracg, democrach, democracu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

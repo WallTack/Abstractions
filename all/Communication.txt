@@ -1,0 +1,588 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>communication</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/188/30/7868.jpg" alt="EVIL COMMUNICATIONS">
+							<div class="caption">EVIL COMMUNICATIONS</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">something that is communicated by or to or between people or groups</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">the activity of communicating; the activity of conveying information</span> <span class="quot">"they could not act without official communication from Moscow"</span></li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">a connection allowing access between persons or places</span> <span class="quot">"how many lines of communication can there be among four people?","a secret passageway provided communication between the two rooms"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In Billings, Montana it is illegal for employees of the city's communications center to program their phones with speed dial.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Communication</span> <span class="exp"><span class="wuFld">(Rhet)</span> A trope, by which a speaker assumes that his hearer is a partner in his sentiments, and says <span class="wUex">we</span>, instead of <span class="wUex">I</span> or <span class="wUex">you</span>.</span> </li><li><span class="term">Communication</span> <span class="exp">Association; company.</span> <span class="wuQuot">"Evil communications corrupt good manners."</span></li><li><span class="term">Communication</span> <span class="exp">Intercourse by words, letters, or messages; interchange of thoughts or opinions, by conference or other means; conference; correspondence.</span> <span class="wuQuot">"Argument . . . and friendly communication ."</span></li><li><span class="term">Communication</span> <span class="exp">Means of communicating; means of passing from place to place; a connecting passage; connection.</span> <span class="wuQuot">"The Euxine Sea is conveniently situated for trade, by the communication it has both with Asia and Europe."</span></li><li><span class="term">Communication</span> <span class="exp">Participation in the Lord's supper.</span> </li><li><span class="term">Communication</span> <span class="exp">That which is communicated or imparted; intelligence; news; a verbal or written message.</span> </li><li><span class="term">Communication</span> <span class="exp">The act or fact of communicating; as, <span class="wUex">communication</span> of smallpox; <span class="wUex">communication</span> of a secret.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Julius Caesar was the first to encode communications, using what has become known as the Caesar Cipher.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">The act of communicating. A conference; a joint deliberation.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">An act done in common with others; a joint transaction.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">The act of imparting, conferring, or bestowing: as, the communication of secrets.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">The act of sharing or participating.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">Participation in the sacrament of the Lord's supper.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">Interchange of thoughts, opinions, or information by speech or writing.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">Association; companionship; intercourse.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">Means of communicating; the way and the means of passing from place to place, as a strait or channel between seas or lakes, a road between cities or settlements, a gallery between apartments in a house or a fortification, the route by which an army communicates with its base of operations, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">That which is communicated or imparted; information or intelligence imparted by speech or writing; a document or message imparting information.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">In rhetoric, a figure by which a speaker or writer represents his hearer or reader as participating in his sentiments, by the use of the pronoun we instead of I or you.</span> </li><li><span class="tSpeech">n</span> <span class="term">communication</span> <span class="exp">A communication between such persons or under such circumstances that it is not a matter of right to prove it as an admission by calling the receiver of it as a witness. Also called confidential communication.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The "huddle" in football was formed due a deaf football player who used sign language to communicate and his team didn't want the opposition to see the signals he used and in turn huddled around him.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Communication</span> <span class="exp">act of communicating: that which is communicated: intercourse: correspondence: a means of communicating, a connecting passage or channel</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bertolt Brecht</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Bertolt%20Brecht.jpg" alt="Bertolt%20Brecht">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Society cannot share a common communication system so long as it is split into warring factions.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Duffecy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="James Duffecy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Music can name the unnamable and communicate the unknowable.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Theodore White</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Theodore White">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Power in America today is control of the means of communication.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Prayer is a passport to heaven. Your communication with God.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry David Thoreau</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20David%20Thoreau.jpg" alt="Henry%20David%20Thoreau">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Our manners have been corrupted by communication with the saints.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Eliot.jpg" alt="George%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Sympathetic people often don't communicate well, they back reflected images which hide their own depths.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Lines of communication</span> - Lines of communication are the routes used to communicate by people or groups who are in conflict; a government might open lines of communication with terrorists if it wished to negotiate with them.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">communicatio</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>communicāre</i>, <i>-ātum</i>, from <i>communis</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						But Betts had a communication to make that gave the governor a good deal of concern.
+					</div>
+					<div class="uAuthor">
+						"The Crater" by <span>James Fenimore Cooper</span>					</div>
+										<div class="usage">
+						Desires her to communicate extracts from this letter to the Ladies of his family.
+					</div>
+					<div class="uAuthor">
+						"Clarissa, Volume 7" by <span>Samuel Richardson</span>					</div>
+										<div class="usage">
+						The brightness of truth, as it had been communicated by Noah, became covered, as it were, with a cloud.
+					</div>
+					<div class="uAuthor">
+						"The Symbolism of Freemasonry" by <span>Albert G. Mackey</span>					</div>
+										<div class="usage">
+						I shall present my Reader with a short Specimen of them in this Paper, and may perhaps communicate more to him hereafter.
+					</div>
+					<div class="uAuthor">
+						"The Spectator, Volumes 1, 2 and 3" by <span>Joseph Addison and Richard Steele</span>					</div>
+										<div class="usage">
+						Of the Number to be Initiated at one Communication.
+					</div>
+					<div class="uAuthor">
+						"The Principles of Masonic Law" by <span>Albert G. Mackey</span>					</div>
+										<div class="usage">
+						All interpenetrate and communicate their action.
+					</div>
+					<div class="uAuthor">
+						"Delsarte System of Oratory" by <span>Various</span>					</div>
+										<div class="usage">
+						He had abandoned his communications.
+					</div>
+					<div class="uAuthor">
+						"Stonewall Jackson And The American Civil War" by <span>G. F. R. Henderson</span>					</div>
+										<div class="usage">
+						Mr. Grey refused to make any farther communication, simply saying that he would as yet express no opinion.
+					</div>
+					<div class="uAuthor">
+						"Mr. Scarborough's Family" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Even those who are firmly determined to keep the rule will, from inadvertence, for a day or two, make communication with each other.
+					</div>
+					<div class="uAuthor">
+						"The Teacher" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						Extensive railway communication and the Nile waterway induce a large transport trade, but there is little industry.
+					</div>
+					<div class="uAuthor">
+						"The Nuttall Encyclopaedia" by <span>Edited by Rev. James Wood</span>					</div>
+										<div class="usage">
+						It is easy to judge what must be their grief and surprise on receiving the fatal news which the letters Harry sent in to them communicated.
+					</div>
+					<div class="uAuthor">
+						"Clarissa Harlowe, Volume 9 (of 9)" by <span>Samuel Richardson</span>					</div>
+										<div class="usage">
+						Communication with the Natives.
+					</div>
+					<div class="uAuthor">
+						"Narrative Of The Voyage Of H.M.S. Rattlesnake, Commanded By The Late Captain Owen Stanley, R.N., F.R.S. Etc. During The Years 1846-1850. Including Discoveries And Surveys In New Guinea, The Louisiade Archipelago, Etc. To Which Is Added The Account Of Mr. E.B. Kennedy's Expedition For The Exploration Of The Cape York Peninsula. By John Macgillivray, F.R.G.S. Naturalist To The Expedition. In Two Volumes. Volume 1." by <span>John MacGillivray</span>					</div>
+										<div class="usage">
+						The entire Mississippi Valley in Arkansas is flooded and communication with many points cut off.
+					</div>
+					<div class="uAuthor">
+						"Messages and Papers of William McKinley V.2." by <span>William McKinley</span>					</div>
+										<div class="usage">
+						They have very little communication with the world above ground, and many hundreds of people are born, and live all their lives here.
+					</div>
+					<div class="uAuthor">
+						"The New-York Weekly Magazine" by <span>Various</span>					</div>
+										<div class="usage">
+						And what exalted mission is destined for this wonderful communicated strength?
+					</div>
+					<div class="uAuthor">
+						"The Expositor's Bible: Colossians and Philemon" by <span>Alexander Maclaren</span>					</div>
+										<div class="usage">
+						The number of communicants at the present time is 160.
+					</div>
+					<div class="uAuthor">
+						"Memorials of the Independent Churches in Northamptonshire" by <span>Thomas Coleman</span>					</div>
+										<div class="usage">
+						The most difficult thing to adjust in a Treaty of Commerce, will be the communications we shall have with the West India Islands.
+					</div>
+					<div class="uAuthor">
+						"The Diplomatic Correspondence of the American Revolution" by <span>Various</span>					</div>
+										<div class="usage">
+						Let us show that we feel this, by being unreserved in our communications with Him.
+					</div>
+					<div class="uAuthor">
+						"Practical Religion" by <span>John Charles Ryle</span>					</div>
+										<div class="usage">
+						He would never keep Sheila waiting like this if he were with means of communication.
+					</div>
+					<div class="uAuthor">
+						"The Stolen Statesman" by <span>William Le Queux</span>					</div>
+										<div class="usage">
+						One communicates with the shore by bellums.
+					</div>
+					<div class="uAuthor">
+						"The Secrets of a Kuttite" by <span>Edward O. Mousley</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							He'll hear no tone<br>
+Of the maiden he loves so well!<br>
+No telephone<br>
+Communicates with his cell!
+							<div class="poet">"HMS Pinafore: Act II" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							For as the tasteful bread and wine are good,<br>
+To strengthen and rejoice the heart of flesh:<br>
+Just so our Saviour's Body and his Blood,<br>
+The souls of good communicants refresh.
+							<div class="poet">"The Lord's Prayer" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							When these from Public Spirit smile, we see<br>
+Free-opening gates, and bow'ry pleasures free;<br>
+For sure great souls one truth can never miss,<br>
+Bliss not communicated is not bliss.
+							<div class="poet">"Of Public Spirit In Regard To Public Works: An Epistle, To His Royal Highness Frederick Prince of Wa" by <span>Richard Savage</span></div>
+						</div>
+											<div class="poemQuote">
+							The pidgin talk the youthful use<br>
+Bypasses conversation.<br>
+I can't believe the code they choose<br>
+Is a means of communication.<br>
+Oh to be with people over sixty<br>
+Despite their tendency to prolixty! 
+							<div class="poet">"You Can Be A Republican, I'm A Genocrat" by <span>Ogden Nash</span></div>
+						</div>
+											<div class="poemQuote">
+							Her grief, in jumps of earthly weight,<br>
+Did Jane around communicate:<br>
+For that the moment when began<br>
+The holy but mistaken man,<br>
+In view of light, to take his lift,<br>
+They cut him from her charm adrift!
+							<div class="poet">"Jump-To-Glory Jane" by <span>George Meredith</span></div>
+						</div>
+											<div class="poemQuote">
+							But Sir John Moore concentrated his troops in the north,<br>
+And into the west corner of Spain he boldly marched forth;<br>
+To cut off Napoleon's communications with France<br>
+He considered it to be advisable and his only chance. 
+							<div class="poet">"The Battle of Corunna" by <span>William Topaz McGonagall</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						There are no guarantees that the story will be published, of course, but it's still an open channel of anonymous communication.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pcworld.com/article/260201/ziet_online_lets_you_send_news_tips_anonymously_doesnt_help_with_headlines.html" target="_blank" rel="external nofollow">pcworld.com</a>
+					</div>
+										<div class="usage">
+						Under Department of Defense Instruction (DODI) 4650.02, MARS provides contingency radio communications ...
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.arrl.org/news/house-armed-services-committee-urges-mars-coordination" target="_blank" rel="external nofollow">arrl.org</a>
+					</div>
+										<div class="usage">
+						Certainly, the complexities of global HR require new strategies for communication and collaboration.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hreonline.com/HRE/story.jsp?storyId=69924308" target="_blank" rel="external nofollow">hreonline.com</a>
+					</div>
+										<div class="usage">
+						Communicating with strangers on the Web.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/learning/teachers/featured_articles/20020829thursday.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Memphis College of Art director of communications Cara Sievers is seen reflected in the window of a storage area where numerous paintings and sculptures owned by the college are kept.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commercialappeal.com/photos/2012/aug/09/303349/" target="_blank" rel="external nofollow">commercialappeal.com</a>
+					</div>
+										<div class="usage">
+						Hoiles, founder of Freedom of Communications, Inc, neared his 75th birthday, he published in the Register what he titled, "A few of the things I have faith in".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ocregister.com/articles/video-241095-faith-articles.html?videos" target="_blank" rel="external nofollow">ocregister.com</a>
+					</div>
+										<div class="usage">
+						Changes in technology, which make remote communication faster and easier, along with the high cost of office space will drive more businesses to seek efficiency by providing a place to work on an as-needed basis.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.adn.com/2011/03/05/1739053/office-hoteling-provides-desk.html" target="_blank" rel="external nofollow">adn.com</a>
+					</div>
+										<div class="usage">
+						 Ascend BUYER(S): BNP Media (17-title Professional Services Division, including Stagnito Communications).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foliomag.com/2008/ascends-divestments" target="_blank" rel="external nofollow">foliomag.com</a>
+					</div>
+										<div class="usage">
+						The root of this week's contretemps is one I've come to know well: bad communication.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.readthehook.com/79330/fearless-ashtree-dustup-no-whippersnappers-need-apply" target="_blank" rel="external nofollow">readthehook.com</a>
+					</div>
+										<div class="usage">
+						Center for Communication, Hearing &amp; Deafness 10243 W National Ave West Allis.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbs58.com/community-calendar/166441306.html" target="_blank" rel="external nofollow">cbs58.com</a>
+					</div>
+										<div class="usage">
+						 Sherry Law, Evergreen Communication, helps companies communicate effectively with employees, customers and other stakeholders.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cobizmag.com/author/sherry-law" target="_blank" rel="external nofollow">cobizmag.com</a>
+					</div>
+										<div class="usage">
+						Page 1 of 2 It took a few years to get its ducks in a row, but Siemens Enterprise Communications is poised to enter 2012 a legitimate contender in the North America unified communications market.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.crn.com/news/networking/232300655/siemens-enterprise-communications-were-very-serious-about-north-america-channel.htm" target="_blank" rel="external nofollow">crn.com</a>
+					</div>
+										<div class="usage">
+						TeleCommunication Systems Inc.'s SwiftLink 2510 SLICK (Secure Lightweight Interoperable Communications Kit) portable communications terminal greatly reduces the weight and size associated with deployable communication systems.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.officer.com/product/10046886/telecommunication-systems-inc-swiftlink-2510-slick" target="_blank" rel="external nofollow">officer.com</a>
+					</div>
+										<div class="usage">
+						I am a communications and electronics technician for the federal prison in Danbury, in charge of all communications there.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.newtownbee.com/Features/Features/2012/11-November/2012-11-21__12-10-32/Snapshot:+James+Rebman" target="_blank" rel="external nofollow">newtownbee.com</a>
+					</div>
+										<div class="usage">
+						The Society for Technical Communication is a professional association dedicated to the advancement of technical communication.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.stc.org/" target="_blank" rel="external nofollow">stc.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Hierarchial Hybrid Communication Network (HHCN): Information Theory Now let us consider the design of HHCN arising in disaster communication network (as well as networks arising in the hierarchies of various organisations). 
+					</div>
+					<div class="uAuthor">
+						Doubly Optimal Secure Multicasting: Hierarchical Hybrid Communication Network : Disaster Relief
+					</div>
+										<div class="usage">
+						This fault is of communication dead lock nature: all nodes are waiting for messages and there are no messages on the communication links. 
+					</div>
+					<div class="uAuthor">
+						Universal adaptive self-stabilizing traversal scheme: random walk and reloading wave
+					</div>
+										<div class="usage">
+						Xichun Li, Abudulla Gani, Rosli Salleh, Omar Zakaria, “The Future of Mobile Wireless Communication Networks” International Conference on Communication Software and Networks, 2009. . R.K.
+					</div>
+					<div class="uAuthor">
+						Survey of Latest Wireless Cellular Technologies for Enhancement of Spectral Density at Reduced Cost
+					</div>
+										<div class="usage">
+						Atmel microcontrollers (MCU), which communicate via internal I2C bus: MPU with external memory for behavioral programs, MPU for control of sensors/actuators and MPU for ZigBee and IR communication. 
+					</div>
+					<div class="uAuthor">
+						Collective Energy Foraging of Robot Swarms and Robot Organisms
+					</div>
+										<div class="usage">
+						Whereas one might think that forward classical communication helps, it is in fact known that it does not affect the quantum capacity since for any scheme that achieves error ε using classical forward communication, there exists a scheme without any classical communication with error at most 2ε . 
+					</div>
+					<div class="uAuthor">
+						Quantum to Classical Randomness Extractors
+					</div>
+										<div class="usage">
+						Security has become a topic of increasing importance in communications because the Internet and personal communications systems are now accessible worldwide. 
+					</div>
+					<div class="uAuthor">
+						On the design of a family of CI pseudo-random number generators
+					</div>
+										<div class="usage">
+						Eng. degree from Keio University, Yokohama, Japan in 2009. In 1998, he joined NTT Mobile Communications Network, Inc. (now NTT DOCOMO, INC.) His research interests include mobile communication systems. 
+					</div>
+					<div class="uAuthor">
+						Enhanced Inter-cell Interference Coordination for Heterogeneous Networks in LTE-Advanced: A Survey
+					</div>
+										<div class="usage">
+						Alice, Bob and Charlie can communicate over a communication network as depicted in Figure 3.1a, where the labels represent maximal transmission times. 
+					</div>
+					<div class="uAuthor">
+						Causality, Knowledge and Coordination in Distributed Systems
+					</div>
+										<div class="usage">
+						Alice, Bob and Charlie can communicate over a communication network as depicted in Figure 3.1a. 
+					</div>
+					<div class="uAuthor">
+						Causality, Knowledge and Coordination in Distributed Systems
+					</div>
+										<div class="usage">
+						Examples 2 and 3 illustrate how a process can come to coordinate its response with another process despite the lack of explicit communication between the sites, based on knowledge of existing upper bounds on communication. 
+					</div>
+					<div class="uAuthor">
+						Causality, Knowledge and Coordination in Distributed Systems
+					</div>
+										<div class="usage">
+						Here, given the graveness of energy considerations and the multi-hop nature of communication, our characterizations of minimal communication requirements may be highly relevant. 
+					</div>
+					<div class="uAuthor">
+						Causality, Knowledge and Coordination in Distributed Systems
+					</div>
+										<div class="usage">
+						Moreover, processes may delay message relaying, or may be committed to a speciﬁc communication channel despite the existence of several alternatives. A protocol-speciﬁc characterization of knowledge gain, and hence of temporal ordering, would take all such protocol-speciﬁed limitations on communication into account. 
+					</div>
+					<div class="uAuthor">
+						Causality, Knowledge and Coordination in Distributed Systems
+					</div>
+										<div class="usage">
+						Interpersonal or group communication (synchronous and/or asynchronous communication tools). - Organization and cohesion of the groups and the activities (coordination tools). 
+					</div>
+					<div class="uAuthor">
+						Agent-Based {\mu}-Tools Integrated into a Co-Design Platform
+					</div>
+										<div class="usage">
+						This lack of relevant communication and transfer of important information, in spite of the existence of a dependency between the teams causes problems in the development process. This communication problem was also mentioned by Project Manager Lin: “..
+					</div>
+					<div class="uAuthor">
+						Identifying Coordination Problems in Software Development: Finding Mismatches between Software and Project Team Structures
+					</div>
+										<div class="usage">
+						Furthermore, the Communication Richness of the messages could be taken into account. Communication Richness as defined by Ngwenyama and Lee (1997) ―not only understanding what the speaker or writer means, but the action type associated with the action type enacted by the speaker or writer. 
+					</div>
+					<div class="uAuthor">
+						Identifying Coordination Problems in Software Development: Finding Mismatches between Software and Project Team Structures
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the activity of communicating; the activity of conveying information"><a href="communicating.html">communicating</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abstract%20entity.html">abstract entity</a>, <a href="abstraction.html">abstraction</a>, <a href="act.html">act</a>, <a href="connectedness.html">connectedness</a>, <a href="connection.html">connection</a>, <a href="connexion.html">connexion</a>, <a href="deed.html">deed</a>, <a href="human%20action.html">human action</a>, <a href="human%20activity.html">human activity</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="anomalous%20communication.html">anomalous communication</a>, <a href="auditory%20communication.html">auditory communication</a>, <a href="black%20and%20white.html">black and white</a>, <a href="channel.html">channel</a>, <a href="communication%20channel.html">communication channel</a>, <a href="contact.html">contact</a>, <a href="contagion.html">contagion</a>, <a href="content.html">content</a>, <a href="didacticism.html">didacticism</a>, <a href="discourse.html">discourse</a>, <a href="discussion.html">discussion</a>, <a href="display.html">display</a>, <a href="dissuasion.html">dissuasion</a>, <a href="document.html">document</a>, <a href="dramatic%20art.html">dramatic art</a>, <a href="dramatics.html">dramatics</a>, <a href="dramaturgy.html">dramaturgy</a>, <a href="exam.html">exam</a>, <a href="examination.html">examination</a>, <a href="exhortation.html">exhortation</a>, <a href="expostulation.html">expostulation</a>, <a href="expression.html">expression</a>, <a href="expressive%20style.html">expressive style</a>, <a href="indicant.html">indicant</a>, <a href="indication.html">indication</a>, <a href="infection.html">infection</a>, <a href="intercommunication.html">intercommunication</a>, <a href="language.html">language</a>, <a href="line.html">line</a>, <a href="linguistic%20communication.html">linguistic communication</a>, <a href="mail.html">mail</a>, <a href="mail%20service.html">mail service</a>, <a href="medium.html">medium</a>, <a href="message.html">message</a>, <a href="objection.html">objection</a>, <a href="paralanguage.html">paralanguage</a>, <a href="paralinguistic%20communication.html">paralinguistic communication</a>, <a href="persuasion.html">persuasion</a>, <a href="phonation.html">phonation</a>, <a href="post.html">post</a>, <a href="postal%20service.html">postal service</a>, <a href="psychic%20communication.html">psychic communication</a>, <a href="psychical%20communication.html">psychical communication</a>, <a href="publication.html">publication</a>, <a href="remonstrance.html">remonstrance</a>, <a href="remonstration.html">remonstration</a>, <a href="sign.html">sign</a>, <a href="signal.html">signal</a>, <a href="signaling.html">signaling</a>, <a href="style.html">style</a>, <a href="suasion.html">suasion</a>, <a href="subject%20matter.html">subject matter</a>, <a href="substance.html">substance</a>, <a href="test.html">test</a>, <a href="theater.html">theater</a>, <a href="theatre.html">theatre</a>, <a href="touch.html">touch</a>, <a href="traffic.html">traffic</a>, <a href="transmission.html">transmission</a>, <a href="treatment.html">treatment</a>, <a href="verbal%20expression.html">verbal expression</a>, <a href="verbalism.html">verbalism</a>, <a href="visual%20communication.html">visual communication</a>, <a href="vocalisation.html">vocalisation</a>, <a href="vocalism.html">vocalism</a>, <a href="vocalization.html">vocalization</a>, <a href="voice.html">voice</a>, <a href="vox.html">vox</a>, <a href="written%20communication.html">written communication</a>, <a href="written%20language.html">written language</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="communicate.html">communicate</a>, <a href="communicational.html">communicational</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="acquaint.html">acquaint</a>, <a href="actuation.html">actuation</a>, <a href="address.html">address</a>, <a href="advice.html">advice</a>, <a href="Air-cell.html">Air-cell</a>, <a href="airless.html">airless</a>, <a href="anastomosis.html">anastomosis</a>, <a href="animal%20communication.html">animal communication</a>, <a href="anomalous%20communication.html">anomalous communication</a>, <a href="antenna.html">antenna</a>, <a href="Anton%20Chekhov.html">Anton Chekhov</a>, <a href="Anton%20Chekov.html">Anton Chekov</a>, <a href="Anton%20Pavlovich%20Chekhov.html">Anton Pavlovich Chekhov</a>, <a href="Anton%20Pavlovich%20Chekov.html">Anton Pavlovich Chekov</a>, <a href="Appui.html">Appui</a>, <a href="artery.html">artery</a>, <a href="asynchronous.html">asynchronous</a>, <a href="atoll.html">atoll</a>, <a href="auditory%20communication.html">auditory communication</a>, <a href="autism.html">autism</a>, <a href="auxiliary%20equipment.html">auxiliary equipment</a>, <a href="back%20channel.html">back channel</a>, <a href="Bailey.html">Bailey</a>, <a href="balloon.html">balloon</a>, <a href="barrage.html">barrage</a>, <a href="barrier.html">barrier</a>, <a href="Basic%20English.html">Basic English</a>, <a href="beam.html">beam</a>, <a href="bill%20of%20goods.html">bill of goods</a>, <a href="black%20and%20white.html">black and white</a>, <a href="body.html">body</a>, <a href="body%20language.html">body language</a>, <a href="bombardment.html">bombardment</a>, <a href="Boyau.html">Boyau</a>, <a href="brainwave.html">brainwave</a>, <a href="breathing.html">breathing</a>, <a href="calefaction.html">calefaction</a>, <a href="call.html">call</a>, <a href="call%20up.html">call up</a>, <a href="callosectomy.html">callosectomy</a>, <a href="callosotomy.html">callosotomy</a>, <a href="canal.html">canal</a>, <a href="canalisation.html">canalisation</a>, <a href="canalization.html">canalization</a>, <a href="carry.html">carry</a>, <a href="central.html">central</a>, <a href="channel.html">channel</a>, <a href="channelisation.html">channelisation</a>, <a href="channelization.html">channelization</a>, <a href="channels.html">channels</a>, <a href="chatty.html">chatty</a>, <a href="Chekhov.html">Chekhov</a>, <a href="Chekov.html">Chekov</a>, <a href="chinook.html">chinook</a>, <a href="Claude%20E.%20Shannon.html">Claude E. Shannon</a>, <a href="Claude%20Elwood%20Shannon.html">Claude Elwood Shannon</a>, <a href="Claude%20Shannon.html">Claude Shannon</a>, <a href="close.html">close</a>, <a href="closing.html">closing</a>, <a href="colloquialism.html">colloquialism</a>, <a href="Comether.html">Comether</a>, <a href="Commerce.html">Commerce</a>, <a href="communicate.html">communicate</a>, <a href="communication%20channel.html">communication channel</a>, <a href="communicational.html">communicational</a>, <a href="communications%20technology.html">communications technology</a>, <a href="communicative.html">communicative</a>, <a href="communion.html">communion</a>, <a href="computer%20user.html">computer user</a>, <a href="concert.html">concert</a>, <a href="conclusion.html">conclusion</a>, <a href="condescension.html">condescension</a>, <a href="conduit.html">conduit</a>, <a href="confidence.html">confidence</a>, <a href="Confidential%20communication.html">Confidential communication</a>, <a href="confidentiality.html">confidentiality</a>, <a href="connect.html">connect</a>, <a href="connected.html">connected</a>, <a href="connection.html">connection</a>, <a href="connexion.html">connexion</a>, <a href="contact.html">contact</a>, <a href="contagion.html">contagion</a>, <a href="content.html">content</a>, <a href="Conversable.html">Conversable</a>, <a href="converse.html">converse</a>, <a href="correspondence.html">correspondence</a>, <a href="Correspondency.html">Correspondency</a>, <a href="Covered%20way.html">Covered way</a>, <a href="crossing.html">crossing</a>, <a href="Crystallomancy.html">Crystallomancy</a>, <a href="curtain.html">curtain</a>, <a href="cutter.html">cutter</a>, <a href="cyber-terrorism.html">cyber-terrorism</a>, <a href="cyberculture.html">cyberculture</a>, <a href="cybernetics.html">cybernetics</a>, <a href="cybersex.html">cybersex</a>, <a href="cyberwar.html">cyberwar</a>, <a href="dance.html">dance</a>, <a href="data%20system.html">data system</a>, <a href="dealing.html">dealing</a>, <a href="defamation.html">defamation</a>, <a href="deictic.html">deictic</a>, <a href="deictic%20word.html">deictic word</a>, <a href="deixis.html">deixis</a>, <a href="deliberate%20defence.html">deliberate defence</a>, <a href="deliberate%20defense.html">deliberate defense</a>, <a href="depreciation.html">depreciation</a>, <a href="Dermogastric.html">Dermogastric</a>, <a href="derogation.html">derogation</a>, <a href="determent.html">determent</a>, <a href="deterrence.html">deterrence</a>, <a href="diaphragm.html">diaphragm</a>, <a href="didacticism.html">didacticism</a>, <a href="discharge.html">discharge</a>, <a href="discipline.html">discipline</a>, <a href="discourse.html">discourse</a>, <a href="discussion.html">discussion</a>, <a href="disdain.html">disdain</a>, <a href="disheartenment.html">disheartenment</a>, <a href="disparagement.html">disparagement</a>, <a href="dissuasion.html">dissuasion</a>, <a href="distribution%20list.html">distribution list</a>, <a href="disturbance.html">disturbance</a>, <a href="divine%20revelation.html">divine revelation</a>, <a href="drawbridge.html">drawbridge</a>, <a href="duplex.html">duplex</a>, <a href="e-mail.html">e-mail</a>, <a href="Easter%20dues.html">Easter dues</a>, <a href="EE.html">EE</a>, <a href="electrical%20engineering.html">electrical engineering</a>, <a href="electronic%20communication.html">electronic communication</a>, <a href="electronic%20mail.html">electronic mail</a>, <a href="email.html">email</a>, <a href="emphasise.html">emphasise</a>, <a href="emphasize.html">emphasize</a>, <a href="end.html">end</a>, <a href="ending.html">ending</a>, <a href="Endolymphatic.html">Endolymphatic</a>, <a href="Endostyle.html">Endostyle</a>, <a href="entropy.html">entropy</a>, <a href="Episcopal%20Church.html">Episcopal Church</a>, <a href="epistle.html">epistle</a>, <a href="Esperanto.html">Esperanto</a>, <a href="exchange.html">exchange</a>, <a href="excommunication.html">excommunication</a>, <a href="exhortation.html">exhortation</a>, <a href="expansion.html">expansion</a>, <a href="expression.html">expression</a>, <a href="extent.html">extent</a>, <a href="eye%20contact.html">eye contact</a>, <a href="fast-paced.html">fast-paced</a>, <a href="favor.html">favor</a>, <a href="favour.html">favour</a>, <a href="feed.html">feed</a>, <a href="feeder.html">feeder</a>, <a href="fiber-optic%20transmission%20system.html">fiber-optic transmission system</a>, <a href="fibre-optic%20transmission%20system.html">fibre-optic transmission system</a>, <a href="firework.html">firework</a>, <a href="flag%20of%20truce.html">flag of truce</a>, <a href="Flag%20of%20truse.html">Flag of truse</a>, <a href="flash.html">flash</a>, <a href="flow.html">flow</a>, <a href="FOTS.html">FOTS</a>, <a href="Galilee%20porch.html">Galilee porch</a>, <a href="gallery.html">gallery</a>, <a href="Galvanic%20circuit.html">Galvanic circuit</a>, <a href="Gastraea.html">Gastraea</a>, <a href="generation.html">generation</a>, <a href="gestural.html">gestural</a>, <a href="get.html">get</a>, <a href="get%20hold%20of.html">get hold of</a>, <a href="get%20in%20touch.html">get in touch</a>, <a href="get%20through.html">get through</a>, <a href="ghost%20dance.html">ghost dance</a>, <a href="gossipy.html">gossipy</a>, <a href="grapevine.html">grapevine</a>, <a href="graphic%20design.html">graphic design</a>, <a href="greeting.html">greeting</a>, <a href="ground%20control.html">ground control</a>, <a href="hear.html">hear</a>, <a href="heart.html">heart</a>, <a href="heat.html">heat</a>, <a href="hieroglyph.html">hieroglyph</a>, <a href="Hindustani.html">Hindustani</a>, <a href="home%20banking.html">home banking</a>, <a href="humbug.html">humbug</a>, <a href="Hyperotreta.html">Hyperotreta</a>, <a href="illumination.html">illumination</a>, <a href="Impartment.html">Impartment</a>, <a href="imperialism.html">imperialism</a>, <a href="impression.html">impression</a>, <a href="impulse.html">impulse</a>, <a href="infect.html">infect</a>, <a href="infection.html">infection</a>, <a href="information.html">information</a>, <a href="information%20system.html">information system</a>, <a href="inoculation.html">inoculation</a>, <a href="inspiration.html">inspiration</a>, <a href="instruct.html">instruct</a>, <a href="instruction.html">instruction</a>, <a href="insulate.html">insulate</a>, <a href="insulation.html">insulation</a>, <a href="insulator.html">insulator</a>, <a href="intent.html">intent</a>, <a href="inter-group%20communication.html">inter-group communication</a>, <a href="interaction.html">interaction</a>, <a href="intercept.html">intercept</a>, <a href="intercom.html">intercom</a>, <a href="Intercommon.html">Intercommon</a>, <a href="Intercommune.html">Intercommune</a>, <a href="intercommunicate.html">intercommunicate</a>, <a href="intercommunication.html">intercommunication</a>, <a href="intercommunication%20system.html">intercommunication system</a>, <a href="Intercommunity.html">Intercommunity</a>, <a href="intercourse.html">intercourse</a>, <a href="interdict.html">interdict</a>, <a href="interference.html">interference</a>, <a href="interlingual%20rendition.html">interlingual rendition</a>, <a href="International%20code.html">International code</a>, <a href="Interoceanic.html">Interoceanic</a>, <a href="Interosculate.html">Interosculate</a>, <a href="intimidation.html">intimidation</a>, <a href="introduction.html">introduction</a>, <a href="iron%20curtain.html">iron curtain</a>, <a href="isolation.html">isolation</a>, <a href="joining.html">joining</a>, <a href="LAN.html">LAN</a>, <a href="language.html">language</a>, <a href="language%20barrier.html">language barrier</a>, <a href="lenticel.html">lenticel</a>, <a href="letter.html">letter</a>, <a href="Letters%20of%20intercommuning.html">Letters of intercommuning</a>, <a href="liaison.html">liaison</a>, <a href="Life-rocket.html">Life-rocket</a>, <a href="line.html">line</a>, <a href="linguistic%20process.html">linguistic process</a>, <a href="link.html">link</a>, <a href="literature.html">literature</a>, <a href="lobby.html">lobby</a>, <a href="local%20area%20network.html">local area network</a>, <a href="machine-accessible.html">machine-accessible</a>, <a href="mean.html">mean</a>, <a href="Meconidium.html">Meconidium</a>, <a href="media%20consultant.html">media consultant</a>, <a href="media%20guru.html">media guru</a>, <a href="medium.html">medium</a>, <a href="memoir.html">memoir</a>, <a href="Mercurism.html">Mercurism</a>, <a href="message.html">message</a>, <a href="messenger.html">messenger</a>, <a href="Midi.html">Midi</a>, <a href="minister.html">minister</a>, <a href="multimedia.html">multimedia</a>, <a href="multimedia%20system.html">multimedia system</a>, <a href="music.html">music</a>, <a href="musical%20instrument%20digital%20interface.html">musical instrument digital interface</a>, <a href="naval%20blockade.html">naval blockade</a>, <a href="navigate.html">navigate</a>, <a href="necromancy.html">necromancy</a>, <a href="Nephridium.html">Nephridium</a>, <a href="network.html">network</a>, <a href="network%20topology.html">network topology</a>, <a href="Neuropore.html">Neuropore</a>, <a href="newsy.html">newsy</a>, <a href="Nilometer.html">Nilometer</a>, <a href="noise.html">noise</a>, <a href="noise%20conditions.html">noise conditions</a>, <a href="nonverbal.html">nonverbal</a>, <a href="Northeast%20passage.html">Northeast passage</a>, <a href="Northwest%20Passage.html">Northwest Passage</a>, <a href="note.html">note</a>, <a href="notice.html">notice</a>, <a href="occultism.html">occultism</a>, <a href="off-line%20equipment.html">off-line equipment</a>, <a href="onslaught.html">onslaught</a>, <a href="open.html">open</a>, <a href="oral.html">oral</a>, <a href="oral%20communication.html">oral communication</a>, <a href="oral%20exam.html">oral exam</a>, <a href="oral%20examination.html">oral examination</a>, <a href="orderly.html">orderly</a>, <a href="organ.html">organ</a>, <a href="outpouring.html">outpouring</a>, <a href="P.A..html">P.A.</a>, <a href="P.A.%20system.html">P.A. system</a>, <a href="Pa.html">Pa</a>, <a href="PA%20system.html">PA system</a>, <a href="paper.html">paper</a>, <a href="passageway.html">passageway</a>, <a href="patronage.html">patronage</a>, <a href="pencil.html">pencil</a>, <a href="perforate.html">perforate</a>, <a href="person-to-person.html">person-to-person</a>, <a href="persuasion.html">persuasion</a>, <a href="phone.html">phone</a>, <a href="phone%20system.html">phone system</a>, <a href="Pigeon%20English.html">Pigeon English</a>, <a href="pinnace.html">pinnace</a>, <a href="pipeline.html">pipeline</a>, <a href="pity.html">pity</a>, <a href="poetry.html">poetry</a>, <a href="port.html">port</a>, <a href="porta.html">porta</a>, <a href="portage.html">portage</a>, <a href="Pratique.html">Pratique</a>, <a href="pricker.html">pricker</a>, <a href="prisoner%20of%20war%20censorship.html">prisoner of war censorship</a>, <a href="private.html">private</a>, <a href="Privileged%20communication.html">Privileged communication</a>, <a href="process.html">process</a>, <a href="Protestant%20Episcopal%20Church.html">Protestant Episcopal Church</a>, <a href="psychic%20communication.html">psychic communication</a>, <a href="psychical%20communication.html">psychical communication</a>, <a href="public%20address%20system.html">public address system</a>, <a href="publication.html">publication</a>, <a href="publicity.html">publicity</a>, <a href="purport.html">purport</a>, <a href="pylorus.html">pylorus</a>, <a href="quarantine.html">quarantine</a>, <a href="radio.html">radio</a>, <a href="radio%20link.html">radio link</a>, <a href="radiocommunication.html">radiocommunication</a>, <a href="ramp.html">ramp</a>, <a href="rap.html">rap</a>, <a href="reach.html">reach</a>, <a href="recourse.html">recourse</a>, <a href="Referendary.html">Referendary</a>, <a href="regret.html">regret</a>, <a href="remit.html">remit</a>, <a href="rendering.html">rendering</a>, <a href="report.html">report</a>, <a href="revealed%20religion.html">revealed religion</a>, <a href="revelation.html">revelation</a>, <a href="ring.html">ring</a>, <a href="road.html">road</a>, <a href="Scytale.html">Scytale</a>, <a href="see.html">see</a>, <a href="selective%20information.html">selective information</a>, <a href="Self-knowing.html">Self-knowing</a>, <a href="Semeiology.html">Semeiology</a>, <a href="semiology.html">semiology</a>, <a href="Service%20of%20a%20writ.html">Service of a writ</a>, <a href="Shannon.html">Shannon</a>, <a href="ship%27s%20boat.html">ship's boat</a>, <a href="short-circuit.html">short-circuit</a>, <a href="signal.html">signal</a>, <a href="signalize.html">signalize</a>, <a href="simplex.html">simplex</a>, <a href="snake%20oil.html">snake oil</a>, <a href="social%20intercourse.html">social intercourse</a>, <a href="sociolinguist.html">sociolinguist</a>, <a href="soul.html">soul</a>, <a href="speak.html">speak</a>, <a href="Spectrophone.html">Spectrophone</a>, <a href="speech.html">speech</a>, <a href="speech%20communication.html">speech communication</a>, <a href="spirit.html">spirit</a>, <a href="spirit%20rapping.html">spirit rapping</a>, <a href="spiritualism.html">spiritualism</a>, <a href="spiritualistic.html">spiritualistic</a>, <a href="split-brain%20technique.html">split-brain technique</a>, <a href="spoken%20communication.html">spoken communication</a>, <a href="spoken%20language.html">spoken language</a>, <a href="spread.html">spread</a>, <a href="Spurling-line.html">Spurling-line</a>, <a href="statement.html">statement</a>, <a href="stem.html">stem</a>, <a href="stoma.html">stoma</a>, <a href="stranger.html">stranger</a>, <a href="style.html">style</a>, <a href="suasion.html">suasion</a>, <a href="subject%20matter.html">subject matter</a>, <a href="substance.html">substance</a>, <a href="support%20system.html">support system</a>, <a href="surround.html">surround</a>, <a href="switching.html">switching</a>, <a href="synchronous.html">synchronous</a>, <a href="table%20rapping.html">table rapping</a>, <a href="table%20tapping.html">table tapping</a>, <a href="talebearing.html">talebearing</a>, <a href="telecom%20equipment.html">telecom equipment</a>, <a href="telecom%20system.html">telecom system</a>, <a href="telecommunication.html">telecommunication</a>, <a href="telecommunication%20equipment.html">telecommunication equipment</a>, <a href="telecommunication%20system.html">telecommunication system</a>, <a href="telegram.html">telegram</a>, <a href="telegraph.html">telegraph</a>, <a href="telegraphically.html">telegraphically</a>, <a href="telepathy.html">telepathy</a>, <a href="telephone.html">telephone</a>, <a href="telephone%20exchange.html">telephone exchange</a>, <a href="telephone%20system.html">telephone system</a>, <a href="telephonic.html">telephonic</a>, <a href="tender.html">tender</a>, <a href="text.html">text</a>, <a href="thought%20transference.html">thought transference</a>, <a href="Thurl.html">Thurl</a>, <a href="tip.html">tip</a>, <a href="To%20be%20in%20touch.html">To be in touch</a>, <a href="To%20hear%20a%20bird%20sing.html">To hear a bird sing</a>, <a href="topology.html">topology</a>, <a href="torpedo.html">torpedo</a>, <a href="touch%20base.html">touch base</a>, <a href="tradition.html">tradition</a>, <a href="Traditive.html">Traditive</a>, <a href="traffic.html">traffic</a>, <a href="translation.html">translation</a>, <a href="transmission.html">transmission</a>, <a href="traverse.html">traverse</a>, <a href="treatment.html">treatment</a>, <a href="Triforium.html">Triforium</a>, <a href="trinket.html">trinket</a>, <a href="underline.html">underline</a>, <a href="underscore.html">underscore</a>, <a href="UNESCO.html">UNESCO</a>, <a href="United%20Nations%20Educational%20Scientific%20and%20Cultural%20Organization.html">United Nations Educational Scientific and Cultural Organization</a>, <a href="Unreserve.html">Unreserve</a>, <a href="utterance.html">utterance</a>, <a href="valve.html">valve</a>, <a href="vehicle.html">vehicle</a>, <a href="verbal%20expression.html">verbal expression</a>, <a href="verbalism.html">verbalism</a>, <a href="version.html">version</a>, <a href="viaduct.html">viaduct</a>, <a href="visitation.html">visitation</a>, <a href="visual%20communication.html">visual communication</a>, <a href="visual%20signal.html">visual signal</a>, <a href="viva.html">viva</a>, <a href="viva%20voce.html">viva voce</a>, <a href="vocalization.html">vocalization</a>, <a href="voice%20communication.html">voice communication</a>, <a href="Voyageur.html">Voyageur</a>, <a href="Voyageurs.html">Voyageurs</a>, <a href="war.html">war</a>, <a href="wing.html">wing</a>, <a href="wire.html">wire</a>, <a href="wireless.html">wireless</a>, <a href="with.html">with</a>, <a href="word.html">word</a>, <a href="word%20of%20mouth.html">word of mouth</a>, <a href="written%20communication.html">written communication</a>, <a href="written%20language.html">written language</a>, <a href="%E2%80%96Cordon%20sanitaire.html">‖Cordon sanitaire</a>, <a href="%E2%80%96En%20rapport%22.html">‖En rapport"</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xommunication, dommunication, fommunication, vommunication, cimmunication, ckmmunication, clmmunication, cpmmunication, conmunication, cojmunication, cokmunication, comnunication, comjunication, comkunication, commynication, commhnication, commjnication, comminication, commubication, commuhication, commujication, commumication, communucation, communjcation, communkcation, communocation, communixation, communidation, communifation, communivation, communicqtion, communicwtion, communicstion, communicztion, communicarion, communicafion, communicagion, communicayion, communicatuon, communicatjon, communicatkon, communicatoon, communicatiin, communicatikn, communicatiln, communicatipn, communicatiob, communicatioh, communicatioj, communicatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

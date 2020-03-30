@@ -1,0 +1,557 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>timidity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">timidity</span> <span class="exp">fearfulness in venturing into new and unknown places or activities</span> </li><li><span class="tSpeech">n</span> <span class="term">timidity</span> <span class="exp">fear of the unknown or unfamiliar or fear of making decisions</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Native Americans never actually ate turkey; killing such a timid bird was thought to indicate laziness.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Timidity</span> <span class="exp">The quality or state of being timid; timorousness; timidness.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">timidity</span> <span class="exp">The character of being timid, or easily frightened or daunted; cowardice; fearfulness; timorousness; shyness.</span> </li><li><span class="tSpeech">n</span> <span class="term">timidity</span> <span class="exp">Synonyms See bashfulness.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Timidity</span> <span class="exp">quality or state of being timid: want of courage</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Do not be too timid and squeamish about your actions. All life is an experiment.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Paul Richter</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20Paul%20Richter.jpg" alt="Jean%20Paul%20Richter">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A timid person is frightened before a danger, a coward during the time, and a courageous person afterwards.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">David Grayson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="David Grayson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We fail far more often by timidity than by over-daring.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jean Paul</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Jean%20Paul.jpg" alt="Jean%20Paul">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The timid are afraid before the danger, the cowardly while in danger, and the courageous after danger.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Latin Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Latin Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Fortune favors the bold, but abandons the timid.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dwight D. Eisenhower</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Dwight%20D.%20Eisenhower.jpg" alt="Dwight%20D.%20Eisenhower">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“History does not long entrust the care of freedom to the weak or the timid.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">timiditas</span>,: cf. F. <span class="wUets">timidité</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>timidus</i>—<i>timēre</i>, to fear.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The first timid questions came through the darkness, the first timid answers found their way back.
+					</div>
+					<div class="uAuthor">
+						"The Bridal March; One Day" by <span>Bjørnstjerne Bjørnson</span>					</div>
+										<div class="usage">
+						Rabbits timidly sought their old nests.
+					</div>
+					<div class="uAuthor">
+						"The Young Trailers" by <span>Joseph A. Altsheler</span>					</div>
+										<div class="usage">
+						For, I tell you, the indecision, vacillation, and timidity of the duke were the sole causes of our terrible disaster.
+					</div>
+					<div class="uAuthor">
+						"Napoleon and the Queen of Prussia" by <span>L. Mühlbach,</span>					</div>
+										<div class="usage">
+						Mrs. Ridge was a rather wet blanket, to be sure, but Grandma was a timid old lady who did not like travelling in the dark.
+					</div>
+					<div class="uAuthor">
+						"One Woman's Life" by <span>Robert Herrick</span>					</div>
+										<div class="usage">
+						In shutting the dining-room door upon Edwin, Mr Heve had nodded timidly in a curious way, highly self-conscious.
+					</div>
+					<div class="uAuthor">
+						"Clayhanger" by <span>Arnold Bennett</span>					</div>
+										<div class="usage">
+						A thought that is timidly born will be timidly executed.
+					</div>
+					<div class="uAuthor">
+						"Pushing to the Front" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						They had imagined her timid; she proved herself bold, verbose, violent.
+					</div>
+					<div class="uAuthor">
+						"The Works of Guy de Maupassant, Vol. 1 (of 8)" by <span>Guy   de Maupassant</span>					</div>
+										<div class="usage">
+						But the reeds had to stand where they were, and those who stand still are always timid advisers.
+					</div>
+					<div class="uAuthor">
+						"The Works of Robert Louis Stevenson - Swanston Edition" by <span>Robert Louis Stevenson</span>					</div>
+										<div class="usage">
+						Even Oblooria, the timid, rose to the occasion, and displayed unlooked-for heroism.
+					</div>
+					<div class="uAuthor">
+						"The Giant of the North" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						Mrs Captain Tipps was, as we have said, a thin old lady of an excessively timid temperament.
+					</div>
+					<div class="uAuthor">
+						"The Iron Horse" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						He was a weak and timid youth, small, often ill, without any energy.
+					</div>
+					<div class="uAuthor">
+						"The Works of Guy de Maupassant, Volume VIII." by <span>Guy de Maupassant</span>					</div>
+										<div class="usage">
+						Excepting when it has young under its protection, the whale generally exhibits remarkable timidity of character.
+					</div>
+					<div class="uAuthor">
+						"Thrilling Narratives of Mutiny, Murder and Piracy" by <span>Anonymous</span>					</div>
+										<div class="usage">
+						Bradley entered timidly, for the voice was not at all cordial.
+					</div>
+					<div class="uAuthor">
+						"A Spoil of Office" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						His face expressed timidity and hypocrisy.
+					</div>
+					<div class="uAuthor">
+						"The Son of Monte Christo" by <span>Jules Lermina</span>					</div>
+										<div class="usage">
+						He was timid with girls, and yet he wished to give Margaret a cordial greeting for Elsie's sake.
+					</div>
+					<div class="uAuthor">
+						"The Clansman" by <span>Thomas Dixon</span>					</div>
+										<div class="usage">
+						He felt for June the reluctant admiration gameness compels from those who are constitutionally timid.
+					</div>
+					<div class="uAuthor">
+						"The Fighting Edge" by <span>William MacLeod Raine</span>					</div>
+										<div class="usage">
+						He feels timid at the thoughts of prosecuting.
+					</div>
+					<div class="uAuthor">
+						"Shirley" by <span>Charlotte Brontë</span>					</div>
+										<div class="usage">
+						This, then, is our comfort for the timidity of the poor, weak flesh which still shudders at death.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. III" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						He remained lying on his bed as though paralyzed; only his eyes wandered timidly from corner to corner.
+					</div>
+					<div class="uAuthor">
+						"Absolution" by <span>Clara Viebig</span>					</div>
+										<div class="usage">
+						He was not a diffident or timid character, as we know.
+					</div>
+					<div class="uAuthor">
+						"When Ghost Meets Ghost" by <span>William Frend De Morgan</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Timid Warrior! Doubt, arising,<br>
+Scares thee with the slightest breath:<br>
+Matchless chief! who, Fear despising,<br>
+Tramples on the dart of Death!
+							<div class="poet">"Hope" by <span>Ernest Jones</span></div>
+						</div>
+											<div class="poemQuote">
+							The brook was babbling as of old,<br>
+The birds sang full and clear,<br>
+And the wild-flowers gay like a carpet lay<br>
+In the path of the timid deer.
+							<div class="poet">"The Death Of Robin Hood" by <span>Eugene Field</span></div>
+						</div>
+											<div class="poemQuote">
+							Fairies, if he knew his presence<br>
+Would a demon's spell allay,<br>
+Would he heed your timid whisperings?<br>
+Would he--will he come to-day?<br>
+REVENITA.
+							<div class="poet">"Mystery Of Carmel" by <span>Madge Morris Wagner</span></div>
+						</div>
+											<div class="poemQuote">
+							But Honour's pow'rful voice prevailing,<br>
+Breaks the spell that Fancy wove ;<br>
+Tow'ring Fame at distance hailing,<br>
+Drowns the timid voice of Love.
+							<div class="poet">"The Last Adieu" by <span>Laura Sophia Temple</span></div>
+						</div>
+											<div class="poemQuote">
+							Fairies, if he knew his presence<br>
+Would a demon’s spell allay,<br>
+Would he heed your timid whisperings?<br>
+Would he—will he come to-day?<br>
+REVENITA.
+							<div class="poet">"To Sanson" by <span>Madge Morris Wagner</span></div>
+						</div>
+											<div class="poemQuote">
+							A little boat, from crest to crest<br>
+Was lash'd about, and wildly thrown,<br>
+While down below lay timid souls,<br>
+Too faint to shriek, too weak to groan.
+							<div class="poet">"The Tempest Stilled" by <span>Thomas Frederick Young</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						And the nuns haven't exactly been timid.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/magazine/archive/2012/11/american-nuns/309117/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						The show's very first scene features a seemingly timid girl being led by an adventurous boy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pcmag.com/article2/0,2817,2396775,00.asp" target="_blank" rel="external nofollow">pcmag.com</a>
+					</div>
+										<div class="usage">
+						City administrators and city managers tend to be a timid lot.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eastbayexpress.com/ebx/most-courageous-city-official/BestOf?oid=3288554" target="_blank" rel="external nofollow">eastbayexpress.com</a>
+					</div>
+										<div class="usage">
+						Jay wasn't as timid as I – he tweeted through Cohen's account that he'd hijacked it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.timesunion.com/hottopic/firesheep-making-web-connection-hijacking-easy/469/" target="_blank" rel="external nofollow">blog.timesunion.com</a>
+					</div>
+										<div class="usage">
+						"I'm really not sure what to say," he began timidly.
+					</div>
+					<div class="uAuthor">
+						<a href="http://latimes.com/entertainment/tv/showtracker/la-et-st-jon-stewart-god-gaza-strip-20121127,0,5597794.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Republican and Democrat - are fully behind such structural changes at schools, but they can't be timid about the importance of reform .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lvrj.com/opinion/education-reform-180578061.html" target="_blank" rel="external nofollow">lvrj.com</a>
+					</div>
+										<div class="usage">
+						Over the years, Tinkers Creek, at turns a raging torrent and timid playground, has been abused, but restoration efforts are offering hope for its renewal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://ohiomagazine.com/Main/Articles/My_Ohio_Ripple_Effects_4341.aspx" target="_blank" rel="external nofollow">ohiomagazine.com</a>
+					</div>
+										<div class="usage">
+						Timidity has a disarming effect on women.
+					</div>
+					<div class="uAuthor">
+						<a href="http://1027kord.com/why-shy-guys-are-sexy/" target="_blank" rel="external nofollow">1027kord.com</a>
+					</div>
+										<div class="usage">
+						"I'm Timid, Shy &amp; Broken".
+					</div>
+					<div class="uAuthor">
+						<a href="http://kissdetroit.com/3247442/maia-campbell-im-timid-shy-broken/" target="_blank" rel="external nofollow">kissdetroit.com</a>
+					</div>
+										<div class="usage">
+						'Actions have often been too timid,' especially on climate, they say.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/23549773" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						MAVERICKS Big-wave riding is not for the timid, and some female surfers think more.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfgate.com/surfing" target="_blank" rel="external nofollow">sfgate.com</a>
+					</div>
+										<div class="usage">
+						 Tear down the timid.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesobserver.com/page/content.detail/id/534856/WORK-IN-PROGRESS--Tear-down-the-timid.html?nav=5064" target="_blank" rel="external nofollow">timesobserver.com</a>
+					</div>
+										<div class="usage">
+						Obama's defense cuts are too timid .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2012/01/06/opinion/rumbaugh-defense-cutbacks/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Kemper's training routine not for the timid .
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/olympics/post/_/id/2629/kempers-training-routine-not-for-the-timid" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						GOP hopefuls scold Obama on ' timid ' Israel support.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.deseretnews.com/article/700204902/GOP-hopefuls-scold-Obama-on-timid-Israel-support.html" target="_blank" rel="external nofollow">deseretnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						To build some intuition about these rates, one should also consider the “maximally timid strategy” where one chooses the ﬁrst observation that falls in [0, 0.5], then one chooses the next observation that falls in [0.5, 1], and then the next that falls in [0, 0.5], and so on. 
+					</div>
+					<div class="uAuthor">
+						On-Line Selection of Alternating Subsequences from a Random Sample
+					</div>
+										<div class="usage">
+						It seems that in the Physics research it was taken for granted that convergence was not an issue: atomic spectra were studied via PT and early authoritative warnings were simply disregarded (for instance, explicit by Einstein, in , and clear, in , but “timid” being too far against the mainstream, for his young age). 
+					</div>
+					<div class="uAuthor">
+						Perturbation Theory
+					</div>
+										<div class="usage">
+						Large-scale testing problems certainly look complicated enough, but this is deceptive; their massively parallel structure, with thousands of similar situations each providing information, allows an appropriate prior distribution to be estimated from the data without upsetting even timid frequentists like myself. 
+					</div>
+					<div class="uAuthor">
+						Microarrays, Empirical Bayes and the Two-Groups Model
+					</div>
+										<div class="usage">
+						The child formed by adjoining an element which is to the future of every element of the parent will be called the timid child. 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						The timid child is Cb and the gregarious child is Cc . 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						The Markov sum rule gives another equation, which exhausts itself in determining the probability of the timid child. 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						Consider a non-timid transition probability βn of stage n. 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						More precisely, what we show is that, if qn &gt; 0 for all n, and if αn ≥ 0 for the “timid” transition from the n-antichain, then all the αn lie in [0, 1]. 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						Claim In order that al l the transition probabilities αn fal l between 0 and 1, it suﬃces that each timid transition probability be ≥ 0. 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						So if the probabilities of the previous stages are positive, then the non-timid probabilities of stage n are also positive. 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						It follows by induction that all but the timid transition probabilities are positive (since α0 = q0 = 1 obviously is). 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						Consequently, if we require that γn be positive, then all transition probabilities in the family will be in [0, 1]. 2 In a timid transition, the entire parent is the precursor set, so ̟ = n. 
+					</div>
+					<div class="uAuthor">
+						A Classical Sequential Growth Dynamics for Causal Sets
+					</div>
+										<div class="usage">
+						It should be remembered that the assumption of timidity is always imposed on the realized play of the game rather than on Forecaster II’s strategy (in general, Forecaster II is not assumed to follow a strategy). 
+					</div>
+					<div class="uAuthor">
+						Merging of opinions in game-theoretic probability
+					</div>
+										<div class="usage">
+						Sceptic II becomes inﬁnitely rich, and Forecaster II is timid. 
+					</div>
+					<div class="uAuthor">
+						Merging of opinions in game-theoretic probability
+					</div>
+										<div class="usage">
+						In this subsection we drop the assumption that Forecaster II is timid; unfortunately, this will make the statement of the theorem more complicated (it is easy to see that Theorem 1a itself becomes false if the assumption of Sceptic II’s timidity is removed). 
+					</div>
+					<div class="uAuthor">
+						Merging of opinions in game-theoretic probability
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="fearfulness in venturing into new and unknown places or activities"><a href="timorousness.html">timorousness</a>, </div><div class="synGroup" title="fear of the unknown or unfamiliar or fear of making decisions"><a href="timidness.html">timidness</a>, <a href="timorousness.html">timorousness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="boldness.html">boldness</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="fear.html">fear</a>, <a href="fearfulness.html">fearfulness</a>, <a href="fright.html">fright</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="cold%20feet.html">cold feet</a>, <a href="diffidence.html">diffidence</a>, <a href="faintheartedness.html">faintheartedness</a>, <a href="faintness.html">faintness</a>, <a href="self-distrust.html">self-distrust</a>, <a href="self-doubt.html">self-doubt</a>, <a href="shyness.html">shyness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="timid.html">timid</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="assurance.html">assurance</a>, <a href="bashfulness.html">bashfulness</a>, <a href="candid.html">candid</a>, <a href="chickenshit.html">chickenshit</a>, <a href="cold%20feet.html">cold feet</a>, <a href="Coward.html">Coward</a>, <a href="cowardice.html">cowardice</a>, <a href="cowardliness.html">cowardliness</a>, <a href="Dastardness.html">Dastardness</a>, <a href="Dastardy.html">Dastardy</a>, <a href="delicacy.html">delicacy</a>, <a href="diffidence.html">diffidence</a>, <a href="Eariness.html">Eariness</a>, <a href="fearful.html">fearful</a>, <a href="fearfulness.html">fearfulness</a>, <a href="free.html">free</a>, <a href="hare.html">hare</a>, <a href="mealy-mouthed.html">mealy-mouthed</a>, <a href="mealymouthed.html">mealymouthed</a>, <a href="Pavidity.html">Pavidity</a>, <a href="pronghorn.html">pronghorn</a>, <a href="pusillanimity.html">pusillanimity</a>, <a href="pusillanimous.html">pusillanimous</a>, <a href="pusillanimousness.html">pusillanimousness</a>, <a href="sheepish.html">sheepish</a>, <a href="sheepishly.html">sheepishly</a>, <a href="sheeplike.html">sheeplike</a>, <a href="shy.html">shy</a>, <a href="stammer.html">stammer</a>, <a href="timidness.html">timidness</a>, <a href="timorous.html">timorous</a>, <a href="timorousness.html">timorousness</a>, <a href="tremulous.html">tremulous</a>, <a href="trepid.html">trepid</a>, <a href="Trepidity.html">Trepidity</a>, <a href="unassertive.html">unassertive</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					rimidity, fimidity, gimidity, yimidity, tumidity, tjmidity, tkmidity, tomidity, tinidity, tijidity, tikidity, timudity, timjdity, timkdity, timodity, timisity, timieity, timifity, timicity, timixity, timisity, timiduty, timidjty, timidkty, timidoty, timidiry, timidify, timidigy, timidiyy, timiditt, timiditg, timidith, timiditu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

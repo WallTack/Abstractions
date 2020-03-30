@@ -1,0 +1,517 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>discrimination</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">discrimination</span> <span class="exp">unfair treatment of a person or group on the basis of prejudice</span> </li><li><span class="tSpeech">n</span> <span class="term">discrimination</span> <span class="exp">the cognitive process whereby two or more stimuli are distinguished</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Discrimination</span> <span class="exp">That which discriminates; mark of distinction.</span> </li><li><span class="term">Discrimination</span> <span class="exp">The act of discriminating, distinguishing, or noting and marking differences.</span> <span class="wuQuot">"To make an anxious discrimination between the miracle absolute and providential."</span></li><li><span class="term">Discrimination</span> <span class="exp"><span class="wuFld">(Railroads)</span> The arbitrary imposition of unequal tariffs for substantially the same service.</span> <span class="wuQuot">"A difference in rates, not based upon any corresponding difference in cost, constitutes a case of discrimination ."</span></li><li><span class="term">Discrimination</span> <span class="exp">The quality of being discriminating; faculty of nicely distinguishing; acute discernment; as, to show great <span class="wUex">discrimination</span> in the choice of means.</span> </li><li><span class="term">Discrimination</span> <span class="exp">The state of being discriminated, distinguished, or set apart.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">discrimination</span> <span class="exp">The act of distinguishing; the act of observing, making, or marking a difference; distinction: as, the discrimination between right and wrong.</span> </li><li><span class="tSpeech">n</span> <span class="term">discrimination</span> <span class="exp">Specifically The power of distinguishing or discriminating; discriminative judgment; penetration: as, a man of discrimination.</span> </li><li><span class="tSpeech">n</span> <span class="term">discrimination</span> <span class="exp">The state of being discriminated, distinguished, or set apart.</span> </li><li><span class="tSpeech">n</span> <span class="term">discrimination</span> <span class="exp">That which serves to discriminate; a mark of distinction.</span> </li><li><span class="tSpeech">n</span> <span class="term">discrimination</span> <span class="exp">Specifically An invidious distinction.</span> </li><li><span class="tSpeech">n</span> <span class="term">discrimination</span> <span class="exp">Synonyms Discernment, clearness, acuteness, acumen, nicety, insight. See difference and discernment.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Discrimination</span> <span class="exp">act or quality of distinguishing: acuteness: discernment, judgment</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Michael E. Gerber</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Michael E. Gerber">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The five essential entrepreneurial skills for success: Concentration, Discrimination, Organization, Innovation and Communication”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Rubye Fields</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Rubye Fields">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Generally, employees who file complaints of discrimination do so as a last resort.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Golda Meir</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Golda%20Meir.jpg" alt="Golda%20Meir">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Women's Liberation is just a lot of foolishness. It's the men who are discriminated against. They can't bear children. And no one's likely to do anything about that.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Hubert H. Humphrey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Hubert%20H.%20Humphrey.jpg" alt="Hubert%20H.%20Humphrey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Liberalism, above all, means emancipation -- emancipation from one's fears, his inadequacies, from prejudice, from discrimination... from poverty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Friedrich Von Schiller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Friedrich%20Von%20Schiller.jpg" alt="Johann%20Friedrich%20Von%20Schiller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is difficult to discriminate the voice of truth from amid the clamor raised by heated partisans.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Roger Sperry</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Roger Sperry">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What it comes down to is that modern society discriminates against the right hemisphere.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">discriminatio</span>, the contrasting of opposite thoughts
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>discrimināre</i>, <i>-ātum</i>—<i>discrimen</i>, <i>discriminis</i>, that which separates, <i>discernĕre</i>, discern.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In the entire establishment she is the only lover of reading and reads intoxicatingly and without discrimination.
+					</div>
+					<div class="uAuthor">
+						"Yama (The Pit)" by <span>Alexandra Kuprin</span>					</div>
+										<div class="usage">
+						I tried to be discriminating and impartial, judging each measure on its merits.
+					</div>
+					<div class="uAuthor">
+						"A Backward Glance at Eighty" by <span>Charles A. Murdock</span>					</div>
+										<div class="usage">
+						We can not discriminate in our censure of their mode of conducting their contest between the Spaniards and the Cubans.
+					</div>
+					<div class="uAuthor">
+						"A Compilation of the Messages and Papers of the Presidents: Ulysses S. Grant" by <span>James D. Richardson</span>					</div>
+										<div class="usage">
+						Let me plead for discrimination in choice of pets.
+					</div>
+					<div class="uAuthor">
+						"The Ethics of Drink and Other Social Questions" by <span>James Runciman</span>					</div>
+										<div class="usage">
+						It cannot be too austerely discriminated from mere ornament, and from every thing approaching a striking and sensational character.
+					</div>
+					<div class="uAuthor">
+						"Shakespeare: His Life, Art, And Characters, Volume I." by <span>H. N. Hudson</span>					</div>
+										<div class="usage">
+						French critics can discriminate between French productions with unsurpassable delicacy and precision.
+					</div>
+					<div class="uAuthor">
+						"Since Cézanne" by <span>Clive Bell</span>					</div>
+										<div class="usage">
+						Discrimination here must be not in the quality but in the quantity of training.
+					</div>
+					<div class="uAuthor">
+						"A Librarian's Open Shelf" by <span>Arthur E. Bostwick</span>					</div>
+										<div class="usage">
+						The artist-poet's complete works were edited by Mr. William Michael Rossetti in 1874, with a complete and discriminating memoir.
+					</div>
+					<div class="uAuthor">
+						"Library Of The World's Best Literature, Ancient And Modern, Vol. 5" by <span>Various</span>					</div>
+										<div class="usage">
+						Our pension laws should give more adequate and discriminating relief to the Union soldiers and sailors and to their widows and orphans.
+					</div>
+					<div class="uAuthor">
+						"A Compilation of the Messages and Papers of the Presidents, Volume IX." by <span>Benjamin Harrison</span>					</div>
+										<div class="usage">
+						Either it must discriminate in their favor or it must discriminate against them.
+					</div>
+					<div class="uAuthor">
+						"The Promise Of American Life" by <span>Herbert David Croly</span>					</div>
+										<div class="usage">
+						But evidently the organization preferred to make the issue turn on discrimination against members.
+					</div>
+					<div class="uAuthor">
+						"A History of Trade Unionism in the United States" by <span>Selig Perlman</span>					</div>
+										<div class="usage">
+						Discriminating treatment was therefore a necessity.
+					</div>
+					<div class="uAuthor">
+						"The Inside Story Of The Peace Conference" by <span>Emile Joseph Dillon</span>					</div>
+										<div class="usage">
+						Nor were they without discrimination.
+					</div>
+					<div class="uAuthor">
+						"The Honorable Peter Stirling and What People Thought of Him" by <span>Paul Leicester Ford</span>					</div>
+										<div class="usage">
+						His work was simply plant breeding by the discriminative-restrictive method.
+					</div>
+					<div class="uAuthor">
+						"Certain Success" by <span>Norval A. Hawkins</span>					</div>
+										<div class="usage">
+						Instead of sympathy in the country of his sojourn he met discrimination, jealousy, and suspicion.
+					</div>
+					<div class="uAuthor">
+						"Our Foreigners" by <span>Samuel P. Orth</span>					</div>
+										<div class="usage">
+						They are the first objects discriminated in attention and projected against the background of consciousness.
+					</div>
+					<div class="uAuthor">
+						"The Life of Reason" by <span>George Santayana</span>					</div>
+										<div class="usage">
+						In a democracy, it is important to discriminate influence from authority.
+					</div>
+					<div class="uAuthor">
+						"The Oxford Book of American Essays" by <span>Various</span>					</div>
+										<div class="usage">
+						The noble virtues and the signal faults of the great soldier are admirably discriminated.
+					</div>
+					<div class="uAuthor">
+						"British Quarterly Review, American Edition, Volume LIV" by <span>Various</span>					</div>
+										<div class="usage">
+						In general the consuming trade does not discriminate between Parmesan, Grana and closely related forms.
+					</div>
+					<div class="uAuthor">
+						"The Book of Cheese" by <span>Charles Thom and Walter Warner Fisk</span>					</div>
+										<div class="usage">
+						In some cases, he contends, ignorance is good; and he discriminates which the cases are.
+					</div>
+					<div class="uAuthor">
+						"Plato and the Other Companions of Sokrates, 3rd ed. Volume II (of 4)" by <span>George Grote</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Contrast with JAMES'S greedy haste<br>
+And comprehensive hand,<br>
+The nice discriminating taste<br>
+Of APPLEBODY BLAND.
+							<div class="poet">"The Two Ogres" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							Beneath the thicket of these leaves<br>
+No light discriminates each from each.<br>
+No Self that wrongs, no Self that grieves<br>
+Hath longer deed nor creed nor speech.
+							<div class="poet">"From “Taliesin: a Masque”:Voices Of Unseen Spirits" by <span>Richard Hovey</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh, mystery! who can understand<br>
+Why, sudden, from God's mighty hand<br>
+Destructive bolts of power<br>
+Without discrimination strike<br>
+The evil and the good alike--<br>
+As in that dreadful hour!
+							<div class="poet">"Mysterious" by <span>Hattie Howard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Townsquare Media does not discriminate in advertising sales based on race or ethnicity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://therockstation99x.com/advertising-disclaimer/" target="_blank" rel="external nofollow">therockstation99x.com</a>
+					</div>
+										<div class="usage">
+						Any provision in any order or agreement for advertising that purports to discriminate on the basis of race or ethnicity, even if handwritten, typed or otherwise made a part of a particular contract, will be rejected.
+					</div>
+					<div class="uAuthor">
+						<a href="http://therockstation99x.com/advertising-disclaimer/" target="_blank" rel="external nofollow">therockstation99x.com</a>
+					</div>
+										<div class="usage">
+						It makes no sense to discriminate when you are trying to correct discrimination .
+					</div>
+					<div class="uAuthor">
+						<a href="http://inqnews.com/2012/09/29/discriminating-against-women-farmers/" target="_blank" rel="external nofollow">inqnews.com</a>
+					</div>
+										<div class="usage">
+						President Barack Obama has been fighting discrimination most of his adult life.
+					</div>
+					<div class="uAuthor">
+						<a href="http://inqnews.com/2012/09/29/discriminating-against-women-farmers/" target="_blank" rel="external nofollow">inqnews.com</a>
+					</div>
+										<div class="usage">
+						 Discriminating Good from Bad, Part IV.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chiroweb.com/archives/11/26/01.html" target="_blank" rel="external nofollow">chiroweb.com</a>
+					</div>
+										<div class="usage">
+						New York Grocery Store Introduces 'Man Aisle' for the Discriminating Male Shopper.
+					</div>
+					<div class="uAuthor">
+						<a href="http://observer.com/2012/07/new-york-grocery-store-introduces-man-aisle-for-the-consumate-shopper/" target="_blank" rel="external nofollow">observer.com</a>
+					</div>
+										<div class="usage">
+						OSC initiative zeroes in on worst vet discriminator - the government.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.federalnewsradio.com/491/2813353/OSC-initiative-zeroes-in-on-worst-vet-discriminator---the-government" target="_blank" rel="external nofollow">federalnewsradio.com</a>
+					</div>
+										<div class="usage">
+						Absence of intent to discriminate isn't a defense against disparate impact.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.creditunionmagazine.com/articles/36620-compliance-q-a-disparate-impact" target="_blank" rel="external nofollow">creditunionmagazine.com</a>
+					</div>
+										<div class="usage">
+						Discrimination is not a family value.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.orlandosentinel.com/news/columnists/os-scott-maxwell-domestic-partners-gay-rights-0520-20120519,0,1252537.column" target="_blank" rel="external nofollow">orlandosentinel.com</a>
+					</div>
+										<div class="usage">
+						DNA databases help solve crimes but aid and abet racial discrimination.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.spectrum.ieee.org/aug07/5380/1" target="_blank" rel="external nofollow">spectrum.ieee.org</a>
+					</div>
+										<div class="usage">
+						The Supreme Court of Canada has upheld a ruling made seven years ago -- saying a BC school board discriminated against a boy with dyslexia .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/news/education/North+Vancouver+school+district+discriminated+against/7524870/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						Can Michigan experience economic recovery when we enshrine discrimination.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/business/index.ssf/2011/12/domestic_partner_benefits_ban.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						Mention the new "tan tax" in a major news outlet and cries of discrimination and reverse racism often follow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commonwealmagazine.org/blog/?p=9006" target="_blank" rel="external nofollow">commonwealmagazine.org</a>
+					</div>
+										<div class="usage">
+						Black narcotics agent 's unresolved 1977 bias suit illustrates frustrations of discrimination claims.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/12/08/AR2010120808129.html?nav=rss_opinion/columns" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						 NEK Inn Settles Discrimination Lawsuit.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vpr.net/news_detail/95659/nek-inn-settles-discrimination-lawsuit/" target="_blank" rel="external nofollow">vpr.net</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This outcome is interpreted as conclusive (or successful) in the sense that the transformed states can now be subjected to a measurement that will discriminate them— and hence discriminate |νl (cid:105)2—with the maximum achievable conﬁdence. 
+					</div>
+					<div class="uAuthor">
+						Quantum teleportation via maximum-confidence quantum measurements
+					</div>
+										<div class="usage">
+						In both cases, the discriminants of the polynomials are squares, as the discriminant of polynomial (1) is a square times ∆, and of polynomial (2) a square times δ . 
+					</div>
+					<div class="uAuthor">
+						A Generic Polynomial for the Alternating Group $A_5$
+					</div>
+										<div class="usage">
+						We hold on previous works done in generalized gaussian discrimination and transpose them into the logistic model to bring out efﬁcient discrimination rules for non customers’ subpopulation. 
+					</div>
+					<div class="uAuthor">
+						Transfer Learning Using Logistic Regression in Credit Scoring
+					</div>
+										<div class="usage">
+						Discriminant analysis makes it possible use a large number of parameters that may be speciﬁc for a certain corpus or information stream, and combine them into a small number of functions, with the parameters weighted on basis of how useful they are for discriminating text genres. 
+					</div>
+					<div class="uAuthor">
+						Recognizing Text Genres with Simple Metrics Using Discriminant Analysis
+					</div>
+										<div class="usage">
+						Discriminant analysis takes a set of precategorized individuals and data on their variation on a number of parameters, and works out a set discriminant functions which distinguishes between the groups. 
+					</div>
+					<div class="uAuthor">
+						Recognizing Text Genres with Simple Metrics Using Discriminant Analysis
+					</div>
+										<div class="usage">
+						The signal was also discriminated, and the discriminated outputs drove scaler units and stoped TDCs. 
+					</div>
+					<div class="uAuthor">
+						Prototype Test Results of the Solar Tower Atmospheric Cherenkov Effect Experiment (STACEE)
+					</div>
+										<div class="usage">
+						There exists a unique (up to an additive constant) invariant of generic planar curves of a ﬁxed index, whose value remains unchanged under crossings of the self-tangency strata of the discriminant, but increases by one under the positive crossing of the triple point stratum of the discriminant. 
+					</div>
+					<div class="uAuthor">
+						Arnold-type Invariants of Curves on Surfaces
+					</div>
+										<div class="usage">
+						Let G = Gal(L/K ) , then the discriminant of L/K de ﬁnes a factorizable function (conductor-discriminant formula). 
+					</div>
+					<div class="uAuthor">
+						Invitation to higher local fields, Part II, section 10: Galois modules and class field theory
+					</div>
+										<div class="usage">
+						Signal versus background discrimination In order to obtain a clear signal, we will have to discriminate between the signal events and background events that contain a similar four lepton ﬁnal state. 
+					</div>
+					<div class="uAuthor">
+						Observability of MSSM Higgs bosons via sparticle decay modes in CMS
+					</div>
+										<div class="usage">
+						Rami]. Mo collisions [Rami]. Mo del discrimination will improve as more data is recorded. del discrimination will improve as more data is recorded. 
+					</div>
+					<div class="uAuthor">
+						Experimental Summary
+					</div>
+										<div class="usage">
+						Example of low background recently achieved is the case of IGEX, with Ge ionization detectors; the cases of the CDMS and EDELWEISS which use Ge thermal detectors which also measure ionization to discriminate, and that of ZEPLIN which uses background discrimination in liquid Xenon. 
+					</div>
+					<div class="uAuthor">
+						Direct detection of WIMPs with conventional (non-cryogenic) detectors. Experimental review
+					</div>
+										<div class="usage">
+						The nuclear recoil discrimination efﬁciency should be optimized going from above 99.7% up to 99.9% at the same time that the energy Evis at which discrimination applies should be lowered. 
+					</div>
+					<div class="uAuthor">
+						Direct detection of WIMPs with conventional (non-cryogenic) detectors. Experimental review
+					</div>
+										<div class="usage">
+						Substantial enhancements of the instanton sensitivity were obtained, by means of various multivariate discrimination methods, involving only a single cut on a suitable discriminant variable. 
+					</div>
+					<div class="uAuthor">
+						Instanton-Induced Processes - An Overview
+					</div>
+										<div class="usage">
+						Thus, to proﬁt from price discrimination, a software company must make an appropriate choice of the form of price discrimination; it must choose its prices optimally and sometimes it must determine optimal quality levels for an inferior (related) set of products or the size of a bundle. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Pricing Strategy Using e-Commerce Data: Evidence and Estimation Challenges
+					</div>
+										<div class="usage">
+						While missing mass is the most powerful variable for discriminating these decay contributions, there is also discriminating power in the lepton momentum (pl ) spectrum and in the number of extra tracks not used reconstructing the D l. 
+					</div>
+					<div class="uAuthor">
+						Review of Exculsive B-&gt;D(*,**)lnu Decays -- Branching Fractions, Form-factors and |V_cb|
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="unfair treatment of a person or group on the basis of prejudice"><a href="favoritism.html">favoritism</a>, <a href="favouritism.html">favouritism</a>, </div><div class="synGroup" title="the cognitive process whereby two or more stimuli are distinguished"><a href="secernment.html">secernment</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="basic%20cognitive%20process.html">basic cognitive process</a>, <a href="social%20control.html">social control</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="able-bodiedism.html">able-bodiedism</a>, <a href="able-bodism.html">able-bodism</a>, <a href="ableism.html">ableism</a>, <a href="ablism.html">ablism</a>, <a href="ageism.html">ageism</a>, <a href="agism.html">agism</a>, <a href="appreciation.html">appreciation</a>, <a href="cronyism.html">cronyism</a>, <a href="differentiation.html">differentiation</a>, <a href="discernment.html">discernment</a>, <a href="distinction.html">distinction</a>, <a href="fatism.html">fatism</a>, <a href="fattism.html">fattism</a>, <a href="heterosexism.html">heterosexism</a>, <a href="individualisation.html">individualisation</a>, <a href="individualization.html">individualization</a>, <a href="individuation.html">individuation</a>, <a href="nepotism.html">nepotism</a>, <a href="perceptiveness.html">perceptiveness</a>, <a href="racial%20discrimination.html">racial discrimination</a>, <a href="racialism.html">racialism</a>, <a href="racism.html">racism</a>, <a href="sexism.html">sexism</a>, <a href="taste.html">taste</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="discriminate.html">discriminate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="able-bodiedism.html">able-bodiedism</a>, <a href="able-bodism.html">able-bodism</a>, <a href="ableism.html">ableism</a>, <a href="ablism.html">ablism</a>, <a href="acumen.html">acumen</a>, <a href="acute.html">acute</a>, <a href="acutely.html">acutely</a>, <a href="admonition.html">admonition</a>, <a href="affirmative%20action.html">affirmative action</a>, <a href="ageism.html">ageism</a>, <a href="agism.html">agism</a>, <a href="Alethiology.html">Alethiology</a>, <a href="apartheid.html">apartheid</a>, <a href="appreciation.html">appreciation</a>, <a href="Asio.html">Asio</a>, <a href="benignant.html">benignant</a>, <a href="bookworm.html">bookworm</a>, <a href="By%20wholesale.html">By wholesale</a>, <a href="candor.html">candor</a>, <a href="candour.html">candour</a>, <a href="choice.html">choice</a>, <a href="Choicely.html">Choicely</a>, <a href="choiceness.html">choiceness</a>, <a href="civil%20disobedience.html">civil disobedience</a>, <a href="contagion.html">contagion</a>, <a href="crass.html">crass</a>, <a href="criticism.html">criticism</a>, <a href="dainty.html">dainty</a>, <a href="delicacy.html">delicacy</a>, <a href="demarcation.html">demarcation</a>, <a href="Despecification.html">Despecification</a>, <a href="diagnosis.html">diagnosis</a>, <a href="diagnostic.html">diagnostic</a>, <a href="difference.html">difference</a>, <a href="differentiation.html">differentiation</a>, <a href="Discerner.html">Discerner</a>, <a href="discernment.html">discernment</a>, <a href="discretion.html">discretion</a>, <a href="Discriminately.html">Discriminately</a>, <a href="discriminating.html">discriminating</a>, <a href="Discriminatively.html">Discriminatively</a>, <a href="Disjudication.html">Disjudication</a>, <a href="distinction.html">distinction</a>, <a href="distinctness.html">distinctness</a>, <a href="distinguish.html">distinguish</a>, <a href="doom.html">doom</a>, <a href="election.html">election</a>, <a href="exquisite.html">exquisite</a>, <a href="exquisitely.html">exquisitely</a>, <a href="exquisiteness.html">exquisiteness</a>, <a href="fair-mindedness.html">fair-mindedness</a>, <a href="fairness.html">fairness</a>, <a href="fatism.html">fatism</a>, <a href="fattism.html">fattism</a>, <a href="fin.html">fin</a>, <a href="foolish.html">foolish</a>, <a href="Free%20school.html">Free school</a>, <a href="freedom%20from%20discrimination.html">freedom from discrimination</a>, <a href="From.html">From</a>, <a href="genius.html">genius</a>, <a href="gentleman.html">gentleman</a>, <a href="heterosexism.html">heterosexism</a>, <a href="in%20large%20quantities.html">in large quantities</a>, <a href="indiscriminate.html">indiscriminate</a>, <a href="Indiscrimination.html">Indiscrimination</a>, <a href="intellect.html">intellect</a>, <a href="Jackson.html">Jackson</a>, <a href="Jesse%20Jackson.html">Jesse Jackson</a>, <a href="Jesse%20Louis%20Jackson.html">Jesse Louis Jackson</a>, <a href="Jim%20Crow.html">Jim Crow</a>, <a href="judgment.html">judgment</a>, <a href="midge.html">midge</a>, <a href="Motacilla.html">Motacilla</a>, <a href="Nice.html">Nice</a>, <a href="nicety.html">nicety</a>, <a href="Parus.html">Parus</a>, <a href="passer.html">passer</a>, <a href="Peperine.html">Peperine</a>, <a href="perceptiveness.html">perceptiveness</a>, <a href="perseverance.html">perseverance</a>, <a href="pigment.html">pigment</a>, <a href="Plutus.html">Plutus</a>, <a href="promiscuous.html">promiscuous</a>, <a href="psychophysics.html">psychophysics</a>, <a href="reason.html">reason</a>, <a href="refined.html">refined</a>, <a href="refiner.html">refiner</a>, <a href="reflection.html">reflection</a>, <a href="respect.html">respect</a>, <a href="sexual%20discrimination.html">sexual discrimination</a>, <a href="sharp.html">sharp</a>, <a href="side.html">side</a>, <a href="skill.html">skill</a>, <a href="species.html">species</a>, <a href="sponge.html">sponge</a>, <a href="Subtile.html">Subtile</a>, <a href="Subtilty.html">Subtilty</a>, <a href="subtlety.html">subtlety</a>, <a href="Supersubtlety.html">Supersubtlety</a>, <a href="synonymy.html">synonymy</a>, <a href="taste.html">taste</a>, <a href="test.html">test</a>, <a href="understanding.html">understanding</a>, <a href="undiscerning.html">undiscerning</a>, <a href="Vipera.html">Vipera</a>, <a href="wholesale.html">wholesale</a>, <a href="will.html">will</a>, <a href="Ye.html">Ye</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					siscrimination, eiscrimination, fiscrimination, ciscrimination, xiscrimination, siscrimination, duscrimination, djscrimination, dkscrimination, doscrimination, diacrimination, diwcrimination, didcrimination, dixcrimination, dizcrimination, diacrimination, disxrimination, disdrimination, disfrimination, disvrimination, disceimination, discdimination, discfimination, disctimination, discrumination, discrjmination, discrkmination, discromination, discrinination, discrijination, discrikination, discrimunation, discrimjnation, discrimknation, discrimonation, discrimibation, discrimihation, discrimijation, discrimimation, discriminqtion, discriminwtion, discriminstion, discriminztion, discriminarion, discriminafion, discriminagion, discriminayion, discriminatuon, discriminatjon, discriminatkon
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

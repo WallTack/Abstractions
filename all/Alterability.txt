@@ -1,0 +1,557 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>alterability</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/13/40/10253.jpg" alt="CLOSED FOR ALTERATIONS AND REPAIRS">
+							<div class="caption">CLOSED FOR ALTERATIONS AND REPAIRS</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">alterability</span> <span class="exp">the quality of being alterable</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The monogram "RR" for Rolls-Royce has never been altered, except for when Sir Henry Royce passed away in 1933. Then it was changed from red to black.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Alterability</span> <span class="exp">The quality of being alterable; alterableness.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										If you like your espresso coffee sweet, you should use granulated sugar, which dissolves more quickly, rather than sugar cubes; white sugar rather than brown sugar or candy; and real sugar rather than sweeteners which alter the taste of the coffee.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">alterability</span> <span class="exp">The quality of being alterable; susceptibility to change.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Not he is great who can alter matter, but he who can alter my state of mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Butler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Butler.jpg" alt="Samuel%20Butler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“God cannot alter the past, but historians can.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every thought which genius and piety throw into the world alters the world.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Paul Tillich</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Paul Tillich">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I loved thee beautiful and kind, And plighted an eternal vow; So altered are thy face and mind,  t'were perjury to love thee now!”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Acton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Lord Acton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Opinions alter, manners change, creeds rise and fall, but the moral laws are written on the table of eternity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Blake</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Blake.jpg" alt="William%20Blake">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The man who never alters his opinion is like standing water, and breeds reptiles of the mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Alter ego</span> - An alter ego is a very close and intimate friend. It is a Latin phrase that literally means 'other self'.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">altérabilité</span>, 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Burke did not believe that altered machinery was at that time needed to improve the quality of legislation.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 4, Part 4" by <span>Various</span>					</div>
+										<div class="usage">
+						The opinion of the Duke of Wellington is also strongly against the projected alteration.
+					</div>
+					<div class="uAuthor">
+						"The Letters of Queen Victoria, Volume 1 (of 3), 1837-1843)" by <span>Queen Victoria</span>					</div>
+										<div class="usage">
+						During 1870 to 1876 extensive internal alterations were made.
+					</div>
+					<div class="uAuthor">
+						"Bell's Cathedrals: The Cathedral Church of Durham" by <span>J. E. Bygate</span>					</div>
+										<div class="usage">
+						The style of the tracery shews that this alteration was carried out quite late in the century, perhaps about 1480.
+					</div>
+					<div class="uAuthor">
+						"Bell's Cathedrals: The Cathedral Church of Ely" by <span>W. D. Sweeting</span>					</div>
+										<div class="usage">
+						In face he was not greatly altered.
+					</div>
+					<div class="uAuthor">
+						"The Adventures of a Three-Guinea Watch" by <span>Talbot Baines Reed</span>					</div>
+										<div class="usage">
+						That will have to be altered.
+					</div>
+					<div class="uAuthor">
+						"More About Peggy" by <span>Mrs G. de Horne Vaizey</span>					</div>
+										<div class="usage">
+						It 'ud alter you ever so.
+					</div>
+					<div class="uAuthor">
+						"White Lilac; or the Queen of the May" by <span>Amy Walton</span>					</div>
+										<div class="usage">
+						It is unfortunate that no details can be given as to the influence of range in altering the relative numbers of killed to wounded.
+					</div>
+					<div class="uAuthor">
+						"Surgical Experiences in South Africa, 1899-1900" by <span>George Henry Makins</span>					</div>
+										<div class="usage">
+						You'll take care of this for me, and act upon it, should I never return to desire it altered.
+					</div>
+					<div class="uAuthor">
+						"Ronald Morton, or the Fire Ships" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						I suspect very little alteration has, since then, taken place.
+					</div>
+					<div class="uAuthor">
+						"The Pirate of the Mediterranean" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						The other ships in company had made the same discovery, and the course was altered one quarter of a point.
+					</div>
+					<div class="uAuthor">
+						"Newton Forster" by <span>Captain Frederick Marryat</span>					</div>
+										<div class="usage">
+						Would that alter the bewildering truths of which she would have ceased to think?
+					</div>
+					<div class="uAuthor">
+						"The Daughters of Danaus" by <span>Mona Caird</span>					</div>
+										<div class="usage">
+						Then the sight of the rugged cliffs seemed to alter my feelings, and the old jealous passion returned.
+					</div>
+					<div class="uAuthor">
+						"Roger Trewinion" by <span>Joseph Hocking</span>					</div>
+										<div class="usage">
+						This fact altered his outlook for a time.
+					</div>
+					<div class="uAuthor">
+						"The Day of Judgment" by <span>Joseph Hocking</span>					</div>
+										<div class="usage">
+						Or was it he who was altered?
+					</div>
+					<div class="uAuthor">
+						"The Kingdom Round the Corner" by <span>Coningsby Dawson</span>					</div>
+										<div class="usage">
+						The shadows of the coursing clouds alter the aspect of the place a hundred times a day.
+					</div>
+					<div class="uAuthor">
+						"Emily Brontë" by <span>A. Mary F. (Agnes Mary Frances) Robinson</span>					</div>
+										<div class="usage">
+						You will see that my alterations are very slight, but I think for the better.
+					</div>
+					<div class="uAuthor">
+						"The Life of Charles Dickens, Vol. I-III, Complete" by <span>John Forster</span>					</div>
+										<div class="usage">
+						This fear proved groundless: Mabel had not altered to him in the least.
+					</div>
+					<div class="uAuthor">
+						"The Giant's Robe" by <span>F. Anstey</span>					</div>
+										<div class="usage">
+						Lord KITCHENER: Your proposal will cause important alterations in our proposals, to which we, in my opinion, cannot agree.
+					</div>
+					<div class="uAuthor">
+						"The Peace Negotiations" by <span>J. D. Kestell</span>					</div>
+										<div class="usage">
+						Successive zones and the entire peripheral ring should come into focus with the alteration of the fine adjustment.
+					</div>
+					<div class="uAuthor">
+						"The Elements of Bacteriological Technique" by <span>John William Henry Eyre</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							O God! could all be altered,<br>
+The pain, the grief, the strife,<br>
+And wert thou--as thou shouldst be--<br>
+My true and loyal wife!
+							<div class="poet">"An Old Memory" by <span>Paul Laurence Dunbar</span></div>
+						</div>
+											<div class="poemQuote">
+							Deem ye the Eternal Mind will change<br>
+The throned infinity of law<br>
+That never aon altered saw<br>
+In all the Past's eternal range?
+							<div class="poet">"The Testimony of the Suns" by <span>George Sterling</span></div>
+						</div>
+											<div class="poemQuote">
+							Alter tanze! Wenn du tanzest,<br>
+Alter, so gefaellst du mir!<br>
+Juengling, tanze! Wenn du tanzest,<br>
+Juengling, so gefaellst du mir.
+							<div class="poet">"Die 47ste Ode Anakreons" by <span>Gotthold Ephraim Lessing</span></div>
+						</div>
+											<div class="poemQuote">
+							A thing of fate, the little box<br>
+Lay bright upon the alter stair,<br>
+The silver lamp before Our Lord<br>
+Shone on it sparkling there.
+							<div class="poet">"The Silver Box" by <span>Alice Guerin Crist</span></div>
+						</div>
+											<div class="poemQuote">
+							For when it streams from that pure source,<br>
+No bribes the heart can win,<br>
+To check, or alter from its course<br>
+The luxury within.
+							<div class="poet">"Addressed To Miss Macartney, Afterwards Mrs. Greville, On Reading The Prayer For Indifference" by <span>William Cowper</span></div>
+						</div>
+											<div class="poemQuote">
+							No word Dunolly spoke, but went,<br>
+An altered man, and said;<br>
+"Go bring them home, for rich are they,<br>
+Love shows them nobly wed."
+							<div class="poet">"Dunolly's Daughter" by <span>John Douglas Sutherland Campbell</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						What traditions were upheld and which were altered to fit the family budget.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wbez.org/story/%E2%80%9Cno-longer-does-holiday-table-groan-under-weight-food%E2%80%9D-87161" target="_blank" rel="external nofollow">wbez.org</a>
+					</div>
+										<div class="usage">
+						There is something irresistible about a holiday that gives you permission to assume an alter ego, flaunt pretense, summon spirits, encourage theatricality, and temporarily believe in magic.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mvtimes.com/marthas-vineyard/news/2009/10/29/halloween.php" target="_blank" rel="external nofollow">mvtimes.com</a>
+					</div>
+										<div class="usage">
+						Felicity Huffman is not unlike her Desperate Housewives alter-ego Lynette Scavo: As a working mother-of-two, Huffman often feels as if she's "drowning in motherhood.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usmagazine.com/celebrity-moms/news/felicity-huffman-my-daughters-nicknamed-me-the-grump-2012232" target="_blank" rel="external nofollow">usmagazine.com</a>
+					</div>
+										<div class="usage">
+						Assemblyman Sheldon Silver's office yesterday dressed down staff writer Bill Eggler, who used a female alter ego in media blog postings to defend the speaker from charges he.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/news/local/no_she_mail_for_shel_aide_3D4WFBXPW7mRR33iCVPJgJ" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						Sierra ( There's a Zoo in Room 22 ) and Davis ( Bedhead ) replace storybook characters with their ghoulish alter egos in this silly-scary Mother Goose knockoff.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publishersweekly.com/978-0-15-202034-7" target="_blank" rel="external nofollow">publishersweekly.com</a>
+					</div>
+										<div class="usage">
+						O's reliever could have altered weapon to disguise involvement in fatal shooting, official claims.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baltimoresun.com/sports/orioles/bs-sp-orioles-alfredo-trigger-20110105,0,7667859.story" target="_blank" rel="external nofollow">baltimoresun.com</a>
+					</div>
+										<div class="usage">
+						The new year has done nothing to alter the idiotic behavior of too many of our local elected leaders.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.phoenixnewtimes.com/2005-01-13/news/gutless-wonders/" target="_blank" rel="external nofollow">phoenixnewtimes.com</a>
+					</div>
+										<div class="usage">
+						The half-brother of the man accused of raping and beating an elderly woman in New York City's Central Park last week tells the New York Daily News that David Mitchell has an evil alter-ego named "Johnny".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-504083_162-57514287-504083/david-mitchell-accused-central-park-rapist-has-a-violent-alter-ego-named-johnny-half-brother-says/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Stitch a flirty, beach-friendly halter dress by making simple alterations to a basic dress pattern.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sewnews.com/articles/Pattern_Play__Halter_Dress" target="_blank" rel="external nofollow">sewnews.com</a>
+					</div>
+										<div class="usage">
+						' Haywire ' Star Gina Carano Addresses Voice Alteration Controversy (Video/Audio).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.hollywoodreporter.com/heat-vision/haywire-gina-carano-mma-channing-tatum-281229" target="_blank" rel="external nofollow">hollywoodreporter.com</a>
+					</div>
+										<div class="usage">
+						I'm a creature of habit, I seldom accept new alter and quite honestly, I didn't want to like, a lot much less get excited to www.golfdiscountshome.com.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.militarytrader.com/forum/viewtopic.php?f=11&amp;t=14526161&amp;p=16518341" target="_blank" rel="external nofollow">militarytrader.com</a>
+					</div>
+										<div class="usage">
+						CO2 levels common in traffic jams may alter heart beat.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/health/120806/carbon-monoxide-disrupts-heart-rhythm-new-study-shows" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						Impossible to refute or impossible to break or alter.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wkqsfm.com/featured/onair/deedee/2840/word-day-aug-4/" target="_blank" rel="external nofollow">wkqsfm.com</a>
+					</div>
+										<div class="usage">
+						Altered Camp Jabberwocky begins with the parade.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mvtimes.com/news/2006/06/29/camp_jabberwocky.php" target="_blank" rel="external nofollow">mvtimes.com</a>
+					</div>
+										<div class="usage">
+						The skyline of the Amsterdam harbours has been visibly altered in the neighbourhood of Shipdock, Amsterdam's premier ship repair and conversion yard.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marinelink.com/news/contracts-shipdock347031.aspx" target="_blank" rel="external nofollow">marinelink.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						JONSWAP spectrum has been not altered during the evolution of the NLS equation. 
+					</div>
+					<div class="uAuthor">
+						Freak Waves in Random Oceanic Sea States
+					</div>
+										<div class="usage">
+						Altering one of those choices seems to generally have the effect of destroying the ﬁniteness. 
+					</div>
+					<div class="uAuthor">
+						A finiteness proof for the Lorentzian state sum spinfoam model for quantum general relativity
+					</div>
+										<div class="usage">
+						The relationship between drift and erosion in the right part of (3) can be altered by changing the character of moving. By moving “two steps forward – one step backward” the vA-value stays in (4) as before but must change itself to vA/2 in (3). 
+					</div>
+					<div class="uAuthor">
+						Classical teleportation
+					</div>
+										<div class="usage">
+						If the graph is really self-similar, decimating nodes should not alter its large scale features. 
+					</div>
+					<div class="uAuthor">
+						Statistical ensemble of scale-free random graphs
+					</div>
+										<div class="usage">
+						The way out is to resort to techniques that reduce the variance without altering the mean. 
+					</div>
+					<div class="uAuthor">
+						Monte Carlo: Basics
+					</div>
+										<div class="usage">
+						Altering the lens mass model, and hence τ (θ) in such a way that there is little or no change in the density of contour lines in the region of the ring will produce little or no change in the ring (other than its overall brightness), but may cause a large change in H0 . 
+					</div>
+					<div class="uAuthor">
+						Beware the Non-uniqueness of Einstein Rings
+					</div>
+										<div class="usage">
+						The main idea is to start from a default description, a pre-formatted FD, that the IE task alters or reﬁnes using inference rules. 
+					</div>
+					<div class="uAuthor">
+						Generating a 3D Simulation of a Car Accident from a Written Description in Natural Language: the CarSim System
+					</div>
+										<div class="usage">
+						Unfortunately, both ξ 0 and N will alter their functional dependence on θ under the oneparameter group, so (3.18) is not particularly useful. 
+					</div>
+					<div class="uAuthor">
+						Quantum general invariance and loop gravity
+					</div>
+										<div class="usage">
+						Remark 2.11 The W ordExtractLef t procedure can be altered easily to become the W ordExtractRight procedure. 
+					</div>
+					<div class="uAuthor">
+						Identifying Half-Twists Using Randomized Algorithm Methods
+					</div>
+										<div class="usage">
+						The results in Table 1 assume that long term changes in the instrumental response and manual alterations to the dish shape (via holography), are smaller than the short term changes in the beam pattern due to thermal ﬂuctuations and other effects. 
+					</div>
+					<div class="uAuthor">
+						The SCUBA Local Universe Galaxy Survey II. 450 micron data - evidence for cold dust in bright IRAS Galaxies
+					</div>
+										<div class="usage">
+						The mean Cλ can be seen to change on these time scales due to deliberate alterations in the dish shape. 
+					</div>
+					<div class="uAuthor">
+						The SCUBA Local Universe Galaxy Survey II. 450 micron data - evidence for cold dust in bright IRAS Galaxies
+					</div>
+										<div class="usage">
+						This means that particles keep losing their mass in a continuous manner by some mechanisms that do not alter the number density. 
+					</div>
+					<div class="uAuthor">
+						Transition from random to ordered fractals in fragmentation of particles in an open system
+					</div>
+										<div class="usage">
+						Since a position shift of L does not alter the states in HL we can restrict x to the range (− L/2, L/2]. 
+					</div>
+					<div class="uAuthor">
+						The quantum phase problem: steps toward a resolution
+					</div>
+										<div class="usage">
+						Recall that the position x-space has been divided into inﬁnite identical boxes each of size L, and then, since a position shift of L does not alter the states in HL it was possible to restrict x to the domain (− L/2, L/2]. 
+					</div>
+					<div class="uAuthor">
+						The quantum phase problem: steps toward a resolution
+					</div>
+										<div class="usage">
+						At this moment we want to remark that the set of pure states of the system is S+ (cid:1) into N (cid:16) bA′ of N (cid:0)A′ deﬁned as a particular component of the structure of the algebra, and therefore it cannot be altered by any unitary inner automorphism, including the temporal evolution of the system. 
+					</div>
+					<div class="uAuthor">
+						An Algebraic Formulation of Quantum Decoherence
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="unalterability.html">unalterability</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="mutability.html">mutability</a>, <a href="mutableness.html">mutableness</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="alterable.html">alterable</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Alterableness.html">Alterableness</a>, <a href="aluminium.html">aluminium</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qlterability, wlterability, slterability, zlterability, akterability, aoterability, apterability, alrerability, alferability, algerability, alyerability, altwrability, altsrability, altdrability, altrrability, alteeability, altedability, altefability, altetability, alterqbility, alterwbility, altersbility, alterzbility, alteravility, alteragility, alterahility, alteranility, alterabulity, alterabjlity, alterabklity, alterabolity, alterabikity, alterabioity, alterabipity, alterabiluty, alterabiljty, alterabilkty, alterabiloty, alterabiliry, alterabilify, alterabiligy, alterabiliyy, alterabilitt, alterabilitg, alterabilith, alterabilitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

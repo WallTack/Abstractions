@@ -1,0 +1,448 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>revery</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">revery</span> <span class="exp">an abstracted state of absorption</span> </li><li><span class="tSpeech">n</span> <span class="term">revery</span> <span class="exp">absentminded dreaming while awake</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Revery</span> <span class="exp">A loose or irregular train of thought occurring in musing or mediation; deep musing; daydream.</span> <span class="wuQuot">"Rapt in nameless reveries ."</span><span class="wuQuot">"When ideas float in our mind without any reflection or regard of the understanding, it is that which the French call revery , our language has scarce a name for it."</span></li><li><span class="term">Revery</span> <span class="exp">An extravagant conceit of the fancy; a vision.</span> <span class="wuQuot">"There are infinite reveries and numberless extravagancies pass through both [wise and foolish minds]."</span></li><li><span class="tSpeech">n</span> <span class="term">Revery</span> <span class="exp">Same as <span class="wUer">Reverie</span>.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">revery</span> <span class="exp">See reverie.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Revery</span> <span class="exp">an irregular train of thoughts or fancies in meditation: voluntary inactivity of the external senses to the impressions of surrounding objects during wakefulness: mental abstraction: a waking dream: a brown study</span> </li><li><span class="term">Revery</span> <span class="exp">Same as <span class="bld">Reverie</span>.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gaston Bachelard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Gaston%20Bachelard.jpg" alt="Gaston%20Bachelard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Reverie is not a mind vacuum. It is rather the gift of an hour which knows the plenitude of the soul.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Andrew Carnegie</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Andrew%20Carnegie.jpg" alt="Andrew%20Carnegie">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Immense power is acquired by assuring yourself in your secret reveries that you were born to control affairs.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Ellery Channing</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Ellery%20Channing.jpg" alt="William%20Ellery%20Channing">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Do anything rather than give yourself to reverie.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Locke</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Locke.jpg" alt="John%20Locke">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Reverie is when ideas float in our mind without reflection or regard of the understanding.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Wadsworth Longfellow</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Wadsworth%20Longfellow.jpg" alt="Henry%20Wadsworth%20Longfellow">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Sit in reverie and watch the changing color of the waves that break upon the idle seashore of the mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Antoine Rivarol</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Antoine%20Rivarol.jpg" alt="Antoine%20Rivarol">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To lose one's self in reverie, one must be either very happy, or very unhappy. Reverie is the child of extremes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">réverie</span>, fr. <span class="wUets">rêver</span>, to dream, rave, be light-headed. Cf. <span class="wUer">Rave</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Those works, however, whether a romance or a sermon, which do not interest us so much as to induce reverie, may nevertheless incline us to sleep.
+					</div>
+					<div class="uAuthor">
+						"Zoonomia, Vol. I" by <span>Erasmus Darwin</span>					</div>
+										<div class="usage">
+						I had fallen into a reverie.
+					</div>
+					<div class="uAuthor">
+						"The Man-Wolf and Other Tales" by <span>Emile Erckmann and Alexandre Chatrian</span>					</div>
+										<div class="usage">
+						And so musing, Nora fell asleep, and her reverie passed into dreams.
+					</div>
+					<div class="uAuthor">
+						"Ishmael" by <span>Mrs. E. D. E. N. Southworth</span>					</div>
+										<div class="usage">
+						I was lost in reverie, when Timothy returned.
+					</div>
+					<div class="uAuthor">
+						"Japhet, In Search Of A Father" by <span>Frederick Marryat</span>					</div>
+										<div class="usage">
+						Salome fell into a deep reverie.
+					</div>
+					<div class="uAuthor">
+						"The Lost Lady of Lone" by <span>E.D.E.N. Southworth</span>					</div>
+										<div class="usage">
+						As he sat and watched the dying embers, he fell into a reverie concerning the events of the evening.
+					</div>
+					<div class="uAuthor">
+						"Adèle Dubois" by <span>Mrs. William T. Savage</span>					</div>
+										<div class="usage">
+						As he sat by himself in the still watches of the night, plunged in silent reverie, strange fancies began to fill his brain.
+					</div>
+					<div class="uAuthor">
+						"Prince Fortunatus" by <span>William Black</span>					</div>
+										<div class="usage">
+						As she closed her eyes, she fell into a not unhappy reverie.
+					</div>
+					<div class="uAuthor">
+						"Bluebell" by <span>Mrs. George Croft Huddleston</span>					</div>
+										<div class="usage">
+						The harsh scream of a bluejay struck a discord through her reverie.
+					</div>
+					<div class="uAuthor">
+						"The Grey Wig: Stories and Novelettes" by <span>Israel Zangwill</span>					</div>
+										<div class="usage">
+						Barbican surrendered himself up to a reverie regarding the mysterious destinies of the lunar world.
+					</div>
+					<div class="uAuthor">
+						"All Around the Moon" by <span>Jules Verne</span>					</div>
+										<div class="usage">
+						As he sat alone, in revery, he actually heaved a deep sigh.
+					</div>
+					<div class="uAuthor">
+						"Short Story Classics (American) Vol. 2" by <span>Various</span>					</div>
+										<div class="usage">
+						She poured out some chocolate, took it hurriedly, and quitted the room, leaving her husband in a disheartening reverie.
+					</div>
+					<div class="uAuthor">
+						"Elster's Folly" by <span>Mrs. Henry Wood</span>					</div>
+										<div class="usage">
+						The sound of carriage wheels roused him from his reverie.
+					</div>
+					<div class="uAuthor">
+						"Henrietta Temple A Love Story" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						Often and anxiously the Cabalist shot a glance at his companion, and then again relapsed into reverie.
+					</div>
+					<div class="uAuthor">
+						"Alroy The Prince Of The Captivity" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						He mused in fascinated reverie over the dazzling incident of the day.
+					</div>
+					<div class="uAuthor">
+						"Tancred" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						Lady Aphrodite has returned home: she hurries to her apartment, she falls in a sweet reverie, her head leans upon her hand.
+					</div>
+					<div class="uAuthor">
+						"The Young Duke" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						The latching of the gate broke up her depressing reverie, and banished the pinched and pining look from her features.
+					</div>
+					<div class="uAuthor">
+						"A Summer Evening's Dream" by <span>Edward Bellamy</span>					</div>
+										<div class="usage">
+						It was no song, no variations on well-known airs; it was some marvellous reverie; a frameless picture, a landscape without horizon.
+					</div>
+					<div class="uAuthor">
+						"Debts of Honor" by <span>Maurus Jókai</span>					</div>
+										<div class="usage">
+						Mr. Graham had fallen into a reverie.
+					</div>
+					<div class="uAuthor">
+						"Elsie Marley, Honey" by <span>Joslyn Gray</span>					</div>
+										<div class="usage">
+						She looked up as if she had come from a reverie.
+					</div>
+					<div class="uAuthor">
+						"Nell, of Shorne Mills" by <span>Charles Garvice</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							No unsubstantial shapes are they,--<br>
+The offspring of the mist and sea;<br>
+No splendid vision of Cathay,<br>
+Recalled in dreamful revery;
+							<div class="poet">"Corsica" by <span>John Lawson Stoddard</span></div>
+						</div>
+											<div class="poemQuote">
+							Her children's children they shall know<br>
+The good withheld from her;<br>
+And so her reverie takes prophetic cheer--<br>
+In spirit she sees the stir.
+							<div class="poet">""Formerly A Slave"" by <span>Herman Melville</span></div>
+						</div>
+											<div class="poemQuote">
+							And is it right, this mood of mind<br>
+That thus, in revery enshrined,<br>
+Can in the world mere topics find<br>
+For musing stricture,<br>
+Seeing the life of humankind<br>
+Only as picture?
+							<div class="poet">"Fancy's Casuistry" by <span>James Russell Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							Five cushions hath my hand, for reveries;<br>
+And one deep pillow for thy brow's fatigues;<br>
+Languor of June all winterlong, and ease<br>
+For ever from the vain untravelled leagues.
+							<div class="poet">"My Shy Hand" by <span>Wilfred Owen</span></div>
+						</div>
+											<div class="poemQuote">
+							'T is there thou bid'st a deeper ardour glow,<br>
+And higher, purer reveries completest;<br>
+As drops that farthest from the ocean flow,<br>
+Refining all the way, from springs the sweetest.
+							<div class="poet">"Morning" by <span>Maria Gowen Brooks</span></div>
+						</div>
+											<div class="poemQuote">
+							"Where in mild and friendly clime<br>
+You will lose all count of time,<br>
+See the seasons blend in one,<br>
+Under sovereignty of sun;<br>
+Day with day resolve in rhyme,<br>
+Reveries and nothing done.
+							<div class="poet">"Escape" by <span>Robert W Service</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A reverie more than a drama, this production is enthralling.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kdhx.org/arts/theater-reviews/enchantment-awaits-in-the-secret-garden" target="_blank" rel="external nofollow">kdhx.org</a>
+					</div>
+										<div class="usage">
+						" But "the revery alone will do, / If bees are few.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.christiancentury.org/reviews/2006-01/eudora-welty" target="_blank" rel="external nofollow">christiancentury.org</a>
+					</div>
+										<div class="usage">
+						Located on Cherokee Street on the second floor of the former Globe Drug–Discount Variety Store, Pig Slop has been flying the flag of freakdom, intoxication and mutant reverie since August 2010.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.riverfronttimes.com/2012-08-09/music/pig-slop-cherokee-bethany-marmalefsky/" target="_blank" rel="external nofollow">riverfronttimes.com</a>
+					</div>
+										<div class="usage">
+						Three members of the hob 'art gallery are participating in an exhibit titled "REVERIE" which is on view at the gallery at 720 Monroe St, Hoboken, until Sept 9.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/jjournal-news/index.ssf/2012/08/3_members_of_hobart_gallery_ha.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Swedish stunner Victoria Silvstedt (um, that's her on the left) crashes a lumpy sunbather's beachside reverie while cavorting among the waves in the paradise of St Barts.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nypost.com/p/news/international/beauty_and_the_beached_pMzBzc7hAjnw2gpo33sreL" target="_blank" rel="external nofollow">nypost.com</a>
+					</div>
+										<div class="usage">
+						Over the last 2 years, Grace has hosted the KDHX program Nomadic Reverie, titled, in part, after the Bonnie Prince Billy song, and partly after her own biography.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kdhx.org/about/news/881-kdhx-dj-spotlight-grace-of-nomadic-reverie" target="_blank" rel="external nofollow">kdhx.org</a>
+					</div>
+										<div class="usage">
+						Can nostalgic reverie be a good thing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://psychologytoday.com/collections/201211/longing-nostalgia" target="_blank" rel="external nofollow">psychologytoday.com</a>
+					</div>
+										<div class="usage">
+						Joe Henry's Raw, Raucous ' Reverie '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.whqr.org/post/joe-henrys-raw-raucous-reverie" target="_blank" rel="external nofollow">whqr.org</a>
+					</div>
+										<div class="usage">
+						North Carolina Woodland Reverie .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.gardendesign.com/places/my-garden-north-carolina-woodland-shade?pnid=127675" target="_blank" rel="external nofollow">gardendesign.com</a>
+					</div>
+										<div class="usage">
+						A Jazz Vocalist's Reverie .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wuwm.com/programs/lake_effect/lake_effect_segment.php?segmentid=5020" target="_blank" rel="external nofollow">wuwm.com</a>
+					</div>
+										<div class="usage">
+						We're listening to her recording of "We'll Meet Again," from her 2007 CD, Reverie .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wuwm.com/programs/lake_effect/lake_effect_segment.php?segmentid=5020" target="_blank" rel="external nofollow">wuwm.com</a>
+					</div>
+										<div class="usage">
+						 Reverie on the river.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sptimes.com/2006/09/03/Travel/Reverie_on_the_river.shtml" target="_blank" rel="external nofollow">sptimes.com</a>
+					</div>
+										<div class="usage">
+						An Unsentimental Reverie on the Life Cycle of Nature.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2003/03/09/sports/outdoors-an-unsentimental-reverie-on-the-life-cycle-of-nature.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The quintet usually specialize in beard-y reverie, somewhere between Built to Spill's guitar majesty and Seventies AM folk of America.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rollingstone.com/music/albumreviews/mirage-rock-20120925" target="_blank" rel="external nofollow">rollingstone.com</a>
+					</div>
+										<div class="usage">
+						Joe Henry's Raw, Raucous 'Reverie'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kunm.org/post/joe-henrys-raw-raucous-reverie" target="_blank" rel="external nofollow">kunm.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						For that we invoke the master makeﬁle M to generate possibly new dependency makeﬁles Ma , and then we invoke the master makeﬁle to request a re-build/reveriﬁcation of the entire mml. 
+					</div>
+					<div class="uAuthor">
+						A Wiki for Mizar: Motivation, Considerations, and Initial Prototype
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="absentminded dreaming while awake"><a href="daydream.html">daydream</a>, <a href="daydreaming.html">daydreaming</a>, <a href="oneirism.html">oneirism</a>, <a href="air%20castle.html">air castle</a>, <a href="castle%20in%20the%20air.html">castle in the air</a>, <a href="castle%20in%20spain.html">castle in spain</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abstractedness.html">abstractedness</a>, <a href="abstraction.html">abstraction</a>, <a href="dream.html">dream</a>, <a href="dreaming.html">dreaming</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="brown%20study.html">brown study</a>, <a href="dream.html">dream</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="dream.html">dream</a>, <a href="dump.html">dump</a>, <a href="To%20dream%20away.html">To dream away</a>, <a href="To%20dream%20out.html">To dream out</a>, <a href="To%20dream%20through.html">To dream through</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					eevery, devery, fevery, tevery, rwvery, rsvery, rdvery, rrvery, recery, refery, regery, rebery, revwry, revsry, revdry, revrry, reveey, revedy, revefy, revety, revert, reverg, reverh, reveru
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

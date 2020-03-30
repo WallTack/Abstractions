@@ -1,0 +1,411 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>jeopardy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">jeopardy</span> <span class="exp">a source of danger; a possibility of incurring loss or misfortune</span> <span class="quot">"drinking alcohol is a health hazard"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Jeopardy</span> <span class="exp">Exposure to death, loss, or injury; hazard; danger.</span> <span class="wuQuot">"There came down a storm of wind on the lake; and they were filled with water, and were in jeopardy ."</span><span class="wuQuot">"Look to thyself, thou art in jeopardy ."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Jeopardy</span> <span class="exp">To jeopardize.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">jeopardy</span> <span class="exp">An even chance; a game evenly balanced.</span> </li><li><span class="tSpeech">n</span> <span class="term">jeopardy</span> <span class="exp">Exposure to death, loss, or injury; hazard; danger; peril. A person is in legal jeopardy, within the constitutional protection against being put twice in Jeopardy for the same offense, when he is put upon trial, before a court of competent jurisdiction, upon indictment or information which is sufficient in form and substance to sustain a conviction, and a jury has been sworn, unless such jury, without having rendered a verdict, were discharged for good cause (or, according to some authorities, by absolute necessity), or by the consent of the accused.</span> </li><li><span class="tSpeech">n</span> <span class="term">jeopardy</span> <span class="exp">Synonyms Peril, etc. See danger and risk.</span> </li><li><span class="term">jeopardy</span> <span class="exp">To jeopardize: as, he jeopardied his fame.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Jeopardy</span> <span class="exp"><span class="itl">jep′ard-i</span> hazard, danger</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">jupartie</span>, <span class="wUets">juperti</span>, <span class="wUets">jeuparti</span>, OF. <span class="wUets">jeu parti</span>, an even game, a game in which the chances are even; OF. <span class="wUets">jeu</span>, <span class="wUets">ju</span>, F. <span class="wUets">jeu</span>,L. <span class="wUets">jocus</span>, jest) + F. <span class="wUets">partier</span>, to divide, L. <span class="wUets">partire</span>, to divide. See <span class="wUer">Joke</span>, and <span class="wUer">Part</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>jeu parti</i>, a divided game—Low L. <i>jocus partitus</i>—L. <i>jocus</i>, a game, <i>partitus</i>, divided—<i>partīri</i>, to divide.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Perchance, in jeopardy of war, 235 Where gayer crests may keep afar.
+					</div>
+					<div class="uAuthor">
+						"Lady of the Lake" by <span>Sir Walter Scott</span>					</div>
+										<div class="usage">
+						Jason knew his life was still in jeopardy, until he gave an answer that satisfied these men.
+					</div>
+					<div class="uAuthor">
+						"Deathworld" by <span>Harry Harrison</span>					</div>
+										<div class="usage">
+						I will not put his soul in jeopardy by committing him to a father unworthy the name.
+					</div>
+					<div class="uAuthor">
+						"Penshurst Castle" by <span>Emma Marshall</span>					</div>
+										<div class="usage">
+						She's dropping down this river all alone; pirates nor scoundrels nor river storms nor jeopardies seem to disturb her in the least.
+					</div>
+					<div class="uAuthor">
+						"The River Prophet" by <span>Raymond S. Spears</span>					</div>
+										<div class="usage">
+						The jeopardy of election did not concern him.
+					</div>
+					<div class="uAuthor">
+						"David Dunne" by <span>Belle Kanaris Maniates</span>					</div>
+										<div class="usage">
+						The peace of the Far East is thus in jeopardy.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume III (of VIII)" by <span>Various</span>					</div>
+										<div class="usage">
+						We all, saving a woman here and there, have our sins, little and great, and many times in the day we put in jeopardy that future bliss.
+					</div>
+					<div class="uAuthor">
+						"A Forest Hearth: A Romance of Indiana in the Thirties" by <span>Charles Major</span>					</div>
+										<div class="usage">
+						Miko, with his ungovernable temper, was doing things that put their plans in jeopardy.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science, March 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						When his life hung in jeopardy her secret was revealed to me.
+					</div>
+					<div class="uAuthor">
+						"Pretty Madcap Dorothy" by <span>Laura Jean Libbey</span>					</div>
+										<div class="usage">
+						In concentrating his official efforts against him he realized the jeopardy in which his own regard for Kate Seton placed him.
+					</div>
+					<div class="uAuthor">
+						"The Law-Breakers" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						At first her fear had only suggested the anxiety of a friend for himself, at the jeopardy in which public suspicion had placed him.
+					</div>
+					<div class="uAuthor">
+						"The One-Way Trail" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						Marie Louise read the letter aloud to Abbie, and, even though she knew the ship was safe, trembled as if it were still in jeopardy.
+					</div>
+					<div class="uAuthor">
+						"The Cup of Fury" by <span>Rupert Hughes</span>					</div>
+										<div class="usage">
+						Were there only some tangible jeopardy to his pelt, Murguia would have been more resigned.
+					</div>
+					<div class="uAuthor">
+						"The Missourian" by <span>Eugene P. (Eugene Percy) Lyle</span>					</div>
+										<div class="usage">
+						I had certainly reached a dangerous stage; but it was mainly myself that was in jeopardy.
+					</div>
+					<div class="uAuthor">
+						"My Schools and Schoolmasters" by <span>Hugh Miller</span>					</div>
+										<div class="usage">
+						I hae owre meikle regard for you to let you bide in jeopardy ony langer here.
+					</div>
+					<div class="uAuthor">
+						"Ringan Gilhaize" by <span>John Galt</span>					</div>
+										<div class="usage">
+						Yea, good Fellowship, yea, I am in great jeopardy!
+					</div>
+					<div class="uAuthor">
+						"Fifteenth Century Prose and Verse" by <span>Various</span>					</div>
+										<div class="usage">
+						Their religious freedom is in jeopardy while he has the fate of the Pope in his hands.
+					</div>
+					<div class="uAuthor">
+						"The History of Freedom" by <span>John Emerich Edward Dalberg-Acton</span>					</div>
+										<div class="usage">
+						Insulted, denounced, menaced by mob violence, his life was every day in jeopardy.
+					</div>
+					<div class="uAuthor">
+						"Charles Sumner Centenary" by <span>Archibald H. Grimke</span>					</div>
+										<div class="usage">
+						When I count up to the fourth cup, I feel they are in jeopardy.
+					</div>
+					<div class="uAuthor">
+						"Glories of Spain" by <span>Charles W. Wood</span>					</div>
+										<div class="usage">
+						Finding the wild disorder of his country beyond his control and his life in jeopardy, he resolved to fly to the United States.
+					</div>
+					<div class="uAuthor">
+						"Sages and Heroes of the American Revolution" by <span>L. Carroll Judson</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"For Scotland's conquer'd up and down;<br>
+Landmen we'll never be!<br>
+Now, will you go, my brethren two,<br>
+And try some jeopardy?"
+							<div class="poet">"Auld Maitland" by <span>Andrew Lang</span></div>
+						</div>
+											<div class="poemQuote">
+							The great Earl in his stirrups stood,<br>
+That Highland host to see:<br>
+"Now here a knight that's stout and good<br>
+May prove a jeopardie:
+							<div class="poet">"Elspeth's Ballad" by <span>Sir Walter Scott</span></div>
+						</div>
+											<div class="poemQuote">
+							"Now shame it were," cried good Lord James,<br>
+"Shall never be said of me,<br>
+That I and mine have turn'd aside,<br>
+From the Cross in jeopardie!
+							<div class="poet">"The Heart Of The Bruce" by <span>William Edmondstoune Aytoun</span></div>
+						</div>
+											<div class="poemQuote">
+							He sayd, "Come hither, Christopher Norton,<br>
+A gallant youth thou seemst to bee;<br>
+What doest thou counsell me, my sonne,<br>
+Now that good erle's in jeopardy?"
+							<div class="poet">"The Rising In The North" by <span>Anonymous British</span></div>
+						</div>
+											<div class="poemQuote">
+							From Indian blood you deem him sprung:<br>
+But no! he spake the English tongue,<br>
+And bore a soldier's name;<br>
+And, when America was free<br>
+From battle and from jeopardy,<br>
+He 'cross the ocean came. 
+							<div class="poet">"Ruth" by <span>William Wordsworth</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Present BJCTA in jeopardy of destruction .
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/birmingham-news-commentary/2012/11/your_view_present_bjcta_in_jeo.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						I see in recent news reports the future of the present BJCTA is totally in jeopardy of destruction .
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/birmingham-news-commentary/2012/11/your_view_present_bjcta_in_jeo.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						A destructive Congress has placed US in jeopardy Kevin Blaum In the Arena.
+					</div>
+					<div class="uAuthor">
+						<a href="http://timesleader.com/stories/A-destructive-Congress-has-placed-US-in-jeopardy-Kevin-Blaum-In-the-Arena,153018?category_id=371&amp;town_id=1&amp;sub_type=stories" target="_blank" rel="external nofollow">timesleader.com</a>
+					</div>
+										<div class="usage">
+						Kansas football in jeopardy of dipping below.500 all time.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/10/13/3864482/kansas-football-in-jeopardy-of.html" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						He is now such a demonized figure in the diving community his life-long dream of becoming a rescue diver is in jeopardy as several diving schools have denied him admission since the octopus scandal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.radaronline.com/exclusives/2012/11/octopus-hunter-dylan-mayer-death-threats-after-controversial-catch" target="_blank" rel="external nofollow">radaronline.com</a>
+					</div>
+										<div class="usage">
+						What questions do you have about UCF's future with the Big East in jeopardy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.orlandosentinel.com/sports/blogs/knights-notepad/os-ucf-blog-what-questions-do-you-have-about-ucfs-future-with-the-big-east-in-jeopardy-20121213,0,4580266.post" target="_blank" rel="external nofollow">orlandosentinel.com</a>
+					</div>
+										<div class="usage">
+						Reservist's Congressional campaign in jeopardy with call to duty in Afghanistan.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.team4news.com/news/video.aspx?list=195030&amp;id=753884" target="_blank" rel="external nofollow">team4news.com</a>
+					</div>
+										<div class="usage">
+						Do you remember last Friday when I said that the threat for earliest freeze was in jeopardy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tulsaworld.com/blogs/printerfriendly.aspx?articleid=17271" target="_blank" rel="external nofollow">tulsaworld.com</a>
+					</div>
+										<div class="usage">
+						Re "Voting in jeopardy," Opinion, Aug 7.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/opinion/letters/la-le-0810-friday-voterid-20120810,0,7694153.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						AccuWeather.com reports another nor'easter during Thanksgiving week will put travel in jeopardy for the holiday, while a storm also hits the West Coast.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.brainerddispatch.com/authors/meghan-evans" target="_blank" rel="external nofollow">brainerddispatch.com</a>
+					</div>
+										<div class="usage">
+						The Ishpeming Historical Society is in jeopardy of losing those tax exemptions they fought so hard for if they don't comply with a new request from the IRS.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wluctv6.com/news/story.aspx?list=~%5Cnews%5Clists%5Crecent&amp;id=510831" target="_blank" rel="external nofollow">wluctv6.com</a>
+					</div>
+										<div class="usage">
+						Requirements for meat to be labeled by country of origin may be in jeopardy after a recent World Trade Organization ruling.
+					</div>
+					<div class="uAuthor">
+						<a href="http://netnebraska.org/node/800077" target="_blank" rel="external nofollow">netnebraska.org</a>
+					</div>
+										<div class="usage">
+						DCSS title 1 funds in jeopardy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wfxl.com/news/video.aspx?list=194943&amp;id=801070" target="_blank" rel="external nofollow">wfxl.com</a>
+					</div>
+										<div class="usage">
+						As computers drive cars and play Jeopardy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/forbes/2011/0314/focus-ray-kurzweil-cybertopia-artificial-intelligence-futurist.html?feed=rss_author" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						As I longtime fan of "Jeopardy".
+					</div>
+					<div class="uAuthor">
+						<a href="http://fredericksburg.com/News/FLS/2012/112012/11142012/736179" target="_blank" rel="external nofollow">fredericksburg.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						If such events can happen during offsetting maneuvers the 0.6 arcsec in 2◦ science requirement might be in jeopardy. 
+					</div>
+					<div class="uAuthor">
+						Evaluation of the ALMA Prototype Antennas
+					</div>
+										<div class="usage">
+						Although the above observations correspond to the cases where skeleton selfenergy diagrams are evaluated in terms of { ˜Gσ′ ;0 (k; z ) k σ ′ }, use of { ˜Gσ′ (k; z ) k σ ′ } cannot place existence of ˜Σ (ν ) σ (k; z ), ∀ν , in jeopardy. 
+					</div>
+					<div class="uAuthor">
+						On the Luttinger theorem concerning number of particles in the ground states of systems of interacting fermions
+					</div>
+										<div class="usage">
+						This clearly puts in jeopardy the physics goals of the test beam. 
+					</div>
+					<div class="uAuthor">
+						CALICE Report to the DESY Physics Research Committee, April 2011
+					</div>
+										<div class="usage">
+						Expansions become inconsistent when only one type of terms is kept and, perhaps even more damningly, general covariance is put in jeopardy. 
+					</div>
+					<div class="uAuthor">
+						Higher time derivatives in effective equations of canonical quantum systems
+					</div>
+										<div class="usage">
+						Flagship Concept and ObjectivesFuturICT research field that produced such well-known successes as IBM’s Jeopardy-winning Watson computer (Ferrucci et al. 2010) or the iPhone Siri interface. 
+					</div>
+					<div class="uAuthor">
+						FuturICT
+					</div>
+										<div class="usage">
+						At the beginning of the trimester, the RAs report to the TACs any programs that are in jeopardy of not being completed because of target density on the sky, e.g., the large number of requested visits over the number expected to be completed at ST = 10 was largely due to one program. 
+					</div>
+					<div class="uAuthor">
+						Ten Year Review of Queue Scheduling of the Hobby-Eberly Telescope
+					</div>
+										<div class="usage">
+						The process also needs technical and human resources, which are often limited by lack of proper funding and job opportunities for scientists in the ﬁeld, to the point where maintaining expertise through future generations seems to be in jeopardy. 
+					</div>
+					<div class="uAuthor">
+						How to Make an Atomic Blog in Your Own Kitchen. Summary of the Workshop: Uncertainties in Atomic Data and How They Propagate in Chemical Abundances
+					</div>
+										<div class="usage">
+						The most model-independent conclusion is that standard BBN with Nν = 3 is not in jeopardy, but there may be problems with our detailed understanding of D and particularly 3He chemical evolution. 
+					</div>
+					<div class="uAuthor">
+						Why Do We Need Non-Baryonic Dark Matter?
+					</div>
+										<div class="usage">
+						The most modelindependent conclusion is that standard BBN with Nν = 3 is not in jeopardy, but there may be problems with our detailed understanding of D and particularly 3He chemical evolution. 
+					</div>
+					<div class="uAuthor">
+						Primordial Nucleosynthesis
+					</div>
+										<div class="usage">
+						The most model-independent conclusion is that standard BBN with Nν = 3 is not in jeopardy. 
+					</div>
+					<div class="uAuthor">
+						Primordial Big Bang Nucleosynthesis
+					</div>
+										<div class="usage">
+						Some attacks, such as providing wrong information to display devices or sending malicious command to some Implantable Medical Devices (IMD) or wearable devices, can actually place the patient’s life in jeopardy. 
+					</div>
+					<div class="uAuthor">
+						The Enemy Within: The Emerging Threats to Healthcare from Malicious Mobile Devices
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a source of danger; a possibility of incurring loss or misfortune"><a href="peril.html">peril</a>, <a href="risk.html">risk</a>, <a href="endangerment.html">endangerment</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="danger.html">danger</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="health%20hazard.html">health hazard</a>, <a href="moral%20hazard.html">moral hazard</a>, <a href="occupational%20hazard.html">occupational hazard</a>, <a href="sword%20of%20damocles.html">sword of damocles</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="hazard.html">hazard</a>, <a href="hazardous.html">hazardous</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="danger.html">danger</a>, <a href="Fifth%20Amendment.html">Fifth Amendment</a>, <a href="Jeopard.html">Jeopard</a>, <a href="jeoparder.html">jeoparder</a>, <a href="jeopardise.html">jeopardise</a>, <a href="Jeopardous.html">Jeopardous</a>, <a href="Jupartie.html">Jupartie</a>, <a href="peril.html">peril</a>, <a href="philippic.html">philippic</a>, <a href="risk.html">risk</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					heopardy, ueopardy, keopardy, meopardy, neopardy, jwopardy, jsopardy, jdopardy, jropardy, jeipardy, jekpardy, jelpardy, jeppardy, jeooardy, jeolardy, jeopqrdy, jeopwrdy, jeopsrdy, jeopzrdy, jeopaedy, jeopaddy, jeopafdy, jeopatdy, jeoparsy, jeoparey, jeoparfy, jeoparcy, jeoparxy, jeoparsy, jeopardt, jeopardg, jeopardh, jeopardu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

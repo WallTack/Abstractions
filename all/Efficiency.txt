@@ -1,0 +1,543 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>efficiency</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">efficiency</span> <span class="exp">skillfulness in avoiding wasted time and effort</span> <span class="quot">"she did the work with great efficiency"</span></li><li><span class="tSpeech">n</span> <span class="term">efficiency</span> <span class="exp">the ratio of the output to the input of any system</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Keeping your car tuned up is a good way to save on gas. A car that is tuned up is 9% more efficient on gasoline.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">efficiency</span> <span class="exp">The quality of being efficient or producing an effect or effects; efficient power; effectual agency.</span> <span class="wuQuot">"The manner of this divine efficiency being far above us."</span></li><li><span class="term">efficiency</span> <span class="exp"><span class="wuFld">(Mech)</span> The ratio of useful work to energy expended.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Apples, not caffeine, are more efficient at waking you up in the morning
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">efficiency</span> <span class="exp">The quality of being efficient; effectual agency; competent power; the quality or power of producing desired or intended effects.</span> </li><li><span class="tSpeech">n</span> <span class="term">efficiency</span> <span class="exp">Specifically— The state of being able or competent; the state of possessing or having acquired adequate knowledge or skill in any art, profession, or duty: as, by patient perseverance he has attained a high degree of efficiency.</span> </li><li><span class="tSpeech">n</span> <span class="term">efficiency</span> <span class="exp">In mech., the ratio of the useful work performed by a prime motor to the energy expended. Synonyms Efficacy, etc. See effectiveness.</span> </li><li><span class="tSpeech">n</span> <span class="term">efficiency</span> <span class="exp">Angström's method. Another method of measuring the radiant efficiency of a source of light is due to Knut Ångström. An opaque screen is mounted in such a position as to cut off all rays lying beyond the red end of the visible spectrum, and the remaining radiation is assembled upon the face of a bolometer by means of a cylindrical lens. The ratio of this quantity to the total radiation, measured by the same instrument, gives the radiant efficiency of the source of light. The radiant efficiency of such sources of light as have been measured by the two methods thus described is given in the following table. The values obtained by the integration of the energy-curves and by Ångström's method are marked respectively L and A.</span> </li><li><span class="tSpeech">n</span> <span class="term">efficiency</span> <span class="exp">While other sources of light have not as yet been measured by these methods, their relative efficiencies are approximately known, and by comparison with the above data we know that the radiant efficiency of ordinary oil- and gas-flames is about .01, that of the glow-lamp from .01 to .03, and that of the electric arc from .04 to .08. Gross efficiency. The term efficiency is likewise used to express the ratio of the energy in light-giving form developed in unit time by a source to the energy of combustion of the fuel which it is necessary to consume in order to maintain the source during that time. The efficiency thus defined takes into account the total heat-losses in the production of light. In the case of the flames of candles and of oil-lamps the heat lost by convection and conduction is very large compared with the total radiation from the flame. In the case of gas-flames the heat of combustion of the coal necessary to produce the gas to maintain the flame, as compared with the luminous energy emitted by the flame, gives the gross efficiency. In computing the gross efficiency of electric lights the heat of combustion of the fuel used to generate the current supplied to the lamps or the equivalent amount of energy, whatever be its source, is to be taken. In the case of a steam-plant for electric lighting the losses by dissipation of heat in the boiler, engine, dynamo, and lead-wires, together with the loss by convection and conduction in the electric lamp itself, all enter into the computation of the gross efficiency. Whatever process for the production of light may be employed, the amount of energy dissipated for the purpose of obtaining luminous radiation is very great, and the gross efficiency of luminous flames used in lighting ranges from .001 to .002, while the gross efficiency of electric lamps under the best existing conditions for the production of power is little if any above these figures. Electric efficiency. It is convenient in the case of the electric light to express the efficiency in watts per candle—a method not comparable with the energy-ratio defined above, but useful for the comparison of the various types of lamp used in electric lighting. The electric efficiency of the ordinary lamp ranges between four watts per candle and three watts per candle, according to the temperature of the filament, that of the arc-light from two watts per candle to one watt per candle (mean spherical candle-power), while the efficiency of the Nernst lamp is intermediate between that of the arc and the glow-lamp.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The reason why bubbles are round is because this is the most efficient shape that the soap film can take for the amount of air trapped inside
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Efficiency</span> <span class="exp">power to produce the result intended, adequate fitness</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">David Dunham</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="David Dunham">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Efficiency is intelligent laziness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arnold Bennett</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Arnold%20Bennett.jpg" alt="Arnold%20Bennett">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If egotism means a terrific interest in one's self, egotism is absolutely essential to efficient living.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Harry S Truman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Harry%20S%20Truman.jpg" alt="Harry%20S%20Truman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Whenever you have an efficient government, you have a dictatorship.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aneurin Bevan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aneurin%20Bevan.jpg" alt="Aneurin%20Bevan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I would rather be kept alive in the efficient if cold altruism of a large hospital than expire in a gush of warm sympathy in a small one.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Shirley Conran</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Shirley Conran">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I make no secret of the fact that I would rather lie on a sofa than sweep beneath it. But you have to be efficient if you're going to be lazy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sir Humphrey Davy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Sir Humphrey Davy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Language is not only the vehicle of thought, it is a great and efficient instrument in thinking.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">efficientia</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>efficiens</i>, <i>-entis</i>, pr.p. of <i>efficĕre</i>—<i>ex</i>, out, <i>facĕre</i>, to make.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The dominant feature of the task is an endeavor to find a compromise between efficiency and capital outlay.
+					</div>
+					<div class="uAuthor">
+						"Principles of Mining" by <span>Herbert C. Hoover</span>					</div>
+										<div class="usage">
+						The field efficiency of an organization depends primarily upon its effectiveness as a whole.
+					</div>
+					<div class="uAuthor">
+						"Manual of Military Training" by <span>James A. Moss</span>					</div>
+										<div class="usage">
+						Organization thus becomes a test of class efficiency, and consequently a prerequisite for solving the farm problem.
+					</div>
+					<div class="uAuthor">
+						"Chapters in Rural Progress" by <span>Kenyon L. Butterfield</span>					</div>
+										<div class="usage">
+						Still there was a certain pretence of a desire for efficiency, a double pseudo-efficiency.
+					</div>
+					<div class="uAuthor">
+						"The Cult of Incompetence" by <span>Emile Faguet</span>					</div>
+										<div class="usage">
+						The political machinery provided a sufficient channel for the really efficient force of public opinion.
+					</div>
+					<div class="uAuthor">
+						"The English Utilitarians, Volume I." by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						Although this preliminary filter was operated at a high rate, its efficiency was quite satisfactory.
+					</div>
+					<div class="uAuthor">
+						"Transactions of the American Society of Civil Engineers, vol. LXXII, June, 1911" by <span>E. D. Hardy</span>					</div>
+										<div class="usage">
+						George's duty as plugman was to watch the engine, to see that it kept well in work, and that the pumps were efficient in drawing the water.
+					</div>
+					<div class="uAuthor">
+						"Lives of the Engineers The Locomotive. George and Robert Stephenson" by <span>Samuel Smiles</span>					</div>
+										<div class="usage">
+						He conducted the office with honesty and efficiency.
+					</div>
+					<div class="uAuthor">
+						"History of Education" by <span>Levi Seeley</span>					</div>
+										<div class="usage">
+						Each company wore a different tartan, but that did not interfere with their efficiency.
+					</div>
+					<div class="uAuthor">
+						"The Red Watch" by <span>J. A. Currie</span>					</div>
+										<div class="usage">
+						The squadrons take to France, in August 1914, all efficient pilots, and all serviceable machines.
+					</div>
+					<div class="uAuthor">
+						"The War in the Air; Vol. 1" by <span>Walter Raleigh</span>					</div>
+										<div class="usage">
+						Smaller Productivity or Efficiency of Women's Labour.
+					</div>
+					<div class="uAuthor">
+						"The Evolution of Modern Capitalism" by <span>John Atkinson Hobson</span>					</div>
+										<div class="usage">
+						Yet there was no denying the efficiency with which she went about her job.
+					</div>
+					<div class="uAuthor">
+						"Deathworld" by <span>Harry Harrison</span>					</div>
+										<div class="usage">
+						In this country where energy, push and lightning-like efficiency are at a premium only the fat man of brains can hope to keep up.
+					</div>
+					<div class="uAuthor">
+						"How to Analyze People on Sight" by <span>Elsie Lincoln Benedict and Ralph Paine Benedict</span>					</div>
+										<div class="usage">
+						It is not a very efficient method but it has been used in the past.
+					</div>
+					<div class="uAuthor">
+						"Letters of a Radio-Engineer to His Son" by <span>John Mills</span>					</div>
+										<div class="usage">
+						Joe stepped forward, quickly, efficiently.
+					</div>
+					<div class="uAuthor">
+						"Frigid Fracas" by <span>Dallas McCord Reynolds</span>					</div>
+										<div class="usage">
+						It is ideally efficient.
+					</div>
+					<div class="uAuthor">
+						"Essentials of Economic Theory" by <span>John Bates Clark</span>					</div>
+										<div class="usage">
+						Let your clerks understand that a vice-presidency can be won by any of us and you will see a rise in efficiency that will surprise you.
+					</div>
+					<div class="uAuthor">
+						"H. R." by <span>Edwin Lefevre</span>					</div>
+										<div class="usage">
+						The milk or milk gruels answer the purpose more efficiently and without bad results.
+					</div>
+					<div class="uAuthor">
+						"Dietetics for Nurses" by <span>Fairfax T. Proudfit</span>					</div>
+										<div class="usage">
+						The efficient cause is always defined by Aristotle as the cause of motion.
+					</div>
+					<div class="uAuthor">
+						"A Critical History of Greek Philosophy" by <span>W. T. Stace</span>					</div>
+										<div class="usage">
+						The leaders of a religious cult commonly called Holy Rollers seem to be most efficient in this direction.
+					</div>
+					<div class="uAuthor">
+						"Six Thousand Country Churches" by <span>Charles Otis Gill</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Unquestioned those, efficient these,<br>
+All costs and fees enforced,<br>
+The Court now orders and decrees<br>
+John Marshall is divorced.
+							<div class="poet">"John Marshall's Divorce" by <span>Samuel Alfred Beadle</span></div>
+						</div>
+											<div class="poemQuote">
+							By it they stand, by it they fall,<br>
+What e'er the ambiguities,<br>
+They look to its intrinsic call,<br>
+For metes and bounds efficiencies.
+							<div class="poet">"The Deed Vs. Assessment Rolls" by <span>Samuel Alfred Beadle</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Do you ever wonder how Web Callback delivers a better customer experience while improving Contact Center efficiency.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tmcnet.com/webinar/8x8inc/inbound-call-centers.htm" target="_blank" rel="external nofollow">tmcnet.com</a>
+					</div>
+										<div class="usage">
+						Efficient Cary trash truck pushes four miles a gallon.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.carynews.com/2012/09/08/63431/terry-kelly-callous-conventions.html" target="_blank" rel="external nofollow">carynews.com</a>
+					</div>
+										<div class="usage">
+						The dietary additives did not improve calf weight gain, feed intake or feed efficiency in any of the trials.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dairyherd.com/dairy-herd/research-track/oligosaccharides-for-calves-examined-113979499.html" target="_blank" rel="external nofollow">dairyherd.com</a>
+					</div>
+										<div class="usage">
+						The new AG-HMC150 camcorder uses AVCHD, a long GOP compression standard based on MPEG-4 AVC/H.264 high profile encoding AVCHD provides a near doubling of bandwidth efficiency and improved video performance over MPEG-2 compression.
+					</div>
+					<div class="uAuthor">
+						<a href="http://broadcastengineering.com/hdtv/panasonic-unveils-ag-hmc150-avchd-camcorder" target="_blank" rel="external nofollow">broadcastengineering.com</a>
+					</div>
+										<div class="usage">
+						Benefit from the fastest turnaround time in the market and high cost efficiency.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cell.com/cancer-cell/annotatedetoc" target="_blank" rel="external nofollow">cell.com</a>
+					</div>
+										<div class="usage">
+						Everything, it seems, is getting more energy-efficient.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.davisenterprise.com/local-news/news-columns/per-capita-davis-do-we-need-all-these-electricity-gobbling-gadgets/" target="_blank" rel="external nofollow">davisenterprise.com</a>
+					</div>
+										<div class="usage">
+						With gasoline prices on the rise, it's important to make sure your vehicle's engine is running effectively and efficiently.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fort-myers-beach-observer.com/page/content.detail/id/520250/National-Car-Care-Month---A-Perfect-Time-to-Consider-A-Rebuilt-Engine.html?nav=5049" target="_blank" rel="external nofollow">fort-myers-beach-observer.com</a>
+					</div>
+										<div class="usage">
+						The buildup of deposits inside an engine can be like a slowly growing cancer: If left unattended, it can gradually rob an engine of its power, fuel efficiency, and ultimately, its driveability.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.motortrend.com/womt/112_9603_car_care_deposits_inside_an_engine/viewall.html" target="_blank" rel="external nofollow">motortrend.com</a>
+					</div>
+										<div class="usage">
+						In an effort to improve the efficiency of carpool and decrease traffic congestion, morning carpool for fifth grade only at Henderson Ward Stewart Elementary School is being rerouted to Pilcher Street beginning this Monday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.starkvilledailynews.com/content/carpool-route-5th-grade-change" target="_blank" rel="external nofollow">starkvilledailynews.com</a>
+					</div>
+										<div class="usage">
+						 Carpenter and green-building expert Tim Snyder shares his knowledge about energy efficiency and home improvement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.motherearthnews.com/blogs/blog.aspx?blogmonth=6&amp;blogyear=2012&amp;blogid=2147484388" target="_blank" rel="external nofollow">motherearthnews.com</a>
+					</div>
+										<div class="usage">
+						Consider Three Ways to Energy Efficiency.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chemicalprocessing.com/articles/2008/240.html" target="_blank" rel="external nofollow">chemicalprocessing.com</a>
+					</div>
+										<div class="usage">
+						The YORK YVAA air-cooled variable-speed screw chiller was manufactured by Johnson Controls for efficiency, reduced sound, and sustainability.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csemag.com/home/single-article/screw-chiller/701a49153413efe5a0f2fe417081edba.html" target="_blank" rel="external nofollow">csemag.com</a>
+					</div>
+										<div class="usage">
+						Mobil SHC 600 Series lubricants offer significant energy efficiency benefits.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.paperage.com/2011news/10_14_2011mobil_lubricants.html" target="_blank" rel="external nofollow">paperage.com</a>
+					</div>
+										<div class="usage">
+						It improves flow and heating efficiency in water-based equipment such as boilers, water heaters or storage tanks by dissolving lime, scale and rust deposits.
+					</div>
+					<div class="uAuthor">
+						<a href="http://contractormag.com/hydronics-systems/commercial-grade-system-descaler-kit" target="_blank" rel="external nofollow">contractormag.com</a>
+					</div>
+										<div class="usage">
+						A new form of alternative fuels recovers energy from post-consumer or post-industrial plastic wastes that cannot be recycled efficiently.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.designnews.com/author.asp?section_id=1392&amp;doc_id=242808&amp;f_src=designnews_node_3063" target="_blank" rel="external nofollow">designnews.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						This project is not focused on the internal workings of the Memex device. We assume that all of the processing, data storage, indexing and retrieval is done efficiently in the background and that any of the data stored can be quickly and easily accessed. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						This capacity allows then to efficiently access and use knowledge from their LTM. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						In their theory, there are capacity constraints in WM and the degree of information encapsulation in WM determines the efficiency and power of the system. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						For our project, we assume that this massive amount of collected information is magically, efficiently organized during the night and any part of it can be easily accessed. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						For our project, we assume that this massive amount of collected information is efficiently organized during the night and any part of it can be easily accessed. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						This will help her react/respond faster, better and more efficiently to the information displayed by the Personal Memex. 
+					</div>
+					<div class="uAuthor">
+						Human Information Processing with the Personal Memex
+					</div>
+										<div class="usage">
+						It is known that, kinetic co-efficient of friction is smaller than static co-efficient; and, if due to some reason, any sand granule is hit, the co-efficient of friction changes from static one to kinetic, because of the initial speed, which may be small yet it is non zero. And the granule gains kinetic energy. 
+					</div>
+					<div class="uAuthor">
+						A physical model for competition between biological speciation and extinction
+					</div>
+										<div class="usage">
+						As discussed in Ref. 10, the bubble nucleation efficiency of an ion of mass number A A/{E} . 
+					</div>
+					<div class="uAuthor">
+						A CF3I-based SDD Prototype for Spin-independent Dark Matter Searches
+					</div>
+										<div class="usage">
+						The mass reduction efficiency is η = (mx/ m ) x 100 = 1.32 %. 
+					</div>
+					<div class="uAuthor">
+						A Challenge to Control Gravity via Applying Electromagnetic Low-Frequency Radiation - Theory and Proposed Model Experiments
+					</div>
+										<div class="usage">
+						Speech SDK 2). Appropriate software architectures and efficient “fusion” algorithms have also been proposed for integrating speech into multimodal user interfaces as an input modality (see, for instance, Nigay &amp; Coutaz, 1993, or Johnston, 1998). 
+					</div>
+					<div class="uAuthor">
+						Ambient Multimodality: an Asset for Developing Universal Access to the Information Society
+					</div>
+										<div class="usage">
+						Cohen, P.R., Johnston, M., McGee, D., Oviatt, S.L., Clow, J., Smith, I. (1998). The efficiency of multimodal interaction: a case study. In R.H. 
+					</div>
+					<div class="uAuthor">
+						Ambient Multimodality: an Asset for Developing Universal Access to the Information Society
+					</div>
+										<div class="usage">
+						Introduction Automation systems have been becoming the main issue since many decades ago to improve the efficiency and to avoid unnecessary defects, especially in modern manufactures. It also plays an important role in some manufacturing processes which require high precision. 
+					</div>
+					<div class="uAuthor">
+						Control and Monitoring System for Modular Wireless Robot
+					</div>
+										<div class="usage">
+						These descriptions are not optimized for efficient implementation and abstract from details such as concrete data types. 
+					</div>
+					<div class="uAuthor">
+						AutoMoDe - Model-Based Development of Automotive Software
+					</div>
+										<div class="usage">
+						Although the prototypes are not yet optimized against size and efficiency, a power of 0.3 mW has been generated in a 5 Hz motion with a 0.5 meter amplitude. 
+					</div>
+					<div class="uAuthor">
+						Motion-Based Generators for Industrial Applications
+					</div>
+										<div class="usage">
+						Optimization of MAC is then to find the optimal set of M transmission probabilities θi such that the spectral efficiency is maximized. Consider a two-class system where the users of class i have power pi, percentage of population qi, and transmission probability θi for i = 1, 2. 
+					</div>
+					<div class="uAuthor">
+						Spectral efficiency and optimal medium access control of random access systems over large random spreading CDMA
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="inefficiency.html">inefficiency</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ratio.html">ratio</a>, <a href="skillfulness.html">skillfulness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="economy.html">economy</a>, <a href="figure%20of%20merit.html">figure of merit</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="efficient.html">efficient</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="ability.html">ability</a>, <a href="accelerator.html">accelerator</a>, <a href="action%20spectrum.html">action spectrum</a>, <a href="aerobic.html">aerobic</a>, <a href="arm.html">arm</a>, <a href="armed.html">armed</a>, <a href="arsenical.html">arsenical</a>, <a href="Autotransformer.html">Autotransformer</a>, <a href="Coefficiency.html">Coefficiency</a>, <a href="cripple.html">cripple</a>, <a href="cycle.html">cycle</a>, <a href="deed.html">deed</a>, <a href="demoralize.html">demoralize</a>, <a href="Diesel.html">Diesel</a>, <a href="diesel%20engine.html">diesel engine</a>, <a href="diesel%20motor.html">diesel motor</a>, <a href="draw.html">draw</a>, <a href="duty.html">duty</a>, <a href="Dynamization.html">Dynamization</a>, <a href="dynamize.html">dynamize</a>, <a href="effect.html">effect</a>, <a href="effectiveness.html">effectiveness</a>, <a href="efficacy.html">efficacy</a>, <a href="efficience.html">efficience</a>, <a href="efficiency%20apartment.html">efficiency apartment</a>, <a href="efficiently.html">efficiently</a>, <a href="expeditious.html">expeditious</a>, <a href="expeditiously.html">expeditiously</a>, <a href="feeble.html">feeble</a>, <a href="figure%20of%20merit.html">figure of merit</a>, <a href="fit.html">fit</a>, <a href="forcible.html">forcible</a>, <a href="form.html">form</a>, <a href="gas%20guzzler.html">gas guzzler</a>, <a href="gun.html">gun</a>, <a href="hand.html">hand</a>, <a href="incompatible.html">incompatible</a>, <a href="inefficiency.html">inefficiency</a>, <a href="information%20theory.html">information theory</a>, <a href="injector.html">injector</a>, <a href="inspection.html">inspection</a>, <a href="internal%20control.html">internal control</a>, <a href="Internal-combustion.html">Internal-combustion</a>, <a href="jiujitsu.html">jiujitsu</a>, <a href="Jiujutsu.html">Jiujutsu</a>, <a href="jujitsu.html">jujitsu</a>, <a href="jujutsu.html">jujutsu</a>, <a href="life.html">life</a>, <a href="little.html">little</a>, <a href="man.html">man</a>, <a href="mileage.html">mileage</a>, <a href="militarism.html">militarism</a>, <a href="modulus.html">modulus</a>, <a href="Modulus%20of%20a%20machine.html">Modulus of a machine</a>, <a href="musket.html">musket</a>, <a href="Needle-gun.html">Needle-gun</a>, <a href="opinion.html">opinion</a>, <a href="optimise.html">optimise</a>, <a href="optimize.html">optimize</a>, <a href="Pelta.html">Pelta</a>, <a href="perestroika.html">perestroika</a>, <a href="preponderant.html">preponderant</a>, <a href="preponderate.html">preponderate</a>, <a href="prepotency.html">prepotency</a>, <a href="Prepotent.html">Prepotent</a>, <a href="prevailing.html">prevailing</a>, <a href="prostrate.html">prostrate</a>, <a href="rationalisation.html">rationalisation</a>, <a href="rationalization.html">rationalization</a>, <a href="rectifier.html">rectifier</a>, <a href="revival.html">revival</a>, <a href="Rough%20and%20ready.html">Rough and ready</a>, <a href="safe.html">safe</a>, <a href="shakedown.html">shakedown</a>, <a href="stop.html">stop</a>, <a href="stultify.html">stultify</a>, <a href="subject.html">subject</a>, <a href="sufficiency.html">sufficiency</a>, <a href="synergist.html">synergist</a>, <a href="teamwork.html">teamwork</a>, <a href="telescope.html">telescope</a>, <a href="treat.html">treat</a>, <a href="trireme.html">trireme</a>, <a href="upkeep.html">upkeep</a>, <a href="wear.html">wear</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wfficiency, sfficiency, dfficiency, rfficiency, edficiency, erficiency, egficiency, evficiency, ecficiency, efdiciency, efriciency, efgiciency, efviciency, efciciency, effuciency, effjciency, effkciency, effociency, effixiency, effidiency, effifiency, effiviency, efficuency, efficjency, effickency, efficoency, efficiwncy, efficisncy, efficidncy, efficirncy, efficiebcy, efficiehcy, efficiejcy, efficiemcy, efficienxy, efficiendy, efficienfy, efficienvy, efficienct, efficiencg, efficiench, efficiencu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

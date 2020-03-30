@@ -1,0 +1,524 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>habituation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">habituation</span> <span class="exp">a general accommodation to unchanging environmental conditions</span> </li><li><span class="tSpeech">n</span> <span class="term">habituation</span> <span class="exp">being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Habituation</span> <span class="exp">The act of habituating, or accustoming; the state of being habituated.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">habituation</span> <span class="exp">The act of habituating, or the state of being habituated.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Baudelaire</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Baudelaire.jpg" alt="Charles%20Baudelaire">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There are as many kinds of beauty as there are habitual ways of seeking happiness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Orison Swett Marden</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Orison%20Swett%20Marden.jpg" alt="Orison%20Swett%20Marden">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Our destiny changes with our thought; we shall become what we wish to become, do what we wish to do, when our habitual thought corresponds with our desire.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alfred North Whitehead</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Alfred%20North%20Whitehead.jpg" alt="Alfred%20North%20Whitehead">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“But you can catch yourself entertaining habitually certain ideas and setting others aside; and that, I think, is where our personal destinies are largely decided.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Jefferson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Jefferson.jpg" alt="Thomas%20Jefferson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Walking is the best possible exercise. Habituate yourself to walk very fast.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eustace Budgell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Eustace Budgell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another. -”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alfred North Whitehead</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Alfred%20North%20Whitehead.jpg" alt="Alfred%20North%20Whitehead">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In every age of well-marked transition, there is the pattern of habitual dumb practice and emotion which is passing and there is oncoming a new complex of habit.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">habituation</span>, 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He habitually came down early to get it before anybody else had a chance.
+					</div>
+					<div class="uAuthor">
+						"Queed" by <span>Henry Sydnor Harrison</span>					</div>
+										<div class="usage">
+						A man may have a liberal hope for himself and for humanity, although his dinner be habitually a martyrdom.
+					</div>
+					<div class="uAuthor">
+						"Life of Robert Browning" by <span>William Sharp</span>					</div>
+										<div class="usage">
+						If we are to have pretty phrases and tones of voice, mothers must see to it that the child habitually hears no other.
+					</div>
+					<div class="uAuthor">
+						"The Nervous Child" by <span>Hector Charles Cameron</span>					</div>
+										<div class="usage">
+						How do they make themselves understood when they go on in this way habitually?
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine, August, 1885" by <span>Various</span>					</div>
+										<div class="usage">
+						Individuals who are habitually late may become models of punctuality.
+					</div>
+					<div class="uAuthor">
+						"Certain Success" by <span>Norval A. Hawkins</span>					</div>
+										<div class="usage">
+						Of a sarcastic, sneering, unpleasant temperament, he habitually made enemies, and did not seem to care.
+					</div>
+					<div class="uAuthor">
+						"The Forest Runners" by <span>Joseph A. Altsheler</span>					</div>
+										<div class="usage">
+						Mystics habitually look beneath the Life of Reason for the substance and infinity of happiness.
+					</div>
+					<div class="uAuthor">
+						"The Life of Reason" by <span>George Santayana</span>					</div>
+										<div class="usage">
+						If salts are used habitually internally, they are harmful.
+					</div>
+					<div class="uAuthor">
+						"Diet and Health" by <span>Lulu Hunt Peters</span>					</div>
+										<div class="usage">
+						Herbae vel suffrutices, hispidae, habitu peculiari.
+					</div>
+					<div class="uAuthor">
+						"Journals of Travels in Assam, Burma, Bhootan, Afghanistan and TheNeighbouring Countries" by <span>William Griffith</span>					</div>
+										<div class="usage">
+						The natives, a people habitually made to concealment, are the chief managers of the revenue throughout the provinces.
+					</div>
+					<div class="uAuthor">
+						"The Works of the Right Honourable Edmund Burke, Vol. II. (of 12)" by <span>Edmund Burke</span>					</div>
+										<div class="usage">
+						Habitual constipation at a later period is difficult to overcome by diet alone.
+					</div>
+					<div class="uAuthor">
+						"The Care and Feeding of Children" by <span>L. Emmett Holt</span>					</div>
+										<div class="usage">
+						Its professors, therefore, must have the qualities of men not habituated to sentiments of dignity.
+					</div>
+					<div class="uAuthor">
+						"The Works of the Right Honourable Edmund Burke, Vol. III. (of 12)" by <span>Edmund Burke</span>					</div>
+										<div class="usage">
+						The column of squads is the habitual column of route, but route step and at ease are applicable to any marching formation.
+					</div>
+					<div class="uAuthor">
+						"The Plattsburg Manual" by <span>O.O. Ellis and E.B. Garey</span>					</div>
+										<div class="usage">
+						Hence, a habitual yielding to inclination in this matter has determined their life-long behavior.
+					</div>
+					<div class="uAuthor">
+						"Plain Facts for Old and Young" by <span>John Harvey Kellogg</span>					</div>
+										<div class="usage">
+						What made David's sin glaring and memorable was its contradiction of his habitual nobler self.
+					</div>
+					<div class="uAuthor">
+						"Expositions of Holy Scripture" by <span>Alexander Maclaren</span>					</div>
+										<div class="usage">
+						Piero made a grimace which was habitual with him when he was spoken to with flattering suavity.
+					</div>
+					<div class="uAuthor">
+						"Romola" by <span>George Eliot</span>					</div>
+										<div class="usage">
+						The practice of saving being once necessary, became habitual, and grew first ridiculous and at last detestable.
+					</div>
+					<div class="uAuthor">
+						"The Works of Samuel Johnson, LL.D. in Nine Volumes" by <span>Samuel Johnson</span>					</div>
+										<div class="usage">
+						I was ever ready to assist when help was needful, but my offers of assistance were habitually declined.
+					</div>
+					<div class="uAuthor">
+						"Fragments of science, V. 1-2" by <span>John Tyndall</span>					</div>
+										<div class="usage">
+						To the North, slavery was habitually a remote matter, but it was perpetually brought home to the business and bosoms of the South.
+					</div>
+					<div class="uAuthor">
+						"The Negro and the Nation" by <span>George S. Merriam</span>					</div>
+										<div class="usage">
+						The practice was closely and habitually followed.
+					</div>
+					<div class="uAuthor">
+						"Forty Years in the Wilderness of Pills and Powders" by <span>William A. Alcott</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Dream-emptied by some shifting<br>
+Monna Bice, you I resume:<br>
+Continually suffer the habitual<br>
+Cobra of my slightest gloom!
+							<div class="poet">"The Progress Of Œnia" by <span>Allen Tate</span></div>
+						</div>
+											<div class="poemQuote">
+							Often me too the Living voices call<br>
+In many a vulgar and habitual place,<br>
+I catch a sight of lands beyond the wall,<br>
+I see a strange god’s face.
+							<div class="poet">"Our Daily Bread" by <span>C S Lewis</span></div>
+						</div>
+											<div class="poemQuote">
+							But on my far-off solitude<br>
+No harsh alarums can intrude;<br>
+The terror comes to me subdued<br>
+And charmed by distance,<br>
+To deepen the habitual mood<br>
+Of my existence.
+							<div class="poet">"Fancy's Casuistry" by <span>James Russell Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							These are Thy gifts; and these shall be<br>
+My pure, habitual offering;<br>
+Accept, great God of purity!<br>
+Accept, forgive benignantly,<br>
+The imperfect tribute that I bring.
+							<div class="poet">"Summer: Wednesday Morning" by <span>John Bowring</span></div>
+						</div>
+											<div class="poemQuote">
+							YOU may be accurate when yon say<br>
+That habitual honesty does not pay;<br>
+But there's still one point which leaves room for doubt,<br>
+Which is: How the devil did you find out?
+							<div class="poet">"Epigram VI  -  Inexperto Crede" by <span>John Collings Squire</span></div>
+						</div>
+											<div class="poemQuote">
+							But when, asudden, swift on angry flash,<br>
+Rumbled imperious thunder overhead,<br>
+At the commanding mandate, Sisyphus,<br>
+Bulkily rising, straightened limbs relaxed,<br>
+And turned him yet again unto his task,<br>
+Mumbling the while habitual lament.
+							<div class="poet">"Sisyphus" by <span>Alfred Austin</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Well, I need to apologize about the timing of this column, but I expect that some of you already know that I habitually run a bit late.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sunherald.com/2012/11/03/4282028/the-perfect-country-and-western.html" target="_blank" rel="external nofollow">sunherald.com</a>
+					</div>
+										<div class="usage">
+						Along with being a multi-instrumentalist and a practicing poet, he is a perpetual reader and habitually keeps a list of words, thoughts and feelings that inspire him.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nypress.com/dada-daydreams/" target="_blank" rel="external nofollow">nypress.com</a>
+					</div>
+										<div class="usage">
+						Henry says he requested a meeting with Kelly and Chambers in a last-ditch effort to avoid a trial and a possible habitual conviction.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.westword.com/2012-05-24/music/sucker-punch-the-big-bitch-from-mayhem-festival/4/" target="_blank" rel="external nofollow">westword.com</a>
+					</div>
+										<div class="usage">
+						'Friendlies' habituated in Mexican breeding lagoons frequented by tour boats make their way to B.C.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/technology/science/That+grey+whale+bumping+your+boat+fluke/6992227/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						' Habitual ' tag, prison sought for rapist.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.journalgazette.net/article/20121120/LOCAL03/311209816/1039/local03" target="_blank" rel="external nofollow">journalgazette.net</a>
+					</div>
+										<div class="usage">
+						 Habitual offender freed in drug lab crisis now fugitive.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metro.us/boston/local/article/1153448--marcus-pixley-habitual-offender-freed-in-drug-lab-crisis-now-fugitive" target="_blank" rel="external nofollow">metro.us</a>
+					</div>
+										<div class="usage">
+						WINSTON-SALEM — A 44-year-old man convicted of robbing a gas station on Broad Street with a knife has been sentenced to life in prison without the possibility of parole, with the jury finding that he was a violent habitual felon.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.news-record.com/content/2012/08/14/article/man_sentenced_in_forsyth_to_life_in_prison_as_violent_habitual_felon" target="_blank" rel="external nofollow">news-record.com</a>
+					</div>
+										<div class="usage">
+						Prison sentences handed down to habitual offenders in Genesee Circuit Court.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/news/flint/index.ssf/2012/08/prison_sentences_handed_down_t.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						The left's habitual and ironic rush to judgment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.humanevents.com/2012/07/24/david-limbaugh-the-lefts-habitual-and-ironic-rush-to-judgment/" target="_blank" rel="external nofollow">humanevents.com</a>
+					</div>
+										<div class="usage">
+						' Habitual excellence': The workplace according to Paul O'Neill.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/stories/business/news/habitual-excellence-the-workplace-according-to-paul-oneill-635698/" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						 Habitual offenders could get mandatory 25-year sentence.
+					</div>
+					<div class="uAuthor">
+						<a href="http://michiganradio.org/post/habitual-offenders-could-get-mandatory-25-year-sentence" target="_blank" rel="external nofollow">michiganradio.org</a>
+					</div>
+										<div class="usage">
+						 Habitual drunk driver goes back to court.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/wabc/story?section=news/local/long_island&amp;id=8614153" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						A habitual offender of the state vehicle code was sentenced to a county prison term on Tuesday in Carbon County court.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnonline.com/2010/sep/22/habitual-offender-given-prison-term" target="_blank" rel="external nofollow">tnonline.com</a>
+					</div>
+										<div class="usage">
+						"It is critical to break the cycle of truancy early, as adolescents who are habitually truant are far more likely to end up in our delinquency court down the road.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thereporter.com/ci_22152312/solano-county-joins-program-fight-truancy" target="_blank" rel="external nofollow">thereporter.com</a>
+					</div>
+										<div class="usage">
+						Currently, when a child is habitually truant , defiant or unruly, the courts usually get involved and the child is assigned to a probation officer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wgbh.org/articles/Senate-Passes-Bill-Reforming-Truancy-Discipline-3691" target="_blank" rel="external nofollow">wgbh.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The habitual nowadays description of simple ﬁnite dimensional Lie algebras in terms of abstract root systems, although enables one to advance rather far in the study of representations, reminds us V. 
+					</div>
+					<div class="uAuthor">
+						Simple Lie superalgebras and nonintegrable distributions in characteristic p
+					</div>
+										<div class="usage">
+						Exceptional complex geometry based on the properties of a remarkable algebraic structures (biquaternions), when introduced into foundations of physics as the primordial “hidden” geometry of the space-time (instead of the habitual Minkowski geometry), results in a quite novel and unexpected picture of the World. 
+					</div>
+					<div class="uAuthor">
+						Algbrodynamics over complex space and phase extension of the Minkowski geometry
+					</div>
+										<div class="usage">
+						Leading to the same habitual linear dependence of thermodynamic potential vs. activity logarithm (instead of concentration), that allowed the thermodynamic functions to keep the same appearance, passing open and closed systems for isolated entities. 
+					</div>
+					<div class="uAuthor">
+						New Thermodynamic Paradigm of Chemical Equilibria
+					</div>
+										<div class="usage">
+						TdE is bifurcation point, i.e. the stronger is the system resistance against bifurcations. As τj and TdF increase further, bifurcation area stays either unchanged or experience instabilities, appearing as series of chaotic oscillations instead of the period dubbing, typical for the habitual bifurcation diagrams. 
+					</div>
+					<div class="uAuthor">
+						New Thermodynamic Paradigm of Chemical Equilibria
+					</div>
+										<div class="usage">
+						Rats were first habituated to the stationary rod. 
+					</div>
+					<div class="uAuthor">
+						Wide therapeutic time window for nimesulide neuroprotection in a model of transient focal cerebral ischemia in the rat
+					</div>
+										<div class="usage">
+						Of course, not every ”deviation from the norm” looks funny; but it should be taken into account that habitual, oft-repeated deviations are analogous to hackneyed jokes (see below) and the weak deviations are easily forced out by other emotions (see the following paper ). 
+					</div>
+					<div class="uAuthor">
+						Computer Model of a "Sense of Humour". I. General Algorithm
+					</div>
+										<div class="usage">
+						This conjecture is not nullified because it doesn't meet the convenient and habitual assumptions of the objective reality theory it denies. 
+					</div>
+					<div class="uAuthor">
+						The emergence of the physical world from information processing
+					</div>
+										<div class="usage">
+						The only difference is that for microscopic systems we are forced to accept the superposition of states while for the macroscopic ones we habitually disregard them as of no consequence. 
+					</div>
+					<div class="uAuthor">
+						Are Quantum States Subjective?
+					</div>
+										<div class="usage">
+						Habitually, test team perform static test of the design document to detect the defects while the code developers perform dynamic execution of the design solution. Consequently, defect detection rate is low as designers cannot visualize the design flaws until the design is implemented. 
+					</div>
+					<div class="uAuthor">
+						Analysis of Test Efficiency during Software Development Process
+					</div>
+										<div class="usage">
+						To break out of the limitations imposed by habitual thinking, we propose a different mathematical model for the structure of spacetime. 
+					</div>
+					<div class="uAuthor">
+						Physical Applications of a Generalized Clifford Calculus (Papapetrou equations and Metamorphic Curvature)
+					</div>
+										<div class="usage">
+						Systems with internal constraints are quite interesting since many dynamical systems are given in terms of non-symplectic forms instead of the more habitual symplectic ones. 
+					</div>
+					<div class="uAuthor">
+						Singular lagrangian systems and variational constrained mechanics on Lie algebroids
+					</div>
+										<div class="usage">
+						However, what is habitually called ‘open-field measurements’ in the field of radiation therapy corresponds to beams which have already been restricted in size by the primary collimator. 
+					</div>
+					<div class="uAuthor">
+						Collimator effects in proton planning
+					</div>
+										<div class="usage">
+						It would be desirable to get more clear notion on how the properties of systems are transformed when the system becomes of finite size (because we have in our habitual practice to do with finite volumes). 
+					</div>
+					<div class="uAuthor">
+						Spreading of the conception of permanent resonance to wave motions over lattices
+					</div>
+										<div class="usage">
+						The density matrix (1) allows one to apply the ﬁeld theory to the description of the further evolution and results in a set of habitual elements like cross-sections, self-energies, vertices. 
+					</div>
+					<div class="uAuthor">
+						Heavy dileptons from nonequilibrium QGP
+					</div>
+										<div class="usage">
+						Just for the purpose of the following calculations it is written not it terms of habitual Mandelstam variables (s, t, u). 
+					</div>
+					<div class="uAuthor">
+						Heavy dileptons from nonequilibrium QGP
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="accommodation.html">accommodation</a>, <a href="adjustment.html">adjustment</a>, <a href="fitting.html">fitting</a>, <a href="physical%20condition.html">physical condition</a>, <a href="physiological%20condition.html">physiological condition</a>, <a href="physiological%20state.html">physiological state</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="drug%20addiction.html">drug addiction</a>, <a href="white%20plague.html">white plague</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="addict.html">addict</a>, <a href="habituate.html">habituate</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Accustomedness.html">Accustomedness</a>, <a href="Assuefaction.html">Assuefaction</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					gabituation, yabituation, jabituation, nabituation, babituation, hqbituation, hwbituation, hsbituation, hzbituation, havituation, hagituation, hahituation, hanituation, habutuation, habjtuation, habktuation, habotuation, habiruation, habifuation, habiguation, habiyuation, habityation, habithation, habitjation, habitiation, habituqtion, habituwtion, habitustion, habituztion, habituarion, habituafion, habituagion, habituayion, habituatuon, habituatjon, habituatkon, habituatoon, habituatiin, habituatikn, habituatiln, habituatipn, habituatiob, habituatioh, habituatioj, habituatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

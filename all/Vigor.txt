@@ -1,0 +1,526 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>vigor</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">vigor</span> <span class="exp">an imaginative lively style (especially style of writing)</span> <span class="quot">"his writing conveys great energy","a remarkable muscularity of style"</span></li><li><span class="tSpeech">n</span> <span class="term">vigor</span> <span class="exp">active strength of body or mind</span> </li><li><span class="tSpeech">n</span> <span class="term">vigor</span> <span class="exp">forceful exertion</span> <span class="quot">"he plays tennis with great energy","he's full of zip"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Vigor</span> <span class="exp">Active strength or force of body or mind; capacity for exertion, physically, intellectually, or morally; force; energy.</span> <span class="wuQuot">"The vigor of this arm was never vain."</span></li><li><span class="term">Vigor</span> <span class="exp">Strength or force in animal or vegetable nature or action; as, a plant grows with <span class="wUex">vigor</span>
+            .</span> </li><li><span class="term">Vigor</span> <span class="exp">Strength; efficacy; potency.</span> <span class="wuQuot">"But in the fruithful earth . . . His beams, unactive else, their vigor find."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Vigor</span> <span class="exp">To invigorate.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">vigor</span> <span class="exp">Active strength or force of body; physical force; a flourishing physical condition; also, strength of mind; mental health and power; by extension, force of healthy growth in plants.</span> </li><li><span class="tSpeech">n</span> <span class="term">vigor</span> <span class="exp">Strength or force in general; powerful or energetic action; energy; efficacy; potency.</span> </li><li><span class="tSpeech">n</span> <span class="term">vigor</span> <span class="exp">Synonyms Health, haleness, soundness, robustness, bloom, thriftiness.</span> </li><li><span class="tSpeech">n</span> <span class="term">vigor</span> <span class="exp">Might, power.</span> </li><li><span class="term">vigor</span> <span class="exp">To invigorate.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bishop Robert South</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bishop Robert South">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Action is the highest perfection and drawing forth of the utmost power, vigor, and activity of man's nature.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Haddon Spurgeon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Haddon%20Spurgeon.jpg" alt="Charles%20Haddon%20Spurgeon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A vigorous temper is not altogether an evil. Men who are easy as an old shoe are generally of little worth.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Curiosity is one of the permanent and certain characteristics of a vigorous mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The love of life is necessary to the vigorous prosecution of any undertaking.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Patrick Henry</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Patrick%20Henry.jpg" alt="Patrick%20Henry">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Perfect freedom is as necessary to the health and vigor of commerce as it is to the health and vigor of citizenship.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Johann Kaspar Lavater</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Johann%20Kaspar%20Lavater.jpg" alt="Johann%20Kaspar%20Lavater">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Who in the same given time can produce more than others has vigor; who can produce more and better, has talents; who can produce what none else can, has genius.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">vigour</span>, <span class="wUets">vigor</span>, OF. <span class="wUets">vigor</span>, <span class="wUets">vigur</span>, <span class="wUets">vigour</span>, F. <span class="wUets">vigueur</span>, fr. L. <span class="wUets">vigor</span>, fr. <span class="wUets">vigere</span>, to be lively or strong. See <span class="wUer">Vegetable</span> <span class="wUer">Vigil</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						This will secure a vigorous growth of the scion.
+					</div>
+					<div class="uAuthor">
+						"Agriculture for Beginners" by <span>Charles William Burkett</span>					</div>
+										<div class="usage">
+						Our energies have been made vigorous in vicious employments.
+					</div>
+					<div class="uAuthor">
+						"Aims and Aids for Girls and Young Women" by <span>George Sumner Weaver</span>					</div>
+										<div class="usage">
+						The grafts made a vigorous growth but only two out of eleven lived through the winter.
+					</div>
+					<div class="uAuthor">
+						"Northern Nut Growers Association Report of the Proceedings at the Twenty-Fifth Annual Meeting" by <span>Northern Nut Growers Association</span>					</div>
+										<div class="usage">
+						The day was so cold, and the smooth ice expanse so great, that the vigorous exercise did everybody good.
+					</div>
+					<div class="uAuthor">
+						"Winter Adventures of Three Boys" by <span>Egerton R. Young</span>					</div>
+										<div class="usage">
+						An honest, vigorous thinker will clear away these ruins and begin anew at the earth.
+					</div>
+					<div class="uAuthor">
+						"The Atlantic Monthly , Volume 2, No. 14, December 1858" by <span>Various</span>					</div>
+										<div class="usage">
+						Plowing, hoeing, mowing, everything he does on the farm gives him vigor and strength.
+					</div>
+					<div class="uAuthor">
+						"Pushing to the Front" by <span>Orison Swett Marden</span>					</div>
+										<div class="usage">
+						Foliage large and vigorous.
+					</div>
+					<div class="uAuthor">
+						"The Field and Garden Vegetables of America" by <span>Fearing Burr</span>					</div>
+										<div class="usage">
+						The farmer lifted one end of the canvas, and gave it a vigorous jerk, thus liberating the dog, who began to prance about his master.
+					</div>
+					<div class="uAuthor">
+						"Canoe Boys and Campfires" by <span>William Murray Graydon</span>					</div>
+										<div class="usage">
+						Man seems to lack something of the vigor of the animal instinct on awakening.
+					</div>
+					<div class="uAuthor">
+						"How to Add Ten Years to your Life and to Double Its Satisfactions" by <span>S. S. Curry</span>					</div>
+										<div class="usage">
+						The plant is strong and vigorous and somewhat spreading in habit of growth.
+					</div>
+					<div class="uAuthor">
+						"Northern Nut Growers Association Report of the Proceedings at the Thirty-Eighth Annual Meeting" by <span>Northern Nut Growers Association</span>					</div>
+										<div class="usage">
+						Mary's decision was vigorously questioned by her friends.
+					</div>
+					<div class="uAuthor">
+						"Mary Wollstonecraft" by <span>Elizabeth Robins Pennell</span>					</div>
+										<div class="usage">
+						On the other hand, the seeds I have planted have grown into very vigorous trees.
+					</div>
+					<div class="uAuthor">
+						"Northern Nut Growers Association, Report of the Proceedings at the Third Annual Meeting" by <span>Northern Nut Growers Association</span>					</div>
+										<div class="usage">
+						What vigor and resolution there was in her small bewitching face.
+					</div>
+					<div class="uAuthor">
+						"A Little Girl in Old Quebec" by <span>Amanda Millie Douglas</span>					</div>
+										<div class="usage">
+						The German commanders, in the meantime, had been preparing for a vigorous counterattack.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Great War, Volume V (of 12)"					</div>
+										<div class="usage">
+						But, in return for this, they retain their vigor and good looks to a green old age.
+					</div>
+					<div class="uAuthor">
+						"The Physical Life of Woman:" by <span>Dr. George H Napheys</span>					</div>
+										<div class="usage">
+						It planted in every municipality a vigorous mercantile class, who were often excellent and generous citizens.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						This man seemed to be still in the vigor of youth.
+					</div>
+					<div class="uAuthor">
+						"The Son of Monte Christo" by <span>Jules Lermina</span>					</div>
+										<div class="usage">
+						One of the marked effects of David's long and vigorous reign was to stimulate mental activity in the Hebrew mind.
+					</div>
+					<div class="uAuthor">
+						"Great Men and Famous Women. Vol. 3 of 8" by <span>Various</span>					</div>
+										<div class="usage">
+						This offense must be repressed with the utmost vigor.
+					</div>
+					<div class="uAuthor">
+						"Manual of Military Training" by <span>James A. Moss</span>					</div>
+										<div class="usage">
+						He struck out two vigorous blows, which crashed against the faces of two of them.
+					</div>
+					<div class="uAuthor">
+						"The Dodge Club" by <span>James De Mille</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							`And here, on this delightful day,<br>
+I cannot choose but think<br>
+How oft, a vigorous man, I lay<br>
+Beside this fountain's brink.
+							<div class="poet">"The Fountain" by <span>William Wordsworth</span></div>
+						</div>
+											<div class="poemQuote">
+							Mere mortal power shall fade and die,<br>
+And youthful vigor cease:<br>
+But we that wait upon the Lord<br>
+Shall feel our strength increase.
+							<div class="poet">"Hymn 32" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							At her Command the vigorous Summer pines,<br>
+And wintry Clouds obscure the hopeful Year,<br>
+At her strong bidding gloomy Winter shines,<br>
+And vernal Roses on the Snows appear.
+							<div class="poet">"Elegy V" by <span>James Hammond</span></div>
+						</div>
+											<div class="poemQuote">
+							Still do we hold — not now the presence human,<br>
+Kind, fearless eye, frank hand, and vigorous form —<br>
+But, closer yet, the inner and the true man<br>
+That steered us through the storm;
+							<div class="poet">"The Bishop Of Winchester. In Memoriam. (From 'The Guardian,' July 30, 1873)" by <span>Samuel John Stone</span></div>
+						</div>
+											<div class="poemQuote">
+							How know I that I am alive?<br>
+So only as I thrive<br>
+On truth, whose sweetness keeps the soul<br>
+Vigorous and pure and whole:<br>
+Heaven's health within is immortality;<br>
+The life that is, and evermore shall be.
+							<div class="poet">"Foretaste" by <span>Lucy Larcom</span></div>
+						</div>
+											<div class="poemQuote">
+							Then with crowbars they dashed at the doors vigorously,<br>
+Whilst bullets rained around them, but harmlessly;<br>
+So they battered on the doors until one gave way,<br>
+Then Lieutenant Kerr and his henchmen entered without dismay. 
+							<div class="poet">"The Hero of Kalapore" by <span>William Topaz McGonagall</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						It can be anywhere from few hours to all day depending on your vigor for that day.
+					</div>
+					<div class="uAuthor">
+						<a href="http://saltlakemagazine.com/set_device/mobile/?next=/blog/2012/09/bike-adventure-of-the-week-mid-mountain-trail/" target="_blank" rel="external nofollow">saltlakemagazine.com</a>
+					</div>
+										<div class="usage">
+						Stephen Walt, a vigorous and knowledgeable critic of US policy toward Israel, has called for special envoy George Mitchell to resign his post.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commonwealmagazine.org/blog/?p=6503" target="_blank" rel="external nofollow">commonwealmagazine.org</a>
+					</div>
+										<div class="usage">
+						This water flow was likely quite vigorous, perhaps akin to the flows produced by flash floods in desert areas here on Earth, researchers announced.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Science/2012/0927/Mars-Curiosity-rover-discovers-ancient-streambed-on-planet-s-surface" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Pan Am has been vigorously searching for a buyer or partner for several years.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1989/11/09/business/a-year-of-tribulation-for-pan-am.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						 Verve means vigor, vitality, enthusiasm.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nbc15.com/morningshow/hottrends/headlines/25834984.html" target="_blank" rel="external nofollow">nbc15.com</a>
+					</div>
+										<div class="usage">
+						We would urge him to proceed with vigor .
+					</div>
+					<div class="uAuthor">
+						<a href="http://bdtonline.com/editorials/x2082769998/Fighting-the-EPA-Morrisey-should-proceed-with-vigor/print" target="_blank" rel="external nofollow">bdtonline.com</a>
+					</div>
+										<div class="usage">
+						With New Vigor , Romney Resets Ohio Campaign.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/10/09/us/politics/with-new-vigor-mitt-romney-intensifies-ohio-campaign.html?ref=politics&amp;_r=0" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						The Vigor in the Decay.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/blogs/nyrblog/2012/sep/24/shanghai-vigor-decay-photographs/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<div class="usage">
+						'You can take positions … with vigor '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://metropulse.com/news/2012/sep/12/quote-week-you-can-take-positions-vigor/" target="_blank" rel="external nofollow">metropulse.com</a>
+					</div>
+										<div class="usage">
+						Weddings With Vigor &amp; Vitality.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.midweek.com/weddings-with-vigor-vitality/" target="_blank" rel="external nofollow">midweek.com</a>
+					</div>
+										<div class="usage">
+						Specialized surgery restores sight, vigor for life to Austintown woman.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vindy.com/news/2012/aug/05/specialized-surgery-restores-sight-vigor/" target="_blank" rel="external nofollow">vindy.com</a>
+					</div>
+										<div class="usage">
+						A violin with vigor In the hands of Mads Tolling, these strings can rock.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.paloaltoonline.com/weekly/story.php?story_id=17296" target="_blank" rel="external nofollow">paloaltoonline.com</a>
+					</div>
+										<div class="usage">
+						Adam Cohen talks high fashion, low morale and renewed vigor .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.metro.us/boston/entertainment/article/1148482--adam-cohen-talks-high-fashion-low-morale-and-renewed-vigor" target="_blank" rel="external nofollow">metro.us</a>
+					</div>
+										<div class="usage">
+						Jacoby Glenn, DB, Mobile (Ala.) Vigor High.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/os-recruiting-ucf-jacoby-glenn-photo-bio-20120124,0,7058416.photo" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						On domestic social networks, already vigorously policed, censors have fine-tuned their craft.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/11/14/world/asia/china-pressures-businesses-to-help-censor-web.html?emc=rss" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In the most actively star-forming galaxies, are the most vigorous star-forming regions a physically distinct class of ob jects from the rest of the nebular population? The most active star-forming regions in many disk galaxies are the circumnuclear regions, which are often associated with bar activity. 
+					</div>
+					<div class="uAuthor">
+						Discussion: Star Formation Within Galaxies
+					</div>
+										<div class="usage">
+						The exact mechanism by which a pulsar radiates the energy observed as radio pulses is still a sub ject of vigorous debate. 
+					</div>
+					<div class="uAuthor">
+						Testing General Relativity with Pulsar Timing
+					</div>
+										<div class="usage">
+						However, LINER-like spectra are also shown by galaxies in which some ﬁlaments, arcs and extended features reveal vigorous recent bursts of star formation (Gonzalez-Delgado &amp; Perez 1996, Contini 1997). 
+					</div>
+					<div class="uAuthor">
+						The complex structure of low luminosity AGN : NGC 4579
+					</div>
+										<div class="usage">
+						Motivated by the discovery of Altarelli and Ross (1988) and Efremov and Teryaev (1988) that polarized glue makes a scaling contribution to the ﬁrst moment of g1 , αs∆g ∼ constant, there has been a vigorous and ambitious programme to measure ∆g . 
+					</div>
+					<div class="uAuthor">
+						The Spin Structure of the Proton
+					</div>
+										<div class="usage">
+						Again one is led to conclude that the heat transport is independent of the vigor of the LSC and thus presumably determined by LSC-independent boundary layer properties. 
+					</div>
+					<div class="uAuthor">
+						Large scale dynamics in turbulent Rayleigh-Benard convection
+					</div>
+										<div class="usage">
+						Perhaps the LSC was less vigorous in this experiment than it was for Γ = 1. 
+					</div>
+					<div class="uAuthor">
+						Large scale dynamics in turbulent Rayleigh-Benard convection
+					</div>
+										<div class="usage">
+						An explanation in terms of a shear-induced BL transition would require a more vigorous LSC for the Γ = 0.5 case than was measured (see Sec. 
+					</div>
+					<div class="uAuthor">
+						Large scale dynamics in turbulent Rayleigh-Benard convection
+					</div>
+										<div class="usage">
+						Hansen, 2002, “The inﬂuence of the Prandtl number on the style of vigorous thermal convection,” Geophys. 
+					</div>
+					<div class="uAuthor">
+						Large scale dynamics in turbulent Rayleigh-Benard convection
+					</div>
+										<div class="usage">
+						In the Sun and other cool, low-mass stars, vigorous magnetic activity is believed to result from the conversion of convective and rotational mechanical energy into magnetic energy by MHD dynamo. 
+					</div>
+					<div class="uAuthor">
+						Magnetic Fields in Stellar Astrophysics
+					</div>
+										<div class="usage">
+						Numerical methods and evidence for a vigorous streaming instability. 
+					</div>
+					<div class="uAuthor">
+						Forming Planetesimals in Solar and Extrasolar Nebulae
+					</div>
+										<div class="usage">
+						There is compelling evidence that black holes (BHs) in cluster centers vigorously interact with their surroundings, indicating that any realistic model of cluster formation needs to account for these processes. 
+					</div>
+					<div class="uAuthor">
+						Simulations of AGN feedback in galaxy clusters and groups
+					</div>
+										<div class="usage">
+						So far, crab cavities have only been tested in the KEK e+e− collider, and a vigorous R&amp;D is required to develop the technology for the LHC . 3.1.2 The number of bunches The luminosity grows linearly with the number of bunches. 
+					</div>
+					<div class="uAuthor">
+						The super-LHC
+					</div>
+										<div class="usage">
+						In such environments cloud boundary conditions that powerfully inﬂuence the HI → H2 phase transition, such as the ambient FUV radiation ﬁeld and pressure, change on timescales comparab le or shorter than “internal” cloud dynamic and thermodynamic timescales, especially in vigorously star forming environments (e.g. 
+					</div>
+					<div class="uAuthor">
+						Molecular gas, CO, and star formation in galaxies: emergent empirical relations, feedback, and the evolution of very gas-rich systems
+					</div>
+										<div class="usage">
+						ISM environments with large pressures tend to host more vigorous star-formation and will thus have higher G’s), it is uncertain whether they indeed emerge in a more realistic time-dependent galaxy-size model of gas and stars. 
+					</div>
+					<div class="uAuthor">
+						Molecular gas, CO, and star formation in galaxies: emergent empirical relations, feedback, and the evolution of very gas-rich systems
+					</div>
+										<div class="usage">
+						These calculations thus provide vigorous checks of the two-loop ﬁniteness of the worldsheet theory and the underlying quantum integrability. 
+					</div>
+					<div class="uAuthor">
+						Review of AdS/CFT Integrability, Chapter II.2: Quantum Strings in AdS5xS5
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an imaginative lively style (especially style of writing)"><a href="vigour.html">vigour</a>, <a href="vim.html">vim</a>, </div><div class="synGroup" title="active strength of body or mind"><a href="vigour.html">vigour</a>, <a href="dynamism.html">dynamism</a>, <a href="heartiness.html">heartiness</a>, </div><div class="synGroup" title="forceful exertion"><a href="vigour.html">vigour</a>, <a href="zip.html">zip</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="force.html">force</a>, <a href="forcefulness.html">forcefulness</a>, <a href="life.html">life</a>, <a href="liveliness.html">liveliness</a>, <a href="spirit.html">spirit</a>, <a href="sprightliness.html">sprightliness</a>, <a href="strength.html">strength</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="athleticism.html">athleticism</a>, <a href="strenuosity.html">strenuosity</a>, <a href="verve.html">verve</a>, <a href="vitality.html">vitality</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="energetic.html">energetic</a>, <a href="energize.html">energize</a>, <a href="vigorous.html">vigorous</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Ableness.html">Ableness</a>, <a href="active.html">active</a>, <a href="adulthood.html">adulthood</a>, <a href="adynamia.html">adynamia</a>, <a href="adynamic.html">adynamic</a>, <a href="agerasia.html">agerasia</a>, <a href="aggressive.html">aggressive</a>, <a href="alive.html">alive</a>, <a href="anaemic.html">anaemic</a>, <a href="anemic.html">anemic</a>, <a href="animate.html">animate</a>, <a href="animated.html">animated</a>, <a href="animation.html">animation</a>, <a href="apply.html">apply</a>, <a href="Archon.html">Archon</a>, <a href="assail.html">assail</a>, <a href="asthenic.html">asthenic</a>, <a href="bestir.html">bestir</a>, <a href="birr.html">birr</a>, <a href="bloodless.html">bloodless</a>, <a href="bloom.html">bloom</a>, <a href="blooming.html">blooming</a>, <a href="Bloomy.html">Bloomy</a>, <a href="blunt.html">blunt</a>, <a href="boom.html">boom</a>, <a href="boy.html">boy</a>, <a href="brace.html">brace</a>, <a href="briskness.html">briskness</a>, <a href="buckle.html">buckle</a>, <a href="buxom.html">buxom</a>, <a href="buxomness.html">buxomness</a>, <a href="castrate.html">castrate</a>, <a href="convalescence.html">convalescence</a>, <a href="Convalescency.html">Convalescency</a>, <a href="Convalescently.html">Convalescently</a>, <a href="Coreless.html">Coreless</a>, <a href="corroborant.html">corroborant</a>, <a href="Crankness.html">Crankness</a>, <a href="crisp.html">crisp</a>, <a href="damp.html">damp</a>, <a href="dash.html">dash</a>, <a href="dead.html">dead</a>, <a href="deaden.html">deaden</a>, <a href="deadness.html">deadness</a>, <a href="debilitated.html">debilitated</a>, <a href="debility.html">debility</a>, <a href="declination.html">declination</a>, <a href="decline.html">decline</a>, <a href="defeat.html">defeat</a>, <a href="depress.html">depress</a>, <a href="dew.html">dew</a>, <a href="disable.html">disable</a>, <a href="Disinvigorate.html">Disinvigorate</a>, <a href="dispirit.html">dispirit</a>, <a href="dispirited.html">dispirited</a>, <a href="dribble.html">dribble</a>, <a href="driving.html">driving</a>, <a href="dull.html">dull</a>, <a href="elan.html">elan</a>, <a href="emasculate.html">emasculate</a>, <a href="emasculation.html">emasculation</a>, <a href="emphasis.html">emphasis</a>, <a href="energetic.html">energetic</a>, <a href="Energetical.html">Energetical</a>, <a href="energetically.html">energetically</a>, <a href="energize.html">energize</a>, <a href="enervated.html">enervated</a>, <a href="enforce.html">enforce</a>, <a href="enlivener.html">enlivener</a>, <a href="exaggeration.html">exaggeration</a>, <a href="examination.html">examination</a>, <a href="fade.html">fade</a>, <a href="fading.html">fading</a>, <a href="fail.html">fail</a>, <a href="faint.html">faint</a>, <a href="faintly.html">faintly</a>, <a href="faintness.html">faintness</a>, <a href="Feck.html">Feck</a>, <a href="feeble.html">feeble</a>, <a href="fire.html">fire</a>, <a href="flag.html">flag</a>, <a href="flourish.html">flourish</a>, <a href="flower.html">flower</a>, <a href="flush.html">flush</a>, <a href="force.html">force</a>, <a href="fresh.html">fresh</a>, <a href="frigid.html">frigid</a>, <a href="frigidity.html">frigidity</a>, <a href="frozen.html">frozen</a>, <a href="Furioso.html">Furioso</a>, <a href="genius.html">genius</a>, <a href="Green.html">Green</a>, <a href="greenness.html">greenness</a>, <a href="hard.html">hard</a>, <a href="hard-hitting.html">hard-hitting</a>, <a href="hardiness.html">hardiness</a>, <a href="Hardy.html">Hardy</a>, <a href="health.html">health</a>, <a href="heart.html">heart</a>, <a href="heyday.html">heyday</a>, <a href="horse.html">horse</a>, <a href="impetus.html">impetus</a>, <a href="impotence.html">impotence</a>, <a href="impotent.html">impotent</a>, <a href="impoverish.html">impoverish</a>, <a href="impoverishment.html">impoverishment</a>, <a href="impuissant.html">impuissant</a>, <a href="in%20full%20action.html">in full action</a>, <a href="in%20full%20swing.html">in full swing</a>, <a href="inanimate.html">inanimate</a>, <a href="Inanimation.html">Inanimation</a>, <a href="innate.html">innate</a>, <a href="Insinew.html">Insinew</a>, <a href="invigorate.html">invigorate</a>, <a href="invigorator.html">invigorator</a>, <a href="Isobrious.html">Isobrious</a>, <a href="languish.html">languish</a>, <a href="launch.html">launch</a>, <a href="lax.html">lax</a>, <a href="laxity.html">laxity</a>, <a href="life.html">life</a>, <a href="lifeless.html">lifeless</a>, <a href="lifelessly.html">lifelessly</a>, <a href="lifelessness.html">lifelessness</a>, <a href="listlessness.html">listlessness</a>, <a href="littleness.html">littleness</a>, <a href="lively.html">lively</a>, <a href="living.html">living</a>, <a href="Livingness.html">Livingness</a>, <a href="lust.html">lust</a>, <a href="Lustihood.html">Lustihood</a>, <a href="lustiness.html">lustiness</a>, <a href="Lustless.html">Lustless</a>, <a href="lusty.html">lusty</a>, <a href="Maori.html">Maori</a>, <a href="May-morn.html">May-morn</a>, <a href="melanism.html">melanism</a>, <a href="nectar.html">nectar</a>, <a href="nerve.html">nerve</a>, <a href="nerveless.html">nerveless</a>, <a href="nervelessness.html">nervelessness</a>, <a href="nervous.html">nervous</a>, <a href="nervously.html">nervously</a>, <a href="nip.html">nip</a>, <a href="nurse.html">nurse</a>, <a href="old.html">old</a>, <a href="open.html">open</a>, <a href="Ouananiche.html">Ouananiche</a>, <a href="Overply.html">Overply</a>, <a href="pastel.html">pastel</a>, <a href="penurious.html">penurious</a>, <a href="physical%20education.html">physical education</a>, <a href="pine%20away.html">pine away</a>, <a href="pith.html">pith</a>, <a href="plunge.html">plunge</a>, <a href="poor.html">poor</a>, <a href="prime.html">prime</a>, <a href="prime%20of%20life.html">prime of life</a>, <a href="pristine.html">pristine</a>, <a href="prostration.html">prostration</a>, <a href="proud.html">proud</a>, <a href="proudly.html">proudly</a>, <a href="puissance.html">puissance</a>, <a href="puny.html">puny</a>, <a href="quickener.html">quickener</a>, <a href="race.html">race</a>, <a href="racy.html">racy</a>, <a href="raise.html">raise</a>, <a href="rally.html">rally</a>, <a href="rank.html">rank</a>, <a href="rashness.html">rashness</a>, <a href="reanimate.html">reanimate</a>, <a href="reanimated.html">reanimated</a>, <a href="Reanimation.html">Reanimation</a>, <a href="Rebrace.html">Rebrace</a>, <a href="Recreative.html">Recreative</a>, <a href="recrudescent.html">recrudescent</a>, <a href="recruit.html">recruit</a>, <a href="Recruital.html">Recruital</a>, <a href="refine.html">refine</a>, <a href="Refocillation.html">Refocillation</a>, <a href="refresh.html">refresh</a>, <a href="refreshment.html">refreshment</a>, <a href="regenerate.html">regenerate</a>, <a href="reinvigorate.html">reinvigorate</a>, <a href="remissness.html">remissness</a>, <a href="renascent.html">renascent</a>, <a href="Renerve.html">Renerve</a>, <a href="renew.html">renew</a>, <a href="renewing.html">renewing</a>, <a href="renovate.html">renovate</a>, <a href="restorative.html">restorative</a>, <a href="Restoratively.html">Restoratively</a>, <a href="resurgent.html">resurgent</a>, <a href="Resurrection.html">Resurrection</a>, <a href="Revigorate.html">Revigorate</a>, <a href="Revirescence.html">Revirescence</a>, <a href="revitalise.html">revitalise</a>, <a href="revitalised.html">revitalised</a>, <a href="revitalising.html">revitalising</a>, <a href="revitalization.html">revitalization</a>, <a href="revitalize.html">revitalize</a>, <a href="revitalized.html">revitalized</a>, <a href="revitalizing.html">revitalizing</a>, <a href="revival.html">revival</a>, <a href="revive.html">revive</a>, <a href="revived.html">revived</a>, <a href="revivify.html">revivify</a>, <a href="reviving.html">reviving</a>, <a href="robust.html">robust</a>, <a href="robustness.html">robustness</a>, <a href="saliency.html">saliency</a>, <a href="season.html">season</a>, <a href="shampoo.html">shampoo</a>, <a href="sick.html">sick</a>, <a href="sickly.html">sickly</a>, <a href="Sinewless.html">Sinewless</a>, <a href="smallness.html">smallness</a>, <a href="smart.html">smart</a>, <a href="smartly.html">smartly</a>, <a href="smite.html">smite</a>, <a href="smother.html">smother</a>, <a href="snap.html">snap</a>, <a href="spineless.html">spineless</a>, <a href="spirit.html">spirit</a>, <a href="spirited.html">spirited</a>, <a href="spiritless.html">spiritless</a>, <a href="spontaneity.html">spontaneity</a>, <a href="Sprightfulness.html">Sprightfulness</a>, <a href="sprightliness.html">sprightliness</a>, <a href="sprightly.html">sprightly</a>, <a href="stamen.html">stamen</a>, <a href="stamina.html">stamina</a>, <a href="starve.html">starve</a>, <a href="strength.html">strength</a>, <a href="strenuous.html">strenuous</a>, <a href="string.html">string</a>, <a href="strong.html">strong</a>, <a href="stuff.html">stuff</a>, <a href="To%20pay%20on.html">To pay on</a>, <a href="tone.html">tone</a>, <a href="tonic.html">tonic</a>, <a href="torpidity.html">torpidity</a>, <a href="torpidness.html">torpidness</a>, <a href="torpor.html">torpor</a>, <a href="transfusion.html">transfusion</a>, <a href="trenchant.html">trenchant</a>, <a href="unhealthy.html">unhealthy</a>, <a href="unmanly.html">unmanly</a>, <a href="unmanned.html">unmanned</a>, <a href="Unsinew.html">Unsinew</a>, <a href="Venereous.html">Venereous</a>, <a href="vigorous.html">vigorous</a>, <a href="vigorously.html">vigorously</a>, <a href="vigour.html">vigour</a>, <a href="vim.html">vim</a>, <a href="virile.html">virile</a>, <a href="virility.html">virility</a>, <a href="vivacity.html">vivacity</a>, <a href="warmth.html">warmth</a>, <a href="waste.html">waste</a>, <a href="watchful.html">watchful</a>, <a href="weak.html">weak</a>, <a href="weakly.html">weakly</a>, <a href="weakness.html">weakness</a>, <a href="wilt.html">wilt</a>, <a href="wind.html">wind</a>, <a href="winking.html">winking</a>, <a href="wither.html">wither</a>, <a href="Young.html">Young</a>, <a href="Youthsome.html">Youthsome</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					cigor, figor, gigor, bigor, vugor, vjgor, vkgor, vogor, vifor, vitor, vihor, vibor, vivor, vigir, vigkr, viglr, vigpr, vigoe, vigod, vigof, vigot
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

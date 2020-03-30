@@ -1,0 +1,580 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>inclination</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/35/0/35.jpg" alt="THE GREAT INCLINE">
+							<div class="caption">THE GREAT INCLINE</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">the act of inclining; bending forward</span> <span class="quot">"an inclination of his head indicated his agreement"</span></li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">a characteristic likelihood of or natural disposition toward a certain condition or character or effect</span> <span class="quot">"the alkaline inclination of the local waters","fabric with a tendency to shrink"</span></li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">the property possessed by a line or surface that departs from the vertical</span> <span class="quot">"the tower had a pronounced tilt","the ship developed a list to starboard","he walked with a heavy inclination to the right"</span></li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">an attitude of mind especially one that favors one alternative over others</span> <span class="quot">"he had an inclination to give up too easily","a tendency to be too strict"</span></li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">that toward which you are inclined to feel a liking</span> <span class="quot">"her inclination is for classical music"</span></li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)</span> </li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees</span> </li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">(physics) the angle that a magnetic needle makes with the plane of the horizon</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The steepest street in the world is Baldwin Street located in Dunedin, New Zealand. It has an incline of 38%									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Inclination</span> <span class="exp">A direction or tendency from the true vertical or horizontal direction; as, the <span class="wUex">inclination</span> of a column, or of a road bed.</span> </li><li><span class="term">Inclination</span> <span class="exp">A leaning or tendency of the mind, feelings, preferences, or will; propensity; a disposition more favorable to one thing than to another; favor; desire; love.</span> <span class="wuQuot">"A mere inclination to a thing is not properly a willing of that thing."</span><span class="wuQuot">"How dost thou find the inclination of the people?"</span></li><li><span class="term">Inclination</span> <span class="exp">A person or thing loved or admired.</span> </li><li><span class="term">Inclination</span> <span class="exp">A tendency towards another body or point.</span> </li><li><span class="term">Inclination</span> <span class="exp"><span class="wuFld">(Pharm)</span> Decantation, or tipping for pouring.</span> </li><li><span class="term">Inclination</span> <span class="exp">The act of inclining, or state of being inclined; a leaning; as, an <span class="wUex">inclination</span> of the head.</span> </li><li><span class="term">Inclination</span> <span class="exp"><span class="wuFld">(Geom)</span> The angle made by two lines or planes; as, the <span class="wUex">inclination</span> of the plane of the earth's equator to the plane of the ecliptic is about 23° 28'; the <span class="wUex">inclination</span> of two rays of light.
+         </span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										High-wire acts have been enjoyed since the time of the ancient Greeks and Romans. Antique medals have been excavated from Greek islands depicting men ascending inclined cords and walking across ropes stretched between cliffs. The Greeks called these high-wire performers neurobates or oribates. In the Roman city of Herculaneum there is a fresco representing an aerialist high on a rope, dancing and playing a flute. Sometimes Roman tightrope walkers stretched cables between the tops of two neighboring hills and performed comic dances and pantomimes while crossing.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">The act of inclining, or the state of being inclined; a leaning; any deviation from a given direction or position.</span> </li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">In geometry and mech., the mutual approach, tendency, or leaning of two bodies, lines, or planes toward each other, so as to make an angle at the point where they meet, or where their lines of direction meet. This angle is called the angle of inclination.</span> </li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">The angle which a line or plane makes with the horizon; declivity. In gunnery inclination is the elevation or depression of the axis of a piece above or below a horizontal plane passing through the axis of the trunnions, supposed to be horizontal.</span> </li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">An inclined surface; a slope or declivity, as of land.</span> </li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">A set or bent of the mind or will; a disposition more favorable to one thing or person than to another; a leaning, liking, or preference: as, an inclination for poetry; a strong inclination toward law.</span> </li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">A person for whom or a thing for which one has a liking or preference.</span> </li><li><span class="tSpeech">n</span> <span class="term">inclination</span> <span class="exp">In Greek and Latin grammar, same as enclisis.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">Inclination</span> <span class="exp">the act of bending towards: tendency, disposition of mind: natural aptness: favourable disposition, preference, affection: act of bowing: angle between two lines or planes: the angle a line or plane makes with the horizon</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Virgil</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Virgil.jpg" alt="Virgil">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“As a twig is bent the tree inclines.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sigmund Freud</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sigmund%20Freud.jpg" alt="Sigmund%20Freud">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One feels inclined to say that the intention that man should be happy is not included in the plan of Creation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is not from reason and prudence that people marry, but from inclination.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Hazlitt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Hazlitt.jpg" alt="William%20Hazlitt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every one in a crowd has the power to throw dirt; none out of ten have the inclination.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aldous Huxley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aldous%20Huxley.jpg" alt="Aldous%20Huxley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The more powerful and original a mind, the more it will incline towards the religion of solitude.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arthur Hugh Clough</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Arthur Hugh Clough">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“And almost everyone when age, disease, or sorrows strike him, inclines to think there is a God, or something very like him.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Just as the twig is bent, the tree’s inclined</span> - Things, especially education, that affect and influence us in our childhood shape the kind of adult we turn out to be. (There are various versions of this, like 'As the twig is bent, the tree's inclined' and 'As the twig is bent, so the tree inclines', 'As the twig is bent so is the tree inclined')
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">inclinatio</span>,: cf. F. <span class="wUets">inclination</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>inclināre</i>—<i>in</i>, towards, <i>clināre</i>, to lean.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In a few days it became perfectly tame, and showed no inclination to run away.
+					</div>
+					<div class="uAuthor">
+						"In the Wilds of Africa" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Most girls of her age are inclined to be sentimental and occasionally priggish.
+					</div>
+					<div class="uAuthor">
+						"Lalage's Lovers" by <span>George A. Birmingham</span>					</div>
+										<div class="usage">
+						I was inclined to refuse to kiss Krak, but my mother made such a point of compliance that I yielded reluctantly.
+					</div>
+					<div class="uAuthor">
+						"The King's Mirror" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						He seemed inclined to take shelter again behind Doyle.
+					</div>
+					<div class="uAuthor">
+						"General John Regan" by <span>George A. Birmingham</span>					</div>
+										<div class="usage">
+						I have so much inclination to be yours that I need no other engagement.
+					</div>
+					<div class="uAuthor">
+						"The Comedies of William Congreve Volume 1 [of 2]" by <span>William Congreve</span>					</div>
+										<div class="usage">
+						If I feel inclined to, I will creep away.
+					</div>
+					<div class="uAuthor">
+						"Chatterbox, 1906" by <span>Various</span>					</div>
+										<div class="usage">
+						I have neither time nor inclination to manage it.
+					</div>
+					<div class="uAuthor">
+						"Gossamer" by <span>George A. Birmingham</span>					</div>
+										<div class="usage">
+						Bertha was right in imagining Maurice had lost all inclination to appear at the ball.
+					</div>
+					<div class="uAuthor">
+						"Fairy Fingers" by <span>Anna Cora Mowatt Ritchie</span>					</div>
+										<div class="usage">
+						How the slaves, when they found them unarmed and in their power, might be inclined to treat them was a different question.
+					</div>
+					<div class="uAuthor">
+						"The Three Commanders" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						Jack confessed that, somehow or other, he felt more inclined to pipe his eye on that occasion than on any of his other leave-takings.
+					</div>
+					<div class="uAuthor">
+						"The Three Midshipmen" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						With true breed seamanship she was beached on a steep and stony incline on the lee side of a point.
+					</div>
+					<div class="uAuthor">
+						"Two on the Trail" by <span>Hulbert Footner</span>					</div>
+										<div class="usage">
+						I'm inclined to believe I shocked him.
+					</div>
+					<div class="uAuthor">
+						"The Long Portage" by <span>Harold Bindloss</span>					</div>
+										<div class="usage">
+						And the latter were not inclined for hurry.
+					</div>
+					<div class="uAuthor">
+						"A Secret of the Lebombo" by <span>Bertram Mitford</span>					</div>
+										<div class="usage">
+						The brutality of the senses had less to do with my peccadilloes than a delicate inclination and tenderness of heart.
+					</div>
+					<div class="uAuthor">
+						"The Memoirs of Count Carlo Gozzi" by <span>Count Carlo Gozzi</span>					</div>
+										<div class="usage">
+						But I was not theologically inclined that night.
+					</div>
+					<div class="uAuthor">
+						"The Great Miss Driver" by <span>Anthony Hope</span>					</div>
+										<div class="usage">
+						Meta Jachmann, with her usual inclination to be silly, began to giggle, and soon half the class had followed suit.
+					</div>
+					<div class="uAuthor">
+						"The Song of Songs" by <span>Hermann Sudermann</span>					</div>
+										<div class="usage">
+						This was his usual greeting, and he knew that Mrs Gabriel would go on finding fault and blaming him until she felt inclined to stop.
+					</div>
+					<div class="uAuthor">
+						"The Pagan's Cup" by <span>Fergus Hume</span>					</div>
+										<div class="usage">
+						I shall mark his inclinations now, and he shall be what he inclines to.
+					</div>
+					<div class="uAuthor">
+						"The Ordeal of Richard Feverel" by <span>George Meredith</span>					</div>
+										<div class="usage">
+						I am inclined to think myself a peculiarly desirable kind of neighbour.
+					</div>
+					<div class="uAuthor">
+						"The House of Strange Secrets" by <span>A. Eric Bayly</span>					</div>
+										<div class="usage">
+						He was half inclined to regret the chivalrous impulse which spurred him to agree to it.
+					</div>
+					<div class="uAuthor">
+						"His Unknown Wife" by <span>Louis Tracy</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							To novels and plays not inclined,<br>
+Nor aught that can sully her mind;<br>
+Temptations may shower,<br>
+Unmoved as a tower,<br>
+She quenches the fiery arrows.
+							<div class="poet">"The Cottage Maid" by <span>Patrick Branwell Bronte</span></div>
+						</div>
+											<div class="poemQuote">
+							Hadst thou not been by nature kind,<br>
+And to compassion much inclin'd,<br>
+To Hell I had ere this been thrown,<br>
+There in fierce flames to make my moan.
+							<div class="poet">"Lamentation Of A Sinner" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							Awve noa noashun o' writin a line,<br>
+Tho' awve just dipt mi pen into th' ink,<br>
+Towards warkin aw dooant mich incline,<br>
+An awm ommost too lazy to think.
+							<div class="poet">"Old Moorcock" by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							No inward inclination did I feel<br>
+To avarice or pride: my soul did kneel<br>
+In admiration all the day. No lust, nor strife,<br>
+Polluted then my infant life.
+							<div class="poet">"Innocence" by <span>Thomas Traherne</span></div>
+						</div>
+											<div class="poemQuote">
+							Aw've noa noashun o' writin' a line,<br>
+Tho' aw've jist dipt mi pen into th' ink,<br>
+Towards wor kin aw don't mich incline,<br>
+An aw'm ommost to lazy to think.
+							<div class="poet">"Aw'm Havin' A Smook Bi Misel'," by <span>John Hartley</span></div>
+						</div>
+											<div class="poemQuote">
+							Yet he'd not have them force thy mind<br>
+To marry, where thou'rt not inclin'd,<br>
+One, whom thy heart cou'd never love,<br>
+And ne'er cou'd thy affections move.
+							<div class="poet">"Advice To A Young Man, Before He Goes A Courting" by <span>Rees Prichard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In response to citizens' complaints, a board is urging Washoe County to consider a 10:30 pm curfew for outdoor concerts in the Incline Village area.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kolotv.com/home/headlines/497542.html" target="_blank" rel="external nofollow">kolotv.com</a>
+					</div>
+										<div class="usage">
+						Young people more inclined to choose social media over sex.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-205_162-57529849/study-young-people-more-inclined-to-choose-social-media-over-sex/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Young People More Inclined To Choose Social Media Over Sex.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wtsp.com/news/topstories/article/277639/250/Study-Young-People-More-Inclined-To-Choose-Social-Media-Over-Sex" target="_blank" rel="external nofollow">wtsp.com</a>
+					</div>
+										<div class="usage">
+						 INCLINE VILLAGE, Nev. A recent out-of-town guest accompanied me to the post office and when saw the sign "Village Center," inquired if this was the Incline Village downtown.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tahoebonanza.com/article/20121003/NEWS/121009982/1022&amp;parentprofile=1" target="_blank" rel="external nofollow">tahoebonanza.com</a>
+					</div>
+										<div class="usage">
+						Evers says he's inclined to run for second term.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.weau.com/newsextra/education/headlines/Evers-says-hes-inclined-to-run-for-second-term-170548746.html" target="_blank" rel="external nofollow">weau.com</a>
+					</div>
+										<div class="usage">
+						Wisconsin state schools superintendent Tony Evers says he is inclined to run for a second term, but has not yet made a final decision.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.weau.com/newsextra/education/headlines/Evers-says-hes-inclined-to-run-for-second-term-170548746.html" target="_blank" rel="external nofollow">weau.com</a>
+					</div>
+										<div class="usage">
+						I'm not inclined ' to endorse Pearce.
+					</div>
+					<div class="uAuthor">
+						<a href="http://azcapitoltimes.com/news/2012/08/09/arizona-gov-jan-brewer-im-not-inclined-to-endorse-russell-pearce/" target="_blank" rel="external nofollow">azcapitoltimes.com</a>
+					</div>
+										<div class="usage">
+						Web shoppers are more inclined to share details with retailers than with social networks.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.internetretailer.com/2012/08/01/consumers-trust-retailers-more-social-networks" target="_blank" rel="external nofollow">internetretailer.com</a>
+					</div>
+										<div class="usage">
+						If you're so inclined , weddings can be good place to hook up.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.adn.com/2012/07/12/2540367/if-youre-so-inclined-weddings.html" target="_blank" rel="external nofollow">adn.com</a>
+					</div>
+										<div class="usage">
+						UTC bosses not inclined to end John Shulman's run.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesfreepress.com/news/2012/feb/08/utc-bosses-not-inclined-to-end-shulmans-run/" target="_blank" rel="external nofollow">timesfreepress.com</a>
+					</div>
+										<div class="usage">
+						A Holiday Guide For The Politically Inclined .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wkar.org/post/holiday-guide-politically-inclined" target="_blank" rel="external nofollow">wkar.org</a>
+					</div>
+										<div class="usage">
+						If You're So Inclined , Don A Black Turtleneck For 'Steve Jobs Day'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kunm.org/node/2538" target="_blank" rel="external nofollow">kunm.org</a>
+					</div>
+										<div class="usage">
+						Egypt's new leadership more inclined to share resources with Ethiopia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Africa/Africa-Monitor/2011/0922/Egypt-s-new-leadership-more-inclined-to-share-resources-with-Ethiopia" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Gov O'Malley inclined to sponsor same-sex marriage bill.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/local/dc-politics/md-gov-omalley-inclined-to-sponsor-same-sex-marriage-bill/2011/07/15/gIQAPf4uGI_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The group measured the Rossiter-McLaughlin (RM) effect of the systems and found evidence that their orbital axes incline relative to the spin axes of their host stars.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.astronomy.com/en/News-Observing/News/2011/01/Inclined%20orbits%20prevail%20in%20exoplanetary%20systems.aspx" target="_blank" rel="external nofollow">astronomy.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Fig. 9.— Detection eﬃciency of planetary transits as a function of their amplitude, relative to planets with all inclinations (lef t) and all transiting planets (right). 
+					</div>
+					<div class="uAuthor">
+						Planets in Stellar Clusters Extensive Search. IV. A detection of a possible transiting planet candidate in the open cluster NGC 2158
+					</div>
+										<div class="usage">
+						Inclinations were estimated using Sextractor (Bertin et al. 1996) and the ellipse task of IRAF: we ﬁnd a mean absolute di fference of ∼ 2 degrees between these two methods. 
+					</div>
+					<div class="uAuthor">
+						3D spectroscopy with VLT/GIRAFFE - II: Are Luminous Compact Galaxies merger remnants ?
+					</div>
+										<div class="usage">
+						Main properties of the sample of LCGs: galaxies names, redshifts, isophotal I magnitudes, absolute B and K magnitudes, light concentration, half light radii, inclination. 
+					</div>
+					<div class="uAuthor">
+						3D spectroscopy with VLT/GIRAFFE - II: Are Luminous Compact Galaxies merger remnants ?
+					</div>
+										<div class="usage">
+						To estimate the mass supported by rotation, we assumed that the maximal rotational velocity is equal to half the maximal gradient of the velocity ﬁeld, corrected for inclination (s ee Table 1). 
+					</div>
+					<div class="uAuthor">
+						3D spectroscopy with VLT/GIRAFFE - II: Are Luminous Compact Galaxies merger remnants ?
+					</div>
+										<div class="usage">
+						Note however, that the real uncertainty on inclination is probably higher for unrelaxed systems, as its derivation usually relies on the assumption of a thin disk seen in projection (see section 2). 
+					</div>
+					<div class="uAuthor">
+						3D spectroscopy with VLT/GIRAFFE - II: Are Luminous Compact Galaxies merger remnants ?
+					</div>
+										<div class="usage">
+						Due to a high orbital inclination the outer observer can see just the optically thick matter of the disk-like shaped warm pseudophotosphere, whose outer ﬂared rim occults the central ionizing source. 
+					</div>
+					<div class="uAuthor">
+						Structure of the hot object in the symbiotic prototype Z And during its 2000-03 active phase
+					</div>
+										<div class="usage">
+						Finally, we note that such the structure of the hot object is common for all active S-type symbiotics with a high orbital inclination (Skopal 2005, Fig. 27). 
+					</div>
+					<div class="uAuthor">
+						Structure of the hot object in the symbiotic prototype Z And during its 2000-03 active phase
+					</div>
+										<div class="usage">
+						Suppose this ﬁeld is inclined at a small angle θ = B⊥/B|| away from the column direction. 
+					</div>
+					<div class="uAuthor">
+						Transverse Meissner Physics of Planar Superconductors with Columnar Pins
+					</div>
+										<div class="usage">
+						The situation changes when regarding more inclined photon events. 
+					</div>
+					<div class="uAuthor">
+						An upper limit to the photon fraction in cosmic rays above 10^19 eV from the Pierre Auger Observatory
+					</div>
+										<div class="usage">
+						For convenience all ﬁts indicated were computed for the simple geometrical case of the star viewed equator-on and with a magnetic inclination of 90o. 
+					</div>
+					<div class="uAuthor">
+						The magnetic Bp star 36 Lyncis, II. A spectroscopic analysis of its co-rotating disk
+					</div>
+										<div class="usage">
+						Such a transformation, allowed in inversion symmetric lenses, is likely to most affect core quads, and inclined quads and doubles to a lesser extent, but not axial systems. 
+					</div>
+					<div class="uAuthor">
+						Gravitational lensing model degeneracies: Is steepness all-important?
+					</div>
+										<div class="usage">
+						But in our Figs. 3–6, varying and twisting ellipticity is a common feature, especially in inclined systems. 
+					</div>
+					<div class="uAuthor">
+						Gravitational lensing model degeneracies: Is steepness all-important?
+					</div>
+										<div class="usage">
+						For inclined image morphologies, clockwise and anticlockwise twists in the density are not equivalent, and will tend to survive in an ensemble average. 
+					</div>
+					<div class="uAuthor">
+						Gravitational lensing model degeneracies: Is steepness all-important?
+					</div>
+										<div class="usage">
+						The binary parameters imply a ≃ 0.01M⊙ white dwarf donor with a moderately high inclination. 
+					</div>
+					<div class="uAuthor">
+						Pushing the limit on neutron star spin rates
+					</div>
+										<div class="usage">
+						Its remarkably low projected rotational velocity (v sin i = 9 km s−1 , Acke &amp; Waelkens 2004) is rather unusual among Herbig Ae/Be stars, and can be indicative of either a very slow rotation, or a very small inclination of the rotation axis with respect to the line of sight. 
+					</div>
+					<div class="uAuthor">
+						The magnetic field of the pre-main sequence Herbig Ae star HD 190073
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the act of inclining; bending forward"><a href="inclining.html">inclining</a>, </div><div class="synGroup" title="the property possessed by a line or surface that departs from the vertical"><a href="lean.html">lean</a>, <a href="leaning.html">leaning</a>, </div><div class="synGroup" title="an attitude of mind especially one that favors one alternative over others"><a href="disposition.html">disposition</a>, <a href="tendency.html">tendency</a>, </div><div class="synGroup" title="(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)"><a href="angle%20of%20inclination.html">angle of inclination</a>, </div><div class="synGroup" title="(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees"><a href="inclination%20of%20an%20orbit.html">inclination of an orbit</a>, </div><div class="synGroup" title="(physics) the angle that a magnetic needle makes with the plane of the horizon"><a href="angle%20of%20dip.html">angle of dip</a>, <a href="magnetic%20dip.html">magnetic dip</a>, <a href="magnetic%20inclination.html">magnetic inclination</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="disinclination.html">disinclination</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="angle.html">angle</a>, <a href="attitude.html">attitude</a>, <a href="disposition.html">disposition</a>, <a href="liking.html">liking</a>, <a href="mental%20attitude.html">mental attitude</a>, <a href="motility.html">motility</a>, <a href="motion.html">motion</a>, <a href="move.html">move</a>, <a href="movement.html">movement</a>, <a href="position.html">position</a>, <a href="spatial%20relation.html">spatial relation</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="call.html">call</a>, <a href="bent.html">bent</a>, <a href="bob.html">bob</a>, <a href="buoyancy.html">buoyancy</a>, <a href="denominationalism.html">denominationalism</a>, <a href="desire.html">desire</a>, <a href="devices.html">devices</a>, <a href="direction.html">direction</a>, <a href="disapproval.html">disapproval</a>, <a href="disfavor.html">disfavor</a>, <a href="disfavour.html">disfavour</a>, <a href="dislike.html">dislike</a>, <a href="drift.html">drift</a>, <a href="electronegativity.html">electronegativity</a>, <a href="favor.html">favor</a>, <a href="favoritism.html">favoritism</a>, <a href="favour.html">favour</a>, <a href="favouritism.html">favouritism</a>, <a href="heterosis.html">heterosis</a>, <a href="hybrid%20vigor.html">hybrid vigor</a>, <a href="impartiality.html">impartiality</a>, <a href="leaning.html">leaning</a>, <a href="literalism.html">literalism</a>, <a href="movement.html">movement</a>, <a href="negativity.html">negativity</a>, <a href="nod.html">nod</a>, <a href="nonpartisanship.html">nonpartisanship</a>, <a href="partiality.html">partiality</a>, <a href="partisanship.html">partisanship</a>, <a href="perseveration.html">perseveration</a>, <a href="predisposition.html">predisposition</a>, <a href="proclivity.html">proclivity</a>, <a href="propensity.html">propensity</a>, <a href="set.html">set</a>, <a href="stainability.html">stainability</a>, <a href="stomach.html">stomach</a>, <a href="stoop.html">stoop</a>, <a href="sympathy.html">sympathy</a>, <a href="tendency.html">tendency</a>, <a href="trend.html">trend</a>, <a href="understanding.html">understanding</a>, <a href="undertow.html">undertow</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="incline.html">incline</a>, <a href="tilt.html">tilt</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Abney%20level.html">Abney level</a>, <a href="acclivity.html">acclivity</a>, <a href="Aclinic.html">Aclinic</a>, <a href="addiction.html">addiction</a>, <a href="affect.html">affect</a>, <a href="affected.html">affected</a>, <a href="affection.html">affection</a>, <a href="affinity.html">affinity</a>, <a href="Against%20the%20grain.html">Against the grain</a>, <a href="angle.html">angle</a>, <a href="Angle%20of%20repose.html">Angle of repose</a>, <a href="anthropocentricity.html">anthropocentricity</a>, <a href="anthropocentrism.html">anthropocentrism</a>, <a href="appetence.html">appetence</a>, <a href="appetency.html">appetency</a>, <a href="appetite.html">appetite</a>, <a href="apt.html">apt</a>, <a href="aptitude.html">aptitude</a>, <a href="ascent.html">ascent</a>, <a href="aslope.html">aslope</a>, <a href="averse.html">averse</a>, <a href="Balance%20thermometer.html">Balance thermometer</a>, <a href="bank.html">bank</a>, <a href="batter.html">batter</a>, <a href="bend.html">bend</a>, <a href="benevolence.html">benevolence</a>, <a href="bent.html">bent</a>, <a href="bevel.html">bevel</a>, <a href="bias.html">bias</a>, <a href="Biasing.html">Biasing</a>, <a href="bob.html">bob</a>, <a href="bosom.html">bosom</a>, <a href="bow.html">bow</a>, <a href="broad-mindedness.html">broad-mindedness</a>, <a href="cant.html">cant</a>, <a href="capable.html">capable</a>, <a href="Captiousness.html">Captiousness</a>, <a href="careen.html">careen</a>, <a href="cernuous.html">cernuous</a>, <a href="choose.html">choose</a>, <a href="climate.html">climate</a>, <a href="Clinamen.html">Clinamen</a>, <a href="clinometer.html">clinometer</a>, <a href="Clinometry.html">Clinometry</a>, <a href="cliquishness.html">cliquishness</a>, <a href="Clivity.html">Clivity</a>, <a href="combative.html">combative</a>, <a href="complexion.html">complexion</a>, <a href="consent.html">consent</a>, <a href="contentious.html">contentious</a>, <a href="contentiousness.html">contentiousness</a>, <a href="courage.html">courage</a>, <a href="courtesy.html">courtesy</a>, <a href="crossheading.html">crossheading</a>, <a href="crystallography.html">crystallography</a>, <a href="curb%20roof.html">curb roof</a>, <a href="Curb-roof.html">Curb-roof</a>, <a href="declination.html">declination</a>, <a href="declivity.html">declivity</a>, <a href="denominationalism.html">denominationalism</a>, <a href="depravation.html">depravation</a>, <a href="descent.html">descent</a>, <a href="desire.html">desire</a>, <a href="devices.html">devices</a>, <a href="devotion.html">devotion</a>, <a href="dextrorsal.html">dextrorsal</a>, <a href="dextrorse.html">dextrorse</a>, <a href="dip.html">dip</a>, <a href="Dip%20of%20a%20stratum.html">Dip of a stratum</a>, <a href="Dip%20of%20the%20needle.html">Dip of the needle</a>, <a href="Dipping%20needle.html">Dipping needle</a>, <a href="disapproval.html">disapproval</a>, <a href="disfavor.html">disfavor</a>, <a href="disfavour.html">disfavour</a>, <a href="disinclination.html">disinclination</a>, <a href="disincline.html">disincline</a>, <a href="dislike.html">dislike</a>, <a href="dispose.html">dispose</a>, <a href="Disposedness.html">Disposedness</a>, <a href="disposition.html">disposition</a>, <a href="Dispositive.html">Dispositive</a>, <a href="disputatious.html">disputatious</a>, <a href="disputative.html">disputative</a>, <a href="doubt.html">doubt</a>, <a href="Doziness.html">Doziness</a>, <a href="duck.html">duck</a>, <a href="ecliptic.html">ecliptic</a>, <a href="element.html">element</a>, <a href="elevator.html">elevator</a>, <a href="escape.html">escape</a>, <a href="escapism.html">escapism</a>, <a href="Esotericism.html">Esotericism</a>, <a href="evenly.html">evenly</a>, <a href="evenness.html">evenness</a>, <a href="fancy.html">fancy</a>, <a href="favor.html">favor</a>, <a href="favoritism.html">favoritism</a>, <a href="favour.html">favour</a>, <a href="favouritism.html">favouritism</a>, <a href="feel.html">feel</a>, <a href="feel%20like.html">feel like</a>, <a href="felucca.html">felucca</a>, <a href="fight.html">fight</a>, <a href="flat.html">flat</a>, <a href="flight.html">flight</a>, <a href="fold.html">fold</a>, <a href="fondness.html">fondness</a>, <a href="For.html">For</a>, <a href="frog.html">frog</a>, <a href="Gain%20twist.html">Gain twist</a>, <a href="Gaining%20twist.html">Gaining twist</a>, <a href="gather.html">gather</a>, <a href="genie.html">genie</a>, <a href="genius.html">genius</a>, <a href="goniometer.html">goniometer</a>, <a href="Gothicism.html">Gothicism</a>, <a href="grade.html">grade</a>, <a href="gradient.html">gradient</a>, <a href="grain.html">grain</a>, <a href="gyroscope.html">gyroscope</a>, <a href="Hade.html">Hade</a>, <a href="hang.html">hang</a>, <a href="head.html">head</a>, <a href="heart.html">heart</a>, <a href="heartburn.html">heartburn</a>, <a href="heliocentric.html">heliocentric</a>, <a href="Hydrometric%20pendulum.html">Hydrometric pendulum</a>, <a href="impartiality.html">impartiality</a>, <a href="impulse.html">impulse</a>, <a href="In%20despite.html">In despite</a>, <a href="Inappetence.html">Inappetence</a>, <a href="incapable.html">incapable</a>, <a href="Inclinableness.html">Inclinableness</a>, <a href="Inclinatory.html">Inclinatory</a>, <a href="incline.html">incline</a>, <a href="inclining.html">inclining</a>, <a href="Inclinnometer.html">Inclinnometer</a>, <a href="inclinometer.html">inclinometer</a>, <a href="inconstant.html">inconstant</a>, <a href="indifferent.html">indifferent</a>, <a href="indirect%20request.html">indirect request</a>, <a href="inkling.html">inkling</a>, <a href="isoclinal.html">isoclinal</a>, <a href="Isoclinal%20lines.html">Isoclinal lines</a>, <a href="isoclinic.html">isoclinic</a>, <a href="isoclinic%20line.html">isoclinic line</a>, <a href="itch.html">itch</a>, <a href="kindliness.html">kindliness</a>, <a href="landslide.html">landslide</a>, <a href="lean.html">lean</a>, <a href="leaning.html">leaning</a>, <a href="liberality.html">liberality</a>, <a href="liberalness.html">liberalness</a>, <a href="like.html">like</a>, <a href="liking.html">liking</a>, <a href="Line%20of%20dip.html">Line of dip</a>, <a href="linger.html">linger</a>, <a href="list.html">list</a>, <a href="listless.html">listless</a>, <a href="litigious.html">litigious</a>, <a href="litigiousness.html">litigiousness</a>, <a href="loquacity.html">loquacity</a>, <a href="lurch.html">lurch</a>, <a href="lust.html">lust</a>, <a href="magnetic%20dip.html">magnetic dip</a>, <a href="Make%20a%20virtue%20of%20necessity.html">Make a virtue of necessity</a>, <a href="malevolence.html">malevolence</a>, <a href="malice.html">malice</a>, <a href="Maltalent.html">Maltalent</a>, <a href="Mars.html">Mars</a>, <a href="maw.html">maw</a>, <a href="mercury.html">mercury</a>, <a href="mind.html">mind</a>, <a href="Mindedness.html">Mindedness</a>, <a href="Misincline.html">Misincline</a>, <a href="Monergism.html">Monergism</a>, <a href="monoclinal.html">monoclinal</a>, <a href="Month%27s%20mind.html">Month's mind</a>, <a href="moon.html">moon</a>, <a href="motion.html">motion</a>, <a href="narrow-mindedness.html">narrow-mindedness</a>, <a href="narrowness.html">narrowness</a>, <a href="nature.html">nature</a>, <a href="Nauropometer.html">Nauropometer</a>, <a href="nod.html">nod</a>, <a href="nonpartisanship.html">nonpartisanship</a>, <a href="notion.html">notion</a>, <a href="nutation.html">nutation</a>, <a href="orbit.html">orbit</a>, <a href="orthopter.html">orthopter</a>, <a href="outcrop.html">outcrop</a>, <a href="Overpersuade.html">Overpersuade</a>, <a href="pandiculation.html">pandiculation</a>, <a href="parameter.html">parameter</a>, <a href="Parliament%20heel.html">Parliament heel</a>, <a href="partiality.html">partiality</a>, <a href="partisanship.html">partisanship</a>, <a href="passivity.html">passivity</a>, <a href="penchant.html">penchant</a>, <a href="Pendence.html">Pendence</a>, <a href="perverseness.html">perverseness</a>, <a href="perversity.html">perversity</a>, <a href="pile.html">pile</a>, <a href="pitch.html">pitch</a>, <a href="planetoid.html">planetoid</a>, <a href="Polar%20co%C3%B6rdinates.html">Polar coördinates</a>, <a href="Predatoriness.html">Predatoriness</a>, <a href="predilection.html">predilection</a>, <a href="Predisponent.html">Predisponent</a>, <a href="predispose.html">predispose</a>, <a href="predisposition.html">predisposition</a>, <a href="prepossess.html">prepossess</a>, <a href="probabilism.html">probabilism</a>, <a href="proclivity.html">proclivity</a>, <a href="proneness.html">proneness</a>, <a href="Propendency.html">Propendency</a>, <a href="Propenseness.html">Propenseness</a>, <a href="propensity.html">propensity</a>, <a href="pugnacity.html">pugnacity</a>, <a href="quarrelsomeness.html">quarrelsomeness</a>, <a href="queasiness.html">queasiness</a>, <a href="quirk.html">quirk</a>, <a href="rafter.html">rafter</a>, <a href="rake.html">rake</a>, <a href="Raking.html">Raking</a>, <a href="rakish.html">rakish</a>, <a href="rapaciousness.html">rapaciousness</a>, <a href="readiness.html">readiness</a>, <a href="Rearer.html">Rearer</a>, <a href="recede.html">recede</a>, <a href="relish.html">relish</a>, <a href="Retrocession.html">Retrocession</a>, <a href="retroversion.html">retroversion</a>, <a href="revel.html">revel</a>, <a href="rise.html">rise</a>, <a href="rostrum.html">rostrum</a>, <a href="screw.html">screw</a>, <a href="self-denial.html">self-denial</a>, <a href="set.html">set</a>, <a href="Similar%20solids.html">Similar solids</a>, <a href="Sinistrously.html">Sinistrously</a>, <a href="slantingly.html">slantingly</a>, <a href="sleepiness.html">sleepiness</a>, <a href="slope.html">slope</a>, <a href="Smickering.html">Smickering</a>, <a href="soar.html">soar</a>, <a href="sociability.html">sociability</a>, <a href="sociableness.html">sociableness</a>, <a href="somnolence.html">somnolence</a>, <a href="Somnolency.html">Somnolency</a>, <a href="spiral.html">spiral</a>, <a href="spirit.html">spirit</a>, <a href="squint.html">squint</a>, <a href="steep.html">steep</a>, <a href="stiffness.html">stiffness</a>, <a href="stomach.html">stomach</a>, <a href="stoop.html">stoop</a>, <a href="stroll.html">stroll</a>, <a href="submissive.html">submissive</a>, <a href="suppose.html">suppose</a>, <a href="swallow.html">swallow</a>, <a href="sway.html">sway</a>, <a href="sympathy.html">sympathy</a>, <a href="synergism.html">synergism</a>, <a href="Take%20one%27s%20way.html">Take one's way</a>, <a href="talent.html">talent</a>, <a href="talkative.html">talkative</a>, <a href="talus.html">talus</a>, <a href="temper.html">temper</a>, <a href="tend.html">tend</a>, <a href="tendency.html">tendency</a>, <a href="tenesmus.html">tenesmus</a>, <a href="Thinginess.html">Thinginess</a>, <a href="tilt.html">tilt</a>, <a href="Tilting.html">Tilting</a>, <a href="tincture.html">tincture</a>, <a href="Titubation.html">Titubation</a>, <a href="To%20one%20side.html">To one side</a>, <a href="trend.html">trend</a>, <a href="triclinic.html">triclinic</a>, <a href="turn.html">turn</a>, <a href="twist.html">twist</a>, <a href="uncial.html">uncial</a>, <a href="underlay.html">underlay</a>, <a href="understanding.html">understanding</a>, <a href="undertow.html">undertow</a>, <a href="uprise.html">uprise</a>, <a href="velleity.html">velleity</a>, <a href="Venereous.html">Venereous</a>, <a href="Venus.html">Venus</a>, <a href="way.html">way</a>, <a href="weather.html">weather</a>, <a href="weathered.html">weathered</a>, <a href="Weathering.html">Weathering</a>, <a href="whim.html">whim</a>, <a href="will.html">will</a>, <a href="willing.html">willing</a>, <a href="wish.html">wish</a>, <a href="Woulding.html">Woulding</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					unclination, jnclination, knclination, onclination, ibclination, ihclination, ijclination, imclination, inxlination, indlination, inflination, invlination, inckination, incoination, incpination, inclunation, incljnation, inclknation, inclonation, inclibation, inclihation, inclijation, inclimation, inclinqtion, inclinwtion, inclinstion, inclinztion, inclinarion, inclinafion, inclinagion, inclinayion, inclinatuon, inclinatjon, inclinatkon, inclinatoon, inclinatiin, inclinatikn, inclinatiln, inclinatipn, inclinatiob, inclinatioh, inclinatioj, inclinatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

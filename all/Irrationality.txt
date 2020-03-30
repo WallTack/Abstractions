@@ -1,0 +1,492 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>irrationality</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">irrationality</span> <span class="exp">the state of being irrational; lacking powers of understanding</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In the 19th century, craftsmen who made hats were known to be excitable and irrational, as well as to tremble with palsy and mix up their words. Such behavior gave rise to the familiar expression "mad as a hatter". The disorder, called hatter's shakes, was caused by chronic mercury poisoning from the solution used to treat the felt. Attacking the central nervous system, the toxin led to behavioral symptoms.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">irrationality</span> <span class="exp">The quality or state of being irrational; absence of rationality.</span> <span class="wuQuot">"Brutish irrationaliity ."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">irrationality</span> <span class="exp">The condition of being irrational; want of the faculty or the quality of reason; fatuity: as, the irrationality of brutes; the irrationality of a scheme.</span> </li><li><span class="tSpeech">n</span> <span class="term">irrationality</span> <span class="exp">That which is irrational; an irrational thought, action, or thing.</span> </li><li><span class="tSpeech">n</span> <span class="term">irrationality</span> <span class="exp">In mathematics, incommensurability.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Friedrich Nietzsche</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Friedrich%20Nietzsche.jpg" alt="Friedrich%20Nietzsche">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The irrationality of a thing is no argument against its existence, rather a condition of it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Gunther Grass</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Gunther Grass">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Art is so wonderfully irrational, exuberantly pointless, but necessary all the same. Pointless and yet necessary, that's hard for a puritan to understand.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">A. N. Wilson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="A. N. Wilson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The fact that logic cannot satisfy us awakens an almost insatiable hunger for the irrational.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lisa Hoffman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Lisa Hoffman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Love is like pi -- natural, irrational, and very important.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Cyril Connolly</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Cyril%20Connolly.jpg" alt="Cyril%20Connolly">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“As repressed sadists are supposed to become policemen or butchers so those with an irrational fear of life become publishers.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Santayana</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Santayana.jpg" alt="George%20Santayana">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The irrational in the human has something about it altogether repulsive and terrible, as we see in the maniac, the miser, the drunkard or the ape.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Mr. McDougall does not regret this disposition, irrational though it is.
+					</div>
+					<div class="uAuthor">
+						"Outspoken Essays" by <span>William Ralph Inge</span>					</div>
+										<div class="usage">
+						Turning a man to a timorous brute With irrational fear.
+					</div>
+					<div class="uAuthor">
+						"Punch, Or The London Charivari, Vol. 103, Sep. 24, 1892" by <span>Various</span>					</div>
+										<div class="usage">
+						Italian opera was moulded to its present form chiefly by Gluck, before whose time it was less irrational than it became later.
+					</div>
+					<div class="uAuthor">
+						"Old Scores and New Readings" by <span>John F. Runciman</span>					</div>
+										<div class="usage">
+						Within the circle of his vitiated appetite he proves himself irrational.
+					</div>
+					<div class="uAuthor">
+						"Renaissance in Italy, Volume 1 (of 7)" by <span>John Addington Symonds</span>					</div>
+										<div class="usage">
+						They were strange words, but he did not believe them irrational.
+					</div>
+					<div class="uAuthor">
+						"The Little Red Chimney" by <span>Mary Finley Leonard</span>					</div>
+										<div class="usage">
+						He believed it equally irrational to allow members of the party to consult personal preferences in voting.
+					</div>
+					<div class="uAuthor">
+						"Stephen A. Douglas" by <span>Allen Johnson</span>					</div>
+										<div class="usage">
+						When he lay back upon his bed he became irrational, yet seemed to be conscious of it.
+					</div>
+					<div class="uAuthor">
+						"The Day of the Beast" by <span>Zane Grey</span>					</div>
+										<div class="usage">
+						The antithesis to reason is not faith, but irrationality.
+					</div>
+					<div class="uAuthor">
+						"Edward Caldwell Moore" by <span>Edward Moore</span>					</div>
+										<div class="usage">
+						His American is boastful, careless, and irrationally optimistic.
+					</div>
+					<div class="uAuthor">
+						"Humanly Speaking" by <span>Samuel McChord Crothers</span>					</div>
+										<div class="usage">
+						So, in its deep and beautiful and animal beginnings, Love, too, is irrational.
+					</div>
+					<div class="uAuthor">
+						"The Vehement Flame" by <span>Margaret Wade Campbell Deland</span>					</div>
+										<div class="usage">
+						He spluttered a laugh that seemed to her the first irrational flaw in something exquisitely reasonable, and ran down the dark stairs.
+					</div>
+					<div class="uAuthor">
+						"The Judge" by <span>Rebecca West</span>					</div>
+										<div class="usage">
+						We think of taste as something in its nature irrational.
+					</div>
+					<div class="uAuthor">
+						"Essays on Art" by <span>A. Clutton-Brock</span>					</div>
+										<div class="usage">
+						Yet, did ever wise man harbor notion so irrational!
+					</div>
+					<div class="uAuthor">
+						"Idolatry" by <span>Julian Hawthorne</span>					</div>
+										<div class="usage">
+						The practice of giving acids for this symptom can only be regarded as irrational.
+					</div>
+					<div class="uAuthor">
+						"The People's Common Sense Medical Adviser in Plain English" by <span>R. V. Pierce</span>					</div>
+										<div class="usage">
+						An immense loss of female power may be fairly charged to irrational cooking and indigestible diet.
+					</div>
+					<div class="uAuthor">
+						"Sex in Education" by <span>Edward H. Clarke</span>					</div>
+										<div class="usage">
+						What could be more irrational?
+					</div>
+					<div class="uAuthor">
+						"The Constitution of the United States of America: Analysis and Interpretation"					</div>
+										<div class="usage">
+						He had the true Russian spirit of unconquerable irrational merriment.
+					</div>
+					<div class="uAuthor">
+						"The Dark Forest" by <span>Hugh  Walpole</span>					</div>
+										<div class="usage">
+						Well, this is precisely what I have said, which this writer considers so irrational.
+					</div>
+					<div class="uAuthor">
+						"Apologia pro Vita Sua" by <span>John Henry Newman</span>					</div>
+										<div class="usage">
+						It works on complex and irrational logic.
+					</div>
+					<div class="uAuthor">
+						"The Door Through Space" by <span>Marion Zimmer Bradley</span>					</div>
+										<div class="usage">
+						It seems like topsy-turvyland to make reason serve the irrational.
+					</div>
+					<div class="uAuthor">
+						"A Preface to Politics" by <span>Walter Lippmann</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Like the buzzing of an insect,<br>
+Still, irrational, persistent . . .<br>
+I must listen, listen, listen<br>
+In a passion of attention;
+							<div class="poet">"Nocturn" by <span>William Ernest Henley</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We know that it is irrational to continue disliking the Miami Heat so much.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/daily/sports/2012/05/miami-heat-live-to-vex-us-all-another-day.html" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						Californians, You Violated the Constitution, Irrationally.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nbcsandiego.com/blogs/prop-zero/Prop-8-Californian-Supreme-Court-Ninth-Circuit-Same-Sex-Marriage-138881244.html" target="_blank" rel="external nofollow">nbcsandiego.com</a>
+					</div>
+										<div class="usage">
+						Jennifer Aniston and Paul Rudd's new comedy – comedy in the sense of drawn out, unfunny gags – "Wanderlust" is an irrationally extended vulgar sketch routine that may not have even garnered laughs on "Saturday Night Live".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/entertainment/2012/02/24/review-wanderlust-relies-on-vulgarity-for-laughs-and-fails/" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Is being targeted by a fiercely, irrationally partisan attack in the lead-up to the Nov 6 election.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theintelligencer.net/page/content.detail/id/576079/Attack-on-Manchin-Absurd-on-Its-Face.html?nav=511" target="_blank" rel="external nofollow">theintelligencer.net</a>
+					</div>
+										<div class="usage">
+						In a blog post on the Irrational Games website, Levine confirmed that the game will hit shelves on March 26, a month later than previously announced.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pcmag.com/article2/0,2817,2412980,00.asp" target="_blank" rel="external nofollow">pcmag.com</a>
+					</div>
+										<div class="usage">
+						 Insane irrationality is alive and well in much of the world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.redding.com/news/2012/nov/05/bob-williams-is-insanity-the-new-normal-or-the/" target="_blank" rel="external nofollow">redding.com</a>
+					</div>
+										<div class="usage">
+						An irrational vote against disability treaty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/12/07/3953214/an-irrational-vote-against-disability.html" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						Football, weather and shark attacks — the irrational voter's checklist.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/nov/5/weight-weather-sharks-irrational-voters-checklist/print/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						5 reasons your vote will be irrational .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/49684422" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						But instead of accepting irrationality , we should at least try to do better.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/opinion/inquirer/20121013_Innately__but_not_hopelessly__irrational.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						 Irrational Optimism in China's Markets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10000872396390443328404578022071003240126.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						This is the milieu where irrationality , supplemented where necessary by blunt force, trumps any conceivable logical objection.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/blogs/nyrblog/2012/sep/22/intimate-epic-irrational-need/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<div class="usage">
+						Rational comedy for an irrational planet.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kalw.org/post/rational-comedy-irrational-planet" target="_blank" rel="external nofollow">kalw.org</a>
+					</div>
+										<div class="usage">
+						A Tiny Example of How Terrorism Fears Make Us Irrational About Risk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/politics/archive/2012/08/a-tiny-example-of-how-terrorism-fears-make-us-irrational-about-risk/261646/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						 Irrational Man Who Refuses To Leave Santa Monica Pier Arrested By Police.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.smmirror.com/articles/News/Irrational-Man-Who-Refuses-To-Leave-Santa-Monica-Pier-Arrested-By-Police/35301" target="_blank" rel="external nofollow">smmirror.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Following , we present an example of a divisor with a Zariski decomposition in Fujita sense having irrational coeﬃcients. 
+					</div>
+					<div class="uAuthor">
+						On Zariski decomposition problem
+					</div>
+										<div class="usage">
+						Using a new geometric technique called cluster swapping (a variant of the SwendsenWang update for Fortuin-Kasteleyn clusters), we show that µu is unique if at least one of the following holds: E = R, d ∈ {1, 2}, there exists a rough gradient phase of slope u, or u is irrational. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						In particular, if one of the components of u is irrational, then h(µ) is uniformly distributed. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						In particular, if one of the components of µ is irrational, then h(µ) is uniformly distributed. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						Corollary 8.7.6 If u ∈ UΦ and one of the components of u is irrational, then the minimal gradient phase µu of slope u is unique. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						Theorem 8.7.8 Suppose u ∈ UΦ , one of the components of u is irrational, and µu is the unique smooth minimal gradient phase of slope u. 
+					</div>
+					<div class="uAuthor">
+						Random Surfaces
+					</div>
+										<div class="usage">
+						It is shown under certain restrictions that, if µ has two generators with a.s. positive components, and the ratio ln c1 / ln c2 for their branching parameters is an irrational number, then µ is a Lebesgue measure. 
+					</div>
+					<div class="uAuthor">
+						On the uniqueness of the branching parameter for a random cascade measure
+					</div>
+										<div class="usage">
+						We further prove that the crossed product of every simple higher dimensional noncommutative torus by the ﬂip is an AF algebra, and that the crossed products of irrational rotation algebras by the standard actions of Z3 , Z4 , and Z6 are simple AH algebras with real rank zero. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<div class="usage">
+						For the action of Z2 on an irrational rotation algebra, it was already known that the crossed is AF. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<div class="usage">
+						That paper, however, gives no information on the structure of C ∗ (Z4 , Aθ ) for other irrational values of θ, while our results imply in particular that C ∗ (Z4 , Aθ ) has real rank zero and stable rank one for all irrational θ. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<div class="usage">
+						Our results are completely new for the actions of Z3 and Z6 on the irrational rotation algebras. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<div class="usage">
+						Then we consider the standard actions of Z3 , Z4 , and Z6 on the irrational rotation algebras, and the ﬂip action of Z2 on a simple higher dimensional noncommutative torus. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<div class="usage">
+						In the next three sections, we consider crossed products of irrational rotation algebra and higher dimensional noncommutative toruses by actions of ﬁnite cyclic groups which have already been studied. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<div class="usage">
+						In Section 8, we show that the noncommutative Fourier transform on an irrational rotation algebra generates an action of Z4 with the tracial Rokhlin property, and use this to show that the crossed product is always a simple AH algebra with real rank zero, and is AF for “many” rotation numbers. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<div class="usage">
+						In Section 9, we show that the crossed products of an irrational rotation algebra by the “standard” actions of Z3 and Z6 are simple AH algebras with real rank zero. 
+					</div>
+					<div class="uAuthor">
+						Crossed products by finite cyclic group actions with the tracial Rokhlin property
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the state of being irrational; lacking powers of understanding"><a href="unreason.html">unreason</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="insanity.html">insanity</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="irrational.html">irrational</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Bestialism.html">Bestialism</a>, <a href="brute.html">brute</a>, <a href="dada.html">dada</a>, <a href="dadaism.html">dadaism</a>, <a href="dispersion.html">dispersion</a>, <a href="insanity.html">insanity</a>, <a href="irrationalness.html">irrationalness</a>, <a href="space.html">space</a>, <a href="unreason.html">unreason</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					urrationality, jrrationality, krrationality, orrationality, ierationality, idrationality, ifrationality, itrationality, ireationality, irdationality, irfationality, irtationality, irrqtionality, irrwtionality, irrstionality, irrztionality, irrarionality, irrafionality, irragionality, irrayionality, irratuonality, irratjonality, irratkonality, irratoonality, irratiinality, irratiknality, irratilnality, irratipnality, irratiobality, irratiohality, irratiojality, irratiomality, irrationqlity, irrationwlity, irrationslity, irrationzlity, irrationakity, irrationaoity, irrationapity, irrationaluty, irrationaljty, irrationalkty, irrationaloty, irrationaliry, irrationalify, irrationaligy, irrationaliyy, irrationalitt, irrationalitg, irrationalith
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

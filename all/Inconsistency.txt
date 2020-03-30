@@ -1,0 +1,523 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>inconsistency</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">inconsistency</span> <span class="exp">the quality of being inconsistent and lacking a harmonious uniformity among things or parts</span> </li><li><span class="tSpeech">n</span> <span class="term">inconsistency</span> <span class="exp">the relation between propositions that cannot both be true at the same time</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Inconsistency</span> <span class="exp">Absurdity in argument ore narration; incoherence or irreconcilability in the parts of a statement, argument, or narration; that which is inconsistent.</span> <span class="wuQuot">"If a man would register all his opinions upon love, politics, religion, and learning, what a bundle of inconsistencies and contradictions would appear at last!"</span></li><li><span class="term">Inconsistency</span> <span class="exp">Lack of stability or uniformity; unsteadiness; changeableness; variableness.</span> <span class="wuQuot">"Mutability of temper, and inconsistency with ourselves, is the greatest weakness of human nature."</span></li><li><span class="term">Inconsistency</span> <span class="exp">The quality or state of being inconsistent; discordance in respect to sentiment or action; such contrariety between two things that both can not exist or be true together; disagreement; incompatibility.</span> <span class="wuQuot">"There is a perfect inconsistency between that which is of debt and that which is of free gift."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">inconsistency</span> <span class="exp">The quality of being inconsistent; want of consistency or agreement between ideas or actions; contradictory relation of parts or particulars; intrinsic opposition in fact or in principle; incongruity; contrariety; discrepancy.</span> </li><li><span class="tSpeech">n</span> <span class="term">inconsistency</span> <span class="exp">A want of consistency in feeling, idea, or act; lack of agreement or uniformity in manifestation; incongruity.</span> </li><li><span class="tSpeech">n</span> <span class="term">inconsistency</span> <span class="exp">Synonyms Incoherency, irreconcilability, discrepancy, contradictoriness. See incompatible.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ambrose Bierce</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ambrose%20Bierce.jpg" alt="Ambrose%20Bierce">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Absurdity. A statement or belief manifestly inconsistent with one's own opinion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Franklin P. Jones</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Franklin%20P.%20Jones.jpg" alt="Franklin%20P.%20Jones">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Children are unpredictable. You never know what inconsistency they're going to catch you in next.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Zig Ziglar</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Zig%20Ziglar.jpg" alt="Zig%20Ziglar">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You cannot perform in a manner inconsistent with the way you see yourself.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marcus T. Cicero</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marcus%20T.%20Cicero.jpg" alt="Marcus%20T.%20Cicero">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No well-informed person ever imputed inconsistency to another for changing his mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Horatio Smith</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Horatio Smith">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Inconsistency is the only thing in which men are consistent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Hardy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Hardy.jpg" alt="Thomas%20Hardy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Like the British Constitution, she owes her success in practice to her inconsistencies in principle.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">inconsistance</span>, 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						In the matter of jurisdiction the United States Supreme Court has been decidedly inconsistent.
+					</div>
+					<div class="uAuthor">
+						"The Journal of Negro History, Volume 6, 1921" by <span>Various</span>					</div>
+										<div class="usage">
+						Inconsistent he certainly is.
+					</div>
+					<div class="uAuthor">
+						"The Menorah Journal, Volume 1, 1915" by <span>Various</span>					</div>
+										<div class="usage">
+						He had the selfishness of Livingston, the inconsistency of Spencer, the imperiousness of Root, and the ability of a statesman.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						Jefferson's inconsistency, therefore, if inconsistency it were, brought him little discredit.
+					</div>
+					<div class="uAuthor">
+						"A History of the United States" by <span>Cecil Chesterton</span>					</div>
+										<div class="usage">
+						It accounts for many inconsistencies in the mores.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						You can't, without gross inconsistency, start beating to windward against it.
+					</div>
+					<div class="uAuthor">
+						"Gossamer" by <span>George A. Birmingham</span>					</div>
+										<div class="usage">
+						The night after the debate, he gave Brougham a heavy fall, and exposed his glaring inconsistency and falseness.
+					</div>
+					<div class="uAuthor">
+						"The Greville Memoirs (Second Part)" by <span>Charles C. F. Greville</span>					</div>
+										<div class="usage">
+						Would it not be inconsistent for a nation to commit suicide because a constitution is not made to meet an improbable contingency?
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<div class="usage">
+						Maintain both, or deny both: I am consistent; you are inconsistent.
+					</div>
+					<div class="uAuthor">
+						"Loss and Gain" by <span>John Henry Newman</span>					</div>
+										<div class="usage">
+						Up to this time, no inconsistencies disgraced him.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						Inconsistencies may be pardoned, as constitutional defects and peculiarities of character.
+					</div>
+					<div class="uAuthor">
+						"Who Are Happiest? and Other Stories" by <span>T. S. Arthur</span>					</div>
+										<div class="usage">
+						Moreover, the excessive individualism was inconsistent with much public spirit.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books--Volume 14--Philosophy and Economics" by <span>Various</span>					</div>
+										<div class="usage">
+						It is inconsistent with the report of the royal commissioners.
+					</div>
+					<div class="uAuthor">
+						"Sir Walter Ralegh" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						The charge of inconsistency must, therefore, fall to the ground.
+					</div>
+					<div class="uAuthor">
+						"Cotton is King and The Pro-Slavery Arguments" by <span>Various</span>					</div>
+										<div class="usage">
+						In the character of M. de Blacas there were no such apparent inconsistencies.
+					</div>
+					<div class="uAuthor">
+						"Memoirs To Illustrate The History Of My Time" by <span>François Pierre Guillaume Guizot</span>					</div>
+										<div class="usage">
+						This perplexing inconsistency, which is the only serious blot on Penn's fair fame, appears to have been the result of two convictions.
+					</div>
+					<div class="uAuthor">
+						"William Penn" by <span>George Hodges</span>					</div>
+										<div class="usage">
+						It may err on the score of inconsistency.
+					</div>
+					<div class="uAuthor">
+						"A Handbook of the English Language" by <span>Robert Gordon Latham</span>					</div>
+										<div class="usage">
+						To some Christians the doctrine of the Trinity appeared inconsistent with the unity of God which is emphasized in the Scriptures.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 6, Slice 3" by <span>Various</span>					</div>
+										<div class="usage">
+						How inconsistent, selfish, treacherous!
+					</div>
+					<div class="uAuthor">
+						"Olla Podrida" by <span>Frederick Marryat</span>					</div>
+										<div class="usage">
+						To be sure, her sentiments were somewhat at variance with her character, an inconsistency not unusual in woman.
+					</div>
+					<div class="uAuthor">
+						"The Return of the Prodigal" by <span>May Sinclair</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							O, inconsistent teacher,<br>
+He’d knowledge give away;<br>
+Fill head and heart, from tome of art,<br>
+Then take me for his pay.
+							<div class="poet">"To Sanson (05)" by <span>Madge Morris Wagner</span></div>
+						</div>
+											<div class="poemQuote">
+							Blush, Christian, blush! for e'en the dark<br>
+Untutored heathen see<br>
+Thy inconsistency, and lo!<br>
+They scorn thy God, and thee!
+							<div class="poet">"The Slave-Auction--A Fact" by <span>Anonymous Americas</span></div>
+						</div>
+											<div class="poemQuote">
+							Just flies and smiles; beguiles and tries<br>
+To lead all 'neath the sunny skies,<br>
+With windy inconsistencies<br>
+Off the Isles of Peace.
+							<div class="poet">"Biographia" by <span>Samuel Alfred Beadle</span></div>
+						</div>
+											<div class="poemQuote">
+							An eye where love with laughter twinkles,<br>
+And songs on kisses still insistent,<br>
+Blended with graying hair and wrinkles,<br>
+To you, my child, seem inconsistent?
+							<div class="poet">"Anacreon's Apology" by <span>Gamaliel Bradford</span></div>
+						</div>
+											<div class="poemQuote">
+							Alas! poor human nature's inconsistence,<br>
+Up to God's house we go, that we be fed;<br>
+And there, as beggars begging for assistance,<br>
+Say "Give us, Lord, this day our daily bread."
+							<div class="poet">"Servants" by <span>Nora Pembroke</span></div>
+						</div>
+											<div class="poemQuote">
+							'Sir Student,' quoth the maiden, 'you are really quite intense,<br>
+And I ever of this honour shall retain the highest sense;<br>
+But forgive me, if I venture'--faintly blushing thus she spoke--<br>
+'Is not true love inconsistent with tobacco's mundane smoke?'
+							<div class="poet">"Atheletes And Aesthesis" by <span>E W Bowling</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Unfortunately for Delaware, Hurley has also been frustratingly inconsistent .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.1290theticket.com/pages/fromthebench.html?article=10566544" target="_blank" rel="external nofollow">1290theticket.com</a>
+					</div>
+										<div class="usage">
+						One area that's been inconsistent all season and a serious trouble spot the past two weeks is special teams.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesfreepress.com/news/2012/nov/08/mocs-seeking-better-special-teams-play/?Sports-College08Football" target="_blank" rel="external nofollow">timesfreepress.com</a>
+					</div>
+										<div class="usage">
+						The inexperienced backs have been inconsistent .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/nov/7/amid-virginia-techs-inconsistency-offensive-line-h/print/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Investigation's report of Drug Recognition Evaluator program exposes inconsistency , confusion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://minnesota.publicradio.org/display/web/2012/11/02/law/report-drug-recognition-program/" target="_blank" rel="external nofollow">minnesota.publicradio.org</a>
+					</div>
+										<div class="usage">
+						Titans pick bad time to confront injury, inconsistency up front.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nashvillecitypaper.com/content/sports/titans-pick-bad-time-confront-injury-inconsistency-front" target="_blank" rel="external nofollow">nashvillecitypaper.com</a>
+					</div>
+										<div class="usage">
+						That consistent result is a product of inconsistent play.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kitsapsun.com/news/2012/oct/29/uws-sark-frustrated-by-offensive-inconsistency/" target="_blank" rel="external nofollow">kitsapsun.com</a>
+					</div>
+										<div class="usage">
+						Keith Price has been among the inconsistent and a victim of unsteady play.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kitsapsun.com/news/2012/oct/29/uws-sark-frustrated-by-offensive-inconsistency/" target="_blank" rel="external nofollow">kitsapsun.com</a>
+					</div>
+										<div class="usage">
+						Although several factors play into the inconsistent point production, DeBusk believes the wide receiver position continues to be one of the main areas of concern.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.greenevillesun.com/story/321568" target="_blank" rel="external nofollow">greenevillesun.com</a>
+					</div>
+										<div class="usage">
+						Hills' inconsistency remains an issue for Terps.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/blog/d1scourse/2012/oct/6/hills-inconsistency-remains-an-issue-for-terps/print/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						"The experience part and the inconsistent part that I talked about all year long, when you see us in a series like what happened in Houston, I think we went right back to it," Manuel said before the game Thursday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesherald.com/article/20120927/SPORTS12/120929575/0/rememberingpa.us/timesherald" target="_blank" rel="external nofollow">timesherald.com</a>
+					</div>
+										<div class="usage">
+						Flinn cites inconsistency in Cohen touting bill for Memphis airport.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commercialappeal.com/news/2012/sep/25/flinn-cites-inconsistency-in-cohen-touting-bill/" target="_blank" rel="external nofollow">commercialappeal.com</a>
+					</div>
+										<div class="usage">
+						Maize-N-Brew: Inconsistency could hurt Denard Robinson's legacy at Michigan.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.freep.com/article/20120924/SPORTS06/120923036" target="_blank" rel="external nofollow">freep.com</a>
+					</div>
+										<div class="usage">
+						Charged with inconsistency , Romney points to his marriage.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-503544_162-57321963-503544/charged-with-inconsistency-romney-points-to-his-marriage/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Ultimately, Haynesworth's career with Pats was marked by inconsistency .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.weei.com/sports/boston/football/patriots/christopher-price/2011/11/08/ultimately-haynesworths-career-pats-was" target="_blank" rel="external nofollow">weei.com</a>
+					</div>
+										<div class="usage">
+						Mike London attributes Cam Johnson's inconsistency in part to sickle cell trait.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/cavaliers-journal/post/mike-london-attributes-cam-johnsons-inconsistency-in-part-to-sickle-cell-trait/2011/07/25/gIQAhwJRZI_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Lemma 4 If A ⊆ B and A is inconsistent, so is B . 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						Lemma 5 There is only one inconsistent theory, namely L. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						If A is inconsistent, then, by Lemma 4, there is no consistent theory that includes A and, by Lemma 7, Cn(A) = L. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						When the bias (and methods to control it) of the dispersion minimization algorithm is well known, its possible internal inconsistency is certainly a new aspect of the method and should be seriously considered. 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						First we shortly review the problem of the bias introduced by the method and then turn to the problem of inconsistency. 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						If the new spectrum has a strongest minimum for a signiﬁcantly different delay (say τ2 ) then the full estimation scheme is inconsistent according to GWW (Sec. 3.2). 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						It is not a miracle then that the second delay can win at the second tour! There are not any internal logical or statistical inconsistencies involved. 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						Very negative values of α are also inconsistent with the Rushbrooke relation α + 2β + γ = 2 since γ is believed to be close to 2. 
+					</div>
+					<div class="uAuthor">
+						Ground state numerical study of the three-dimensional random field Ising model
+					</div>
+										<div class="usage">
+						Recent measurements of CP asymmetry in B → φKS appear to be inconsistent with Standard Model expectations. 
+					</div>
+					<div class="uAuthor">
+						R-parity-violating SUSY and CP violation in B --&gt; phi K_s
+					</div>
+										<div class="usage">
+						Therefore there is no inconsistency in my arguments. 
+					</div>
+					<div class="uAuthor">
+						Comments on Struyve and Baere's paper on experiments to distinguish Bohmian mechanics from quantum mechanics
+					</div>
+										<div class="usage">
+						In principle, if the measurements were accurate enough, the slight inconsistencies between the two types of methods, as a function of time, could have been translated into a CRF history. 
+					</div>
+					<div class="uAuthor">
+						The Spiral Structure of the Milky Way, Cosmic Rays, and Ice Age Epochs on Earth
+					</div>
+										<div class="usage">
+						These singularities are inconsistent with integral transformations. 
+					</div>
+					<div class="uAuthor">
+						On the Fourier transformation of Renormalization Invariant Coupling
+					</div>
+										<div class="usage">
+						Abelian interacting theory cannot arise since such interaction is inconsistent with the gauge invariance. 
+					</div>
+					<div class="uAuthor">
+						String Theory or Field Theory?
+					</div>
+										<div class="usage">
+						Therefore, the simple Fock space structure which is used as a basis of perturbation theory must lead to mathematical inconsistencies. 
+					</div>
+					<div class="uAuthor">
+						Comment on `A simple explanation of the non-appearance of physical gluons and quarks'
+					</div>
+										<div class="usage">
+						However, this is not inconsistent with the predictions of Figure 3. 
+					</div>
+					<div class="uAuthor">
+						Searches for Giant Pulses from Extragalactic Pulsars
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the relation between propositions that cannot both be true at the same time"><a href="mutual%20exclusiveness.html">mutual exclusiveness</a>, <a href="repugnance.html">repugnance</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="consistency.html">consistency</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="contradictoriness.html">contradictoriness</a>, <a href="nonuniformity.html">nonuniformity</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="incompatible.html">incompatible</a>, <a href="inconsistent.html">inconsistent</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absurdity.html">absurdity</a>, <a href="Antilogy.html">Antilogy</a>, <a href="bull.html">bull</a>, <a href="contradiction.html">contradiction</a>, <a href="contradictoriness.html">contradictoriness</a>, <a href="contrariety.html">contrariety</a>, <a href="contrariness.html">contrariness</a>, <a href="Discomposition.html">Discomposition</a>, <a href="discomposure.html">discomposure</a>, <a href="Disconformity.html">Disconformity</a>, <a href="Discongruity.html">Discongruity</a>, <a href="discordance.html">discordance</a>, <a href="Discordancy.html">Discordancy</a>, <a href="dissonance.html">dissonance</a>, <a href="equal.html">equal</a>, <a href="incoherence.html">incoherence</a>, <a href="incoherency.html">incoherency</a>, <a href="incompatibility.html">incompatibility</a>, <a href="incongruity.html">incongruity</a>, <a href="Inconsistence.html">Inconsistence</a>, <a href="inconsistent.html">inconsistent</a>, <a href="Inconsistentness.html">Inconsistentness</a>, <a href="reconciliation.html">reconciliation</a>, <a href="repugnance.html">repugnance</a>, <a href="Repugnancy.html">Repugnancy</a>, <a href="solecism.html">solecism</a>, <a href="trip.html">trip</a>, <a href="Unconformity.html">Unconformity</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					unconsistency, jnconsistency, knconsistency, onconsistency, ibconsistency, ihconsistency, ijconsistency, imconsistency, inxonsistency, indonsistency, infonsistency, invonsistency, incinsistency, incknsistency, inclnsistency, incpnsistency, incobsistency, incohsistency, incojsistency, incomsistency, inconaistency, inconwistency, incondistency, inconxistency, inconzistency, inconaistency, inconsustency, inconsjstency, inconskstency, inconsostency, inconsiatency, inconsiwtency, inconsidtency, inconsixtency, inconsiztency, inconsiatency, inconsisrency, inconsisfency, inconsisgency, inconsisyency, inconsistwncy, inconsistsncy, inconsistdncy, inconsistrncy, inconsistebcy, inconsistehcy, inconsistejcy, inconsistemcy, inconsistenxy, inconsistendy
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

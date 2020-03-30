@@ -1,0 +1,423 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>enmity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">enmity</span> <span class="exp">the feeling of a hostile person</span> <span class="quot">"he could no longer contain his hostility"</span></li><li><span class="tSpeech">n</span> <span class="term">enmity</span> <span class="exp">a state of deep-seated ill-will</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Enmity</span> <span class="exp">A state of opposition; hostility.</span> <span class="wuQuot">"The friendship of the world is enmity with God."</span></li><li><span class="term">Enmity</span> <span class="exp">The quality of being an enemy; hostile or unfriendly disposition.</span> <span class="wuQuot">"No ground of enmity between us known."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">enmity</span> <span class="exp">The quality or state of being hostile; a feeling or condition of antagonism; ill will; variance; discord.</span> </li><li><span class="tSpeech">n</span> <span class="term">enmity</span> <span class="exp">Synonyms Animosity, Ill will, Malice, etc. See animosity and odium.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Enmity</span> <span class="exp"><span class="itl">en′mi-ti</span> the quality of being an enemy: unfriendliness: ill-will: hostility.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Jacob Boehme</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Jacob Boehme">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You are at enmity with yourself.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Washington Irving</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Washington%20Irving.jpg" alt="Washington%20Irving">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Marriage is the torment of one, the felicity of two, the strife and enmity of three.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Between men and women there is no friendship possible. There is passion, enmity, worship, love, but no friendship.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sigmund Freud</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sigmund%20Freud.jpg" alt="Sigmund%20Freud">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Opposition is not necessarily enmity; it is merely misused and made an occasion for enmity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">enemyte</span>, fr. <span class="wUets">enemy</span>,: cf. F. <span class="wUets">inimitié</span>, OF. <span class="wUets">enemistié</span>,. See <span class="wUer">Enemy</span>, and cf. <span class="wUer">Amity</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr. <i>enemistié</i>—L. <i>inimicus</i>. See <b>Enemy</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He had no enmity to Catholicism, provided it did not stand in his way.
+					</div>
+					<div class="uAuthor">
+						"Henry VIII." by <span>A. F. Pollard</span>					</div>
+										<div class="usage">
+						Waldstricker's open enmity had expressed itself in a series of injuries, calculated to enrage them.
+					</div>
+					<div class="uAuthor">
+						"The Secret of the Storm Country" by <span>Grace Miller White</span>					</div>
+										<div class="usage">
+						This underlying enmity between neighboring peoples is not something rare in the world.
+					</div>
+					<div class="uAuthor">
+						"The Psychology of Nations" by <span>G.E. Partridge</span>					</div>
+										<div class="usage">
+						In a moment I understood the bitter enmity which he had allowed to enter and to rankle in his bosom.
+					</div>
+					<div class="uAuthor">
+						"Will Weatherhelm" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						If they are at enmity with any man, they must first be reconciled before their journey will be recognized.
+					</div>
+					<div class="uAuthor">
+						"Modern Persia" by <span>Mooshie G. Daniel</span>					</div>
+										<div class="usage">
+						The enmity lies couched in the friendship, just as the ruin in the relief.
+					</div>
+					<div class="uAuthor">
+						"The Confidence-Man" by <span>Herman Melville</span>					</div>
+										<div class="usage">
+						But still she could not risk the open enmity of one who knew her secret.
+					</div>
+					<div class="uAuthor">
+						"Kept in the Dark" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Didn't you say that there was enmity between them, {you} scoundrel?
+					</div>
+					<div class="uAuthor">
+						"The Comedies of Terence" by <span>Publius Terentius Afer, (AKA) Terence</span>					</div>
+										<div class="usage">
+						If he thought to disarm the enmity of Minthorne by helping the son-in-law, his hopes were raised only to be dashed to earth again.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						With cold inscrutable eyes she had watched open hostility and active enmity become indifference.
+					</div>
+					<div class="uAuthor">
+						"The Fighting Shepherdess" by <span>Caroline Lockhart</span>					</div>
+										<div class="usage">
+						And now it seems Broken Feather and I are at enmity.
+					</div>
+					<div class="uAuthor">
+						"Kiddie the Scout" by <span>Robert Leighton</span>					</div>
+										<div class="usage">
+						Surely I might have forgiven my enmity after all that the poor girl had suffered; but my heart was steeled.
+					</div>
+					<div class="uAuthor">
+						"Valerie" by <span>Frederick Marryat</span>					</div>
+										<div class="usage">
+						For example, there is enmity between Don Loris and the young Lord Ghek.
+					</div>
+					<div class="uAuthor">
+						"The Pirates of Ersatz" by <span>Murray Leinster</span>					</div>
+										<div class="usage">
+						Will all who feel enmity towards me come to this holy spot, and exchange forgiveness?
+					</div>
+					<div class="uAuthor">
+						"The Hour and the Man" by <span>Harriet Martineau</span>					</div>
+										<div class="usage">
+						It had a theory of affection in the former case and of enmity in the latter.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						If he was incapable of enmity, he was also incapable of friendship.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						It was not pleasant to encounter the wrath of the praefect of Rome nor safe to rouse his enmity.
+					</div>
+					<div class="uAuthor">
+						""Unto Caesar"" by <span>Baroness Emmuska Orczy</span>					</div>
+										<div class="usage">
+						Both started evenly with the same stain, in James's eyes, of enmity to Essex.
+					</div>
+					<div class="uAuthor">
+						"Sir Walter Ralegh" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						He must be beaten and scourged; must at times feel the weight of the enmity and envy wherewith the world inflicts torment.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. II" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						If only this stupid enmity between Muslim and Christian did not hold me back.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: Land of the Infidel" by <span>Robert Shea</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Surely Safety guards his footsteps;<br>
+Enmity he hath not sown:<br>
+Yet who stealthily glides near him,<br>
+Whose the arm around him thrown?
+							<div class="poet">"Loch Buy" by <span>John Douglas Sutherland Campbell</span></div>
+						</div>
+											<div class="poemQuote">
+							My standing does my fall procure,<br>
+My falling makes me stand more sure.<br>
+My poison does my physic prove,<br>
+My enmity provokes my love.
+							<div class="poet">"The Believer's Riddle; or, the Mystery of Faith" by <span>Ralph Erskine</span></div>
+						</div>
+											<div class="poemQuote">
+							They binde, and leade me unto Herod: he<br>
+Sends me to Pilate. This makes them agree;<br>
+But yet their friendship is my enmitie.<br>
+Was ever grief like mine?
+							<div class="poet">"The Sacrifice" by <span>George Herbert</span></div>
+						</div>
+											<div class="poemQuote">
+							IN pity cease—nor thus for ever pour<br>
+The pois'nous draught of flatt'ry o'er my mind;<br>
+Why seek to lessen its too little store!<br>
+Could Enmity itself be more unkind?
+							<div class="poet">"Impromptu, To A Friend" by <span>Maria Logan</span></div>
+						</div>
+											<div class="poemQuote">
+							Yet, if the day should darken, or the storm<br>
+Beat on my brow, or shriek across the night,<br>
+And with God’s pregnant enmity inform<br>
+His sequent messengers of dark and light:
+							<div class="poet">"Endeavour" by <span>Robert Steel Byrnes</span></div>
+						</div>
+											<div class="poemQuote">
+							New spoils! In herds, elephants, jackals, pards,<br>
+For anguish of such fate their enmity<br>
+Laying aside, burst for the river wide<br>
+Which flows between fair isles: in company<br>
+As friends they madly flee!
+							<div class="poet">"Grisma; Or The Season Of Heat" by <span>Edwin Arnold</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						State-sponsored religion would earn Jefferson's enmity, not the sympathy the Christian right suggests (news article, Sept 10).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1998/09/17/opinion/l-high-court-razed-church-state-wall-what-jefferson-believed-898830.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						In the history books, Monday will go down as the moment when bitter enemies allowed the yearning for peace to triumph over their enduring enmity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1993/09/16/nyregion/video-violence-it-s-hot-it-s-mortal-it-s-kombat-teen-agers-eagerly-await.html?pagewanted=all&amp;src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Toll hike enmity approved by Chautauqua County legislature.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.westfieldrepublican.com/page/content.comment/id/518738/Toll-hike-enmity-approved-by-Chautauqua-County-legislature.html?nav=5004" target="_blank" rel="external nofollow">westfieldrepublican.com</a>
+					</div>
+										<div class="usage">
+						Miami Heat heads into training camp with unprecedented buzz and enmity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/09/25/AR2010092503626.html?hpid=sec-sports" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Israel &amp; Palestine: Eternal Enmity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/articles/archives/2010/jan/14/israel-palestine-eternal-enmity/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<div class="usage">
+						In each of them, the interrupters had stepped in to try to keep one act of enmity from spiraling into another.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2008/05/04/magazine/04health-t.html?pagewanted=3" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						From inside the Terminal Bar--a classic dive immortalized on Tom Waits's Nighthawks in the Diner--you cannot see the garish peanut-butter-and-electric-blue paint job that has earned the place such enmity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.westword.com/1996-03-07/news/patching-things-up/" target="_blank" rel="external nofollow">westword.com</a>
+					</div>
+										<div class="usage">
+						A Moscow court has sentenced three members of Pussy Riot to two years in a medium-security prison for hooliganism motivated by religious hatred and enmity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://rt.com/news/orthodox-church-mercy-pussy-962/" target="_blank" rel="external nofollow">rt.com</a>
+					</div>
+										<div class="usage">
+						In Post-Gadhafi Libya, Enmities Continue To Smolder .
+					</div>
+					<div class="uAuthor">
+						<a href="http://wcbe.org/node/32" target="_blank" rel="external nofollow">wcbe.org</a>
+					</div>
+										<div class="usage">
+						Washington also wants to normalize relations between Armenia and Turkey, whose enmity reflects the Nagorno-Karabakh conflict and the Ottoman Empire-era killing of some 1.5 million Armenians .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.syracuse.com/news/index.ssf/2012/06/whats_going_on_us_concerned_by.html" target="_blank" rel="external nofollow">syracuse.com</a>
+					</div>
+										<div class="usage">
+						There are a couple of things about atheists that contribute to the mistrust and enmity directed at them by religious people.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sltrib.com/csp/cms/sites/sltrib/pages/printerfriendly.csp?id=55401945" target="_blank" rel="external nofollow">sltrib.com</a>
+					</div>
+										<div class="usage">
+						In the process he incorporates enough historical background to establish how unstable Greece in general, and Salonika in particular, have been, and how age-old Balkan enmities still cast long shadows.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2010/06/17/books/17book.html?ref=review" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						General Motors earned considerable enmity in 2009 when it declared bankruptcy and accepted a $51 billion bailout from the US government.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/news/blogs/rick-newman/2012/11/16/chevy-volt-owners-take-flack-for-gm-flubs?s_cid=related-links:TOP" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						Last summer, the United Egg Producers and the Humane Society of the United States agreed on legislation that would set national standards for the treatment of laying hens , setting aside years of enmity over the issue.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/politics/the-influence-industry-new-egg-lobby-heats-debate-over-hen-house-legislation/2012/06/20/gJQA8D5crV_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Out of their enmity grew our modern political system.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.americanheritage.com/content/intimate-enemies" target="_blank" rel="external nofollow">americanheritage.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Kitts J (2006) Social inﬂuence and the emergence of norms amid ties of amity and enmity. 
+					</div>
+					<div class="uAuthor">
+						Cooperation, Norms, and Revolutions: A Unified Game-Theoretical Approach
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the feeling of a hostile person"><a href="ill%20will.html">ill will</a>, </div><div class="synGroup" title="a state of deep-seated ill-will"><a href="antagonism.html">antagonism</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="hate.html">hate</a>, <a href="hatred.html">hatred</a>, <a href="state.html">state</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="aggression.html">aggression</a>, <a href="aggressiveness.html">aggressiveness</a>, <a href="animosity.html">animosity</a>, <a href="animus.html">animus</a>, <a href="antagonism.html">antagonism</a>, <a href="bad%20blood.html">bad blood</a>, <a href="belligerence.html">belligerence</a>, <a href="belligerency.html">belligerency</a>, <a href="bitterness.html">bitterness</a>, <a href="class%20feeling.html">class feeling</a>, <a href="cold%20war.html">cold war</a>, <a href="gall.html">gall</a>, <a href="latent%20hostility.html">latent hostility</a>, <a href="rancor.html">rancor</a>, <a href="rancour.html">rancour</a>, <a href="resentment.html">resentment</a>, <a href="state%20of%20war.html">state of war</a>, <a href="suspicion.html">suspicion</a>, <a href="tension.html">tension</a>, <a href="war.html">war</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="hostile.html">hostile</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adversary.html">adversary</a>, <a href="animosity.html">animosity</a>, <a href="at%20variance.html">at variance</a>, <a href="atonement.html">atonement</a>, <a href="bandy.html">bandy</a>, <a href="bitter.html">bitter</a>, <a href="bitterness.html">bitterness</a>, <a href="chest.html">chest</a>, <a href="conversion.html">conversion</a>, <a href="convert.html">convert</a>, <a href="devil.html">devil</a>, <a href="disaffection.html">disaffection</a>, <a href="envy.html">envy</a>, <a href="estrange.html">estrange</a>, <a href="exasperate.html">exasperate</a>, <a href="Exasperater.html">Exasperater</a>, <a href="Extinguishment.html">Extinguishment</a>, <a href="FAR.html">FAR</a>, <a href="feud.html">feud</a>, <a href="fire.html">fire</a>, <a href="foe.html">foe</a>, <a href="Foehood.html">Foehood</a>, <a href="foeman.html">foeman</a>, <a href="grudge.html">grudge</a>, <a href="hate.html">hate</a>, <a href="hatred.html">hatred</a>, <a href="heartburn.html">heartburn</a>, <a href="heartburning.html">heartburning</a>, <a href="hostile.html">hostile</a>, <a href="hostility.html">hostility</a>, <a href="Iconomachy.html">Iconomachy</a>, <a href="ill.html">ill</a>, <a href="Ill%20blood.html">Ill blood</a>, <a href="ill%20will.html">ill will</a>, <a href="Ill-turn.html">Ill-turn</a>, <a href="Ill-will.html">Ill-will</a>, <a href="Implacability.html">Implacability</a>, <a href="In.html">In</a>, <a href="Incensor.html">Incensor</a>, <a href="ingrate.html">ingrate</a>, <a href="inimical.html">inimical</a>, <a href="Ishmaelite.html">Ishmaelite</a>, <a href="malevolence.html">malevolence</a>, <a href="malevolently.html">malevolently</a>, <a href="malice.html">malice</a>, <a href="malicious.html">malicious</a>, <a href="maliciously.html">maliciously</a>, <a href="maliciousness.html">maliciousness</a>, <a href="malign.html">malign</a>, <a href="malignance.html">malignance</a>, <a href="malignancy.html">malignancy</a>, <a href="malignant.html">malignant</a>, <a href="malignity.html">malignity</a>, <a href="mischief-maker.html">mischief-maker</a>, <a href="mischief-making.html">mischief-making</a>, <a href="odium.html">odium</a>, <a href="pursue.html">pursue</a>, <a href="pursued.html">pursued</a>, <a href="pursuer.html">pursuer</a>, <a href="rancor.html">rancor</a>, <a href="rancour.html">rancour</a>, <a href="reconciliation.html">reconciliation</a>, <a href="spite.html">spite</a>, <a href="square.html">square</a>, <a href="strife.html">strife</a>, <a href="To%20set%20one%27s%20self%20against.html">To set one's self against</a>, <a href="Unfriendship.html">Unfriendship</a>, <a href="unregenerate.html">unregenerate</a>, <a href="unregenerated.html">unregenerated</a>, <a href="variance.html">variance</a>, <a href="vendetta.html">vendetta</a>, <a href="virulent.html">virulent</a>, <a href="war.html">war</a>, <a href="%E2%80%96Odium%20theologicum.html">‖Odium theologicum</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wnmity, snmity, dnmity, rnmity, ebmity, ehmity, ejmity, emmity, ennity, enjity, enkity, enmuty, enmjty, enmkty, enmoty, enmiry, enmify, enmigy, enmiyy, enmitt, enmitg, enmith, enmitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,548 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>dialectics</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">dialectics</span> <span class="exp">a rationale for dialectical materialism based on change through the conflict of opposing forces</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The name Coca-Cola in China was first rendered as 'Ke-kou-ke-la.' Unfortunately, the Company did not discover until after thousands of signs had been printed that the phrase means 'bite the wax tadpole' or 'female horse stuffed with wax' depending on the dialect. Coke then researched Chinese characters and found a close phonetic equivalent, 'ko-kou-ko-le,' which can be loosely translated as 'happiness in the mouth.'									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Dialectics</span> <span class="exp">That branch of logic which teaches the rules and modes of reasoning; the application of logical principles to discursive reasoning; the science or art of discriminating truth from error; logical discussion.<span class="wuNote">☞ <ex>Dialectics</ex> was defined by Aristotle to be the method of arguing with probability on any given problem, and of defending a tenet without inconsistency. By Plato, it was used in the following senses:  Discussion by dialogue as a method of scientific investigation.  The method of investigating the truth by analysis.  The science of ideas or of the nature and laws of being -- higher metaphysics. By Kant, it was employed to signify the logic of appearances or illusions, whether these arise from accident or error, or from those necessary limitations which, according to this philosopher, originate in the constitution of the human intellect.</span></span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The name Santa Claus is a corruption of the Dutch dialect name for Saint Nicholas Sint Klass.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">dialectics</span> <span class="exp">Same as dialectic, 2.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The Philippines has more than 1,000 regional dialects and two official languages.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Dialectics</span> <span class="exp">art of discussing: that branch of logic which teaches the rules and modes of reasoning</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Octavio Paz</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Octavio%20Paz.jpg" alt="Octavio%20Paz">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Wisdom lies neither in fixity nor in change, but in the dialectic between the two.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John Kenneth Galbraith</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20Kenneth%20Galbraith.jpg" alt="John%20Kenneth%20Galbraith">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The great dialectic in our time is not, as anciently and by some still supposed, between capital and labor; it is between economic enterprise and the state.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Walt Whitman</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Walt%20Whitman.jpg" alt="Walt%20Whitman">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Viewed freely, the English language is the accretion and growth of every dialect, race, and range of time, and is both the free and compacted composition of all.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Doris Lessing</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Doris%20Lessing.jpg" alt="Doris%20Lessing">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Space or science fiction has become a dialect for our time.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Hardy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Hardy.jpg" alt="Thomas%20Hardy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Dialect words are those terrible marks of the beast to the truly genteel.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">dialectica</span>,sc. <span class="wUets">ars</span>,), Gr.  (sc. ): cf. F. <span class="wUets">dialectique</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Gr. <i>dialektikos</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						I recognise you as such by your unmistakable dialect.
+					</div>
+					<div class="uAuthor">
+						"The Log of a Privateersman" by <span>Harry Collingwood</span>					</div>
+										<div class="usage">
+						The tone and dialect of his diary and letters at the time show how just this impression was.
+					</div>
+					<div class="uAuthor">
+						"The Life of William Ewart Gladstone, Vol. 1 (of 3)" by <span>John  Morley</span>					</div>
+										<div class="usage">
+						Then we tried a relay system of dialects which established a vague, syncopated kind of intellectual contact.
+					</div>
+					<div class="uAuthor">
+						"In Africa" by <span>John T. McCutcheon</span>					</div>
+										<div class="usage">
+						Abortive, crippled, or brutal, are however not necessarily "corrupted" dialects.
+					</div>
+					<div class="uAuthor">
+						"On the Old Road, Vol. 2 (of 2)" by <span>John Ruskin</span>					</div>
+										<div class="usage">
+						Their main object was to display their dialectical skill, and their arguments sometimes led to blows.
+					</div>
+					<div class="uAuthor">
+						"Outlines of Greek and Roman Medicine" by <span>James Sands Elliott</span>					</div>
+										<div class="usage">
+						Recovering himself, the man lowered his bow and said something in a dialect so uncouth, that the poor girl did not understand him.
+					</div>
+					<div class="uAuthor">
+						"The Hot Swamp" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						Does he introduce dialect?
+					</div>
+					<div class="uAuthor">
+						"Teachers' Outlines for Studies in English" by <span>Gilbert Sykes Blakely</span>					</div>
+										<div class="usage">
+						It is a very interesting town, where a peculiar German dialect is generally spoken.
+					</div>
+					<div class="uAuthor">
+						"Memoirs" by <span>Charles Godfrey Leland</span>					</div>
+										<div class="usage">
+						The Visionary's poem offers a combination of several dialects; one, however, prevails; it is the Midland dialect.
+					</div>
+					<div class="uAuthor">
+						"A Literary History of the English People" by <span>Jean Jules Jusserand</span>					</div>
+										<div class="usage">
+						They doggedly preserved their local gods and Semitic dialects.
+					</div>
+					<div class="uAuthor">
+						"The Oriental Religions in Roman Paganism" by <span>Franz Cumont</span>					</div>
+										<div class="usage">
+						To 'hull' is to hurl in the dialect Paul spoke in youth.
+					</div>
+					<div class="uAuthor">
+						"Despair's Last Journey" by <span>David Christie Murray</span>					</div>
+										<div class="usage">
+						I cannot talk dialect and I cannot gesticulate.
+					</div>
+					<div class="uAuthor">
+						"Castellinaria and Other Sicilian Diversions" by <span>Henry Festing Jones</span>					</div>
+										<div class="usage">
+						Hegelianism, or the Absolute Spirit as Dialectic 361 Sect.
+					</div>
+					<div class="uAuthor">
+						"The Approach to Philosophy" by <span>Ralph Barton Perry</span>					</div>
+										<div class="usage">
+						Very few Americans indeed, and no British-Islanders, talk so correct and chaste a dialect.
+					</div>
+					<div class="uAuthor">
+						"The Knickerbocker, or New-York Monthly Magazine, June 1844" by <span>Various</span>					</div>
+										<div class="usage">
+						These are not, speaking generally, the differences that are produced by the gradual divergence of dialects in a language.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 13, Slice 6" by <span>Various</span>					</div>
+										<div class="usage">
+						Chhattisgarhi and Bagheli, the other dialects, have scanty literatures of small value.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 13, Slice 4" by <span>Various</span>					</div>
+										<div class="usage">
+						The mountain dialect prevails throughout.
+					</div>
+					<div class="uAuthor">
+						"Kentucky in American Letters, v. 2 of 2" by <span>John Wilson Townsend</span>					</div>
+										<div class="usage">
+						His poetical narratives and lyric poems, written in the "Alemanic" dialect, are "popular" in the best sense.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 13, Slice 2" by <span>Various</span>					</div>
+										<div class="usage">
+						Further, this termination is found also in the Tuscan dialects.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 14, Slice 8" by <span>Various</span>					</div>
+										<div class="usage">
+						The dialectic philosopher is the only one who possesses the true art of persuasion.
+					</div>
+					<div class="uAuthor">
+						"Plato and the Other Companions of Sokrates, 3rd ed. Volume IV (of 4)" by <span>George Grote</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Age lorded not, nor rose the hectic<br>
+Up to the cheek of Youth;<br>
+But reigned throughout their dialectic<br>
+Sobriety of truth.
+							<div class="poet">"Two Visions" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							"Some dialects are objected to -<br>
+For one, the IRISH brogue is:<br>
+And then, for all you have to do,<br>
+One pound a week they offer you,<br>
+And find yourself in Bogies!
+							<div class="poet">"Phantasmagoria Canto IV   ( Hys Nouryture )" by <span>Lewis Carroll</span></div>
+						</div>
+											<div class="poemQuote">
+							O, the gallant Watch and Ward,<br>
+Sleepy England's wakeful guard,<br>
+With larum, rattle, pike, and hook,<br>
+Owd Ludd at Cabbage Ho' they took.<br>
+* In Lancashire dialect, a 'ghost'.
+							<div class="poet">"The Watch And Ward." by <span>Samuel Bamford</span></div>
+						</div>
+											<div class="poemQuote">
+							He gives the order ‘Whusky!’ ere he goes below once more—<br>
+And ‘Whusky’ is a Russian word I never heard before;<br>
+Perhaps some Tartar dialect, because, you know, you’ll meet<br>
+Some very various Muscovites aboard the Baltic fleet. 
+							<div class="poet">"Those Foreign Engineers" by <span>Henry Lawson</span></div>
+						</div>
+											<div class="poemQuote">
+							I first drew in New England's air, and from her hardy breast<br>
+Sucked in the tyrant-hating milk that will not let me rest;<br>
+And if my words seem treason to the dullard and the tame,<br>
+'Tis but my Bay-State dialect,--our fathers spake the same!
+							<div class="poet">"On The Capture Of Fugitive Slaves Near Washington" by <span>James Russell Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							E'er the completion of the impious pile,<br>
+Thou mayest have heard, with silent nonchalance,<br>
+That strange catastrophe of human speech,<br>
+That dire confusion of the languages,<br>
+Confounding all the tongues and dialects<br>
+To unknown chaos of peculiar sounds.
+							<div class="poet">"Metabole." by <span>Alfred Castner King</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						LONDON—In a remote fishing town on the tip of Scotland's Black Isle, the last native speaker of the Cromarty dialect has passed away, taking with him a little fragment of the English linguistic mosaic.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.texarkanagazette.com/news/2012/10/05/scottish-man-dies-taking-remote-fishing--902984.php" target="_blank" rel="external nofollow">texarkanagazette.com</a>
+					</div>
+										<div class="usage">
+						Robinson said he would like to see more efforts taken to safeguard minority Scots dialects .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kvia.com/news/Last-native-speaker-of-Scots-dialect-dies/-/391068/16878474/-/item/1/-/oibgju/-/index.html" target="_blank" rel="external nofollow">kvia.com</a>
+					</div>
+										<div class="usage">
+						LONDON – The last native speaker of the Cromarty dialect has died, taking with him a way of speaking unique to a small seaside town at the tip of Scotland's Black Isle.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/world/2012/10/04/small-glossary-phrases-in-cromarty-dialect-whose-last-native-speaker-has-passed/print" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						The last native speaker of the Cromarty dialect has died, taking with him a way of speaking unique to a small seaside town at the tip of Scotland's Black Isle.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/oct/4/a-small-glossary-of-cromarty-dialect-phrases/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						Fusion of English and Spanish along the border creates a distinct dialect .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ivpressonline.com/news/latino/ivp-news-viista-latina-fusion-of-english-and-spanish-along-the-border-creates-a-distinct-dialect-20120407,0,1251454.story" target="_blank" rel="external nofollow">ivpressonline.com</a>
+					</div>
+										<div class="usage">
+						Linsanity' Is Contender for Word of Year, Dialect Society Says.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/news/2012-02-17/-linsanity-is-contender-for-word-of-year-dialect-society-says.html" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<div class="usage">
+						Tangier Islanders Retain Unique Dialect .
+					</div>
+					<div class="uAuthor">
+						<a href="http://wamu.org/news/11/06/27/tangier_islanders_retain_unique_dialect.php" target="_blank" rel="external nofollow">wamu.org</a>
+					</div>
+										<div class="usage">
+						Reiding in the Negro Dialect .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sun-sentinel.com/citylink/upfront/sfl-reiding-on-the-negro-dialect-20110328,0,4987608.story" target="_blank" rel="external nofollow">sun-sentinel.com</a>
+					</div>
+										<div class="usage">
+						Sam Chwat, dialect coach to the stars, dies at 57.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/wp-dyn/content/article/2011/03/17/AR2011031704102.html?wprss=rss_metro/obituaries" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						How to speak with a remodeling dialect .
+					</div>
+					<div class="uAuthor">
+						<a href="http://housingzone.com/customer-satisfaction/mark-richardson-how-speak-remodeling-dialect" target="_blank" rel="external nofollow">housingzone.com</a>
+					</div>
+										<div class="usage">
+						Pulitzer Prize-winning American novelist and Charles Dickens expert Jane Smiley shares the importance of local dialects in the writings of Charles Dickens, author of A Tale of Two Cities and Great Expectations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/oprahsbookclub/Dialect-in-Charles-Dickens-Oprahs-Book-Club-Webcast-Video" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						Jane Smiley on the Importance of Dialect in the Writings of Charles Dickens.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/oprahsbookclub/Dialect-in-Charles-Dickens-Oprahs-Book-Club-Webcast-Video" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						"Yat Dat" apparently a thing, according to the American Dialect Society.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bestofneworleans.com/blogofneworleans/archives/2011/01/14/yat-dat-apparently-a-thing-according-to-the-american-dialect-society" target="_blank" rel="external nofollow">bestofneworleans.com</a>
+					</div>
+										<div class="usage">
+						China has long been a patchwork of often mutually unintelligible dialects .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.taipeitimes.com/News/front/archives/2010/08/02/2003479394" target="_blank" rel="external nofollow">taipeitimes.com</a>
+					</div>
+										<div class="usage">
+						Beijing made Mandarin the country's official language in 1982, leading to bans on other dialects at many radio and television stations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.taipeitimes.com/News/front/archives/2010/08/02/2003479394" target="_blank" rel="external nofollow">taipeitimes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In the current paper we focus on speciﬁc semantic results, and, as said, we use a dynamic epistemic ‘dialect’, not full PDL. A recent contribution on combining public ontic and epistemic change, including detailed expressivity results for different combinations of static and dynamic modalities, is found in . 
+					</div>
+					<div class="uAuthor">
+						Semantic results for ontic and epistemic change
+					</div>
+										<div class="usage">
+						So, to “derive” the table of the universal genetic code and any of its dialects, one only needs to know the initial sequence of codons and the properties of their respective amino acids. Emergence of new nucleotides and new amino acids . 
+					</div>
+					<div class="uAuthor">
+						Evolution of the genetic code. From the CG- to the CGUA-alphabet, from RNA double helix to DNA
+					</div>
+										<div class="usage">
+						This determines the symmetry of the genetic code. Dialects of the genetic code. Let us now consider the differences characteristic of various dialects of the genetic code . 
+					</div>
+					<div class="uAuthor">
+						Evolution of the genetic code. From the CG- to the CGUA-alphabet, from RNA double helix to DNA
+					</div>
+										<div class="usage">
+						There is an interesting dialectic at play here. 
+					</div>
+					<div class="uAuthor">
+						Puzzles, Progress, Prospects: pre-Summary for the Quark Matter 2009 Conference
+					</div>
+										<div class="usage">
+						Nevertheless, a common (“normative”) language can establish, as is impressively shown, for example, by the uniﬁcation of regionally spoken dialects in Germany triggered by the Luther bible. 
+					</div>
+					<div class="uAuthor">
+						Cooperation, Norms, and Revolutions: A Unified Game-Theoretical Approach
+					</div>
+										<div class="usage">
+						Write user requirements, in the form of logical formulas in some temporal logic dialect (most action-based logics will be suitable). 4. 
+					</div>
+					<div class="uAuthor">
+						Behavioural Models for Group Communications
+					</div>
+										<div class="usage">
+						This is carried out by ﬁrst making a survey of so-called dialectical roots for interest prohibition and then demonstrating that for at least one important positive interest bearing ﬁnancial product, the savings account with interest, its prohibition cannot be inferred from a match with any of these root cases. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						The demarcation between dialectical reasoning and argumentation from authority is not always clear. I do not intend to suggest that arguments from authority must be weak, as if they are a cover-up for lacking conclusive arguments. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						Regarding SAI it is possible to draw a number of speciﬁc conclusions based on an inspection of the inventory of dialectical root cases. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						This reasoning may be criticized for ignoring the possibility that a combined use of different dialectical roots might lead to a convincing rejection of SAI. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						The possibility (and relevance) of making a sharp distinction between dialectical arguments and arguments from authority may be disputed. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						Dialectical root cases provide a way to obtain categorical injunctions against interest for speciﬁc (proposed) ﬁnancial products which cannot be found from any considerations regarding negative effects of their use. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						This also improves the results about the effective semilinearity of the reachability relations for such ﬂat counter systems from [7, 13]; indeed, our logical dialects allow to specify whether a conﬁguration is reachable. 
+					</div>
+					<div class="uAuthor">
+						Taming Past LTL and Flat Counter Systems
+					</div>
+										<div class="usage">
+						However, the notion of universal witness can be broadened to include “dialects” of Un (a, b, c). 
+					</div>
+					<div class="uAuthor">
+						Universal Witnesses for State Complexity of Boolean Operations and Concatenation Combined with Star
+					</div>
+										<div class="usage">
+						Since there are operations for which ternary witnesses do not meet the worstcase bounds, the notions of universal witness and dialect have been extended to quaternary alphabets , by adding a fourth input d which performs the identity permutation, denoted by d : 1Q . 
+					</div>
+					<div class="uAuthor">
+						Universal Witnesses for State Complexity of Boolean Operations and Concatenation Combined with Star
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="principle.html">principle</a>, <a href="rationale.html">rationale</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="dialectic.html">dialectic</a>, <a href="dialectical.html">dialectical</a>, <a href="dialectician.html">dialectician</a>, <a href="Dialector.html">Dialector</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					sialectics, eialectics, fialectics, cialectics, xialectics, sialectics, dualectics, djalectics, dkalectics, doalectics, diqlectics, diwlectics, dislectics, dizlectics, diakectics, diaoectics, diapectics, dialwctics, dialsctics, dialdctics, dialrctics, dialextics, dialedtics, dialeftics, dialevtics, dialecrics, dialecfics, dialecgics, dialecyics, dialectucs, dialectjcs, dialectkcs, dialectocs, dialectixs, dialectids, dialectifs, dialectivs, dialectica, dialecticw, dialecticd, dialecticx, dialecticz, dialectica
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

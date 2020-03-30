@@ -1,0 +1,528 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>opinion</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/111/39/10095.jpg" alt="Expert Opinion">
+							<div class="caption">Expert Opinion</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">the reason for a court's judgment (as opposed to the decision itself)</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">a vague idea in which some confidence is placed</span> <span class="quot">"his impression of her was favorable","what are your feelings about the crisis?","it strengthened my belief in his sincerity","I had a feeling that she was lying"</span></li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">a personal belief or judgment that is not founded on proof or certainty</span> <span class="quot">"my opinion differs from yours","I am not of your persuasion","what are your thoughts on Haiti?"</span></li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">a belief or sentiment shared by most people; the voice of the people</span> <span class="quot">"he asked for a poll of public opinion"</span></li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">the legal document stating the reasons for a judicial decision</span> <span class="quot">"opinions are usually written by a single judge"</span></li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">a message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof</span> <span class="quot">"his opinions appeared frequently on the editorial page"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Opinion</span> <span class="exp">Favorable estimation; hence, consideration; reputation; fame; public sentiment or esteem.</span> <span class="wuQuot">"Thou hast redeemed thy lost opinion ."</span><span class="wuQuot">"This gained Agricola much opinion , who . . . had made such early progress into laborious . . . enterprises."</span></li><li><span class="term">Opinion</span> <span class="exp">Obstinacy in holding to one's belief or impression; opiniativeness; conceitedness.</span> </li><li><span class="term">Opinion</span> <span class="exp">That which is opined; a notion or conviction founded on probable evidence; belief stronger than impression, less strong than positive knowledge; settled judgment in regard to any point of knowledge or action.</span> <span class="wuQuot">"Opinion is when the assent of the understanding is so far gained by evidence of probability, that it rather inclines to one persuasion than to another, yet not without a mixture of incertainty or doubting."</span><span class="wuQuot">"I can not put off my opinion so easily."</span></li><li><span class="term">Opinion</span> <span class="exp"><span class="wuFld">(Law)</span> The formal decision, or expression of views, of a judge, an umpire, a counselor, or other party officially called upon to consider and decide upon a matter or point submitted.</span> </li><li><span class="term">Opinion</span> <span class="exp">The judgment or sentiment which the mind forms of persons or things; estimation.</span> <span class="wuQuot">"I have bought golden opinions from all sorts of people."</span><span class="wuQuot">"Friendship . . . gives a man a peculiar right and claim to the good opinion of his friend."</span><span class="wuQuot">"However, I have no opinion of those things."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Opinion</span> <span class="exp">To opine.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">A judgment formed or a conclusion reached; especially, a judgment formed on evidence that does not produce knowledge or certainty; one's view of a matter; what one thinks, as distinguished from what one knows to be true.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">Specifically — The estimate which one forms regarding persons or things with reference to their character, qualities, etc.: as, to have a poor opinion of a man's honesty, or of the efficiency of some arrangement or contrivance; a poor opinion of one's self.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">Favorable judgment or estimate; estimation.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">Judgment or persuasion, held more or less intelligently or firmly; conviction: often in the plural: as, one's political opinions.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">A judgment or view regarded as influenced more by sentiment or feeling than by reason; especially, views so held by many at once, collectively regarded as constituting a social force which tends to control the minds of men and determine their action.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">Common notion or idea; belief.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">Rumor; report.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">A professional judgment on a case submitted for examination: as, a legal or medical opinion.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">Standing in the eyes of one's neighbors or society at large; reputation; especially, favorable reputation; credit.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">Dogmatism; opinionativeness.</span> </li><li><span class="tSpeech">n</span> <span class="term">opinion</span> <span class="exp">Synonyms Belief, Conviction, etc. (see persuasion); sentiment, notion, idea, view, impression.</span> </li><li><span class="term">opinion</span> <span class="exp">To think; opine.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Opinion</span> <span class="exp"><span class="itl">ō-pin′yun</span> one's belief, judgment: favourable estimation:</span> </li><li><span class="tSpeech">n</span> <span class="term">Opinion</span> <span class="exp"><span class="itl">ō-pin′yun</span> (<span class="itl">Shak.</span>) opinionativeness</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Les Brown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Les%20Brown.jpg" alt="Les%20Brown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Other people's opinion of you does not have to become your reality.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mark Twain</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mark%20Twain.jpg" alt="Mark%20Twain">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The public is the only critic whose opinion is worth anything at all.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Josh Billings</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Josh%20Billings.jpg" alt="Josh%20Billings">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There are two kinds of fools: those who can't change their opinions and those who won t.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John F. Kennedy</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/John%20F.%20Kennedy.jpg" alt="John%20F.%20Kennedy">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The unity of freedom has never relied on uniformity of opinion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William R. Alger</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William R. Alger">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Public opinion is a second conscience.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Les Brown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Les%20Brown.jpg" alt="Les%20Brown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Someone's opinion of you does not have to become your reality.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F., from L. <span class="wUets">opinio</span>,. See <span class="wUer">Opine</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						A sharp bombardment may, perhaps, make a change in public opinion, but I can only speak of the opinion of to-day.
+					</div>
+					<div class="uAuthor">
+						"Diary of the Besieged Resident in Paris" by <span>Henry Labouchère</span>					</div>
+										<div class="usage">
+						If the English opinion was favorable, the French might fairly be called enthusiastic.
+					</div>
+					<div class="uAuthor">
+						"James Fenimore Cooper" by <span>Thomas R. Lounsbury</span>					</div>
+										<div class="usage">
+						He assumes as facts things which are mere matters of opinion, and, I think, of erroneous and injurious opinion.
+					</div>
+					<div class="uAuthor">
+						"The Rise and Fall of the Confederate Government, Vol. 1 (of 2)" by <span>Jefferson Davis</span>					</div>
+										<div class="usage">
+						Various opinions have been expressed regarding the witch of Endor.
+					</div>
+					<div class="uAuthor">
+						"The Mysteries of All Nations" by <span>James Grant</span>					</div>
+										<div class="usage">
+						Her one idea of her position as Queen was to agree with any expression of opinion that fell from the King.
+					</div>
+					<div class="uAuthor">
+						"The Letters of Queen Victoria, Volume 1 (of 3), 1837-1843)" by <span>Queen Victoria</span>					</div>
+										<div class="usage">
+						Some conversations and opinions his papers preserve tend to throw light upon his course and character.
+					</div>
+					<div class="uAuthor">
+						"Memoir of the Life of John Quincy Adams." by <span>Josiah Quincy</span>					</div>
+										<div class="usage">
+						I should like to have your opinion.
+					</div>
+					<div class="uAuthor">
+						"The Hand in the Dark" by <span>Arthur J. Rees</span>					</div>
+										<div class="usage">
+						Opinions alter, manners change, creeds rise and fall, but the moral law is written on the tablets of eternity.
+					</div>
+					<div class="uAuthor">
+						"Short Studies on Great Subjects" by <span>James Anthony Froude</span>					</div>
+										<div class="usage">
+						The tumults in America I expected would have produced in Europe an unfavorable opinion of our political state.
+					</div>
+					<div class="uAuthor">
+						"The Writings of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						Still more recently, however, a revulsion of opinion has taken place.
+					</div>
+					<div class="uAuthor">
+						"The Mind and the Brain" by <span>Alfred Binet</span>					</div>
+										<div class="usage">
+						I am not aware of any other religious opinion which I owe to Dr. Whately.
+					</div>
+					<div class="uAuthor">
+						"Apologia Pro Vita Sua" by <span>John Henry Cardinal Newman</span>					</div>
+										<div class="usage">
+						Nobody holds a good opinion of a man who has a low opinion of himself.
+					</div>
+					<div class="uAuthor">
+						"Orley Farm" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						But to have a due regard to public opinion is one thing, and to make that opinion the principal rule of action, quite another.
+					</div>
+					<div class="uAuthor">
+						"The Young Man's Guide" by <span>William A. Alcott</span>					</div>
+										<div class="usage">
+						That opinion has long been abandoned.
+					</div>
+					<div class="uAuthor">
+						"Folkways" by <span>William Graham Sumner</span>					</div>
+										<div class="usage">
+						My opinion, so far as I have any opinion, is that what Ireland wants is to be let alone.
+					</div>
+					<div class="uAuthor">
+						"Gossamer" by <span>George A. Birmingham</span>					</div>
+										<div class="usage">
+						The Queen would not be sorry if these gentlemen knew that this is her opinion.
+					</div>
+					<div class="uAuthor">
+						"The Letters of Queen Victoria, Vol 2 (of 3), 1844-1853" by <span>Queen Victoria</span>					</div>
+										<div class="usage">
+						It may be well to trace briefly the fluctuations of public opinion, to which the career of Pitt stands in vital relation.
+					</div>
+					<div class="uAuthor">
+						"William Pitt and the Great War" by <span>John Holland Rose</span>					</div>
+										<div class="usage">
+						A man whose opinions at fifty are his opinions at fourteen has opinions of very little value.
+					</div>
+					<div class="uAuthor">
+						"Hours in a Library" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						Edith could only receive this in silence, and keep her own opinion to herself.
+					</div>
+					<div class="uAuthor">
+						"The Landleaguers" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						The great author of the Declaration himself has expressed that opinion uniformly and strongly.
+					</div>
+					<div class="uAuthor">
+						"Daniel Webster for Young Americans" by <span>Daniel Webster</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Bless'd be the princes who have fought<br>
+For pompous names or wide dominion,<br>
+Since by their error we are taught<br>
+That happiness is but opinion.
+							<div class="poet">"Written In The Nouveaux Interests Des Princes De L'Europe" by <span>Matthew Prior</span></div>
+						</div>
+											<div class="poemQuote">
+							So, he's been telling that yarn about mother!<br>
+Bless you! he tells it to every stranger:<br>
+Folks about yer say the old man's my father;<br>
+What's your opinion?
+							<div class="poet">"In The Mission Garden" by <span>Francis Bret Harte</span></div>
+						</div>
+											<div class="poemQuote">
+							Virtue and vice are names, not qualities,<br>
+And when the baffled cry that might is right,<br>
+No smug opinion from the unconscious skies<br>
+For doubtful virtue's sake shall hold them to their plight.
+							<div class="poet">"Reason And Honour " by <span>Eden Phillpotts</span></div>
+						</div>
+											<div class="poemQuote">
+							In this sacred retreat I my cares would confide,<br>
+And there my half-forming opinions should hide;<br>
+If true, gather strength for the brightness of day--<br>
+If false, in the shade, unreprov'd, die away!
+							<div class="poet">"Vignette - XVI" by <span>Matilda Betham</span></div>
+						</div>
+											<div class="poemQuote">
+							And that, in my opinion, is really very unjust;<br>
+But the time is not far distant, I most earnestly trust,<br>
+When women will have a parliamentary vote,<br>
+And many of them, I hope, will wear a better petticoat. 
+							<div class="poet">"Women's Suffrage" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							This owd Tommy Towers (by that name he were known)<br>
+Had an owd carrion tit that were sheer skin an' bone;<br>
+To have killed him for t' curs wad have bin quite as well,<br>
+But 't were Tommy's opinion he'd dee on himsel!
+							<div class="poet">"The Yorkshire Horse Dealers" by <span>Anonymous British</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We're talking about political opinions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/denakouremetis/2012/10/08/airing-political-views-may-cause-self-employed-to-lose-hard-earned-clientele/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Any opinion or random thought can be posted and shared in seconds.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.spencermagnet.com/content/column-world-cluttered-words-what-are-you-saying-about-yourself" target="_blank" rel="external nofollow">spencermagnet.com</a>
+					</div>
+										<div class="usage">
+						What's your opinion of it.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/health/20120709_Precancerous_breast_lump_requires_vigilance__green_coffee_bean_diet_may_work.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						The Wemstroms are writers appearing on The Journal-Standard's Opinion page.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.journalstandard.com/wemstroms/x639967262/The-ubiquitous-coffee-mug" target="_blank" rel="external nofollow">journalstandard.com</a>
+					</div>
+										<div class="usage">
+						OPINION Once again, Lebanese civilians are getting blasted, killed, and bombed by high-tech American weapons because Israel is angry and lashing out.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfbg.com/2006/07/25/all-lebanon-collateral-damage" target="_blank" rel="external nofollow">sfbg.com</a>
+					</div>
+										<div class="usage">
+						DID LINCOLN DISCARD HIS RACIAL PREJUDICES AFTER THE EMANCIPATION PROCLAMATION AS POPULAR OPINION SUGGESTS.
+					</div>
+					<div class="uAuthor">
+						<a href="http://americanfreepress.net/html/ColonizationAfterEmancipation.html" target="_blank" rel="external nofollow">americanfreepress.net</a>
+					</div>
+										<div class="usage">
+						Veterans' sacrifices crossed color line, even in an era of segregation (opinion from Jim Noles).
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/birmingham-news-commentary/2012/11/veterans_sacrifices_crossed_co.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						Public opinion has come around .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rollingstone.com/politics/lists/9-signs-that-pot-legalization-is-coming-soon-20120928/public-opinion-has-come-around-19691231" target="_blank" rel="external nofollow">rollingstone.com</a>
+					</div>
+										<div class="usage">
+						As a married woman I have wanted for some months now to respond to the many opinions I have read in the daily newspapers both for and against same-sex marriage in Massachusetts.
+					</div>
+					<div class="uAuthor">
+						<a href="http://jamaicaplaingazette.com/2006/12/01/legislature%E2%80%99s_votes_correct_and_commendable/" target="_blank" rel="external nofollow">jamaicaplaingazette.com</a>
+					</div>
+										<div class="usage">
+						It is interesting to read the great variance of expert opinion about the success or failure of running our schools.
+					</div>
+					<div class="uAuthor">
+						<a href="http://newstimes.augusta.com/opinion/letters/2012-10-03/parents-are-common-denominator-in-student-success" target="_blank" rel="external nofollow">newstimes.augusta.com</a>
+					</div>
+										<div class="usage">
+						Leave Granted – Do common-law corporate doctrines survive Nonprofit Corp. Search for opinions, news and archives.
+					</div>
+					<div class="uAuthor">
+						<a href="http://milawyersweekly.com/news/2012/11/13/leave-granted-do-common-law-corporate-doctrines-survive-nonprofit-corp-act/" target="_blank" rel="external nofollow">milawyersweekly.com</a>
+					</div>
+										<div class="usage">
+						OPINION Hoping RGIII got a healthy scare.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/sports/redskins/rams-might-need-group-effort-to-compensate-for-loss-of-wr-danny-amendola/2012/10/11/00eb8124-138b-11e2-9a39-1f5a7f6fe945_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						OPINION Rotation has to turn it on.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/sports/redskins/rams-might-need-group-effort-to-compensate-for-loss-of-wr-danny-amendola/2012/10/11/00eb8124-138b-11e2-9a39-1f5a7f6fe945_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Bar exam passers weren't showing 'minimum competence in Mich. Search for opinions, news and archives.
+					</div>
+					<div class="uAuthor">
+						<a href="http://milawyersweekly.com/news/2012/11/17/bar-exam-passers-werent-showing-minimum-competence-in-michigan-law/" target="_blank" rel="external nofollow">milawyersweekly.com</a>
+					</div>
+										<div class="usage">
+						Press Releases BB&amp;T's employee benefits consulting firm earns coveted unqualified SSAE 16 Type II audit opinion.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.drj.com/industry/press-releases/bbats-employee-benefits-consulting-firm-earns-coveted-unqualified-ssae-16-type-ii-audit-opinion.html" target="_blank" rel="external nofollow">drj.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The model thus describes the spread of opinions among traders. 
+					</div>
+					<div class="uAuthor">
+						A simple model of price formation
+					</div>
+										<div class="usage">
+						The model thus describes the spread of opinions. 
+					</div>
+					<div class="uAuthor">
+						A simple model of price formation
+					</div>
+										<div class="usage">
+						Several other scientists also reject the ma jority opinion. 
+					</div>
+					<div class="uAuthor">
+						Quantum theory and the role of mind in nature
+					</div>
+										<div class="usage">
+						In our opinion, Dhar’s result is a consequence of autocorrelations due to ﬁnite size effects. 
+					</div>
+					<div class="uAuthor">
+						Reply to comment on "Simple one-dimensional model of heat conduction which obeys Fourier's law"
+					</div>
+										<div class="usage">
+						In proofs we omit some technical details when they do not contain in our opinion any nontrivial idea. 
+					</div>
+					<div class="uAuthor">
+						Random groups in the optical waveguides theory
+					</div>
+										<div class="usage">
+						Owing to this situation, the choice between the two alternatives has been largely a matter of opinion of the various authors. 
+					</div>
+					<div class="uAuthor">
+						Modern Stellar Evolution Models for Low Mass Stars
+					</div>
+										<div class="usage">
+						It is our opinion that the reduction in the conductance does not necessarily mean that all waves are actually localized. 
+					</div>
+					<div class="uAuthor">
+						Are waves all localized in two dimensional random media?
+					</div>
+										<div class="usage">
+						Such opinion is prevailing in physics already from the Einstein ﬁrst paper on SR . 
+					</div>
+					<div class="uAuthor">
+						The Proof that the Standard Transformations of E and B are not the Lorentz Transformations. Clifford Algebra Formalism
+					</div>
+										<div class="usage">
+						In our opinion, the approach and the conclusions of Ref. are wrong and here we present why it is so. 
+					</div>
+					<div class="uAuthor">
+						Comment on ``London Theory for Superconducting Phase Transitions in External Magnetic Fields: Application to $\text{UPt}_{3}$''
+					</div>
+										<div class="usage">
+						This paper, in our opinion, sets challenges for the scientists, and we shall discuss how to address some of these challenges. 
+					</div>
+					<div class="uAuthor">
+						From Knowledge, Knowability and the Search for Objective Randomness to a New Vision of Complexity
+					</div>
+										<div class="usage">
+						This plan causes dp2 to win, which is a desirable outcome, in our opinion. 
+					</div>
+					<div class="uAuthor">
+						Dialogue as Discourse: Controlling Global Properties of Scripted Dialogue
+					</div>
+										<div class="usage">
+						Our opinion remains that coherent continuous-wave conversion can only be achieved by a diﬃcult-to-impossible balance of laser intensity and condensate density. 
+					</div>
+					<div class="uAuthor">
+						Improved efficiency of stimulated Raman adiabatic passage in photoassociation of a Bose-Einstein condensate
+					</div>
+										<div class="usage">
+						In our opinion it is not a proper way to study dynamical systems. 
+					</div>
+					<div class="uAuthor">
+						Geometry of Dynamical Systems
+					</div>
+										<div class="usage">
+						In my opinion, this provides substantial evidence for the “GW=DT” correspondence. 
+					</div>
+					<div class="uAuthor">
+						Random surfaces enumerating algebraic curves
+					</div>
+										<div class="usage">
+						In our opinion the only further reduction in possible diffusions (ξ , M) are regularity requirements on the homogenous function A. 
+					</div>
+					<div class="uAuthor">
+						On Chordal and Bilateral SLE in multiply connected domains
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the reason for a court's judgment (as opposed to the decision itself)"><a href="ruling.html">ruling</a>, </div><div class="synGroup" title="a personal belief or judgment that is not founded on proof or certainty"><a href="sentiment.html">sentiment</a>, <a href="persuasion.html">persuasion</a>, <a href="view.html">view</a>, <a href="thought.html">thought</a>, </div><div class="synGroup" title="a belief or sentiment shared by most people; the voice of the people"><a href="public%20opinion.html">public opinion</a>, <a href="popular%20opinion.html">popular opinion</a>, <a href="vox%20populi.html">vox populi</a>, </div><div class="synGroup" title="the legal document stating the reasons for a judicial decision"><a href="legal%20opinion.html">legal opinion</a>, <a href="judgment.html">judgment</a>, <a href="judgement.html">judgement</a>, </div><div class="synGroup" title="a message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof"><a href="view.html">view</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="belief.html">belief</a>, <a href="content.html">content</a>, <a href="idea.html">idea</a>, <a href="instrument.html">instrument</a>, <a href="judgement.html">judgement</a>, <a href="judgment.html">judgment</a>, <a href="judicial%20decision.html">judicial decision</a>, <a href="legal%20document.html">legal document</a>, <a href="legal%20instrument.html">legal instrument</a>, <a href="message.html">message</a>, <a href="official%20document.html">official document</a>, <a href="subject%20matter.html">subject matter</a>, <a href="substance.html">substance</a>, <a href="thought.html">thought</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="adverse%20opinion.html">adverse opinion</a>, <a href="concurring%20opinion.html">concurring opinion</a>, <a href="conjecture.html">conjecture</a>, <a href="dictum.html">dictum</a>, <a href="dissenting%20opinion.html">dissenting opinion</a>, <a href="effect.html">effect</a>, <a href="eyes.html">eyes</a>, <a href="fatwa.html">fatwa</a>, <a href="fatwah.html">fatwah</a>, <a href="first%20blush.html">first blush</a>, <a href="guess.html">guess</a>, <a href="hunch.html">hunch</a>, <a href="hypothesis.html">hypothesis</a>, <a href="idea.html">idea</a>, <a href="intuition.html">intuition</a>, <a href="judgement.html">judgement</a>, <a href="judgment.html">judgment</a>, <a href="majority%20opinion.html">majority opinion</a>, <a href="mind.html">mind</a>, <a href="obiter%20dictum.html">obiter dictum</a>, <a href="parti%20pris.html">parti pris</a>, <a href="pole.html">pole</a>, <a href="political%20sympathies.html">political sympathies</a>, <a href="politics.html">politics</a>, <a href="position.html">position</a>, <a href="preconceived%20idea.html">preconceived idea</a>, <a href="preconceived%20notion.html">preconceived notion</a>, <a href="preconceived%20opinion.html">preconceived opinion</a>, <a href="preconception.html">preconception</a>, <a href="prepossession.html">prepossession</a>, <a href="presence.html">presence</a>, <a href="side.html">side</a>, <a href="speculation.html">speculation</a>, <a href="supposition.html">supposition</a>, <a href="surmisal.html">surmisal</a>, <a href="surmise.html">surmise</a>, <a href="suspicion.html">suspicion</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="impressionistic.html">impressionistic</a>, <a href="opine.html">opine</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absurd.html">absurd</a>, <a href="accede.html">accede</a>, <a href="Accidentalism.html">Accidentalism</a>, <a href="accord.html">accord</a>, <a href="accordance.html">accordance</a>, <a href="account.html">account</a>, <a href="acquiesce.html">acquiesce</a>, <a href="adduce.html">adduce</a>, <a href="adhere.html">adhere</a>, <a href="adherent.html">adherent</a>, <a href="adhesion.html">adhesion</a>, <a href="adjudge.html">adjudge</a>, <a href="admire.html">admire</a>, <a href="adopt.html">adopt</a>, <a href="adultery.html">adultery</a>, <a href="advance.html">advance</a>, <a href="adverse%20opinion.html">adverse opinion</a>, <a href="advice.html">advice</a>, <a href="advise.html">advise</a>, <a href="advisory.html">advisory</a>, <a href="Against.html">Against</a>, <a href="agitate.html">agitate</a>, <a href="agree.html">agree</a>, <a href="agreed.html">agreed</a>, <a href="agreement.html">agreement</a>, <a href="air.html">air</a>, <a href="alien.html">alien</a>, <a href="allow.html">allow</a>, <a href="alpha.html">alpha</a>, <a href="alter.html">alter</a>, <a href="Anac%C5%93nosis.html">Anacœnosis</a>, <a href="anarchy.html">anarchy</a>, <a href="angle.html">angle</a>, <a href="Anglo-Israelite%20theory.html">Anglo-Israelite theory</a>, <a href="animadvert.html">animadvert</a>, <a href="announce.html">announce</a>, <a href="anticipation.html">anticipation</a>, <a href="Antipathize.html">Antipathize</a>, <a href="aphorism.html">aphorism</a>, <a href="apostate.html">apostate</a>, <a href="appear.html">appear</a>, <a href="appreciate.html">appreciate</a>, <a href="appreciative.html">appreciative</a>, <a href="apprehend.html">apprehend</a>, <a href="apprehension.html">apprehension</a>, <a href="approval.html">approval</a>, <a href="arbor.html">arbor</a>, <a href="Areopagus.html">Areopagus</a>, <a href="argue.html">argue</a>, <a href="assent.html">assent</a>, <a href="Assentation.html">Assentation</a>, <a href="at%20loggerheads.html">at loggerheads</a>, <a href="At%20one.html">At one</a>, <a href="Athanasian%20Creed.html">Athanasian Creed</a>, <a href="atonement.html">atonement</a>, <a href="attitude.html">attitude</a>, <a href="authority.html">authority</a>, <a href="authorize.html">authorize</a>, <a href="Avis.html">Avis</a>, <a href="back.html">back</a>, <a href="backpedal.html">backpedal</a>, <a href="bar.html">bar</a>, <a href="belief.html">belief</a>, <a href="believe.html">believe</a>, <a href="belittle.html">belittle</a>, <a href="bench.html">bench</a>, <a href="bet.html">bet</a>, <a href="bigot.html">bigot</a>, <a href="bigoted.html">bigoted</a>, <a href="bigotry.html">bigotry</a>, <a href="blockhead.html">blockhead</a>, <a href="boast.html">boast</a>, <a href="bonehead.html">bonehead</a>, <a href="bow.html">bow</a>, <a href="breath.html">breath</a>, <a href="bring.html">bring</a>, <a href="bring%20around.html">bring around</a>, <a href="bring%20round.html">bring round</a>, <a href="broach.html">broach</a>, <a href="brow.html">brow</a>, <a href="Cacodoxy.html">Cacodoxy</a>, <a href="candid.html">candid</a>, <a href="canvass.html">canvass</a>, <a href="canvasser.html">canvasser</a>, <a href="caprice.html">caprice</a>, <a href="capriciousness.html">capriciousness</a>, <a href="carry.html">carry</a>, <a href="censure.html">censure</a>, <a href="certificate.html">certificate</a>, <a href="challenge.html">challenge</a>, <a href="Chamber%20counsel.html">Chamber counsel</a>, <a href="Chamber%20counselor.html">Chamber counselor</a>, <a href="Change%20one%27s%20mind.html">Change one's mind</a>, <a href="chiliast.html">chiliast</a>, <a href="circumstantial%20evidence.html">circumstantial evidence</a>, <a href="civil%20liberty.html">civil liberty</a>, <a href="claim.html">claim</a>, <a href="cling.html">cling</a>, <a href="Clithral.html">Clithral</a>, <a href="coincide.html">coincide</a>, <a href="Coincider.html">Coincider</a>, <a href="come%20around.html">come around</a>, <a href="come%20round.html">come round</a>, <a href="Come-outer.html">Come-outer</a>, <a href="comity%20of%20nations.html">comity of nations</a>, <a href="commend.html">commend</a>, <a href="commendation.html">commendation</a>, <a href="comment.html">comment</a>, <a href="commit.html">commit</a>, <a href="Common-sense.html">Common-sense</a>, <a href="commonsensible.html">commonsensible</a>, <a href="con.html">con</a>, <a href="conceit.html">conceit</a>, <a href="conceited.html">conceited</a>, <a href="conceive.html">conceive</a>, <a href="conceptualism.html">conceptualism</a>, <a href="Conceptualist.html">Conceptualist</a>, <a href="conclude.html">conclude</a>, <a href="conclusion.html">conclusion</a>, <a href="conclusiveness.html">conclusiveness</a>, <a href="concordant.html">concordant</a>, <a href="concur.html">concur</a>, <a href="concurrence.html">concurrence</a>, <a href="concurrent.html">concurrent</a>, <a href="concurring.html">concurring</a>, <a href="concurring%20opinion.html">concurring opinion</a>, <a href="confidently.html">confidently</a>, <a href="confirm.html">confirm</a>, <a href="confirmation.html">confirmation</a>, <a href="conformity.html">conformity</a>, <a href="conjectural.html">conjectural</a>, <a href="conjecture.html">conjecture</a>, <a href="Conjecturer.html">Conjecturer</a>, <a href="consensus.html">consensus</a>, <a href="consent.html">consent</a>, <a href="Consentience.html">Consentience</a>, <a href="consentient.html">consentient</a>, <a href="consideration.html">consideration</a>, <a href="consult.html">consult</a>, <a href="Consultary%20response.html">Consultary response</a>, <a href="contain.html">contain</a>, <a href="contemptible.html">contemptible</a>, <a href="Continentalism.html">Continentalism</a>, <a href="Controvertible.html">Controvertible</a>, <a href="convention.html">convention</a>, <a href="convert.html">convert</a>, <a href="conviction.html">conviction</a>, <a href="correct.html">correct</a>, <a href="Councilist.html">Councilist</a>, <a href="counsel.html">counsel</a>, <a href="Counterview.html">Counterview</a>, <a href="crawfish.html">crawfish</a>, <a href="creation.html">creation</a>, <a href="credit.html">credit</a>, <a href="crotchet.html">crotchet</a>, <a href="crystallize.html">crystallize</a>, <a href="currency.html">currency</a>, <a href="current.html">current</a>, <a href="decide.html">decide</a>, <a href="decided.html">decided</a>, <a href="decision.html">decision</a>, <a href="decisive.html">decisive</a>, <a href="declaration.html">declaration</a>, <a href="declare.html">declare</a>, <a href="decree.html">decree</a>, <a href="deduce.html">deduce</a>, <a href="deem.html">deem</a>, <a href="defer.html">defer</a>, <a href="deference.html">deference</a>, <a href="defy.html">defy</a>, <a href="deist.html">deist</a>, <a href="deliberate.html">deliberate</a>, <a href="deliberative.html">deliberative</a>, <a href="deliverance.html">deliverance</a>, <a href="delusion.html">delusion</a>, <a href="deposition.html">deposition</a>, <a href="deprecate.html">deprecate</a>, <a href="deprecation.html">deprecation</a>, <a href="deprecatory.html">deprecatory</a>, <a href="derogative.html">derogative</a>, <a href="derogatory.html">derogatory</a>, <a href="despise.html">despise</a>, <a href="determination.html">determination</a>, <a href="device.html">device</a>, <a href="devolution.html">devolution</a>, <a href="dialectic.html">dialectic</a>, <a href="dichotomy.html">dichotomy</a>, <a href="dictum.html">dictum</a>, <a href="differ.html">differ</a>, <a href="difference.html">difference</a>, <a href="difficult.html">difficult</a>, <a href="difficulty.html">difficulty</a>, <a href="disagree.html">disagree</a>, <a href="disagreement.html">disagreement</a>, <a href="disapprove.html">disapprove</a>, <a href="disbelief.html">disbelief</a>, <a href="discuss.html">discuss</a>, </div></div></div></div>

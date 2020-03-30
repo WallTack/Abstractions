@@ -1,0 +1,504 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>mediocrity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">mediocrity</span> <span class="exp">ordinariness as a consequence of being average and not outstanding</span> </li><li><span class="tSpeech">n</span> <span class="term">mediocrity</span> <span class="exp">a person of second-rate ability or value</span> <span class="quot">"a team of aging second-raters","shone among the mediocrities who surrounded him"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Mediocrity</span> <span class="exp">A mediocre person; -- used disparagingly.</span> </li><li><span class="term">Mediocrity</span> <span class="exp">Moderation; temperance.</span> </li><li><span class="term">Mediocrity</span> <span class="exp">The quality of being mediocre; a middle state or degree; a moderate degree or rate.</span> <span class="wuQuot">"A mediocrity of success."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">mediocrity</span> <span class="exp">The character or state of being mediocre; a middle state or degree; a moderate degree or rate; specifically, a moderate degree of mental ability.</span> </li><li><span class="tSpeech">n</span> <span class="term">mediocrity</span> <span class="exp">Moderation; temperance.</span> </li><li><span class="tSpeech">n</span> <span class="term">mediocrity</span> <span class="exp">A mediocre person; one of moderate capacity or ability; hence, a person of little note or repute; one who is little more than a nobody.</span> </li><li><span class="tSpeech">n</span> <span class="term">mediocrity</span> <span class="exp">Synonyms Medium, Average, etc. See mean, n.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Mediocrity</span> <span class="exp">a middle state or condition: a moderate degree: a person of little power or importance</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Natalie Clifford Barney</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Natalie%20Clifford%20Barney.jpg" alt="Natalie%20Clifford%20Barney">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Renouncement: the heroism of mediocrity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Michael Caine</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Michael Caine">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“First of all, I choose the great [roles], and if none of these come, I choose the mediocre ones, and if they don't come, I choose the ones that pay the rent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Logan Pearsall Smith</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Logan%20Pearsall%20Smith.jpg" alt="Logan%20Pearsall%20Smith">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A best-seller is the golden touch of mediocre talent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James F. Cooper</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20F.%20Cooper.jpg" alt="James%20F.%20Cooper">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The tendency of democracies is, in all things, to mediocrity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Hugh Blair</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Hugh Blair">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Only mediocrity of enjoyment is allowed to man.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">W. Somerset Maugham</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/W.%20Somerset%20Maugham.jpg" alt="W.%20Somerset%20Maugham">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Only a mediocre person is always at his best.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">médiocrité</span>, L. <span class="wUets">mediocritas</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>mediocris</i>—<i>medius</i>, middle.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Doctors and kind relations will succeed in stupefying mankind, in making mediocrity pass for genius and in bringing civilisation to ruin.
+					</div>
+					<div class="uAuthor">
+						"The Lady With The Dog and Other Stories" by <span>Anton Chekhov</span>					</div>
+										<div class="usage">
+						The insolent triumph of the mediocre adds to this sadness.
+					</div>
+					<div class="uAuthor">
+						"Library Of The World's Best Literature, Ancient And Modern, Vol. 5" by <span>Various</span>					</div>
+										<div class="usage">
+						Feeling no slightest passion, her very mediocre intellect proved often more than a match for the cleverest.
+					</div>
+					<div class="uAuthor">
+						"Halcyone" by <span>Elinor Glyn</span>					</div>
+										<div class="usage">
+						To men whose talents are above mediocrity we speak of superior things.
+					</div>
+					<div class="uAuthor">
+						"The Worlds Greatest Books, Volume XIII." by <span>Various</span>					</div>
+										<div class="usage">
+						The poetry of this work does not rise above mediocrity, and is not equal in thought or vigour to the Epitaph on Shakspeare.
+					</div>
+					<div class="uAuthor">
+						"Notes &amp; Queries, No. 19, Saturday, March 9, 1850" by <span>Various</span>					</div>
+										<div class="usage">
+						Synagogue hymns, but these were mediocre in merit.
+					</div>
+					<div class="uAuthor">
+						"Chapters on Jewish Literature" by <span>Israel Abrahams</span>					</div>
+										<div class="usage">
+						But in a positive sense, the Civil Service is merely a guarantee of mediocrity.
+					</div>
+					<div class="uAuthor">
+						"Socialism and American ideals" by <span>William Starr Myers</span>					</div>
+										<div class="usage">
+						On the other hand, a mediocre book (from the point of view of literature or history) is no excuse for a mediocre review.
+					</div>
+					<div class="uAuthor">
+						"The Art of Letters" by <span>Robert Lynd</span>					</div>
+										<div class="usage">
+						The inevitable result of this tendency is to drive them into association with mediocrity.
+					</div>
+					<div class="uAuthor">
+						"Poise: How to Attain It" by <span>D. Starke</span>					</div>
+										<div class="usage">
+						Oh, I say, you know, you could reduce some very great poets to mediocrity by striking their average.
+					</div>
+					<div class="uAuthor">
+						"The Divine Fire" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						For mediocre critics are usually safe in their generalities; it is in their reasons and examples that they come so lamentably to grief.
+					</div>
+					<div class="uAuthor">
+						"Reviews" by <span>Oscar Wilde</span>					</div>
+										<div class="usage">
+						And one certainly associates a dead level of respectable mediocrity with much school work.
+					</div>
+					<div class="uAuthor">
+						"The Practice and Science Of Drawing" by <span>Harold Speed</span>					</div>
+										<div class="usage">
+						His essay is the apotheosis of social mediocrity.
+					</div>
+					<div class="uAuthor">
+						"The Life of Napoleon I (Volumes, 1 and 2)" by <span>John Holland Rose</span>					</div>
+										<div class="usage">
+						Why will you talk of the mediocrity of your fortune?
+					</div>
+					<div class="uAuthor">
+						"The History of Emily Montague" by <span>Frances Brooke</span>					</div>
+										<div class="usage">
+						Democracy, they tell us, is afflicted by mediocrity and by sterility.
+					</div>
+					<div class="uAuthor">
+						"The Art of Public Speaking" by <span>Dale Carnagey (AKA Dale Carnegie) and J. Berg Esenwein</span>					</div>
+										<div class="usage">
+						Will a mind of great capacity be reduced to mediocrity by the ill choice of a profession?
+					</div>
+					<div class="uAuthor">
+						"Curiosities of Literature, Vol. II (of 3)" by <span>Isaac  Disraeli</span>					</div>
+										<div class="usage">
+						We tried to place in each section an equal number of bright and mediocre and dull pupils, so that the conditions would be equalized.
+					</div>
+					<div class="uAuthor">
+						"Craftsmanship in Teaching" by <span>William Chandler Bagley</span>					</div>
+										<div class="usage">
+						No mediocre man ever was a great leader in the historic sense.
+					</div>
+					<div class="uAuthor">
+						"The Young Man and the World" by <span>Albert J. Beveridge</span>					</div>
+										<div class="usage">
+						With regard to virtue and vice, a certain mediocrity prevails.
+					</div>
+					<div class="uAuthor">
+						"Theodicy" by <span>G. W. Leibniz</span>					</div>
+										<div class="usage">
+						Separation merely meant mediocrity for Great Britain, but for the Colonies it meant ruin.
+					</div>
+					<div class="uAuthor">
+						"Life of Adam Smith" by <span>John Rae</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Standing in a garden<br>
+in hot sun<br>
+sipping a mediocre wine;<br>
+talk talk talk.
+							<div class="poet">"In a Garden" by <span>Raymond Queneau</span></div>
+						</div>
+											<div class="poemQuote">
+							Could such a mediocre<br>
+Fisherman harvest? I think not!<br>
+The sea at Ise<br>
+Sends waves high upon the shore<br>
+Where the algae grows!
+							<div class="poet">"Could such a mediocre Fisherman" by <span>Ise</span></div>
+						</div>
+											<div class="poemQuote">
+							Your state to ours is contrary,<br>
+That makes you think us poor,<br>
+So Black-moors think us foul, and we<br>
+Are quit with them, and more,<br>
+Nothing can see<br>
+And judge of things but mediocrity.
+							<div class="poet">"A Paradox, That The Sick Are In A Better Case Than The Whole" by <span>George Herbert</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Justin Bieber's Believe: A mature , if mediocre, step.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/entertainment/music/article/1213460--justin-bieber-s-believe-a-mature-if-mediocre-step" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						For a long time, William McKinley was considered a mediocre President, a chief executive who was controlled by his political cronies and who was pressured into war with Spain by the press.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/info/william-mckinley/?inline=nyt-per" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Justin Bieber's Believe: A mature, if mediocre , step.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thestar.com/entertainment/music/article/1213460--justin-bieber-s-believe-a-mature-if-mediocre-step" target="_blank" rel="external nofollow">thestar.com</a>
+					</div>
+										<div class="usage">
+						Minnesota Vikings' Adrian Peterson in good-RB mediocre -QB company.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.twincities.com/sports/ci_22154886/minnesota-vikings-adrian-peterson-good-rb-mediocre-qb?source=pkg" target="_blank" rel="external nofollow">twincities.com</a>
+					</div>
+										<div class="usage">
+						Maybe Texans accept mediocre schools.
+					</div>
+					<div class="uAuthor">
+						<a href="http://star-telegram.com/2012/11/22/4433269/judge-maybe-texans-accept-mediocre.html" target="_blank" rel="external nofollow">star-telegram.com</a>
+					</div>
+										<div class="usage">
+						Yesterdog gets mediocre 'OK' rating from USA Today food critic.
+					</div>
+					<div class="uAuthor">
+						<a href="http://mlive.com/movies/index.ssf/2012/11/yesterdog_gets_mediocre_ok_rat.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						Aqib Talib hopes to shore up Patriots mediocre pass defense in debut Sunday against Colts.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/sports/redskins/aqib-talib-hopes-to-shore-up-patriots-mediocre-pass-defense-in-debut-sunday-against-colts/2012/11/15/f4b01216-2f8d-11e2-af17-67abba0676e2_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Taylor Swift's Red offers an overall mediocre sound.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/entertainment/music/Review+Taylor+Swift+offers+overall+mediocre+sound/7427457/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						I don't want to be a traitor to my generation, but is there anyone less inspiring than the Mediocre White Kid.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnonline.com/2012/oct/20/mediocre-white-kids-and-college-educations" target="_blank" rel="external nofollow">tnonline.com</a>
+					</div>
+										<div class="usage">
+						Why is He So Mediocre in Video Games.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnr.com/article/books-and-arts/108901/james-bond-great-in-books-and-movies-why-he-so-mediocre-in-video-games" target="_blank" rel="external nofollow">tnr.com</a>
+					</div>
+										<div class="usage">
+						Foles' mediocrity adds to Reid's woes (video).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pottsmerc.com/apps/pbcs.dll/article?AID=/20121112/SPORTS03/121119858" target="_blank" rel="external nofollow">pottsmerc.com</a>
+					</div>
+										<div class="usage">
+						Cougars look to snap a cycle of mediocrity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theolympian.com/2012/10/30/2302233/cougars-look-to-snap-a-cycle-of.html" target="_blank" rel="external nofollow">theolympian.com</a>
+					</div>
+										<div class="usage">
+						 Mediocrity is the rule in AFC so far.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.buffalonews.com/apps/pbcs.dll/article?AID=/20121017/SPORTS/121019338/two-bills-drive" target="_blank" rel="external nofollow">buffalonews.com</a>
+					</div>
+										<div class="usage">
+						Lack of star power keeping 2012 Red Sox mired in mediocrity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.weei.com/sports/boston/baseball/red-sox/alex-speier/2012/07/10/lack-star-power-keeping-2012-red-sox-mired-med" target="_blank" rel="external nofollow">weei.com</a>
+					</div>
+										<div class="usage">
+						'You're trained for excellence, don't deliver mediocrity '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailypress.com/news/breaking/dp-nws-cnu-graduation-2012-20120512,0,3787202.story" target="_blank" rel="external nofollow">dailypress.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						However, when applied to the entire shape of the empirical distribution, the power law would produce a rather mediocre ﬁt and would be outperformed by other candidate processes like the lognormal or Gamma distributions. 
+					</div>
+					<div class="uAuthor">
+						Emergent Statistical Wealth Distributions in Simple Monetary Exchange Models: A Critical Review
+					</div>
+										<div class="usage">
+						However screen readers only exist for the Windows operation system and their performance is reported to be mediocre in combination with Flash. 
+					</div>
+					<div class="uAuthor">
+						Analysis of Using Browser-native Technology to Build Rich Internet Applications for Image Manipulation
+					</div>
+										<div class="usage">
+						Kernel methods scale with an already mediocre time complexity of at least O(N 2.3 ) with respect to the size N of the training set, but combining multiple kernels or learning the hyperparameters of a single kernel signiﬁcantly slows down training. 
+					</div>
+					<div class="uAuthor">
+						Learning Random Kernel Approximations for Object Recognition
+					</div>
+										<div class="usage">
+						However, my advanced mathematics skills are mediocre at best so these avenues are still left open in this letter. 
+					</div>
+					<div class="uAuthor">
+						The quantum vacuum, fractal geometry, and the quest for a new theory of gravity
+					</div>
+										<div class="usage">
+						Watts concludes, that ’physicists may be marvelous technicians, but they are mediocre sociologists’. 
+					</div>
+					<div class="uAuthor">
+						Around the gap between sociophysics and sociology
+					</div>
+										<div class="usage">
+						For example, CLO deals managed by a reputable manager often command a sizable premium comparing to those managed by a mediocre manager. 
+					</div>
+					<div class="uAuthor">
+						A Top-down Model for Cash CLO
+					</div>
+										<div class="usage">
+						An adjective can imply positive meaning, like ‘excellent’, negative meaning, like ‘poor’ and neutral meaning, like ‘mediocre’. 
+					</div>
+					<div class="uAuthor">
+						Opinion Polarity Identification through Adjectives
+					</div>
+										<div class="usage">
+						Table 4: Sample input for learning Naïve Bayesian classifier. The input is a set of tuples containing similarity values to (excellent, mediocre, poor) computed by SynSim and StemSim. 
+					</div>
+					<div class="uAuthor">
+						Opinion Polarity Identification through Adjectives
+					</div>
+										<div class="usage">
+						Secondly, an intriguing line of argument by Weinberg and collaborators is that, due to a ‘Principle of Mediocrity’ espoused by Vilenkin, Λ is not likely to be much smaller than the limit allowing galaxies to form. 
+					</div>
+					<div class="uAuthor">
+						Editorial note to "Large number coincidences and the anthropic principle in cosmology"
+					</div>
+										<div class="usage">
+						This is an example of use of SAP as an explanatory principle, but depends on the additional assumption of the Principle of Mediocrity – an unveriﬁable philosophical principle. 
+					</div>
+					<div class="uAuthor">
+						Editorial note to "Large number coincidences and the anthropic principle in cosmology"
+					</div>
+										<div class="usage">
+						In particular, the non-linearity of photographic plates and mediocre seeing conditions are probably fatal to the detection of this effect, owing to its smallness. 
+					</div>
+					<div class="uAuthor">
+						Weak Gravitational Lensing
+					</div>
+										<div class="usage">
+						As we have mentioned earlier, the log-normal distribution is a mediocre ﬁt to the PDFs of high-mass clusters, and a better understanding of their shapes is required in order to fully assess their impact on temperature number counts. 
+					</div>
+					<div class="uAuthor">
+						An expanded merger-tree description of cluster evolution
+					</div>
+										<div class="usage">
+						There is room for such arguments and and there is also room for a distinction between good, mediocre, and bad arguments from authority. 
+					</div>
+					<div class="uAuthor">
+						Dialectical Roots for Interest Prohibition Theory
+					</div>
+										<div class="usage">
+						We observed empirically that for a ﬁxed Σ this approach does well at minimizing the ob jective, but that the solution can be very sensitive to mediocre estimates of Σ. 
+					</div>
+					<div class="uAuthor">
+						Correcting gene expression data when neither the unwanted variation nor the factor of interest are observed
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="individual.html">individual</a>, <a href="mortal.html">mortal</a>, <a href="mundaneness.html">mundaneness</a>, <a href="mundanity.html">mundanity</a>, <a href="ordinariness.html">ordinariness</a>, <a href="person.html">person</a>, <a href="somebody.html">somebody</a>, <a href="someone.html">someone</a>, <a href="soul.html">soul</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="average.html">average</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="averageness.html">averageness</a>, <a href="indifference.html">indifference</a>, <a href="mean.html">mean</a>, <a href="mediocre.html">mediocre</a>, <a href="Middlingness.html">Middlingness</a>, <a href="passable.html">passable</a>, <a href="regression.html">regression</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					nediocrity, jediocrity, kediocrity, mwdiocrity, msdiocrity, mddiocrity, mrdiocrity, mesiocrity, meeiocrity, mefiocrity, meciocrity, mexiocrity, mesiocrity, meduocrity, medjocrity, medkocrity, medoocrity, mediicrity, medikcrity, medilcrity, medipcrity, medioxrity, mediodrity, mediofrity, mediovrity, medioceity, mediocdity, mediocfity, medioctity, mediocruty, mediocrjty, mediocrkty, mediocroty, mediocriry, mediocrify, mediocrigy, mediocriyy, mediocritt, mediocritg, mediocrith, mediocritu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

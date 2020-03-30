@@ -1,0 +1,519 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>description</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">description</span> <span class="exp">sort or variety</span> <span class="quot">"every description of book was there"</span></li><li><span class="tSpeech">n</span> <span class="term">description</span> <span class="exp">a statement that represents something in words</span> </li><li><span class="tSpeech">n</span> <span class="term">description</span> <span class="exp">the act of describing something</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Description</span> <span class="exp">A class to which a certain representation is applicable; kind; sort.</span> <span class="wuQuot">"A difference . . . between them and another description of public creditors."</span><span class="wuQuot">"The plates were all of the meanest description ."</span></li><li><span class="term">Description</span> <span class="exp">A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.</span> <span class="wuQuot">"Milton has descriptions of morning."</span></li><li><span class="term">Description</span> <span class="exp">The act of describing; a delineation by marks or signs.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">description</span> <span class="exp">The act of delineating or depicting; representation by visible lines, marks, colors, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">description</span> <span class="exp">The act of representing a thing by words or signs, or the account or writing containing such representation; a statement designed to make known the appearance, nature, attributes, accidents, or incidents of anything: as, a description of a house or of a battle.</span> </li><li><span class="tSpeech">n</span> <span class="term">description</span> <span class="exp">The qualities expressed in a representation; the combination of qualities which go to constitute a class or an individual, and would be mentioned in describing it; hence, a variety; sort; kind.</span> </li><li><span class="tSpeech">n</span> <span class="term">description</span> <span class="exp">Synonyms Relation, Narrative, etc. (see account), delineation, portrayal, sketch.</span> </li><li><span class="tSpeech">n</span> <span class="term">description</span> <span class="exp">Sort, cast, quality.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Description</span> <span class="exp"><span class="itl">de-skrip′shun</span> act of describing: an account of anything in words: definition: sort, class, or kind</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Hazlitt</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Hazlitt.jpg" alt="William%20Hazlitt">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You know more of a road by having traveled it than by all the conjectures and descriptions in the world.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“And yet a little tumult, now and then, is an agreeable quickener of sensation; such as a revolution, a battle, or an adventure of any lively description.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">D. H. Lawrence</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/D.%20H.%20Lawrence.jpg" alt="D.%20H.%20Lawrence">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Myth is an attempt to narrate a whole human experience, of which the purpose is too deep, going too deep in the blood and soul, for mental explanation or description.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">John B. S. Haldane</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="John B. S. Haldane">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In fact, words are well adapted for description and the arousing of emotion, but for many kinds of precise thought other symbols are much better.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Chesterfield</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Chesterfield.jpg" alt="Lord%20Chesterfield">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The world is a country which nobody ever yet knew by description; one must travel through it one's self to be acquainted with it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">description</span>, L. <span class="wUets">descriptio</span>,. See <span class="wUer">Describe</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						What the purpose of sociology requires is a description and an explanation.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						As a description of a planet's motion it is not incorrect, though it is geometrically cumbrous.
+					</div>
+					<div class="uAuthor">
+						"Pioneers of Science" by <span>Oliver Lodge</span>					</div>
+										<div class="usage">
+						The halftone and the description ought to make the plant known to the most casual reader.
+					</div>
+					<div class="uAuthor">
+						"The Mushroom, Edible and Otherwise" by <span>M. E. Hard</span>					</div>
+										<div class="usage">
+						Wherever a rigorous analytic course is given those who have been well trained in descriptive physics do well in it in general.
+					</div>
+					<div class="uAuthor">
+						"College Teaching" by <span>Paul Klapper</span>					</div>
+										<div class="usage">
+						The imperfection of descriptive catalogues has consequences which deserve our attention.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Study of History" by <span>Charles V. Langlois</span>					</div>
+										<div class="usage">
+						Description of Battery Steamer.
+					</div>
+					<div class="uAuthor">
+						"The Automobile Storage Battery" by <span>O. A. Witte</span>					</div>
+										<div class="usage">
+						In the description of such leaves, certain terms are needed in describing the plan of the notches, and their depth and form.
+					</div>
+					<div class="uAuthor">
+						"Trees of the Northern United States" by <span>Austin C. Apgar</span>					</div>
+										<div class="usage">
+						All I needed to lay hands on him was a good description.
+					</div>
+					<div class="uAuthor">
+						"The Million-Dollar Suitcase" by <span>Alice MacGowan</span>					</div>
+										<div class="usage">
+						See the plates of the kidney for further description.
+					</div>
+					<div class="uAuthor">
+						"Special Report on Diseases of Cattle" by <span>U.S. Department of Agriculture</span>					</div>
+										<div class="usage">
+						There cannot be any doubt, that her relation to the prophet still lies at the foundation of the description in ii.
+					</div>
+					<div class="uAuthor">
+						"Christology of the Old Testament: And a Commentary on the Messianic Predictions, v. 1" by <span>Ernst Wilhelm Hengstenberg</span>					</div>
+										<div class="usage">
+						Cotton also varies so much in its own kind, that every description is different and somewhat puzzling.
+					</div>
+					<div class="uAuthor">
+						"Needlework As Art" by <span>Marian Alford</span>					</div>
+										<div class="usage">
+						It is also most sincerely conceived, intensifying the suggestiveness of the descriptive title.
+					</div>
+					<div class="uAuthor">
+						"Music: An Art and a Language" by <span>Walter Raymond Spalding</span>					</div>
+										<div class="usage">
+						Just as the description in chap.
+					</div>
+					<div class="uAuthor">
+						"Christology of the Old Testament: And a Commentary on the Messianic Predictions. Vol. 2" by <span>Ernst Hengstenberg</span>					</div>
+										<div class="usage">
+						Granny Marrable gave a brief description of the model.
+					</div>
+					<div class="uAuthor">
+						"When Ghost Meets Ghost" by <span>William Frend De Morgan</span>					</div>
+										<div class="usage">
+						The minute description of fruits is not of the least use to one out of ten thousand cultivators.
+					</div>
+					<div class="uAuthor">
+						"Soil Culture" by <span>J. H. Walden</span>					</div>
+										<div class="usage">
+						Such are the most interesting incidents which I have selected from the copious description of the Duke de la Valliere.
+					</div>
+					<div class="uAuthor">
+						"Curiosities of Literature, Vol. 3 (of 3)" by <span>Isaac Disraeli</span>					</div>
+										<div class="usage">
+						For more exact description the reader is again referred to the specific delineations which follow.
+					</div>
+					<div class="uAuthor">
+						"The North American Slime-Moulds" by <span>Thomas H. (Thomas Huston) MacBride</span>					</div>
+										<div class="usage">
+						I shall depend upon a most particular description of it.
+					</div>
+					<div class="uAuthor">
+						"The Complete Project Gutenberg Works of Jane Austen" by <span>Jane Austen</span>					</div>
+										<div class="usage">
+						In the description of this subsidence in the Phil.
+					</div>
+					<div class="uAuthor">
+						"Principles of Geology" by <span>Charles Lyell</span>					</div>
+										<div class="usage">
+						These may, therefore, be most appropriately selected for description as typical examples.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 5, Slice 5" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Happy beyond description he<br>
+Who knows, The Saviour died for me,<br>
+The gift unspeakable obtains,<br>
+And heavenly understanding gains. 
+							<div class="poet">"Hymn XIV: Happy the Man That Finds the Grace" by <span>Charles Wesley</span></div>
+						</div>
+											<div class="poemQuote">
+							Though Thomson, sweet descriptive bard!<br>
+Inspiring Autumn sung;<br>
+Yet how should we the months regard,<br>
+That stopt his flowing tongue?
+							<div class="poet">"Verses, To William Lyttleton, Esq." by <span>William Shenstone</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh, this self-realizing awareness<br>
+is beyond words and description!<br>
+The mind is not the world of children,<br>
+nor is it that of logicians.
+							<div class="poet">"Response To A Logician" by <span>Jetsun Milarepa</span></div>
+						</div>
+											<div class="poemQuote">
+							But yet, before they loaded up the vessel,<br>
+In fear of foreign treachery and hate,<br>
+They hurriedly translated into Russian<br>
+The sad descriptions of the soldiers' fate.
+							<div class="poet">"The British Military Cemetery at Sebastopol" by <span>Konstantin Simonov</span></div>
+						</div>
+											<div class="poemQuote">
+							His owners and drivers stood round in amaze —<br>
+What! Neddy, the patient, the prosperous Neddy,<br>
+So easy to drive, through the dirtiest ways,<br>
+For every description of job-work so ready!
+							<div class="poet">"The Donkey and His Panniers" by <span>Thomas Moore</span></div>
+						</div>
+											<div class="poemQuote">
+							Those dark eyes of her that fired him--<br>
+Those sweet accents that inspired him,<br>
+And her crown of glorious hair--<br>
+These things baffle my description;<br>
+I should have a fit conniption<br>
+If I tried--so I forbear!
+							<div class="poet">"Lydia Dick" by <span>Eugene Field</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						It's the first known description of bacteria.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wired.com/thisdayintech/2008/09/sept-17-1683-van-leeuwenhoek-gives-us-reason-to-brush-and-floss/" target="_blank" rel="external nofollow">wired.com</a>
+					</div>
+										<div class="usage">
+						Description This UFO craft is so awesome it can double as the party favor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.parents.com/videos/v/61652529/flying-saucer.htm" target="_blank" rel="external nofollow">parents.com</a>
+					</div>
+										<div class="usage">
+						Event Description (include location, date, times, etc.
+					</div>
+					<div class="uAuthor">
+						<a href="http://mcrecord.com/archives/483315/franciscan-girls-camp-faith-and-fun-with-franciscans/" target="_blank" rel="external nofollow">mcrecord.com</a>
+					</div>
+										<div class="usage">
+						Description Loungewear that keeps you looking lovely during pregnancy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.parents.com/videos/v/64964773/comfy-not-frumpy-clothes.htm" target="_blank" rel="external nofollow">parents.com</a>
+					</div>
+										<div class="usage">
+						Of course, that is a pretty apt description of Gabor 's, minus the "old-style" modifier.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.5280.com/blogs/2012/01/11/rip-gabors" target="_blank" rel="external nofollow">5280.com</a>
+					</div>
+										<div class="usage">
+						This is a rather narrow parking strip, located under a water-stealing street tree, with the gardenias semi-surrounded by small non-descript hedges.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tricityvoice.com/articledisplay.php?a=3155" target="_blank" rel="external nofollow">tricityvoice.com</a>
+					</div>
+										<div class="usage">
+						In the hours following the homicide, police and reporters gathered witness testimony, formed a description of the suspect, and chased likely motives.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtoncitypaper.com/blogs/sexist/2009/08/31/who-botched-the-gender-identity-of-a-dc-homicide-victim/" target="_blank" rel="external nofollow">washingtoncitypaper.com</a>
+					</div>
+										<div class="usage">
+						Www.cansecosmarkets.com See Metairie section for restaurant description.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bestofneworleans.com/gambit/fall-restaurant-guide-2012-gentillylakefront/Content?oid=2082961" target="_blank" rel="external nofollow">bestofneworleans.com</a>
+					</div>
+										<div class="usage">
+						Animal's Name: Eva Your Name: Samantha Barnahrt Your Phone Number: 1-814-687-4516 Description/Additional Details: Pure Breed German Shepherd .
+					</div>
+					<div class="uAuthor">
+						<a href="http://froggyradio.com/content/froggy-98-pet-patrol/post/lost-pure-breed-german-shepherd-glendale-area" target="_blank" rel="external nofollow">froggyradio.com</a>
+					</div>
+										<div class="usage">
+						Which is why I got a kick out of Jon Gold's description of Mora from spring practice No.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/pac12/post/_/id/36799/mora-ucla-get-rolling" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						A description of Dyngus Day traditions, including girls striking boys with a pussy willow branch, is what got Cooper giggling .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-31749_162-57412964-10391698/anderson-cooper-apologizes-for-dyngus-day-giggle-fit/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						One shorthand description of Ramona Gonzalez's recording project Nite Jewel is that it's disco on quaaludes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sfbg.com/2009/05/27/glittering-prize" target="_blank" rel="external nofollow">sfbg.com</a>
+					</div>
+										<div class="usage">
+						"Blown away" is a pretty good description of how Static's colleagues at Fort Worth Weekly feel about the rag's showing in a couple of recent journalism contests, one statewide, one national.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fwweekly.com/2011/07/28/gloat-us/" target="_blank" rel="external nofollow">fwweekly.com</a>
+					</div>
+										<div class="usage">
+						Description The Goblet Squat exercise works your butt, quadriceps, inner thighs, and hamstrings.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.fitnessmagazine.com/videos/m/51858816/goblet-squat.htm" target="_blank" rel="external nofollow">fitnessmagazine.com</a>
+					</div>
+										<div class="usage">
+						In theory, of course, Godwin 's Law is merely descriptive.
+					</div>
+					<div class="uAuthor">
+						<a href="http://motherjones.com/kevin-drum/2010/06/time-repeal-godwins-law" target="_blank" rel="external nofollow">motherjones.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In general, for N ≫ 1, we expect that any gauge theory should have a string theory description, though it may not have a classical supergravity description. 
+					</div>
+					<div class="uAuthor">
+						Large N field theories from superstrings
+					</div>
+										<div class="usage">
+						It is tempting to imagine that a microscopic description of 11D supergravity might be found by quantizing the supermembrane, just as a microscopic description of 10D supergravity is found by quantizing the superstring. 
+					</div>
+					<div class="uAuthor">
+						M(atrix) Theory: Matrix Quantum Mechanics as a Fundamental Theory
+					</div>
+										<div class="usage">
+						Nonetheless, at any ﬁnite temperature, it can be approximated to arbitrary precision by a sequence of rational G2 It would be very o theories, which do have a UV description. interesting to ﬁnd out whether the irrational theory allows for an independent UV ﬁxed point description. 
+					</div>
+					<div class="uAuthor">
+						Duality Cascade and Oblique Phases in Non-Commutative Open String Theory
+					</div>
+										<div class="usage">
+						Homotopy theory was still largely descriptive, but in the geometric area the emphasis changed from description to construction. 
+					</div>
+					<div class="uAuthor">
+						Lectures on controlled topology: mapping cylinder neighborhoods
+					</div>
+										<div class="usage">
+						For nearly elastic collisions, however, granular hydrodynamics was shown to yield an accurate quantitative description in the dilute limit , and reasonably accurate description for moderate and high granular densities . 
+					</div>
+					<div class="uAuthor">
+						Symmetry-breaking instability in a prototypical driven granular gas
+					</div>
+										<div class="usage">
+						This theorem establishes weak convergence of the scaled contour (or head of the snake) description of embedded trees to the head of the snake description of the Brownian snake with lifetime e. 
+					</div>
+					<div class="uAuthor">
+						Random Planar Lattices and Integrated SuperBrownian Excursion
+					</div>
+										<div class="usage">
+						Moreover, this proves equivalence of description of the general type magnetohydrodynamic ﬂows in terms of canonical variables introduced and the conventional description in Lagrange or Euler variables. 
+					</div>
+					<div class="uAuthor">
+						Canonical description of ideal magnetohydrodynamics and integrals of motion
+					</div>
+										<div class="usage">
+						Although Einstein path starts from an a priori geometrical description, there is an equivalent description that is based on a ﬁeld theoretical formulation. 
+					</div>
+					<div class="uAuthor">
+						Geometrical description of spin-2 fields
+					</div>
+										<div class="usage">
+						In general relativity a description of any shape depends on the motion of the observers performing the description, as it has been already emphasized in . E.g., a body that has an ellipsoidal shape as seen by one class of observers might appear to have a completely different shape as seen by some other observers. 
+					</div>
+					<div class="uAuthor">
+						Ellipsoidal shapes in general relativity: general definitions and an application
+					</div>
+										<div class="usage">
+						Since in general relativity the description of any shape depends on the relative motion of the observers performing the description, in order to carry out a general-relativistic study of ellipsoidal shapes one ﬁrst has to specify a choice of preferred observers. 
+					</div>
+					<div class="uAuthor">
+						Ellipsoidal shapes in general relativity: general definitions and an application
+					</div>
+										<div class="usage">
+						However for (Ga,Mn)N the LSDA description is inadequate because the d electrons are strongly correlated, and thus the pseudo-SIC description is markedly different from that of the LSDA. 
+					</div>
+					<div class="uAuthor">
+						Self-interaction effects in (Ga,Mn)As and (Ga,Mn)N
+					</div>
+										<div class="usage">
+						We use the same conformal tools as before, fusing quantum gravity and Coulomb gas methods, which allow the description of Brownian paths interacting and winding with CI curves, thereby providing a probabilistic description of the potential map near any CI random curve. 
+					</div>
+					<div class="uAuthor">
+						Conformal Fractal Geometry and Boundary Quantum Gravity
+					</div>
+										<div class="usage">
+						However, in contrast to the description of the electromagnetism with the 3D E and B, the description with E and B is correct not only in that frame but in all other relatively moving frames and it holds for any permissible choice of coordinates. 
+					</div>
+					<div class="uAuthor">
+						The Proof that the Standard Transformations of E and B are not the Lorentz Transformations. Clifford Algebra Formalism
+					</div>
+										<div class="usage">
+						This new description of the machine may be called the standard description (S.D). 
+					</div>
+					<div class="uAuthor">
+						Three beliefs that lend illusory legitimacy to Cantor's diagonal argument
+					</div>
+										<div class="usage">
+						We note that any Turing machine can be designed to recognise a “looping” situation; it simply records every instantaneous tape description at the execution of each machine instruction, and compares the current instantaneous tape description with the record. 
+					</div>
+					<div class="uAuthor">
+						Can Turing machines capture everything we can compute?
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a statement that represents something in words"><a href="verbal%20description.html">verbal description</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="form.html">form</a>, <a href="kind.html">kind</a>, <a href="sort.html">sort</a>, <a href="speech%20act.html">speech act</a>, <a href="statement.html">statement</a>, <a href="variety.html">variety</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="characterisation.html">characterisation</a>, <a href="characterization.html">characterization</a>, <a href="delineation.html">delineation</a>, <a href="depiction.html">depiction</a>, <a href="detailing.html">detailing</a>, <a href="job%20description.html">job description</a>, <a href="label.html">label</a>, <a href="particularisation.html">particularisation</a>, <a href="particularization.html">particularization</a>, <a href="picture.html">picture</a>, <a href="sketch.html">sketch</a>, <a href="spec.html">spec</a>, <a href="specification.html">specification</a>, <a href="vignette.html">vignette</a>, <a href="word%20picture.html">word picture</a>, <a href="word-painting.html">word-painting</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="describe.html">describe</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-graphy.html">-graphy</a>, <a href="account.html">account</a>, <a href="addition.html">addition</a>, <a href="address.html">address</a>, <a href="A%C3%ABrography.html">Aërography</a>, <a href="aggravate.html">aggravate</a>, <a href="aggravation.html">aggravation</a>, <a href="Agriology.html">Agriology</a>, <a href="Agrostography.html">Agrostography</a>, <a href="allegory.html">allegory</a>, <a href="Alsatian.html">Alsatian</a>, <a href="amplification.html">amplification</a>, <a href="amplify.html">amplify</a>, <a href="Anagraph.html">Anagraph</a>, <a href="anatomy.html">anatomy</a>, <a href="anemography.html">anemography</a>, <a href="angiography.html">angiography</a>, <a href="Anthography.html">Anthography</a>, <a href="Anthorism.html">Anthorism</a>, <a href="Anthropography.html">Anthropography</a>, <a href="apothecary.html">apothecary</a>, <a href="Arch%C3%A6ography.html">Archæography</a>, <a href="Areography.html">Areography</a>, <a href="arm.html">arm</a>, <a href="arteriography.html">arteriography</a>, <a href="arthrography.html">arthrography</a>, <a href="aspect.html">aspect</a>, <a href="Astrography.html">Astrography</a>, <a href="astronomy.html">astronomy</a>, <a href="attributive.html">attributive</a>, <a href="Bad%20form.html">Bad form</a>, <a href="Balneography.html">Balneography</a>, <a href="Bank-note%20detector.html">Bank-note detector</a>, <a href="Baron%20Alexander%20von%20Humboldt.html">Baron Alexander von Humboldt</a>, <a href="Baron%20Friedrich%20Heinrich%20Alexander%20von%20Humboldt.html">Baron Friedrich Heinrich Alexander von Humboldt</a>, <a href="battery.html">battery</a>, <a href="beg.html">beg</a>, <a href="Bertillon%20system.html">Bertillon system</a>, <a href="Beyond%20expression.html">Beyond expression</a>, <a href="bibliography.html">bibliography</a>, <a href="bill.html">bill</a>, <a href="black%20book.html">black book</a>, <a href="blazon.html">blazon</a>, <a href="Bose.html">Bose</a>, <a href="botany.html">botany</a>, <a href="bowsprit.html">bowsprit</a>, <a href="branch.html">branch</a>, <a href="caisson.html">caisson</a>, <a href="caldera.html">caldera</a>, <a href="call.html">call</a>, <a href="caption.html">caption</a>, <a href="Caravel.html">Caravel</a>, <a href="cardiography.html">cardiography</a>, <a href="caricature.html">caricature</a>, <a href="case.html">case</a>, <a href="Cassimere.html">Cassimere</a>, <a href="catalogue.html">catalogue</a>, <a href="caveat.html">caveat</a>, <a href="Cavicornia.html">Cavicornia</a>, <a href="Celidography.html">Celidography</a>, <a href="Cetology.html">Cetology</a>, <a href="characterisation.html">characterisation</a>, <a href="Characterism.html">Characterism</a>, <a href="characterization.html">characterization</a>, <a href="charade.html">charade</a>, <a href="Chartographer.html">Chartographer</a>, <a href="Chondrography.html">Chondrography</a>, <a href="Chorography.html">Chorography</a>, <a href="chronicle.html">chronicle</a>, <a href="chronograph.html">chronograph</a>, <a href="Chronography.html">Chronography</a>, <a href="Church%20history.html">Church history</a>, <a href="circumflex.html">circumflex</a>, <a href="Circumstantiality.html">Circumstantiality</a>, <a href="class.html">class</a>, <a href="clearance.html">clearance</a>, <a href="Climatography.html">Climatography</a>, <a href="coarsely.html">coarsely</a>, <a href="colligation.html">colligation</a>, <a href="color.html">color</a>, <a href="colored.html">colored</a>, <a href="Cometography.html">Cometography</a>, <a href="compensation.html">compensation</a>, <a href="cosmography.html">cosmography</a>, <a href="cosmos.html">cosmos</a>, <a href="country.html">country</a>, <a href="crossbow.html">crossbow</a>, <a href="Crouch-ware.html">Crouch-ware</a>, <a href="crown.html">crown</a>, <a href="Dactyliography.html">Dactyliography</a>, <a href="Dalton.html">Dalton</a>, <a href="decipher.html">decipher</a>, <a href="Definement.html">Definement</a>, <a href="definition.html">definition</a>, <a href="delineation.html">delineation</a>, <a href="depict.html">depict</a>, <a href="depiction.html">depiction</a>, <a href="Dermatography.html">Dermatography</a>, <a href="describable.html">describable</a>, <a href="describe.html">describe</a>, <a href="descriptive.html">descriptive</a>, <a href="descriptive%20anthropology.html">descriptive anthropology</a>, <a href="descriptive%20linguistics.html">descriptive linguistics</a>, <a href="descriptively.html">descriptively</a>, <a href="designate.html">designate</a>, <a href="designation.html">designation</a>, <a href="Desmography.html">Desmography</a>, <a href="detailing.html">detailing</a>, <a href="diagnosis.html">diagnosis</a>, <a href="Directrix.html">Directrix</a>, <a href="Dispensatory.html">Dispensatory</a>, <a href="drama.html">drama</a>, <a href="dramatic.html">dramatic</a>, <a href="drapery.html">drapery</a>, <a href="draw.html">draw</a>, <a href="Embryography.html">Embryography</a>, <a href="Encephalology.html">Encephalology</a>, <a href="enter.html">enter</a>, <a href="Enteradenography.html">Enteradenography</a>, <a href="Enterography.html">Enterography</a>, <a href="Entomography.html">Entomography</a>, <a href="Epidemiography.html">Epidemiography</a>, <a href="ethnography.html">ethnography</a>, <a href="exaggerate.html">exaggerate</a>, <a href="exception.html">exception</a>, <a href="exiguity.html">exiguity</a>, <a href="exode.html">exode</a>, <a href="experience.html">experience</a>, <a href="explanation.html">explanation</a>, <a href="expletive.html">expletive</a>, <a href="fabulous.html">fabulous</a>, <a href="fact.html">fact</a>, <a href="faintness.html">faintness</a>, <a href="favor.html">favor</a>, <a href="figurative.html">figurative</a>, <a href="firework.html">firework</a>, <a href="flora.html">flora</a>, <a href="foggy.html">foggy</a>, <a href="forte.html">forte</a>, <a href="fortemente.html">fortemente</a>, <a href="fortissimo.html">fortissimo</a>, <a href="framework.html">framework</a>, <a href="Galenic.html">Galenic</a>, <a href="gallium.html">gallium</a>, <a href="Galvanology.html">Galvanology</a>, <a href="generalize.html">generalize</a>, <a href="generation.html">generation</a>, <a href="generative%20grammar.html">generative grammar</a>, <a href="generic.html">generic</a>, <a href="Generical.html">Generical</a>, <a href="genotype.html">genotype</a>, <a href="geography.html">geography</a>, <a href="geology.html">geology</a>, <a href="Gigantology.html">Gigantology</a>, <a href="Glossography.html">Glossography</a>, <a href="glyptography.html">glyptography</a>, <a href="good%20form.html">good form</a>, <a href="Gore.html">Gore</a>, <a href="Graftage.html">Graftage</a>, <a href="graphic.html">graphic</a>, <a href="graphical.html">graphical</a>, <a href="gushy.html">gushy</a>, <a href="guttural.html">guttural</a>, <a href="habitat.html">habitat</a>, <a href="hagiology.html">hagiology</a>, <a href="hairpin.html">hairpin</a>, <a href="Haliography.html">Haliography</a>, <a href="Hammer-beam.html">Hammer-beam</a>, <a href="Heliographic.html">Heliographic</a>, <a href="Heliography.html">Heliography</a>, <a href="Hexastyle.html">Hexastyle</a>, <a href="Hierography.html">Hierography</a>, <a href="High-colored.html">High-colored</a>, <a href="Histography.html">Histography</a>, <a href="history.html">history</a>, <a href="holotype.html">holotype</a>, <a href="Humboldt.html">Humboldt</a>, <a href="Hydrognosy.html">Hydrognosy</a>, <a href="hydrography.html">hydrography</a>, <a href="Hydrophytography.html">Hydrophytography</a>, <a href="hymn.html">hymn</a>, <a href="Hyoglossus.html">Hyoglossus</a>, <a href="Hypotyposis.html">Hypotyposis</a>, <a href="Ichthyography.html">Ichthyography</a>, <a href="Iconism.html">Iconism</a>, <a href="iconography.html">iconography</a>, <a href="iconology.html">iconology</a>, <a href="idyl.html">idyl</a>, <a href="image.html">image</a>, <a href="importation.html">importation</a>, <a href="indefinable.html">indefinable</a>, <a href="indescribable.html">indescribable</a>, <a href="indescribably.html">indescribably</a>, <a href="Indescriptive.html">Indescriptive</a>, <a href="ineffable.html">ineffable</a>, <a href="infelicitous.html">infelicitous</a>, <a href="innuendo.html">innuendo</a>, <a href="intelligible.html">intelligible</a>, <a href="itinerant.html">itinerant</a>, <a href="itinerary.html">itinerary</a>, <a href="Jakobson.html">Jakobson</a>, <a href="job%20description.html">job description</a>, <a href="John%20Dalton.html">John Dalton</a>, <a href="justice.html">justice</a>, <a href="justness.html">justness</a>, <a href="keyboard.html">keyboard</a>, <a href="kind.html">kind</a>, <a href="Kraken.html">Kraken</a>, <a href="label.html">label</a>, <a href="law.html">law</a>, <a href="leaf.html">leaf</a>, <a href="legend.html">legend</a>, <a href="Leptology.html">Leptology</a>, <a href="Lichenist.html">Lichenist</a>, <a href="Lichenographer.html">Lichenographer</a>, <a href="Lichenography.html">Lichenography</a>, <a href="life.html">life</a>, <a href="list.html">list</a>, <a href="liturgiology.html">liturgiology</a>, <a href="location.html">location</a>, <a href="loud.html">loud</a>, <a href="luxuriate.html">luxuriate</a>, <a href="lymphography.html">lymphography</a>, <a href="maize.html">maize</a>, <a href="manifest.html">manifest</a>, <a href="maroon.html">maroon</a>, <a href="memoir.html">memoir</a>, <a href="Metallography.html">Metallography</a>, <a href="metaphor.html">metaphor</a>, <a href="Microcosmography.html">Microcosmography</a>, <a href="Micrography.html">Micrography</a>, <a href="mirror.html">mirror</a>, <a href="Misresemblance.html">Misresemblance</a>, <a href="model.html">model</a>, <a href="monograph.html">monograph</a>, <a href="monument.html">monument</a>, <a href="Morphography.html">Morphography</a>, <a href="mummy.html">mummy</a>, <a href="Murra.html">Murra</a>, <a href="Myography.html">Myography</a>, <a href="mythology.html">mythology</a>, <a href="naming.html">naming</a>, <a href="natural%20history.html">natural history</a>, <a href="naturalism.html">naturalism</a>, <a href="Nealogy.html">Nealogy</a>, <a href="negation.html">negation</a>, <a href="Neontology.html">Neontology</a>, <a href="Nephrography.html">Nephrography</a>, <a href="Neurography.html">Neurography</a>, <a href="neutrality.html">neutrality</a>, <a href="Nightpiece.html">Nightpiece</a>, <a href="Nosography.html">Nosography</a>, <a href="nude.html">nude</a>, <a href="numismatics.html">numismatics</a>, <a href="Numismatography.html">Numismatography</a>, <a href="object.html">object</a>, <a href="oceanography.html">oceanography</a>, <a href="Odontography.html">Odontography</a>, <a href="Ophiography.html">Ophiography</a>, <a href="Ophthalmography.html">Ophthalmography</a>, <a href="Organic%20description%20of%20a%20curve.html">Organic description of a curve</a>, <a href="Organography.html">Organography</a>, <a href="Orient.html">Orient</a>, <a href="orography.html">orography</a>, <a href="Orological.html">Orological</a>, <a href="orology.html">orology</a>, <a href="Orthology.html">Orthology</a>, <a href="Oryctognosy.html">Oryctognosy</a>, <a href="Oryctography.html">Oryctography</a>, <a href="Osteography.html">Osteography</a>, <a href="Otography.html">Otography</a>, <a href="outline.html">outline</a>, <a href="overcharge.html">overcharge</a>, <a href="painting.html">painting</a>, <a href="Palaeontography.html">Palaeontography</a>, <a href="palaeontology.html">palaeontology</a>, <a href="Paleontographical.html">Paleontographical</a>, <a href="Paleontography.html">Paleontography</a>, <a href="Pantography.html">Pantography</a>, <a href="particularisation.html">particularisation</a>, <a href="particularise.html">particularise</a>, <a href="particularism.html">particularism</a>, <a href="particularization.html">particularization</a>, <a href="passport.html">passport</a>, <a href="Past%20expression.html">Past expression</a>, <a href="pedantic.html">pedantic</a>, <a href="Pedantical.html">Pedantical</a>, <a href="peerage.html">peerage</a>, <a href="personality%20assessment.html">personality assessment</a>, <a href="personality%20inventory.html">personality inventory</a>, <a href="Petrography.html">Petrography</a>, <a href="Pezophaps.html">Pezophaps</a>, <a href="Phantasmatography.html">Phantasmatography</a>, <a href="Pharmacography.html">Pharmacography</a>, <a href="Pharyngography.html">Pharyngography</a>, <a href="phenomenology.html">phenomenology</a>, <a href="Phonography.html">Phonography</a>, <a href="Phycography.html">Phycography</a>, <a href="Physiographic.html">Physiographic</a>, <a href="Phytography.html">Phytography</a>, <a href="phytology.html">phytology</a>, <a href="pianissimo.html">pianissimo</a>, <a href="pianissimo%20assai.html">pianissimo assai</a>, <a href="piano.html">piano</a>, <a href="picture.html">picture</a>, <a href="pneumatics.html">pneumatics</a>, <a href="Pneumatology.html">Pneumatology</a>, <a href="Pneumography.html">Pneumography</a>, <a href="pornography.html">pornography</a>, <a href="portrait.html">portrait</a>, <a href="portrayal.html">portrayal</a>, <a href="possible.html">possible</a>, <a href="Potamography.html">Potamography</a>, <a href="pottery.html">pottery</a>, <a href="predominant.html">predominant</a>, <a href="process.html">process</a>, <a href="proposition.html">proposition</a>, <a href="Psychography.html">Psychography</a>, <a href="psychology.html">psychology</a>, <a href="Pterigraphy.html">Pterigraphy</a>, <a href="Pterography.html">Pterography</a>, <a href="Pterylography.html">Pterylography</a>, <a href="pubescent.html">pubescent</a>, <a href="publication.html">publication</a>, <a href="Pyrenomycetes.html">Pyrenomycetes</a>, <a href="quadrant.html">quadrant</a>, <a href="ray.html">ray</a>, <a href="real.html">real</a>, <a href="realism.html">realism</a>, <a href="realistic.html">realistic</a>, <a href="recital.html">recital</a>, <a href="reduce.html">reduce</a>, <a href="register.html">register</a>, <a href="report.html">report</a>, <a href="representation.html">representation</a>, <a href="rest.html">rest</a>, <a href="riddle.html">riddle</a>, <a href="rig.html">rig</a>, <a href="rock.html">rock</a>, <a href="rockweed.html">rockweed</a>, <a href="Roman%20Jakobson.html">Roman Jakobson</a>, <a href="Roman%20Osipovich%20Jakobson.html">Roman Osipovich Jakobson</a>, <a href="rule.html">rule</a>, <a href="saint.html">saint</a>, <a href="Satyendra%20N.%20Bose.html">Satyendra N. Bose</a>, <a href="Satyendra%20Nath%20Bose.html">Satyendra Nath Bose</a>, <a href="Saurognathous.html">Saurognathous</a>, <a href="scene.html">scene</a>, <a href="Scenography.html">Scenography</a>, <a href="Scotism.html">Scotism</a>, <a href="Sea-letter.html">Sea-letter</a>, <a href="Sea-letterbrief.html">Sea-letterbrief</a>, <a href="section.html">section</a>, <a href="seismography.html">seismography</a>, <a href="Selenography.html">Selenography</a>, <a href="Semeiography.html">Semeiography</a>, <a href="Semiography.html">Semiography</a>, <a href="serf.html">serf</a>, <a href="shocker.html">shocker</a>, <a href="siderite.html">siderite</a>, <a href="Signalment.html">Signalment</a>, <a href="sketch.html">sketch</a>, <a href="Snobography.html">Snobography</a>, <a href="soft.html">soft</a>, <a href="spec.html">spec</a>, <a href="specification.html">specification</a>, <a href="Sphenography.html">Sphenography</a>, <a href="Sphygmography.html">Sphygmography</a>, <a href="Splanchnography.html">Splanchnography</a>, <a href="Splenography.html">Splenography</a>, <a href="Sprechery.html">Sprechery</a>, <a href="steeple.html">steeple</a>, <a href="Stomatogastric.html">Stomatogastric</a>, <a href="story.html">story</a>, <a href="stratigraphy.html">stratigraphy</a>, <a href="Stratography.html">Stratography</a>, <a href="Superinenarrable.html">Superinenarrable</a>, <a href="survey.html">survey</a>, <a href="sylva.html">sylva</a>, <a href="Syndesmography.html">Syndesmography</a>, <a href="Syphilography.html">Syphilography</a>, <a href="syrinx.html">syrinx</a>, <a href="Technography.html">Technography</a>, <a href="Tenography.html">Tenography</a>, <a href="Testaceography.html">Testaceography</a>, <a href="thanatology.html">thanatology</a>, <a href="Thaumatography.html">Thaumatography</a>, <a href="theoretical%20account.html">theoretical account</a>, <a href="topography.html">topography</a>, <a href="Toreumatography.html">Toreumatography</a>, <a href="Toreumatology.html">Toreumatology</a>, <a href="tracing.html">tracing</a>, <a href="type%20specimen.html">type specimen</a>, <a href="Uhlan.html">Uhlan</a>, <a href="unspeakable.html">unspeakable</a>, <a href="untellable.html">untellable</a>, <a href="unutterable.html">unutterable</a>, <a href="Uranography.html">Uranography</a>, <a href="Uranometry.html">Uranometry</a>, <a href="vague.html">vague</a>, <a href="version.html">version</a>, <a href="vignette.html">vignette</a>, <a href="viola.html">viola</a>, <a href="word%20picture.html">word picture</a>, <a href="word-painting.html">word-painting</a>, <a href="Word-picture.html">Word-picture</a>, <a href="write%20up.html">write up</a>, <a href="Zo%C3%B6chemistry.html">Zoöchemistry</a>, <a href="Zo%C3%B6geography.html">Zoögeography</a>, <a href="Zo%C3%B6graphic.html">Zoögraphic</a>, <a href="Zo%C3%B6graphical.html">Zoögraphical</a>, <a href="Zo%C3%B6graphy.html">Zoögraphy</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					sescription, eescription, fescription, cescription, xescription, sescription, dwscription, dsscription, ddscription, drscription, deacription, dewcription, dedcription, dexcription, dezcription, deacription, desxription, desdription, desfription, desvription, desceiption, descdiption, descfiption, desctiption, descruption, descrjption, descrkption, descroption, descriotion, descriltion, descriprion, descripfion, descripgion, descripyion, descriptuon, descriptjon, descriptkon, descriptoon, descriptiin, descriptikn, descriptiln, descriptipn, descriptiob, descriptioh, descriptioj, descriptiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,538 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>discipline</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">discipline</span> <span class="exp">punish in order to gain control or enforce obedience</span> <span class="quot">"The teacher disciplined the pupils rather frequently"</span></li><li><span class="tSpeech">v</span> <span class="term">discipline</span> <span class="exp">develop (children's) behavior by instruction and practice; especially to teach self-control</span> <span class="quot">"Parents must discipline their children","Is this dog trained?"</span></li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">training to improve strength or self-control</span> </li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">the act of punishing</span> <span class="quot">"the offenders deserved the harsh discipline they received"</span></li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">the trait of being well behaved</span> <span class="quot">"he insisted on discipline among the troops"</span></li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">a system of rules of conduct or method of practice; </span> <span class="quot">"he quickly learned the discipline of prison routine","for such a plan to work requires discipline"</span></li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">a branch of knowledge</span> <span class="quot">"in what discipline is his doctorate?","teachers should be well trained in their subject","anthropology is the study of human beings"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Discipline</span> <span class="exp"><span class="wuFld">(Eccl)</span> A system of essential rules and duties; as, the Romish or Anglican <span class="wUex">discipline</span>
+            .</span> </li><li><span class="term">Discipline</span> <span class="exp">Correction; chastisement; punishment inflicted by way of correction and training.</span> <span class="wuQuot">"Giving her the discipline of the strap."</span></li><li><span class="term">Discipline</span> <span class="exp"><span class="wuFld">(R. C. Ch)</span> Self-inflicted and voluntary corporal punishment, as penance, or otherwise; specifically, a penitential scourge.</span> </li><li><span class="term">Discipline</span> <span class="exp">Severe training, corrective of faults; instruction by means of misfortune, suffering, punishment, etc.</span> <span class="wuQuot">"A sharp discipline of half a century had sufficed to educate us."</span></li><li><span class="term">Discipline</span> <span class="exp">Subjection to rule; submissiveness to order and control; habit of obedience.</span> <span class="wuQuot">"The most perfect, who have their passions in the best discipline , are yet obliged to be constantly on their guard."</span></li><li><span class="term">Discipline</span> <span class="exp"><span class="wuFld">(Eccl)</span> The enforcement of methods of correction against one guilty of ecclesiastical offenses; reformatory or penal action toward a church member.</span> </li><li><span class="term">Discipline</span> <span class="exp">The subject matter of instruction; a branch of knowledge.</span> </li><li><span class="term">Discipline</span> <span class="exp">The treatment suited to a disciple or learner; education; development of the faculties by instruction and exercise; training, whether physical, mental, or moral.</span> <span class="wuQuot">"Wife and children are a kind of discipline of humanity."</span><span class="wuQuot">"Discipline aims at the removal of bad habits and the substitution of good ones, especially those of order, regularity, and obedience."</span></li><li><span class="term">Discipline</span> <span class="exp">To accustom to regular and systematic action; to bring under control so as to act systematically; to train to act together under orders; to teach subordination to; to form a habit of obedience in; to drill.</span> <span class="wuQuot">"Ill armed, and worse disciplined ."</span><span class="wuQuot">"His mind . . . imperfectly disciplined by nature."</span></li><li><span class="term">Discipline</span> <span class="exp">To educate; to develop by instruction and exercise; to train.</span> </li><li><span class="term">Discipline</span> <span class="exp">To improve by corrective and penal methods; to chastise; to correct.</span> <span class="wuQuot">"Has he disciplined Aufidius soundly?"</span></li><li><span class="term">Discipline</span> <span class="exp">To inflict ecclesiastical censures and penalties upon.</span> </li><li><span class="term">Discipline</span> <span class="exp">Training to act in accordance with established rules; accustoming to systematic and regular action; drill.</span> <span class="wuQuot">"Their wildness lose, and, quitting nature's part,<br>
+Obey the rules and discipline of art."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">Mental and moral training, either under one's own guidance or under that of another; the cultivation of the mind and formation of the manners; instruction and government, comprehending the communication of knowledge and the regulation of practice; specifically, training to act in accordance with rules; drill: as, military discipline; monastic discipline.</span> </li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">A set or system of rules and regulations; a method of regulating practice: as, the discipline prescribed for the church.</span> </li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">Specifically, ecclesiastical: The laws which bind the subjects of a church in their conduct, as distinguished from the dogmas or articles of faith which affect their belief.</span> </li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">The methods employed by a church for enforcing its laws, and so preserving its purity or its authority by penal measures against offenders. Three kinds of discipline were known to the ancient synagogue, all of which are entitled excommunication. In most modern Protestant churches discipline consists of three penalties: public censure, suspension, and excommunication.</span> </li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">Subjection to rule; submissiveness to control; obedience to rules and commands: as, the school was under good discipline.</span> </li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">Correction; chastisement; punishment inflicted by way of correction and training; hence, edification or correction by means of misfortune or suffering.</span> </li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">That which serves to instruct or train; specifically, a course of study; a science or an art.</span> </li><li><span class="tSpeech">n</span> <span class="term">discipline</span> <span class="exp">An instrument of punishment; a scourge, or the like, used for religious penance. See disciplinarium.</span> </li><li><span class="term">discipline</span> <span class="exp">To train or educate; prepare by instruction; specifically, to teach rules and practice, and accustom to order and subordination; drill: as, to discipline troops.</span> </li><li><span class="term">discipline</span> <span class="exp">To correct; chastise; punish.</span> </li><li><span class="term">discipline</span> <span class="exp">Specifically To execute the laws of a church upon (an offender).</span> </li><li><span class="term">discipline</span> <span class="exp">To keep in subjection; regulate; govern.</span> </li><li><span class="term">discipline</span> <span class="exp">Synonyms To train, form, educate, instruct, drill, regulate.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Discipline</span> <span class="exp"><span class="itl">dis′i-plin</span> instruction: training, or mode of life in accordance with rules: subjection to control: order: severe training: mortification: punishment: an instrument of penance or punishment</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Discipline</span> <span class="exp">to subject to discipline: to train: to educate: to bring under control: to chastise</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bernard M. Baruch</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Bernard%20M.%20Baruch.jpg" alt="Bernard%20M.%20Baruch">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In the last analysis, our only freedom is the freedom to discipline ourselves.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Eliot.jpg" alt="George%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Genius at first is little more than a great capacity for receiving discipline.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Buddha</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Buddha.jpg" alt="Buddha">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is nothing so disobedient as an undisciplined mind, and there is nothing so obedient as a disciplined mind.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Ellery Channing</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Ellery%20Channing.jpg" alt="William%20Ellery%20Channing">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Error is discipline through which we advance.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Michel Eyquem De Montaigne</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Michel%20Eyquem%20De%20Montaigne.jpg" alt="Michel%20Eyquem%20De%20Montaigne">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no course of life so weak and Scottish as that which is ordered by orders, method, and discipline.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edmund Burke</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edmund%20Burke.jpg" alt="Edmund%20Burke">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Restraint and discipline and examples of virtue and justice. These are the things that form the education of the world.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. LL. <span class="wUets">disciplinarian</span>, to flog, fr. L. <span class="wUets">disciplina</span>, discipline, and F. <span class="wUets">discipliner</span>, to discipline
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Mother says she's a discipline that keeps Angelique from growing vain.
+					</div>
+					<div class="uAuthor">
+						"Old Kaskaskia" by <span>Mary Hartwell Catherwood</span>					</div>
+										<div class="usage">
+						A schismatic does not directly err in matters of faith, but rejects the discipline of the Church and refuses to submit to her authority.
+					</div>
+					<div class="uAuthor">
+						"Explanation of Catholic Morals" by <span>John H. Stapleton</span>					</div>
+										<div class="usage">
+						Again; the standard of morality was low in many of our societies, and I pleaded for the enforcement of Christian discipline.
+					</div>
+					<div class="uAuthor">
+						"Modern Skepticism: A Journey Through the Land of Doubt and Back Again" by <span>Joseph Barker</span>					</div>
+										<div class="usage">
+						The gloom and pride and stoicism of his temperament were augmented by this unnatural discipline.
+					</div>
+					<div class="uAuthor">
+						"Sketches and Studies in Italy and Greece, Complete" by <span>John Symonds</span>					</div>
+										<div class="usage">
+						He ruled his people, educated them, cared for them, disciplined them.
+					</div>
+					<div class="uAuthor">
+						"Little Journeys To The Homes Of Great Teachers" by <span>Elbert Hubbard</span>					</div>
+										<div class="usage">
+						General Trochu either cannot, or does not, desire to enforce military discipline.
+					</div>
+					<div class="uAuthor">
+						"Diary of the Besieged Resident in Paris" by <span>Henry Labouchère</span>					</div>
+										<div class="usage">
+						Discipline, order, and obedience I will have, and that strictly.
+					</div>
+					<div class="uAuthor">
+						"By Right of Conquest" by <span>G. A. Henty</span>					</div>
+										<div class="usage">
+						In the days of obedience, discipline and fear of punishment, children accepted and respected this guidance, as authoritative.
+					</div>
+					<div class="uAuthor">
+						"Heart and Soul" by <span>Victor Mapes (AKA Maveric Post)</span>					</div>
+										<div class="usage">
+						The platoon guides do one thing only: they watch the firing line and check every breach of fire discipline.
+					</div>
+					<div class="uAuthor">
+						"The Plattsburg Manual" by <span>O.O. Ellis and E.B. Garey</span>					</div>
+										<div class="usage">
+						The strictest discipline is maintained in the force, and offences are rigidly reported and punished.
+					</div>
+					<div class="uAuthor">
+						"Lights and Shadows of New York Life" by <span>James D. McCabe</span>					</div>
+										<div class="usage">
+						The restraints of discipline and the very exacting character of military life and training gave them self-control, mental alertness.
+					</div>
+					<div class="uAuthor">
+						"Kitchener's Mob" by <span>James Norman Hall</span>					</div>
+										<div class="usage">
+						Evidences of sharp discipline one moment; the next, awkward short-cuts.
+					</div>
+					<div class="uAuthor">
+						"Villa Elsa" by <span>Stuart Henry</span>					</div>
+										<div class="usage">
+						There will never be any discipline, never any common aim.
+					</div>
+					<div class="uAuthor">
+						"No Surrender!" by <span>G. A. Henty</span>					</div>
+										<div class="usage">
+						For the first year, there was, in the true sense of the word, no discipline in the Western army at all.
+					</div>
+					<div class="uAuthor">
+						"History of Morgan's Cavalry" by <span>Basil W. Duke</span>					</div>
+										<div class="usage">
+						In vain did Gen. Grant try to recall them to a sense of soldierly duty and discipline.
+					</div>
+					<div class="uAuthor">
+						"The Struggle for Missouri" by <span>John McElroy</span>					</div>
+										<div class="usage">
+						Nothing like discipline of the right sort for lads.
+					</div>
+					<div class="uAuthor">
+						"Dick Hamilton's Cadet Days" by <span>Howard R. Garis</span>					</div>
+										<div class="usage">
+						Discipline, discipline is the great thing wanted.
+					</div>
+					<div class="uAuthor">
+						"Familiar Letters of John Adams and His Wife Abigail Adams During the Revolution" by <span>John Adams</span>					</div>
+										<div class="usage">
+						Discipline was severe, and the rewards appealed as much to the soldier's honour as to his desire of gain.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 2, Slice 6" by <span>Various</span>					</div>
+										<div class="usage">
+						And on whose side was the First Book of Discipline?
+					</div>
+					<div class="uAuthor">
+						"John Knox" by <span>Wm. M. Taylor</span>					</div>
+										<div class="usage">
+						The discipline, management, method of instruction and general spirit of the school have all undergone a thorough transformation.
+					</div>
+					<div class="uAuthor">
+						"Makers and Romance of Alabama History" by <span>B. F. Riley</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Cerebrotonic Cato may<br>
+Extol the Ancient Disciplines,<br>
+But the muscle-bound Marines<br>
+Mutiny for food and pay.
+							<div class="poet">"The Fall of Rome" by <span>W H Auden</span></div>
+						</div>
+											<div class="poemQuote">
+							A solemn joy was in my heart,--<br>
+Immortal life was given<br>
+To Earth, upon her battle-field<br>
+To discipline for Heaven.
+							<div class="poet">"A Dream That Was Not All A Dream" by <span>Mary Gardiner Horsford  </span></div>
+						</div>
+											<div class="poemQuote">
+							So for our sins we justly feel<br>
+Thy discipline, O God;<br>
+Yet wait the gracious moment still,<br>
+Till thou remove thy rod.
+							<div class="poet">"Psalm 123" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Of course such Spartan discipline<br>
+Would make an angel fret;<br>
+They drew a lot, and WILLIAM shot<br>
+This fearful martinet.
+							<div class="poet">"The Martinet" by <span>William Schwenck Gilbert</span></div>
+						</div>
+											<div class="poemQuote">
+							If therefore you were left without<br>
+This needful discipline;<br>
+You might, with cause, admit a doubt,<br>
+If you, indeed, were mine. 
+							<div class="poet">"Love-Tokens" by <span>John Newton</span></div>
+						</div>
+											<div class="poemQuote">
+							There is a way between voice and presence<br>
+where information flows.<br>
+In disciplined silence it opens.<br>
+With wandering talk it closes.
+							<div class="poet">"There is a Way" by <span>Mewlana Jalaluddin Rumi</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Soldiers will receive instruction in a variety of analytical and operational disciplines.
+					</div>
+					<div class="uAuthor">
+						<a href="http://washingtontechnology.com/Articles/2012/04/19/Lockheed-Army-intell.aspx?p=1" target="_blank" rel="external nofollow">washingtontechnology.com</a>
+					</div>
+										<div class="usage">
+						We also know it can be hard for professionals from various healthcare disciplines to work together.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.healthleadersmedia.com/content/NRS-255560/Nursing-Medical-Students-Partner-on-Interdisciplinary-Care-to-Needy" target="_blank" rel="external nofollow">healthleadersmedia.com</a>
+					</div>
+										<div class="usage">
+						Are you increasingly being required to learn about disciplines outside of your main area of engineering expertise.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.designnews.com/document.asp?doc_id=231863&amp;f_src=designnews_section_1378" target="_blank" rel="external nofollow">designnews.com</a>
+					</div>
+										<div class="usage">
+						Futurists create a place to study the fusion of ideas and science across disciplines.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/2009/02/03/innovation-education-singularity-technology-breakthroughs_0203singularity.html" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						The team usually does not announce when it disciplines a player.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/sports/2012/10/11/patriots-lb-brandon-spikes-says-was-joking-when-tweeted-that-was-homophobic/print" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						The stock market's sharp post-election drop had some signs of panic liquidation and Moneyshow's Tom Aspray explains why a disciplined technical approach can help you avoid selling with the crowd.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/tomaspray/2012/11/08/dont-jump-off-the-fiscal-cliff/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Harvey Karp 's Discipline Strategies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.parents.com/videos/v/61652228/dr-harvey-karp-s-discipline-strategies.htm" target="_blank" rel="external nofollow">parents.com</a>
+					</div>
+										<div class="usage">
+						The European debt crisis provides Germany the opportunity to preach its disciplined approach to monetary policy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/Commentary/Opinion/2012/0120/European-debt-crisis-Germany-s-fight-against-Keynes" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						KINGSTON — The University of Rhode Island is home to many scholars and researchers who have been recognized within their respective disciplines, and the department of Landscape Architect ure is no different.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ricentral.com/content/landscape-architect-scholars-win-riasla-awards" target="_blank" rel="external nofollow">ricentral.com</a>
+					</div>
+										<div class="usage">
+						Brutal lashing or parental discipline.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/2011/1103/Texas-judge-beating-video-brutal-lashing-or-parental-discipline" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						A wide majority of Americans support 'a good, hard spanking' as discipline, one study says.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/2011/1103/Texas-judge-beating-video-brutal-lashing-or-parental-discipline" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Ted Stevens Legal Team Calls Discipline Laughable .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ktuu.com/news/akpolitics/justice-report-ted-stevens-legal-team-calls-discipline-laughable-ktuu-20120525,0,4131888.story" target="_blank" rel="external nofollow">ktuu.com</a>
+					</div>
+										<div class="usage">
+						H McCloy Research Lecture and Breakfast provides a forum for a distinguished leader in the HPERD disciplines to present cutting edge research findings of interest to researchers and practitioners alike.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aahperd.org/rc/about/announcements/McCloyLecturer.cfm" target="_blank" rel="external nofollow">aahperd.org</a>
+					</div>
+										<div class="usage">
+						The Wall Street Journal ought to know better than to write a big article about why "There Has Never Been A Better Time For Disciplined Investors to Take on Debt to Boost Their Portfolios.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cjr.org/the_audit/wsj_debt_leverage_portfolio.php" target="_blank" rel="external nofollow">cjr.org</a>
+					</div>
+										<div class="usage">
+						Certification is not a legal license to practice the discipline, but it provides the recognition of the proficiency within, and comprehension of, a specialized body of knowledge at a particular point in time.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.isa.org/InTechTemplate.cfm?Section=Association_News&amp;template=/ContentManagement/ContentDisplay.cfm&amp;ContentID=86255" target="_blank" rel="external nofollow">isa.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The classical relationship between the Tutte polynomial of graph theory and the Potts model of statistical mechanics has resulted in valuable interactions between the disciplines. 
+					</div>
+					<div class="uAuthor">
+						The Tutte-Potts connection in the presence of an external magnetic field
+					</div>
+										<div class="usage">
+						This paper presents one multimedia software project accomplished by one of the multi-discipline student project teams. The project was called ‘Interactive ZooOz Guide’ and developed on a GPS-enabled PDA device in 2007. 
+					</div>
+					<div class="uAuthor">
+						An Interactive Zoo Guide: A Case Study of Collaborative Learning
+					</div>
+										<div class="usage">
+						Such a modeling approach has been applied to many disciplines, a short list of which is as follows: astronomy, epidemiology, geography, ecology, material science and so forth. 
+					</div>
+					<div class="uAuthor">
+						Tail approximations of integrals of Gaussian random fields
+					</div>
+										<div class="usage">
+						Pro ject supported by Natural Science Foundation of China (no.10771069) and Shanghai Leading Academic Discipline Pro ject(no.B407). 
+					</div>
+					<div class="uAuthor">
+						Nonstable $K$--theory for extension algebras of the simple purely infinite $C^*$--algebra by certain $C^{*}$--algebras
+					</div>
+										<div class="usage">
+						Since the publication of the highly inﬂuential paper of Barab´asi and Albert the preferential attachment paradigm has captured the imagination of scientists across the disciplines and has led to a host of, from a mathematical point of view mostly nonrigorous, research. 
+					</div>
+					<div class="uAuthor">
+						Random networks with sublinear preferential attachment: The giant component
+					</div>
+										<div class="usage">
+						By now and with current experiments such as the INTEGRAL mission of ESA shown in Fig. 1.8, this technique has established an astronomical discipline of its own, the window of electromagnetic radiation clearly attributed to speciﬁc isotopes (Diehl et al, 2006). 
+					</div>
+					<div class="uAuthor">
+						Introduction to Astronomy with Radioactivity
+					</div>
+										<div class="usage">
+						The ﬁrst astronomical discovery was made less than a century ago, and it has only been in the past two decades that major ventures in the discipline have taken place. 
+					</div>
+					<div class="uAuthor">
+						Astronomy in Antarctica
+					</div>
+										<div class="usage">
+						Those nations that have managed to resile this conﬂict, between supplying the logistics and deciding upon the science, have managed to do the best Antarctic science, regardless of the scienti ﬁc discipline. 
+					</div>
+					<div class="uAuthor">
+						Astronomy in Antarctica
+					</div>
+										<div class="usage">
+						Elasticities are used in several scientiﬁc disciplines because they are directly interpretable and can be easily estimated from data . 
+					</div>
+					<div class="uAuthor">
+						Generalized modeling of ecological population dynamics
+					</div>
+										<div class="usage">
+						As described above, we investigate stability in the context of a model that combines a scheduling discipline operating under interference constraints and a continuous spatial setting. 
+					</div>
+					<div class="uAuthor">
+						Stability of Random Admissible-Set Scheduling in Spatial Wireless Systems
+					</div>
+										<div class="usage">
+						This is perhaps best illustrated by the fact that the result of Theorem 3.1 may not necessarily hold for seemingly similar but subtly different scheduling disciplines. 
+					</div>
+					<div class="uAuthor">
+						Stability of Random Admissible-Set Scheduling in Spatial Wireless Systems
+					</div>
+										<div class="usage">
+						Instead of selecting an admissible set at random, now consider the scheduling discipline that gives priority to particles that are closest, in anticlockwise direction, to a certain point ζ on the circle. 
+					</div>
+					<div class="uAuthor">
+						Stability of Random Admissible-Set Scheduling in Spatial Wireless Systems
+					</div>
+										<div class="usage">
+						We call this service discipline maximal scheduling with priorities. 
+					</div>
+					<div class="uAuthor">
+						Stability of Random Admissible-Set Scheduling in Spatial Wireless Systems
+					</div>
+										<div class="usage">
+						We demonstrated that the necessary condition is not suﬃcient to achieve stability for seemingly similar but subtly different scheduling disciplines such as maximal scheduling with priorities. 
+					</div>
+					<div class="uAuthor">
+						Stability of Random Admissible-Set Scheduling in Spatial Wireless Systems
+					</div>
+										<div class="usage">
+						After this, we will discuss, which contribution can be made by related scientiﬁc disciplines such as econophysics and the social scienc es. 
+					</div>
+					<div class="uAuthor">
+						Fundamental and Real-World Challenges in Economics
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="punish in order to gain control or enforce obedience"><a href="correct.html">correct</a>, <a href="sort%20out.html">sort out</a>, </div><div class="synGroup" title="develop (children's) behavior by instruction and practice; especially to teach self-control"><a href="train.html">train</a>, <a href="check.html">check</a>, <a href="condition.html">condition</a>, </div><div class="synGroup" title="the act of punishing"><a href="correction.html">correction</a>, </div><div class="synGroup" title="a branch of knowledge"><a href="subject.html">subject</a>, <a href="subject%20area.html">subject area</a>, <a href="subject%20field.html">subject field</a>, <a href="field.html">field</a>, <a href="field%20of%20study.html">field of study</a>, <a href="study.html">study</a>, <a href="bailiwick.html">bailiwick</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="indiscipline.html">indiscipline</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="develop.html">develop</a>, <a href="domain.html">domain</a>, <a href="grooming.html">grooming</a>, <a href="knowledge%20base.html">knowledge base</a>, <a href="knowledge%20domain.html">knowledge domain</a>, <a href="make%20grow.html">make grow</a>, <a href="penalisation.html">penalisation</a>, <a href="penalise.html">penalise</a>, <a href="penalization.html">penalization</a>, <a href="penalize.html">penalize</a>, <a href="penalty.html">penalty</a>, <a href="preparation.html">preparation</a>, <a href="punish.html">punish</a>, <a href="punishment.html">punishment</a>, <a href="system.html">system</a>, <a href="system%20of%20rules.html">system of rules</a>, <a href="training.html">training</a>, <a href="trait.html">trait</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="allometry.html">allometry</a>, <a href="applied%20science.html">applied science</a>, <a href="architecture.html">architecture</a>, <a href="arts.html">arts</a>, <a href="bibliotics.html">bibliotics</a>, <a href="communication%20theory.html">communication theory</a>, <a href="communications.html">communications</a>, <a href="control.html">control</a>, <a href="divinity.html">divinity</a>, <a href="engineering.html">engineering</a>, <a href="engineering%20science.html">engineering science</a>, <a href="escapology.html">escapology</a>, <a href="frontier.html">frontier</a>, <a href="futuristics.html">futuristics</a>, <a href="futurology.html">futurology</a>, <a href="genealogy.html">genealogy</a>, <a href="graphology.html">graphology</a>, <a href="humanistic%20discipline.html">humanistic discipline</a>, <a href="humanities.html">humanities</a>, <a href="liberal%20arts.html">liberal arts</a>, <a href="major.html">major</a>, <a href="military%20science.html">military science</a>, <a href="mortify.html">mortify</a>, <a href="numerology.html">numerology</a>, <a href="occultism.html">occultism</a>, <a href="ology.html">ology</a>, <a href="protology.html">protology</a>, <a href="restraint.html">restraint</a>, <a href="science.html">science</a>, <a href="scientific%20discipline.html">scientific discipline</a>, <a href="self-denial.html">self-denial</a>, <a href="self-discipline.html">self-discipline</a>, <a href="spanking.html">spanking</a>, <a href="technology.html">technology</a>, <a href="theogony.html">theogony</a>, <a href="theology.html">theology</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="disciplinary.html">disciplinary</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abstainer.html">abstainer</a>, <a href="admonition.html">admonition</a>, <a href="Apostolic%20canons.html">Apostolic canons</a>, <a href="applied%20science.html">applied science</a>, <a href="architecture.html">architecture</a>, <a href="art.html">art</a>, <a href="art%20history.html">art history</a>, <a href="Articles%20of%20war.html">Articles of war</a>, <a href="ascetic.html">ascetic</a>, <a href="ascetical.html">ascetical</a>, <a href="asceticism.html">asceticism</a>, <a href="austere.html">austere</a>, <a href="austerity.html">austerity</a>, <a href="ban.html">ban</a>, <a href="basic%20training.html">basic training</a>, <a href="behave.html">behave</a>, <a href="better.html">better</a>, <a href="bishop.html">bishop</a>, <a href="boisterous.html">boisterous</a>, <a href="break.html">break</a>, <a href="breed.html">breed</a>, <a href="breeding.html">breeding</a>, <a href="Buddha.html">Buddha</a>, <a href="Bundobust.html">Bundobust</a>, <a href="Bushido.html">Bushido</a>, <a href="Buttock-mail.html">Buttock-mail</a>, <a href="bystander.html">bystander</a>, <a href="cadet.html">cadet</a>, <a href="canon.html">canon</a>, <a href="Canon-law.html">Canon-law</a>, <a href="castigation.html">castigation</a>, <a href="censor.html">censor</a>, <a href="censure.html">censure</a>, <a href="chapter.html">chapter</a>, <a href="chaste.html">chaste</a>, <a href="chasten.html">chasten</a>, <a href="chastening.html">chastening</a>, <a href="chastise.html">chastise</a>, <a href="chastisement.html">chastisement</a>, <a href="Church%20session.html">Church session</a>, <a href="Churchism.html">Churchism</a>, <a href="Cistercian.html">Cistercian</a>, <a href="college.html">college</a>, <a href="communication%20theory.html">communication theory</a>, <a href="communications.html">communications</a>, <a href="communion.html">communion</a>, <a href="Constitution.html">Constitution</a>, <a href="consuetudinary.html">consuetudinary</a>, <a href="contrariness.html">contrariness</a>, <a href="contrary.html">contrary</a>, <a href="control.html">control</a>, <a href="correct.html">correct</a>, <a href="correction.html">correction</a>, <a href="corrective.html">corrective</a>, <a href="council.html">council</a>, <a href="covenant.html">covenant</a>, <a href="crank.html">crank</a>, <a href="Crofton%20system.html">Crofton system</a>, <a href="cultivation.html">cultivation</a>, <a href="cultural.html">cultural</a>, <a href="culture.html">culture</a>, <a href="custody.html">custody</a>, <a href="Cutty-stool.html">Cutty-stool</a>, <a href="Dean.html">Dean</a>, <a href="decree.html">decree</a>, <a href="demoralization.html">demoralization</a>, <a href="demoralize.html">demoralize</a>, <a href="disciple.html">disciple</a>, <a href="Disciplinable.html">Disciplinable</a>, <a href="Disciplinableness.html">Disciplinableness</a>, <a href="disciplinal.html">disciplinal</a>, <a href="Disciplinant.html">Disciplinant</a>, <a href="disciplinarian.html">disciplinarian</a>, <a href="disciplinary.html">disciplinary</a>, <a href="Disple.html">Disple</a>, <a href="doctrine.html">doctrine</a>, <a href="drill.html">drill</a>, <a href="drill%20instructor.html">drill instructor</a>, <a href="drill%20master.html">drill master</a>, <a href="ecclesiastical.html">ecclesiastical</a>, <a href="Ecclesiastical%20courts.html">Ecclesiastical courts</a>, <a href="ecumenical%20council.html">ecumenical council</a>, <a href="educate.html">educate</a>, <a href="Education.html">Education</a>, <a href="engineering.html">engineering</a>, <a href="engineering%20science.html">engineering science</a>, <a href="English.html">English</a>, <a href="Ephebe.html">Ephebe</a>, <a href="Episcopalian.html">Episcopalian</a>, <a href="exarch.html">exarch</a>, <a href="excommunication.html">excommunication</a>, <a href="exercise.html">exercise</a>, <a href="fast.html">fast</a>, <a href="fellowship.html">fellowship</a>, <a href="First%20Lateran%20Council.html">First Lateran Council</a>, <a href="flagellant.html">flagellant</a>, <a href="Flagellator.html">Flagellator</a>, <a href="form.html">form</a>, <a href="fractiousness.html">fractiousness</a>, <a href="furnace.html">furnace</a>, <a href="gate.html">gate</a>, <a href="Glassite.html">Glassite</a>, <a href="guide.html">guide</a>, <a href="hands.html">hands</a>, <a href="harden.html">harden</a>, <a href="Haul%20over%20the%20coals.html">Haul over the coals</a>, <a href="history.html">history</a>, <a href="In.html">In</a>, <a href="Incorrection.html">Incorrection</a>, <a href="Indisciplinable.html">Indisciplinable</a>, <a href="indiscipline.html">indiscipline</a>, <a href="inspector%20general.html">inspector general</a>, <a href="instruct.html">instruct</a>, <a href="instruction.html">instruction</a>, <a href="inure.html">inure</a>, <a href="Inurement.html">Inurement</a>, <a href="Jansenism.html">Jansenism</a>, <a href="keyboard.html">keyboard</a>, <a href="language.html">language</a>, <a href="lax.html">lax</a>, <a href="legion.html">legion</a>, <a href="legionary.html">legionary</a>, <a href="licentious.html">licentious</a>, <a href="lockout.html">lockout</a>, <a href="manage.html">manage</a>, <a href="maneuver.html">maneuver</a>, <a href="marshal.html">marshal</a>, <a href="martinet.html">martinet</a>, <a href="Martinetism.html">Martinetism</a>, <a href="master-at-arms.html">master-at-arms</a>, <a href="Mathesis.html">Mathesis</a>, <a href="Methodist.html">Methodist</a>, <a href="methodological.html">methodological</a>, <a href="methodological%20analysis.html">methodological analysis</a>, <a href="methodology.html">methodology</a>, <a href="military.html">military</a>, <a href="military%20court.html">military court</a>, <a href="military%20law.html">military law</a>, <a href="military%20police.html">military police</a>, <a href="military%20science.html">military science</a>, <a href="militia.html">militia</a>, <a href="moderate.html">moderate</a>, <a href="Montanism.html">Montanism</a>, <a href="mortify.html">mortify</a>, <a href="MP.html">MP</a>, <a href="mulct.html">mulct</a>, <a href="mutineer.html">mutineer</a>, <a href="mutiny.html">mutiny</a>, <a href="Mutiny%20act.html">Mutiny act</a>, <a href="Neo-Catholic.html">Neo-Catholic</a>, <a href="nomenclature.html">nomenclature</a>, <a href="Novatian.html">Novatian</a>, <a href="novice.html">novice</a>, <a href="nuncio.html">nuncio</a>, <a href="nurture.html">nurture</a>, <a href="oblate.html">oblate</a>, <a href="obstinate.html">obstinate</a>, <a href="official.html">official</a>, <a href="orderly.html">orderly</a>, <a href="paradigm.html">paradigm</a>, <a href="party%20whip.html">party whip</a>, <a href="pedagogics.html">pedagogics</a>, <a href="Pedagogism.html">Pedagogism</a>, <a href="pedagogy.html">pedagogy</a>, <a href="penance.html">penance</a>, <a href="penitent.html">penitent</a>, <a href="penitential.html">penitential</a>, <a href="penitentiary.html">penitentiary</a>, <a href="perfect.html">perfect</a>, <a href="permissive.html">permissive</a>, <a href="perverse.html">perverse</a>, <a href="perverseness.html">perverseness</a>, <a href="perversity.html">perversity</a>, <a href="Platonic.html">Platonic</a>, <a href="pliable.html">pliable</a>, <a href="police%20commissioner.html">police commissioner</a>, <a href="Power%20of%20the%20keys.html">Power of the keys</a>, <a href="practice.html">practice</a>, <a href="praxis.html">praxis</a>, <a href="preparative.html">preparative</a>, <a href="Prepositor.html">Prepositor</a>, <a href="Presbyterian.html">Presbyterian</a>, <a href="presbytery.html">presbytery</a>, <a href="prescribed.html">prescribed</a>, <a href="provost%20marshal.html">provost marshal</a>, <a href="Provost-marshal.html">Provost-marshal</a>, <a href="punish.html">punish</a>, <a href="punishment.html">punishment</a>, <a href="rambunctious.html">rambunctious</a>, <a href="reclaim.html">reclaim</a>, <a href="reform%20school.html">reform school</a>, <a href="reformation.html">reformation</a>, <a href="reformatory.html">reformatory</a>, <a href="reformed.html">reformed</a>, <a href="regiment.html">regiment</a>, <a href="regimentation.html">regimentation</a>, <a href="regular.html">regular</a>, <a href="relax.html">relax</a>, <a href="reserve.html">reserve</a>, <a href="restraint.html">restraint</a>, <a href="retribution.html">retribution</a>, <a href="review.html">review</a>, <a href="rigid.html">rigid</a>, <a href="robustious.html">robustious</a>, <a href="rumbustious.html">rumbustious</a>, <a href="schism.html">schism</a>, <a href="school.html">school</a>, <a href="School-house.html">School-house</a>, <a href="schooling.html">schooling</a>, <a href="Schwenkfelder.html">Schwenkfelder</a>, <a href="Scleragogy.html">Scleragogy</a>, <a href="scourge.html">scourge</a>, <a href="self-denial.html">self-denial</a>, <a href="self-discipline.html">self-discipline</a>, <a href="Senate.html">Senate</a>, <a href="sergeant.html">sergeant</a>, <a href="session.html">session</a>, <a href="severe.html">severe</a>, <a href="Soft-handed.html">Soft-handed</a>, <a href="Spartan.html">Spartan</a>, <a href="stemmatics.html">stemmatics</a>, <a href="stemmatology.html">stemmatology</a>, <a href="Strict%20hand.html">Strict hand</a>, <a href="subdue.html">subdue</a>, <a href="suspend.html">suspend</a>, <a href="tame.html">tame</a>, <a href="Targe.html">Targe</a>, <a href="Taut%20hand.html">Taut hand</a>, <a href="technology.html">technology</a>, <a href="terminology.html">terminology</a>, <a href="To%20go%20through%20the%20mill.html">To go through the mill</a>, <a href="tradition.html">tradition</a>, <a href="train.html">train</a>, <a href="Train%20fine.html">Train fine</a>, <a href="trainer.html">trainer</a>, <a href="training%20school.html">training school</a>, <a href="Trappist.html">Trappist</a>, <a href="Tread-mill.html">Tread-mill</a>, <a href="treadmill.html">treadmill</a>, <a href="Tripitaka.html">Tripitaka</a>, <a href="tyranny.html">tyranny</a>, <a href="ultramontane.html">ultramontane</a>, <a href="ultramontanism.html">ultramontanism</a>, <a href="uncorrected.html">uncorrected</a>, <a href="undiscipline.html">undiscipline</a>, <a href="undisciplined.html">undisciplined</a>, <a href="ungoverned.html">ungoverned</a>, <a href="Uniat.html">Uniat</a>, <a href="united.html">united</a>, <a href="unpermissive.html">unpermissive</a>, <a href="unregulated.html">unregulated</a>, <a href="unruliness.html">unruliness</a>, <a href="unruly.html">unruly</a>, <a href="volunteer.html">volunteer</a>, <a href="Volunteer%20navy.html">Volunteer navy</a>, <a href="wayward.html">wayward</a>, <a href="whip.html">whip</a>, <a href="whipper-in.html">whipper-in</a>, <a href="Whipperin.html">Whipperin</a>, <a href="wilfulness.html">wilfulness</a>, <a href="willfulness.html">willfulness</a>, <a href="work.html">work</a>, <a href="yoga.html">yoga</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					siscipline, eiscipline, fiscipline, ciscipline, xiscipline, siscipline, duscipline, djscipline, dkscipline, doscipline, diacipline, diwcipline, didcipline, dixcipline, dizcipline, diacipline, disxipline, disdipline, disfipline, disvipline, discupline, discjpline, disckpline, discopline, discioline, discilline, discipkine, discipoine, discippine, disciplune, discipljne, disciplkne, disciplone, disciplibe, disciplihe, disciplije, disciplime, disciplinw, disciplins, disciplind, disciplinr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

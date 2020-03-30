@@ -1,0 +1,552 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>vigilance</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">vigilance</span> <span class="exp">vigilant attentiveness</span> <span class="quot">"he keeps a weather eye open for trouble"</span></li><li><span class="tSpeech">n</span> <span class="term">vigilance</span> <span class="exp">the process of paying close and continuous attention</span> <span class="quot">"wakefulness, watchfulness, and bellicosity make a good hunter","vigilance is especially susceptible to fatigue"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										This is what the red, white, and blue on the US flag represent: The Continental Congress left no record to show why it chose the colors. However, in 1782, the Congress of the Confederation chose these same colors for the Great Seal of the United States and listed their meaning as follows: white to mean purity and innocence, red for valor and hardiness, and blue for vigilance, perseverance, and justice. According to legend, George Washington interpreted the elements of the flag this way: the stars were taken from the sky, the red from the British colors, and the white stripes signified the secession from the home country. However, there is no official designation or meaning for the colors of the flag.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Vigilance</span> <span class="exp">Guard; watch.</span> <span class="wuQuot">"In at this gate none pass the vigilance here placed."</span></li><li><span class="term">Vigilance</span> <span class="exp">The quality or state of being vigilant; forbearance of sleep; wakefulness.</span> </li><li><span class="term">Vigilance</span> <span class="exp">Watchfulness in respect of danger; care; caution; circumspection.</span> <span class="wuQuot">"And flaming ministers to watch and tend<br>
+Their earthly charge; of these the vigilance I dread."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">vigilance</span> <span class="exp">Wakefulness.</span> </li><li><span class="tSpeech">n</span> <span class="term">vigilance</span> <span class="exp">The state or character of being vigilant; watchfulness in discovering or guarding against danger, or in providing for safety; circumspection; caution.</span> </li><li><span class="tSpeech">n</span> <span class="term">vigilance</span> <span class="exp">Specifically, watchfulness during the hours of night.</span> </li><li><span class="tSpeech">n</span> <span class="term">vigilance</span> <span class="exp">In medicine, a form of insomnia.</span> </li><li><span class="tSpeech">n</span> <span class="term">vigilance</span> <span class="exp">A guard or watch.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Vigilance</span> <span class="exp">wakefulness: watchfulness: circumspection:</span> </li><li><span class="tSpeech">n</span> <span class="term">Vigilance</span> <span class="exp">(<span class="itl">obs.</span>) a guard, watch</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">C. J. Weber</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="C. J. Weber">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Vigilance is the virtue of vice.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Douglas Macarthur</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Douglas%20Macarthur.jpg" alt="Douglas%20Macarthur">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“No man is entitled to the blessings of freedom unless he be vigilant in its preservation.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Orwell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Orwell.jpg" alt="George%20Orwell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I sometimes think that the price of liberty is not so much eternal vigilance as eternal dirt.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edward G. Bulwer-Lytton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edward%20G.%20Bulwer-Lytton.jpg" alt="Edward%20G.%20Bulwer-Lytton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Every man who observes vigilantly and resolves steadfastly grows unconsciously into genius.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Johnson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Johnson.jpg" alt="Samuel%20Johnson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is, indeed, nothing that so much seduces reason from vigilance, as the thought of passing life with an amiable woman.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oliver Wendell Holmes Jr.</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oliver%20Wendell%20Holmes%20Jr..jpg" alt="Oliver%20Wendell%20Holmes%20Jr.">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We should be eternally vigilant against attempts to check the expression of opinions that we loathe.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">vigilantia</span>,: cf. F. <span class="wUets">vigilance</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>vigilia</i>—<i>vigil</i>, awake, watchful—<i>vigēre</i>, to be lively.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It's my task to make this voyage your Vigil; and a perfect Vigil.
+					</div>
+					<div class="uAuthor">
+						"Tell England" by <span>Ernest Raymond</span>					</div>
+										<div class="usage">
+						She could not escape, for he watched her with cat-like vigilance.
+					</div>
+					<div class="uAuthor">
+						"Idle Hour Stories" by <span>Eugenia Dunlap Potts</span>					</div>
+										<div class="usage">
+						He must be humble, must have his passions under complete control, must be patient, vigilant, and devoted to studies.
+					</div>
+					<div class="uAuthor">
+						"The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1"					</div>
+										<div class="usage">
+						Be thou watchful and vigilant, and keep thine eyes and thine ears alike open.
+					</div>
+					<div class="uAuthor">
+						"The Secret Chamber at Chad" by <span>Evelyn Everett-Green</span>					</div>
+										<div class="usage">
+						Was there coma vigil when the end came?
+					</div>
+					<div class="uAuthor">
+						"A Man's Woman" by <span>Frank Norris</span>					</div>
+										<div class="usage">
+						The vigilant gardener is not surprised by the weather, but is always armed for an emergency.
+					</div>
+					<div class="uAuthor">
+						"The Culture of Vegetables and Flowers From Seeds and Roots, 16th Edition" by <span>Sutton and Sons</span>					</div>
+										<div class="usage">
+						There was need to be vigilant.
+					</div>
+					<div class="uAuthor">
+						"Guy Rivers: A Tale of Georgia" by <span>William Gilmore Simms</span>					</div>
+										<div class="usage">
+						On the Vigil of St. Thomas the Apostle, died Gerlac ten Water, a Clerk of the town of Kampen.
+					</div>
+					<div class="uAuthor">
+						"The Chronicle of the Canons Regular of Mount St. Agnes" by <span>Thomas a Kempis</span>					</div>
+										<div class="usage">
+						He would be a knight unfit for his vigil if he were to let himself be so easily balked.
+					</div>
+					<div class="uAuthor">
+						"The Dreamer" by <span>Mary Newton Stanard</span>					</div>
+										<div class="usage">
+						The chief, weary of his vigil, agreed readily enough, and Umballa turned over the silver.
+					</div>
+					<div class="uAuthor">
+						"The Adventures of Kathlyn" by <span>Harold MacGrath</span>					</div>
+										<div class="usage">
+						He thought this was the finishing touch to my vigil.
+					</div>
+					<div class="uAuthor">
+						"From the Bottom Up" by <span>Alexander Irvine</span>					</div>
+										<div class="usage">
+						Vigilant, sagacious and brave, but with most inadequate forces, Brock, faced by a crisis, hurried to repel the invasion by Hull.
+					</div>
+					<div class="uAuthor">
+						"The Story of Isaac Brock" by <span>Walter R. Nursey</span>					</div>
+										<div class="usage">
+						Vividly Henry recalled the long vigils at Camp Brady, when he sat for many hours at a time listening for the call of the dynamiters.
+					</div>
+					<div class="uAuthor">
+						"The Secret Wireless" by <span>Lewis E. Theiss</span>					</div>
+										<div class="usage">
+						So Foyle left Green and his companion to continue their unobtrusive vigil.
+					</div>
+					<div class="uAuthor">
+						"The Grell Mystery" by <span>Frank Froest</span>					</div>
+										<div class="usage">
+						He should also exercise perpetual vigilance with regard to their safety and condition.
+					</div>
+					<div class="uAuthor">
+						"A Book for All Readers" by <span>Ainsworth Rand Spofford</span>					</div>
+										<div class="usage">
+						These reports were, indeed, constantly circulated, and tended to damp the ardour and diminish the vigilance of the line.
+					</div>
+					<div class="uAuthor">
+						"The History of Tasmania , Volume II (of 2)" by <span>John West</span>					</div>
+										<div class="usage">
+						And Lize herself still kept her vigil in her chair above her gold.
+					</div>
+					<div class="uAuthor">
+						"Cavanaugh: Forest Ranger" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						Reid watched the movements of the enemy with eager vigilance.
+					</div>
+					<div class="uAuthor">
+						"The Naval History of the United States" by <span>Willis J. Abbot</span>					</div>
+										<div class="usage">
+						Safety, order, and discipline, are the effects of his vigilance and activity.
+					</div>
+					<div class="uAuthor">
+						"Anecdotes of Dogs" by <span>Edward Jesse</span>					</div>
+										<div class="usage">
+						Day after day ceaseless vigilance was maintained.
+					</div>
+					<div class="uAuthor">
+						"The Submarine Hunters" by <span>Percy F. Westerman</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							They are not there now in the evening--<br>
+Morning or noon--not there;<br>
+Yet I know that they keep their vigil,<br>
+And wait for me Somewhere.
+							<div class="poet">"In The Dark" by <span>James Whitcomb Riley</span></div>
+						</div>
+											<div class="poemQuote">
+							Sleep on, O baby, while I keep<br>
+My vigils till this day be passed!<br>
+Then shall I, too, lie down at last,<br>
+And with my baby darling sleep.
+							<div class="poet">"The Sleeping Child" by <span>Eugene Field</span></div>
+						</div>
+											<div class="poemQuote">
+							Through vigils late and labours long,<br>
+Through all world-weariness and wrong,<br>
+So guide them to Thine evensong:<br>
+GOD the SPIRIT, hear us.
+							<div class="poet">"Confirmation Litany Hymn" by <span>Samuel John Stone</span></div>
+						</div>
+											<div class="poemQuote">
+							At Mary's tomb (sad sacred place!)<br>
+The Virtues shall their vigils keep,<br>
+And every Muse and every Grace<br>
+In solemn state shall ever weep.
+							<div class="poet">"An Ode - Presented To The King, On His Majesty's Arrival In Holland, After The Queen's Death" by <span>Matthew Prior</span></div>
+						</div>
+											<div class="poemQuote">
+							Could you only feel their trials,<br>
+Know their vigils fraught with care<br>
+You’d not add a feather’s burden<br>
+To the cross they strive to bear.
+							<div class="poet">"Have Charity" by <span>Joseph Warren Watson</span></div>
+						</div>
+											<div class="poemQuote">
+							So standeth Faith within the night<br>
+With face alight and vigil-drawn,<br>
+Thro’ all the peril-haunted hour<br>
+Watching for Thought beyond the dawn.
+							<div class="poet">"The Night Watch" by <span>John William Streets</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Savita Halappanavar's death sparks vigils across Ireland, England as thousands gather to pay tribute, call for change.
+					</div>
+					<div class="uAuthor">
+						<a href="http://globalpost.com/dispatch/news/regions/europe/ireland/121117/savita-halappanavar-protest-march-calls-review-irelands-" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<div class="usage">
+						Supporters work on a sign before the candlelight vigil for Saanvi Venna.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/news/175711401.html?cmpid=15585797" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						Prayer vigil outside St Mary's Church in Jamesville, NY.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.syracuse.com/news/index.ssf/2012/04/st_marys_church_rectory_in_jam.html" target="_blank" rel="external nofollow">syracuse.com</a>
+					</div>
+										<div class="usage">
+						An Ohio woman is safe in Florida after her disappearance touched off frantic searches and daily prayer vigils.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/stories/2010/04/23/earlyshow/main6424617.shtml" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Family and friends of Damien King, 18, who was killed at a Riverbank house party over the weekend, gathered at his home in west Modesto for a candlelight vigil Monday evening.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.modbee.com/2012/11/26/2471092/family-gathers-in-modesto-to-mourn.html" target="_blank" rel="external nofollow">modbee.com</a>
+					</div>
+										<div class="usage">
+						Leadership, from the board of directors down, plays a key role in cultural change, and must be visible and vigilant in its commitment.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chemicalprocessing.com/articles/2011/make-safety-second-nature.html?start=1" target="_blank" rel="external nofollow">chemicalprocessing.com</a>
+					</div>
+										<div class="usage">
+						Stephen D Cannerelli / The Post-Standard Prayer Vigil for Baby Easton Friedel gallery (8 photos).
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.syracuse.com/news/index.ssf/2012/09/vigil_for_baby_easton_in_aubur.html" target="_blank" rel="external nofollow">syracuse.com</a>
+					</div>
+										<div class="usage">
+						Environmentalists need to be vigilant on every front.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/opinion/opinionla/la-ed-0627-warming-20110627,0,3757353.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						A recent vigil held in the alley near where Percell Bagley was shot.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.phoenixnewtimes.com/2011-06-23/news/the-name-of-a-shooting-victim-is-uncovered-and-a-divide-is-exposed-in-phoenix-s-st-matthew-neighborhood/" target="_blank" rel="external nofollow">phoenixnewtimes.com</a>
+					</div>
+										<div class="usage">
+						Vigil held to oppose death of Hubert Michael.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wgal.com/news/susquehanna-valley/york-adams/Convicted-killer-faces-execution-in-York-County-case/-/9704248/17285250/-/rq3aisz/-/index.html" target="_blank" rel="external nofollow">wgal.com</a>
+					</div>
+										<div class="usage">
+						Candlelight vigil celebrates stay of execution .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wgal.com/news/susquehanna-valley/york-adams/Convicted-killer-faces-execution-in-York-County-case/-/9704248/17285250/-/rq3aisz/-/index.html" target="_blank" rel="external nofollow">wgal.com</a>
+					</div>
+										<div class="usage">
+						There will be a vigil and rosary Monday night at 7 pm which is scheduled to last for an hour.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/kfsn/story?section=news/local&amp;id=7840039" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						Vigil marks 44th anniversary of MLK's assassination.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wjla.com/articles/2012/04/martin-luther-king-jr-vigil-marks-44th-anniversary-of-mlk-s-assassination-74540.html" target="_blank" rel="external nofollow">wjla.com</a>
+					</div>
+										<div class="usage">
+						I covered the candlelight vigil which kicked off the week, hearing from a teenager whose mother had been stabbed to death.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wibw.com/blogs/melissa/Make_It_More_Than_a_Week_without_Violence_174255491.html" target="_blank" rel="external nofollow">wibw.com</a>
+					</div>
+										<div class="usage">
+						Vigilance against Islamic terror abroad, at home, must not abate .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tcpalm.com/news/2012/dec/10/letter-vigilance-against-islamic-terror-abroad/" target="_blank" rel="external nofollow">tcpalm.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						There are suggestions that nonsynaptic diffusion neurotransmission plays a fundamental role in certain sustained brain functions which include vigilance, hunger, mood, responses to certain sensory stimuli as well as abnormal functions like mood disorder, spinal shock, spasticity and drug addiction. 
+					</div>
+					<div class="uAuthor">
+						Reaction diffusion processes on random and scale-free networks
+					</div>
+										<div class="usage">
+						We have identiﬁed four areas that are either in danger of deteriorating and require vigilance on the part of the community to sustain, or are in need of improvement. 
+					</div>
+					<div class="uAuthor">
+						Challenges facing young astrophysicists
+					</div>
+										<div class="usage">
+						There is another similar aspect in which chaotic dynamics may enhance the vigilance of living organisms. 
+					</div>
+					<div class="uAuthor">
+						Review of Nonlinear Methods and Modelling
+					</div>
+										<div class="usage">
+						Vigilance of the hen: - Alert behaviours: the hen raises her head or inclines the head with a stretched neck. - "Motionless Awake-Upright" behaviours: the hen remains upright without moving and observes its surrounds. 
+					</div>
+					<div class="uAuthor">
+						Post-hatching parental care behaviour and hormonal status in a precocial bird
+					</div>
+										<div class="usage">
+						Vigilance behaviours are involved in the protection of ducklings all the time since they will be vulnerable to predators. 
+					</div>
+					<div class="uAuthor">
+						Post-hatching parental care behaviour and hormonal status in a precocial bird
+					</div>
+										<div class="usage">
+						The breeding behaviour of the pink-footed goose: parental care and vigilant behaviour during the fledging period. 
+					</div>
+					<div class="uAuthor">
+						Post-hatching parental care behaviour and hormonal status in a precocial bird
+					</div>
+										<div class="usage">
+						Meetings must be kept reasonably short to prevent loss of vigilance. (cid:190) Process Improvement. 
+					</div>
+					<div class="uAuthor">
+						Recommended Practices for Spreadsheet Testing
+					</div>
+										<div class="usage">
+						Johnson (2001) and panmictic species represented by the Vigilant et al. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Intraspecific Variation and Interspecific Diversity: comparing humans and fish species
+					</div>
+										<div class="usage">
+						Figure 5: Results for the Vigilant et al. (h)(1991) HVRI bootstrap analysis involving a worldwide distribution of modern humans (bootstrap scores under 60% not shown). 
+					</div>
+					<div class="uAuthor">
+						Evaluating Intraspecific Variation and Interspecific Diversity: comparing humans and fish species
+					</div>
+										<div class="usage">
+						Figure 6: Results for the Vigilant et al. (h)(1991) HVRII bootstrap analysis involving a worldwide distribution of modern humans (bootstrap scores under 60% not shown). 
+					</div>
+					<div class="uAuthor">
+						Evaluating Intraspecific Variation and Interspecific Diversity: comparing humans and fish species
+					</div>
+										<div class="usage">
+						Vigilant et al. (h)(1991) modern human phylogeny. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Intraspecific Variation and Interspecific Diversity: comparing humans and fish species
+					</div>
+										<div class="usage">
+						HVRI and five clades in the HVRII were defined from the Vigilant et al. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Intraspecific Variation and Interspecific Diversity: comparing humans and fish species
+					</div>
+										<div class="usage">
+						Arlequin (Schneider et al. 2000) by using the Vigilant et al. 
+					</div>
+					<div class="uAuthor">
+						Evaluating Intraspecific Variation and Interspecific Diversity: comparing humans and fish species
+					</div>
+										<div class="usage">
+						Gravitational-wave interferometers is a relatively new ﬁeld and one has to be vigilant for the possibility that an important noise source has been overlooked. 
+					</div>
+					<div class="uAuthor">
+						Creep events and creep noise in gravitational-wave interferometers: basic formalism and stationary limit
+					</div>
+										<div class="usage">
+						This, however, does not excuse one from vigilance for signiﬁcant deviations from perturbative predictions. 
+					</div>
+					<div class="uAuthor">
+						QCD Tests in Proton-Antiproton Collisions
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="vigilant attentiveness"><a href="weather%20eye.html">weather eye</a>, </div><div class="synGroup" title="the process of paying close and continuous attention"><a href="alertness.html">alertness</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="attention.html">attention</a>, <a href="attentiveness.html">attentiveness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="jealousy.html">jealousy</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="watchful.html">watchful</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="agrypnia.html">agrypnia</a>, <a href="alarm.html">alarm</a>, <a href="alarmed.html">alarmed</a>, <a href="alert.html">alert</a>, <a href="alertly.html">alertly</a>, <a href="awake.html">awake</a>, <a href="beware.html">beware</a>, <a href="Camorra.html">Camorra</a>, <a href="carefulness.html">carefulness</a>, <a href="circumspection.html">circumspection</a>, <a href="Circumspectness.html">Circumspectness</a>, <a href="diligence.html">diligence</a>, <a href="guard.html">guard</a>, <a href="Invigilance.html">Invigilance</a>, <a href="Invigilancy.html">Invigilancy</a>, <a href="jealously.html">jealously</a>, <a href="Jealousness.html">Jealousness</a>, <a href="jealousy.html">jealousy</a>, <a href="lookout.html">lookout</a>, <a href="patriotic.html">patriotic</a>, <a href="secureness.html">secureness</a>, <a href="sleeping.html">sleeping</a>, <a href="Sleepish.html">Sleepish</a>, <a href="To%20take%20care.html">To take care</a>, <a href="vigilance%20man.html">vigilance man</a>, <a href="Vigilancy.html">Vigilancy</a>, <a href="vigilant.html">vigilant</a>, <a href="vigilante.html">vigilante</a>, <a href="vigilantism.html">vigilantism</a>, <a href="watch.html">watch</a>, <a href="Watch%20and%20ward.html">Watch and ward</a>, <a href="whitecap.html">whitecap</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					cigilance, figilance, gigilance, bigilance, vugilance, vjgilance, vkgilance, vogilance, vifilance, vitilance, vihilance, vibilance, vivilance, vigulance, vigjlance, vigklance, vigolance, vigikance, vigioance, vigipance, vigilqnce, vigilwnce, vigilsnce, vigilznce, vigilabce, vigilahce, vigilajce, vigilamce, vigilanxe, vigilande, vigilanfe, vigilanve, vigilancw, vigilancs, vigilancd, vigilancr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,548 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>miracle</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">miracle</span> <span class="exp">a marvellous event manifesting a supernatural act of a divine agent</span> </li><li><span class="tSpeech">n</span> <span class="term">miracle</span> <span class="exp">any amazing or wonderful occurrence</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The original coke contained cocaine and was labeled as a "cure all miracle drug". It became the popular soda when it carbonated water was accidentally added to it. The cocaine, however, was later removed when people began to become addicted.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Miracle</span> <span class="exp">A miracle play.</span> </li><li><span class="term">Miracle</span> <span class="exp">A story or legend abounding in miracles.</span> <span class="wuQuot">"When said was all this miracle ."</span></li><li><span class="term">Miracle</span> <span class="exp">A wonder or wonderful thing.</span> <span class="wuQuot">"That miracle and queen of genus."</span></li><li><span class="term">Miracle</span> <span class="exp">An event or effect contrary to the established constitution and course of things, or a deviation from the known laws of nature; a supernatural event, or one transcending the ordinary laws by which the universe is governed.</span> <span class="wuQuot">"They considered not the miracle of the loaves."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Miracle</span> <span class="exp">To make wonderful.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">miracle</span> <span class="exp">A wonder, or a wonderful thing; something that excites admiration or astonishment.</span> </li><li><span class="tSpeech">n</span> <span class="term">miracle</span> <span class="exp">An effect in nature not attributable to any of the recognized operations of nature nor to the act of man, but indicative of superhuman power, and serving as a sign or witness thereof; a wonderful work, manifesting a power superior to the ordinary forces of nature.</span> </li><li><span class="tSpeech">n</span> <span class="term">miracle</span> <span class="exp">A miraculous story; a legend.</span> </li><li><span class="tSpeech">n</span> <span class="term">miracle</span> <span class="exp">In the middle ages, one of a class of spectacles or dramatic representations exhibiting the lives of the saints or other sacred subjects; a miracle-play, somewhat resembling that still held at Oberammergau in Bavaria. Compare myatery, 4.</span> </li><li><span class="term">miracle</span> <span class="exp">To work wonders or miracles.</span> </li><li><span class="term">miracle</span> <span class="exp">To make wonderful.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Miracle</span> <span class="exp"><span class="itl">mir′a-kl</span> anything wonderful: a prodigy: anything beyond human power, and away from the common action of the laws of nature: a supernatural <span class="itl">event.</span>—<span class="itl">ns.</span> <span class="bld">Mir′acle-mong′er</span>, one who pretends to work miracles; <span class="bld">Mir′acle-play</span>, a medieval form of drama founded on Old or New Testament history, or the legends of the saints</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Helen Keller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Helen%20Keller.jpg" alt="Helen%20Keller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“When we do the best we can, we never know what miracle is wrought in our life, or in the life of another.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Christopher Bailey</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Henry Christopher Bailey">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In order to be a realist you must believe in miracles.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert H. Schuller</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Robert%20H.%20Schuller.jpg" alt="Robert%20H.%20Schuller">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Impossible situations can become possible miracles.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Louise L. Hay</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Louise L. Hay">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Love is the great miracle cure. Loving ourselves works miracles in our lives.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">David Ben-Gurion</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="David Ben-Gurion">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Anyone who doesn't believe in miracles is not a realist.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Willa Cather</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Willa%20Cather.jpg" alt="Willa%20Cather">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Where there is great love there are always miracles.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F., fr. L. <span class="wUets">miraculum</span>, fr. <span class="wUets">mirari</span>, to wonder. See <span class="wUer">Marvel</span>, and cf. <span class="wUer">Mirror</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>miraculum</i>—<i>mirāri</i>, <i>-ātus</i>, to wonder.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						I said that it was a miracle, and yet the Lord knows it was no miracle at all.
+					</div>
+					<div class="uAuthor">
+						"The House Under the Sea" by <span>Sir Max Pemberton</span>					</div>
+										<div class="usage">
+						A miracle had been wrought in the very texture of his brow.
+					</div>
+					<div class="uAuthor">
+						"In a Little Town" by <span>Rupert Hughes</span>					</div>
+										<div class="usage">
+						Then follows a list of 24 miracles, and text; then on f. 101 a list of 13 miracles, followed by text.
+					</div>
+					<div class="uAuthor">
+						"Henry the Sixth" by <span>John Blacman</span>					</div>
+										<div class="usage">
+						She had prayed for a miracle; and the miracle had happened.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Thunder Mountain" by <span>Edfrid A. Bingham</span>					</div>
+										<div class="usage">
+						The miracle of miracles.
+					</div>
+					<div class="uAuthor">
+						"Dreamers of the Ghetto" by <span>I. Zangwill</span>					</div>
+										<div class="usage">
+						And this to me was a miracle, the one great miracle of the strike.
+					</div>
+					<div class="uAuthor">
+						"The Harbor" by <span>Ernest Poole</span>					</div>
+										<div class="usage">
+						When the Agnostic speaks of the "possibility" of miracles, he only means that we cannot prove a universal negative.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						Science and miracle cannot live together, and miracle and providence are the same thing.
+					</div>
+					<div class="uAuthor">
+						"Flowers of Freethought" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						Jesus wrought the miracle at other people's expense.
+					</div>
+					<div class="uAuthor">
+						"Bible Romances" by <span>George W. Foote</span>					</div>
+										<div class="usage">
+						No miracle, except the miracle of American medical know-how.
+					</div>
+					<div class="uAuthor">
+						"Prologue to an Analogue" by <span>Leigh Richmond</span>					</div>
+										<div class="usage">
+						The miracle lay before him.
+					</div>
+					<div class="uAuthor">
+						"The Passing of Ku Sui" by <span>Anthony Gilmore</span>					</div>
+										<div class="usage">
+						And the miracle of miracles is Jesus Christ himself!
+					</div>
+					<div class="uAuthor">
+						"Carmen Ariza" by <span>Charles Francis Stocking</span>					</div>
+										<div class="usage">
+						There is a sort of implication that the Deity will not descend to vulgar miracle-working.
+					</div>
+					<div class="uAuthor">
+						"God and Mr. Wells" by <span>William Archer</span>					</div>
+										<div class="usage">
+						Every thing, therefore, is a miracle, in one sense; whilst, in the other sense, there is no such thing as a miracle.
+					</div>
+					<div class="uAuthor">
+						"The Writings Of Thomas Paine, Complete" by <span>Thomas Paine</span>					</div>
+										<div class="usage">
+						I therefore inquire, What is a miracle?
+					</div>
+					<div class="uAuthor">
+						"Letters to Eugenia" by <span>Baron d'Holbach</span>					</div>
+										<div class="usage">
+						It had its fables, legends, miracles.
+					</div>
+					<div class="uAuthor">
+						"History of the Intellectual Development of Europe, Volume I (of 2)" by <span>John William Draper</span>					</div>
+										<div class="usage">
+						It is the first time I have seen the miracle.
+					</div>
+					<div class="uAuthor">
+						"Banked Fires" by <span>E. W. (Ethel Winifred) Savi</span>					</div>
+										<div class="usage">
+						This zealous man worked miracles both before and after his death.
+					</div>
+					<div class="uAuthor">
+						"Old and New London" by <span>Walter Thornbury</span>					</div>
+										<div class="usage">
+						They also were sure he would soon be recognized worldwide as the miracle worker he was.
+					</div>
+					<div class="uAuthor">
+						"Syndrome" by <span>Thomas Hoover</span>					</div>
+										<div class="usage">
+						Many reports of miracles worked by thee have come to our ears.
+					</div>
+					<div class="uAuthor">
+						"John the Baptist: A Play" by <span>Hermann Sudermann</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"Who slowly move amid our fears<br>
+At all the wild results we see,<br>
+Who work within the toiling years<br>
+And shape the miracles to be.
+							<div class="poet">"Life's Little Day" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							Learning and wit may cease their strife,<br>
+When miracles with glory shine;<br>
+The voice that calls the dead to life<br>
+Must be almighty and divine.
+							<div class="poet">"Hymn 4  part 2" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Behold a miracle! for when that Other<br>
+Had drunk, he rose and cried,<br>
+“Let us pass on!” As brother might with brother<br>
+So went they, side by side; 
+							<div class="poet">"His Mate" by <span>Victor James  Daley</span></div>
+						</div>
+											<div class="poemQuote">
+							Come, my Lucasia, since we see That miracles Men's Faith do move,<br>
+By wonder and by prodigy<br>
+To the dull angry World let's prove<br>
+There's a Religion in our Love. 
+							<div class="poet">"Friendships Mystery, To My Dearest Lucasia" by <span>Katherine Philips</span></div>
+						</div>
+											<div class="poemQuote">
+							"Howe'er, thy trumpery flashes play<br>
+Among the miracles above thee,<br>
+Be taught to feel thy Maker's sway,<br>
+To labour, so that He shall love thee,<br>
+And guide thy way.
+							<div class="poet">"Mount Arafa" by <span>Richard Doddridge Blackmore</span></div>
+						</div>
+											<div class="poemQuote">
+							Are you evil or good? You are altogether from another world<br>
+They say strange things about you<br>
+For some you are the Muse and a miracle.<br>
+For me you are torment and hell. 
+							<div class="poet">"To the Muse" by <span>Aleksandr Aleksandrovich Blok</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Some families watch it together year after year at this time, like Miracle on 34th Street and varying versions of A Christmas Carol.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.westword.com/2011-12-15/culture/its-a-wonderful-life-play-denver/" target="_blank" rel="external nofollow">westword.com</a>
+					</div>
+										<div class="usage">
+						Bobbye Hartdegen called to tell me a miracle had happened in Folsom.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/pets/index.ssf/2012/07/holy_water_right_medicine_for.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						When Cora Lorenzo, a woman of deep faith, returned from her trip to the sacred ground of Lourdes, France, she never expected a miracle to follow her home.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.oprah.com/own-miracle-detectives/Miracle-Detectives-Mysterious-Oils_3" target="_blank" rel="external nofollow">oprah.com</a>
+					</div>
+										<div class="usage">
+						So the 9-year-old first killed the weeds in her container garden, gave the plant some Miracle-Gro and water — and waited.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thedailytimes.com/Blount_Life/story/Blount-County-girl-grows-humongous-cabbage-id-025381" target="_blank" rel="external nofollow">thedailytimes.com</a>
+					</div>
+										<div class="usage">
+						Talk about the miracle of brilliant marketing: Did you know most bottled water is actually filtered municipal water.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.aarp.org/2012/07/31/stay-hydrated-sure-but-why-are-we-paying-for-filtered-tap-water/" target="_blank" rel="external nofollow">blog.aarp.org</a>
+					</div>
+										<div class="usage">
+						A competent hypnotherapist, working with a highly suggestible client-subject, can create apparent miracles.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.queensledger.com/pages/full_story/push?article-Hypnosis+and+its+miracles-%20&amp;id=12600550" target="_blank" rel="external nofollow">queensledger.com</a>
+					</div>
+										<div class="usage">
+						From a surprise in Southampton to what some are calling a Sag Harbor miracle, it was another busy week at the desk of the Hamptons Police Blotter.
+					</div>
+					<div class="uAuthor">
+						<a href="http://danshamptons.com/article/police-blotter/police-blotter/hamptons-police-blotter-cell-phone-flap-stolen-ice-scraper/" target="_blank" rel="external nofollow">danshamptons.com</a>
+					</div>
+										<div class="usage">
+						Robert Garrigus hits his tee shot on the tenth hole during the first round of the Children's Miracle Network Hospitals Classic golf tournament in Lake Buena Vista, Fla. On Thursday, Nov 8, 2012 JULIE FLETCHER — AP Photo.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sunherald.com/2012/11/09/4292989/villegas-in-good-spirits-needs.html" target="_blank" rel="external nofollow">sunherald.com</a>
+					</div>
+										<div class="usage">
+						Robert Garrigus hits his tee shot on the tenth hole during the first round of the Children's Miracle Network Hospitals Classic golf tournament in Lake Buena Vista, Fla. On Thursday, Nov 8, 2012.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansascity.com/2012/11/08/3907558/charlie-wi-takes-lead-at-disney.html?storylink=digger-topic" target="_blank" rel="external nofollow">kansascity.com</a>
+					</div>
+										<div class="usage">
+						If you don't believe in miracles you'd be wasting your time trying to convince Nick Headrick, who was in dire need of a kidney donor for a lifesaving transplant and got one in the nick of time .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.clevelandbanner.com/view/full_story/16085743/article-Nick-Headrick--Rescued-in-the-nick-of-time?instance=main_article" target="_blank" rel="external nofollow">clevelandbanner.com</a>
+					</div>
+										<div class="usage">
+						The Empire State Building was a miracle of Depression-era America.
+					</div>
+					<div class="uAuthor">
+						<a href="http://observer.com/2006/07/a-skyscraper-in-theory-and-its-myriad-meanings/" target="_blank" rel="external nofollow">observer.com</a>
+					</div>
+										<div class="usage">
+						I've been hearing about this magical / miracle program being offered in our community for four years.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bocabeacon.com/news/featured-news/4423-letter-to-the-editor-a-long-wait-for-the-munchkins-all-in-vain" target="_blank" rel="external nofollow">bocabeacon.com</a>
+					</div>
+										<div class="usage">
+						Don't believe everything you read about miracle health foods, especially if it's in an ad written by the company that makes the product.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mensfitness.com/nutrition/what-to-drink/pomegranate-juice-is-full-of-hot-air" target="_blank" rel="external nofollow">mensfitness.com</a>
+					</div>
+										<div class="usage">
+						It's something of an urban miracle how quickly NYC has gone from being a barbecue wasteland to a national 'cue capital.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/2012-03-28/restaurants/john-brown-smokehouse-long-island-city-gets-a-great-barbecue/" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						So what is this miracle cash crop of the future.
+					</div>
+					<div class="uAuthor">
+						<a href="http://minnesota.publicradio.org/features/npr.php?id=162728509" target="_blank" rel="external nofollow">minnesota.publicradio.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Given its simplicity, its success is often referred as the Press &amp; Schechter miracle. 
+					</div>
+					<div class="uAuthor">
+						Cosmological parameters from Galaxy Clusters: an Introduction
+					</div>
+										<div class="usage">
+						Unfortunately miracles are not allowed in science. 
+					</div>
+					<div class="uAuthor">
+						Cosmological parameters from Galaxy Clusters: an Introduction
+					</div>
+										<div class="usage">
+						Has there anything been gained as compared to the Wheeler – DeWitt framework? Any serious theoretical physicist will conﬁrm that it is almost a miracle that one can tame mathematical monsters such as the area, volume, Hamiltonian constraint or Master constraint operator at al l. 
+					</div>
+					<div class="uAuthor">
+						Loop Quantum Gravity: An Inside View
+					</div>
+										<div class="usage">
+						This phenomenon – the AdS/CFT duality – is a miracle occurring due to near-black-hole setting. 
+					</div>
+					<div class="uAuthor">
+						Quark-Gluon Plasma - New Frontiers
+					</div>
+										<div class="usage">
+						If all unstable modes had the same chances to grow, then the occurrence of detectable pulsation would have be regarded a miracle. 
+					</div>
+					<div class="uAuthor">
+						Driving mechanism in massive B-type pulsators
+					</div>
+										<div class="usage">
+						Bob Park was saved by a miracle. He’s not at all young. 
+					</div>
+					<div class="uAuthor">
+						Book review of SUPERSTITION by Robert Park
+					</div>
+										<div class="usage">
+						It is nothing short of a miracle that, in fact, many materials are relatively well described by the assumption that interactions do not play a principle role in the explicit physics. 
+					</div>
+					<div class="uAuthor">
+						Electrodynamics of correlated electron systems
+					</div>
+										<div class="usage">
+						But ﬁrst it will be useful to describe qualitatively two problems that seem to require simultaneous miracles if they are to be solved. 
+					</div>
+					<div class="uAuthor">
+						The Future of Nuclear Energy: Facts and Fiction Chapter IV: Energy from Breeder Reactors and from Fusion?
+					</div>
+										<div class="usage">
+						Perhaps they expect miracles from the next generation of experiments. 
+					</div>
+					<div class="uAuthor">
+						The Future of Nuclear Energy: Facts and Fiction Chapter IV: Energy from Breeder Reactors and from Fusion?
+					</div>
+										<div class="usage">
+						However among those who are not part of ITER and those who do not expect miracles, it seems that times are changing. 
+					</div>
+					<div class="uAuthor">
+						The Future of Nuclear Energy: Facts and Fiction Chapter IV: Energy from Breeder Reactors and from Fusion?
+					</div>
+										<div class="usage">
+						In more recent work, the functional form of these superpotential corrections was obtained (see below), and unfortunately, this miracle does not occur. 
+					</div>
+					<div class="uAuthor">
+						Primordial Fluctuations in String Cosmology
+					</div>
+										<div class="usage">
+						While human simulations need regular data input to run, in our world such input would constitute a “miracle”. 
+					</div>
+					<div class="uAuthor">
+						The emergence of the physical world from information processing
+					</div>
+										<div class="usage">
+						Walker, “A Higgs Mass Shift to 125 GeV and A MultiJet Supersymmetry Signal: Miracle of the Flippons at the √s = 7 TeV LHC,” arXiv:1112.3024 [hep-ph]. 
+					</div>
+					<div class="uAuthor">
+						From Strings to the LHC. Les Houches Lectures on String Phenomenology
+					</div>
+										<div class="usage">
+						The ﬁrst miracle is that string theory, unlike ﬁeld theory, inherits from quantization a Its inverse,Ms ∼ λ−1 s , plays the role of the ﬁnite UV cut-off Λ discussed in Section 4. 
+					</div>
+					<div class="uAuthor">
+						Summary and Outlook
+					</div>
+										<div class="usage">
+						This problem disappears by miracle: The resulting graph B looks locally like A. 
+					</div>
+					<div class="uAuthor">
+						Many (omega)-categorical Structures Have the Small Index Property
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="event.html">event</a>, <a href="happening.html">happening</a>, <a href="natural%20event.html">natural event</a>, <a href="occurrence.html">occurrence</a>, <a href="occurrent.html">occurrent</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="assumption.html">assumption</a>, <a href="transfiguration.html">transfiguration</a>, <a href="transfiguration%20of%20jesus.html">transfiguration of jesus</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="miraculous.html">miraculous</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="atrocious.html">atrocious</a>, <a href="Balaam.html">Balaam</a>, <a href="Epiphany.html">Epiphany</a>, <a href="Lazarus.html">Lazarus</a>, <a href="marvel.html">marvel</a>, <a href="marvellous.html">marvellous</a>, <a href="marvelous.html">marvelous</a>, <a href="Miraculize.html">Miraculize</a>, <a href="miraculous.html">miraculous</a>, <a href="miraculously.html">miraculously</a>, <a href="morality.html">morality</a>, <a href="Nomogeny.html">Nomogeny</a>, <a href="opera.html">opera</a>, <a href="oratorio.html">oratorio</a>, <a href="prodigy.html">prodigy</a>, <a href="short.html">short</a>, <a href="Singspiel.html">Singspiel</a>, <a href="thaumaturgic.html">thaumaturgic</a>, <a href="thaumaturgus.html">thaumaturgus</a>, <a href="theurgy.html">theurgy</a>, <a href="virtue.html">virtue</a>, <a href="wonder.html">wonder</a>, <a href="Wonder-work.html">Wonder-work</a>, <a href="Wonderwork.html">Wonderwork</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					niracle, jiracle, kiracle, muracle, mjracle, mkracle, moracle, mieacle, midacle, mifacle, mitacle, mirqcle, mirwcle, mirscle, mirzcle, miraxle, miradle, mirafle, miravle, miracke, miracoe, miracpe, miraclw, miracls, miracld, miraclr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

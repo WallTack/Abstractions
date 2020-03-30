@@ -1,0 +1,410 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>intimacy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">intimacy</span> <span class="exp">close or warm friendship</span> <span class="quot">"the absence of fences created a mysterious intimacy in which no one knew privacy"</span></li><li><span class="tSpeech">n</span> <span class="term">intimacy</span> <span class="exp">a feeling of being intimate and belonging together</span> <span class="quot">"their closeness grew as the night wore on"</span></li><li><span class="tSpeech">n</span> <span class="term">intimacy</span> <span class="exp">a usually secretive or illicit sexual relationship</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">intimacy</span> <span class="exp">The state of being intimate; close union or conjunction.</span> </li><li><span class="tSpeech">n</span> <span class="term">intimacy</span> <span class="exp">Close familiarity or fellowship; intimate friendship.</span> </li><li><span class="tSpeech">n</span> <span class="term">intimacy</span> <span class="exp">Synonyms Familiarity, etc. See acquaintance.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Intimacy</span> <span class="exp">state of being intimate: close familiarity</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Monica Baldwin</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Monica Baldwin">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What makes humility so desirable is the marvelous thing it does to us; it creates in us a capacity for the closest possible intimacy with God.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Elizabeth Bowen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Elizabeth%20Bowen.jpg" alt="Elizabeth%20Bowen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Intimacies between women go backwards, beginning with revelations and ending up in small talk without loss of esteem.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Eliot.jpg" alt="George%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“But that intimacy of mutual embarrassment, in which each feels that the other is feeling something, having once existed, its effect is not to be done away with.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Dr. James C. Dobson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Dr. James C. Dobson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I'm certain that most couples expect to find intimacy in marriage, but it somehow eludes them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Carolyn Heilbrun</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Carolyn Heilbrun">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The married are those who have taken the terrible risk of intimacy and, having taken it, know life without intimacy to be impossible.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edgar Quinet</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edgar%20Quinet.jpg" alt="Edgar%20Quinet">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It is certain that if you would have the whole secret of a people, you must enter into the intimacy of their religion.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>intimāre</i>, <i>ātum</i>—<i>intimus</i>, <i>innermost</i>—<i>intus</i>, within.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Mark had never had any intimate friends at Haverton House; there was something in its atmosphere that was hostile to intimacy.
+					</div>
+					<div class="uAuthor">
+						"The Altar Steps" by <span>Compton MacKenzie</span>					</div>
+										<div class="usage">
+						These peculiarities throw light on more questions than one relating to Johnson's prolonged intimacy and alleged quarrel with Mrs. Thrale.
+					</div>
+					<div class="uAuthor">
+						"Autobiography, Letters and Literary Remains of Mrs. Piozzi (Thrale) (2nd ed.) (2 vols.)" by <span>Mrs. Hester Lynch Piozzi</span>					</div>
+										<div class="usage">
+						There was, too, in its touch a subtle sense of intimacy.
+					</div>
+					<div class="uAuthor">
+						"Famous Modern Ghost Stories" by <span>Various</span>					</div>
+										<div class="usage">
+						You felt as if she had given you an unlimited credit of intimacy.
+					</div>
+					<div class="uAuthor">
+						"Balloons" by <span>Elizabeth Bibesco</span>					</div>
+										<div class="usage">
+						She knew of her intimacy with Mr. Belcher, and naturally connected the visit with that unscrupulous person's schemes.
+					</div>
+					<div class="uAuthor">
+						"Sevenoaks" by <span>J. G. Holland</span>					</div>
+										<div class="usage">
+						At their coming all the little private gateways into the delectable Garden of Intimacy shut with a gentle, decisive click.
+					</div>
+					<div class="uAuthor">
+						"Far to Seek" by <span>Maud Diver</span>					</div>
+										<div class="usage">
+						However, though I daresay his introduction was a little informal and obscure, there was every reason for the intimacy that followed.
+					</div>
+					<div class="uAuthor">
+						"The Tysons" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						The attitude was one which he felt to express extreme intimacy.
+					</div>
+					<div class="uAuthor">
+						"The Claverings" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Did Mr. and Mrs. Middleton fear no harm in the close intimacy of this gifted boy of seventeen and this beautiful girl of sixteen?
+					</div>
+					<div class="uAuthor">
+						"Ishmael" by <span>Mrs. E. D. E. N. Southworth</span>					</div>
+										<div class="usage">
+						Great intimacy existed between this family and General Jackson for many years.
+					</div>
+					<div class="uAuthor">
+						"The Memories of Fifty Years" by <span>William H. Sparks</span>					</div>
+										<div class="usage">
+						She would make this the excuse for discouraging any degree of intimacy with her cousins.
+					</div>
+					<div class="uAuthor">
+						"Uncle Max" by <span>Rosa Nouchette Carey</span>					</div>
+										<div class="usage">
+						It seemed the most natural thing in the world that she should evade all approach to intimacy.
+					</div>
+					<div class="uAuthor">
+						"The Safety Curtain, and Other Stories" by <span>Ethel M. Dell</span>					</div>
+										<div class="usage">
+						The girl asserted that there was guilty intimacy, and Sir William Wilde had not contradicted her.
+					</div>
+					<div class="uAuthor">
+						"Oscar Wilde, Volume 1 (of 2)" by <span>Frank Harris</span>					</div>
+										<div class="usage">
+						Their intimacy lasted for nine years, being broken by the marriage of the young man.
+					</div>
+					<div class="uAuthor">
+						"Repertory Of The Comedie Humaine, Complete, A -- Z" by <span>Anatole Cerfberr and Jules François Christophe</span>					</div>
+										<div class="usage">
+						He found himself exaggerating Anne's distance and the lapse of intimacy.
+					</div>
+					<div class="uAuthor">
+						"The Helpmate" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						He was not in love with Lady Laura, and yet he hoped that his intimacy with her might come to much.
+					</div>
+					<div class="uAuthor">
+						"Phineas Finn" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						There was no reason why our intimacy with the lovers' affairs should continue, and it did not.
+					</div>
+					<div class="uAuthor">
+						"A Pair of Patient Lovers" by <span>William Dean Howells</span>					</div>
+										<div class="usage">
+						During the last two years I have allowed the whole fashion of my life to be remodelled by this intimacy.
+					</div>
+					<div class="uAuthor">
+						"Phineas Redux" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						His intimacy with Gorham A.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						John crawled to the conclusion that Scaife had become jealous of his increasing intimacy with Desmond.
+					</div>
+					<div class="uAuthor">
+						"The Hill" by <span>Horace Annesley Vachell</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							I am afraid of the dark,<br>
+That it will not let me alone;<br>
+The intimacies of its silence<br>
+Would kindle stone.
+							<div class="poet">"Enemies" by <span>Laura Benet</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A Mother, a Daughter, and an Ongoing Conversation About Love and Intimacy .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wuwm.com/programs/lake_effect/lake_effect_segment.php?segmentid=9929" target="_blank" rel="external nofollow">wuwm.com</a>
+					</div>
+										<div class="usage">
+						' Intimacy ' show will open at Eisenhauer Gallery in Edgartown.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mvtimes.com/2012/07/03/intimacy-show-will-open-eisenhauer-gallery-edgartown-11351/" target="_blank" rel="external nofollow">mvtimes.com</a>
+					</div>
+										<div class="usage">
+						Sharp 'Red Light Winter' an alluring, adult exploration of love, intimacy .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/arts/index.ssf/2012/06/sharp_red_light_winter_an_allu.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						Stage 5 of Product Intimacy .
+					</div>
+					<div class="uAuthor">
+						<a href="http://packworld.com/package-design/graphic/private-label-smackdown-stage-5-product-intimacy" target="_blank" rel="external nofollow">packworld.com</a>
+					</div>
+										<div class="usage">
+						Melinda Wooten of KW Strategems discusses the stages of intimacy as they relate to product recognition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://packworld.com/package-design/graphic/private-label-smackdown-stage-5-product-intimacy" target="_blank" rel="external nofollow">packworld.com</a>
+					</div>
+										<div class="usage">
+						Media / News Times-Picayune scales back, but can an iPad produce the same intimacy .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagoreader.com/Bleader/archives/2012/05/24/times-picayune-scales-back-but-can-an-ipad-produce-the-same-intimacy" target="_blank" rel="external nofollow">chicagoreader.com</a>
+					</div>
+										<div class="usage">
+						The Aesthetic of Intimacy .
+					</div>
+					<div class="uAuthor">
+						<a href="http://citypaper.com/arts/visualart/em-the-aesthetic-of-intimacy-em-1.1304672" target="_blank" rel="external nofollow">citypaper.com</a>
+					</div>
+										<div class="usage">
+						How To Bring Intimacy Back Into A Relationship.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lovinlife.com/news/2011/dec/15/twin-beds-how-bring-intimacy-back-relationship/" target="_blank" rel="external nofollow">lovinlife.com</a>
+					</div>
+										<div class="usage">
+						How to bring intimacy back into a relationship.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lovinlife.com/news/2011/dec/15/twin-beds-how-bring-intimacy-back-relationship/" target="_blank" rel="external nofollow">lovinlife.com</a>
+					</div>
+										<div class="usage">
+						Grandeur, intimacy with mixed results in Bach B Minor Mass.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/mhuebner/2011/11/alabama_symphony_grandeur_inti.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						Tony Bennett's Art Of Intimacy .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.weku.fm/post/tony-bennetts-art-intimacy" target="_blank" rel="external nofollow">weku.fm</a>
+					</div>
+										<div class="usage">
+						The Fierce Intimacy of Tennis Rivalries.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2011/08/28/magazine/the-fierce-intimacy-of-tennis-rivalries.html?pagewanted=5&amp;_r=3" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						King aims large without sacrificing intimacy .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.variety.com/article/VR1118040066" target="_blank" rel="external nofollow">variety.com</a>
+					</div>
+										<div class="usage">
+						Overcoming a fear of intimacy .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesfreepress.com/news/2011/jul/07/upton-overcoming-fear-intimacy/" target="_blank" rel="external nofollow">timesfreepress.com</a>
+					</div>
+										<div class="usage">
+						The Intimacy of a Coma.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forewordmagazine.com/reviews/dont-pull-that-plug/" target="_blank" rel="external nofollow">forewordmagazine.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Besides its close intimacy with the AGN and the pulsar ﬁelds, the GRB ﬁeld is also broadly related to several other branches of astrophysics. 
+					</div>
+					<div class="uAuthor">
+						Gamma-Ray Bursts: Progress, Problems &amp; Prospects
+					</div>
+										<div class="usage">
+						According to the famous sociologist Mark Granovetter, this single variable should express a (probably linear) combination of the amount of time, the emotional intensity, the intimacy (mutual conﬁding), and the reciprocal services which characterize the tie . 
+					</div>
+					<div class="uAuthor">
+						Around the gap between sociophysics and sociology
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="close or warm friendship"><a href="closeness.html">closeness</a>, </div><div class="synGroup" title="a usually secretive or illicit sexual relationship"><a href="liaison.html">liaison</a>, <a href="involvement.html">involvement</a>, <a href="amour.html">amour</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="belonging.html">belonging</a>, <a href="friendliness.html">friendliness</a>, <a href="sexual%20relationship.html">sexual relationship</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="togetherness.html">togetherness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="close.html">close</a>, <a href="familiar.html">familiar</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="accompany.html">accompany</a>, <a href="acquaintance.html">acquaintance</a>, <a href="aphrodisia.html">aphrodisia</a>, <a href="arm%27s%20length.html">arm's length</a>, <a href="associate.html">associate</a>, <a href="Be%20in%20with.html">Be in with</a>, <a href="camaraderie.html">camaraderie</a>, <a href="communicate.html">communicate</a>, <a href="concupiscence.html">concupiscence</a>, <a href="confidential.html">confidential</a>, <a href="connection.html">connection</a>, <a href="connexion.html">connexion</a>, <a href="Consociation.html">Consociation</a>, <a href="conversance.html">conversance</a>, <a href="cultivate.html">cultivate</a>, <a href="distance.html">distance</a>, <a href="Embosom.html">Embosom</a>, <a href="entireness.html">entireness</a>, <a href="Eros.html">Eros</a>, <a href="familiarity.html">familiarity</a>, <a href="Gossipry.html">Gossipry</a>, <a href="homeliness.html">homeliness</a>, <a href="impropriety.html">impropriety</a>, <a href="In.html">In</a>, <a href="incestuous.html">incestuous</a>, <a href="indecorum.html">indecorum</a>, <a href="intrigue.html">intrigue</a>, <a href="inwardness.html">inwardness</a>, <a href="Lepra.html">Lepra</a>, <a href="liaison.html">liaison</a>, <a href="liberty.html">liberty</a>, <a href="nearness.html">nearness</a>, <a href="Necessitude.html">Necessitude</a>, <a href="physical%20attraction.html">physical attraction</a>, <a href="Privity.html">Privity</a>, <a href="sexual%20desire.html">sexual desire</a>, <a href="sexual%20relationship.html">sexual relationship</a>, <a href="Stand%20off.html">Stand off</a>, <a href="sugar%20daddy.html">sugar daddy</a>, <a href="Syssitia.html">Syssitia</a>, <a href="Theocrasy.html">Theocrasy</a>, <a href="thou.html">thou</a>, <a href="To%20be%20far%20ben%20with%20one.html">To be far ben with one</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					untimacy, jntimacy, kntimacy, ontimacy, ibtimacy, ihtimacy, ijtimacy, imtimacy, inrimacy, infimacy, ingimacy, inyimacy, intumacy, intjmacy, intkmacy, intomacy, intinacy, intijacy, intikacy, intimqcy, intimwcy, intimscy, intimzcy, intimaxy, intimady, intimafy, intimavy, intimact, intimacg, intimach, intimacu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

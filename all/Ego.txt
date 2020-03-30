@@ -1,0 +1,545 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>ego</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">ego</span> <span class="exp">(psychoanalysis) the conscious mind</span> </li><li><span class="tSpeech">n</span> <span class="term">ego</span> <span class="exp">your consciousness of your own identity</span> </li><li><span class="tSpeech">n</span> <span class="term">ego</span> <span class="exp">an inflated feeling of pride in your superiority to others</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">ego</span> <span class="exp">egotism; as, a job requiring a diplomat without too much <span class="wUex">ego</span>
+            .</span> </li><li><span class="term">ego</span> <span class="exp">self-esteem; as, he has an overinflated <span class="wUex">ego</span>
+            .</span> </li><li><span class="term">ego</span> <span class="exp"><span class="wuFld">(Psychoanalysis)</span> that one of the three parts of a person's psychic apparatus that mediates consciously between the drives of the id and the realities of the external physical and social environment, by integrating perceptions of the external world and organizing the reactions to it.  Contrasted with the <span class="wUcontr">id</span> and <span class="wUcontr">superego</span>.</span> </li><li><span class="tSpeech">n</span> <span class="term">ego</span> <span class="exp">The conscious and permanent subject of all psychical experiences, whether held to be directly known or the product of reflective thought; the subject consciously considered as “I” by a person; -- opposed to <span class="wUcontr">non-ego</span>.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">ego</span> <span class="exp">The “I”; that which feels, acts, and thinks; any person's “self,” considered as essentially the same in all persons. This use of the word was introduced by Descartes, and has long been current in general literature.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Ego</span> <span class="exp"><span class="itl">ē′gō</span> the '<span class="bld">I</span>,' that which is conscious and thinks</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Norma Shearer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Norma Shearer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“An actress must never lose her ego  --  without it she has no talent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Northrop Frye</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Northrop%20Frye.jpg" alt="Northrop%20Frye">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The pursuit of beauty is much more dangerous nonsense than the pursuit of truth or goodness, because it affords a stronger temptation to the ego.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sigmund Freud</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sigmund%20Freud.jpg" alt="Sigmund%20Freud">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The ego is not master in its own house.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Diana Black</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Diana Black">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Big egos are big shields for lots of empty space.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sigmund Freud</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sigmund%20Freud.jpg" alt="Sigmund%20Freud">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Where id was, there shall ego be.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sigmund Freud</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Sigmund%20Freud.jpg" alt="Sigmund%20Freud">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Analysis does not set out to make pathological reactions impossible, but to give the patient's ego freedom to decide one way or another.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+									<h2 id="_idioms" class="header">Idioms</h2>
+			<div id="idioms" class="subContainer">
+								<div class="idioms">
+					<span>Alter ego</span> - An alter ego is a very close and intimate friend. It is a Latin phrase that literally means 'other self'.
+				</div>	
+				<span class="separatorSmall">***</span>
+							</div>
+									<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L., I
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>ego</i>, I.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						They retain their egotism, and add to it many other egos.
+					</div>
+					<div class="uAuthor">
+						"The Picture of Dorian Gray" by <span>Oscar Wilde</span>					</div>
+										<div class="usage">
+						They are the things which an Ego intent upon the diversion of truth fashioned in the beginning.
+					</div>
+					<div class="uAuthor">
+						"Fantazius Mallare" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						He laughed his good cheery laugh, out of his black beard, but it was clear that he held me to be a child, imprisoned in the Ego.
+					</div>
+					<div class="uAuthor">
+						"Appearances" by <span>Goldsworthy Lowes Dickinson</span>					</div>
+										<div class="usage">
+						The shack seemed full of a strange presence, a ghostly kind of ego that made itself felt.
+					</div>
+					<div class="uAuthor">
+						"Colorado Jim" by <span>George Goodchild</span>					</div>
+										<div class="usage">
+						The individual Ego remains; that is the great distinction.
+					</div>
+					<div class="uAuthor">
+						"Avatâras" by <span>Annie Besant</span>					</div>
+										<div class="usage">
+						Etiam Epidicum, quam ego fabulam aeque ac me ipsum amo, nullam aeque invitus specto, si agit Pellio.
+					</div>
+					<div class="uAuthor">
+						"The Student's Companion to Latin Authors" by <span>George Middleton</span>					</div>
+										<div class="usage">
+						And to remember that, when we are feeling a bit important, is good for our Ego!
+					</div>
+					<div class="uAuthor">
+						"The Prairie Child" by <span>Arthur Stringer</span>					</div>
+										<div class="usage">
+						Ego te in patria per eosdem retinere non potero!
+					</div>
+					<div class="uAuthor">
+						"The Life of Cicero" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Inter quos memini, dum me mea fata sinebant, Non invisa tibi pars ego saepe fui.
+					</div>
+					<div class="uAuthor">
+						"Ebrietatis Encomium" by <span>Boniface Oinophilus</span>					</div>
+										<div class="usage">
+						The sum of all these impressions is the man himself, the ego, the form through which the general life is individualised.
+					</div>
+					<div class="uAuthor">
+						"The Practice of Autosuggestion" by <span>C. Harry Brooks</span>					</div>
+										<div class="usage">
+						The ego, or personality of one animal has been taken out and put into the other.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science April 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						It is not, however, only in dream that the Ego impresses his lower self with what he thinks it well for it to know.
+					</div>
+					<div class="uAuthor">
+						"Clairvoyance" by <span>Charles Webster Leadbeater</span>					</div>
+										<div class="usage">
+						It is not the ego that looks out through the eyes, but it is the universe that pours in upon the ego.
+					</div>
+					<div class="uAuthor">
+						"The Machinery of the Universe" by <span>Amos Emerson Dolbear</span>					</div>
+										<div class="usage">
+						He's sufferin' from what the books calls exaggerated ego.
+					</div>
+					<div class="uAuthor">
+						"Faro Nell and Her Friends" by <span>Alfred Henry Lewis</span>					</div>
+										<div class="usage">
+						At the first he was a hero, and the Forest paid homage to him; listened at his shrine and fed his reviving ego.
+					</div>
+					<div class="uAuthor">
+						"At the Crossroads" by <span>Harriet T. Comstock</span>					</div>
+										<div class="usage">
+						That finger of the ego, that we know as the personality, gathers the experience and then it is withdrawn into the ego.
+					</div>
+					<div class="uAuthor">
+						"Elementary Theosophy" by <span>L. W. Rogers</span>					</div>
+										<div class="usage">
+						The human ego always is supreme!
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories, March, 1931" by <span>Various</span>					</div>
+										<div class="usage">
+						Consequently his ideal of conduct imposed a negative attitude towards the world and a merging of his ego in the universal spirit.
+					</div>
+					<div class="uAuthor">
+						"Monophysitism Past and Present" by <span>A. A. Luce</span>					</div>
+										<div class="usage">
+						If she eliminates the Ego (Self) and will aim to work for the good of others, she will succeed.
+					</div>
+					<div class="uAuthor">
+						"The Colored Girl Beautiful" by <span>E. Azalia Hackley</span>					</div>
+										<div class="usage">
+						The ego implies limits.
+					</div>
+					<div class="uAuthor">
+						"Death" by <span>Maurice Maeterlinck</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"Ego-theism":<br>
+This trouble seems to be<br>
+Chief in theology:<br>
+Each thinks the hymn should be, --<br>
+Nearer, my God, to Thee.
+							<div class="poet">"Poetry" by <span>Edmund Vance Cooke </span></div>
+						</div>
+											<div class="poemQuote">
+							Three million women without mates<br>
+In lonely homes on earth!<br>
+And Cupid sighs at heaven's gates,<br>
+Where many a spirit ego waits<br>
+Its call again to birth.
+							<div class="poet">"Discredited" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+											<div class="poemQuote">
+							It must be cleansed and purified<br>
+Of selfishness and strife,<br>
+Of grasping greed and lust and pride,<br>
+Before He lets His Angels guide<br>
+The egos back to life.
+							<div class="poet">"Discredited" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+											<div class="poemQuote">
+							Last night<br>
+I watched a star fall like a great pearl into the sea,<br>
+Till my ego expanding encompassed sea and star,<br>
+Containing both as in a trembling cup.
+							<div class="poet">"Star" by <span>Lola Ridge</span></div>
+						</div>
+											<div class="poemQuote">
+							So, vain the waiting egos quest<br>
+For pathways back to birth:<br>
+And vain the longing and unrest<br>
+In many a cheated mother breast.<br>
+God does not like the earth!
+							<div class="poet">"Discredited" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+											<div class="poemQuote">
+							"Here Petty's finance, from the evils to come,<br>
+"With Fitzpatrick's sobriety creeps to the tomb;<br>
+"And Chancellor Ego, now left in the lurch,<br>
+"Neither dines with the Jordan, nor whines for the church.
+							<div class="poet">"All The Talents" by <span>George Canning</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The guys in Def Leppard must have monster egos.
+					</div>
+					<div class="uAuthor">
+						<a href="http://929jackfm.com/heart-upstages-def-leppard/" target="_blank" rel="external nofollow">929jackfm.com</a>
+					</div>
+										<div class="usage">
+						We'll spend big bucks on seldom-used, ego-enhancing upgrades and gadgets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.achrnews.com/articles/sales-call-boomer-selling-how-to-validate-value" target="_blank" rel="external nofollow">achrnews.com</a>
+					</div>
+										<div class="usage">
+						For 24 years, vaudevillian Mark "Woody" Keppel has slipped into the skin of his alter ego, Woodhead.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.yankeemagazine.com/issues/2008-07/features/people-new-england-meet-fun-qu/vaudevillian" target="_blank" rel="external nofollow">yankeemagazine.com</a>
+					</div>
+										<div class="usage">
+						In a business crowded by bloated egos, Andrew Carmellini is one of those unassuming guys who wins admirers by quietly getting the job done.
+					</div>
+					<div class="uAuthor">
+						<a href="http://restaurant-hospitality.com/fridge_raid/chillin-w-ac-0510" target="_blank" rel="external nofollow">restaurant-hospitality.com</a>
+					</div>
+										<div class="usage">
+						Stephen Colbert's Wax Figure Unveiled in D.C. Stephen Colbert visited DC on Friday to see his wax alter ego at Madame Tussauds museum.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nbcsandiego.com/entertainment/television/Stephen-Colberts-Wax-Figure-Unveiled-in-DC--179794961.html" target="_blank" rel="external nofollow">nbcsandiego.com</a>
+					</div>
+										<div class="usage">
+						Complete with trademark track suit and bull horn, Jane Lynch's alter ego from "Flee," Sue Sylvester, is now a wax figure at Madame Tussauds.
+					</div>
+					<div class="uAuthor">
+						<a href="http://abclocal.go.com/kabc/story?section=news/hollywood_wrap&amp;id=7593141" target="_blank" rel="external nofollow">abclocal.go.com</a>
+					</div>
+										<div class="usage">
+						This is hilarious… Watch Kevin's Hart's alter ego "Chocolate Drop" freestyle for the XXL Freshmen of the year series.
+					</div>
+					<div class="uAuthor">
+						<a href="http://club937.com/kevin-hart-a-k-a-chocolate-drop-video/" target="_blank" rel="external nofollow">club937.com</a>
+					</div>
+										<div class="usage">
+						The second intentional act of kindness started at the October Westin Alter Ego ball, for a silent auction children's fundraiser.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vaildaily.com/article/20121130/LETTER/121129811/1022&amp;parentprofile=1065" target="_blank" rel="external nofollow">vaildaily.com</a>
+					</div>
+										<div class="usage">
+						"When Tom Krell's avant-R&amp;B alter ego, How to Dress Well, went from Blogspot-hosted home-recording project to indie-blogosphere viral sensation a couple years ago, he wasn't prepared for the attention," writes Miles Raymer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagoreader.com/Bleader/archives/2012/12/14/readers-agenda-fri-1214-how-to-dress-well-naked-girls-with-naked-christmas-and-the-nerdist-in-person" target="_blank" rel="external nofollow">chicagoreader.com</a>
+					</div>
+										<div class="usage">
+						Swift beatboxes as her hip-hop alter ego T-Swizzle.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nzherald.co.nz/music/news/article.cfm?c_id=264&amp;objectid=10852532&amp;ref=rss" target="_blank" rel="external nofollow">nzherald.co.nz</a>
+					</div>
+										<div class="usage">
+						Taylor Swift has brought back her hip-hop alter ego T-Swizzle to accompany rapper LL Cool J at the 2012 Grammy Award nominations ceremony.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nzherald.co.nz/music/news/article.cfm?c_id=264&amp;objectid=10852532&amp;ref=rss" target="_blank" rel="external nofollow">nzherald.co.nz</a>
+					</div>
+										<div class="usage">
+						Man charged with murder says alter ego wanted him to kill.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wmur.com/news/nh-news/Court-docs-Man-charged-with-murder-says-alter-ego-wanted-him-to-kill/-/9857858/17056020/-/2pjba1z/-/index.html" target="_blank" rel="external nofollow">wmur.com</a>
+					</div>
+										<div class="usage">
+						Murder suspect refers to alter ego .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wmur.com/news/nh-news/Court-docs-Man-charged-with-murder-says-alter-ego-wanted-him-to-kill/-/9857858/17056020/-/2pjba1z/-/index.html" target="_blank" rel="external nofollow">wmur.com</a>
+					</div>
+										<div class="usage">
+						Court documents show that a man accused of killing a Raymond man in March told investigators than an alter ego of his wanted to commit the crime.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wmur.com/news/nh-news/Court-docs-Man-charged-with-murder-says-alter-ego-wanted-him-to-kill/-/9857858/17056020/-/2pjba1z/-/index.html" target="_blank" rel="external nofollow">wmur.com</a>
+					</div>
+										<div class="usage">
+						Check Out Taylor Swift's Alter-ego , "Candy," In This Clip From A British Chat-show Appearance.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bob949.com/pages/jt.html?article=10570077" target="_blank" rel="external nofollow">bob949.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Observations of the inspiral of massive binary black holes (BBH) in the Laser Interferometer Space Antenna (LISA) and stellar mass binary black holes in the European Gravitational-Wave Observatory (EGO) offer an unique opportunity to test the non-linear structure of general relativity. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						For some of the rare (about once per year) inspiral events observed by LISA (EGO) the amplitude signal-to-noise ratio could be as large as 3,000 (100). 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						In the present paper we propose and explore an interesting possibility of testing General Relativity with the high-SNR GW observations of BBH inspirals by LISA and EGO. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						In the case of LISA we assume that the signal is integrated for a year (last year before coalescence) and in the case of EGO we assume that the signal is integrated over a bandwidth from 10 Hz until the binary reaches its innermost circular orbit. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						FIG. 2: Plot showing the relative errors ∆ψT /ψT , in the test parameters ψT = ψ3 , ψ4 , ψ5l , ψ6 , ψ6l , ψ7 , as a function of the total mass M of a supermassive BBH at a redshift of z = 1 observed by LISA (right panel) and of a stellar mass compact binary at a distance of DL = 200 Mpc observed by EGO (left panel). 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						By the time LISA and EGO operate there could be reliable merger waveforms that can be included in the phasing and this would make this test more robust. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						We shall consider the estimation of parameters in the ground-based EGO and space-based LISA, using covariance matrix, for which we assume the noise PSDs as given in Ref. and , respectively. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						For ground-based detectors, Advanced LIGO and EGO, the parameters include tc , Φc and the three ψ ’s. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						In the case of EGO, we consider stellar mass BBH of equal masses with the total mass in the range 1M⊙ to 400M⊙, while in the case of LISA the mass range is from 104M⊙ to 107M⊙ , but scaled down by 104 so as to ﬁt all the curves in the same plot. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						While the SNR in EGO can reach several 100’s for sources that it might observe every once in a year, in the case of LISA the SNR could be several 1,000’s for the supermassive BBH sources that it is expected to observe about once per year. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						The SNR’s in both LISA and EGO are large enough for the tests to be very powerful probes of the PN coeﬃcients and the non-linear effects of GR. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						The parameter ψ6l is much better determined by LISA than EGO, as one would expect. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						This ﬁgure is an explicit demonstration of the eﬃcacy of the proposed test and the accuracy with which the future GW observations of BH binaries by EGO and LISA can test GR in its strong ﬁeld regime. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						Using EGO, which will observe stellar mass BH coalescences, we can set a bound on λg to be 1.3 × 1013 km whereas with LISA the bounds are as high as 7.12× 1016 km. 
+					</div>
+					<div class="uAuthor">
+						Probing the non-linear structure of general relativity with black hole binaries
+					</div>
+										<div class="usage">
+						We consider EGO as a possible third-generation ground-based gravitational wave detector and evaluate its capabilities for the detection and interpretation of compact binary inspiral signals. 
+					</div>
+					<div class="uAuthor">
+						Compact binary inspiral and the science potential of third-generation ground-based gravitational wave detectors
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an inflated feeling of pride in your superiority to others"><a href="egotism.html">egotism</a>, <a href="self-importance.html">self-importance</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="brain.html">brain</a>, <a href="consciousness.html">consciousness</a>, <a href="head.html">head</a>, <a href="mind.html">mind</a>, <a href="nous.html">nous</a>, <a href="pride.html">pride</a>, <a href="pridefulness.html">pridefulness</a>, <a href="psyche.html">psyche</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="anima.html">anima</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="aposiopesis.html">aposiopesis</a>, <a href="cogitation.html">cogitation</a>, <a href="ego%20ideal.html">ego ideal</a>, <a href="egoism.html">egoism</a>, <a href="egoistic.html">egoistic</a>, <a href="Egoity.html">Egoity</a>, <a href="I.html">I</a>, <a href="mind.html">mind</a>, <a href="Non-ego.html">Non-ego</a>, <a href="Notself.html">Notself</a>, <a href="object.html">object</a>, <a href="Outness.html">Outness</a>, <a href="passive.html">passive</a>, <a href="reality%20principle.html">reality principle</a>, <a href="self.html">self</a>, <a href="subject.html">subject</a>, <a href="subjective.html">subjective</a>, <a href="Voluntarism.html">Voluntarism</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					wgo, sgo, dgo, rgo, efo, eto, eho, ebo, evo, egi, egk, egl, egp
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

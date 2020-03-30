@@ -1,0 +1,547 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>understanding</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">adj</span> <span class="term">understanding</span> <span class="exp">characterized by understanding based on comprehension and discernment and empathy</span> <span class="quot">"an understanding friend"</span></li><li><span class="tSpeech">n</span> <span class="term">understanding</span> <span class="exp">the capacity for rational thought or inference or discrimination</span> <span class="quot">"we are told that man is endowed with reason and capable of distinguishing good from evil"</span></li><li><span class="tSpeech">n</span> <span class="term">understanding</span> <span class="exp">the cognitive condition of someone who understands</span> <span class="quot">"he has virtually no understanding of social cause and effect"</span></li><li><span class="tSpeech">n</span> <span class="term">understanding</span> <span class="exp">an inclination to support or be loyal to or to agree with an opinion</span> <span class="quot">"his sympathies were always with the underdog","I knew I could count on his understanding"</span></li><li><span class="tSpeech">n</span> <span class="term">understanding</span> <span class="exp">the statement (oral or written) of an exchange of promises</span> <span class="quot">"they had an agreement that they would not interfere in each other's business","there was an understanding between management and the workers"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In 1972, a gorilla by the name of "Koko" was taught ASL (American Sign Language) for the deaf. By the year 2000, the gorilla could understand approximately 2,000 English words									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Understanding</span> <span class="exp">An agreement of opinion or feeling; adjustment of differences; harmony; anything mutually understood or agreed upon; as, to come to an <span class="wUex">understanding</span> with another.</span> <span class="wuQuot">"He hoped the loyalty of his subjects would concur with him in the preserving of a good understanding between him and his people."</span></li><li><span class="tSpeech">a</span> <span class="term">Understanding</span> <span class="exp"><span class="itl">ŭn`dẽr*stănd"ĭng</span> Knowing; intelligent; skillful; as, he is an <span class="wUex">understanding</span> man.</span> </li><li><span class="term">Understanding</span> <span class="exp">Specifically, the discursive faculty; the faculty of knowing by the medium or use of general conceptions or relations. In this sense it is contrasted with, and distinguished from, the <span class="wUex">reason</span>.</span> <span class="wuQuot">"I use the term understanding , not for the noetic faculty, intellect proper, or place of principles, but for the dianoetic or discursive faculty in its widest signification, for the faculty of relations or comparisons; and thus in the meaning in which “verstand” is now employed by the Germans."</span></li><li><span class="term">Understanding</span> <span class="exp">The act of one who understands a thing, in any sense of the verb; knowledge; discernment; comprehension; interpretation; explanation.</span> </li><li><span class="term">Understanding</span> <span class="exp">The power to understand; the intellectual faculty; the intelligence; the rational powers collectively conceived an designated; the higher capacities of the intellect; the power to distinguish truth from falsehood, and to adapt means to ends.</span> <span class="wuQuot">"But there is a spirit in man; and the inspiration of the Almighty giveth them understanding ."</span><span class="wuQuot">"The power of perception is that which we call the understanding . Perception, which we make the act of the understanding , is of three sorts: 1. The perception of ideas in our mind; 2. The perception of the signification of signs; 3. The perception of the connection or repugnancy, agreement or disagreement, that there is between any of our ideas. All these are attributed to the understanding , or perceptive power, though it be the two latter only that use allows us to say we understand."</span><span class="wuQuot">"In its wider acceptation, understanding is the entire power of perceiving an conceiving, exclusive of the sensibility: the power of dealing with the impressions of sense, and composing them into wholes, according to a law of unity; and in its most comprehensive meaning it includes even simple apprehension."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">understanding</span> <span class="exp">The act of one who understands or comprehends; comprehension; apprehension and appreciation; discernment.</span> </li><li><span class="tSpeech">n</span> <span class="term">understanding</span> <span class="exp">The knowing power, in general; intelligence; wit. The old psychologists divided the faculties of the mind into understanding, or cognitive power, and will.</span> </li><li><span class="tSpeech">n</span> <span class="term">understanding</span> <span class="exp">The representative faculty; the power of abstract thought; the logical power. Kantian writers restrict understanding to the operation of abstractive thought concerning objects of possible experience.</span> </li><li><span class="tSpeech">n</span> <span class="term">understanding</span> <span class="exp">Intelligence between two or more persons; agreement of minds; harmony; union of sentiment; also, something mutually understood or agreed upon: as, there was an understanding between them.</span> </li><li><span class="term">understanding</span> <span class="exp">Knowing; skilful; intelligent; possessed of or exhibiting good sense.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Understanding</span> <span class="exp">the act of comprehending: the faculty or the act of the mind by which it understands or thinks: the power to understand: knowledge: exact comprehension: agreement of minds: harmony</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bonewitz</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Bonewitz">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Understanding brings control.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Rene Coty</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Rene Coty">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It has taken me all my life to understand it is not necessary to understand everything.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Leonardo Da Vinci</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Leonardo%20Da%20Vinci.jpg" alt="Leonardo%20Da%20Vinci">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The noblest pleasure is the joy of understanding.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Princess of Wales Diana</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Princess%20of%20Wales%20Diana.jpg" alt="Princess%20of%20Wales%20Diana">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I understand people's suffering, people's pain, more than you will every know yourself.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marie E. Eschenbach</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marie E. Eschenbach">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In youth we learn; in age we understand.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Nikki Giovanni</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Nikki Giovanni">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“If you don't understand yourself you don't understand anybody else.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					A.S. <i>understandan</i>, to stand under or in the midst of a thing.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						But you know him you understand.
+					</div>
+					<div class="uAuthor">
+						"Our Friend the Charlatan" by <span>George Gissing</span>					</div>
+										<div class="usage">
+						She understands everything, doesn't she, Sir Seymour?
+					</div>
+					<div class="uAuthor">
+						"December Love" by <span>Robert Hichens</span>					</div>
+										<div class="usage">
+						Cap'n Dott, I want you to understand that I ain't dependent on nobody for a job.
+					</div>
+					<div class="uAuthor">
+						"Cap'n Dan's Daughter" by <span>Joseph C. Lincoln</span>					</div>
+										<div class="usage">
+						But Mary did not understand these laws.
+					</div>
+					<div class="uAuthor">
+						"Mary Anerley" by <span>R. D. Blackmore</span>					</div>
+										<div class="usage">
+						It has to be in Latin, my dear Master Olof, or we can't understand what you say.
+					</div>
+					<div class="uAuthor">
+						"Master Olof" by <span>August Strindberg</span>					</div>
+										<div class="usage">
+						I thought it would be so easy a matter for my love to awaken yours; but I cannot make you understand me.
+					</div>
+					<div class="uAuthor">
+						"Three Comedies" by <span>Björnstjerne M. Björnson</span>					</div>
+										<div class="usage">
+						You understand nothing yourself that a man ought to understand.
+					</div>
+					<div class="uAuthor">
+						"The Eustace Diamonds" by <span>Anthony Trollope</span>					</div>
+										<div class="usage">
+						Anybody who is not above paying attention must understand me.
+					</div>
+					<div class="uAuthor">
+						"Springhaven" by <span>R. D. Blackmore</span>					</div>
+										<div class="usage">
+						Nothing of this could her husband understand had she words to convey it.
+					</div>
+					<div class="uAuthor">
+						"The Fighting Chance" by <span>Robert W. Chambers</span>					</div>
+										<div class="usage">
+						You understand, of course, my position.
+					</div>
+					<div class="uAuthor">
+						"First Plays" by <span>A. A. Milne</span>					</div>
+										<div class="usage">
+						Yes, I can understand that.
+					</div>
+					<div class="uAuthor">
+						"Three Dramas" by <span>Björnstjerne M. Björnson</span>					</div>
+										<div class="usage">
+						The boatman was slow to understand that his leadership had gone from him.
+					</div>
+					<div class="uAuthor">
+						"The Fallen Leaves" by <span>Wilkie Collins</span>					</div>
+										<div class="usage">
+						Children understand, they understand very well.
+					</div>
+					<div class="uAuthor">
+						"Plays by Chekhov, Second Series On the High Road, The Proposal, The Wedding, The Bear, A Tragedian In Spite of Himself, The Anniversary, The Three Sisters, The Cherry Orchard" by <span>Anton Chekhov</span>					</div>
+										<div class="usage">
+						But yo won't understand nothin.
+					</div>
+					<div class="uAuthor">
+						"The History of David Grieve" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						I understand, I understand, Varvara Petrovna.
+					</div>
+					<div class="uAuthor">
+						"The Possessed" by <span>Fyodor Dostoevsky</span>					</div>
+										<div class="usage">
+						You do not understand my speech because you cannot hear and understand my word.
+					</div>
+					<div class="uAuthor">
+						"The Harp of God" by <span>J. F. Rutherford</span>					</div>
+										<div class="usage">
+						I cannot understand a dumb faith.
+					</div>
+					<div class="uAuthor">
+						"Practical Religion" by <span>John Charles Ryle</span>					</div>
+										<div class="usage">
+						I understand all this very well, but I do not know whether or not I shall be successful in making you understand it as well.
+					</div>
+					<div class="uAuthor">
+						"A General Introduction to Psychoanalysis" by <span>Sigmund Freud</span>					</div>
+										<div class="usage">
+						He sought at times to understand it but its understanding eluded him.
+					</div>
+					<div class="uAuthor">
+						"Gargoyles" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						I understand now that in every man's pathway hiss and writhe the serpents of suspicion.
+					</div>
+					<div class="uAuthor">
+						"The Works of Robert G. Ingersoll, Vol. 10 (of 12) Dresden Edition--Legal" by <span>Robert G. Ingersoll</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							"And, best of all, to understand<br>
+That death, who makes this life to cease,<br>
+But takes that other by the hand,<br>
+And leads it into perfect peace:
+							<div class="poet">"Grasmere" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							Only his rare, sweet, tender smile;<br>
+Only a lingering touch of his hand.<br>
+I think I was dreaming all the while,<br>
+The reason I did not understand.
+							<div class="poet">"Only A Sad Mistake" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+											<div class="poemQuote">
+							Gather wouldst thou the perfect grains,<br>
+And Jesus fully understand?<br>
+Thou must obey him with huge pains,<br>
+And to God's will be as Christ's hand.
+							<div class="poet">"After Thomas Kempis" by <span>George MacDonald</span></div>
+						</div>
+											<div class="poemQuote">
+							The end of all things was at hand,<br>
+When Peter preach'd, I understand:<br>
+If, in his time, 'twas so — 'tis clear,<br>
+That it must now be very near.
+							<div class="poet">"Concerning The End Of The World" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							And then dawn: the petals close<br>
+a little crumpled. Something soft<br>
+and secret is brooding in an urn,<br>
+some new happiness I can’t understand yet.
+							<div class="poet">"Night-Blooming Jasmine" by <span>Giovanni Pascoli</span></div>
+						</div>
+											<div class="poemQuote">
+							My father's care and my mother's prayer<br>
+Are now ended here on earth,<br>
+But as time rolls on, since they have gone,<br>
+I shall understand their worth.
+							<div class="poet">"The Old Farm" by <span>Jared Barhite</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Biofuels Digest reports today that California-based BlueFire Renewables has entered into a Memorandum of Understanding with China Huadian Engineering Co. To finance its integrated Power Plant and Biorefinery in Fulton, Miss.
+					</div>
+					<div class="uAuthor">
+						<a href="http://msbusiness.com/businessblog/2011/10/31/bluefire-renewables-lands-financing-mou-for-fulton-project/" target="_blank" rel="external nofollow">msbusiness.com</a>
+					</div>
+										<div class="usage">
+						We understand the frustration some people have about the caterer of the upcoming Wetzel County Chamber of Commerce dinner being from Marshall County.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wetzelchronicle.com/page/content.detail/id/500936/Lines-Are-Blurred.html?nav=5003" target="_blank" rel="external nofollow">wetzelchronicle.com</a>
+					</div>
+										<div class="usage">
+						His novels up until the new Sweet Tooth wrung tragedy from men's inability to understand females.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/entertainment/archive/2012/11/what-do-women-want-ian-mcewans-characters-are-never-sure/265378/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						12 great quotes from a man at the nucleus of atomic understanding.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/comic-riffs/post/niels-bohr-doodle-google-12-great-quotes-from-a-man-at-the-nucleus-of-atomic-understanding/2012/10/07/1000dc02-1095-11e2-ba83-a7a396e6b2a7_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						It was held, appropriately enough, at Gotham Hall in Midtown, and it was clear, once you stepped inside, that the publisher JASON BINN is indeed a man who understands glamour.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2004/02/10/nyregion/10bold.html?ex=1391835600&amp;en=3d277fb6161c38d1&amp;ei=5007&amp;partner=USERLAND%20target=" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						 Boley usually doesnt get to score that much so it's understandable that he wouldn't have his TD celebration planned out.
+					</div>
+					<div class="uAuthor">
+						<a href="http://club937.com/giants-michael-boley-celebrates-td-by-throwing-ball-at-a-guys-head-video/" target="_blank" rel="external nofollow">club937.com</a>
+					</div>
+										<div class="usage">
+						Actress says she understands the need to "turn off" Hollywood persona.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dogchannel.com/dog-news/2008/11/26/miley-cyrus-relates-to-bolt-dog.aspx" target="_blank" rel="external nofollow">dogchannel.com</a>
+					</div>
+										<div class="usage">
+						The honor was dubious because with Burton's name incorporated into the title, the film was understandably perceived as Burton's alone.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ocweekly.com/2001-03-15/film/boned/" target="_blank" rel="external nofollow">ocweekly.com</a>
+					</div>
+										<div class="usage">
+						What she had been through would take years to understand.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.christianitytoday.com/biblestudies/articles/churchhomeleadership/bonhoefferslegacy.html" target="_blank" rel="external nofollow">christianitytoday.com</a>
+					</div>
+										<div class="usage">
+						That is a primary fear among winemakers, who believe the public will be put off by ingredients they may not understand.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/10/10/dining/bonny-doon-vineyards-labeling-policy-draws-little-attention.html?pagewanted=2&amp;_r=1&amp;smid=tw-share" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Go to www.co.berks.pa.us/controller or call 610-478-6150 to obtain copies of Berks County's "Friendly Understandable Financial Statement" for the year ended Dec 31, 2011.
+					</div>
+					<div class="uAuthor">
+						<a href="http://readingeagle.com/article.aspx?id=427150" target="_blank" rel="external nofollow">readingeagle.com</a>
+					</div>
+										<div class="usage">
+						 Boose understands local frustration.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.norwalkreflector.com/article/1472761" target="_blank" rel="external nofollow">norwalkreflector.com</a>
+					</div>
+										<div class="usage">
+						Chuck Moy and his son, Lance, are understandably proud of their work.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.herald-journal.com/archives/1998/stories/body.html" target="_blank" rel="external nofollow">herald-journal.com</a>
+					</div>
+										<div class="usage">
+						Man, you don't understand, these toreros love the animals.
+					</div>
+					<div class="uAuthor">
+						<a href="http://chestnuthilllocal.com/blog/2011/03/16/c%E2%80%99mere-boy-this-won%E2%80%99t-hurt-a-bit-a-bullfighting-aficionado-waves-the-cape-at-me/" target="_blank" rel="external nofollow">chestnuthilllocal.com</a>
+					</div>
+										<div class="usage">
+						"If bundled payments advance, family physicians need to have a very explicit and clear understanding of the amount of their piece of that bundled payment," he added.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aafp.org/online/en/home/publications/news/news-now/practice-management/20110221reform-bundledpaymt.html" target="_blank" rel="external nofollow">aafp.org</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						With the addition of randomly generated graphics and references, the papers are practically indistinguishable from papers that humans have written until true understanding is attempted by someone who could reasonably expect to understand an equivalent but meaningful paper. 
+					</div>
+					<div class="uAuthor">
+						Algorithmic Detection of Computer Generated Text
+					</div>
+										<div class="usage">
+						However, understanding how the quark-gluon plasma is produced, i.e., understanding the detailed mechanisms by which partonic degrees of freedom get freed and subsequently interact to lead to a thermalized system, remains a challenging problem. 
+					</div>
+					<div class="uAuthor">
+						Heavy ion collisions: puzzles and hopes
+					</div>
+										<div class="usage">
+						Understanding the inherent limitations of HARDI measurements can be obtained directly from our discussion of simulated diffusions, thus increasing the understanding of parametric assumptions that are necessary to derive more complicated structures from the diffusion PDF. 
+					</div>
+					<div class="uAuthor">
+						Nonparametric tests of structure for high angular resolution diffusion imaging in Q-space
+					</div>
+										<div class="usage">
+						Understanding when the construction of a basis of C is suﬃciently accurate relative to H will be essential to understanding when SOSC checks using the Cholesky and Diagonalization approaches are themselves numerically accurate. 
+					</div>
+					<div class="uAuthor">
+						Hessian-Free Methods for Checking the Second-Order Sufficient Conditions in Equality-Constrained Optimization and Equilibrium Problems
+					</div>
+										<div class="usage">
+						The physical understanding of these phenomena should also give us a deep understanding of the GW features from the SASI and convection. 
+					</div>
+					<div class="uAuthor">
+						Multiple physical elements to determine the gravitational-wave signatures of core-collapse supernovae
+					</div>
+										<div class="usage">
+						Understanding this logic, that is, the logic of the crowd rather than an individual, will be essential for understanding and engineering artiﬁcial intelligence in the decades to come. 
+					</div>
+					<div class="uAuthor">
+						A Wikipedia Literature Review
+					</div>
+										<div class="usage">
+						Many measurement efforts are progressing to better understand the nuclear physics involved and better understand these calculations. 
+					</div>
+					<div class="uAuthor">
+						Double Beta Decay
+					</div>
+										<div class="usage">
+						The goal here is rather ambitious, and includes understanding particle production in the collision, followed by the thermalization of the produced matter, along with the subsequent evolution of the resulting thermal medium: essentially one wants to understand the whole collision in a single uniﬁed framework. 
+					</div>
+					<div class="uAuthor">
+						AdS/CFT applications to relativistic heavy ion collisions: a brief review
+					</div>
+										<div class="usage">
+						Studying the UE is critical for understanding the evolution of QCD with collision energy, as well as understanding the systematic corrections on many studies such as mass measurements. 
+					</div>
+					<div class="uAuthor">
+						Minimum Bias and Underlying Event Measurements with ATLAS
+					</div>
+										<div class="usage">
+						Because (cid:2) ˜d(ξ ) − Ω(ξ) 2π (cid:3)dξ = dS (ξ ), and because we do not expect that Ω(ξ )/2π to correlate at a local scale with ˜d(ξ ), to understand the pair correlation statistics ˜d(ξ1 + t) ˜d(ξ2 + t) it is enough to understand those of dS (ξ1 + t)dS (ξ2 + t). 
+					</div>
+					<div class="uAuthor">
+						Macroscopic pair correlation of the Riemann zeroes for smooth test functions
+					</div>
+										<div class="usage">
+						Understanding how this “active component” of the star-forming ISM works is essential to even an empirical understanding of large-scale star formation, much less understanding its underlying physics. 
+					</div>
+					<div class="uAuthor">
+						Star Formation in the Milky Way and Nearby Galaxies
+					</div>
+										<div class="usage">
+						In addition, the theoretical understanding and measurements of the Casimir interactions have grown substantially in the last ten years, allowing physicists to have a more detailed understanding of fundamental physics, not only in nanophysics, but particle physics and cosmology as well. 
+					</div>
+					<div class="uAuthor">
+						Repulsive Casimir force between silicon dioxide and superconductor
+					</div>
+										<div class="usage">
+						Pauli’s statement is already surprisingly close to the modern understanding of the cosmological constant problem, considering the fact that now we understand fundamental physics much better than a century ago. 
+					</div>
+					<div class="uAuthor">
+						Dark Energy: a Brief Review
+					</div>
+										<div class="usage">
+						The most intuitive way to understand why neutrino mass is forbidden in the Standard Model, is to understand that the Standard Model predicts that neutrinos always have a “left-handed” spin - rather like riﬂe bullets which spin counter clockwise to the direction of travel. 
+					</div>
+					<div class="uAuthor">
+						Neutrino Mass and Mixing with Discrete Symmetry
+					</div>
+										<div class="usage">
+						QCD and Spin physics are playing important role in our understanding of hadron structure. I will give a short overview of origin of hadron structure in QCD and highlight modern understanding of the sub ject. 
+					</div>
+					<div class="uAuthor">
+						SPIN Effects, QCD, and Jefferson Laboratory with 12 GeV electrons
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the capacity for rational thought or inference or discrimination"><a href="intellect.html">intellect</a>, </div><div class="synGroup" title="the cognitive condition of someone who understands"><a href="apprehension.html">apprehension</a>, <a href="discernment.html">discernment</a>, <a href="savvy.html">savvy</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="disposition.html">disposition</a>, <a href="faculty.html">faculty</a>, <a href="inclination.html">inclination</a>, <a href="knowing.html">knowing</a>, <a href="mental%20faculty.html">mental faculty</a>, <a href="module.html">module</a>, <a href="statement.html">statement</a>, <a href="tendency.html">tendency</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="appreciation.html">appreciation</a>, <a href="bargain.html">bargain</a>, <a href="brainstorm.html">brainstorm</a>, <a href="brainwave.html">brainwave</a>, <a href="comprehension.html">comprehension</a>, <a href="confederacy.html">confederacy</a>, <a href="conspiracy.html">conspiracy</a>, <a href="covenant.html">covenant</a>, <a href="deal.html">deal</a>, <a href="entente.html">entente</a>, <a href="entente%20cordiale.html">entente cordiale</a>, <a href="fair-trade%20agreement.html">fair-trade agreement</a>, <a href="gentlemen%27s%20agreement.html">gentlemen's agreement</a>, <a href="grasp.html">grasp</a>, <a href="grasping.html">grasping</a>, <a href="hindsight.html">hindsight</a>, <a href="hold.html">hold</a>, <a href="insight.html">insight</a>, <a href="oral%20contract.html">oral contract</a>, <a href="realisation.html">realisation</a>, <a href="realization.html">realization</a>, <a href="recognition.html">recognition</a>, <a href="reservation.html">reservation</a>, <a href="sale.html">sale</a>, <a href="sales%20agreement.html">sales agreement</a>, <a href="self-knowledge.html">self-knowledge</a>, <a href="settlement.html">settlement</a>, <a href="severance%20agreement.html">severance agreement</a>, <a href="smattering.html">smattering</a>, <a href="submission.html">submission</a>, <a href="suicide%20pact.html">suicide pact</a>, <a href="unilateral%20contract.html">unilateral contract</a>, <a href="working%20agreement.html">working agreement</a>, <a href="written%20agreement.html">written agreement</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="agree.html">agree</a>, <a href="reason.html">reason</a>, <a href="sympathetic.html">sympathetic</a>, <a href="sympathise.html">sympathise</a>, <a href="sympathize.html">sympathize</a>, <a href="understand.html">understand</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abecedarian.html">abecedarian</a>, <a href="abstractedness.html">abstractedness</a>, <a href="abstractness.html">abstractness</a>, <a href="abstruse.html">abstruse</a>, <a href="absurd.html">absurd</a>, <a href="Acatalepsy.html">Acatalepsy</a>, <a href="accord.html">accord</a>, <a href="acoustic%20aphasia.html">acoustic aphasia</a>, <a href="acuteness.html">acuteness</a>, <a href="agree.html">agree</a>, <a href="agreement.html">agreement</a>, <a href="alarm.html">alarm</a>, <a href="Allegorization.html">Allegorization</a>, <a href="amentia.html">amentia</a>, <a href="amity.html">amity</a>, <a href="amuse.html">amuse</a>, <a href="Antepredicament.html">Antepredicament</a>, <a href="Antichrist.html">Antichrist</a>, <a href="antinomy.html">antinomy</a>, <a href="aphasia.html">aphasia</a>, <a href="apparent.html">apparent</a>, <a href="appreciation.html">appreciation</a>, <a href="apprehend.html">apprehend</a>, <a href="apprehension.html">apprehension</a>, <a href="arrange.html">arrange</a>, <a href="Asemia.html">Asemia</a>, <a href="auditory%20aphasia.html">auditory aphasia</a>, <a href="autolysis.html">autolysis</a>, <a href="aware.html">aware</a>, <a href="babble.html">babble</a>, <a href="background.html">background</a>, <a href="background%20knowledge.html">background knowledge</a>, <a href="benevolent.html">benevolent</a>, <a href="Between%20ourselves.html">Between ourselves</a>, <a href="Between%20themselves.html">Between themselves</a>, <a href="Between%20you%20and%20me.html">Between you and me</a>, <a href="big.html">big</a>, <a href="billion.html">billion</a>, <a href="blear-eyed.html">blear-eyed</a>, <a href="blind.html">blind</a>, <a href="blinding.html">blinding</a>, <a href="blindly.html">blindly</a>, <a href="blockhead.html">blockhead</a>, <a href="blockish.html">blockish</a>, <a href="blunt.html">blunt</a>, <a href="borrow.html">borrow</a>, <a href="brain.html">brain</a>, <a href="Brain-sick.html">Brain-sick</a>, <a href="brainless.html">brainless</a>, <a href="brainsick.html">brainsick</a>, <a href="brainstorm.html">brainstorm</a>, <a href="brainwave.html">brainwave</a>, <a href="Buber.html">Buber</a>, <a href="canon.html">canon</a>, <a href="cant.html">cant</a>, <a href="capacity.html">capacity</a>, <a href="catch.html">catch</a>, <a href="catechetic.html">catechetic</a>, <a href="Categories.html">Categories</a>, <a href="charitable.html">charitable</a>, <a href="child.html">child</a>, <a href="Christian%20Science.html">Christian Science</a>, <a href="clarification.html">clarification</a>, <a href="Clavis.html">Clavis</a>, <a href="clear.html">clear</a>, <a href="Clear-headed.html">Clear-headed</a>, <a href="Clear-seeing.html">Clear-seeing</a>, <a href="clearly.html">clearly</a>, <a href="closed%20book.html">closed book</a>, <a href="cognisant.html">cognisant</a>, <a href="cognitive.html">cognitive</a>, <a href="cognizance.html">cognizance</a>, <a href="cognizant.html">cognizant</a>, <a href="collude.html">collude</a>, <a href="collusion.html">collusion</a>, <a href="Come%20to%20an%20eclaircissement.html">Come to an eclaircissement</a>, <a href="common%20ground.html">common ground</a>, <a href="Common-sense.html">Common-sense</a>, <a href="compassion.html">compassion</a>, <a href="compatibility.html">compatibility</a>, <a href="compos%20mentis.html">compos mentis</a>, <a href="comprehend.html">comprehend</a>, <a href="comprehension.html">comprehension</a>, <a href="comprehensiveness.html">comprehensiveness</a>, <a href="conceit.html">conceit</a>, <a href="Concert%20of%20Europe.html">Concert of Europe</a>, <a href="Concert%20of%20the%20powers.html">Concert of the powers</a>, <a href="connive.html">connive</a>, <a href="conscience.html">conscience</a>, <a href="construction.html">construction</a>, <a href="control.html">control</a>, <a href="convention.html">convention</a>, <a href="convince.html">convince</a>, <a href="coxcomb.html">coxcomb</a>, <a href="dark.html">dark</a>, <a href="deafness.html">deafness</a>, <a href="deep.html">deep</a>, <a href="delineate.html">delineate</a>, <a href="deprave.html">deprave</a>, <a href="depth.html">depth</a>, <a href="devoid.html">devoid</a>, <a href="digest.html">digest</a>, <a href="dim.html">dim</a>, <a href="dimness.html">dimness</a>, <a href="discern.html">discern</a>, <a href="discernible.html">discernible</a>, <a href="disconnect.html">disconnect</a>, <a href="disconnection.html">disconnection</a>, <a href="discursive.html">discursive</a>, <a href="disproportional.html">disproportional</a>, <a href="distinguish.html">distinguish</a>, <a href="Diswitted.html">Diswitted</a>, <a href="dogma.html">dogma</a>, <a href="dotage.html">dotage</a>, <a href="Doter.html">Doter</a>, <a href="Dough-baked.html">Dough-baked</a>, <a href="dull.html">dull</a>, <a href="Dullhead.html">Dullhead</a>, <a href="Dunch.html">Dunch</a>, <a href="ecumenical%20movement.html">ecumenical movement</a>, <a href="ecumenicalism.html">ecumenicalism</a>, <a href="ecumenicism.html">ecumenicism</a>, <a href="ecumenism.html">ecumenism</a>, <a href="Education.html">Education</a>, <a href="elucidation.html">elucidation</a>, <a href="elude.html">elude</a>, <a href="empathise.html">empathise</a>, <a href="empathize.html">empathize</a>, <a href="empathy.html">empathy</a>, <a href="emptiness.html">emptiness</a>, <a href="En%20rapport.html">En rapport</a>, <a href="encounter%20group.html">encounter group</a>, <a href="encyclopedic.html">encyclopedic</a>, <a href="enforcement.html">enforcement</a>, <a href="enigma.html">enigma</a>, <a href="enigmatic.html">enigmatic</a>, <a href="enigmatical.html">enigmatical</a>, <a href="enlighten.html">enlighten</a>, <a href="enlightenment.html">enlightenment</a>, <a href="enrich.html">enrich</a>, <a href="entente.html">entente</a>, <a href="entente%20cordiale.html">entente cordiale</a>, <a href="equip.html">equip</a>, <a href="escape.html">escape</a>, <a href="eurhythmics.html">eurhythmics</a>, <a href="eurhythmy.html">eurhythmy</a>, <a href="European%20concert.html">European concert</a>, <a href="eurythmics.html">eurythmics</a>, <a href="eurythmy.html">eurythmy</a>, <a href="evident.html">evident</a>, <a href="example.html">example</a>, <a href="excogitation.html">excogitation</a>, <a href="exercise.html">exercise</a>, <a href="explainable.html">explainable</a>, <a href="explanation.html">explanation</a>, <a href="Explicative.html">Explicative</a>, <a href="explicit.html">explicit</a>, <a href="feel.html">feel</a>, <a href="feeling.html">feeling</a>, <a href="flash.html">flash</a>, <a href="fly.html">fly</a>, <a href="folly.html">folly</a>, <a href="fool.html">fool</a>, <a href="foolish.html">foolish</a>, <a href="foolishly.html">foolishly</a>, <a href="foolishness.html">foolishness</a>, <a href="fume.html">fume</a>, <a href="fundamental.html">fundamental</a>, <a href="gaumless.html">gaumless</a>, <a href="Gerhard%20Herzberg.html">Gerhard Herzberg</a>, <a href="get.html">get</a>, <a href="glimmer.html">glimmer</a>, <a href="glimmering.html">glimmering</a>, <a href="good-hearted.html">good-hearted</a>, <a href="grasp.html">grasp</a>, <a href="grasping.html">grasping</a>, <a href="grip.html">grip</a>, <a href="gulf.html">gulf</a>, <a href="gumption.html">gumption</a>, <a href="harmony.html">harmony</a>, <a href="head.html">head</a>, <a href="headless.html">headless</a>, <a href="headpiece.html">headpiece</a>, <a href="heart.html">heart</a>, <a href="Herzberg.html">Herzberg</a>, <a href="hindsight.html">hindsight</a>, <a href="hold.html">hold</a>, <a href="humanist.html">humanist</a>, <a href="idea.html">idea</a>, <a href="idiocy.html">idiocy</a>, <a href="idiot.html">idiot</a>, <a href="illumination.html">illumination</a>, <a href="incapable.html">incapable</a>, <a href="incomprehension.html">incomprehension</a>, <a href="incomprehensive.html">incomprehensive</a>, <a href="incredible.html">incredible</a>, <a href="Indefinitude.html">Indefinitude</a>, <a href="inexperience.html">inexperience</a>, <a href="Infusoria.html">Infusoria</a>, <a href="inkling.html">inkling</a>, <a href="innumerate.html">innumerate</a>, <a href="insanity.html">insanity</a>, <a href="inscription.html">inscription</a>, <a href="insight.html">insight</a>, <a href="instruction.html">instruction</a>, <a href="intellect.html">intellect</a>, <a href="intellection.html">intellection</a>, <a href="Intellective.html">Intellective</a>, <a href="intellectual.html">intellectual</a>, <a href="Intellectualist.html">Intellectualist</a>, <a href="intellectually.html">intellectually</a>, <a href="intelligence.html">intelligence</a>, <a href="intelligent.html">intelligent</a>, <a href="Intelligential.html">Intelligential</a>, <a href="intelligently.html">intelligently</a>, <a href="intelligibility.html">intelligibility</a>, <a href="intelligible.html">intelligible</a>, <a href="Intendiment.html">Intendiment</a>, <a href="Intendment.html">Intendment</a>, <a href="intention.html">intention</a>, <a href="intimation.html">intimation</a>, <a href="intransigent.html">intransigent</a>, <a href="introduction.html">introduction</a>, <a href="Intuitionalism.html">Intuitionalism</a>, <a href="intuitive%20feeling.html">intuitive feeling</a>, <a href="Inunderstanding.html">Inunderstanding</a>, <a href="Inwit.html">Inwit</a>, <a href="iron.html">iron</a>, <a href="irradiate.html">irradiate</a>, <a href="irrational.html">irrational</a>, <a href="irrationality.html">irrationality</a>, <a href="Jurisprudent.html">Jurisprudent</a>, <a href="keen.html">keen</a>, <a href="kindly.html">kindly</a>, <a href="knowing.html">knowing</a>, <a href="knowledge.html">knowledge</a>, <a href="knowledgeable.html">knowledgeable</a>, <a href="Lackbrain.html">Lackbrain</a>, <a href="language.html">language</a>, <a href="large.html">large</a>, <a href="large-hearted.html">large-hearted</a>, <a href="learn.html">learn</a>, <a href="learned.html">learned</a>, <a href="left-handed.html">left-handed</a>, <a href="lettered.html">lettered</a>, <a href="level.html">level</a>, <a href="light.html">light</a>, <a href="linguistic%20process.html">linguistic process</a>, <a href="Lip-reading.html">Lip-reading</a>, <a href="literalism.html">literalism</a>, <a href="Lockian.html">Lockian</a>, <a href="logic.html">logic</a>, <a href="look.html">look</a>, <a href="Look%20through.html">Look through</a>, <a href="luminous.html">luminous</a>, <a href="madly.html">madly</a>, <a href="magnanimous.html">magnanimous</a>, <a href="manifest.html">manifest</a>, <a href="manifestation.html">manifestation</a>, <a href="manifold.html">manifold</a>, <a href="Martin%20Buber.html">Martin Buber</a>, <a href="master.html">master</a>, <a href="meaning.html">meaning</a>, <a href="meanness.html">meanness</a>, <a href="Memorandum%20check.html">Memorandum check</a>, <a href="mind.html">mind</a>, <a href="Misacceptation.html">Misacceptation</a>, <a href="misapprehension.html">misapprehension</a>, <a href="misconception.html">misconception</a>, <a href="misguide.html">misguide</a>, <a href="misinterpretation.html">misinterpretation</a>, <a href="Misregard.html">Misregard</a>, <a href="mistake.html">mistake</a>, <a href="misunderstanding.html">misunderstanding</a>, <a href="mood.html">mood</a>, <a href="morganatic.html">morganatic</a>, <a href="Muddy-headed.html">Muddy-headed</a>, <a href="mysterious.html">mysterious</a>, <a href="Mysteriousness.html">Mysteriousness</a>, <a href="mystery.html">mystery</a>, <a href="mystic.html">mystic</a>, <a href="mystical.html">mystical</a>, <a href="mysticism.html">mysticism</a>, <a href="mystification.html">mystification</a>, <a href="natural.html">natural</a>, <a href="Neotic.html">Neotic</a>, <a href="nitwitted.html">nitwitted</a>, <a href="Noematic.html">Noematic</a>, <a href="Noematical.html">Noematical</a>, <a href="Noemics.html">Noemics</a>, <a href="non%20compos%20mentis.html">non compos mentis</a>, <a href="No%C3%B6logy.html">Noölogy</a>, <a href="notion.html">notion</a>, <a href="noumenon.html">noumenon</a>, <a href="nous.html">nous</a>, <a href="obfuscation.html">obfuscation</a>, <a href="occult.html">occult</a>, <a href="of%20sound%20mind.html">of sound mind</a>, <a href="of%20unsound%20mind.html">of unsound mind</a>, <a href="openhearted.html">openhearted</a>, <a href="Orphic.html">Orphic</a>, <a href="paradigm.html">paradigm</a>, <a href="parrot.html">parrot</a>, <a href="parrotlike.html">parrotlike</a>, <a href="partnership.html">partnership</a>, <a href="perceptiveness.html">perceptiveness</a>, <a href="perceptivity.html">perceptivity</a>, <a href="perspicacious.html">perspicacious</a>, <a href="perspicacity.html">perspicacity</a>, <a href="perspicuity.html">perspicuity</a>, <a href="perspicuous.html">perspicuous</a>, <a href="pity.html">pity</a>, <a href="popularism.html">popularism</a>, <a href="practise.html">practise</a>, <a href="precocious.html">precocious</a>, <a href="premise.html">premise</a>, <a href="presentable.html">presentable</a>, <a href="private.html">private</a>, <a href="provide.html">provide</a>, <a href="Provided.html">Provided</a>, <a href="Psycho-.html">Psycho-</a>, <a href="punctuation.html">punctuation</a>, <a href="pure.html">pure</a>, <a href="puzzle.html">puzzle</a>, <a href="puzzling.html">puzzling</a>, <a href="Quick-conceiving.html">Quick-conceiving</a>, <a href="rapport.html">rapport</a>, <a href="rational.html">rational</a>, <a href="rationalism.html">rationalism</a>, <a href="rawness.html">rawness</a>, <a href="reach.html">reach</a>, <a href="Reading.html">Reading</a>, <a href="reason.html">reason</a>, <a href="recondite.html">recondite</a>, <a href="relativity.html">relativity</a>, <a href="reminiscence.html">reminiscence</a>, <a href="resonance.html">resonance</a>, <a href="reveal.html">reveal</a>, <a href="Rumgumption.html">Rumgumption</a>, <a href="sapience.html">sapience</a>, <a href="schema.html">schema</a>, <a href="science.html">science</a>, <a href="secret.html">secret</a>, <a href="self-knowledge.html">self-knowledge</a>, <a href="sensate.html">sensate</a>, <a href="sense.html">sense</a>, <a href="senseless.html">senseless</a>, <a href="sensible.html">sensible</a>, <a href="sensualism.html">sensualism</a>, <a href="Seven%20gifts%20of%20the%20Holy%20Ghost.html">Seven gifts of the Holy Ghost</a>, <a href="sharp-sighted.html">sharp-sighted</a>, <a href="silliness.html">silliness</a>, <a href="silly.html">silly</a>, <a href="simple.html">simple</a>, <a href="simplicity.html">simplicity</a>, <a href="skill.html">skill</a>, <a href="smattering.html">smattering</a>, <a href="soft-witted.html">soft-witted</a>, <a href="soul.html">soul</a>, <a href="sound.html">sound</a>, <a href="spectacle.html">spectacle</a>, <a href="Stand%20in%20with.html">Stand in with</a>, <a href="study.html">study</a>, <a href="stupefy.html">stupefy</a>, <a href="stupid.html">stupid</a>, <a href="stupidity.html">stupidity</a>, <a href="stupor.html">stupor</a>, <a href="Subaudition.html">Subaudition</a>, <a href="subtle.html">subtle</a>, <a href="supernaturalism.html">supernaturalism</a>, <a href="sympathetic.html">sympathetic</a>, <a href="sympathise.html">sympathise</a>, <a href="sympathize.html">sympathize</a>, <a href="Talk%20Greek.html">Talk Greek</a>, <a href="Teach.html">Teach</a>, <a href="tenor.html">tenor</a>, <a href="theoretical.html">theoretical</a>, <a href="thought.html">thought</a>, <a href="Tip%20one%20the%20wink.html">Tip one the wink</a>, <a href="To%20learn%20by%20rote.html">To learn by rote</a>, <a href="transcendent.html">transcendent</a>, <a href="unapprehensive.html">unapprehensive</a>, <a href="unbelievable.html">unbelievable</a>, <a href="uncomprehending.html">uncomprehending</a>, <a href="understand.html">understand</a>, <a href="understandingly.html">understandingly</a>, <a href="unenlightenment.html">unenlightenment</a>, <a href="unperceptiveness.html">unperceptiveness</a>, <a href="unreason.html">unreason</a>, <a href="Unsolid.html">Unsolid</a>, <a href="Unsoul.html">Unsoul</a>, <a href="Unwit.html">Unwit</a>, <a href="uptake.html">uptake</a>, <a href="Vedanga.html">Vedanga</a>, <a href="wavelength.html">wavelength</a>, <a href="weekend%20warrior.html">weekend warrior</a>, <a href="well-educated.html">well-educated</a>, <a href="well-read.html">well-read</a>, <a href="Welsh%20mortgage.html">Welsh mortgage</a>, <a href="wide.html">wide</a>, <a href="Wisdom.html">Wisdom</a>, <a href="wit.html">wit</a>, <a href="witless.html">witless</a>, <a href="Witling.html">Witling</a>, <a href="Witted.html">Witted</a>, <a href="word%20deafness.html">word deafness</a>, <a href="work.html">work</a>, <a href="Wronghead.html">Wronghead</a>, <a href="wrongheaded.html">wrongheaded</a>, <a href="yahoo.html">yahoo</a>, <a href="yard.html">yard</a>, <a href="%E2%80%96En%20rapport%22.html">‖En rapport"</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					ynderstanding, hnderstanding, jnderstanding, inderstanding, ubderstanding, uhderstanding, ujderstanding, umderstanding, unserstanding, uneerstanding, unferstanding, uncerstanding, unxerstanding, unserstanding, undwrstanding, undsrstanding, unddrstanding, undrrstanding, undeestanding, undedstanding, undefstanding, undetstanding, underatanding, underwtanding, underdtanding, underxtanding, underztanding, underatanding, undersranding, undersfanding, undersganding, undersyanding, understqnding, understwnding, understsnding, understznding, understabding, understahding, understajding, understamding, understansing, understaneing, understanfing, understancing, understanxing, understansing, understandung, understandjng, understandkng, understandong
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,538 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>certainty</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">certainty</span> <span class="exp">something that is certain</span> <span class="quot">"his victory is a certainty"</span></li><li><span class="tSpeech">n</span> <span class="term">certainty</span> <span class="exp">the state of being certain</span> <span class="quot">"his certainty reassured the others"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Certainty</span> <span class="exp">A fact or truth unquestionable established.</span> <span class="wuQuot">"Certainties are uninteresting and sating."</span></li><li><span class="term">Certainty</span> <span class="exp"><span class="wuFld">(Law)</span> Clearness; freedom from ambiguity; lucidity.</span> </li><li><span class="term">Certainty</span> <span class="exp">The quality, state, or condition, of being certain.</span> <span class="wuQuot">"The certainty of punishment is the truest security against crimes."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">certainty</span> <span class="exp">The quality or fact of being certain, fixed, determinate, or sure; the possession, as by a judgment or proposition, of certain marks which place it in the class of true propositions; exemption from failure or liability to fail; infallibility; inevitability: as, the certainty of an event, or of the success of a remedy.</span> </li><li><span class="tSpeech">n</span> <span class="term">certainty</span> <span class="exp">A clearly established fact, truth, or state; that which is positively ascertained, demonstrated, or intuitively known, or which cannot be questioned.</span> </li><li><span class="tSpeech">n</span> <span class="term">certainty</span> <span class="exp">That which is sure to be or occur; an assured event or result; an unerring forecast.</span> </li><li><span class="tSpeech">n</span> <span class="term">certainty</span> <span class="exp">Full assurance of mind; exemption from doubt; certitude.</span> </li><li><span class="tSpeech">n</span> <span class="term">certainty</span> <span class="exp">Same as certain, 3.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Certainty</span> <span class="exp">.—'<span class="bld">A certain person</span>,' implying some degree of contempt</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Carlyle.jpg" alt="Thomas%20Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One must verify or expel his doubts, and convert them into the certainty of Yes or NO.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William J. Durant</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20J.%20Durant.jpg" alt="William%20J.%20Durant">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Inquiry is fatal to certainty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Bertrand Russell</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Bertrand%20Russell.jpg" alt="Bertrand%20Russell">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What men want is not knowledge, but certainty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Arthur Schopenhauer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Arthur%20Schopenhauer.jpg" alt="Arthur%20Schopenhauer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The present is the only reality and the only certainty.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Voltaire</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Voltaire.jpg" alt="Voltaire">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Doubt is not a pleasant mental state, but certainty is a ridiculous one.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sylvia Ashton Warner</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Sylvia Ashton Warner">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I tore myself away from the safe comfort of certainties through my love for truth; and truth rewarded me.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OF. <span class="wUets">certaineté</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					O. Fr.,—L. <i>certus</i>—<i>cern-ĕre</i>, to decide.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						It was her certainty of Nicky's vision that drove her to the supreme act of courage.
+					</div>
+					<div class="uAuthor">
+						"The Creators" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						What he had dreaded he now knew for certainty.
+					</div>
+					<div class="uAuthor">
+						"A Son of Hagar" by <span>Sir Hall Caine</span>					</div>
+										<div class="usage">
+						You gained me the certainty of forgiveness, without which I should have felt a curse on my work.
+					</div>
+					<div class="uAuthor">
+						"Hopes and Fears scenes from the life of a spinster" by <span>Charlotte M. Yonge</span>					</div>
+										<div class="usage">
+						It was not risk; it was certainty.
+					</div>
+					<div class="uAuthor">
+						"Casa Braccio, Volumes 1 and 2 (of 2)" by <span>F. Marion Crawford</span>					</div>
+										<div class="usage">
+						A man wants pretty near a certainty before he puts up the stuff.
+					</div>
+					<div class="uAuthor">
+						"A Black Adonis" by <span>Linn Boyd Porter</span>					</div>
+										<div class="usage">
+						Two years and the certainty of graduation would have suited her better, but two years was a long time.
+					</div>
+					<div class="uAuthor">
+						"The Wind Before the Dawn" by <span>Dell H. Munger</span>					</div>
+										<div class="usage">
+						All through the play there are warnings against human certainty.
+					</div>
+					<div class="uAuthor">
+						"William Shakespeare" by <span>John Masefield</span>					</div>
+										<div class="usage">
+						On this point it is not possible to speak with any certainty.
+					</div>
+					<div class="uAuthor">
+						"The Story of the Heavens" by <span>Robert Stawell Ball</span>					</div>
+										<div class="usage">
+						The certainty of this would ever intrude and quench his exultation.
+					</div>
+					<div class="uAuthor">
+						"The Sign of the Spider" by <span>Bertram Mitford</span>					</div>
+										<div class="usage">
+						We were sustained by the certainty of the love of God.
+					</div>
+					<div class="uAuthor">
+						"A Handful of Stars" by <span>Frank W. Boreham</span>					</div>
+										<div class="usage">
+						It is not a matter that can be argued with certainty.
+					</div>
+					<div class="uAuthor">
+						"The Settlement of Wage Disputes" by <span>Herbert Feis</span>					</div>
+										<div class="usage">
+						The only number composed only of ones that we know with certainty to have no divisor is 11.
+					</div>
+					<div class="uAuthor">
+						"The Canterbury Puzzles" by <span>Henry Ernest Dudeney</span>					</div>
+										<div class="usage">
+						What had been at first only a conjecture, soon became a certainty.
+					</div>
+					<div class="uAuthor">
+						"The Giraffe Hunters" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Rather was it a certainty.
+					</div>
+					<div class="uAuthor">
+						"The Ocean Waifs" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						When this certainty is assured to him he quickly pardons and forgets the injuries he has suffered.
+					</div>
+					<div class="uAuthor">
+						"A History of Art in Chaldæa &amp; Assyria, v. 1" by <span>Georges Perrot</span>					</div>
+										<div class="usage">
+						And did so, with no result; merely expression of abstract certainty that it was sure to come.
+					</div>
+					<div class="uAuthor">
+						"Somehow Good" by <span>William de Morgan</span>					</div>
+										<div class="usage">
+						Gone was the swift certainty of control.
+					</div>
+					<div class="uAuthor">
+						"Astounding Stories of Super-Science February 1930" by <span>Various</span>					</div>
+										<div class="usage">
+						Certainty was in his face, and doubt in theirs.
+					</div>
+					<div class="uAuthor">
+						"Red Men and White" by <span>Owen Wister</span>					</div>
+										<div class="usage">
+						He saw dimly that the mistake he had made was in hoping for anything of the nature of certainty.
+					</div>
+					<div class="uAuthor">
+						"Beside Still Waters" by <span>Arthur Christopher Benson</span>					</div>
+										<div class="usage">
+						No answer came to the question, yet of a certainty she was happier under some conditions than others.
+					</div>
+					<div class="uAuthor">
+						"Lady Cassandra" by <span>Mrs George de Horne Vaizey</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Will they inherit me<br>
+one day? What certainties<br>
+have I to hand on<br>
+like the punctuality
+							<div class="poet">"Sarn Rhiw" by <span>R S  Thomas</span></div>
+						</div>
+											<div class="poemQuote">
+							Cruel? I think there never was a cheating<br>
+More cruel, thro' all the weary days than this!<br>
+This is no dream, my heart kept on repeating,<br>
+But sober certainty of waking bliss.
+							<div class="poet">"In the Night" by <span>Amy Levy</span></div>
+						</div>
+											<div class="poemQuote">
+							The cross thou for a certainty must bear,<br>
+Ere thou the crown triumphal canst obtain:<br>
+In all my days, I never yet did hear<br>
+That one the crown, without the cross, cou'd gain. 
+							<div class="poet">"A Letter From Sir Lewis Mansel Of Margam, In Glamorganshire, As 'Tis Suppos'd, To The Vicar Prichard" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							If for thy guardian thou dost Christ refuse,<br>
+And dost not Christ for thy director chuse,<br>
+No one, with any certainty, can tell<br>
+How thou may'st save thy precious soul from hell.
+							<div class="poet">"Advice, To Search For The Lord Jesus Christ" by <span>Rees Prichard</span></div>
+						</div>
+											<div class="poemQuote">
+							XV. But oh! when cherish'd Hope reposed its soul<br>
+Upon a new-born certainty of joy,<br>
+Death from the arms of pending pleasures stole,<br>
+And years of promis'd bliss, the Minstrel Boy.
+							<div class="poet">"The Minstrel Boy" by <span>Sydney Owenson</span></div>
+						</div>
+											<div class="poemQuote">
+							"Cheered onward by this promise sure,<br>
+Strong in the faith entire and pure<br>
+Thou dost profess,<br>
+Depart, thy hope is certainty,<br>
+The third, the better life on high<br>
+Shalt thou possess." 
+							<div class="poet">"Coplas De Manrique (From The Spanish)" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						"Death and taxes" — the cynic's answer to the question of worldly certainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wtaq.com/news/articles/2012/nov/19/twinkies-go-out-of-business-now-what-are-we-gonna-/" target="_blank" rel="external nofollow">wtaq.com</a>
+					</div>
+										<div class="usage">
+						" And one component of that test is often convincing a federal judge that there is a "certainty of hopelessness " to their financial lives for much of the repayment period.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/09/01/business/shedding-student-loans-in-bankruptcy-is-an-uphill-battle.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						It seems the potential FCS playoff field has more certainty than a Florida presidential election.
+					</div>
+					<div class="uAuthor">
+						<a href="http://orlandosentinel.com/sports/nationworld/sns-tsn-agn-haley-column-20121111,0,503734.story" target="_blank" rel="external nofollow">orlandosentinel.com</a>
+					</div>
+										<div class="usage">
+						The eventuality was always a near certainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailygazette.com/news/2012/dec/02/1201_figliozzi/" target="_blank" rel="external nofollow">dailygazette.com</a>
+					</div>
+										<div class="usage">
+						So much for Washington certainties.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kunm.org/people/frank-james" target="_blank" rel="external nofollow">kunm.org</a>
+					</div>
+										<div class="usage">
+						Victorian jockey Glen Boss is no certainty to retain the ride on Ocean Park when the Matamata galloper embarks on an international campaign next year, with trainer Gary Hennessy considering Kiwi jockeys .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;objectid=10850394" target="_blank" rel="external nofollow">nzherald.co.nz</a>
+					</div>
+										<div class="usage">
+						NHL lockout gives best talent to Canada's junior team, but takes away certainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.winnipegfreepress.com/sports/canadas-junior-team-beats-university-squad-2-0-in-exhibition-game-183406101.html" target="_blank" rel="external nofollow">winnipegfreepress.com</a>
+					</div>
+										<div class="usage">
+						While leaders warned that austerity measures might worsen the European recession, Spain's prime minister urged for more legal certainty in Latin America .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.taipeitimes.com/News/biz/archives/2012/11/19/2003548037" target="_blank" rel="external nofollow">taipeitimes.com</a>
+					</div>
+										<div class="usage">
+						It's almost a certainty that the Democrats will lose a lot of ground.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ohio.com/blogs/all-da-king-s-men/all-da-king-s-men-1.297964/loose-talk-1.341361?month=9&amp;year=2010" target="_blank" rel="external nofollow">ohio.com</a>
+					</div>
+										<div class="usage">
+						The Pointless Pursuit of "Tax Certainty".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnr.com/blog/plank/111042/the-pointless-pursuit-tax-certainty" target="_blank" rel="external nofollow">tnr.com</a>
+					</div>
+										<div class="usage">
+						Death and taxes have long been the only two certainties of life.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wgog.com/editorial-the-coroners-case-for-a-morgue/" target="_blank" rel="external nofollow">wgog.com</a>
+					</div>
+										<div class="usage">
+						Oscar certainties and some surprises.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.contracostatimes.com/breaking-news/ci_22184888/golden-globes-movie-nominations-oscar-certainties-and-some" target="_blank" rel="external nofollow">contracostatimes.com</a>
+					</div>
+										<div class="usage">
+						He'll want you to play football and if he winds up coaching your team (almost a certainty), he'll go the pretty-much-obsessed route.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/sports/high_school/20121029_Memorable_comeback_as_Conwell-Egan_stuns_Neumann-Goretti.html" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						Like most of his fellow bowl executive, Steve Beck sees plenty of scenarios but not a lot of certainty.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/blog/d1scourse/2011/nov/29/scenarios-still-plentiful-for-military-bowl/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						CEOs Tell Politico They Need "Tax Certainty," But They Really Mean Tax Cuts The New Republic.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tnr.com/blog/plank/111042/the-pointless-pursuit-tax-certainty" target="_blank" rel="external nofollow">tnr.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Unless K is known, any classical algorithm for this problem would require N 2 + 1 evaluations of f in worst case before determining the answer with certainty. 
+					</div>
+					<div class="uAuthor">
+						Quantum Algorithm for Generalized Deutsch-Jozsa Problem
+					</div>
+										<div class="usage">
+						In = −20), then with absolute certainty we can predict that the next values will be negative and |In | → 0. 
+					</div>
+					<div class="uAuthor">
+						Exact solutions to chaotic and stochastic systems
+					</div>
+										<div class="usage">
+						There is no way to predict with certainty the value of X(t) during a given symbol duration, based on the values of X(t) during the past symbols. 
+					</div>
+					<div class="uAuthor">
+						On Superluminal Propagation and Information Velocity
+					</div>
+										<div class="usage">
+						Conclusive discrimination means that our measurement on the copy gives three outcomes which allow us to determine the prior state is |φi or |ψi with certainty or ”don’t know”. 
+					</div>
+					<div class="uAuthor">
+						Optimally Conclusive Discrimination of Non-orthogonal Entangled States Locally
+					</div>
+										<div class="usage">
+						Occurrence of |si i, i ≤ m pro jects system AB onto |φi i or |ψi i which is orthogonal to each other and can be distinguished with certainty by the protocol in . 
+					</div>
+					<div class="uAuthor">
+						Optimally Conclusive Discrimination of Non-orthogonal Entangled States Locally
+					</div>
+										<div class="usage">
+						Individuals die with certainty if their age reaches ad , and they die earlier with probability N (t)/Nmax at every iteration, where N (t) is the actual population and Nmax a so-called carrying capacity taking into account the limitations of food and space (Verhulst factor). 
+					</div>
+					<div class="uAuthor">
+						Applications and Sexual Version of a Simple Model for Biological Ageing
+					</div>
+										<div class="usage">
+						The certainty that RT does not arise comes from the fact that the velocity ﬁeld converges onto the fragments rather than shear between them, as would be expected for RT. 
+					</div>
+					<div class="uAuthor">
+						The nonlinear development of the thermal instability in the atomic ISM and its interaction with random fluctuations
+					</div>
+										<div class="usage">
+						Mining structure typically entails identifying characteristics, such as the degree of connectivity or clustering to make statements with certainty about the underlying domain and social process. 
+					</div>
+					<div class="uAuthor">
+						A Connection-Centric Survey of Recommender Systems Research
+					</div>
+										<div class="usage">
+						Each |iihi| is an individual state because, considered as a matrix, it has probability 1 (certainty); in other words, it contains maximum information since T r(|iihi|2 ) = 1; therefore, if conceived as an ensemble, it would represent a set of copies of the same state |iihi|, thus, one |iihi| is suﬃcient. 
+					</div>
+					<div class="uAuthor">
+						The cosmological origin of time-asymmetry
+					</div>
+										<div class="usage">
+						We suspect that this is an artifact of the small sample size, but we cannot rule out with certainty that is a real, physical effect. 
+					</div>
+					<div class="uAuthor">
+						Dynamics of the Globular Cluster System Associated with M49 (NGC4472): Cluster Orbital Properties and the Distribution of Dark Matter
+					</div>
+										<div class="usage">
+						What constitutes a “suﬃcient” number of points is in general diﬃcult to determine (and impossible to determine with absolute certainty) - though there are tests which are good indicators. 
+					</div>
+					<div class="uAuthor">
+						Precision Primordial $^4$He Measurement with CMB Experiments
+					</div>
+										<div class="usage">
+						In part because it implies that there is a fundamental limitation to what we can know with absolute certainty about the nature of reality. 
+					</div>
+					<div class="uAuthor">
+						From Knowledge, Knowability and the Search for Objective Randomness to a New Vision of Complexity
+					</div>
+										<div class="usage">
+						In the error-minimizing measurement scheme the measurement is required to be exhaustive and conclusive in the sense that in each single case with certainty one of the two possible states is identiﬁed, although perhaps incorrectly, while inconclusive results allowing no identiﬁcation do not occur. 
+					</div>
+					<div class="uAuthor">
+						Distinguishing mixed quantum states: Minimum-error discrimination versus optimum unambiguous discrimination
+					</div>
+										<div class="usage">
+						For the more chaotic slow solar wind, the relative roles of steady streamer-edge ﬂows (as emphasized by UVCS abundance analysis) versus bright blob structures (seen by LASCO) need to be understood before the relation between streamer heating and and slow-wind acceleration can be known with certainty. 
+					</div>
+					<div class="uAuthor">
+						Coronal Heating versus Solar Wind Acceleration
+					</div>
+										<div class="usage">
+						To mask known stars for the SNfactory search subtractions, a list was constructed of objects that were classi ﬁed as being stars with at least 80% certainty in both ﬁlters. 
+					</div>
+					<div class="uAuthor">
+						Rates and Progenitors of Type Ia Supernovae
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="something that is certain"><a href="sure%20thing.html">sure thing</a>, <a href="foregone%20conclusion.html">foregone conclusion</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="uncertainty.html">uncertainty</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="cognitive%20state.html">cognitive state</a>, <a href="quality.html">quality</a>, <a href="state%20of%20mind.html">state of mind</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="assurance.html">assurance</a>, <a href="authority.html">authority</a>, <a href="cert.html">cert</a>, <a href="certitude.html">certitude</a>, <a href="cocksureness.html">cocksureness</a>, <a href="confidence.html">confidence</a>, <a href="indisputability.html">indisputability</a>, <a href="indubitability.html">indubitability</a>, <a href="ineluctability.html">ineluctability</a>, <a href="inevitability.html">inevitability</a>, <a href="inevitableness.html">inevitableness</a>, <a href="moral%20certainty.html">moral certainty</a>, <a href="overconfidence.html">overconfidence</a>, <a href="predictability.html">predictability</a>, <a href="reliance.html">reliance</a>, <a href="self-assurance.html">self-assurance</a>, <a href="self-confidence.html">self-confidence</a>, <a href="slam%20dunk.html">slam dunk</a>, <a href="sureness.html">sureness</a>, <a href="surety.html">surety</a>, <a href="trust.html">trust</a>, <a href="unavoidability.html">unavoidability</a>, <a href="unquestionability.html">unquestionability</a>, <a href="unquestionableness.html">unquestionableness</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Acatalepsy.html">Acatalepsy</a>, <a href="Acataleptic.html">Acataleptic</a>, <a href="apprehend.html">apprehend</a>, <a href="ascertain.html">ascertain</a>, <a href="Ascertainment.html">Ascertainment</a>, <a href="Assecuration.html">Assecuration</a>, <a href="assize.html">assize</a>, <a href="assurance.html">assurance</a>, <a href="assure.html">assure</a>, <a href="assured.html">assured</a>, <a href="assuredness.html">assuredness</a>, <a href="authentically.html">authentically</a>, <a href="belief.html">belief</a>, <a href="believe.html">believe</a>, <a href="belike.html">belike</a>, <a href="black%20hole.html">black hole</a>, <a href="cancer.html">cancer</a>, <a href="cert.html">cert</a>, <a href="certain.html">certain</a>, <a href="certainly.html">certainly</a>, <a href="Certainness.html">Certainness</a>, <a href="certitude.html">certitude</a>, <a href="check.html">check</a>, <a href="cocksure.html">cocksure</a>, <a href="cocksureness.html">cocksureness</a>, <a href="confidence.html">confidence</a>, <a href="confirm.html">confirm</a>, <a href="constancy.html">constancy</a>, <a href="dead.html">dead</a>, <a href="definiteness.html">definiteness</a>, <a href="demonstrate.html">demonstrate</a>, <a href="demonstrative.html">demonstrative</a>, <a href="demonstratively.html">demonstratively</a>, <a href="demonstrator.html">demonstrator</a>, <a href="determinable.html">determinable</a>, <a href="Determinately.html">Determinately</a>, <a href="determine.html">determine</a>, <a href="disputable.html">disputable</a>, <a href="dynamite.html">dynamite</a>, <a href="epiphysis.html">epiphysis</a>, <a href="establishment.html">establishment</a>, <a href="expect.html">expect</a>, <a href="find%20out.html">find out</a>, <a href="firmness.html">firmness</a>, <a href="Gayley%20process.html">Gayley process</a>, <a href="Have%20a%20sure%20thing.html">Have a sure thing</a>, <a href="homing%20pigeon.html">homing pigeon</a>, <a href="hypothesis.html">hypothesis</a>, <a href="iceberg.html">iceberg</a>, <a href="in%20all%20likelihood.html">in all likelihood</a>, <a href="in%20all%20probability.html">in all probability</a>, <a href="Incertainty.html">Incertainty</a>, <a href="incertitude.html">incertitude</a>, <a href="indefinitely.html">indefinitely</a>, <a href="inevitableness.html">inevitableness</a>, <a href="infallibility.html">infallibility</a>, <a href="Iwis.html">Iwis</a>, <a href="knowledge.html">knowledge</a>, <a href="known.html">known</a>, <a href="learn.html">learn</a>, <a href="likely.html">likely</a>, <a href="Lockian.html">Lockian</a>, <a href="margin.html">margin</a>, <a href="mathematical.html">mathematical</a>, <a href="mathematically.html">mathematically</a>, <a href="moral.html">moral</a>, <a href="moral%20certainty.html">moral certainty</a>, <a href="Neume.html">Neume</a>, <a href="obscure.html">obscure</a>, <a href="Only%20from%20day%20to%20day.html">Only from day to day</a>, <a href="opinion.html">opinion</a>, <a href="Outsee.html">Outsee</a>, <a href="overconfidence.html">overconfidence</a>, <a href="passport.html">passport</a>, <a href="Pathognomonic.html">Pathognomonic</a>, <a href="persuasion.html">persuasion</a>, <a href="phrenology.html">phrenology</a>, <a href="Pneuma.html">Pneuma</a>, <a href="positive.html">positive</a>, <a href="positively.html">positively</a>, <a href="positiveness.html">positiveness</a>, <a href="positivism.html">positivism</a>, <a href="positivity.html">positivity</a>, <a href="precarious.html">precarious</a>, <a href="presumption.html">presumption</a>, <a href="probabilism.html">probabilism</a>, <a href="Probabilist.html">Probabilist</a>, <a href="probability.html">probability</a>, <a href="probably.html">probably</a>, <a href="proof.html">proof</a>, <a href="race.html">race</a>, <a href="reliance.html">reliance</a>, <a href="rely.html">rely</a>, <a href="resolution.html">resolution</a>, <a href="sceptic.html">sceptic</a>, <a href="sceptical.html">sceptical</a>, <a href="security.html">security</a>, <a href="see.html">see</a>, <a href="self-evident.html">self-evident</a>, <a href="sentiment.html">sentiment</a>, <a href="sequoia.html">sequoia</a>, <a href="Shall.html">Shall</a>, <a href="significant%20digit.html">significant digit</a>, <a href="significant%20figure.html">significant figure</a>, <a href="skeptic.html">skeptic</a>, <a href="skeptical.html">skeptical</a>, <a href="Sockdologer.html">Sockdologer</a>, <a href="solidity.html">solidity</a>, <a href="solipsism.html">solipsism</a>, <a href="sureness.html">sureness</a>, <a href="surety.html">surety</a>, <a href="Tell.html">Tell</a>, <a href="there.html">there</a>, <a href="thought.html">thought</a>, <a href="Thule.html">Thule</a>, <a href="To%20venture%20at.html">To venture at</a>, <a href="To%20venture%20on.html">To venture on</a>, <a href="To%20venture%20upon.html">To venture upon</a>, <a href="tremble.html">tremble</a>, <a href="trust.html">trust</a>, <a href="Trustily.html">Trustily</a>, <a href="Unascertained.html">Unascertained</a>, <a href="uncertainly.html">uncertainly</a>, <a href="uncertainty.html">uncertainty</a>, <a href="unquestionability.html">unquestionability</a>, <a href="venture.html">venture</a>, <a href="view.html">view</a>, <a href="watch.html">watch</a>, <a href="will.html">will</a>, <a href="Wis.html">Wis</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xertainty, dertainty, fertainty, vertainty, cwrtainty, csrtainty, cdrtainty, crrtainty, ceetainty, cedtainty, ceftainty, cettainty, cerrainty, cerfainty, cergainty, ceryainty, certqinty, certwinty, certsinty, certzinty, certaunty, certajnty, certaknty, certaonty, certaibty, certaihty, certaijty, certaimty, certainry, certainfy, certaingy, certainyy, certaintt, certaintg, certainth, certaintu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

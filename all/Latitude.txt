@@ -1,0 +1,490 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>latitude</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">scope for freedom of e.g. action or thought; freedom from restriction</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">an imaginary line around the Earth parallel to the equator</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">freedom from normal restraints in conduct</span> <span class="quot">"the new freedom in movies and novels","allowed his children considerable latitude in how they spent their money"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										If you were at 0° latitude and 0° longtitude, you would be standing in the Atlantic Ocean									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Latitude</span> <span class="exp"><span class="wuFld">(Geog)</span> Distance north or south of the equator, measured on a meridian.</span> </li><li><span class="term">latitude</span> <span class="exp">etc. (of a heavenly body), the direction, latitude, longitude, etc., of the body as viewed from the sun.</span> </li><li><span class="term">Latitude</span> <span class="exp">Extent from side to side, or distance sidewise from a given point or line; breadth; width.</span> <span class="wuQuot">"Provided the length do not exceed the latitude above one third part."</span></li><li><span class="term">Latitude</span> <span class="exp">Extent or breadth of signification, application, etc.; extent of deviation from a standard, as truth, style, etc.</span> <span class="wuQuot">"No discreet man will believe Augustine's miracles, in the latitude of monkish relations."</span></li><li><span class="term">Latitude</span> <span class="exp">Extent; size; amplitude; scope.</span> <span class="wuQuot">"I pretend not to treat of them in their full latitude ."</span></li><li><span class="term">Latitude</span> <span class="exp">Room; space; freedom from confinement or restraint; hence, looseness; laxity; independence.</span> <span class="wuQuot">"In human actions there are no degrees and precise natural limits described, but a latitude is indulged."</span></li><li><span class="term">Latitude</span> <span class="exp"><span class="wuFld">(Astron)</span> The angular distance of a heavenly body from the ecliptic.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										Patagonia at the southern tip of South America is the only populated land area south of 40 degrees South Latitude. By comparison, most of Europe, Asia, and two-thirds of North America are north of 40 degrees North Latitude.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">Extent from side to side, or distance sidewise from a given point or line; breadth; width.</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">Extent within limits of any kind; scope; range; comprehensiveness: as, to be allowed great latitude of motion or action; latitude of meaning or of application.</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">Hence Extent of deviation from a standard; freedom from rules or limits: as, latitude of conduct.</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">The elevation of the pole of the heavens at a station, or the angle at which the plane of the horizon is cut by the earth's axis; the total curvature or bending of a meridian between the equator and a station; the angle which the plumb-line at any place makes with the plumb-line at the equator in the same plane; on a map, the angular distance of a point on the earth's surface from the equator, measured on the meridian of the point: as, St. Paul's, London, is in lat. 51° 30' 48″ N.; Cape Horn is in lat. 55° 59' S. Latitude is determined by different methods, according as circumstances may require. At sea the instrument exclusively used is the quadrant or sextant, the latter being simply a more accurately constructed and therefore more expensive form of the instrument. With this the altitude of the sun is observed when on the meridian, and from this altitude, with the aid of the declination taken from the Nautical Almanac, with certain corrections for dip, refraction, etc., the latitude is obtained. The same method is used on land (with the aid of an artificial horizon in place of the natural) in cases where no great accuracy is required, as in ordinary geographical reconnaissances. More accurate results are secured by increasing the number of observations by the method of circummeridian altitudes, several observations being taken just before and just after noon (or, if a fixed star is observed, before and after its culmination), from which, with suitable corrections, a mean result is attained more accurate than that furnished by a single observation. A much higher degree of accuracy is reached by the use of the zenith-telescope, which is a portable instrument, but considerably less so than the sextant, which the observer holds in his hand. With this instrument the latitude is determined by measuring micrometrically the difference of the meridional zenith-distances of two stars near the zenith, one northand the other south of it. The zenith-telescope is used for latitude determinations by the United States Coast and Geodetic Survey at the stations belonging to the primary triangulation. The most accurate method of determining the latitude in a fixed observatory is by observing, with the meridian circle, the altitude of a circumpolar star at its transits above and below the pole. This method is independent of the declination of the star, and not necessarily liable to great errors of refraction. Another method sometimes employed in fixed observatories is to observe the transit of a star with a transit-instrument in the prime vertical, the time of the transit being observed with the instrument pointing east, and again with the same instrument pointing west, whence the altitude of the pole may be deduced. There are other methods of determining the latitude, but they are much less important than those mentioned.</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">In astronomy, the angular distance of a star north or south of the ecliptic, measured on that secondary to the ecliptic which passes through the body. Secondaries to the ecliptic are called circles of celestial latitude, and parallels to the ecliptic are called parallels of celestial latitude. Latitude is geocentric or heliocentric according as the earth or the sun is taken as the center from which the angle is measured.</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">The quantity of the interval between two latitudes, either in the geographical or the astronomical sense: as, to sail through 30° of latitude.</span> </li><li><span class="tSpeech">n</span> <span class="term">latitude</span> <span class="exp">A place or region as marked by parallels of latitude: as, to fish in high latitudes (that is, in places where the latitude is a high number); the orange will not ripen in this latitude (that is, it will not do so in any place on the same parallel of latitude as the place spoken of); you are out of your latitude (that is, literally or figuratively, you have committed an error of navigation, so that the latitude you have assigned to the ship's place is not the true one).</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Latitude</span> <span class="exp"><span class="itl">lat′i-tūd</span> the distance of a place north or south from the equator, measured in degrees of the meridian: a place as indicated by latitude: the angular distance of a celestial body above the plane of the ecliptic (<span class="itl">apparent</span> when the point of view is on the earth's surface, <span class="itl">geocentric</span> when at the earth's centre, <span class="itl">heliocentric</span> when at the centre of the sun): :</span> </li><li><span class="tSpeech">n</span> <span class="term">Latitude</span> <span class="exp">a name applied by contemporaries to a member of a school of liberal and philosophical theologians within the English Church in the later half of the 17th century: one who affects to regard specific creeds, methods of church government, &amp;c. with indifference</span> </li><li><span class="tSpeech">n</span> <span class="term">Latitude</span> <span class="exp"><span class="itl">lat′i-tūd</span> (<span class="itl">fig.</span>) extent of signification: freedom from restraint: scope</span> </li><li><span class="tSpeech">n</span> <span class="term">Latitude</span> <span class="exp"><span class="itl">lat′i-tūd</span> (<span class="itl">obs.</span>) width</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Lamb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20Lamb.jpg" alt="Charles%20Lamb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The teller of a mirthful tale has latitude allowed him. We are content with less than absolute truth.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">latitude</span>, L. <span class="wUets">latitudo</span>, fr. <span class="wUets">latus</span>, broad, wide, for older <span class="wUets">stlatus</span>,; perh. akin to E. <span class="wUets">strew</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>latitudo</i>, <i>-inis</i>—<i>latus</i>, broad.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						To get out of this latitude he steered to the south-west, hoping to find a milder temperature farther on.
+					</div>
+					<div class="uAuthor">
+						"Notable Voyagers" by <span>W.H.G. Kingston and Henry Frith</span>					</div>
+										<div class="usage">
+						So thick are these layers of ice that they may be likened to the rocks found in lower latitudes.
+					</div>
+					<div class="uAuthor">
+						"Wealth of the World's Waste Places and Oceania" by <span>Jewett Castello Gilson</span>					</div>
+										<div class="usage">
+						The full moonlight of the lower latitudes was incomparable with the Arctic night.
+					</div>
+					<div class="uAuthor">
+						"The Heart of Unaga" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						In dry, hot weather the curing proceeds rapidly, while in cooler latitudes or cloudy weather the curing may require a week.
+					</div>
+					<div class="uAuthor">
+						"Crops and Methods for Soil Improvement" by <span>Alva Agee</span>					</div>
+										<div class="usage">
+						Hence the highest columns are observed with north-east winds in northern latitudes, and with south-east in the southern hemisphere.
+					</div>
+					<div class="uAuthor">
+						"Barometer and Weather Guide" by <span>Robert Fitzroy</span>					</div>
+										<div class="usage">
+						On January 30, 1774, we sailed from New Zealand, and reaching latitude 67 deg.
+					</div>
+					<div class="uAuthor">
+						"The World's Greatest Books, Volume 19" by <span>Various</span>					</div>
+										<div class="usage">
+						North Latitude on the other side of the Pole.
+					</div>
+					<div class="uAuthor">
+						"Pushbutton War" by <span>Joseph P. Martino</span>					</div>
+										<div class="usage">
+						The limits in latitude will be 1 deg.
+					</div>
+					<div class="uAuthor">
+						"The Story of Eclipses" by <span>George Chambers</span>					</div>
+										<div class="usage">
+						On the fourth day, I found we were in the latitude of Cape Finisterre, and that we had run 168 miles in the preceding 24 hours.
+					</div>
+					<div class="uAuthor">
+						"A Boy's Voyage Round the World" by <span>The Son of Samuel Smiles</span>					</div>
+										<div class="usage">
+						Its latitude has indeed in that case been stated 2 deg.
+					</div>
+					<div class="uAuthor">
+						"The Voyage of the Vega round Asia and Europe, Volume I and Volume II" by <span>A.E. Nordenskieold</span>					</div>
+										<div class="usage">
+						It lies in latitude 34 degrees 22 minutes South, and longitude 186 degrees 55 minutes West.
+					</div>
+					<div class="uAuthor">
+						"Captain Cook" by <span>W.H.G. Kingston</span>					</div>
+										<div class="usage">
+						In many instances the tobacco of temperate latitudes yields a more salable leaf when grown under cover.
+					</div>
+					<div class="uAuthor">
+						"Commercial Geography" by <span>Jacques W. Redway</span>					</div>
+										<div class="usage">
+						He had himself been to Spitzbergen, and as far north as the 80th parallel of latitude.
+					</div>
+					<div class="uAuthor">
+						"Stray Leaves from an Arctic Journal;" by <span>Sherard Osborn</span>					</div>
+										<div class="usage">
+						It is in about the same latitude as South Carolina.
+					</div>
+					<div class="uAuthor">
+						"Asiatic Breezes" by <span>Oliver Optic</span>					</div>
+										<div class="usage">
+						They were above the latitude of 50 deg.
+					</div>
+					<div class="uAuthor">
+						"Popular Adventure Tales" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						From our noon observation we were in latitude 55 deg.
+					</div>
+					<div class="uAuthor">
+						"A New Voyage Round the World, in the years 1823, 24, 25, and 26, Vol. 2" by <span>Otto von Kotzebue</span>					</div>
+										<div class="usage">
+						It is placed in the latitude of 23 deg.
+					</div>
+					<div class="uAuthor">
+						"The Pirates of Panama" by <span>A. O. (Alexandre Olivier) Exquemelin</span>					</div>
+										<div class="usage">
+						The southern extremity of the country is in latitude 31 deg.
+					</div>
+					<div class="uAuthor">
+						"The Empire of the East" by <span>H. B. Montgomery</span>					</div>
+										<div class="usage">
+						Sometimes, at informal summer resorts, there is a little latitude allowed here.
+					</div>
+					<div class="uAuthor">
+						"Social Life" by <span>Maud C. Cooke</span>					</div>
+										<div class="usage">
+						Lenkoran, in the same latitude as Palermo and Smyrna, with an annual temperature of 61 deg.
+					</div>
+					<div class="uAuthor">
+						"The International Monthly, Volume 3, No. 2, May, 1851" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Q. Mayn't some from hence take latitude<br>
+And room their lusts to please?<br>
+If Christ do all, then very good,<br>
+Let us take carnal ease.
+							<div class="poet">"The Believer's Principles : Chap. I." by <span>Ralph Erskine</span></div>
+						</div>
+											<div class="poemQuote">
+							My outer world and inner make a pair.<br>
+But would the two be always of a kind?<br>
+Another latitude, another mind?<br>
+Or would I be New England anywhere?
+							<div class="poet">"New England Mind" by <span>Robert Francis</span></div>
+						</div>
+											<div class="poemQuote">
+							Each degree of Latitude<br>
+Strung about Creation<br>
+Seeth one or more of us<br>
+(Of one muster each of us),<br>
+Diligent in that he does,<br>
+Keen in his vocation.
+							<div class="poet">"A School Song" by <span>Rudyard Kipling</span></div>
+						</div>
+											<div class="poemQuote">
+							These Pillars of our history,<br>
+In fame forever young,<br>
+Are known in every latitude<br>
+And named in every tongue,<br>
+And down through all the Ages<br>
+Their story shall be sung.
+							<div class="poet">"The Lee Memorial Ode" by <span>James Barron Hope</span></div>
+						</div>
+											<div class="poemQuote">
+							Is put to fair devising in the curb<br>
+Of ordered limit; and all-changeful Hermes<br>
+Is Terminus as well. Yet we perturb<br>
+Our souls for latitude, whose strength in bound and term is.
+							<div class="poet">"The Cloud's Swan-Song" by <span>Francis Thompson</span></div>
+						</div>
+											<div class="poemQuote">
+							An' if I took an' died out there, my soul'd never stay<br>
+In them sunny Southern latitudes to wait the Judgment Day,<br>
+All across the seas from England I should hear the ol' life call,<br>
+An' the bloomin' Western Ocean it'd get me after all.
+							<div class="poet">"The Packet Rat" by <span>Cicely Fox Smith</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						As a farce, this play adds nothing new except perhaps greater latitude in naughty talk.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.northcoastjournal.com/arts/2012/09/27/fore-play-anyone/2/" target="_blank" rel="external nofollow">northcoastjournal.com</a>
+					</div>
+										<div class="usage">
+						PPG Aerospace Awarded Citation Latitude Cockpit Window Contract by Cessna.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.airportbusiness.com/press_release/10740726/ppg-aerospace-awarded-citation-latitude-cockpit-window-contract-by-cessna" target="_blank" rel="external nofollow">airportbusiness.com</a>
+					</div>
+										<div class="usage">
+						Change in latitude , change in attitude for Pavlik.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vindy.com/news/2012/jul/01/change-in-latitude-change-in-attitude-fo/" target="_blank" rel="external nofollow">vindy.com</a>
+					</div>
+										<div class="usage">
+						Romney wishes Supreme Court gave 'more latitude ' on immigration.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.standard.net/stories/2012/06/26/romney-wishes-supreme-court-gave-more-latitude-immigration/" target="_blank" rel="external nofollow">standard.net</a>
+					</div>
+										<div class="usage">
+						Mitt Romney would have preferred court "give more latitude to the states".
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.al.com/wire/2012/06/supreme_court_limits_state_act.html" target="_blank" rel="external nofollow">blog.al.com</a>
+					</div>
+										<div class="usage">
+						Prefer if Supreme Court gave states "more latitude ".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-503544_162-57460148-503544/romney-prefer-if-supreme-court-gave-states-more-latitude/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Supreme Court should 'give more latitude to the states.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/the-fix/post/romney-camp-dodges-questions-about-immigration-decision/2012/06/25/gJQABNKW2V_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						"We're really proud of the Latitude 's durability.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eweek.com/c/a/Desktops-and-Notebooks/Dell-Latitude-OptiPlex-Lines-Get-Intel-Ivy-Bridge-Makeover-215473/" target="_blank" rel="external nofollow">eweek.com</a>
+					</div>
+										<div class="usage">
+						Northrop Grumman (Stand 2321) announced here at EBACE that Cessna has chosen its navigation systems for the Citation Latitude business jet.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ainonline.com/aviation-news/ebace-convention-news/2012-05-16/northrop-grumman-ahrs-board-cessna-latitude" target="_blank" rel="external nofollow">ainonline.com</a>
+					</div>
+										<div class="usage">
+						Florida law allows wide latitude for self defense shootings.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ktuu.com/news/nationworld/pnr-news-briefs-florida-law-allows-wide-latitude-for-self-defense-shootings-20120322,0,3919787.story" target="_blank" rel="external nofollow">ktuu.com</a>
+					</div>
+										<div class="usage">
+						Browse comprehensive car pricing info, current rebates &amp; incentives, safety ratings, car photos, specs &amp; more on the all new 2012 Jeep Patriot Latitude Sport Utility.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.motortrend.com/cars/2012/jeep/patriot/latitude_sport_utility/3454/" target="_blank" rel="external nofollow">motortrend.com</a>
+					</div>
+										<div class="usage">
+						2012 Jeep Compass Latitude SUV.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.automobilemag.com/am/99/2012/jeep/compass/latitude_sport_utility/3454/" target="_blank" rel="external nofollow">automobilemag.com</a>
+					</div>
+										<div class="usage">
+						Behold one of the most beautiful satellite views of a mid- latitude cyclone you will ever see, courtesy NASA (taken Monday).
+					</div>
+					<div class="uAuthor">
+						<a href="http://washingtonpost.com/blogs/capital-weather-gang/post/an-immaculate-mid-latitude-cyclone-and-its-decay/2011/09/27/gIQAEaTt1K_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						On May 27, 2011, the premiere Jimmy Buffett tribute group (Changes In Latitude ) performed at the Colonial Theatre in downtown Pittsfield WSBS was a part of this exciting event.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wsbs.com/pages/10047752.php?imageGalleryXRefId=2343768" target="_blank" rel="external nofollow">wsbs.com</a>
+					</div>
+										<div class="usage">
+						What's the difference between Dell's Latitude E6320 and Latitude E6520 models.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.crn.com/reviews/mobility/229500618/notebook-face-off-dell-latitude-e6520-vs-dell-latitude-e6320.htm" target="_blank" rel="external nofollow">crn.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						We show a small section of the two layers at latitude θ (θ is the angle from the pole) in the (r, θ) plane. 
+					</div>
+					<div class="uAuthor">
+						Rotational Evolution During Type I X-Ray Bursts
+					</div>
+										<div class="usage">
+						This expression for Ω is such that there is a strong radial shear concentrated in the tachocline below the SCZ, with a positive vertical gradient in the differential rotation - which corresponds to the helioseismologically determined proﬁle at mid to low latitudes. 
+					</div>
+					<div class="uAuthor">
+						Characteristics Of A Magnetic Buoyancy Driven Solar Dynamo Model
+					</div>
+										<div class="usage">
+						In our Model 1 however, magnetic buoyancy is also involved in the ﬂux transport process - over a much wider extent in latitude and also at a much faster rate. 
+					</div>
+					<div class="uAuthor">
+						Characteristics Of A Magnetic Buoyancy Driven Solar Dynamo Model
+					</div>
+										<div class="usage">
+						We shall see in Section 3.2 that indeed with decreasing η , stronger ﬁelds are found at lower latitudes within the overshoot layer. 
+					</div>
+					<div class="uAuthor">
+						Characteristics Of A Magnetic Buoyancy Driven Solar Dynamo Model
+					</div>
+										<div class="usage">
+						Top Panel: Variation of the maximum toroidal ﬁeld Bmax (solid line) and the low-latitude toroidal ﬁeld Beq (dashed line) within the overshoot layer with the quenching ﬁeld B0 , Bc is ﬁxed at 105 G. 
+					</div>
+					<div class="uAuthor">
+						Characteristics Of A Magnetic Buoyancy Driven Solar Dynamo Model
+					</div>
+										<div class="usage">
+						Variation of the low-latitude toroidal ﬁeld Beq within the overshoot layer, with the diffusivity η . 
+					</div>
+					<div class="uAuthor">
+						Characteristics Of A Magnetic Buoyancy Driven Solar Dynamo Model
+					</div>
+										<div class="usage">
+						In Figure 7 we plot the variation of the toroidal ﬁeld within the overshoot layer near the equator (at 100 latitude) with respect to the diffusivity η . 
+					</div>
+					<div class="uAuthor">
+						Characteristics Of A Magnetic Buoyancy Driven Solar Dynamo Model
+					</div>
+										<div class="usage">
+						There it can be seen that for a time t ≈ 5 tA after the start of the calculation, the distance r sin θ of the ring from the stellar rotation axis decreases as the ring moves toward higher latitudes along the periphery of the convective core. 
+					</div>
+					<div class="uAuthor">
+						Magnetic Fields in Massive Stars. II. The Buoyant Rise of Magnetic Flux Tubes Through the Radiative Interior
+					</div>
+										<div class="usage">
+						The lack of equilibria for ﬂux rings that originate at latitudes λ0 &gt; 0◦ can be understood by examining the r- and θ-components of the equation of motion (5). 
+					</div>
+					<div class="uAuthor">
+						Magnetic Fields in Massive Stars. II. The Buoyant Rise of Magnetic Flux Tubes Through the Radiative Interior
+					</div>
+										<div class="usage">
+						This state is stable against inﬁnitesimal displacements of the ring in the radial direction, but unstable when the perturbations are meridionally directed, causing the ring position to shift from latitude 0◦ . 
+					</div>
+					<div class="uAuthor">
+						Magnetic Fields in Massive Stars. II. The Buoyant Rise of Magnetic Flux Tubes Through the Radiative Interior
+					</div>
+										<div class="usage">
+						Panel (A) shows the normalized radial coordinate (r/R∗) (solid line) and latitude (λ/90◦) (dotted line) of the ring. 
+					</div>
+					<div class="uAuthor">
+						Magnetic Fields in Massive Stars. II. The Buoyant Rise of Magnetic Flux Tubes Through the Radiative Interior
+					</div>
+										<div class="usage">
+						The most striking property is a column of slow rotation deep in the convective core leading to a signiﬁcant angular velocity gradient both in radius and latitude. 
+					</div>
+					<div class="uAuthor">
+						Looking Deep Within an A-type Star: Core Convection Under the Influence of Rotation
+					</div>
+										<div class="usage">
+						Turning to the contour plot of Figure 4, we note that the radial enthalpy ﬂux is non uniform, centered in the middle part of the convective core with extrema near the mid latitudes. 
+					</div>
+					<div class="uAuthor">
+						Looking Deep Within an A-type Star: Core Convection Under the Influence of Rotation
+					</div>
+										<div class="usage">
+						This case exhibits a nonuniform radial enthalpy ﬂux that peaks at mid latitudes. 
+					</div>
+					<div class="uAuthor">
+						Looking Deep Within an A-type Star: Core Convection Under the Influence of Rotation
+					</div>
+										<div class="usage">
+						We ﬁrst note that the overshooting varies with latitude. 
+					</div>
+					<div class="uAuthor">
+						Looking Deep Within an A-type Star: Core Convection Under the Influence of Rotation
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="an imaginary line around the Earth parallel to the equator"><a href="line%20of%20latitude.html">line of latitude</a>, <a href="parallel%20of%20latitude.html">parallel of latitude</a>, <a href="parallel.html">parallel</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ambit.html">ambit</a>, <a href="angular%20distance.html">angular distance</a>, <a href="compass.html">compass</a>, <a href="liberty.html">liberty</a>, <a href="line.html">line</a>, <a href="orbit.html">orbit</a>, <a href="range.html">range</a>, <a href="reach.html">reach</a>, <a href="scope.html">scope</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="horse%20latitude.html">horse latitude</a>, <a href="polar%20circle.html">polar circle</a>, <a href="tropic.html">tropic</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="latitudinal.html">latitudinal</a>, <a href="latitudinarian.html">latitudinarian</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="A%20grain%20of%20allowance.html">A grain of allowance</a>, <a href="aba.html">aba</a>, <a href="Acrita.html">Acrita</a>, <a href="air%20mile.html">air mile</a>, <a href="Almacantar.html">Almacantar</a>, <a href="Almucantar.html">Almucantar</a>, <a href="Amphigean.html">Amphigean</a>, <a href="animal.html">animal</a>, <a href="Annulosa.html">Annulosa</a>, <a href="Anser.html">Anser</a>, <a href="Antarctic%20Circle.html">Antarctic Circle</a>, <a href="Antecians.html">Antecians</a>, <a href="Anti-trade.html">Anti-trade</a>, <a href="Antilope.html">Antilope</a>, <a href="Ant%C5%93ci.html">Antœci</a>, <a href="Ant%C5%93cians.html">Antœcians</a>, <a href="Arctic%20Circle.html">Arctic Circle</a>, <a href="Ascending%20latitude.html">Ascending latitude</a>, <a href="astronomical.html">astronomical</a>, <a href="Athene.html">Athene</a>, <a href="Atmo.html">Atmo</a>, <a href="barley.html">barley</a>, <a href="birch.html">birch</a>, <a href="Bottle-chart.html">Bottle-chart</a>, <a href="Canis.html">Canis</a>, <a href="Chorology.html">Chorology</a>, <a href="circle.html">circle</a>, <a href="Circle%20of%20perpetual%20apparition.html">Circle of perpetual apparition</a>, <a href="climatic%20zone.html">climatic zone</a>, <a href="Coccothraustes.html">Coccothraustes</a>, <a href="Colatitude.html">Colatitude</a>, <a href="control.html">control</a>, <a href="Cosmometry.html">Cosmometry</a>, <a href="Cyanocitta.html">Cyanocitta</a>, <a href="declination.html">declination</a>, <a href="deep-sea.html">deep-sea</a>, <a href="Degree%20of%20latitude.html">Degree of latitude</a>, <a href="Degree%20of%20longitude.html">Degree of longitude</a>, <a href="Dendrocolaptes.html">Dendrocolaptes</a>, <a href="deviation.html">deviation</a>, <a href="disaster.html">disaster</a>, <a href="doldrums.html">doldrums</a>, <a href="dyne.html">dyne</a>, <a href="east-west%20direction.html">east-west direction</a>, <a href="equator.html">equator</a>, <a href="Exoskeletal.html">Exoskeletal</a>, <a href="fieldwork.html">fieldwork</a>, <a href="foot-ton.html">foot-ton</a>, <a href="fudge.html">fudge</a>, <a href="Gallinaceae.html">Gallinaceae</a>, <a href="geocentric.html">geocentric</a>, <a href="Geocentric%20latitude.html">Geocentric latitude</a>, <a href="Geocentrical.html">Geocentrical</a>, <a href="Geographic%20latitude.html">Geographic latitude</a>, <a href="Geographical%20co%C3%B6rdinates.html">Geographical coördinates</a>, <a href="geographical%20zone.html">geographical zone</a>, <a href="Global%20Positioning%20System.html">Global Positioning System</a>, <a href="GPS.html">GPS</a>, <a href="gulfweed.html">gulfweed</a>, <a href="height.html">height</a>, <a href="heliocentric.html">heliocentric</a>, <a href="Heliocentric%20place.html">Heliocentric place</a>, <a href="high.html">high</a>, <a href="High%20latitude.html">High latitude</a>, <a href="Insessores.html">Insessores</a>, <a href="international%20nautical%20mile.html">international nautical mile</a>, <a href="intersection.html">intersection</a>, <a href="knot.html">knot</a>, <a href="L.html">L</a>, <a href="Labyrinthodon.html">Labyrinthodon</a>, <a href="lagoon.html">lagoon</a>, <a href="largeness.html">largeness</a>, <a href="lat.html">lat</a>, <a href="Latitude%20by%20account.html">Latitude by account</a>, <a href="Latitude%20by%20observation.html">Latitude by observation</a>, <a href="latitudinal.html">latitudinal</a>, <a href="latitudinarian.html">latitudinarian</a>, <a href="Latitudinous.html">Latitudinous</a>, <a href="level.html">level</a>, <a href="libration.html">libration</a>, <a href="Libration%20of%20the%20moon.html">Libration of the moon</a>, <a href="Limiting%20parallels.html">Limiting parallels</a>, <a href="line.html">line</a>, <a href="longitude.html">longitude</a>, <a href="map.html">map</a>, <a href="map%20projection.html">map projection</a>, <a href="margin.html">margin</a>, <a href="Medusa.html">Medusa</a>, <a href="menhaden.html">menhaden</a>, <a href="Mercator%27s%20projection.html">Mercator's projection</a>, <a href="Meridional%20parts.html">Meridional parts</a>, <a href="MI.html">MI</a>, <a href="Middle%20latitude.html">Middle latitude</a>, <a href="migrate.html">migrate</a>, <a href="migration.html">migration</a>, <a href="mile.html">mile</a>, <a href="mischief.html">mischief</a>, <a href="Motacilla.html">Motacilla</a>, <a href="Mus.html">Mus</a>, <a href="N.html">N</a>, <a href="naut%20mi.html">naut mi</a>, <a href="nautical%20mile.html">nautical mile</a>, <a href="Nearctic.html">Nearctic</a>, <a href="Nereis.html">Nereis</a>, <a href="Northing.html">Northing</a>, <a href="Oblique%20sailing.html">Oblique sailing</a>, <a href="observation.html">observation</a>, <a href="Ophiura.html">Ophiura</a>, <a href="or%20Mathematical.html">or Mathematical</a>, <a href="parallel.html">parallel</a>, <a href="Parallel%20sailing.html">Parallel sailing</a>, <a href="paraphrase.html">paraphrase</a>, <a href="Peri%C5%93ci.html">Periœci</a>, <a href="Peri%C5%93cians.html">Periœcians</a>, <a href="place.html">place</a>, <a href="Plane%20chart.html">Plane chart</a>, <a href="Planisphere.html">Planisphere</a>, <a href="polar%20circle.html">polar circle</a>, <a href="projection.html">projection</a>, <a href="rascal.html">rascal</a>, <a href="rascally.html">rascally</a>, <a href="rationalism.html">rationalism</a>, <a href="Refraction%20of%20latitude.html">Refraction of latitude</a>, <a href="right%20ascension.html">right ascension</a>, <a href="Right%20sailing.html">Right sailing</a>, <a href="rigor.html">rigor</a>, <a href="Roaring%20forties.html">Roaring forties</a>, <a href="room.html">room</a>, <a href="Rotalia.html">Rotalia</a>, <a href="sailing.html">sailing</a>, <a href="Salamandra.html">Salamandra</a>, <a href="Samoan.html">Samoan</a>, <a href="sargasso.html">sargasso</a>, <a href="Scincus.html">Scincus</a>, <a href="sextant.html">sextant</a>, <a href="side.html">side</a>, <a href="sigh.html">sigh</a>, <a href="slat.html">slat</a>, <a href="Southing.html">Southing</a>, <a href="spectacle.html">spectacle</a>, <a href="Spherograph.html">Spherograph</a>, <a href="Sturnus.html">Sturnus</a>, <a href="Subpolar.html">Subpolar</a>, <a href="Sun.html">Sun</a>, <a href="swing.html">swing</a>, <a href="Symphoricarpos.html">Symphoricarpos</a>, <a href="Take%20the%20sun.html">Take the sun</a>, <a href="Tanagra.html">Tanagra</a>, <a href="temperature.html">temperature</a>, <a href="Termes.html">Termes</a>, <a href="Thalictrum.html">Thalictrum</a>, <a href="Traverse%20table.html">Traverse table</a>, <a href="tropic.html">tropic</a>, <a href="Tropic%20of%20Cancer.html">Tropic of Cancer</a>, <a href="Tropic%20of%20Capricorn.html">Tropic of Capricorn</a>, <a href="troposphere.html">troposphere</a>, <a href="Unio.html">Unio</a>, <a href="unit.html">unit</a>, <a href="Urubu.html">Urubu</a>, <a href="Vesicaria.html">Vesicaria</a>, <a href="Vitis.html">Vitis</a>, <a href="weight.html">weight</a>, <a href="yak.html">yak</a>, <a href="Zenith%20telescope.html">Zenith telescope</a>, <a href="zodiac.html">zodiac</a>, <a href="zone.html">zone</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					katitude, oatitude, patitude, lqtitude, lwtitude, lstitude, lztitude, laritude, lafitude, lagitude, layitude, latutude, latjtude, latktude, latotude, latirude, latifude, latigude, latiyude, latityde, latithde, latitjde, latitide, latituse, latituee, latitufe, latituce, latituxe, latituse, latitudw, latituds, latitudd, latitudr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

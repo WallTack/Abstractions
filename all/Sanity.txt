@@ -1,0 +1,506 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>sanity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">sanity</span> <span class="exp">normal or sound powers of mind</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Have you ever questioned your sanity? You have good reason to. Did you know that one out of every four people has some sort of pychological 'problem'?									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Sanity</span> <span class="exp">The condition or quality of being sane; soundness of health of body or mind, especially of the mind; saneness.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">sanity</span> <span class="exp">The state or character of being sane; soundness of mind; saneness. See insanity.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Sanity</span> <span class="exp"><span class="itl">san′i-ti</span> state of being sane: soundness of mind or body.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Edgar Allan Poe</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Edgar%20Allan%20Poe.jpg" alt="Edgar%20Allan%20Poe">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I became insane, with long intervals of horrible sanity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Allen White</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William Allen White">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is no insanity so devastating in man's life as utter sanity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Revenue is vanity... margin is sanity... cash is king.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Santayana</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Santayana.jpg" alt="George%20Santayana">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Sanity is a madness put to good uses; waking life is a dream controlled.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">sanitas</span>, from <span class="wUets">sanus</span>, sound, healthy. See <span class="wUer">Sane</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>sanitas</i>—<i>sanus</i>, sane.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						He ordered George on guard, and descended with Colin in search of the concrete proof of our sanity.
+					</div>
+					<div class="uAuthor">
+						"Punch, or the London Charivari, Vol. 156, Jan. 29, 1919" by <span>Various</span>					</div>
+										<div class="usage">
+						Im strong for this sanity stuff under any conditions.
+					</div>
+					<div class="uAuthor">
+						"Dere Mable" by <span>Edward Streeter</span>					</div>
+										<div class="usage">
+						He was attired with perfect sanity.
+					</div>
+					<div class="uAuthor">
+						"The Divine Fire" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						If this was madness, sanity appeared only a doubtful blessing set beside it.
+					</div>
+					<div class="uAuthor">
+						"The Pointing Man" by <span>Marjorie Douie</span>					</div>
+										<div class="usage">
+						There should be no abuse, no bitterness, only a deep passion of sanity.
+					</div>
+					<div class="uAuthor">
+						"Mr. Britling Sees It Through" by <span>H. G. Wells</span>					</div>
+										<div class="usage">
+						My fault has been to assume his return to sanity.
+					</div>
+					<div class="uAuthor">
+						"The Red Redmaynes" by <span>Eden Phillpotts</span>					</div>
+										<div class="usage">
+						I come, my friend, to make you listen to sanity.
+					</div>
+					<div class="uAuthor">
+						"Helmet of Navarre" by <span>Bertha Runkle</span>					</div>
+										<div class="usage">
+						He tried to think he was delivered from an extraordinary obsession and restored to health and sanity.
+					</div>
+					<div class="uAuthor">
+						"The Street Called Straight" by <span>Basil King</span>					</div>
+										<div class="usage">
+						For he had forever lost his faith in the sanity and steadiness of the great mind of humanity.
+					</div>
+					<div class="uAuthor">
+						"His Family" by <span>Ernest Poole</span>					</div>
+										<div class="usage">
+						A madness which is fit for dramatic treatment is not sufficiently removed from sanity.
+					</div>
+					<div class="uAuthor">
+						"A Handbook to the Works of Browning (6th ed.)" by <span>Mrs. Sutherland Orr</span>					</div>
+										<div class="usage">
+						Why in the name of sanity should I go on?
+					</div>
+					<div class="uAuthor">
+						"The Man in the Twilight" by <span>Ridgwell Cullum</span>					</div>
+										<div class="usage">
+						If this be the criterion of exemption, Mr. Bowles's last two pamphlets form a better certificate of sanity than a physician's.
+					</div>
+					<div class="uAuthor">
+						"Life of Lord Byron, Vol. 6 (of 6)" by <span>Thomas Moore</span>					</div>
+										<div class="usage">
+						Enthusiasm and sanity must be united to carry us safely forward.
+					</div>
+					<div class="uAuthor">
+						"Rebuilding Britain" by <span>Alfred Hopkinson</span>					</div>
+										<div class="usage">
+						But for the clear, steady gaze of his eye I should have doubted his sanity.
+					</div>
+					<div class="uAuthor">
+						"A Gentleman Vagabond and Some Others" by <span>F. Hopkinson Smith</span>					</div>
+										<div class="usage">
+						He went away, not completely satisfied as to this visitor's sanity, and Hugh drifted back into dreams and memories.
+					</div>
+					<div class="uAuthor">
+						"The Imaginary Marriage" by <span>Henry St. John Cooper</span>					</div>
+										<div class="usage">
+						I shall determine den more perfectly dis vexing subject of your sanity.
+					</div>
+					<div class="uAuthor">
+						"Sea and Shore" by <span>Mrs. Catharine A. Warfield</span>					</div>
+										<div class="usage">
+						That stew-pot held sanity for us both, and the thought made me laugh.
+					</div>
+					<div class="uAuthor">
+						"Famous Modern Ghost Stories" by <span>Various</span>					</div>
+										<div class="usage">
+						The cause of Benedict's lapse from sanity did not occur to him.
+					</div>
+					<div class="uAuthor">
+						"Sevenoaks" by <span>J. G. Holland</span>					</div>
+										<div class="usage">
+						There's sanity and will and grit to balance the rest.
+					</div>
+					<div class="uAuthor">
+						"Diane of the Green Van" by <span>Leona Dalrymple</span>					</div>
+										<div class="usage">
+						Horemheb was the preacher of Sanity, the apostle of the Normal, and Order was his watchword.
+					</div>
+					<div class="uAuthor">
+						"The Treasury of Ancient Egypt" by <span>Arthur E. P. B. Weigall</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							After the event — and he such a worldly navigator!<br>
+He broke with all his relations<br>
+And lived in his sad, solitary cottage:<br>
+(For a time, there was even fear, for his sanity...)
+							<div class="poet">"Japan —Nagasaki" by <span>Henry Jean-Marie Levet</span></div>
+						</div>
+											<div class="poemQuote">
+							O THOU, who bidst the vernal juices rise!<br>
+Thou, on whose blasts autumnal foliage flies!<br>
+Let Peace ne'er leave me, nor my heart grow cold,<br>
+Whilst life and sanity are mine to hold.
+							<div class="poet">"The Farmer's Boy  -  Autumn" by <span>Robert Bloomfield</span></div>
+						</div>
+											<div class="poemQuote">
+							And then I blinked and stood astare,<br>
+And questioned at my sight condition,<br>
+For I was seeing empty air -<br>
+He must have been an apparition.<br>
+Amazed I gazed . . . no one was there:<br>
+My sanity roused my suspicion.
+							<div class="poet">"My Suicide" by <span>Robert W Service</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Not sure how I feel about the sanity of the person who got close enough to film this tornado.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mix929.com/content/sanity" target="_blank" rel="external nofollow">mix929.com</a>
+					</div>
+										<div class="usage">
+						Stop the Quinn- sanity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://thephoenix.com/Boston/news/97957-stop-the-quinn-sanity/" target="_blank" rel="external nofollow">thephoenix.com</a>
+					</div>
+										<div class="usage">
+						Jon Stewart's Rally to Restore Sanity Set to Descend on Washington Tomorrow.
+					</div>
+					<div class="uAuthor">
+						<a href="http://observer.com/tag/restoring-sanity/" target="_blank" rel="external nofollow">observer.com</a>
+					</div>
+										<div class="usage">
+						Rally to Restore Sanity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/tags/topic/Rally+to+Restore+Sanity" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						Save Sanity -Don't Do Meth.
+					</div>
+					<div class="uAuthor">
+						<a href="http://k2radio.com/save-sanity-dont-do-meth-audio/" target="_blank" rel="external nofollow">k2radio.com</a>
+					</div>
+										<div class="usage">
+						The Nature of Sanity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.psychologytoday.com/articles/199601/the-nature-sanity" target="_blank" rel="external nofollow">psychologytoday.com</a>
+					</div>
+										<div class="usage">
+						Maybe give sanity a try.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.baltimoresun.com/news/language-blog/bal-maybe-give-sanity-a-try-20121124,0,1787930.story" target="_blank" rel="external nofollow">baltimoresun.com</a>
+					</div>
+										<div class="usage">
+						 Sanity Reigns in Jon Stewart's America.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/daily/intel/2010/10/sanity_reigns.html" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						New signs of sanity at EPA.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.boulderweekly.com/article-3-new-signs-of-sanity-at-epa.html" target="_blank" rel="external nofollow">boulderweekly.com</a>
+					</div>
+										<div class="usage">
+						 Sanity -Saving Secret Weapons.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.parents.com/pregnancy/week-by-week/33/sanity-saving-secret-weapons/" target="_blank" rel="external nofollow">parents.com</a>
+					</div>
+										<div class="usage">
+						Lin- sanity is sweeping the nation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://1057thehawk.com/tags/lin-sanity/" target="_blank" rel="external nofollow">1057thehawk.com</a>
+					</div>
+										<div class="usage">
+						The 'twilight' of our sanity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://minnesota.publicradio.org/collections/special/columns/news_cut/archive/2010/07/the_twilight_of_our_sanity.shtml" target="_blank" rel="external nofollow">minnesota.publicradio.org</a>
+					</div>
+										<div class="usage">
+						Lin- Sanity Shut Down in Miami.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eastidahonews.com/2012/02/lin-sanity-shut-down-in-miami/" target="_blank" rel="external nofollow">eastidahonews.com</a>
+					</div>
+										<div class="usage">
+						Serve us up sanity , not Tea.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2010/POLITICS/10/30/restore.sanity.rally.people/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<div class="usage">
+						Thousands fill the National Mall for the "Rally to Restore Sanity and/or Fear".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2010/POLITICS/10/30/restore.sanity.rally.people/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						As a ﬁnal sanity check, we have veriﬁed through additional simulations similar to those described in §4.3, that our modeling procedure is capable of reproducing any reasonable input scale height distribution. 
+					</div>
+					<div class="uAuthor">
+						The Parkes multibeam pulsar survey: VI. Discovery and timing of 142 pulsars and a Galactic population analysis
+					</div>
+										<div class="usage">
+						As a simple sanity check of our formal estimates of the errors in the monopole, we count the mass of particles within the same spheres Vi used to calculate δMi . 
+					</div>
+					<div class="uAuthor">
+						Multi-mass schemes for collisionless N-body simulations
+					</div>
+										<div class="usage">
+						However, these models are intended to test the model sanity rather than produce actual physical results on the two stars. 
+					</div>
+					<div class="uAuthor">
+						Visualization and spectral synthesis of rotationally distorted stars
+					</div>
+										<div class="usage">
+						The plate essentially provides a good sanity check on the data quality and believability of the quantitative results presented in Figures 1 and 2. 
+					</div>
+					<div class="uAuthor">
+						Hubble Deep Fever: A faint galaxy diagnosis
+					</div>
+										<div class="usage">
+						The stellar residuals themselves also provide a sanity check. 
+					</div>
+					<div class="uAuthor">
+						WFPC2 Stellar Photometry with HSTphot
+					</div>
+										<div class="usage">
+						This will provide a sanity check for ideas of Higgs production through pp → p (gap) H (gap) p at the LHC. 
+					</div>
+					<div class="uAuthor">
+						Summary and Highlights of the 14th Topical Conference on Hadron Collider Physics (HCP2002)
+					</div>
+										<div class="usage">
+						As a sanity check compare this to the Singleton Bound (see equation 2.1), n + 1 ≥ k + d. 
+					</div>
+					<div class="uAuthor">
+						Error Correcting Codes on Algebraic Surfaces
+					</div>
+										<div class="usage">
+						First, in both cases, the strong-ﬁeld results asymptotically approach the weak-ﬁeld formula for large p — an important sanity check. 
+					</div>
+					<div class="uAuthor">
+						Towards a formalism for mapping the spacetimes of massive compact objects: Bumpy black holes and their orbits
+					</div>
+										<div class="usage">
+						Daily reading of Dilbert is recommended for sanity. 
+					</div>
+					<div class="uAuthor">
+						ECSS in the eXtreme
+					</div>
+										<div class="usage">
+						Typically, an additional ‘sanity’ parameter c is used to limit the value of this quantity in case some values in the bucket are very small. 
+					</div>
+					<div class="uAuthor">
+						Histograms and Wavelets on Probabilistic Data
+					</div>
+										<div class="usage">
+						For sanity check, let us interpret the expression for p. 
+					</div>
+					<div class="uAuthor">
+						A Hypergraph Dictatorship Test with Perfect Completeness
+					</div>
+										<div class="usage">
+						In this way one can very easily check the sanity of an implementation by cross-checking the results obtained with different codes. 
+					</div>
+					<div class="uAuthor">
+						THE TOOLS AND MONTE CARLO WORKING GROUP Summary Report from the Les Houches 2009 Workshop on TeV Colliders
+					</div>
+										<div class="usage">
+						Basic theory sanity checks [Second credit] : A second credit is awarded for testing that the model satisﬁes the constraints imposed by quantum ﬁeld theory, e.g., checking the hermiticity and gauge invariance of the implemented Lagrangian. 
+					</div>
+					<div class="uAuthor">
+						THE TOOLS AND MONTE CARLO WORKING GROUP Summary Report from the Les Houches 2009 Workshop on TeV Colliders
+					</div>
+										<div class="usage">
+						An agreement of 5% should be considered the absolute sanity limit, beyond which it does not make any sense whatsoever to tune further. 
+					</div>
+					<div class="uAuthor">
+						QCD for Collider Physics
+					</div>
+										<div class="usage">
+						However, the sanity limit should be taken to be at least twice as large for quantities governed by non-perturbative physics. 
+					</div>
+					<div class="uAuthor">
+						QCD for Collider Physics
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="normal or sound powers of mind"><a href="saneness.html">saneness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="insanity.html">insanity</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="mental%20health.html">mental health</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="lucidity.html">lucidity</a>, <a href="rationality.html">rationality</a>, <a href="reason.html">reason</a>, <a href="reasonableness.html">reasonableness</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="sane.html">sane</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="come%20to.html">come to</a>, <a href="cure.html">cure</a>, <a href="delusion.html">delusion</a>, <a href="hallucination.html">hallucination</a>, <a href="insanity.html">insanity</a>, <a href="interval.html">interval</a>, <a href="levity.html">levity</a>, <a href="saneness.html">saneness</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					aanity, wanity, danity, xanity, zanity, aanity, sqnity, swnity, ssnity, sznity, sabity, sahity, sajity, samity, sanuty, sanjty, sankty, sanoty, saniry, sanify, sanigy, saniyy, sanitt, sanitg, sanith, sanitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,541 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>contradiction</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">contradiction</span> <span class="exp">the speech act of contradicting someone</span> <span class="quot">"he spoke as if he thought his claims were immune to contradiction"</span></li><li><span class="tSpeech">n</span> <span class="term">contradiction</span> <span class="exp">(logic) a statement that is necessarily false</span> <span class="quot">"the statement `he is brave and he is not brave' is a contradiction"</span></li><li><span class="tSpeech">n</span> <span class="term">contradiction</span> <span class="exp">opposition between two conflicting forces or ideas</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Contradiction</span> <span class="exp">An assertion of the contrary to what has been said or affirmed; denial of the truth of a statement or assertion; contrary declaration; gainsaying.</span> <span class="wuQuot">"His fair demands<br>
+Shall be accomplished without contradiction ."</span></li><li><span class="term">Contradiction</span> <span class="exp">Direct opposition or repugnancy; inconsistency; incongruity or contrariety; one who, or that which, is inconsistent.</span> <span class="wuQuot">"can he make deathless death? That were to make<br>
+Strange contradiction ."</span><span class="wuQuot">"We state our experience and then we come to a manly resolution of acting in contradiction to it."</span><span class="wuQuot">"Both parts of a contradiction can not possibly be true."</span><span class="wuQuot">"Of contradictions infinite the slave."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">contradiction</span> <span class="exp">An assertion of the direct opposite to what has been said or affirmed; denial; contrary declaration.</span> </li><li><span class="tSpeech">n</span> <span class="term">contradiction</span> <span class="exp">Opposition, whether by argument or conduct.</span> </li><li><span class="tSpeech">n</span> <span class="term">contradiction</span> <span class="exp">Direct, opposition or repugnancy; absolute inconsistency; specifically, the relation of two propositions which are so opposed that one must be false and one must be true.</span> </li><li><span class="tSpeech">n</span> <span class="term">contradiction</span> <span class="exp">Figuratively, a person who or a thing which is self-contradictory or inconsistent.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Contradiction</span> <span class="exp">act of contradicting: a speaking against: denial: inconsistency</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Georges Bataille</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Georges%20Bataille.jpg" alt="Georges%20Bataille">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I believe that truth has only one face: that of a violent contradiction.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oliver Wendell Holmes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oliver%20Wendell%20Holmes.jpg" alt="Oliver%20Wendell%20Holmes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“People who honestly mean to be true really contradict themselves much more rarely than those who try to be consistent.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Blaise Pascal</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Blaise%20Pascal.jpg" alt="Blaise%20Pascal">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Bernard Shaw</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Bernard%20Shaw.jpg" alt="George%20Bernard%20Shaw">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“How can what an Englishman believes be hearsay? It is a contradiction in terms.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Oscar Wilde</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Oscar%20Wilde.jpg" alt="Oscar%20Wilde">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The well-bred contradict other people. The wise contradict themselves.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">contradictio</span>, answer, objection: cf. F. <span class="wUets">contradiction</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>contradicĕre</i>, <i>-dictum</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						They were not to be moved by so slight a thing as a contradiction of Cobham in one place by Cobham in another.
+					</div>
+					<div class="uAuthor">
+						"Sir Walter Ralegh" by <span>William Stebbing</span>					</div>
+										<div class="usage">
+						If we take Huber as a guide, we find many points recently contradicted.
+					</div>
+					<div class="uAuthor">
+						"Mysteries of Bee-keeping Explained" by <span>M. Quinby</span>					</div>
+										<div class="usage">
+						In this novel, the result of revenge, truth asserts its rights, notwithstanding all the contradictions of which the book is full.
+					</div>
+					<div class="uAuthor">
+						"My Recollections of Lord Byron" by <span>Teresa Guiccioli</span>					</div>
+										<div class="usage">
+						It is curious to see how Hermes plays with polytheism, hinting ever so slyly the contradiction in the Greek Pantheon.
+					</div>
+					<div class="uAuthor">
+						"Homer's Odyssey" by <span>Denton J. Snider</span>					</div>
+										<div class="usage">
+						Not that the contradiction between the two men occurs every day; in commonplace matters all moral schools agree.
+					</div>
+					<div class="uAuthor">
+						"The Will to Believe" by <span>William James</span>					</div>
+										<div class="usage">
+						Thus the frailty and superficiality of our own judgments cannot brook contradiction.
+					</div>
+					<div class="uAuthor">
+						"The Sense of Beauty" by <span>George Santayana</span>					</div>
+										<div class="usage">
+						It is also true that the Homeric Zeus is full of contradictions.
+					</div>
+					<div class="uAuthor">
+						"Christianity and Greek Philosophy" by <span>Benjamin Franklin Cocker</span>					</div>
+										<div class="usage">
+						I had scarcely made this reflection, when, as if to contradict it, the form of a noble animal became outlined before my eyes.
+					</div>
+					<div class="uAuthor">
+						"The Wild Huntress" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						The enemies of the Restoration, in their haste to condemn it from the very first hour, have plunged into strange contradictions.
+					</div>
+					<div class="uAuthor">
+						"Memoirs To Illustrate The History Of My Time" by <span>François Pierre Guillaume Guizot</span>					</div>
+										<div class="usage">
+						When he resumed he spoke in brief decisive sentences as though forbidding question or contradiction until he had finished.
+					</div>
+					<div class="uAuthor">
+						"Aladdin of London" by <span>Sir Max Pemberton</span>					</div>
+										<div class="usage">
+						Phillis always answered for Nan, and was never contradicted.
+					</div>
+					<div class="uAuthor">
+						"Not Like Other Girls" by <span>Rosa N. Carey</span>					</div>
+										<div class="usage">
+						Then he took the hierarchic side resolutely; in contradiction to the Constitutions, he appealed to the Pope.
+					</div>
+					<div class="uAuthor">
+						"A History of England Principally in the Seventeenth Century, Volume I (of 6)" by <span>Leopold von Ranke</span>					</div>
+										<div class="usage">
+						Only mind you don't contradict me if we should meet any inquisitive person.
+					</div>
+					<div class="uAuthor">
+						"The Marriage of Elinor" by <span>Margaret Oliphant</span>					</div>
+										<div class="usage">
+						One Chinese only has chosen to contradict him, and he met with universal execration.
+					</div>
+					<div class="uAuthor">
+						"A Philosophical Dictionary, Volume 3 (of 10)" by <span>François-Marie Arouet (AKA Voltaire)</span>					</div>
+										<div class="usage">
+						Above all, the actual perpetration should be demonstrated beyond contradiction.
+					</div>
+					<div class="uAuthor">
+						"A Philosophical Dictionary, Volume 4 (of 10)" by <span>François-Marie Arouet (AKA Voltaire)</span>					</div>
+										<div class="usage">
+						This contradiction lies here: they wish God, and they wish humanity.
+					</div>
+					<div class="uAuthor">
+						"God and the State" by <span>Mikhail Aleksandrovich Bakunin</span>					</div>
+										<div class="usage">
+						Sometimes it is an intimation of boundlessness, contradicting or abolishing the fixed limits of our habitual view.
+					</div>
+					<div class="uAuthor">
+						"Oxford Lectures on Poetry" by <span>Andrew Cecil Bradley</span>					</div>
+										<div class="usage">
+						You cannot contradict yourselves so far as to decry me here as an ultramontanist and there as a liberal.
+					</div>
+					<div class="uAuthor">
+						"A Twofold Life" by <span>Wilhelmine von Hillern</span>					</div>
+										<div class="usage">
+						It may be asked whether it is possible for man to really lie to himself, and if it is not rather a contradiction in terms.
+					</div>
+					<div class="uAuthor">
+						"Elements of Morals" by <span>Paul Janet</span>					</div>
+										<div class="usage">
+						Here there was an insoluble contradiction.
+					</div>
+					<div class="uAuthor">
+						"Our Knowledge of the External World as a Field for Scientific Method in Philosophy" by <span>Bertrand Russell</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							STILL, though the one I sing,<br>
+(One, yet of contradictions made,) I dedicate to Nationality,<br>
+I leave in him Revolt, (O latent right of insurrection! O quenchless,<br>
+indispensable fire!)
+							<div class="poet">"Still, Though The One I Sing" by <span>Walt Whitman</span></div>
+						</div>
+											<div class="poemQuote">
+							We who know not the charms of a glass below Zero,<br>
+Come list to the lay of an Alpine Club hero;<br>
+For no mortal below, contradict it who can,<br>
+Lives a life half so blest as the Alpine Club man.
+							<div class="poet">"The Alpine Club Man" by <span>E W Bowling</span></div>
+						</div>
+											<div class="poemQuote">
+							And each contradicted the next witness flat,<br>
+Concerning back parlours, side-doors, and all that;<br>
+‘Twas very conflicting, as all must agree—<br>
+‘Ye’d better take care!’ said O’Hara, J.P. 
+							<div class="poet">"O'Hara, J.P." by <span>Henry Lawson</span></div>
+						</div>
+											<div class="poemQuote">
+							But as to risings, I can tell you why.<br>
+It is on contradiction that they grow.<br>
+It seemed the best thing to be up and go.<br>
+Up was the heartening and strong reply.<br>
+The heart of standing is we cannot fly.
+							<div class="poet">"Aubade" by <span>William Empson</span></div>
+						</div>
+											<div class="poemQuote">
+							For he is the man for the working man,<br>
+And without fear of contradiction, deny it who can;<br>
+Because he wishes the working man to have a good coat,<br>
+And, both in town and country, to have power to vote. 
+							<div class="poet">"The Great Franchise Demonstration" by <span>William Topaz McGonagall</span></div>
+						</div>
+											<div class="poemQuote">
+							We raise our arguments like sitting ducks<br>
+to knock them down with logic or with luck<br>
+and contradict ourselves for fun;<br>
+the waitress holds our coats and we put on<br>
+the raw wind like a scarf; love is a faun<br>
+who insists his playmates run. 
+							<div class="poet">"Love Is A Parallax" by <span>Sylvia Plath</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Popular views of the American Revolution usually overlook one aspect of it that sharply contradicts the idealized image of a struggle for liberty against oppression.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/articles/archives/2006/aug/10/redcoat-liberation/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<div class="usage">
+						Memos contradict Holder on "Fast and Furious".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-31727_162-20116164-10391695.html" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						This month's contest watch is a study in contradictions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.travelandleisure.com/travel-blog/carry-on/2011/10/19/contest-watch-paris-mexico-raykjavik-more" target="_blank" rel="external nofollow">travelandleisure.com</a>
+					</div>
+										<div class="usage">
+						China's Tight-Rope Walk: Balancing the Contradictions in Chinese Growth.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/international/archive/2012/05/chinas-tight-rope-walk-balancing-the-contradictions-in-chinese-growth/257136/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						Some things are just contradictions in terms.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nola.com/movies/index.ssf/2009/08/bandslam_hits_right_notes_and.html" target="_blank" rel="external nofollow">nola.com</a>
+					</div>
+										<div class="usage">
+						In his latest Against the Grain commentary, CBSNews.com's Dick Meyer chatters about the contradictions of the chattering class.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/stories/2003/09/24/opinion/meyer/main574998.shtml" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						Schoolboy Q, 'Habits and Contradictions'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rollingstone.com/music/lists/mid-year-report-the-best-albums-of-2012-so-far-20120709/schoolboy-q-habits-and-contradictions-19691231" target="_blank" rel="external nofollow">rollingstone.com</a>
+					</div>
+										<div class="usage">
+						"Habits and Contradictions" by Schoolboy Q.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wers.org/2012/03/23/habits-and-contradictions-by-schoolboy-q/" target="_blank" rel="external nofollow">wers.org</a>
+					</div>
+										<div class="usage">
+						Schoolboy Q Habits &amp; Contradictions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://thephoenix.com/Boston/music/133304-schoolboy-q-habits-and-contradictions/" target="_blank" rel="external nofollow">thephoenix.com</a>
+					</div>
+										<div class="usage">
+						 Schoolboy Q, 'Habits and Contradictions'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.rollingstone.com/music/lists/mid-year-report-the-best-albums-of-2012-so-far-20120709/schoolboy-q-habits-and-contradictions-19691231" target="_blank" rel="external nofollow">rollingstone.com</a>
+					</div>
+										<div class="usage">
+						 Schoolboy Q Habits &amp; Contradictions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://thephoenix.com/Boston/music/133304-schoolboy-q-habits-and-contradictions/" target="_blank" rel="external nofollow">thephoenix.com</a>
+					</div>
+										<div class="usage">
+						"I don't think there is a great fiction that is not an essential contradiction of the world as it is," he said during a recent visit to New York.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2002/03/28/books/lacing-his-fiction-with-history-vargas-llosa-keeps-latin-american-literary-boom.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						When reviewing a place like Song Long Restaurant, we must dedicate at least one sentence to explaining how its existence contradicts its surroundings.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ocweekly.com/2011-05-19/food/song-long-restaurant-little-saigon-westminster/" target="_blank" rel="external nofollow">ocweekly.com</a>
+					</div>
+										<div class="usage">
+						A friend of mine, a novelist, told me he wants to create a character like Humpty Dumpty, with so many sides and contradictions you can't glue him back together.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sdreader.com/news/2012/nov/20/theater-old-globe-measure/" target="_blank" rel="external nofollow">sdreader.com</a>
+					</div>
+										<div class="usage">
+						FBI director appears to contradict Gonzales' testimony .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cnn.com/2007/POLITICS/07/26/gonzales.testimony/index.html" target="_blank" rel="external nofollow">cnn.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						So we may assume that there is a set {a′ i : i &lt; λ} ⊂ Mj \ I which is coinitial in M ∗ \ I . (We shall derive a contradiction from this. ) Let bE2 ∈ B with b /∈ Mj . 
+					</div>
+					<div class="uAuthor">
+						Definability of initial segments
+					</div>
+										<div class="usage">
+						Toward a contradiction, we assume that there is an undeﬁnable (in the sense of N ) subset I ⊂ N with (N , I ) |= ψ ∗(P ) and I 6= {S n(0) : n ∈ ω}. 
+					</div>
+					<div class="uAuthor">
+						Definability of initial segments
+					</div>
+										<div class="usage">
+						This contradicts the last clause in the deﬁnition of ψ ∗ . 
+					</div>
+					<div class="uAuthor">
+						Definability of initial segments
+					</div>
+										<div class="usage">
+						Again this contradicts the last clause in the deﬁnition of ψ ∗ . 
+					</div>
+					<div class="uAuthor">
+						Definability of initial segments
+					</div>
+										<div class="usage">
+						If there are two such elements, they are distinguished by elements of lower levels, contradicting the minimality.) We claim that {(bi )E2 : i &lt; ℵ1} determines a branch B = {cE2 : cE2 ≤tr (bi )E2 for some i}. 
+					</div>
+					<div class="uAuthor">
+						Definability of initial segments
+					</div>
+										<div class="usage">
+						This contradicts our assumption that I is undeﬁnable in N . 
+					</div>
+					<div class="uAuthor">
+						Definability of initial segments
+					</div>
+										<div class="usage">
+						If some values are not given (e.g. coordinates of a static ob ject or initial directions of dynamic ob jects) or some values imply a contradiction (a vehicle turning left on a straight road), this planner tries to ﬁnd (default) values and to solve the conﬂicts. 
+					</div>
+					<div class="uAuthor">
+						Generating a 3D Simulation of a Car Accident from a Written Description in Natural Language: the CarSim System
+					</div>
+										<div class="usage">
+						We will now assume that Ψ 6= 0 and show that this leads to a contradiction unless Ω(y ) has a speciﬁc form. 
+					</div>
+					<div class="uAuthor">
+						Null Geodesics in Five Dimensional Manifolds
+					</div>
+										<div class="usage">
+						That b(a) ∈ {s+ (a), −s− (a)} is a direct consequence of the deﬁnitions, i.e. assuming b(a) &gt; 0 and b(a) 6= s+ (a) it is easy to show that one may reﬁne from the right the valley deﬁning b(a), contradicting minimality. 
+					</div>
+					<div class="uAuthor">
+						Aging properties of Sinai's model of random walk in random environment
+					</div>
+										<div class="usage">
+						Then, if pN (x) has a non-Gaussian tail, which begins at |x| ≫ xc (N ) and if xc (N ) → ∞ at N → ∞, it does not contradict CLT. 
+					</div>
+					<div class="uAuthor">
+						Tails of probability density for sums of random independent variables
+					</div>
+										<div class="usage">
+						However, this means that for all y ∈ A θ( ˙x(~r), y ) fails, contradicting the property ψ of the set A. 
+					</div>
+					<div class="uAuthor">
+						Countable Support Iteration Revisited
+					</div>
+										<div class="usage">
+						But then tr(ti ) 6= 0 when evaluated at representations of the prepro jective algebra of the corresponding subtree, contradicting minimality of the counterexample. 
+					</div>
+					<div class="uAuthor">
+						Simple roots of deformed preprojective algebras
+					</div>
+										<div class="usage">
+						If G does not contain ˜Ei for 6 ≤ i ≤ 8 as subgraph, then ¯Q is a Dynkin quiver and one knows that in this case there are no nontrivial invariants, a contradiction. 
+					</div>
+					<div class="uAuthor">
+						Simple roots of deformed preprojective algebras
+					</div>
+										<div class="usage">
+						But then 0 = uεm (pm )vεm (pm ) = 1 + nεm (pm ) → 1 (m → ∞), a contradiction. 
+					</div>
+					<div class="uAuthor">
+						Generalized pseudo-Riemannian geometry
+					</div>
+										<div class="usage">
+						Therefore, if n is odd, then n = 1, and hence a = m ≥ 1, which is a contradiction. 
+					</div>
+					<div class="uAuthor">
+						Periods of Strebel Differentials and Algebraic Curves Defined over the Field of Algebraic Numbers
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="(logic) a statement that is necessarily false"><a href="contradiction%20in%20terms.html">contradiction in terms</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="falsehood.html">falsehood</a>, <a href="falsity.html">falsity</a>, <a href="negation.html">negation</a>, <a href="oppositeness.html">oppositeness</a>, <a href="opposition.html">opposition</a>, <a href="untruth.html">untruth</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="antinomy.html">antinomy</a>, <a href="dialectic.html">dialectic</a>, <a href="paradox.html">paradox</a>, <a href="self-contradiction.html">self-contradiction</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="contradict.html">contradict</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="absurd.html">absurd</a>, <a href="absurdity.html">absurdity</a>, <a href="Antilogy.html">Antilogy</a>, <a href="Antiloquy.html">Antiloquy</a>, <a href="antinomy.html">antinomy</a>, <a href="apodeictic.html">apodeictic</a>, <a href="Apodeictical.html">Apodeictical</a>, <a href="Apodeictically.html">Apodeictically</a>, <a href="apodictic.html">apodictic</a>, <a href="Apodictical.html">Apodictical</a>, <a href="Apodictically.html">Apodictically</a>, <a href="Aristotelianism.html">Aristotelianism</a>, <a href="assert.html">assert</a>, <a href="balk.html">balk</a>, <a href="belie.html">belie</a>, <a href="bitter%20principle.html">bitter principle</a>, <a href="blunder.html">blunder</a>, <a href="bull.html">bull</a>, <a href="bureaucracy.html">bureaucracy</a>, <a href="cantankerous.html">cantankerous</a>, <a href="clash.html">clash</a>, <a href="completeness.html">completeness</a>, <a href="conceivability.html">conceivability</a>, <a href="conclusive.html">conclusive</a>, <a href="Conclusive%20evidence.html">Conclusive evidence</a>, <a href="contradict.html">contradict</a>, <a href="Contradictive.html">Contradictive</a>, <a href="contrary.html">contrary</a>, <a href="credible.html">credible</a>, <a href="crossing.html">crossing</a>, <a href="Dementi.html">Dementi</a>, <a href="demonstrable.html">demonstrable</a>, <a href="denial.html">denial</a>, <a href="dialectic.html">dialectic</a>, <a href="dichotomy.html">dichotomy</a>, <a href="Excluded%20middle.html">Excluded middle</a>, <a href="flat.html">flat</a>, <a href="gainsay.html">gainsay</a>, <a href="go%20figure.html">go figure</a>, <a href="harmonize.html">harmonize</a>, <a href="Impugnation.html">Impugnation</a>, <a href="inconceivable.html">inconceivable</a>, <a href="inference.html">inference</a>, <a href="Logical%20impossibility.html">Logical impossibility</a>, <a href="negate.html">negate</a>, <a href="obligation.html">obligation</a>, <a href="Overthwart.html">Overthwart</a>, <a href="paradoxically.html">paradoxically</a>, <a href="Pardon%20me.html">Pardon me</a>, <a href="peremptory.html">peremptory</a>, <a href="perverse.html">perverse</a>, <a href="Principle%20of%20contradiction.html">Principle of contradiction</a>, <a href="protest.html">protest</a>, <a href="rebuttal.html">rebuttal</a>, <a href="recantation.html">recantation</a>, <a href="reclaim.html">reclaim</a>, <a href="reductio.html">reductio</a>, <a href="reductio%20ad%20absurdum.html">reductio ad absurdum</a>, <a href="reproof.html">reproof</a>, <a href="repugnance.html">repugnance</a>, <a href="Repugnantly.html">Repugnantly</a>, <a href="satire.html">satire</a>, <a href="self-contradiction.html">self-contradiction</a>, <a href="square.html">square</a>, <a href="stultify.html">stultify</a>, <a href="suppose.html">suppose</a>, <a href="suppression.html">suppression</a>, <a href="term.html">term</a>, <a href="Threap.html">Threap</a>, <a href="unanimous.html">unanimous</a>, <a href="undeniably.html">undeniably</a>, <a href="Undersay.html">Undersay</a>, <a href="warrant.html">warrant</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					xontradiction, dontradiction, fontradiction, vontradiction, cintradiction, ckntradiction, clntradiction, cpntradiction, cobtradiction, cohtradiction, cojtradiction, comtradiction, conrradiction, confradiction, congradiction, conyradiction, conteadiction, contdadiction, contfadiction, conttadiction, contrqdiction, contrwdiction, contrsdiction, contrzdiction, contrasiction, contraeiction, contrafiction, contraciction, contraxiction, contrasiction, contraduction, contradjction, contradkction, contradoction, contradixtion, contradidtion, contradiftion, contradivtion, contradicrion, contradicfion, contradicgion, contradicyion, contradictuon, contradictjon, contradictkon, contradictoon, contradictiin, contradictikn, contradictiln, contradictipn
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

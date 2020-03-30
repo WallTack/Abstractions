@@ -1,0 +1,571 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>achievement</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">achievement</span> <span class="exp">the action of accomplishing something</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The 1st winner of the Academy Award for best picture, and the only silent film to achieve that honor, was the 1927 film, "Wings."									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Achievement</span> <span class="exp">A great or heroic deed; something accomplished by valor, boldness, or praiseworthy exertion; a feat.</span> <span class="wuQuot">"The exploits] of the ancient saints . . . do far surpass the most famous achievements of pagan heroes."</span><span class="wuQuot">"The highest achievements of the human intellect."</span></li><li><span class="term">Achievement</span> <span class="exp"><span class="wuFld">(Her)</span> An escutcheon or ensign armorial; now generally applied to the funeral shield commonly called <span class="wUaltname">hatchment</span>.</span> </li><li><span class="term">Achievement</span> <span class="exp">The act of achieving or performing; an obtaining by exertion; successful performance; accomplishment; as, the <span class="wUex">achievement</span> of his object.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The first perfect game in baseball history was achieved by John Lee Richmond on June 12, 1880.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">achievement</span> <span class="exp">The act of achieving or performing; an obtaining by exertion; accomplishment: as, the achievement of one's object.</span> </li><li><span class="tSpeech">n</span> <span class="term">achievement</span> <span class="exp">That which is achieved; a great or heroic deed; something accomplished by valor, boldness, or superior ability.</span> </li><li><span class="tSpeech">n</span> <span class="term">achievement</span> <span class="exp">In heraldry, an escutcheon or armorial shield. The proper expression is “achievement of arms,” and signifies a complete heraldic composition, whether the shield alone or the shield with crest, motto, and supporters, if any. The term achievement is applied especially to the escutcheon of a deceased person displayed at his obsequies, over his tomb, etc., distinctively called a funeral achievement, or more commonly a hatchment (which see). Synonyms Deed, Feat, Exploit, etc. See feat.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The world record frog jump is 33 feet 5.5 inches over the course of 3 consecutive leaps, achieved in May 1977 by a South African sharp-nosed frog called Santjie.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Achievement</span> <span class="exp">a performance: an exploit: an escutcheon or armorial shield granted in memory of some achievement, applied especially to the escutcheon over the tomb of a dead person, generally called a <span class="itl">hatchment</span></span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Kahlil Gibran</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Kahlil%20Gibran.jpg" alt="Kahlil%20Gibran">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Wilferd A. Peterson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Wilferd A. Peterson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Big thinking precedes great achievement.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Your dreams will come true... if you can see it... if you believe in it... then you can achieve it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Education is not received. It is achieved.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Alexandre Dumas</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Alexandre Dumas">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Infatuated, half through conceit, half through love of my art, I achieve the impossible working as no one else ever works.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Denis Waitley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Denis%20Waitley.jpg" alt="Denis%20Waitley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The results you achieve will be in direct proportion to the effort you apply.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					Cf. F. <span class="wUets">achèvement</span>, E. <span class="wUer">Hatchment</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>achever</i>, from <i>à chief (venir)</i>—Low L. <i>ad caput venire</i>, to come to a head. See <b>Chief</b>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The trouble was that she could not rest satisfied with this achievement.
+					</div>
+					<div class="uAuthor">
+						"Far to Seek" by <span>Maud Diver</span>					</div>
+										<div class="usage">
+						He was unable to achieve more for a little time.
+					</div>
+					<div class="uAuthor">
+						"Bunker Bean" by <span>Harry Leon Wilson</span>					</div>
+										<div class="usage">
+						We have no need to set forth its own achievements.
+					</div>
+					<div class="uAuthor">
+						"Edward Caldwell Moore" by <span>Edward Moore</span>					</div>
+										<div class="usage">
+						A number of knights of great strength and bravery, confederated to achieve this feat.
+					</div>
+					<div class="uAuthor">
+						"The Empire of Austria; Its Rise and Present Power" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						Although written for England, 'Oberon' has never achieved much popularity in this, or indeed in any country.
+					</div>
+					<div class="uAuthor">
+						"The Opera" by <span>R.A. Streatfeild</span>					</div>
+										<div class="usage">
+						Reread several times, doing your best to achieve force.
+					</div>
+					<div class="uAuthor">
+						"The Art of Public Speaking" by <span>Dale Carnagey (AKA Dale Carnegie) and J. Berg Esenwein</span>					</div>
+										<div class="usage">
+						What conquest was next achieved?
+					</div>
+					<div class="uAuthor">
+						"Pinnock's Improved Edition of Dr. Goldsmith's History of Rome" by <span>Oliver Goldsmith</span>					</div>
+										<div class="usage">
+						As a rule they seem to have been successful in achieving their aim.
+					</div>
+					<div class="uAuthor">
+						"Richard Wagner" by <span>John F. Runciman</span>					</div>
+										<div class="usage">
+						It seemed as though the miracle of the restoration of the Russian army had been achieved, despite everything.
+					</div>
+					<div class="uAuthor">
+						"Bolshevism" by <span>John Spargo</span>					</div>
+										<div class="usage">
+						The pioneer work achieved by British and French excavators stimulated interest all over the world.
+					</div>
+					<div class="uAuthor">
+						"Myths of Babylonia and Assyria" by <span>Donald A. Mackenzie</span>					</div>
+										<div class="usage">
+						How is it that all these people do not achieve the successes to which their mere thinking entitles them?
+					</div>
+					<div class="uAuthor">
+						"The Young Man and the World" by <span>Albert J. Beveridge</span>					</div>
+										<div class="usage">
+						But success in teaching as in all other pursuits is possible of achievement.
+					</div>
+					<div class="uAuthor">
+						"Principles of Teaching" by <span>Adam S. Bennion</span>					</div>
+										<div class="usage">
+						Peace could be achieved only by conquering the enemies of peace.
+					</div>
+					<div class="uAuthor">
+						"The Saracen: The Holy War" by <span>Robert Shea</span>					</div>
+										<div class="usage">
+						Afterward history stores up these noble achievements of yesterday as soul food for to day.
+					</div>
+					<div class="uAuthor">
+						"A Man's Value to Society" by <span>Newell Dwight Hillis</span>					</div>
+										<div class="usage">
+						Achievement may take place without betterment, but all progress must make a record of betterment with achievement.
+					</div>
+					<div class="uAuthor">
+						"History of Human Society" by <span>Frank W. Blackmar</span>					</div>
+										<div class="usage">
+						No result has been achieved in the moral world.
+					</div>
+					<div class="uAuthor">
+						"The Expositor's Bible: The Epistle to the Hebrews" by <span>Thomas Charles Edwards</span>					</div>
+										<div class="usage">
+						Fremstad, like the poet and the composer, achieved her most effective results.
+					</div>
+					<div class="uAuthor">
+						"Interpreters" by <span>Carl Van Vechten</span>					</div>
+										<div class="usage">
+						But when she had achieved this accomplishment, how much nearer was she to a public appearance, a triumphant success?
+					</div>
+					<div class="uAuthor">
+						"Carnival" by <span>Compton Mackenzie</span>					</div>
+										<div class="usage">
+						There were some in South America whose achievements were as wondrous as those of Cortez in Mexico.
+					</div>
+					<div class="uAuthor">
+						"The Spanish Pioneers" by <span>Charles F. Lummis</span>					</div>
+										<div class="usage">
+						Yet undoubtedly, despite all their ignorance of the way things should be done, they achieved results.
+					</div>
+					<div class="uAuthor">
+						"Years of Plenty" by <span>Ivor Brown</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							And then to die so young and leave<br>
+Unfinished what he might achieve!<br>
+Yet better sure<br>
+Is this, than wandering up and down<br>
+An old man in a country town,<br>
+Infirm and poor. 
+							<div class="poet">"Ultima Thule: Robert Burns" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+											<div class="poemQuote">
+							But in the tedious toil, the dull routine<br>
+Which must precede achievement on the field,<br>
+Disease, that secret enemy with mean<br>
+Sly tactics, forced them to disarm and yield.
+							<div class="poet">"In France I Saw A Hill" by <span>Ella Wheeler Wilcox</span></div>
+						</div>
+											<div class="poemQuote">
+							From buffetings in humble place,<br>
+And labors ill begun,<br>
+To proud achievement in the race<br>
+And laurels grandly won,<br>
+His trials all she dares to face<br>
+As friend and champion.
+							<div class="poet">"Woman's Help" by <span>Hattie Howard</span></div>
+						</div>
+											<div class="poemQuote">
+							"If e'er, of ancient energy bereaved,<br>
+Britannia, bent by menace or design,<br>
+Should stain her naval sceptre, hard-achieved,<br>
+And yield one claim, one cherish'd right resign:
+							<div class="poet">"Sheridan" by <span>Thomas Gent</span></div>
+						</div>
+											<div class="poemQuote">
+							You can bet it was h--l in the Southern Hotel<br>
+And elsewhere, too many to mention,<br>
+But the worst of it all was achieved in the hall<br>
+Where the President held his convention.
+							<div class="poet">"The Blue And Gray" by <span>Eugene Field</span></div>
+						</div>
+											<div class="poemQuote">
+							My full design with vast expense achieved,<br>
+I came, beheld, admired, reflected, grieved:<br>
+I chid the folly of my thoughtless haste,<br>
+For, the work perfected, the joy was past.
+							<div class="poet">"Solomon on the Vanity of the World, A Poem. In Three Books. - Pleasure. Book II." by <span>Matthew Prior</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Down Syndrome can't stop Bruce Lee fan from achieving his dream.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kveo.com/news/black-belt-determination" target="_blank" rel="external nofollow">kveo.com</a>
+					</div>
+										<div class="usage">
+						Motown Records, which celebrated its 50 anniversary on January 12, 2009, is the first record label owned by an African-American to primarily feature African-American artists who achieved crossover success on white music charts.
+					</div>
+					<div class="uAuthor">
+						<a href="http://wlib.com/Black-Music-Month--History--Motown/13501377" target="_blank" rel="external nofollow">wlib.com</a>
+					</div>
+										<div class="usage">
+						Achieving notoriety with 10 chart-topping albums throughout the 70s is certainly a far cry from their early days.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kmhk.com/classic-vinyl-black-oak-arkansas/" target="_blank" rel="external nofollow">kmhk.com</a>
+					</div>
+										<div class="usage">
+						The New York City Department of Education has chosen Blackboard Collaborate in an effort to enhance student achievement and personalize instruction through the iLearnNYC program.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.districtadministration.com/news/nyc-selects-blackboard-collaborate-use-district-schools" target="_blank" rel="external nofollow">districtadministration.com</a>
+					</div>
+										<div class="usage">
+						Assign lectures and videos as homework and use class time to achieve economics learning.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ncss.org/conference/sessions/economics_meets_blended_learning" target="_blank" rel="external nofollow">ncss.org</a>
+					</div>
+										<div class="usage">
+						Intensive treatment to achieve good glycaemic control in diabetic patients is limited by a high frequency of hypoglycaemia.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)03322-5" target="_blank" rel="external nofollow">thelancet.com</a>
+					</div>
+										<div class="usage">
+						Green (LEFT), a wing commander in the Royal Air Force, is the first – and, to date, only – man to have broken the sound barrier on land when he achieved an average speed of 763.005mph in Bloodhound 's predecessor, Thrust SSC.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.racer.com/bloodhound-lsr-project-sets-2012-completion-target/article/222873/" target="_blank" rel="external nofollow">racer.com</a>
+					</div>
+										<div class="usage">
+						 Blueair Achieves FDA Medical Device Rating May 28, 2004 Printable format Email this Article Search.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.appliancemagazine.com/news.php?article=6793&amp;zone=0&amp;first=1" target="_blank" rel="external nofollow">appliancemagazine.com</a>
+					</div>
+										<div class="usage">
+						The fusion of West African &amp; jazz musical traditions is impeccably achieved in the latest recording from guitarist Lionel Loueke.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kios.org/post/last-call-cd-review-lionel-loueke-heritage-blue-note" target="_blank" rel="external nofollow">kios.org</a>
+					</div>
+										<div class="usage">
+						Really, how much can a Musca domestica achieve in a 20-day life cycle.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/2009-04-22/theater/the-curious-red-fly-blue-bottle-takes-wing-at-here/" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						His Act 1 demonstrated prodigious achievement.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/entertainment/books/20110204-book-review-endgame-bobby-fischer_s-remarkable-rise-and-fall_by-frank-brady.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						Alvin Youngblood Hart achieves the vibe of golden guitar in the first moments of Motivational Speaker.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/2005-08-02/music/body-english/" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						Award recognizes lifetime achievement and service to the industry.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.securityinfowatch.com/news/10483399/shane-clary-named-winner-of-caas-george-a-weinstock-award" target="_blank" rel="external nofollow">securityinfowatch.com</a>
+					</div>
+										<div class="usage">
+						Raising the achievement of students with learning disabilities is hard, expensive, controversial and complex.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/class-struggle/post/our-ignorance-of-learning-disabilities/2012/09/02/6bd7f064-f534-11e1-86a5-1f5431d87dfd_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Students from the Aquinas Honor Society of the Immaculate Conception School in Jamaica Estates have a new accomplishment to add to their list of achievements – author.
+					</div>
+					<div class="uAuthor">
+						<a href="http://queenscourier.com/2010/students-co-author-jamaica-estates-book-4453/" target="_blank" rel="external nofollow">queenscourier.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Of course, the improvement achieved by any single contribution may not be huge, but this mode of research is guaranteed to achieve cumulative progress. 
+					</div>
+					<div class="uAuthor">
+						Compression Rate Method for Empirical Science and Application to Computer Vision
+					</div>
+										<div class="usage">
+						In order to establish (c), we claim that every achievable PK rate is an achievable SK rate for the reduced PIN model upon using randomization at the terminals in M; by remark (ii) after Proposition 3.1, (c) then follows. 
+					</div>
+					<div class="uAuthor">
+						Secret Key Generation for a Pairwise Independent Network Model
+					</div>
+										<div class="usage">
+						Thus, any achievable rate of a PK for A in the given PIN model for PK generation is an achievable rate of a PK for A in the simulated model. 
+					</div>
+					<div class="uAuthor">
+						Secret Key Generation for a Pairwise Independent Network Model
+					</div>
+										<div class="usage">
+						Inspired by , and the deterministic multi-valued Byzantine agreement algorithm in our recent technical report , we derive a randomized algorithm that achieves multi-valued Byzantine agreement with high probability, and achieves optimal complexity. 
+					</div>
+					<div class="uAuthor">
+						Short Note on Complexity of Multi-Value Byzantine Agreement
+					</div>
+										<div class="usage">
+						Note that our proof does not exclude the possibility that, as t decreases, kxk(t) could switch from being achieved at the upper bound of the support of µ⊞s x to being achieved at its lower bound. 
+					</div>
+					<div class="uAuthor">
+						Laws of large numbers for eigenvectors and eigenvalues associated to random subspaces in a tensor product
+					</div>
+										<div class="usage">
+						III C simply by replacing the condition ‘if the quantum computer achieves exponential speedup’ with the relaxed condition ‘if the quantum computer achieves exponential speedup or it solves the quantum search problem using Grover’s algorithm for the case of Eq. (30)’. 
+					</div>
+					<div class="uAuthor">
+						Necessity of Superposition of Macroscopically Distinct States for Quantum Computational Speedup
+					</div>
+										<div class="usage">
+						This implies that R0 is achievable in Model I, which completes the proof of achievability part. 
+					</div>
+					<div class="uAuthor">
+						The Common Information of N Dependent Random Variables
+					</div>
+										<div class="usage">
+						On the vast ma jority of simulated datasets, the risks achieved where close to the lowest achievable (oracle) risk, whereas each of the other approaches behaved poorly in at least one case. 
+					</div>
+					<div class="uAuthor">
+						Random threshold for linear model selection, revisited
+					</div>
+										<div class="usage">
+						Furthermore, any unmodiﬁed distinguisher that achieves some advantage will achieve the same advantage when it is modiﬁed. 
+					</div>
+					<div class="uAuthor">
+						Equivalence of the Random Oracle Model and the Ideal Cipher Model, Revisited
+					</div>
+										<div class="usage">
+						The achieved memory bandwidth does not go over 50% of the observed achievable bandwidth. 
+					</div>
+					<div class="uAuthor">
+						Using graphics processing units to generate random numbers
+					</div>
+										<div class="usage">
+						When the game is played for an inﬁnite amount of rounds with time discounted utilities, under reasonable assumptions, we can reduce the amount of randomness required to achieve a ε-Nash equilibrium to nδ , where n is the number of random coins necessary to achieve an approximate Nash equilibrium in the general case. 
+					</div>
+					<div class="uAuthor">
+						Repeated Matching Pennies with Limited Randomness
+					</div>
+										<div class="usage">
+						The equilibrium analysis that Benisch et al. provide is in regard to identifying a particular mechanism design in which the maximum social welfare achievable in any outcome can be achieved in a particular Bayes-Nash equilibrium. 
+					</div>
+					<div class="uAuthor">
+						Simplicity-Expressiveness Tradeoffs in Mechanism Design
+					</div>
+										<div class="usage">
+						Since ˆxi (C ) ≤ xi (C ) for all C , we also know that the social welfare achieved by any outcome o′ 6= o under ( ˆxi , ˆx−i ) is weakly smaller than the social welfare achieved by o under ( ˆxi , ˆx−i ). 
+					</div>
+					<div class="uAuthor">
+						Simplicity-Expressiveness Tradeoffs in Mechanism Design
+					</div>
+										<div class="usage">
+						It is thus reasonable to expect for any graph reconstruction algorithm to achieve an edit distance less than (0.5c − 1)n, since otherwise, a random choice of the output graph could achieve the same edit distance. 
+					</div>
+					<div class="uAuthor">
+						Topology Discovery of Sparse Random Graphs With Few Participants
+					</div>
+										<div class="usage">
+						If science is to stand any chance of pursuing aims that are both scientifically achievable and of value to achieve it is vital that possible and actual, highly problematic, aims be explicitly articulated as an integral part of science, so that they can be criticized, alternatives being developed and considered. 
+					</div>
+					<div class="uAuthor">
+						Do We Need a Scientific Revolution?
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="action.html">action</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="accomplished%20fact.html">accomplished fact</a>, <a href="arrival.html">arrival</a>, <a href="attainment.html">attainment</a>, <a href="base%20on%20balls.html">base on balls</a>, <a href="beachhead.html">beachhead</a>, <a href="cakewalk.html">cakewalk</a>, <a href="close%20call.html">close call</a>, <a href="close%20shave.html">close shave</a>, <a href="credit.html">credit</a>, <a href="effort.html">effort</a>, <a href="enlisting.html">enlisting</a>, <a href="exploit.html">exploit</a>, <a href="face%20saver.html">face saver</a>, <a href="face%20saving.html">face saving</a>, <a href="fait%20accompli.html">fait accompli</a>, <a href="feat.html">feat</a>, <a href="foothold.html">foothold</a>, <a href="freeing.html">freeing</a>, <a href="going.html">going</a>, <a href="haymaking.html">haymaking</a>, <a href="liberation.html">liberation</a>, <a href="masterpiece.html">masterpiece</a>, <a href="masterstroke.html">masterstroke</a>, <a href="narrow%20escape.html">narrow escape</a>, <a href="pass.html">pass</a>, <a href="performance.html">performance</a>, <a href="reaching.html">reaching</a>, <a href="record.html">record</a>, <a href="recruitment.html">recruitment</a>, <a href="release.html">release</a>, <a href="sledding.html">sledding</a>, <a href="smooth.html">smooth</a>, <a href="squeak.html">squeak</a>, <a href="squeaker.html">squeaker</a>, <a href="track%20record.html">track record</a>, <a href="walk.html">walk</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="accomplish.html">accomplish</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="ability.html">ability</a>, <a href="accomplishment.html">accomplishment</a>, <a href="accredit.html">accredit</a>, <a href="Achievance.html">Achievance</a>, <a href="agnomen.html">agnomen</a>, <a href="Agnomination.html">Agnomination</a>, <a href="Air%20Medal.html">Air Medal</a>, <a href="ambitionless.html">ambitionless</a>, <a href="ambitious.html">ambitious</a>, <a href="answerable.html">answerable</a>, <a href="banneret.html">banneret</a>, <a href="bay.html">bay</a>, <a href="Beat%20the%20record.html">Beat the record</a>, <a href="behind.html">behind</a>, <a href="blazon.html">blazon</a>, <a href="Break%20the%20record.html">Break the record</a>, <a href="brilliant.html">brilliant</a>, <a href="California%20Personality%20Inventory.html">California Personality Inventory</a>, <a href="capstone.html">capstone</a>, <a href="charge.html">charge</a>, <a href="Chevisance.html">Chevisance</a>, <a href="cipher.html">cipher</a>, <a href="closure.html">closure</a>, <a href="coat.html">coat</a>, <a href="coat%20of%20arms.html">coat of arms</a>, <a href="completion.html">completion</a>, <a href="congratulate.html">congratulate</a>, <a href="copestone.html">copestone</a>, <a href="counterproductive.html">counterproductive</a>, <a href="CPI.html">CPI</a>, <a href="credit.html">credit</a>, <a href="crest.html">crest</a>, <a href="crowning.html">crowning</a>, <a href="deed.html">deed</a>, <a href="degree.html">degree</a>, <a href="difference.html">difference</a>, <a href="Differency.html">Differency</a>, <a href="effect.html">effect</a>, <a href="effort.html">effort</a>, <a href="Elizabethan%20age.html">Elizabethan age</a>, <a href="emulation.html">emulation</a>, <a href="execution.html">execution</a>, <a href="exploit.html">exploit</a>, <a href="Exploiture.html">Exploiture</a>, <a href="feat.html">feat</a>, <a href="field.html">field</a>, <a href="finishing%20touch.html">finishing touch</a>, <a href="foil.html">foil</a>, <a href="Gallicanism.html">Gallicanism</a>, <a href="Gest.html">Gest</a>, <a href="GPA.html">GPA</a>, <a href="grade%20point%20average.html">grade point average</a>, <a href="Hatchment.html">Hatchment</a>, <a href="impossibly.html">impossibly</a>, <a href="Ivy%20League.html">Ivy League</a>, <a href="jest.html">jest</a>, <a href="labor.html">labor</a>, <a href="lambrequin.html">lambrequin</a>, <a href="laureate.html">laureate</a>, <a href="leading.html">leading</a>, <a href="litre.html">litre</a>, <a href="marshal.html">marshal</a>, <a href="masterpiece.html">masterpiece</a>, <a href="masterstroke.html">masterstroke</a>, <a href="Medicean.html">Medicean</a>, <a href="motto.html">motto</a>, <a href="name.html">name</a>, <a href="ne%20plus%20ultra.html">ne plus ultra</a>, <a href="on.html">on</a>, <a href="outshine.html">outshine</a>, <a href="overtake.html">overtake</a>, <a href="panegyric.html">panegyric</a>, <a href="performance.html">performance</a>, <a href="possibly.html">possibly</a>, <a href="preeminent.html">preeminent</a>, <a href="preen.html">preen</a>, <a href="promising.html">promising</a>, <a href="record.html">record</a>, <a href="reverent.html">reverent</a>, <a href="silver%20age.html">silver age</a>, <a href="slippage.html">slippage</a>, <a href="stature.html">stature</a>, <a href="supreme.html">supreme</a>, <a href="talent.html">talent</a>, <a href="timber.html">timber</a>, <a href="toil.html">toil</a>, <a href="tradition.html">tradition</a>, <a href="trick.html">trick</a>, <a href="Tricking.html">Tricking</a>, <a href="triumph.html">triumph</a>, <a href="unambitious.html">unambitious</a>, <a href="valiant.html">valiant</a>, <a href="vegetate.html">vegetate</a>, <a href="vehicle.html">vehicle</a>, <a href="welt.html">welt</a>, <a href="work.html">work</a>, <a href="worst.html">worst</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qchievement, wchievement, schievement, zchievement, axhievement, adhievement, afhievement, avhievement, acgievement, acyievement, acjievement, acnievement, acbievement, achuevement, achjevement, achkevement, achoevement, achiwvement, achisvement, achidvement, achirvement, achiecement, achiefement, achiegement, achiebement, achievwment, achievsment, achievdment, achievrment, achievenent, achievejent, achievekent, achievemwnt, achievemsnt, achievemdnt, achievemrnt, achievemebt, achievemeht, achievemejt, achievememt, achievemenr, achievemenf, achievemeng, achievemeny
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

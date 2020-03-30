@@ -1,0 +1,535 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>valor</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">valor</span> <span class="exp">the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)</span> <span class="quot">"he showed great heroism in battle","he received a medal for valor"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										This is what the red, white, and blue on the US flag represent: The Continental Congress left no record to show why it chose the colors. However, in 1782, the Congress of the Confederation chose these same colors for the Great Seal of the United States and listed their meaning as follows: white to mean purity and innocence, red for valor and hardiness, and blue for vigilance, perseverance, and justice. According to legend, George Washington interpreted the elements of the flag this way: the stars were taken from the sky, the red from the British colors, and the white stripes signified the secession from the home country. However, there is no official designation or meaning for the colors of the flag.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Valor</span> <span class="exp">A brave man; a man of valor.</span> </li><li><span class="term">Valor</span> <span class="exp">Strength of mind in regard to danger; that quality which enables a man to encounter danger with firmness; personal bravery; courage; prowess; intrepidity.</span> <span class="wuQuot">"For contemplation he and valor formed."</span><span class="wuQuot">"When valor preys on reason,<br>
+It eats the sword it fights with."</span><span class="wuQuot">"Fear to do base, unworthy things is valor ."</span></li><li><span class="term">Valor</span> <span class="exp">Value; worth.</span> <span class="wuQuot">"The valor of a penny."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">valor</span> <span class="exp">Strength of mind in resisting fear and braving danger; bravery; especially, courage and skill in fighting.</span> </li><li><span class="tSpeech">n</span> <span class="term">valor</span> <span class="exp">Value; worth.</span> </li><li><span class="tSpeech">n</span> <span class="term">valor</span> <span class="exp">A man of courage; a brave man.</span> </li><li><span class="tSpeech">n</span> <span class="term">valor</span> <span class="exp">Synonyms Courage, gallantry. See brave.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Shakespeare</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Shakespeare.jpg" alt="William%20Shakespeare">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In a false quarrel there is no true valor.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Virgil</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Virgil.jpg" alt="Virgil">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Who asks whether the enemy were defeated by strategy or valor?”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Publilius Syrus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Publilius%20Syrus.jpg" alt="Publilius%20Syrus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Valor grows by daring, fear by holding back.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Miguel De Cervantes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Miguel%20De%20Cervantes.jpg" alt="Miguel%20De%20Cervantes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“True valor lies between cowardice and rashness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is always safety in valor.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Valor consists in the power of self recovery.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">valour</span>, OF. <span class="wUets">valor</span>, <span class="wUets">valur</span>, <span class="wUets">valour</span>, F. <span class="wUets">valeur</span>, LL. <span class="wUets">valor</span>, fr. L. <span class="wUets">valere</span>, to be strong, or worth. See <span class="wUer">Valiant</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						And, while the bloodiest field, none had so splendidly illustrated the stubborn valor of the men and the brilliant courage of their leaders.
+					</div>
+					<div class="uAuthor">
+						"Four Years in Rebel Capitals" by <span>T. C. DeLeon</span>					</div>
+										<div class="usage">
+						His valor ... who on earth could ever tell?
+					</div>
+					<div class="uAuthor">
+						"La Chanson de Roland" by <span>Léon Gautier</span>					</div>
+										<div class="usage">
+						Immediate action united with valor alone can achieve the great work.
+					</div>
+					<div class="uAuthor">
+						"Journeys Through Bookland, Vol. 8" by <span>Charles H. Sylvester</span>					</div>
+										<div class="usage">
+						In the English Revolution the Independents gained this ascendency by their valor, enthusiasm, and wisdom.
+					</div>
+					<div class="uAuthor">
+						"A Modern History, From the Time of Luther to the Fall of Napoleon" by <span>John Lord</span>					</div>
+										<div class="usage">
+						Course, the middle, the one of valor, 104.
+					</div>
+					<div class="uAuthor">
+						"Wit and Wisdom of Don Quixote" by <span>Miguel de Cervantes Saavedra</span>					</div>
+										<div class="usage">
+						Joe is buried under the three pirates, for Patch's valor returns when Joe is down.
+					</div>
+					<div class="uAuthor">
+						"Wappin' Wharf" by <span>Charles S. Brooks</span>					</div>
+										<div class="usage">
+						IN: Are you valorous?
+					</div>
+					<div class="uAuthor">
+						"Castellinaria and Other Sicilian Diversions" by <span>Henry Festing Jones</span>					</div>
+										<div class="usage">
+						In this company he had a reputation to live up to as a man of parts and valor.
+					</div>
+					<div class="uAuthor">
+						"Blackbeard: Buccaneer" by <span>Ralph D. Paine</span>					</div>
+										<div class="usage">
+						Yermak now, having added by his valor a great domain to the Russian empire, purchased the favor of Ivan IV.
+					</div>
+					<div class="uAuthor">
+						"Historic Tales, Vol. 8 (of 15)" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						No longer was Roland undisputedly first in valor at the court of Charlemagne.
+					</div>
+					<div class="uAuthor">
+						"With Spurs of Gold" by <span>Frances Nimmo Greene</span>					</div>
+										<div class="usage">
+						In what else could it lie but in the arms and valor of her children?
+					</div>
+					<div class="uAuthor">
+						"Historic Tales, Volume 11 (of 15)" by <span>Charles Morris</span>					</div>
+										<div class="usage">
+						Confidence and prestige were shaken in the front of a foe equal in valor and as skilled in arms as themselves.
+					</div>
+					<div class="uAuthor">
+						"The Battle of New Orleans" by <span>Zachary F. Smith</span>					</div>
+										<div class="usage">
+						They excited the Gael to deeds of valor.
+					</div>
+					<div class="uAuthor">
+						"An Historical Account of the Settlements of Scotch Highlanders in America" by <span>J. P. MacLean</span>					</div>
+										<div class="usage">
+						A Spaniard knows how to respect valor even in an enemy.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Volume 9" by <span>Various</span>					</div>
+										<div class="usage">
+						A desperate fight took place, in which Hermann, after performing prodigies of valor, was defeated, and escaped with difficulty.
+					</div>
+					<div class="uAuthor">
+						"Great Men and Famous Women. Vol. 1 of 8" by <span>Various</span>					</div>
+										<div class="usage">
+						Is that an act of valor?
+					</div>
+					<div class="uAuthor">
+						"The Brass Bell" by <span>Eugène Sue</span>					</div>
+										<div class="usage">
+						They met in an orchard near the sea wall, and were counselled and guided by one Rafael Valls, a valorous man of great culture.
+					</div>
+					<div class="uAuthor">
+						"The Dead Command" by <span>Vicente Blasco Ibáñez</span>					</div>
+										<div class="usage">
+						By sea and by land I have served some great captains, but never one greater than you for constancy and manly valor.
+					</div>
+					<div class="uAuthor">
+						"The Lady of Loyalty House" by <span>Justin Huntly McCarthy</span>					</div>
+										<div class="usage">
+						Pitiless to his noble valor, a well-aimed carbine-shot lays him low.
+					</div>
+					<div class="uAuthor">
+						"Continental Monthly, Vol. III, No IV, April 1863" by <span>Various</span>					</div>
+										<div class="usage">
+						The Rebu fought with the valor of their race.
+					</div>
+					<div class="uAuthor">
+						"The Cat of Bubastes" by <span>G. A. Henty</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							'And victory never can be attained<br>
+With but a fearless arm and heart;<br>
+The truest valor, I esteem,<br>
+Is heedfulness and wisdom's art.
+							<div class="poet">"Gamzrdeli" by <span>Akaki Tsereteli</span></div>
+						</div>
+											<div class="poemQuote">
+							In field and hall, in valor and in grace,<br>
+In wisdom's livery,<br>
+Gentle and brave, he moved with knightly pace,<br>
+A worthy son of thee!
+							<div class="poet">"M. W. Ransom" by <span>John Charles McNeill </span></div>
+						</div>
+											<div class="poemQuote">
+							Stoop, angels, hither from the skies!<br>
+There is no holier spot of ground<br>
+Than where defeated valor lies,<br>
+By mourning beauty crowned!
+							<div class="poet">"Graves of the Confederate Dead" by <span>Henry Timrod</span></div>
+						</div>
+											<div class="poemQuote">
+							Ambition, pride and hope may rise<br>
+Towering up Fame's dazzling peaks;<br>
+Yet they but find in glory's skies<br>
+The bier where valor sleeps.
+							<div class="poet">"Lines On The Death Of A Friend" by <span>Samuel Alfred Beadle</span></div>
+						</div>
+											<div class="poemQuote">
+							The young eyes turn to the distant west,<br>
+Where the sunset colours glow,<br>
+And thoughts are thrilling the childish breast<br>
+Of gallant, valorous deeds long done,<br>
+Of glorious battles, fought and won<br>
+In the days of long ago.
+							<div class="poet">"A Young Rebel" by <span>Alice Guerin Crist</span></div>
+						</div>
+											<div class="poemQuote">
+							The young eyes turn to the distant west,<br>
+Where the sunset colours glow,<br>
+And thoughts are thrilling the childish breast<br>
+Of a gallant, valorous deeds long done,<br>
+Of glorious battles fought and won<br>
+In the days of long ago.
+							<div class="poet">"The Young Rebel" by <span>Alice Guerin Crist</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Claims of medals amount to stolen valor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/news/local/chi-valor-oct25,0,4301227.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						Stolen Valor Act needs to be supported .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wfaa.com/news/special/uncut/Stolen-Valor-Act-needs-to-be-Supported-160911655.html" target="_blank" rel="external nofollow">wfaa.com</a>
+					</div>
+										<div class="usage">
+						Today, Americans are supposed to pause to reflect on the valor, sacrifice and bravery of the men and women who have died serving in our country's armed forces.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.altoonamirror.com/page/content.detail/id/561180/Be-sure-to-honor-heroes.html?nav=728" target="_blank" rel="external nofollow">altoonamirror.com</a>
+					</div>
+										<div class="usage">
+						Team Valor International and Ford, Mark.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bloodhorse.com/horse-racing/thoroughbred/went-the-day-well/2009" target="_blank" rel="external nofollow">bloodhorse.com</a>
+					</div>
+										<div class="usage">
+						The pair created the guide, "Glory, Valor &amp; Sacrifice, Michigan Sites Significant to the Civil War," which was released this month.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.monroenews.com/news/2012/mar/22/civil-war-tour-guide/" target="_blank" rel="external nofollow">monroenews.com</a>
+					</div>
+										<div class="usage">
+						Gail "Boatsie" VanVranken remembers the images of sacrifice and valor that followed the attacks of Sept 11, 2001.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theintelligencer.net/page/content.detail/id/559223/For-The-Troops.html?nav=506" target="_blank" rel="external nofollow">theintelligencer.net</a>
+					</div>
+										<div class="usage">
+						 Up-and-coming Cherokee Trail takes on Valor Christian for 5A title.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.denverpost.com/preps/ci_22103194/up-and-coming-cherokee-trail-takes-valor-christian" target="_blank" rel="external nofollow">denverpost.com</a>
+					</div>
+										<div class="usage">
+						SEALs shine in 'Act of Valor'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.readthehook.com/102919/valiant-effort-seals-act-valor?quicktabs_1=2" target="_blank" rel="external nofollow">readthehook.com</a>
+					</div>
+										<div class="usage">
+						Navy SEALs to battle in 'Act of Valor'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.readthehook.com/102919/valiant-effort-seals-act-valor?quicktabs_1=2" target="_blank" rel="external nofollow">readthehook.com</a>
+					</div>
+										<div class="usage">
+						Act of Valor contains hard-hitting combat footage, relentless and effective.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.readthehook.com/102919/valiant-effort-seals-act-valor?quicktabs_1=2" target="_blank" rel="external nofollow">readthehook.com</a>
+					</div>
+										<div class="usage">
+						Claims of medals amount to stolen valor .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/news/local/chi-valor-oct25,0,4301227.story" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						ACT OF VALOR - 02:35.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.boxoffice.com/statistics/movies/act-of-valor-2012" target="_blank" rel="external nofollow">boxoffice.com</a>
+					</div>
+										<div class="usage">
+						Movie filmed locally, 'Act of Valor ,' to premiere Thursday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wgnradio.com/topic/entertainment/movies/act-of-valor-(movie)-ENMV0002006.topic" target="_blank" rel="external nofollow">wgnradio.com</a>
+					</div>
+										<div class="usage">
+						'Act of Valor ' review: War is an action movie.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wgnradio.com/topic/entertainment/movies/act-of-valor-(movie)-ENMV0002006.topic" target="_blank" rel="external nofollow">wgnradio.com</a>
+					</div>
+										<div class="usage">
+						SEALs shine in 'Act of Valor '.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.readthehook.com/category/tags/act-valor" target="_blank" rel="external nofollow">readthehook.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Hemos estudiado tres diferentes esquemas de colapso, teniendo todos ellos diferentes comportamientos al tiempo de colapso η c k sobre el nuevo valor de expectación del estado posterior al colapso. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						El último esquema estudiado (ver sección 3.4) y propuesto por vez primera en es, en el sentido siguiente, más natural, ya que toma en cuenta las correlaciones entre los valores de expectación del campo y de su momento conjugado en el estado anterior al colapso, tal como es codiﬁcado por la distribución de Wigner. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Este esquema propone una correlación entre los valores posteriores al colapso determinada por la distribución de Wigner del estado de vacío. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Este esquema propone una correlación entre los valores posteriores al colapso determinada por la distribución de Wigner del estado de vacío. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Estas gráﬁcas representan varios valores de A y B elegidos como muestra para cubrir un dominio relativamente amplio. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Las gráﬁcas (3.7, 3.8 y 3.9) muestran la forma del espectro para varias elecciones del valor B manteniendo el valor de A ﬁjo. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						De estos resultados podemos obtener algunas constricciones razonables a los valores de A y B para los diferentes esquemas de colapso. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Figura 3.4: Gráﬁca semilogarítmica de |α lm |2 (C1 (k)) para diferentes valores de ( A, B) representando que tan robusto es el esquema de colapso cuando se desvía de zk constante. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Figura 3.5: Gráﬁca semilogarítmica de |α lm |2 (C2 (k)) para diferentes valores de ( A, B) representando que tan robusto es el esquema de colapso cuando se desvía de zk constante. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Los peores valores de A y B son mostrados en la tabla 3.2. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Valores por abajo de la línea de referencia son desempeños aceptables. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Valores por abajo de la línea de referencia son desempeños aceptables. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Para recuperar el rango de tiempos de colapso para los diferentes valores de A y B, para lograrlo, k de N (x) = A/x + B, obteniendo |η c k (k)| = A/k + RD B, RD es el radio comóvil de despejamos η c la LSS. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Tabla C.1: Valores numéricos para distintos momentos importantes en la evolución del universo. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<div class="usage">
+						Para los valores de las constantes consúltese el texto principal. 
+					</div>
+					<div class="uAuthor">
+						The quantum origins of the cosmological asymmetry
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)"><a href="valour.html">valour</a>, <a href="valorousness.html">valorousness</a>, <a href="valiance.html">valiance</a>, <a href="valiancy.html">valiancy</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="braveness.html">braveness</a>, <a href="bravery.html">bravery</a>, <a href="courage.html">courage</a>, <a href="courageousness.html">courageousness</a>
+				</div>
+																				<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="achievement.html">achievement</a>, <a href="Achillean.html">Achillean</a>, <a href="banneret.html">banneret</a>, <a href="Bern.html">Bern</a>, <a href="bravery.html">bravery</a>, <a href="chivalry.html">chivalry</a>, <a href="Congressional%20Medal%20of%20Honor.html">Congressional Medal of Honor</a>, <a href="courage.html">courage</a>, <a href="courageousness.html">courageousness</a>, <a href="Doughtiness.html">Doughtiness</a>, <a href="Hero.html">Hero</a>, <a href="heroic.html">heroic</a>, <a href="heroically.html">heroically</a>, <a href="heroism.html">heroism</a>, <a href="intrepidity.html">intrepidity</a>, <a href="knight%20banneret.html">knight banneret</a>, <a href="knight%20of%20the%20square%20flag.html">knight of the square flag</a>, <a href="Medal%20of%20Honor.html">Medal of Honor</a>, <a href="overvaliant.html">overvaliant</a>, <a href="prowess.html">prowess</a>, <a href="soldier.html">soldier</a>, <a href="swash.html">swash</a>, <a href="Swasher.html">Swasher</a>, <a href="transcendent.html">transcendent</a>, <a href="undisciplined.html">undisciplined</a>, <a href="Unfleshed.html">Unfleshed</a>, <a href="valiance.html">valiance</a>, <a href="valiancy.html">valiancy</a>, <a href="valiant.html">valiant</a>, <a href="valiantly.html">valiantly</a>, <a href="Valiantness.html">Valiantness</a>, <a href="valorous.html">valorous</a>, <a href="valorously.html">valorously</a>, <a href="value.html">value</a>, <a href="Valure.html">Valure</a>, <a href="vassalage.html">vassalage</a>, <a href="Victoria%20Cross.html">Victoria Cross</a>, <a href="virtue.html">virtue</a>, <a href="Warproof.html">Warproof</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					calor, falor, galor, balor, vqlor, vwlor, vslor, vzlor, vakor, vaoor, vapor, valir, valkr, vallr, valpr, valoe, valod, valof, valot
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

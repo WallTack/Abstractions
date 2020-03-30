@@ -1,0 +1,483 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>sparkle</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">sparkle</span> <span class="exp">be lively or brilliant or exhibit virtuosity</span> <span class="quot">"The musical performance sparkled","A scintillating conversation","his playing coruscated throughout the concert hall"</span></li><li><span class="tSpeech">v</span> <span class="term">sparkle</span> <span class="exp">become bubbly or frothy or foaming</span> <span class="quot">"The boiling soup was frothing","The river was foaming","Sparkling water"</span></li><li><span class="tSpeech">v</span> <span class="term">sparkle</span> <span class="exp">reflect brightly</span> <span class="quot">"Unquarried marble sparkled on the hillside"</span></li><li><span class="tSpeech">v</span> <span class="term">sparkle</span> <span class="exp">emit or produce sparks</span> <span class="quot">"A high tension wire, brought down by a storm, can continue to spark"</span></li><li><span class="tSpeech">n</span> <span class="term">sparkle</span> <span class="exp">the quality of shining with a bright reflected light</span> </li><li><span class="tSpeech">n</span> <span class="term">sparkle</span> <span class="exp">merriment expressed by a brightness or gleam or animation of countenance</span> <span class="quot">"he had a sparkle in his eye","there's a perpetual twinkle in his eyes"</span></li><li><span class="tSpeech">n</span> <span class="term">sparkle</span> <span class="exp">the occurrence of a small flash or spark</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Sparkle</span> <span class="exp">A little spark; a scintillation.</span> <span class="wuQuot">"As fire is wont to quicken and go<br>
+From a sparkle sprungen amiss,<br>
+Till a city brent up is."</span><span class="wuQuot">"The shock was sufficiently strong to strike out some sparkles of his fiery temper."</span></li><li><span class="term">Sparkle</span> <span class="exp">Brilliancy; luster; as, the <span class="wUex">sparkle</span> of a diamond.</span> </li><li><span class="term">Sparkle</span> <span class="exp">To disperse.</span> <span class="wuQuot">"The Landgrave hath sparkled his army without any further enterprise."</span></li><li><span class="tSpeech">v. t</span> <span class="term">Sparkle</span> <span class="exp">To emit in the form or likeness of sparks.</span> <span class="wuQuot">"Did sparkle forth great light."</span></li><li><span class="term">Sparkle</span> <span class="exp">To emit little bubbles, as certain kinds of liquors; to effervesce; as, <span class="wUex">sparkling</span> wine.</span> </li><li><span class="term">Sparkle</span> <span class="exp">To emit sparks; to throw off ignited or incandescent particles; to shine as if throwing off sparks; to emit flashes of light; to scintillate; to twinkle; as, the blazing wood <span class="wUex">sparkles</span>; the stars <span class="wUex">sparkle</span>
+            .</span> <span class="wuQuot">"A mantelet upon his shoulder hanging<br>
+Bretful of rubies red, as fire sparkling ."</span></li><li><span class="term">Sparkle</span> <span class="exp">To manifest itself by, or as if by, emitting sparks; to glisten; to flash.</span> <span class="wuQuot">"I see bright honor sparkle through your eyes."</span></li><li><span class="term">Sparkle</span> <span class="exp">To scatter on or over.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">sparkle</span> <span class="exp">To emit sparks; send off small ignited particles, as burning fuel, etc.</span> </li><li><span class="term">sparkle</span> <span class="exp">To shine as if giving out sparks; glitter; glisten; scintillate, literally or figuratively: as, a brilliant sparkles; a sparkling beauty; sparkling wit.</span> </li><li><span class="term">sparkle</span> <span class="exp">Synonyms and</span> </li><li><span class="term">sparkle</span> <span class="exp">Scintillate, Glitter, etc. (see glare, verb i.), coruscate.</span> </li><li><span class="term">sparkle</span> <span class="exp">To emit with coruscations; throw out sparklingly.</span> </li><li><span class="term">sparkle</span> <span class="exp">To scatter; disperse.</span> </li><li><span class="term">sparkle</span> <span class="exp">To sprinkle; spatter.</span> </li><li><span class="tSpeech">n</span> <span class="term">sparkle</span> <span class="exp">A spark; an ignited or a luminous particle, or something comparable to it; a scintillation; a gleam.</span> </li><li><span class="tSpeech">n</span> <span class="term">sparkle</span> <span class="exp">The act or state of sparkling; emission of sparks or scintillations; sparkling luminosity or luster: used literally or figuratively.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Sparkle</span> <span class="exp"><span class="itl">spärk′l</span> a little spark: lustre, brilliance: the presence of carbon dioxide, as in a wine, causing effervescence: the emission of sparks</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Sparkle</span> <span class="exp">to emit sparks: to shine, glitter: to effervesce with glittering bubbles, or to contain much carbon dioxide, as certain wines</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Sparkle</span> <span class="exp">to throw out sparklingly</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marie Beyon Ray</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marie Beyon Ray">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Begin doing what you want to do now. We are not living in eternity. We have only this moment, sparkling like a star in our hand -- and melting like a snowflake.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Life's enchanted cup sparkles near the brim.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To the dull mind all nature is leaden. To the illumined mind the whole world burns and sparkles with light.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Hafiz</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Hafiz">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“On the neck of a young man sparkles no gem so gracious as enterprise.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry Ward Beecher</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20Ward%20Beecher.jpg" alt="Henry%20Ward%20Beecher">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Mirth is the sweet wine of human life. It should be offered sparkling with zestful life unto God.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					See <span class="wUer">Sparkle</span> (n.), Spark of fire
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						A sudden greed sparkled in Billy Beck's tearful eyes.
+					</div>
+					<div class="uAuthor">
+						"The Terrible Twins" by <span>Edgar Jepson</span>					</div>
+										<div class="usage">
+						A solitaire sparkled on the third finger.
+					</div>
+					<div class="uAuthor">
+						"Steve Yeager" by <span>William MacLeod Raine</span>					</div>
+										<div class="usage">
+						The current sparkled like a dancer's veil spread on the grass.
+					</div>
+					<div class="uAuthor">
+						"The Emigrant Trail" by <span>Geraldine Bonner</span>					</div>
+										<div class="usage">
+						She saw the sun on your helmets, The sparkle of glancing light.
+					</div>
+					<div class="uAuthor">
+						"Golden Lads" by <span>Arthur Gleason and Helen Hayes Gleason</span>					</div>
+										<div class="usage">
+						The mother lifted her head and thoughtfully watched the sparkling eyes.
+					</div>
+					<div class="uAuthor">
+						"The Southerner" by <span>Thomas Dixon</span>					</div>
+										<div class="usage">
+						In another instant we were all free, settling down through the quiet atmosphere with the Atlantic Ocean sparkling in the morning sun far below.
+					</div>
+					<div class="uAuthor">
+						"Edison's Conquest of Mars" by <span>Garrett Putman Serviss</span>					</div>
+										<div class="usage">
+						Coach after coach rolled up to the diamond door, which sparkled in the moonlight.
+					</div>
+					<div class="uAuthor">
+						"The Firelight Fairy Book" by <span>Henry  Beston</span>					</div>
+										<div class="usage">
+						It sparkled on his eyebrows and the lashes of his fine eyes.
+					</div>
+					<div class="uAuthor">
+						"The Fifth Wheel" by <span>Olive Higgins Prouty</span>					</div>
+										<div class="usage">
+						Fritz stammered out that he sought the sparkling golden water.
+					</div>
+					<div class="uAuthor">
+						"Tales of Wonder Every Child Should Know" by <span>Various</span>					</div>
+										<div class="usage">
+						A ring with large diamonds was sparkling on her forefinger.
+					</div>
+					<div class="uAuthor">
+						"Napoleon and the Queen of Prussia" by <span>L. Mühlbach,</span>					</div>
+										<div class="usage">
+						And her sparkling, speaking glances fell on Pandu's sons like fire, Stirred in them a mighty passion and a thirst for vengeance dire!
+					</div>
+					<div class="uAuthor">
+						"Maha-bharata" by <span>Anonymous</span>					</div>
+										<div class="usage">
+						How fresh, and glad, and sparkling was the surrounding scene!
+					</div>
+					<div class="uAuthor">
+						"Henrietta Temple A Love Story" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						She'll nip the sparkles and the watch, and then, my covies, what will we do?
+					</div>
+					<div class="uAuthor">
+						"Cad Metti, The Female Detective Strategist" by <span>Harlan Page Halsey</span>					</div>
+										<div class="usage">
+						THEY seated themselves at a round table, on which everything seemed brilliant and sparkling; nothing heavy, nothing oppressive.
+					</div>
+					<div class="uAuthor">
+						"Tancred" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						He had visited all Courts, and sparkled in the most brilliant circles of the Continent.
+					</div>
+					<div class="uAuthor">
+						"The Young Duke" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						His eyes sparkled with affectionate expectation.
+					</div>
+					<div class="uAuthor">
+						"The Call of the Blood" by <span>Robert Smythe Hichens</span>					</div>
+										<div class="usage">
+						Reader, Mr. Sparkle; Mr. Sparkle, Mr.
+					</div>
+					<div class="uAuthor">
+						"Real Life In London, Volumes I. and II." by <span>Pierce Egan</span>					</div>
+										<div class="usage">
+						Bertha was already dressed, looking deliciously fresh and pink, and sparkling and fair as the sunshine.
+					</div>
+					<div class="uAuthor">
+						"Bird of Paradise" by <span>Ada Leverson</span>					</div>
+										<div class="usage">
+						He drank with long delight from a sparkling spring.
+					</div>
+					<div class="uAuthor">
+						"Mountain Blood" by <span>Joseph Hergesheimer</span>					</div>
+										<div class="usage">
+						Its brilliance was extreme, but it neither flashed nor sparkled.
+					</div>
+					<div class="uAuthor">
+						"The Quadroon" by <span>Mayne Reid</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							On me she turn'd her smiling eyes,<br>
+Which sparkl'd then with love and joy:<br>
+Be what I am, she sweetly cries,<br>
+And nothing shall your bliss destroy.
+							<div class="poet">"Written In The Hermitage At Braid" by <span>Rebekah Carmichael</span></div>
+						</div>
+											<div class="poemQuote">
+							Clear waters of a sparkling stream,<br>
+That fill my weary heart with mirth,<br>
+Came laughing lightly, as a dream,<br>
+Down from my breasts that gave them birth.
+							<div class="poet">"The King And The Mountain" by <span>R S Ward</span></div>
+						</div>
+											<div class="poemQuote">
+							Brighter waters sparkled never<br>
+In that magic well,<br>
+Of whose gift of life forever<br>
+Ancient legends tell,<br>
+In the lonely desert wasted,<br>
+And by mortal lip untasted.
+							<div class="poet">"The Fountain" by <span>John Greenleaf Whittier</span></div>
+						</div>
+											<div class="poemQuote">
+							"And here," I cry'd, "for ever will I stray;<br>
+"Here drink, unmix'd, the sparkling cup of Joy;<br>
+"Delight shall brighten ev'ry rising day,<br>
+"And not a care the peaceful night annoy."
+							<div class="poet">"To Imagination" by <span>Maria Logan</span></div>
+						</div>
+											<div class="poemQuote">
+							Thou rather shouldst be crowned with fadeless flowers,<br>
+Of lasting fragrance and celestial hue;<br>
+Or be thy couch amid funereal bowers,<br>
+But let the stars and sunlight sparkle through.
+							<div class="poet">"Hymn - Consecration of Magnolia Cemetery" by <span>Henry Timrod</span></div>
+						</div>
+											<div class="poemQuote">
+							So not a charm would Zion lose<br>
+Were it bereft of sparkling hues<br>
+In gilded lanes and leas;<br>
+It would be bright though not a flower<br>
+Unclosed in its celestial bower,<br>
+And void of jeweled trees.
+							<div class="poet">"Autumn-Time" by <span>Hattie Howard</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Sparkling Wine Cocktails You've Never Heard Of.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foodandwine.com/recipes/lush-cocktails-2005" target="_blank" rel="external nofollow">foodandwine.com</a>
+					</div>
+										<div class="usage">
+						New Year's Sparkling Wine Cocktails.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foodandwine.com/recipes/lush-cocktails-2005" target="_blank" rel="external nofollow">foodandwine.com</a>
+					</div>
+										<div class="usage">
+						Russian River Valley perfect for sparkling wines.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.annistonstar.com/pages/full_story/push?article-Jacksonville+schools+formalize+financial-+strategic+plans-%20&amp;id=20148445" target="_blank" rel="external nofollow">annistonstar.com</a>
+					</div>
+										<div class="usage">
+						Everything about Taylor Swift's performance sparkled at the 2012 iHeartRadio Music Festival.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.1410kiix.com/pages/tomtravis.html?article=10439292" target="_blank" rel="external nofollow">1410kiix.com</a>
+					</div>
+										<div class="usage">
+						In the strictest sense, Champagne refers only to sparkling wine made in the Champagne district of France, northeast of Paris.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1991/12/28/news/guidepost-categorizing-bubblies.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Plus, the sparkling, cold ( 500) Days of Summer.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nymag.com/movies/reviews/57875/" target="_blank" rel="external nofollow">nymag.com</a>
+					</div>
+										<div class="usage">
+						Sparkling with flavor and flair, handcrafted soda just might be the new adult beverage.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nashvillescene.com/nashville/sparkling-with-flavor-and-flair-handcrafted-soda-just-might-be-the-new-adult-beverage/Content?oid=2996663&amp;show=comments" target="_blank" rel="external nofollow">nashvillescene.com</a>
+					</div>
+										<div class="usage">
+						There were two sparkling blue and white planets in the life zone, twin planets, the slightly smaller one a bit nearer the sun.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.seattlepi.com/robertbrown/2012/06/06/a-venus-hypothesis/" target="_blank" rel="external nofollow">blog.seattlepi.com</a>
+					</div>
+										<div class="usage">
+						Avocado gelato paired with sparkling lime-cilantro sorbetto transcends guacamole influences.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.citypaper.net/blogs/mealticket/ice_cold_beer_at_capogiro_gelato.html" target="_blank" rel="external nofollow">citypaper.net</a>
+					</div>
+										<div class="usage">
+						Flock-of-birds theme carries design for sparkling water .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.packworld.com/package-design/graphic/flock-birds-theme-carries-design-sparkling-water" target="_blank" rel="external nofollow">packworld.com</a>
+					</div>
+										<div class="usage">
+						Great sparkling wine from an unexpected place.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.daily-chronicle.com/2012/11/16/uncorked-great-sparkling-wine-from-an-unexpected-place/av46bl3/" target="_blank" rel="external nofollow">daily-chronicle.com</a>
+					</div>
+										<div class="usage">
+						The finest sparkling wine in the country comes from the most unexpected location.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.daily-chronicle.com/2012/11/16/uncorked-great-sparkling-wine-from-an-unexpected-place/av46bl3/" target="_blank" rel="external nofollow">daily-chronicle.com</a>
+					</div>
+										<div class="usage">
+						Champagne – The queen of sparkling wine .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.annistonstar.com/view/full_story/20825943/article-Uncorked--Champagne-%E2%80%93-The-queen-of-sparkling-wine?instance=1st_left" target="_blank" rel="external nofollow">annistonstar.com</a>
+					</div>
+										<div class="usage">
+						 Sparkling Wine Cocktails You've Never Heard Of.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foodandwine.com/slideshows/beyond-the-mimosa-sparkling-wine-cocktails" target="_blank" rel="external nofollow">foodandwine.com</a>
+					</div>
+										<div class="usage">
+						 Sparkling Wine A New Year's Eve Tradition.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kniakrls.com/2011/12/sparkling-wine-a-new-years-eve-tradition/" target="_blank" rel="external nofollow">kniakrls.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Indeed, the global system with temperature and power range adapted can be designed with a leak less system including or not heat pipe termination in order to prevent front-end electronic from any water sparkling. 
+					</div>
+					<div class="uAuthor">
+						Next Generation CALICE Electromagnetic Calorimeter
+					</div>
+										<div class="usage">
+						Looking back over the past months, the wonderful and enjoyable experience to which the organizers and these spring days of April 2002 treated us has grown into a happy and vivid memory of the best science has to offer. I feel truely priviliged to have attended a sparkling forum and ‘symposion’. 
+					</div>
+					<div class="uAuthor">
+						Report to Anaximander: A Dialogue on the Origin of the Cosmos in the Cradle of Western Civilization
+					</div>
+										<div class="usage">
+						Ease of access of the restframe UV emission (redshifted into the optical bands) for high redshift galaxies [27, 39, 14, 4] has sparkled, over the past dozen of years or so, extensive investigations on its use and limitations as a SFR estimate [19, 36]. 
+					</div>
+					<div class="uAuthor">
+						Measuring Star Formation in Local and Distant Galaxies
+					</div>
+										<div class="usage">
+						This single contribution sparkled an enormous theoretical and experimental research interest in many areas of physics and interdisciplinary science, and many natural phenomena were claimed to exhibit SOC [3, 4, 5]. 
+					</div>
+					<div class="uAuthor">
+						Number theoretic example of scale-free topology inducing self-organized criticality
+					</div>
+										<div class="usage">
+						P.S. meets with Jurgen Stock at the IAU General Assembly in Prague, sparkling his interest in site-testing 1967-70 – Development of the double-beam instrument (DBI) and ﬁrst site-testing missions to Maidanak, Sanglok, AlmaAta and Crimea. 1970 – Dr.
+					</div>
+					<div class="uAuthor">
+						Peter Scheglov --- pioneer of site testing in the Central Asia
+					</div>
+										<div class="usage">
+						It is in fact a metrological application of light ﬁelds, namely the interferometric detection of gravitational waves, that ﬁrst sparkled the quest for the production of nonclassical, squeezed states [18, 22]. 
+					</div>
+					<div class="uAuthor">
+						Feedback control in quantum optics: an overview of experimental breakthroughs and areas of application
+					</div>
+										<div class="usage">
+						The observation that the universe is undergoing a phase of accelerated expansion has sparkled an intense activity directed to investigate the possible candidates to fuel the acceleration. 
+					</div>
+					<div class="uAuthor">
+						Cosmological Effects of Nonlinear Electrodynamics
+					</div>
+										<div class="usage">
+						Figure 4. A part of vacuum sparkle spectrum and a corresponding part of solar flare spectrum. [E.
+					</div>
+					<div class="uAuthor">
+						Method of Forming Stable States of Dense High-Temperfature Plasma
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="be lively or brilliant or exhibit virtuosity"><a href="scintillate.html">scintillate</a>, <a href="coruscate.html">coruscate</a>, </div><div class="synGroup" title="become bubbly or frothy or foaming"><a href="form%20bubbles.html">form bubbles</a>, </div><div class="synGroup" title="reflect brightly"><a href="scintillate.html">scintillate</a>, <a href="coruscate.html">coruscate</a>, </div><div class="synGroup" title="merriment expressed by a brightness or gleam or animation of countenance"><a href="twinkle.html">twinkle</a>, <a href="spark.html">spark</a>, <a href="light.html">light</a>, </div><div class="synGroup" title="the occurrence of a small flash or spark"><a href="coruscation.html">coruscation</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="aspect.html">aspect</a>, <a href="be.html">be</a>, <a href="brightness.html">brightness</a>, <a href="bubble.html">bubble</a>, <a href="emit.html">emit</a>, <a href="expression.html">expression</a>, <a href="face.html">face</a>, <a href="facial%20expression.html">facial expression</a>, <a href="flash.html">flash</a>, <a href="give%20off.html">give off</a>, <a href="give%20out.html">give out</a>, <a href="look.html">look</a>, <a href="reflect.html">reflect</a>, <a href="shine.html">shine</a>, <a href="verve.html">verve</a>, <a href="vitality.html">vitality</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="lather.html">lather</a>, <a href="seethe.html">seethe</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="foam.html">foam</a>, <a href="glitter.html">glitter</a>, <a href="glittery.html">glittery</a>, <a href="spark.html">spark</a>, <a href="sparkler.html">sparkler</a>, <a href="sparkling.html">sparkling</a>, <a href="sparkly.html">sparkly</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="aigret.html">aigret</a>, <a href="become%20flat.html">become flat</a>, <a href="blink.html">blink</a>, <a href="coruscate.html">coruscate</a>, <a href="die.html">die</a>, <a href="flanker.html">flanker</a>, <a href="flicker.html">flicker</a>, <a href="glare.html">glare</a>, <a href="glisten.html">glisten</a>, <a href="glister.html">glister</a>, <a href="glitter.html">glitter</a>, <a href="laugh.html">laugh</a>, <a href="pall.html">pall</a>, <a href="scintillate.html">scintillate</a>, <a href="shine.html">shine</a>, <a href="spark.html">spark</a>, <a href="Sparklet.html">Sparklet</a>, <a href="sprinkle.html">sprinkle</a>, <a href="stale.html">stale</a>, <a href="tinsel.html">tinsel</a>, <a href="twinkle.html">twinkle</a>, <a href="Twire.html">Twire</a>, <a href="wink.html">wink</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					aparkle, wparkle, dparkle, xparkle, zparkle, aparkle, soarkle, slarkle, spqrkle, spwrkle, spsrkle, spzrkle, spaekle, spadkle, spafkle, spatkle, sparjle, sparile, sparlle, sparmle, sparkke, sparkoe, sparkpe, sparklw, sparkls, sparkld, sparklr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

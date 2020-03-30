@@ -1,0 +1,562 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>attitude</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">attitude</span> <span class="exp">a theatrical pose created for effect</span> <span class="quot">"the actor struck just the right attitude"</span></li><li><span class="tSpeech">n</span> <span class="term">attitude</span> <span class="exp">the arrangement of the body and its limbs</span> <span class="quot">"he assumed an attitude of surrender"</span></li><li><span class="tSpeech">n</span> <span class="term">attitude</span> <span class="exp">a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways</span> <span class="quot">"he had the attitude that work was fun"</span></li><li><span class="tSpeech">n</span> <span class="term">attitude</span> <span class="exp">position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Oscar Wilde and his friends came up the with the word "dude." It came from the words "duds" and "attitude."									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Attitude</span> <span class="exp">Fig.: Position as indicating action, feeling, or mood; as, in times of trouble let a nation preserve a firm <span class="wUex">attitude</span>; one's mental <span class="wUex">attitude</span> in respect to religion.
+         </span> <span class="wuQuot">"The attitude of the country was rapidly changing."</span><span class="wuQuot">"'T is business of a painter in his choice of attitudes posituræ ) to foresee the effect and harmony of the lights and shadows."</span><span class="wuQuot">"Never to keep the body in the same posture half an hour at a time."</span></li><li><span class="term">Attitude</span> <span class="exp">The posture or position of a person or an animal, or the manner in which the parts of his body are disposed; position assumed or studied to serve a purpose; as, a threatening <span class="wUex">attitude</span>; an <span class="wUex">attitude</span> of entreaty.
+         </span> </li><li><span class="term">Attitude</span> <span class="exp"><span class="wuFld">(Paint. &amp; 
+)</span> The posture, action, or disposition of a figure or a statue.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">attitude</span> <span class="exp">Posture or position of the body, or the manner in which its parts are disposed; especially, a posture or position as indicating emotion, purpose, etc., or as appropriate to the performance of some act.</span> </li><li><span class="tSpeech">n</span> <span class="term">attitude</span> <span class="exp">Hence Any condition of things or relation of persons viewed as the expression of, or as affecting, feeling, opinion, intentions, etc.</span> </li><li><span class="tSpeech">n</span> <span class="term">attitude</span> <span class="exp">In geology, the particular position or relation which the land bears at any time to the ocean. The geologist's point of view is that the and either has emerged from the oceanic waters or is to be again buried by them, and therefore at any particular time assumes an attitude with relation to the ocean. The term is also applied to the position and structural relations of any bed or mass of rock to others.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Attitude</span> <span class="exp"><span class="itl">at′ti-tūd</span> posture, or position: gesture: any condition of things or relation of persons viewed as expressing some thought, feeling, &amp;c</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William John Bennett</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="William John Bennett">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There are no menial jobs, only menial attitudes.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Butterworth</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eric%20Butterworth.jpg" alt="Eric%20Butterworth">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Attitudes are the forerunners of conditions.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Zina Garrison</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Zina Garrison">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A positive attitude can really make dreams come true -- it did for me.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lou Holtz</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lou%20Holtz.jpg" alt="Lou%20Holtz">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Elbert Hubbard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Elbert%20Hubbard.jpg" alt="Elbert%20Hubbard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We awaken in others the same attitude of mind we hold toward them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Victor Hugo</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Victor%20Hugo.jpg" alt="Victor%20Hugo">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Certain thoughts are prayers. There are moments when, whatever be the attitude of the body, the soul is on its knees.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					It. <span class="wUets">attitudine</span>, LL. <span class="wUets">aptitudo</span>, fr. L. <span class="wUets">aptus</span>, suited, fitted: cf. F. <span class="wUets">attitude</span>,. Cf. <span class="wUer">Aptitude</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. or It. from L. <i>aptitudin-em</i>, <i>aptus</i>, fit.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						What was the attitude of Pitt towards these events?
+					</div>
+					<div class="uAuthor">
+						"William Pitt and the Great War" by <span>John Holland Rose</span>					</div>
+										<div class="usage">
+						Religion as Belief in a Disposition or Attitude 62 Sect.
+					</div>
+					<div class="uAuthor">
+						"The Approach to Philosophy" by <span>Ralph Barton Perry</span>					</div>
+										<div class="usage">
+						The community bow down and worship: that is the attitude of the congregation.
+					</div>
+					<div class="uAuthor">
+						"The Idea of God in Early Religions" by <span>F. B. Jevons</span>					</div>
+										<div class="usage">
+						Consequently, no special attitude is called for, other than an acute receptiveness.
+					</div>
+					<div class="uAuthor">
+						"The Armed Forces Officer" by <span>U. S. Department of Defense</span>					</div>
+										<div class="usage">
+						There was vengeance in his look, and determination in his attitude.
+					</div>
+					<div class="uAuthor">
+						"Popular Adventure Tales" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						His general attitude since she had met him scarcely suggested such, a lack of good taste.
+					</div>
+					<div class="uAuthor">
+						"Masters of the Wheat-Lands" by <span>Harold Bindloss</span>					</div>
+										<div class="usage">
+						Clyffurde maintains a detached impersonal attitude both to the Bonapartist and the royalist cause.
+					</div>
+					<div class="uAuthor">
+						"The Bronze Eagle" by <span>Emmuska Orczy, Baroness Orczy</span>					</div>
+										<div class="usage">
+						This desire of Tanqueray's for detachment was not so much an attitude as an instinct.
+					</div>
+					<div class="uAuthor">
+						"The Creators" by <span>May Sinclair</span>					</div>
+										<div class="usage">
+						On the opening night an incident occurred which showed Frohman's attitude toward new plays.
+					</div>
+					<div class="uAuthor">
+						"Charles Frohman: Manager and Man" by <span>Isaac Frederick Marcosson and Daniel Frohman</span>					</div>
+										<div class="usage">
+						They listened in strained attitudes with bated breath.
+					</div>
+					<div class="uAuthor">
+						"The Huntress" by <span>Hulbert Footner</span>					</div>
+										<div class="usage">
+						It will be interesting to see what attitude the English will now take.
+					</div>
+					<div class="uAuthor">
+						"New York Times Current History; The European War, Vol 2, No. 4, July, 1915" by <span>Various</span>					</div>
+										<div class="usage">
+						The attitude of the respective governments of France, Germany, and Russia was correct.
+					</div>
+					<div class="uAuthor">
+						"Lord Milner's Work in South Africa" by <span>W. Basil Worsfold</span>					</div>
+										<div class="usage">
+						He struck an attitude under the viperish glare of the lamp and smiled.
+					</div>
+					<div class="uAuthor">
+						"The Blue Germ" by <span>Martin Swayne</span>					</div>
+										<div class="usage">
+						Encouraged by England's attitude, the Sultan ignored Strogonov's requests.
+					</div>
+					<div class="uAuthor">
+						"A History of the Nineteenth Century, Year by Year" by <span>Edwin Emerson</span>					</div>
+										<div class="usage">
+						His attitude was threatening, but the anxious girl was able to delay the encounter.
+					</div>
+					<div class="uAuthor">
+						"The Wind Before the Dawn" by <span>Dell H. Munger</span>					</div>
+										<div class="usage">
+						His attitude is quite comprehensible.
+					</div>
+					<div class="uAuthor">
+						"The Wonder" by <span>J. D. Beresford</span>					</div>
+										<div class="usage">
+						She resumed her attitude on the hearthrug.
+					</div>
+					<div class="uAuthor">
+						"The Rough Road" by <span>William John Locke</span>					</div>
+										<div class="usage">
+						Man's defensive attitude toward the supernatural world appears in many usages connected with ordinary life.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the History of Religions" by <span>Crawford Howell Toy</span>					</div>
+										<div class="usage">
+						The young girl stands for some moments in the attitude she has assumed.
+					</div>
+					<div class="uAuthor">
+						"The Wild Huntress" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						Now the men were spread out in various attitudes of repose, and, for the most part, were half asleep.
+					</div>
+					<div class="uAuthor">
+						"The Law-Breakers" by <span>Ridgwell Cullum</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Amid so lovely shadows and serene places<br>
+dwell radiant beings in one calm attitude<br>
+immutable in wisdom and in graces…<br>
+but the sovereign boredom of beatitude<br>
+prevails on all their faces.<br>
+
+							<div class="poet">"Elysian Landscape" by <span>Clark Ashton Smith</span></div>
+						</div>
+											<div class="poemQuote">
+							For the great Idea, the idea of perfect and free individuals,<br>
+For that idea the bard walks in advance, leader of leaders,<br>
+The attitude of him cheers up slaves and horrifies foreign<br>
+despots. 
+							<div class="poet">"As I Sat Alone" by <span>Walt Whitman</span></div>
+						</div>
+											<div class="poemQuote">
+							A thought to lift me up to those<br>
+Sweet wildflowers of the pensive woods;<br>
+The lofty, lowly attitudes<br>
+Of bluet and of bramble-rose:<br>
+To lift me where my mind may reach<br>
+The lessons which their beauties teach.
+							<div class="poet">"Preludes" by <span>Madison Julius Cawein</span></div>
+						</div>
+											<div class="poemQuote">
+							And we say good-bye to you also,<br>
+For you seem never to have discovered<br>
+That your relationship is wholly parasitic;<br>
+Yet to our feasts you bring neither<br>
+Wit, nor good spirits, nor the pleasing attitudes<br>
+Of discipleship.
+							<div class="poet">"Amities" by <span>Ezra Pound</span></div>
+						</div>
+											<div class="poemQuote">
+							He poised himself grotesquely, in an attitude of mirth,<br>
+On a damask-covered hassock that was sitting on the hearth;<br>
+And at a magic signal of his stubby little thumb,<br>
+I saw the fireplace changing to a bright proscenium.
+							<div class="poet">"Das Krist Kindel" by <span>James Whitcomb Riley</span></div>
+						</div>
+											<div class="poemQuote">
+							Who covets fame should ne'er be over nice,<br>
+Some slight distortion pays the market price.<br>
+If haply lam'd by some propitious chance,<br>
+Instruct in attitude, or teach to dance;<br>
+Be still extravagant in deed, or word;<br>
+If new, enough, no matter how absurd.
+							<div class="poet">"Eccentricity" by <span>Washington Allston</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Bitterness is ultimately an attitude of extended and intense anger and hostility.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.publicopiniononline.com/living/ci_21952163/christian-counselor-by-michael-linn-let-go-bitterness?source=most_emailed" target="_blank" rel="external nofollow">publicopiniononline.com</a>
+					</div>
+										<div class="usage">
+						Laughter is proven to de-stress, improve attitude, and increase happiness.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.planetjh.com/general/A_105228.aspx" target="_blank" rel="external nofollow">planetjh.com</a>
+					</div>
+										<div class="usage">
+						I observe with concern the judgemental and condemning attitudes of those certain members who sit on the School Board at present.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.marshalltribune.com/story/1558660.html" target="_blank" rel="external nofollow">marshalltribune.com</a>
+					</div>
+										<div class="usage">
+						IN its quest to remain hip with America's youth, Levi Strauss &amp; Company is introducing a campaign infused with an unconventional, streetwise attitude for its Silver Tab line of clothing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1998/08/14/business/media-business-advertising-tbwa-chiat-day-brings-street-culture-campaign-for.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Effective selling is just a shift in attitude and perspective.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.windowsitpro.com/article/windows-client/liberate-your-inner-salesperson" target="_blank" rel="external nofollow">windowsitpro.com</a>
+					</div>
+										<div class="usage">
+						Normally cats just ignore everyone and walk around with a smug attitude, but not Buddy the cat.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lonestar1023.com/cat-saves-life-of-man-having-heart-attack/" target="_blank" rel="external nofollow">lonestar1023.com</a>
+					</div>
+										<div class="usage">
+						Is it too much to say that the history of 20th-century art can be read through its attitude toward toilets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2011/05/29/nyregion/edward-weston-life-work-at-the-heckscher-review.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						In "Mansome," the intrepid, self-revealing documentarian Morgan Spurlock turns his whimsical eye toward contemporary male attitudes about personal grooming.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.oregonlive.com/madaboutmovies/2012/05/mansome_review_a_lighthearted.html" target="_blank" rel="external nofollow">blog.oregonlive.com</a>
+					</div>
+										<div class="usage">
+						Dave's whole family seems to share his joyful attitude – including pets.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.herald-journal.com/archives/2009/stories/a-z-dave-cadeHJ.html" target="_blank" rel="external nofollow">herald-journal.com</a>
+					</div>
+										<div class="usage">
+						There is an attitude needed to play cornerback in the NFL.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nydailynews.com/sports/football/giants/ny-giants-prince-amukamara-assert-article-1.1142398" target="_blank" rel="external nofollow">nydailynews.com</a>
+					</div>
+										<div class="usage">
+						Updated Saturday, Sep 8, 2012, at 11:11 p.m. Derby teenager keeps attitude positive while recovering from accident.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kansas.com/2012/08/27/2464139/derby-high-graduate-colby-liston.html" target="_blank" rel="external nofollow">kansas.com</a>
+					</div>
+										<div class="usage">
+						Those who haven't read it for a while approach it again nervously, as if afraid of what they will learn about their old attitudes or their old selves.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nybooks.com/articles/archives/1998/mar/26/revisiting-lolita/" target="_blank" rel="external nofollow">nybooks.com</a>
+					</div>
+										<div class="usage">
+						The cockeyed witticism, from a jocular self-interview that the teenage Lorenz Hart published in a high school periodical, shows that his signature attitude toward life was already firmly in place, years before h...
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/2012-07-18/theater/a-ship-without-a-sail-the-life-of-lorenz-hart-looks-at-the-woeful-triumphant-career-of-the-great-lyricist/" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						"Mornin' General," my mostly African-American co-workers would say as I'd drag myself through the doors of Bagel World in Queens, New York, at 5:30 am The nickname had nothing to do with any military bearing or bulldog attitude on my part.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.miaminewtimes.com/2002-10-17/dining/lox-stock-bagel/" target="_blank" rel="external nofollow">miaminewtimes.com</a>
+					</div>
+										<div class="usage">
+						When a rage for authenticity meets a passionate fakery meets a workingman's attitude, you get this guy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.esquire.com/features/christian-bale-interview-1210-3" target="_blank" rel="external nofollow">esquire.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The spins are interpreted as market participants’ attitude. 
+					</div>
+					<div class="uAuthor">
+						A simple model of price formation
+					</div>
+										<div class="usage">
+						Einstein ob jected to the “mysterious action at a distance”, which quantum theory seemed to entail, but Bohr defended “the necessity of a ﬁnal renunciation of the classical ideal of causality and a radical revision of our attitude towards the problem of physical reality”. 
+					</div>
+					<div class="uAuthor">
+						Quantum theory and the role of mind in nature
+					</div>
+										<div class="usage">
+						We took a pragmatic attitude and settled for pseudo random numbers. 
+					</div>
+					<div class="uAuthor">
+						An Introduction to Monte Carlo Simulation of Statistical physics Problem
+					</div>
+										<div class="usage">
+						We shall however take a practical attitude, and consider numbers generated by a deterministic algorithm. 
+					</div>
+					<div class="uAuthor">
+						Monte Carlo: Basics
+					</div>
+										<div class="usage">
+						This is justiﬁed by our every-day experience that it is easier to change a person than his/her attitude. 
+					</div>
+					<div class="uAuthor">
+						Why everything gets slower ?
+					</div>
+										<div class="usage">
+						However, as already mentioned there has been another mistake more that has had probably a yet more important impact in inﬂuencing the attitude of physical community towards the belief in EPR paradoxes, which will be discussed in the next section. 
+					</div>
+					<div class="uAuthor">
+						Quantum mechanics and EPR paradox
+					</div>
+										<div class="usage">
+						The predominant agent model attributes human-like attitudes to agents. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						Ehhf does not provide language constructs for representing desires, intentions and other mental attitudes, but it may be adopted to model a BDI architecture (Bozzano et al. 1999b). 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						The framework KARO (Knowledge,Abilities,ResultsandOpportunities(van Linder et al. 1995)) formalizes motivational attitudes situated at two different levels. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						The main informational attitude of the KARO framework is knowledge. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						Starting from these basic attitudes, preferences, goals and commitments can be modeled. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						Formalising motivational attitudes of agents: On preferences, goals and commitments. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						The difference between quantum ﬁelds and random ﬁelds can be taken to be only a different attitude to idealized measurements; actual measurements can be described in terms of either. 
+					</div>
+					<div class="uAuthor">
+						Bell inequalities for random fields
+					</div>
+										<div class="usage">
+						Vibration Control During observation, vibration from the reaction wheel assemblies (RWAs) affects the observatory in two ways – disturbing the pointing line-of-sight (attitude control), and causing optical component rigid-body movement and element deformation. 
+					</div>
+					<div class="uAuthor">
+						Coronographic Methods for the Detection of Terrestrial Planets
+					</div>
+										<div class="usage">
+						TEC Integrated Models Including Structures, Optics, and Controls • Ball coronograph concept study , : Full integrated model including reaction wheel disturbances, structure dynamics, optical distortions and displacements, Fraunhofer model of coronograph performance, with attitude and pointing controls. 
+					</div>
+					<div class="uAuthor">
+						Coronographic Methods for the Detection of Terrestrial Planets
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways"><a href="mental%20attitude.html">mental attitude</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="affectation.html">affectation</a>, <a href="affectedness.html">affectedness</a>, <a href="bodily%20property.html">bodily property</a>, <a href="cognition.html">cognition</a>, <a href="knowledge.html">knowledge</a>, <a href="mannerism.html">mannerism</a>, <a href="noesis.html">noesis</a>, <a href="orientation.html">orientation</a>, <a href="pose.html">pose</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="acceptance.html">acceptance</a>, <a href="asana.html">asana</a>, <a href="ballet%20position.html">ballet position</a>, <a href="credence.html">credence</a>, <a href="culture.html">culture</a>, <a href="decubitus.html">decubitus</a>, <a href="defensive.html">defensive</a>, <a href="defensive%20attitude.html">defensive attitude</a>, <a href="disposition.html">disposition</a>, <a href="disrespect.html">disrespect</a>, <a href="ectopia.html">ectopia</a>, <a href="esteem.html">esteem</a>, <a href="eversion.html">eversion</a>, <a href="guard.html">guard</a>, <a href="hardball.html">hardball</a>, <a href="high%20horse.html">high horse</a>, <a href="inclination.html">inclination</a>, <a href="intolerance.html">intolerance</a>, <a href="irreverence.html">irreverence</a>, <a href="lithotomy%20position.html">lithotomy position</a>, <a href="lotus%20position.html">lotus position</a>, <a href="mentality.html">mentality</a>, <a href="mind-set.html">mind-set</a>, <a href="mindset.html">mindset</a>, <a href="missionary%20position.html">missionary position</a>, <a href="order%20arms.html">order arms</a>, <a href="orientation.html">orientation</a>, <a href="outlook.html">outlook</a>, <a href="paternalism.html">paternalism</a>, <a href="pose.html">pose</a>, <a href="position.html">position</a>, <a href="posture.html">posture</a>, <a href="presentation.html">presentation</a>, <a href="regard.html">regard</a>, <a href="respect.html">respect</a>, <a href="reverence.html">reverence</a>, <a href="southernism.html">southernism</a>, <a href="sprawl.html">sprawl</a>, <a href="sprawling.html">sprawling</a>, <a href="stance.html">stance</a>, <a href="tendency.html">tendency</a>, <a href="tolerance.html">tolerance</a>, <a href="trim.html">trim</a>, <a href="tuck.html">tuck</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="attitudinise.html">attitudinise</a>, <a href="attitudinize.html">attitudinize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="about-face.html">about-face</a>, <a href="acceptance.html">acceptance</a>, <a href="actinal.html">actinal</a>, <a href="action.html">action</a>, <a href="ad.html">ad</a>, <a href="agape.html">agape</a>, <a href="agaze.html">agaze</a>, <a href="Aheap.html">Aheap</a>, <a href="air.html">air</a>, <a href="alert.html">alert</a>, <a href="alternate.html">alternate</a>, <a href="anaclisis.html">anaclisis</a>, <a href="arch.html">arch</a>, <a href="ask%20for%20it.html">ask for it</a>, <a href="ask%20for%20trouble.html">ask for trouble</a>, <a href="At%20gaze.html">At gaze</a>, <a href="attest.html">attest</a>, <a href="attitudinal.html">attitudinal</a>, <a href="attitudinize.html">attitudinize</a>, <a href="avatar.html">avatar</a>, <a href="bay.html">bay</a>, <a href="Be%20on%20one%27s%20high%20horse.html">Be on one's high horse</a>, <a href="behavior.html">behavior</a>, <a href="belligerence.html">belligerence</a>, <a href="belligerency.html">belligerency</a>, <a href="bow.html">bow</a>, <a href="breakaway.html">breakaway</a>, <a href="brisk.html">brisk</a>, <a href="brotherly%20love.html">brotherly love</a>, <a href="calf.html">calf</a>, <a href="candidly.html">candidly</a>, <a href="candidness.html">candidness</a>, <a href="candor.html">candor</a>, <a href="candour.html">candour</a>, <a href="certify.html">certify</a>, <a href="Change%20one%27s%20tune.html">Change one's tune</a>, <a href="charity.html">charity</a>, <a href="committed.html">committed</a>, <a href="complexion.html">complexion</a>, <a href="condescending.html">condescending</a>, <a href="Constructional.html">Constructional</a>, <a href="contagion.html">contagion</a>, <a href="contortion.html">contortion</a>, <a href="contrast.html">contrast</a>, <a href="council.html">council</a>, <a href="Courant.html">Courant</a>, <a href="credence.html">credence</a>, <a href="crotchet.html">crotchet</a>, <a href="decubitus.html">decubitus</a>, <a href="defendant.html">defendant</a>, <a href="defensive.html">defensive</a>, <a href="defensive%20attitude.html">defensive attitude</a>, <a href="defiance.html">defiance</a>, <a href="Demi.html">Demi</a>, <a href="demonstrate.html">demonstrate</a>, <a href="demonstration.html">demonstration</a>, <a href="devout.html">devout</a>, <a href="dictate.html">dictate</a>, <a href="dignity.html">dignity</a>, <a href="directness.html">directness</a>, <a href="discriminatory.html">discriminatory</a>, <a href="dislike.html">dislike</a>, <a href="dispose.html">dispose</a>, <a href="disposition.html">disposition</a>, <a href="disrespect.html">disrespect</a>, <a href="Doryphoros.html">Doryphoros</a>, <a href="Down.html">Down</a>, <a href="easygoing.html">easygoing</a>, <a href="ecstasy.html">ecstasy</a>, <a href="elitism.html">elitism</a>, <a href="esteem.html">esteem</a>, <a href="evidence.html">evidence</a>, <a href="exasperated.html">exasperated</a>, <a href="expression.html">expression</a>, <a href="fatalism.html">fatalism</a>, <a href="feel.html">feel</a>, <a href="fissiparous.html">fissiparous</a>, <a href="flip.html">flip</a>, <a href="flip-flop.html">flip-flop</a>, <a href="forthrightness.html">forthrightness</a>, <a href="frankly.html">frankly</a>, <a href="frankness.html">frankness</a>, <a href="frivolous.html">frivolous</a>, <a href="front.html">front</a>, <a href="fuddy-duddy.html">fuddy-duddy</a>, <a href="grouch.html">grouch</a>, <a href="grudging.html">grudging</a>, <a href="grumble.html">grumble</a>, <a href="guard.html">guard</a>, <a href="habit.html">habit</a>, <a href="habitude.html">habitude</a>, <a href="hang.html">hang</a>, <a href="hard.html">hard</a>, <a href="hardball.html">hardball</a>, <a href="high%20horse.html">high horse</a>, <a href="honestly.html">honestly</a>, <a href="impendence.html">impendence</a>, <a href="inclination.html">inclination</a>, <a href="incline.html">incline</a>, <a href="indifferent.html">indifferent</a>, <a href="Indifferentist.html">Indifferentist</a>, <a href="infection.html">infection</a>, <a href="infinitive.html">infinitive</a>, <a href="initiative.html">initiative</a>, <a href="inoculate.html">inoculate</a>, <a href="interchange.html">interchange</a>, <a href="irreverence.html">irreverence</a>, <a href="lay%20figure.html">lay figure</a>, <a href="list.html">list</a>, <a href="listless.html">listless</a>, <a href="loll.html">loll</a>, <a href="lounge.html">lounge</a>, <a href="macrobiotics.html">macrobiotics</a>, <a href="maintain.html">maintain</a>, <a href="manifest.html">manifest</a>, <a href="mantis.html">mantis</a>, <a href="mentality.html">mentality</a>, <a href="mind-set.html">mind-set</a>, <a href="mindset.html">mindset</a>, <a href="moderatism.html">moderatism</a>, <a href="morbid.html">morbid</a>, <a href="motion.html">motion</a>, <a href="mounting.html">mounting</a>, <a href="naiant.html">naiant</a>, <a href="nakedness.html">nakedness</a>, <a href="naysayer.html">naysayer</a>, <a href="negative.html">negative</a>, <a href="neutrality.html">neutrality</a>, <a href="New%20Thought.html">New Thought</a>, <a href="nicety.html">nicety</a>, <a href="nuance.html">nuance</a>, <a href="oddity.html">oddity</a>, <a href="offensive.html">offensive</a>, <a href="openness.html">openness</a>, <a href="Orang-utan.html">Orang-utan</a>, <a href="Orant.html">Orant</a>, <a href="outlook.html">outlook</a>, <a href="paternalism.html">paternalism</a>, <a href="patronising.html">patronising</a>, <a href="patronizing.html">patronizing</a>, <a href="pelican.html">pelican</a>, <a href="pelvis.html">pelvis</a>, <a href="perverse.html">perverse</a>, <a href="philosophic.html">philosophic</a>, <a href="philosophical.html">philosophical</a>, <a href="picturesque.html">picturesque</a>, <a href="point.html">point</a>, <a href="policy%20change.html">policy change</a>, <a href="Polyhymnia.html">Polyhymnia</a>, <a href="pose.html">pose</a>, <a href="poseur.html">poseur</a>, <a href="position.html">position</a>, <a href="posture.html">posture</a>, <a href="pragmatism.html">pragmatism</a>, <a href="prejudiced.html">prejudiced</a>, <a href="profaneness.html">profaneness</a>, <a href="Promachos.html">Promachos</a>, <a href="propitiation.html">propitiation</a>, <a href="Pygopodes.html">Pygopodes</a>, <a href="queerness.html">queerness</a>, <a href="quirk.html">quirk</a>, <a href="quirkiness.html">quirkiness</a>, <a href="rattlesnake.html">rattlesnake</a>, <a href="reaction.html">reaction</a>, <a href="Rebel.html">Rebel</a>, <a href="rebelliousness.html">rebelliousness</a>, <a href="refinement.html">refinement</a>, <a href="regard.html">regard</a>, <a href="relation.html">relation</a>, <a href="religious%20orientation.html">religious orientation</a>, <a href="repentance.html">repentance</a>, <a href="repose.html">repose</a>, <a href="respect.html">respect</a>, <a href="reverence.html">reverence</a>, <a href="reverent.html">reverent</a>, <a href="reversal.html">reversal</a>, <a href="rounding.html">rounding</a>, <a href="Rousant.html">Rousant</a>, <a href="salute.html">salute</a>, <a href="scold.html">scold</a>, <a href="Sejant.html">Sejant</a>, <a href="sentimentalism.html">sentimentalism</a>, <a href="separatist.html">separatist</a>, <a href="servile.html">servile</a>, <a href="set.html">set</a>, <a href="sexist.html">sexist</a>, <a href="shade.html">shade</a>, <a href="siege.html">siege</a>, <a href="sigmoid.html">sigmoid</a>, <a href="Sing%20another%20song.html">Sing another song</a>, <a href="Sing%20another%20tune.html">Sing another tune</a>, <a href="sit.html">sit</a>, <a href="site.html">site</a>, <a href="slouch.html">slouch</a>, <a href="Socratic.html">Socratic</a>, <a href="southernism.html">southernism</a>, <a href="spar.html">spar</a>, <a href="spoiler.html">spoiler</a>, <a href="Sprangle.html">Sprangle</a>, <a href="sprawl.html">sprawl</a>, <a href="spread-eagle.html">spread-eagle</a>, <a href="square.html">square</a>, <a href="stance.html">stance</a>, <a href="stand.html">stand</a>, <a href="standing.html">standing</a>, <a href="station.html">station</a>, <a href="statuesque.html">statuesque</a>, <a href="subtlety.html">subtlety</a>, <a href="suggestion.html">suggestion</a>, <a href="superstition.html">superstition</a>, <a href="swim.html">swim</a>, <a href="switch.html">switch</a>, <a href="tack.html">tack</a>, <a href="Teach.html">Teach</a>, <a href="tendency.html">tendency</a>, <a href="tiff.html">tiff</a>, <a href="To%20address%20the%20ball.html">To address the ball</a>, <a href="to%20get%20one%27s%20back%20up.html">to get one's back up</a>, <a href="To%20stand%20at%20ease.html">To stand at ease</a>, <a href="To%20strike%20a%20balance.html">To strike a balance</a>, <a href="To%20strike%20an%20attitude.html">To strike an attitude</a>, <a href="trim.html">trim</a>, <a href="unbecoming.html">unbecoming</a>, <a href="unreconstructed.html">unreconstructed</a>, <a href="Urinant.html">Urinant</a>, <a href="vary.html">vary</a>, <a href="Venus.html">Venus</a>, <a href="Voltairianism.html">Voltairianism</a>, <a href="volte-face.html">volte-face</a>, <a href="wear.html">wear</a>, <a href="wit.html">wit</a>, <a href="wrong.html">wrong</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					qttitude, wttitude, sttitude, zttitude, artitude, aftitude, agtitude, aytitude, atritude, atfitude, atgitude, atyitude, attutude, attjtude, attktude, attotude, attirude, attifude, attigude, attiyude, attityde, attithde, attitjde, attitide, attituse, attituee, attitufe, attituce, attituxe, attituse, attitudw, attituds, attitudd, attitudr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

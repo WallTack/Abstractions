@@ -1,0 +1,399 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>tumult</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">tumult</span> <span class="exp">the act of making a noisy disturbance</span> </li><li><span class="tSpeech">n</span> <span class="term">tumult</span> <span class="exp">violent agitation</span> </li><li><span class="tSpeech">n</span> <span class="term">tumult</span> <span class="exp">a state of commotion and noise and confusion</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Tumult</span> <span class="exp">Irregular or confused motion; agitation; high excitement; as, the <span class="wUex">tumult</span> of the spirits or passions.</span> </li><li><span class="term">Tumult</span> <span class="exp">The commotion or agitation of a multitude, usually accompanied with great noise, uproar, and confusion of voices; hurly-burly; noisy confusion.</span> <span class="wuQuot">"What meaneth the noise of this tumult ?"</span><span class="wuQuot">"Till in loud tumult all the Greeks arose."</span></li><li><span class="tSpeech">v. i</span> <span class="term">Tumult</span> <span class="exp">To make a tumult; to be in great commotion.</span> <span class="wuQuot">"Importuning and tumulting even to the fear of a revolt."</span></li><li><span class="term">Tumult</span> <span class="exp">Violent commotion or agitation, with confusion of sounds; as, the <span class="wUex">tumult</span> of the elements.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">tumult</span> <span class="exp">The commotion, disturbance, or agitation of a multitude, usually accompanied with great noise, uproar, and confused talking; an uproar; hence, a noisy uprising, as of a mob.</span> </li><li><span class="tSpeech">n</span> <span class="term">tumult</span> <span class="exp">Violent commotion or agitation, with confusion of sounds.</span> </li><li><span class="tSpeech">n</span> <span class="term">tumult</span> <span class="exp">Agitation; high excitement; irregular or confused motion.</span> </li><li><span class="tSpeech">n</span> <span class="term">tumult</span> <span class="exp">Synonyms Disturbance, turbulence, confusion, hubbub, ferment, outbreak, mêlée.</span> </li><li><span class="term">tumult</span> <span class="exp">To make a tumult; be in great commotion.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Tumult</span> <span class="exp"><span class="itl">tū′mult</span> uproar of a multitude: violent agitation with confused sounds: high excitement</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Lord Byron</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Lord%20Byron.jpg" alt="Lord%20Byron">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“And yet a little tumult, now and then, is an agreeable quickener of sensation; such as a revolution, a battle, or an adventure of any lively description.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Georges Bataille</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Georges%20Bataille.jpg" alt="Georges%20Bataille">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Life has always taken place in a tumult without apparent cohesion, but it only finds its grandeur and its reality in ecstasy and in ecstatic love.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles De Gaulle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Charles%20De%20Gaulle.jpg" alt="Charles%20De%20Gaulle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“In the tumult of men and events, solitude was my temptation; now it is my friend. What other satisfaction can be sought once you have confronted History?”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">tumultus</span>,; probably akin to Skr. <span class="wUets">tumula</span>, noise, noisy, and perhaps to L. <span class="wUets">tumere</span>, to swell, E. <span class="wUets">tumid</span>,: cf. F. <span class="wUets">tumulte</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>tumultus</i>—<i>tumēre</i>, to swell.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Left alone, Armida calls on her demons to destroy the palace, and the opera ends in wild confusion and tumult.
+					</div>
+					<div class="uAuthor">
+						"The Opera" by <span>R.A. Streatfeild</span>					</div>
+										<div class="usage">
+						Coriola'nus alone, in the midst of the tumult, seemed an unconcerned spectator.
+					</div>
+					<div class="uAuthor">
+						"Pinnock's Improved Edition of Dr. Goldsmith's History of Rome" by <span>Oliver Goldsmith</span>					</div>
+										<div class="usage">
+						So saying, she tumult raised in Helen's mind.
+					</div>
+					<div class="uAuthor">
+						"The Iliad of Homer" by <span>Homer</span>					</div>
+										<div class="usage">
+						A tumult in the capital soon taught Hubert that he had other foes to fight against besides the feudal party.
+					</div>
+					<div class="uAuthor">
+						"The History of England" by <span>T.F. Tout</span>					</div>
+										<div class="usage">
+						As for Stotzas, he succeeded in this tumult in escaping with a few men.
+					</div>
+					<div class="uAuthor">
+						"History of the Wars, Books III and IV (of 8)" by <span>Procopius</span>					</div>
+										<div class="usage">
+						Leave the bustle and tumult of society to those who have not talents to occupy themselves without them.
+					</div>
+					<div class="uAuthor">
+						"Memoir, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson" by <span>Thomas Jefferson</span>					</div>
+										<div class="usage">
+						Can this vain tumult of applause satisfy a heart like thine?
+					</div>
+					<div class="uAuthor">
+						"Corinne, Volume 1 (of 2)" by <span>Mme de Stael</span>					</div>
+										<div class="usage">
+						Wide o'er the realm the growing tumults swell, And ask immediate force their rage to quell.
+					</div>
+					<div class="uAuthor">
+						"Gustavus Vasa" by <span>W. S. Walker</span>					</div>
+										<div class="usage">
+						In the silence there was something terrifying about the tumult of those swift, oncoming feet.
+					</div>
+					<div class="uAuthor">
+						"Boy Woodburn" by <span>Alfred Ollivant</span>					</div>
+										<div class="usage">
+						If this massacre did not occur in a dumb world we should hear all the horrible tumult of the slaughter-houses of Chicago.
+					</div>
+					<div class="uAuthor">
+						"Social Life in the Insect World" by <span>J. H. Fabre</span>					</div>
+										<div class="usage">
+						Forward, then, To die and mingle in the tumult's blare.
+					</div>
+					<div class="uAuthor">
+						"The Aeneid of Virgil" by <span>Virgil</span>					</div>
+										<div class="usage">
+						All within me was tumult and terror, and I rushed precipitately out of the house.
+					</div>
+					<div class="uAuthor">
+						"Arthur Mervyn" by <span>Charles Brockden Brown</span>					</div>
+										<div class="usage">
+						So the roan fought on, till tumult rose within the cars.
+					</div>
+					<div class="uAuthor">
+						"Winner Take All" by <span>Larry Evans</span>					</div>
+										<div class="usage">
+						Mary Lincoln heard the growing tumult, and looked up at her father alarmed.
+					</div>
+					<div class="uAuthor">
+						"The King's Men" by <span>Robert Grant, John Boyle O'Reilly, J. S. Dale, and John T. Wheelwright</span>					</div>
+										<div class="usage">
+						Tumult and coldness make uncongenial neighbors.
+					</div>
+					<div class="uAuthor">
+						"The Emigrant Trail" by <span>Geraldine Bonner</span>					</div>
+										<div class="usage">
+						Immediately from every quarter of that ancient city uprose a tumult as of hell.
+					</div>
+					<div class="uAuthor">
+						"The Great Events by Famous Historians, Vol. 1-20" by <span>Various</span>					</div>
+										<div class="usage">
+						One day Owain heard a great tumult, and a sound of arms in the Castle, and he enquired of the maiden the cause thereof.
+					</div>
+					<div class="uAuthor">
+						"The Mabinogion Vol. 1 (of 3)"					</div>
+										<div class="usage">
+						The tumult and obscurity were such that Napoleon did not witness the casualty.
+					</div>
+					<div class="uAuthor">
+						"Hortense, Makers of History Series" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						It was thou, Caius Nepos, who checked the tumult then.
+					</div>
+					<div class="uAuthor">
+						""Unto Caesar"" by <span>Baroness Emmuska Orczy</span>					</div>
+										<div class="usage">
+						It stamped upon the throbbing sea and made tumult in water and air.
+					</div>
+					<div class="uAuthor">
+						"Blow The Man Down" by <span>Holman Day</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							Thou to Earth art still a stranger,<br>
+To Life's tumult and unrest;<br>
+Angel visitants alone<br>
+Stir the fountains in thy breast.
+							<div class="poet">"Lines To D. G. T., Of Sherwood" by <span>Mary Gardiner Horsford  </span></div>
+						</div>
+											<div class="poemQuote">
+							Virocon—Virocon—<br>
+Still the ancient name rings on<br>
+And brings, in the untrampled wheat,<br>
+The tumult of a thousand feet.
+							<div class="poet">"Viroconium" by <span>Mary Webb</span></div>
+						</div>
+											<div class="poemQuote">
+							And high from our plunging bowsprit<br>
+Dashes the cold white spray,<br>
+And storm and tumult fill the air<br>
+And trouble the summer day.
+							<div class="poet">"Thora" by <span>Celia Laighton Thaxter</span></div>
+						</div>
+											<div class="poemQuote">
+							There the golden noon would find us<br>
+Dallying through the summer day,<br>
+All the waery world behind us -<br>
+All it's tumult far away.
+							<div class="poet">"At The River Crossing" by <span>Harry Breaker Morant</span></div>
+						</div>
+											<div class="poemQuote">
+							When storms arise, and tumults jar,<br>
+And wreck this mortal form,<br>
+There is a bright, a lovely star,<br>
+That shines above the storm.
+							<div class="poet">"Hope" by <span>James McCauley</span></div>
+						</div>
+											<div class="poemQuote">
+							Yes! Jesus rose—and while the wreck<br>
+Of nature leaves that thought to bless,<br>
+The sigh of bursting grief I'll check,<br>
+And still the tumult of distress:—<br>
+For Jesus rose—and I shall rise,<br>
+Tho' this poor crumbling body dies.
+							<div class="poet">"Winter: Friday Evening" by <span>John Bowring</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						A Chinese Leader Returns Amid Tumult .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/09/16/world/asia/xi-jinping-returns-amid-tumult-in-china.html?emc=rss&amp;" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						 Tumult and Transition in "Little America".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.smithsonianmag.com/history-archaeology/tumult.html" target="_blank" rel="external nofollow">smithsonianmag.com</a>
+					</div>
+										<div class="usage">
+						Middle East tumult "hardly" a bump in the road.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cbsnews.com/8301-503544_162-57519164-503544/romney-middle-east-tumult-hardly-a-bump-in-the-road/" target="_blank" rel="external nofollow">cbsnews.com</a>
+					</div>
+										<div class="usage">
+						The Tumult &amp; The Shouting.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.americanheritage.com/content/tumult-shouting" target="_blank" rel="external nofollow">americanheritage.com</a>
+					</div>
+										<div class="usage">
+						From tumult of London riots, a father's voice emerges.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/World/Europe/2011/0815/From-tumult-of-London-riots-a-father-s-voice-emerges" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						A timeline of UVA in tumult .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.readthehook.com/104355/ouster-aftermath-timeline-uva-tumult" target="_blank" rel="external nofollow">readthehook.com</a>
+					</div>
+										<div class="usage">
+						Oil Surges 3% on Mideast Tumult , Budget Hopes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxbusiness.com/industries/2012/11/19/oil-surges-3-on-mideast-tumult-budget-hopes/" target="_blank" rel="external nofollow">foxbusiness.com</a>
+					</div>
+										<div class="usage">
+						Vonn finds winning form despite tumult off slopes.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.standard.net/stories/2011/12/09/vonn-finds-winning-form-despite-tumult-slopes" target="_blank" rel="external nofollow">standard.net</a>
+					</div>
+										<div class="usage">
+						Still No End To Killings In Syria, Tumult In Libya.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wamc.org/post/still-no-end-killings-syria-tumult-libya" target="_blank" rel="external nofollow">wamc.org</a>
+					</div>
+										<div class="usage">
+						Schneider Corp CEO's caring ways help firm survive tumult .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ibj.com/schneider-corp--ceo-s-caring-ways-help-firm-survive-tumult/PARAMS/article/34870" target="_blank" rel="external nofollow">ibj.com</a>
+					</div>
+										<div class="usage">
+						National, local gas prices fall despite storm tumult .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.post-gazette.com/stories/business/news/business-news-briefs-national-local-gas-prices-fall-despite-storm-tumult-660838/" target="_blank" rel="external nofollow">post-gazette.com</a>
+					</div>
+										<div class="usage">
+						Blair, Gross, Other Experts Weigh in on Euro Tumult and Anti-Wall Street Protests.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.researchmag.com/2011/11/23/blair-gross-other-experts-weigh-in-on-euro-tumult" target="_blank" rel="external nofollow">researchmag.com</a>
+					</div>
+										<div class="usage">
+						Days of tumult preceded death.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lubbockonline.com/crime-and-courts/crime/2012-06-20/days-tumult-preceded-death" target="_blank" rel="external nofollow">lubbockonline.com</a>
+					</div>
+										<div class="usage">
+						Baltimore Ravens enduring plenty of tumult in 2012 season: Dennis Manoloff's Scouting Report.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cleveland.com/browns/index.ssf/2012/10/baltimore_ravens_enduring_plen.html" target="_blank" rel="external nofollow">cleveland.com</a>
+					</div>
+										<div class="usage">
+						JPMorgan tumult could be a sign of things to come.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dailyranger.com/story.php?story_id=1666&amp;headline=JPMorgan-tumult-could-be-a-sign-of-things-to-come" target="_blank" rel="external nofollow">dailyranger.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="violent agitation"><a href="turmoil.html">turmoil</a>, </div><div class="synGroup" title="a state of commotion and noise and confusion"><a href="tumultuousness.html">tumultuousness</a>, <a href="uproar.html">uproar</a>, <a href="garboil.html">garboil</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="agitation.html">agitation</a>, <a href="commotion.html">commotion</a>, <a href="disruption.html">disruption</a>, <a href="disturbance.html">disturbance</a>, <a href="flutter.html">flutter</a>, <a href="hoo-ha.html">hoo-ha</a>, <a href="hoo-hah.html">hoo-hah</a>, <a href="hurly%20burly.html">hurly burly</a>, <a href="kerfuffle.html">kerfuffle</a>, <a href="to-do.html">to-do</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ado.html">ado</a>, <a href="bustle.html">bustle</a>, <a href="combustion.html">combustion</a>, <a href="flurry.html">flurry</a>, <a href="fuss.html">fuss</a>, <a href="hustle.html">hustle</a>, <a href="stir.html">stir</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="tumultuous.html">tumultuous</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="affray.html">affray</a>, <a href="agitate.html">agitate</a>, <a href="alarm.html">alarm</a>, <a href="allay.html">allay</a>, <a href="appease.html">appease</a>, <a href="assuage.html">assuage</a>, <a href="Bestorm.html">Bestorm</a>, <a href="Bobbery.html">Bobbery</a>, <a href="Brattling.html">Brattling</a>, <a href="brawl.html">brawl</a>, <a href="broil.html">broil</a>, <a href="bustle.html">bustle</a>, <a href="calmly.html">calmly</a>, <a href="charivari.html">charivari</a>, <a href="coil.html">coil</a>, <a href="combustion.html">combustion</a>, <a href="commotion.html">commotion</a>, <a href="confusion.html">confusion</a>, <a href="convulsion.html">convulsion</a>, <a href="Corroboree.html">Corroboree</a>, <a href="crash.html">crash</a>, <a href="cry.html">cry</a>, <a href="deafen.html">deafen</a>, <a href="Deray.html">Deray</a>, <a href="Dirdum.html">Dirdum</a>, <a href="disorder.html">disorder</a>, <a href="disruption.html">disruption</a>, <a href="distemper.html">distemper</a>, <a href="distraction.html">distraction</a>, <a href="disturbance.html">disturbance</a>, <a href="disturber.html">disturber</a>, <a href="do.html">do</a>, <a href="%C3%89meute.html">Émeute</a>, <a href="faction.html">faction</a>, <a href="fare.html">fare</a>, <a href="ferment.html">ferment</a>, <a href="flaw.html">flaw</a>, <a href="flutter.html">flutter</a>, <a href="fuss.html">fuss</a>, <a href="garboil.html">garboil</a>, <a href="hoo-ha.html">hoo-ha</a>, <a href="hoo-hah.html">hoo-hah</a>, <a href="Hubble.html">Hubble</a>, <a href="hubbub.html">hubbub</a>, <a href="huddle.html">huddle</a>, <a href="hullabaloo.html">hullabaloo</a>, <a href="hurl.html">hurl</a>, <a href="Hurly.html">Hurly</a>, <a href="hurly%20burly.html">hurly burly</a>, <a href="Hurly-burly.html">Hurly-burly</a>, <a href="hurry.html">hurry</a>, <a href="inflammatory.html">inflammatory</a>, <a href="kerfuffle.html">kerfuffle</a>, <a href="Larry.html">Larry</a>, <a href="Lurry.html">Lurry</a>, <a href="misrule.html">misrule</a>, <a href="mutiny.html">mutiny</a>, <a href="Night%20rule.html">Night rule</a>, <a href="Night-brawler.html">Night-brawler</a>, <a href="Night-rule.html">Night-rule</a>, <a href="peaceable.html">peaceable</a>, <a href="peaceably.html">peaceably</a>, <a href="peaceful.html">peaceful</a>, <a href="peacefulness.html">peacefulness</a>, <a href="pother.html">pother</a>, <a href="Pudder.html">Pudder</a>, <a href="quell.html">quell</a>, <a href="quietly.html">quietly</a>, <a href="race.html">race</a>, <a href="racket.html">racket</a>, <a href="raise.html">raise</a>, <a href="riot.html">riot</a>, <a href="Riotise.html">Riotise</a>, <a href="roar.html">roar</a>, <a href="Romage.html">Romage</a>, <a href="rout.html">rout</a>, <a href="row.html">row</a>, <a href="ruffian.html">ruffian</a>, <a href="ruffle.html">ruffle</a>, <a href="rumble.html">rumble</a>, <a href="Rumbullion.html">Rumbullion</a>, <a href="sober.html">sober</a>, <a href="still.html">still</a>, <a href="stir.html">stir</a>, <a href="storm.html">storm</a>, <a href="Stour.html">Stour</a>, <a href="Stramash.html">Stramash</a>, <a href="suppression.html">suppression</a>, <a href="tempest.html">tempest</a>, <a href="to-do.html">to-do</a>, <a href="Tumultuariness.html">Tumultuariness</a>, <a href="Tumultuary.html">Tumultuary</a>, <a href="Tumultuate.html">Tumultuate</a>, <a href="tumultuous.html">tumultuous</a>, <a href="tumultuously.html">tumultuously</a>, <a href="turbulence.html">turbulence</a>, <a href="turmoil.html">turmoil</a>, <a href="uproar.html">uproar</a>, <a href="uproarious.html">uproarious</a>, <a href="uproariously.html">uproariously</a>, <a href="Upstir.html">Upstir</a>, <a href="Whither.html">Whither</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					rumult, fumult, gumult, yumult, tymult, thmult, tjmult, timult, tunult, tujult, tukult, tumylt, tumhlt, tumjlt, tumilt, tumukt, tumuot, tumupt, tumulr, tumulf, tumulg, tumuly
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

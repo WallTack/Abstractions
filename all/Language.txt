@@ -1,0 +1,575 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>language</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/88/11/2904.jpg" alt="Overboard, One Yell in the English Language, One In Eye-talian 193">
+							<div class="caption">Overboard, One Yell in the English Language, One In Eye-talian 193</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">the mental faculty or power of vocal communication</span> <span class="quot">"language sets homo sapiens apart from all other animals"</span></li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">the cognitive processes involved in producing and understanding linguistic communication</span> <span class="quot">"he didn't have the language to express his feelings"</span></li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">a systematic means of communicating by the use of sounds or conventional symbols</span> <span class="quot">"he taught foreign languages","the language introduced is standard throughout the text","the speed with which a program can be executed depends on the language in which it is written"</span></li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">a system of words used to name things in a particular discipline</span> <span class="quot">"legal terminology","biological nomenclature","the language of sociology"</span></li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">the text of a popular song or musical-comedy number</span> <span class="quot">"his compositions always started with the lyrics","he wrote both words and music","the song uses colloquial language"</span></li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">(language) communication by word of mouth</span> <span class="quot">"his speech was garbled","he uttered harsh language","he recorded the spoken language of the streets"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										There are about 6,800 languages in the world									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Language</span> <span class="exp">A race, as distinguished by its speech.</span> <span class="wuQuot">"All the people, the nations, and the languages , fell down and worshiped the golden image."</span></li><li><span class="term">Language</span> <span class="exp">Any means of conveying or communicating ideas;</span> </li><li><span class="term">Language</span> <span class="exp"><span class="wuFld">(computers)</span> Any set of symbols and the rules for combining them which are used to specify to a computer the actions that it is to take; also referred to as a <span class="wUaltname">computer lanugage</span> or <span class="wUaltname">programming language</span>; as, JAVA is a new and flexible high-level <span class="wUex">language</span> which has achieved popularity very rapidly.</span> </li><li><span class="term">Language</span> <span class="exp">Any system of symbols created for the purpose of communicating ideas, emotions, commands, etc., between sentient agents.</span> </li><li><span class="term">Language</span> <span class="exp">The characteristic mode of arranging words, peculiar to an individual speaker or writer; manner of expression; style.</span> <span class="wuQuot">"Others for language all their care express."</span></li><li><span class="term">Language</span> <span class="exp">The expression of ideas by writing, or any other instrumentality.</span> </li><li><span class="term">Language</span> <span class="exp">The forms of speech, or the methods of expressing ideas, peculiar to a particular nation.</span> </li><li><span class="term">Language</span> <span class="exp">The inarticulate sounds by which animals inferior to man express their feelings or their wants.</span> </li><li><span class="term">Language</span> <span class="exp">The suggestion, by objects, actions, or conditions, of ideas associated therewith; as, the <span class="wUex">language</span> of flowers.</span> <span class="wuQuot">"There was . . . language in their very gesture."</span></li><li><span class="term">Language</span> <span class="exp">The vocabulary and phraseology belonging to an art or department of knowledge; as, medical <span class="wUex">language</span>; the <span class="wUex">language</span> of chemistry or theology.
+         </span> </li><li><span class="tSpeech">v. t</span> <span class="term">Language</span> <span class="exp">To communicate by language; to express in language.</span> <span class="wuQuot">"Others were languaged in such doubtful expressions that they have a double sense."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										French was the official language of England for over 600 years.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">The whole body of uttered signs employed and understood by a given community as expression of its thoughts; the aggregate of words, and of methods of their combination into sentences, used in a community for communication and record and for carrying on the processes of thought: as, the English language; the Greek language. The languages of the world, each of them unintelligible to the speakers of any other, are very numerous, rather exceeding than falling short of a thousand. Of these, each individual (without reference to his race) acquires for his first language or “mother-tongue” that one which he hears used by those about him in childhood, as he may later learn some other, even to the substitution of it for his “mother-tongue” and oblivion of the latter. Many languages are related with one another—that is, there is such correspondence in their words and forms as shows them to have descended from a common ancestor, or to have reached their present form by gradual divergent alteration of the same original language, since, by the action of its speakers, every living language is undergoing constant change. A body of languages thus related is called a family or stock; and the classification of all human tongues into families is one of the most important results of the study of language. Families then are divided into subordinate divisions called groups, branches, subbranehes, or the like. Examples of families are the Aryan or Indo-European, the Semitic, and so on. (See the various names.) With reference to their relationship to a larger class, languages are also called dialects: thus, Yorkshire and Scotch are dialects of English; English and Dutch are Low-German dialects; German, Slavonic, Celtic, etc., are Aryan dialects. (See dialect.) Languages differ not only in material, but also in regard to structure, or the apparatus of forms, connections, auxiliaries, etc., by which the modifications and relations of ideas are expressed. Some are more synthetic, some more analytic; some are isolating, or destitute of formal distinctions, whether of parts of speech or of inflections; some are agglutinative, or have words made up of parts rather loosely joined together; some have their words, or part of them, more completely integrated, to the complete disguise of their original constituents, and even, in greater or less part, the substitution of an internal change (as in sing, sang, sung, song) for an external (as in love, loved, loving, lover). This characteristic is called inflective, and is seen in highest degree in two of the families (Aryan and Semitic) mentioned above. (See agglutinate.) Languages are usually designated by an adjective formed (in -ish, -an, -ese, -ic, -ine, etc., or without any termination) from the name of the country or people (such adjective used alone, as a noun, being the particular name of the language), as English, Spanish, Scottish, Scotch, Dutch, Welsh, French, Italian, Russian, Chinese, Siamese, Gaelic, Arabic, Latin, Greek, etc.; but the name is often of other origin or formation, as Sanskrit, Prakrit.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">Power of expression by utterance; the capacities and impulses that lead to the production and use of languages; uttered expression; human speech considered as a whole: as, language is the peculiar possession of man.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">The words or expressions appropriate to or especially employed in any branch of knowledge or particular condition of life: as, the language of chemistry; the language of common life.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">The manner of expression, either by speech or writing; style.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">Hence The inarticulate sounds by which irrational animals express their feelings and wants: as, the language of birds.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">The expression of thought in any way, articulate or inarticulate, conventional or unconventional: as, the language of signs; the language of the eyes; the language of flowers.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">A people or race, as distinguished by its speech; a tribe.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">Now the Coptic is no more a living language, nor is it understood by any, except that some of the priests understand a little of their liturgy, tho' many of them cannot so much as read it, but get their long offices by rote.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">Synonyms Language, Dialect, Idiom, Diction, Vocabulary; tongue. The first five words are arranged in a descending scale. In common use it is taken for granted that the dialects under one language are enough alike to be reasonably well understood by all who are of that language, while different languages are so unlike that special study is needed to enable one to understand a language that is not his own; but this is not an essential difference. Idiom, literally a personal peculiarity, is in this connection a form of a language somewhat less marked than a dialect: as, the New England idiom. Diction is often used for the set of words or vocabulary belonging to a person or class, making him or it differ in speech from others; but both this and idiom are often expressed by dialect. (See diction.) Vocabulary means the total of the words used by a person, class, etc., considered as a list or number of different words: as, he has a large vocabulary. In this respect it differs from another meaning of idiom—that is, any peculiar combination of words used by a person, community, nation, etc.</span> </li><li><span class="term">language</span> <span class="exp">To express in language.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">In organ-building, the horizontal shelf or partition of wood or metal opposite and below the mouth of a flue-pipe, by which the wind is obliged to pass through a narrow slit between it and the lower lip and to impinge upon the edge of the upper lip. The front edge of the language is usually serrated. See pipe. Also called languid.</span> </li><li><span class="tSpeech">n</span> <span class="term">language</span> <span class="exp">Same as languet .</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										South Africa used to have two official languages, now it has eleven.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Language</span> <span class="exp"><span class="itl">lang′gwāj</span> that which is spoken by the tongue: human speech: speech peculiar to a nation: style or expression peculiar to an individual: diction: any manner of expressing thought</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Language</span> <span class="exp">to express in language</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Henry David Thoreau</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Henry%20David%20Thoreau.jpg" alt="Henry%20David%20Thoreau">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The language of friendship is not words but meanings.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marcellinus Ammianus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marcellinus Ammianus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The language of truth is unadorned and always simple.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Sir Edward Appleton</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Sir Edward Appleton">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I do not mind what language an opera is sung in so long as it is an language I do not understand.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William S. Burroughs</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20S.%20Burroughs.jpg" alt="William%20S.%20Burroughs">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Language is a virus from outer space.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charlemagne</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charlemagne">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“To have another language is to possess a second soul.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Eliot</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/George%20Eliot.jpg" alt="George%20Eliot">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The finest language is mostly made up of simple unimposing words.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					OE. <span class="wUets">langage</span>, F. <span class="wUets">langage</span>, fr. L. <span class="wUets">lingua</span>, the tongue, hence speech, language; akin to E. <span class="wUets">tongue</span>,. See <span class="wUer">Tongue</span>, cf. <span class="wUer">Lingual</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						This language will soon be universal; by common consent it will become the language of the world.
+					</div>
+					<div class="uAuthor">
+						"The Lost Ten Tribes, and 1882" by <span>Joseph Wild</span>					</div>
+										<div class="usage">
+						It had returned home, and the language was as a welcome greeting.
+					</div>
+					<div class="uAuthor">
+						"Fairy Tales of Hans Christian Andersen" by <span>Hans Christian Andersen</span>					</div>
+										<div class="usage">
+						Though strongly influenced by Rome in their trade and methods of agriculture, the Belgo-Romans had retained their language and religion.
+					</div>
+					<div class="uAuthor">
+						"Belgium" by <span>Emile Cammaerts</span>					</div>
+										<div class="usage">
+						In general, Jewish poets and philosophers have manipulated that language with surprising dexterity.
+					</div>
+					<div class="uAuthor">
+						"Jewish Literature and Other Essays" by <span>Gustav Karpeles</span>					</div>
+										<div class="usage">
+						The powers of the modern languages had at length been developed.
+					</div>
+					<div class="uAuthor">
+						"Critical and Historical Essays, Volume III (of 3)" by <span>Thomas Babington Macaulay</span>					</div>
+										<div class="usage">
+						Language as a Means of Expression.
+					</div>
+					<div class="uAuthor">
+						"English: Composition and Literature" by <span>W. F. (William Franklin) Webster</span>					</div>
+										<div class="usage">
+						Now no derived word can be brought whole from a language unless, in that language, all its parts exist.
+					</div>
+					<div class="uAuthor">
+						"A Handbook of the English Language" by <span>Robert Gordon Latham</span>					</div>
+										<div class="usage">
+						The Competition of the Cultural Languages.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Science of Sociology" by <span>Robert E. Park</span>					</div>
+										<div class="usage">
+						Cardinal Mezzofanti knew, it is said, more than a hundred languages.
+					</div>
+					<div class="uAuthor">
+						"The History of Dartmouth College" by <span>Baxter Perry Smith</span>					</div>
+										<div class="usage">
+						What a wealth of language one hears!
+					</div>
+					<div class="uAuthor">
+						"Literary Tours in The Highlands and Islands of Scotland" by <span>Daniel Turner Holmes</span>					</div>
+										<div class="usage">
+						Then we examine the language.
+					</div>
+					<div class="uAuthor">
+						"Introduction to the Study of History" by <span>Charles V. Langlois</span>					</div>
+										<div class="usage">
+						On entering the Latin school every boy had to adopt a new language.
+					</div>
+					<div class="uAuthor">
+						"Hymns and Hymnwriters of Denmark" by <span>Jens Christian Aaberg</span>					</div>
+										<div class="usage">
+						We might as well speak of a prognathic language.
+					</div>
+					<div class="uAuthor">
+						"My Autobiography" by <span>F. Max Müller</span>					</div>
+										<div class="usage">
+						The language might be simpler, but it is not a mere sham aggregation of words.
+					</div>
+					<div class="uAuthor">
+						"Hours in a Library" by <span>Leslie Stephen</span>					</div>
+										<div class="usage">
+						He was an adept in the French and Italian languages.
+					</div>
+					<div class="uAuthor">
+						"Shirley" by <span>Charlotte Brontë</span>					</div>
+										<div class="usage">
+						One service in the morning is in the Dutch language and the other in the evening is in the English language.
+					</div>
+					<div class="uAuthor">
+						"A Stake in the Land" by <span>Peter Alexander Speek</span>					</div>
+										<div class="usage">
+						The speeches of Demosthenes and Cicero pass into literature, and are studied as models of language.
+					</div>
+					<div class="uAuthor">
+						"The English in the West Indies" by <span>James Anthony Froude</span>					</div>
+										<div class="usage">
+						In most Eastern languages the line between poetry and prose is not so sharply drawn as in our Western languages.
+					</div>
+					<div class="uAuthor">
+						"The Bible Story" by <span>Rev. Newton Marshall Hall</span>					</div>
+										<div class="usage">
+						Latham on African languages, 288. on the radiation of languages, 289.
+					</div>
+					<div class="uAuthor">
+						"The Origin of the World According to Revelation and Science" by <span>John William Dawson</span>					</div>
+										<div class="usage">
+						The service thus performed to the literature was not unlike the service performed to the language.
+					</div>
+					<div class="uAuthor">
+						"A Short History of French Literature" by <span>George Saintsbury</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							So we know<br>
+she must have said something<br>
+to him--What language,<br>
+life? Oh, what language?
+							<div class="poet">"Sarn Rhiw" by <span>R S  Thomas</span></div>
+						</div>
+											<div class="poemQuote">
+							He spake in an unknown language,<br>
+In a strange sad melody,<br>
+And I had to learn it as children<br>
+Their own by their mother's knee.
+							<div class="poet">"An Old Copy Of Dante" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							Oh, days of the lovely October,<br>
+How dear thou art to me;<br>
+Words are weak, when my soul would speak,<br>
+In language taught by thee.
+							<div class="poet">"October" by <span>Sallie Williams Hardcastle</span></div>
+						</div>
+											<div class="poemQuote">
+							She has a name, the sweetest name<br>
+That language can bestow.<br>
+'Twould break the spell<br>
+If I should tell, -<br>
+Wouldn't you like to know?
+							<div class="poet">""Wouldn't You Like To KNow"" by <span>John Godfrey Saxe</span></div>
+						</div>
+											<div class="poemQuote">
+							Alas! it were the saddening tale<br>
+That every language knows,â€”Â­<br>
+The wooing wind, the yielding sail,<br>
+The sunbeam and the rose.
+							<div class="poet">"Agnes" by <span>Oliver Wendell Holmes</span></div>
+						</div>
+											<div class="poemQuote">
+							These have more language than my song,<br>
+Take them and let them speak for me.<br>
+I whispered them a secret thing<br>
+Down the green lanes of Allary.
+							<div class="poet">"With Flowers" by <span>Francis Ledwidge</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						It's all around us, but how recognizable and effective is the language used to persuade us every day.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kera.org/2012/05/23/rhetoric-from-aristotle-to-obama/" target="_blank" rel="external nofollow">kera.org</a>
+					</div>
+										<div class="usage">
+						A study suggests that, particularly for sensitive subjects, patients like to hear their language reflected back.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ama-assn.org/amednews/2005/01/17/hlsa0117.htm" target="_blank" rel="external nofollow">ama-assn.org</a>
+					</div>
+										<div class="usage">
+						Nancy Gardella lists a few of her many accomplishments: speaking four languages, raising a Marine Corps son, taking care of her elderly parents, and running a successful housekeeping and property management firm.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mvtimes.com/marthas-vineyard/news/2009/11/05/women-empowered.php" target="_blank" rel="external nofollow">mvtimes.com</a>
+					</div>
+										<div class="usage">
+						Not too many years ago, the print community had a unique language with shared meanings.
+					</div>
+					<div class="uAuthor">
+						<a href="http://americanprinter.com/how-to/printing_enabled_babble/" target="_blank" rel="external nofollow">americanprinter.com</a>
+					</div>
+										<div class="usage">
+						CHARLOTTE, N.C.—Feathers were ruffled in the American Jewish community earlier this week when the Democratic Party revealed a platform missing key language about Jerusalem that appeared in the 2008 platform.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/news/blogs/ballot-2012/2012/09/05/democrats-backtrack-on-jerusalem?s_cid=rss:ballot-2012:democrats-backtrack-on-jerusalem" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						R for strong bloody violence, language and some sexuality/nudity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mlive.com/movies/index.ssf/2012/08/lawless_review_tom_hardy_shia.html" target="_blank" rel="external nofollow">mlive.com</a>
+					</div>
+										<div class="usage">
+						Linguists say their language, Euskara, is unrelated to any other.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.familytreemagazine.com/article/iberian-research-tips" target="_blank" rel="external nofollow">familytreemagazine.com</a>
+					</div>
+										<div class="usage">
+						Terry Gibbs, the Energizer Bunny of jazz, has a loving tribute to his favorite language, undiluted bebop : 52nd &amp; Broadway (Mack Avenue).
+					</div>
+					<div class="uAuthor">
+						<a href="http://jazztimes.com/articles/15809-52nd-and-broadway-songs-of-the-bebop-era-terry-gibbs" target="_blank" rel="external nofollow">jazztimes.com</a>
+					</div>
+										<div class="usage">
+						Learn to speak his language.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wweek.com/portland/article-19040-chimp_chat.html" target="_blank" rel="external nofollow">wweek.com</a>
+					</div>
+										<div class="usage">
+						In its 15 years of existence, the Milwaukee Choral Artists ensemble has sung in 28 languages.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.jsonline.com/entertainment/arts/women-of-mca-to-belt-out-final-note-6v6gpg2-166536536.html" target="_blank" rel="external nofollow">jsonline.com</a>
+					</div>
+										<div class="usage">
+						Brit helmer, scribe DeVincentis making doc into English-language feature.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.variety.com/article/VR1118046307" target="_blank" rel="external nofollow">variety.com</a>
+					</div>
+										<div class="usage">
+						Behold a collection of bloopers , many with language that ends up being NSFW.
+					</div>
+					<div class="uAuthor">
+						<a href="http://1069therock.com/the-dirty-minded-newscaster-blooper-extravaganza-video/" target="_blank" rel="external nofollow">1069therock.com</a>
+					</div>
+										<div class="usage">
+						A volunteer effort to type thousands of pages of Hawaiian-language newspapers has ended, but organizers hope the project can move forward in preserving the language and culture.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.mauinews.com/page/content.detail/id/563618/Typing-project-for-newspapers-ends.html?nav=5031" target="_blank" rel="external nofollow">mauinews.com</a>
+					</div>
+										<div class="usage">
+						WASHINGTON — The world faces a future of people speaking more than one language, with English no longer seen as likely to become dominant, a British language expert says in a new analysis.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.msnbc.msn.com/id/4387421/" target="_blank" rel="external nofollow">msnbc.msn.com</a>
+					</div>
+										<div class="usage">
+						Thanks to TV shows like Lie to Me and so-called body language experts commenting on the candidates during the American election season, a number of misunderstandings about body language have become part of modern culture.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/nickmorgan/2012/10/25/7-surprising-truths-about-body-language/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						In this paper, we introduce a speciﬁcation language, SL, which is tailored to the writing of syntactic theories of language semantics. 
+					</div>
+					<div class="uAuthor">
+						From Syntactic Theories to Interpreters: A Specification Language and Its Compilation
+					</div>
+										<div class="usage">
+						Of course, the words “and” and “or”, are dependent on the language and perhaps even the genre of the language. 
+					</div>
+					<div class="uAuthor">
+						Modeling informational novelty in a conversational system with a hybrid statistical and grammar-based approach to natural language generation
+					</div>
+										<div class="usage">
+						The language, recognised by the resulting NFSTA A = (Σ, Q, Qf , q0 , ∆), is exactly (up to the mapping τ ) the language recognised by the original NCFTA, which can be proven by applying the relevant deﬁnitions. 
+					</div>
+					<div class="uAuthor">
+						Using Tree Automata and Regular Expressions to Manipulate Hierarchically Structured Data
+					</div>
+										<div class="usage">
+						According to the formal language theory, the class of recognisable (regular) string languages is closed under union, under intersection, and under complementation . 
+					</div>
+					<div class="uAuthor">
+						Using Tree Automata and Regular Expressions to Manipulate Hierarchically Structured Data
+					</div>
+										<div class="usage">
+						The aim of this section is to connect the usual language of the ref. model with the language of the statistical mechanics of the random media. 
+					</div>
+					<div class="uAuthor">
+						Space-Time Evolution of the Oscillator, Rapidly moving in a random media
+					</div>
+										<div class="usage">
+						They assume a language closed under the propositional connectives, but their deﬁnition makes perfect sense and is very rich even on a language that contains only atomic propositions. 
+					</div>
+					<div class="uAuthor">
+						Connectives in Quantum and other Cumulative Logics
+					</div>
+										<div class="usage">
+						His language is remarkably reminiscent of our language. 
+					</div>
+					<div class="uAuthor">
+						A Universal Approach to Self-Referential Paradoxes, Incompleteness and Fixed Points
+					</div>
+										<div class="usage">
+						For each executable language, the logic foundations are described and an example of use is shown. A comparison of the six languages and a survey of similar approaches complete the paper, together with considerations of the advantages of using logic-based languages in MAS modeling and prototyping. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						The classiﬁcation we give of agent languages takes into account the predominant logic upon which the language is based. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						We opted for describing AGENT-0 as the language representing the class of languages based on mental modalities because it was the ﬁrst one to adop t this approach. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						It combines the syntax of AGENT-0 (without support for the planning mechanisms of PLACA) with the format of KQML (Knowledge Query and Manipulation Language (May ﬁeld et al. 1995)) to ensure that messages written in languages different from AGENT-0 can be handled. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						In order to describe this language, we provide a set of de ﬁnitions on top of which the language is based. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						Understanding in which engineering/development stage the language proves useful is necessary to adopt the right language at the right time. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						Due to the complexity of languages for agent, providing a clear semantics is the only means to fully understanding the meaning of the constructs they provide and thus exploiting the potentialities of the language. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<div class="usage">
+						The IMPACT language does not provide communication primitives as part of the language, but among the software packages an agent may access there is a msgbox package providing message box functionalities. 
+					</div>
+					<div class="uAuthor">
+						Logic-Based Specification Languages for Intelligent Software Agents
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the mental faculty or power of vocal communication"><a href="speech.html">speech</a>, </div><div class="synGroup" title="the cognitive processes involved in producing and understanding linguistic communication"><a href="linguistic%20process.html">linguistic process</a>, </div><div class="synGroup" title="a systematic means of communicating by the use of sounds or conventional symbols"><a href="linguistic%20communication.html">linguistic communication</a>, </div><div class="synGroup" title="(language) communication by word of mouth"><a href="speech%20communication.html">speech communication</a>, <a href="spoken%20communication.html">spoken communication</a>, <a href="spoken%20language.html">spoken language</a>, <a href="voice%20communication.html">voice communication</a>, <a href="oral%20communication.html">oral communication</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="auditory%20communication.html">auditory communication</a>, <a href="communication.html">communication</a>, <a href="faculty.html">faculty</a>, <a href="higher%20cognitive%20process.html">higher cognitive process</a>, <a href="mental%20faculty.html">mental faculty</a>, <a href="module.html">module</a>, <a href="text.html">text</a>, <a href="textual%20matter.html">textual matter</a>, <a href="word.html">word</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="artificial%20language.html">artificial language</a>, <a href="barrage.html">barrage</a>, <a href="bombardment.html">bombardment</a>, <a href="charm.html">charm</a>, <a href="conversation.html">conversation</a>, <a href="dead%20language.html">dead language</a>, <a href="dictation.html">dictation</a>, <a href="discussion.html">discussion</a>, <a href="expression.html">expression</a>, <a href="give-and-take.html">give-and-take</a>, <a href="idiolect.html">idiolect</a>, <a href="indigenous%20language.html">indigenous language</a>, <a href="interlanguage.html">interlanguage</a>, <a href="koine.html">koine</a>, <a href="lingua%20franca.html">lingua franca</a>, <a href="linguistic%20string.html">linguistic string</a>, <a href="locution.html">locution</a>, <a href="love%20lyric.html">love lyric</a>, <a href="magic%20spell.html">magic spell</a>, <a href="magical%20spell.html">magical spell</a>, <a href="markup%20language.html">markup language</a>, <a href="metalanguage.html">metalanguage</a>, <a href="monologue.html">monologue</a>, <a href="native%20language.html">native language</a>, <a href="natural%20language.html">natural language</a>, <a href="non-standard%20speech.html">non-standard speech</a>, <a href="object%20language.html">object language</a>, <a href="onslaught.html">onslaught</a>, <a href="orthoepy.html">orthoepy</a>, <a href="outpouring.html">outpouring</a>, <a href="pronunciation.html">pronunciation</a>, <a href="reading.html">reading</a>, <a href="saying.html">saying</a>, <a href="sign%20language.html">sign language</a>, <a href="signing.html">signing</a>, <a href="slanguage.html">slanguage</a>, <a href="soliloquy.html">soliloquy</a>, <a href="source%20language.html">source language</a>, <a href="spell.html">spell</a>, <a href="string%20of%20words.html">string of words</a>, <a href="superstrate.html">superstrate</a>, <a href="superstratum.html">superstratum</a>, <a href="target%20language.html">target language</a>, <a href="tongue.html">tongue</a>, <a href="toponomy.html">toponomy</a>, <a href="toponymy.html">toponymy</a>, <a href="usage.html">usage</a>, <a href="word.html">word</a>, <a href="word%20string.html">word string</a>, <a href="words.html">words</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="lyric.html">lyric</a>, <a href="lyricist.html">lyricist</a>, <a href="terminological.html">terminological</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="-ard.html">-ard</a>, <a href="A.html">A</a>, <a href="Abba.html">Abba</a>, <a href="Abkhaz.html">Abkhaz</a>, <a href="Abkhazian.html">Abkhazian</a>, <a href="Abnaki.html">Abnaki</a>, <a href="abominable.html">abominable</a>, <a href="absolve.html">absolve</a>, <a href="abstract.html">abstract</a>, <a href="abuse.html">abuse</a>, <a href="Abusion.html">Abusion</a>, <a href="abusively.html">abusively</a>, <a href="Abusiveness.html">Abusiveness</a>, <a href="abyssal.html">abyssal</a>, <a href="Accadian.html">Accadian</a>, <a href="accent.html">accent</a>, <a href="accommodation.html">accommodation</a>, <a href="acerbity.html">acerbity</a>, <a href="acrimonious.html">acrimonious</a>, <a href="acrimony.html">acrimony</a>, <a href="Acritude.html">Acritude</a>, <a href="act.html">act</a>, <a href="adaptation.html">adaptation</a>, <a href="adoption.html">adoption</a>, <a href="adoptive.html">adoptive</a>, <a href="adulation.html">adulation</a>, <a href="Aeolic.html">Aeolic</a>, <a href="affectionate.html">affectionate</a>, <a href="affront.html">affront</a>, <a href="Afghan.html">Afghan</a>, <a href="afghani.html">afghani</a>, <a href="afraid.html">afraid</a>, <a href="Afrikaans.html">Afrikaans</a>, <a href="Afrikaner.html">Afrikaner</a>, <a href="age.html">age</a>, <a href="agglutinate.html">agglutinate</a>, <a href="agglutinative.html">agglutinative</a>, <a href="agreement.html">agreement</a>, <a href="Agrostis.html">Agrostis</a>, <a href="ahead.html">ahead</a>, <a href="Aino.html">Aino</a>, <a href="Albanian.html">Albanian</a>, <a href="Alemannic.html">Alemannic</a>, <a href="Aleutian.html">Aleutian</a>, <a href="Algol.html">Algol</a>, <a href="Algonkian.html">Algonkian</a>, <a href="Algonquian.html">Algonquian</a>, <a href="Algonquin.html">Algonquin</a>, <a href="Allophylic.html">Allophylic</a>, <a href="Almain.html">Almain</a>, <a href="alphabet.html">alphabet</a>, <a href="Alphabetism.html">Alphabetism</a>, <a href="Altaic.html">Altaic</a>, <a href="Altiloquence.html">Altiloquence</a>, <a href="Altiloquent.html">Altiloquent</a>, <a href="Altisonant.html">Altisonant</a>, <a href="ambiguity.html">ambiguity</a>, <a href="ambiguous.html">ambiguous</a>, <a href="Ambiloquy.html">Ambiloquy</a>, <a href="Amende%20honorable.html">Amende honorable</a>, <a href="American.html">American</a>, <a href="Americanism.html">Americanism</a>, <a href="Amharic.html">Amharic</a>, <a href="amnion.html">amnion</a>, <a href="amora.html">amora</a>, <a href="amphibia.html">amphibia</a>, <a href="amphibology.html">amphibology</a>, <a href="Ampullosity.html">Ampullosity</a>, <a href="anaconda.html">anaconda</a>, <a href="analogue.html">analogue</a>, <a href="analogy.html">analogy</a>, <a href="analytic.html">analytic</a>, <a href="Anglice.html">Anglice</a>, <a href="Anglicism.html">Anglicism</a>, <a href="Anglify.html">Anglify</a>, <a href="Anglo-French.html">Anglo-French</a>, <a href="Anglo-Norman.html">Anglo-Norman</a>, <a href="Anglo-Saxon.html">Anglo-Saxon</a>, <a href="Annamese.html">Annamese</a>, <a href="anomalist.html">anomalist</a>, <a href="Anthropography.html">Anthropography</a>, <a href="Anthropomorphology.html">Anthropomorphology</a>, <a href="antinomy.html">antinomy</a>, <a href="antiseptic.html">antiseptic</a>, <a href="aorist.html">aorist</a>, <a href="aphasia.html">aphasia</a>, <a href="aptly.html">aptly</a>, <a href="Arab.html">Arab</a>, <a href="Arabic.html">Arabic</a>, <a href="Arabism.html">Arabism</a>, <a href="Arabist.html">Arabist</a>, <a href="Araby.html">Araby</a>, <a href="Aracanese.html">Aracanese</a>, <a href="Aramaean.html">Aramaean</a>, <a href="Aramaic.html">Aramaic</a>, <a href="Aramean.html">Aramean</a>, <a href="Aram%C3%A6an.html">Aramæan</a>, <a href="Arawakan.html">Arawakan</a>, <a href="archaic.html">archaic</a>, <a href="Archaical.html">Archaical</a>, <a href="argot.html">argot</a>, <a href="arm.html">arm</a>, <a href="Armenian.html">Armenian</a>, <a href="Armoric.html">Armoric</a>, <a href="arrogance.html">arrogance</a>, <a href="article.html">article</a>, <a href="articulate.html">articulate</a>, <a href="articulation.html">articulation</a>, <a href="Arulo.html">Arulo</a>, <a href="Aryan.html">Aryan</a>, <a href="Aryanize.html">Aryanize</a>, <a href="Assamese.html">Assamese</a>, <a href="assembler.html">assembler</a>, <a href="assembly%20language.html">assembly language</a>, <a href="assembly%20program.html">assembly program</a>, <a href="Assyrian.html">Assyrian</a>, <a href="Assyriology.html">Assyriology</a>, <a href="at%20an%20equal%20rate.html">at an equal rate</a>, <a href="Athabaskan.html">Athabaskan</a>, <a href="Attic%20purity.html">Attic purity</a>, <a href="Atticise.html">Atticise</a>, <a href="Atticism.html">Atticism</a>, <a href="Atticize.html">Atticize</a>, <a href="audio-lingual.html">audio-lingual</a>, <a href="autumn.html">autumn</a>, <a href="Avestan.html">Avestan</a>, <a href="Aye.html">Aye</a>, <a href="B.html">B</a>, <a href="Babylonian.html">Babylonian</a>, <a href="Bactrian.html">Bactrian</a>, <a href="badge.html">badge</a>, <a href="Bahraini.html">Bahraini</a>, <a href="balderdash.html">balderdash</a>, <a href="Baluchi.html">Baluchi</a>, <a href="Bangla.html">Bangla</a>, <a href="Bangladeshi.html">Bangladeshi</a>, <a href="bankrupt.html">bankrupt</a>, <a href="Baragouin.html">Baragouin</a>, <a href="barbarian.html">barbarian</a>, <a href="barbarise.html">barbarise</a>, <a href="barbarism.html">barbarism</a>, <a href="barbarization.html">barbarization</a>, <a href="barbarize.html">barbarize</a>, <a href="barbarous.html">barbarous</a>, <a href="barbarousness.html">barbarousness</a>, <a href="Basque.html">Basque</a>, <a href="Basquish.html">Basquish</a>, <a href="battery.html">battery</a>, <a href="bawdry.html">bawdry</a>, <a href="Be.html">Be</a>, <a href="Bengalee.html">Bengalee</a>, <a href="Bengali.html">Bengali</a>, <a href="Berber.html">Berber</a>, <a href="berry.html">berry</a>, <a href="Bhutanese.html">Bhutanese</a>, <a href="Bible.html">Bible</a>, <a href="bilingual.html">bilingual</a>, <a href="Biliteral.html">Biliteral</a>, <a href="billingsgate.html">billingsgate</a>, <a href="Bimedial.html">Bimedial</a>, <a href="bismuth.html">bismuth</a>, <a href="Black-mouthed.html">Black-mouthed</a>, <a href="blackguard.html">blackguard</a>, <a href="Blackguardism.html">Blackguardism</a>, <a href="Blandiloquence.html">Blandiloquence</a>, <a href="blarney.html">blarney</a>, <a href="blasphemy.html">blasphemy</a>, <a href="blazon.html">blazon</a>, <a href="bloody.html">bloody</a>, <a href="bluff.html">bluff</a>, <a href="blunder.html">blunder</a>, <a href="bluster.html">bluster</a>, <a href="boa.html">boa</a>, <a href="boast.html">boast</a>, <a href="boasting.html">boasting</a>, <a href="Bohemian.html">Bohemian</a>, <a href="Bombard%20phrase.html">Bombard phrase</a>, <a href="bombast.html">bombast</a>, <a href="Bombastry.html">Bombastry</a>, <a href="boorish.html">boorish</a>, <a href="borrow.html">borrow</a>, <a href="bounce.html">bounce</a>, <a href="boycott.html">boycott</a>, <a href="brag.html">brag</a>, <a href="Brahmo-somaj.html">Brahmo-somaj</a>, <a href="Breton.html">Breton</a>, <a href="Briticism.html">Briticism</a>, <a href="British.html">British</a>, <a href="brocaded.html">brocaded</a>, <a href="Brokenly.html">Brokenly</a>, <a href="brute.html">brute</a>, <a href="Bug%20word.html">Bug word</a>, <a href="Bulgar.html">Bulgar</a>, <a href="Bulgarian.html">Bulgarian</a>, <a href="bull.html">bull</a>, <a href="bullyrag.html">bullyrag</a>, <a href="burlesque.html">burlesque</a>, <a href="Burmese.html">Burmese</a>, <a href="Bushman.html">Bushman</a>, <a href="cab.html">cab</a>, <a href="Cabalize.html">Cabalize</a>, <a href="cadence.html">cadence</a>, <a href="Cahenslyism.html">Cahenslyism</a>, <a href="Cajolement.html">Cajolement</a>, <a href="cajolery.html">cajolery</a>, <a href="calcaneal.html">calcaneal</a>, <a href="calculate.html">calculate</a>, <a href="caldera.html">caldera</a>, <a href="Calmant.html">Calmant</a>, <a href="Calmative.html">Calmative</a>, <a href="Calmucks.html">Calmucks</a>, <a href="calque.html">calque</a>, <a href="calque%20formation.html">calque formation</a>, <a href="Cambodian.html">Cambodian</a>, <a href="Cambrian.html">Cambrian</a>, <a href="came.html">came</a>, <a href="Canarese.html">Canarese</a>, <a href="candid.html">candid</a>, <a href="cant.html">cant</a>, <a href="canter.html">canter</a>, <a href="Canting.html">Canting</a>, <a href="carbonic%20acid.html">carbonic acid</a>, <a href="caricature.html">caricature</a>, <a href="Carthaginian.html">Carthaginian</a>, <a href="Castilian.html">Castilian</a>, <a href="catachresis.html">catachresis</a>, <a href="Catalan.html">Catalan</a>, <a href="cattle.html">cattle</a>, <a href="Causticily.html">Causticily</a>, <a href="Causticity.html">Causticity</a>, <a href="Caxton.html">Caxton</a>, <a href="Cebuan.html">Cebuan</a>, <a href="Cebuano.html">Cebuano</a>, <a href="Celtic.html">Celtic</a>, <a href="Celticism.html">Celticism</a>, <a href="Chadian.html">Chadian</a>, <a href="chaff.html">chaff</a>, <a href="Chaffing.html">Chaffing</a>, <a href="Chaldaean.html">Chaldaean</a>, <a href="Chaldaic.html">Chaldaic</a>, <a href="Chaldean.html">Chaldean</a>, <a href="Chaldee.html">Chaldee</a>, <a href="chaos.html">chaos</a>, <a href="chastity.html">chastity</a>, <a href="chatter.html">chatter</a>, <a href="Chinese.html">Chinese</a>, <a href="chirology.html">chirology</a>, <a href="chrestomathy.html">chrestomathy</a>, <a href="Circumcursation.html">Circumcursation</a>, <a href="circumlocution.html">circumlocution</a>, <a href="classic.html">classic</a>, <a href="classical.html">classical</a>, <a href="clean.html">clean</a>, <a href="cleanness.html">cleanness</a>, <a href="coarse.html">coarse</a>, <a href="coarseness.html">coarseness</a>, <a href="cognate.html">cognate</a>, <a href="Collingual.html">Collingual</a>, <a href="colloquial.html">colloquial</a>, <a href="common.html">common</a>, <a href="compile.html">compile</a>, <a href="compiler.html">compiler</a>, <a href="compiling%20program.html">compiling program</a>, <a href="composite.html">composite</a>, <a href="composition.html">composition</a>, <a href="construe.html">construe</a>, <a href="contempt.html">contempt</a>, <a href="conversational.html">conversational</a>, <a href="convert.html">convert</a>, <a href="Copt.html">Copt</a>, <a href="Coptic.html">Coptic</a>, <a href="Cornish.html">Cornish</a>, <a href="corrupt.html">corrupt</a>, <a href="corruption.html">corruption</a>, <a href="couch.html">couch</a>, <a href="Creole.html">Creole</a>, <a href="Croatian.html">Croatian</a>, <a href="cryptology.html">cryptology</a>, <a href="crystal%20clear.html">crystal clear</a>, <a href="Cufic.html">Cufic</a>, <a href="Czech.html">Czech</a>, <a href="Czechoslovakian.html">Czechoslovakian</a>, <a href="Dane.html">Dane</a>, <a href="danish.html">danish</a>, <a href="dead%20language.html">dead language</a>, <a href="decent.html">decent</a>, <a href="deciphered.html">deciphered</a>, <a href="declare.html">declare</a>, <a href="decode.html">decode</a>, <a href="deep.html">deep</a>, <a href="Della%20Crusca.html">Della Crusca</a>, <a href="denunciatory.html">denunciatory</a>, <a href="description.html">description</a>, <a href="descriptive.html">descriptive</a>, <a href="detach.html">detach</a>, <a href="diachronic.html">diachronic</a>, <a href="dialect.html">dialect</a>, <a href="diatribe.html">diatribe</a>, <a href="diction.html">diction</a>, <a href="dictionary.html">dictionary</a>, <a href="Dingdong%20theory.html">Dingdong theory</a>, <a href="direct.html">direct</a>, <a href="direct%20discourse.html">direct discourse</a>, <a href="dirty.html">dirty</a>, <a href="discourse.html">discourse</a>, <a href="discourtesy.html">discourtesy</a>, <a href="disguise.html">disguise</a>, <a href="Doric.html">Doric</a>, <a href="Douay%20Bible.html">Douay Bible</a>, <a href="doublet.html">doublet</a>, <a href="drama.html">drama</a>, <a href="Dutch.html">Dutch</a>, <a href="Dyak.html">Dyak</a>, <a href="early.html">early</a>, <a href="East%20Pakistani.html">East Pakistani</a>, <a href="Egyptian.html">Egyptian</a>, <a href="eject.html">eject</a>, <a href="elegance.html">elegance</a>, <a href="element.html">element</a>, <a href="eloquence.html">eloquence</a>, <a href="emblematic.html">emblematic</a>, <a href="empty.html">empty</a>, <a href="en%20clair.html">en clair</a>, <a href="energy.html">energy</a>, <a href="English.html">English</a>, <a href="English%20language.html">English language</a>, <a href="Englishism.html">Englishism</a>, <a href="Ephesian.html">Ephesian</a>, <a href="Equipollence.html">Equipollence</a>, <a href="Erse.html">Erse</a>, <a href="ESE.html">ESE</a>, <a href="Esperanto.html">Esperanto</a>, <a href="Esthonian.html">Esthonian</a>, <a href="Ethiopian%20language.html">Ethiopian language</a>, <a href="Ethiopic.html">Ethiopic</a>, <a href="Etruscan.html">Etruscan</a>, <a href="etymology.html">etymology</a>, <a href="euphemize.html">euphemize</a>, <a href="euphuism.html">euphuism</a>, <a href="Euphuist.html">Euphuist</a>, <a href="Euphuize.html">Euphuize</a>, <a href="Europan.html">Europan</a>, <a href="evasion.html">evasion</a>, <a href="evolution.html">evolution</a>, <a href="exhortation.html">exhortation</a>, <a href="explicit.html">explicit</a>, <a href="explosion.html">explosion</a>, <a href="express.html">express</a>, <a href="expression.html">expression</a>, <a href="extralinguistic.html">extralinguistic</a>, <a href="extravaganza.html">extravaganza</a>, <a href="Fair-spoken.html">Fair-spoken</a>, <a href="figure.html">figure</a>, <a href="Fijian.html">Fijian</a>, <a href="filiation.html">filiation</a>, <a href="Finnish.html">Finnish</a>, <a href="Finno-Ugric-speaking.html">Finno-Ugric-speaking</a>, <a href="first%20language.html">first language</a>, <a href="fishwife.html">fishwife</a>, <a href="flashy.html">flashy</a>, <a href="Flemish.html">Flemish</a>, <a href="flexible.html">flexible</a>, <a href="fling.html">fling</a>, <a href="flirt.html">flirt</a>, <a href="flourish.html">flourish</a>, <a href="flowery.html">flowery</a>, <a href="fluent.html">fluent</a>, <a href="Folk-speech.html">Folk-speech</a>, <a href="foreign.html">foreign</a>, <a href="Foreignism.html">Foreignism</a>, <a href="formal.html">formal</a>, <a href="Formosan.html">Formosan</a>, <a href="formula.html">formula</a>, <a href="foul.html">foul</a>, <a href="foul-mouthed.html">foul-mouthed</a>, <a href="foul-spoken.html">foul-spoken</a>, <a href="Francic.html">Francic</a>, <a href="French.html">French</a>, <a href="Frenchism.html">Frenchism</a>, <a href="Friesic.html">Friesic</a>, <a href="Frisian.html">Frisian</a>, <a href="Fulahs.html">Fulahs</a>, <a href="Gaelic.html">Gaelic</a>, <a href="Gallicism.html">Gallicism</a>, <a href="Geez.html">Geez</a>, <a href="generalization.html">generalization</a>, <a href="genius.html">genius</a>, <a href="Georgian.html">Georgian</a>, <a href="German.html">German</a>, <a href="Germanic.html">Germanic</a>, <a href="Germanism.html">Germanism</a>, <a href="Germanize.html">Germanize</a>, <a href="gestural.html">gestural</a>, <a href="Ghanaian.html">Ghanaian</a>, <a href="Ghanese.html">Ghanese</a>, <a href="Ghanian.html">Ghanian</a>, <a href="gibberish.html">gibberish</a>, <a href="gipsy.html">gipsy</a>, <a href="Giz.html">Giz</a>, <a href="Glossology.html">Glossology</a>, <a href="Gothic.html">Gothic</a>, <a href="grammar.html">grammar</a>, <a href="grammatic.html">grammatic</a>, <a href="Grecian.html">Grecian</a>, <a href="Grecism.html">Grecism</a>, <a href="Grecize.html">Grecize</a>, <a href="Greek.html">Greek</a>, <a href="gypsy.html">gypsy</a>, <a href="H.html">H</a>, <a href="happiness.html">happiness</a>, <a href="Hawaiian.html">Hawaiian</a>, <a href="Hebraic.html">Hebraic</a>, <a href="Hebraical.html">Hebraical</a>, <a href="Hebraically.html">Hebraically</a>, <a href="Hebraism.html">Hebraism</a>, <a href="Hebraist.html">Hebraist</a>, <a href="Hebraistic.html">Hebraistic</a>, <a href="Hebrew.html">Hebrew</a>, <a href="Hellenic.html">Hellenic</a>, <a href="Hellenism.html">Hellenism</a>, <a href="Hellenist.html">Hellenist</a>, <a href="Hellenistic%20dialect.html">Hellenistic dialect</a>, <a href="Hellenistic%20idiom.html">Hellenistic idiom</a>, <a href="Hellenistic%20language.html">Hellenistic language</a>, <a href="Hellenize.html">Hellenize</a>, <a href="heraldic.html">heraldic</a>, <a href="heteronym.html">heteronym</a>, <a href="Hiberno-Celtic.html">Hiberno-Celtic</a>, <a href="hieroglyphic.html">hieroglyphic</a>, <a href="High%20German.html">High German</a>, <a href="high-flown.html">high-flown</a>, <a href="high-sounding.html">high-sounding</a>, <a href="highfalutin.html">highfalutin</a>, <a href="Himyaric.html">Himyaric</a>, <a href="Himyaritic.html">Himyaritic</a>, <a href="Hindi.html">Hindi</a>, <a href="Hindoostanee.html">Hindoostanee</a>, <a href="Hindustani.html">Hindustani</a>, <a href="Hispanic.html">Hispanic</a>, <a href="historical.html">historical</a>, <a href="Hittite.html">Hittite</a>, <a href="Hmong.html">Hmong</a>, <a href="homeliness.html">homeliness</a>, <a href="Hottentot.html">Hottentot</a>, <a href="humanity.html">humanity</a>, <a href="Hungarian.html">Hungarian</a>, <a href="husky.html">husky</a>, <a href="Icelander.html">Icelander</a>, <a href="Icelandic.html">Icelandic</a>, <a href="Identic.html">Identic</a>, <a href="idiom.html">idiom</a>, <a href="Idiom%20Neutral.html">Idiom Neutral</a>, <a href="idiomatic.html">idiomatic</a>, <a href="idiomatical.html">idiomatical</a>, <a href="Idiotism.html">Idiotism</a>, <a href="Ido.html">Ido</a>, <a href="illiterate.html">illiterate</a>, <a href="impertinence.html">impertinence</a>, <a href="impious.html">impious</a>, <a href="improper.html">improper</a>, <a href="impropriety.html">impropriety</a>, <a href="impudence.html">impudence</a>, <a href="impure.html">impure</a>, <a href="impurity.html">impurity</a>, <a href="In%20a%20Pickwickian%20sense.html">In a Pickwickian sense</a>, <a href="In%20terms%20of.html">In terms of</a>, <a href="indelicacy.html">indelicacy</a>, <a href="indirect.html">indirect</a>, <a href="Indo-European.html">Indo-European</a>, <a href="Indo-Germanic.html">Indo-Germanic</a>, <a href="inelegance.html">inelegance</a>, <a href="Ineloquent.html">Ineloquent</a>, <a href="inexpressible.html">inexpressible</a>, <a href="infinite.html">infinite</a>, <a href="inflated.html">inflated</a>, <a href="Inflective%20language.html">Inflective language</a>, <a href="informal.html">informal</a>, <a href="insolent.html">insolent</a>, <a href="intemperate.html">intemperate</a>, <a href="Interlingua.html">Interlingua</a>, <a href="interlingual%20rendition.html">interlingual rendition</a>, <a href="interpret.html">interpret</a>, <a href="interpretation.html">interpretation</a>, <a href="intersect.html">intersect</a>, <a href="intralinguistic.html">intralinguistic</a>, <a href="inveigh.html">inveigh</a>, <a href="Ionic.html">Ionic</a>, <a href="Ionic%20dialect.html">Ionic dialect</a>, <a href="Iranian.html">Iranian</a>, <a href="Irish.html">Irish</a>, <a href="isolating.html">isolating</a>, <a href="Italian.html">Italian</a>, <a href="Jap.html">Jap</a>, <a href="Japanese.html">Japanese</a>, <a href="jargon.html">jargon</a>, <a href="Java.html">Java</a>, <a href="Javan.html">Javan</a>, <a href="Javanese.html">Javanese</a>, <a href="journalese.html">journalese</a>, <a href="Kalka.html">Kalka</a>, <a href="Kampuchean.html">Kampuchean</a>, <a href="Kechuan.html">Kechuan</a>, <a href="Khalka.html">Khalka</a>, <a href="Khalkha.html">Khalkha</a>, <a href="Korean.html">Korean</a>, <a href="Kurdish.html">Kurdish</a>, <a href="lagoon.html">lagoon</a>, <a href="Languaged.html">Languaged</a>, <a href="Langue%20d%27oui.html">Langue d'oui</a>, <a href="Lapp.html">Lapp</a>, <a href="large.html">large</a>, <a href="late.html">late</a>, <a href="Late%20Latin.html">Late Latin</a>, <a href="Latin.html">Latin</a>, <a href="Latin%20Church.html">Latin Church</a>, <a href="Latvian.html">Latvian</a>, <a href="Leden.html">Leden</a>, <a href="Lettic.html">Lettic</a>, <a href="lexicographer.html">lexicographer</a>, <a href="lexicon.html">lexicon</a>, <a href="limpid.html">limpid</a>, <a href="lingo.html">lingo</a>, <a href="lingual.html">lingual</a>, <a href="lingually.html">lingually</a>, <a href="linguistic.html">linguistic</a>, <a href="linguistically.html">linguistically</a>, <a href="Lip-language.html">Lip-language</a>, <a href="literature.html">literature</a>, <a href="Lithuanian.html">Lithuanian</a>, <a href="loan%20translation.html">loan translation</a>, <a href="Loan-word.html">Loan-word</a>, <a href="locative.html">locative</a>, <a href="logic%20programing.html">logic programing</a>, <a href="logic%20programming.html">logic programming</a>, <a href="logomania.html">logomania</a>, <a href="Logos.html">Logos</a>, <a href="Low%20German.html">Low German</a>, <a href="Low%20Latin.html">Low Latin</a>, <a href="lucid.html">lucid</a>, <a href="luculent.html">luculent</a>, <a href="Lusitanian.html">Lusitanian</a>, <a href="Mahrati.html">Mahrati</a>, <a href="Mahratti.html">Mahratti</a>, <a href="malapropism.html">malapropism</a>, <a href="Malay.html">Malay</a>, <a href="Malayalam.html">Malayalam</a>, <a href="Malayan.html">Malayan</a>, <a href="Maltese.html">Maltese</a>, <a href="Maltese%20language.html">Maltese language</a>, <a href="Malti.html">Malti</a>, <a href="Mandaean.html">Mandaean</a>, <a href="Mandean.html">Mandean</a>, <a href="Manx.html">Manx</a>, <a href="Marathi.html">Marathi</a>, <a href="maternal%20language.html">maternal language</a>, <a href="Metaphrase.html">Metaphrase</a>, <a href="meter.html">meter</a>, <a href="metrics.html">metrics</a>, <a href="middle.html">middle</a>, <a href="Mimography.html">Mimography</a>, <a href="modern.html">modern</a>, <a href="modest.html">modest</a>, <a href="Moeso-Gothic.html">Moeso-Gothic</a>, <a href="monolingual.html">monolingual</a>, <a href="Morisco.html">Morisco</a>, <a href="morphologic.html">morphologic</a>, <a href="morphological.html">morphological</a>, <a href="morphology.html">morphology</a>, <a href="mother%20tongue.html">mother tongue</a>, <a href="Mother-tongue.html">Mother-tongue</a>, <a href="multilingual.html">multilingual</a>, <a href="native%20speaker.html">native speaker</a>, <a href="natural%20language.html">natural language</a>, <a href="neology.html">neology</a>, <a href="Nepalese.html">Nepalese</a>, <a href="Nepali.html">Nepali</a>, <a href="new.html">new</a>, <a href="Nipponese.html">Nipponese</a>, <a href="non-U.html">non-U</a>, <a href="nonlinguistic.html">nonlinguistic</a>, <a href="nonsense.html">nonsense</a>, <a href="nonstandard.html">nonstandard</a>, <a href="nonverbal.html">nonverbal</a>, <a href="Norse.html">Norse</a>, <a href="Norwegian.html">Norwegian</a>, <a href="object%20language.html">object language</a>, <a href="obloquy.html">obloquy</a>, <a href="Old%20English.html">Old English</a>, <a href="Old%20Frisian.html">Old Frisian</a>, <a href="origin.html">origin</a>, <a href="Oriya.html">Oriya</a>, <a href="orthography.html">orthography</a>, <a href="Oscan.html">Oscan</a>, <a href="P.html">P</a>, <a href="Pakistani.html">Pakistani</a>, <a href="Pali.html">Pali</a>, <a href="Pan-Slavism.html">Pan-Slavism</a>, <a href="Papuan.html">Papuan</a>, <a href="pari%20passu.html">pari passu</a>, <a href="Paronymy.html">Paronymy</a>, <a href="Parthian.html">Parthian</a>, <a href="Pashto.html">Pashto</a>, <a href="Pashtu.html">Pashtu</a>, <a href="Pasigraphy.html">Pasigraphy</a>, <a href="Paxto.html">Paxto</a>, <a href="Pehlevi.html">Pehlevi</a>, <a href="pellucid.html">pellucid</a>, <a href="Persian.html">Persian</a>, <a href="perspicuous.html">perspicuous</a>, <a href="Phenician.html">Phenician</a>, <a href="philology.html">philology</a>, <a href="Phoenician.html">Phoenician</a>, <a href="phonemic.html">phonemic</a>, <a href="phonology.html">phonology</a>, <a href="phraseology.html">phraseology</a>, <a href="Phrygian.html">Phrygian</a>, <a href="plainspoken.html">plainspoken</a>, <a href="poem.html">poem</a>, <a href="poetic.html">poetic</a>, <a href="poetical.html">poetical</a>, <a href="polish.html">polish</a>, <a href="Portuguese.html">Portuguese</a>, <a href="posse.html">posse</a>, <a href="Prelingual.html">Prelingual</a>, <a href="profanity.html">profanity</a>, <a href="Prolog.html">Prolog</a>, <a href="pronoun.html">pronoun</a>, <a href="pronunciation.html">pronunciation</a>, <a href="proposition.html">proposition</a>, <a href="prose.html">prose</a>, <a href="prosodic.html">prosodic</a>, <a href="Provencal.html">Provencal</a>, <a href="psycholinguistic.html">psycholinguistic</a>, <a href="pundit.html">pundit</a>, <a href="Punic.html">Punic</a>, <a href="purify.html">purify</a>, <a href="purity.html">purity</a>, <a href="Pushtoo.html">Pushtoo</a>, <a href="Pushtu.html">Pushtu</a>, <a href="puss.html">puss</a>, <a href="Quechuan.html">Quechuan</a>, <a href="queen%20of%20the%20May.html">queen of the May</a>, <a href="quipu.html">quipu</a>, <a href="rabbinic.html">rabbinic</a>, <a href="rabbinical.html">rabbinical</a>, <a href="racy.html">racy</a>, <a href="rail.html">rail</a>, <a href="Railer.html">Railer</a>, <a href="rant.html">rant</a>, <a href="read.html">read</a>, <a href="received.html">received</a>, <a href="refine.html">refine</a>, <a href="render.html">render</a>, <a href="rendering.html">rendering</a>, <a href="reproach.html">reproach</a>, <a href="rhetoric.html">rhetoric</a>, <a href="ribaldry.html">ribaldry</a>, <a href="Ribble-rabble.html">Ribble-rabble</a>, <a href="Romaic.html">Romaic</a>, <a href="Roman.html">Roman</a>, <a href="Romani.html">Romani</a>, <a href="Romansch.html">Romansch</a>, <a href="Romansh.html">Romansh</a>, <a href="Romany.html">Romany</a>, <a href="Rommany.html">Rommany</a>, <a href="Rumansh.html">Rumansh</a>, <a href="Russian.html">Russian</a>, <a href="Samaritan.html">Samaritan</a>, <a href="Samoan.html">Samoan</a>, <a href="Sanskrit.html">Sanskrit</a>, <a href="Sanskritic%20language.html">Sanskritic language</a>, <a href="Sardinian.html">Sardinian</a>, <a href="Sarmatian.html">Sarmatian</a>, <a href="sauce.html">sauce</a>, <a href="Saxon.html">Saxon</a>, <a href="scotch.html">scotch</a>, <a href="Scotice.html">Scotice</a>, <a href="Scots.html">Scots</a>, <a href="Scottish.html">Scottish</a>, <a href="scurrility.html">scurrility</a>, <a href="scurrilous.html">scurrilous</a>, <a href="Scythian.html">Scythian</a>, <a href="Semeiology.html">Semeiology</a>, <a href="Semeiotic.html">Semeiotic</a>, <a href="semiology.html">semiology</a>, <a href="semiotic.html">semiotic</a>, <a href="Semitic.html">Semitic</a>, <a href="Semitic-speaking.html">Semitic-speaking</a>, <a href="Semitise.html">Semitise</a>, <a href="sentiment.html">sentiment</a>, <a href="Serbian.html">Serbian</a>, <a href="Servian.html">Servian</a>, <a href="sign.html">sign</a>, <a href="sign-language.html">sign-language</a>, <a href="signed.html">signed</a>, <a href="Sinitic.html">Sinitic</a>, <a href="Siouan.html">Siouan</a>, <a href="Siouan-speaking.html">Siouan-speaking</a>, <a href="Skipetar.html">Skipetar</a>, <a href="slang.html">slang</a>, <a href="Slav.html">Slav</a>, <a href="Slavonicise.html">Slavonicise</a>, <a href="Slavonise.html">Slavonise</a>, <a href="Slovak.html">Slovak</a>, <a href="Slovakian.html">Slovakian</a>, <a href="Slovenian.html">Slovenian</a>, <a href="smut.html">smut</a>, <a href="Snash.html">Snash</a>, <a href="solecism.html">solecism</a>, <a href="Somali.html">Somali</a>, <a href="Somalian.html">Somalian</a>, <a href="Sorbian.html">Sorbian</a>, <a href="source%20language.html">source language</a>, <a href="source%20program.html">source program</a>, <a href="Spanish.html">Spanish</a>, <a href="speech.html">speech</a>, <a href="Speech-craft.html">Speech-craft</a>, <a href="standard.html">standard</a>, <a href="style.html">style</a>, <a href="stylistic.html">stylistic</a>, <a href="substrate.html">substrate</a>, <a href="substratum.html">substratum</a>, <a href="superstrate.html">superstrate</a>, <a href="superstratum.html">superstratum</a>, <a href="Swazi.html">Swazi</a>, <a href="Swedish.html">Swedish</a>, <a href="Swiss.html">Swiss</a>, <a href="synchronic.html">synchronic</a>, <a href="syncretic.html">syncretic</a>, <a href="syncretical.html">syncretical</a>, <a href="syncretistic.html">syncretistic</a>, <a href="syncretistical.html">syncretistical</a>, <a href="synonym.html">synonym</a>, <a href="syntax%20error.html">syntax error</a>, <a href="syntax%20language.html">syntax language</a>, <a href="Synthetic%20language.html">Synthetic language</a>, <a href="Synthetical%20language.html">Synthetical language</a>, <a href="Syriac.html">Syriac</a>, <a href="Tahitian.html">Tahitian</a>, <a href="Taiwanese.html">Taiwanese</a>, <a href="Tamil.html">Tamil</a>, <a href="target%20language.html">target language</a>, <a href="Targum.html">Targum</a>, <a href="Telugu.html">Telugu</a>, <a href="Teutonic.html">Teutonic</a>, <a href="Thracian.html">Thracian</a>, <a href="Tibet.html">Tibet</a>, <a href="Tibetan.html">Tibetan</a>, <a href="tonal%20system.html">tonal system</a>, <a href="tone%20system.html">tone system</a>, <a href="tongue.html">tongue</a>, <a href="tragedy.html">tragedy</a>, <a href="translatable.html">translatable</a>, <a href="translate.html">translate</a>, <a href="translation.html">translation</a>, <a href="translator.html">translator</a>, <a href="transliterate.html">transliterate</a>, <a href="travesty.html">travesty</a>, <a href="Trouv%C3%A8re.html">Trouvère</a>, <a href="Tungus.html">Tungus</a>, <a href="Tupi.html">Tupi</a>, <a href="Turk.html">Turk</a>, <a href="Turkic.html">Turkic</a>, <a href="Turkish.html">Turkish</a>, <a href="U.html">U</a>, <a href="Umbrian.html">Umbrian</a>, <a href="uncorrupted.html">uncorrupted</a>, <a href="uncouth.html">uncouth</a>, <a href="unction.html">unction</a>, <a href="undefiled.html">undefiled</a>, <a href="understand.html">understand</a>, <a href="Unidiomatic.html">Unidiomatic</a>, <a href="unobjectionable.html">unobjectionable</a>, <a href="unstratified%20language.html">unstratified language</a>, <a href="untranslatable.html">untranslatable</a>, <a href="usage.html">usage</a>, <a href="verbally.html">verbally</a>, <a href="vernacular.html">vernacular</a>, <a href="verse.html">verse</a>, <a href="version.html">version</a>, <a href="Vietnamese.html">Vietnamese</a>, <a href="vocabulary.html">vocabulary</a>, <a href="voice.html">voice</a>, <a href="Volapuk.html">Volapuk</a>, <a href="vulgar.html">vulgar</a>, <a href="vulgarity.html">vulgarity</a>, <a href="Walloon.html">Walloon</a>, <a href="well-turned.html">well-turned</a>, <a href="Welsh.html">Welsh</a>, <a href="Whittie-whattie.html">Whittie-whattie</a>, <a href="word.html">word</a>, <a href="World-language.html">World-language</a>, <a href="Yuman.html">Yuman</a>, <a href="Zapotec.html">Zapotec</a>, <a href="Zend.html">Zend</a>, <a href="Zulu.html">Zulu</a>, <a href="%C3%86.html">Æ</a>, <a href="%C5%92.html">Œ</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					kanguage, oanguage, panguage, lqnguage, lwnguage, lsnguage, lznguage, labguage, lahguage, lajguage, lamguage, lanfuage, lantuage, lanhuage, lanbuage, lanvuage, langyage, langhage, langjage, langiage, languqge, languwge, langusge, languzge, languafe, languate, languahe, languabe, languave, languagw, languags, languagd, languagr
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

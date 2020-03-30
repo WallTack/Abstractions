@@ -1,0 +1,537 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>perceptiveness</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">perceptiveness</span> <span class="exp">the quality of insight and sympathetic understanding</span> </li><li><span class="tSpeech">n</span> <span class="term">perceptiveness</span> <span class="exp">perception of that which is obscure</span> </li><li><span class="tSpeech">n</span> <span class="term">perceptiveness</span> <span class="exp">delicate discrimination (especially of aesthetic values)</span> <span class="quot">"arrogance and lack of taste contributed to his rapid success","to ask at that particular time was the ultimate in bad taste"</span></li><li><span class="tSpeech">n</span> <span class="term">perceptiveness</span> <span class="exp">a feeling of understanding</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										The book The Doors of Perception, by Aldous Huxley, was the inspiration behind Jim Morrison naming his band The Doors. The book extolls the use of hallucinogenic drugs.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">perceptiveness</span> <span class="exp">The faculty of perception.</span> </li><li><span class="tSpeech">n</span> <span class="term">perceptiveness</span> <span class="exp">Readiness to acquire knowledge from sensations.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Perceptiveness</span> <span class="exp">the faculty or power of perceiving: readiness to perceive</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+														
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Vernon Howard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Vernon%20Howard.jpg" alt="Vernon%20Howard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We are enslaved by anything we do not consciously see. We are freed by conscious perception.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Martina Navratilova</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Martina Navratilova">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Disability is a matter of perception. If you can do just one thing well, you're needed by someone.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Virginia Woolf</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Virginia%20Woolf.jpg" alt="Virginia%20Woolf">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Fiction is like a spider's web, attached ever so lightly perhaps, but still attached to life at all four corners. Often the attachment is scarcely perceptible.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The essence of greatness is the perception that virtue is enough.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Umberto Eco</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Umberto Eco">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The comic is the perception of the opposite; humor is the feeling of it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Van Hartmann</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Van Hartmann">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Instinct is action taken in pursuance of a purpose, but without conscious perception of what the purpose is.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+															<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The silent bright stars comforted the earth-wearied heart in which the day's toil had dimmed the spirit's perception.
+					</div>
+					<div class="uAuthor">
+						"Words of Cheer for the Tempted, the Toiling, and the Sorrowing" by <span>T. S. Arthur</span>					</div>
+										<div class="usage">
+						And one was listening with every sense strung to the acutest perception.
+					</div>
+					<div class="uAuthor">
+						"The Two Wives" by <span>T. S. Arthur</span>					</div>
+										<div class="usage">
+						And of this truth the minds of all men have a vague perception.
+					</div>
+					<div class="uAuthor">
+						"The Good Time Coming" by <span>T. S. Arthur</span>					</div>
+										<div class="usage">
+						But at that moment the words I heard made no perceptible impression on my mind.
+					</div>
+					<div class="uAuthor">
+						"A Strange Story, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						Originally he had been a man of the most complex artistic instincts, the most delicate and varied perceptions.
+					</div>
+					<div class="uAuthor">
+						"The History of David Grieve" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						This is but the perception of the true unreality of earthly things, made evident by the want of congruity between ourselves and them.
+					</div>
+					<div class="uAuthor">
+						"Passages From The American Notebooks, Volume 1" by <span>Nathaniel Hawthorne</span>					</div>
+										<div class="usage">
+						He had, in fact, been conscious of him from the very instant of his first perception of him.
+					</div>
+					<div class="uAuthor">
+						"The Cathedral" by <span>Sir Hugh Walpole</span>					</div>
+										<div class="usage">
+						Luckily she was assisted by a sudden perception of the roof and chimneys of Burwood, the Leyburns' house, peeping above the trees to the left.
+					</div>
+					<div class="uAuthor">
+						"Robert Elsmere" by <span>Mrs. Humphry Ward</span>					</div>
+										<div class="usage">
+						The sound of its footfall was just perceptible, slowly diminishing the distance that divided them.
+					</div>
+					<div class="uAuthor">
+						"With Edged Tools" by <span>Henry Seton Merriman</span>					</div>
+										<div class="usage">
+						The days were growing perceptibly shorter with each sunset, and the nights were getting chilly.
+					</div>
+					<div class="uAuthor">
+						"The Long Labrador Trail" by <span>Dillon Wallace</span>					</div>
+										<div class="usage">
+						It was quite light now; though the sun's rays were not, as yet, perceptibly hot.
+					</div>
+					<div class="uAuthor">
+						"The House on the Borderland" by <span>William Hope Hodgson</span>					</div>
+										<div class="usage">
+						Mental perceptions are dulled.
+					</div>
+					<div class="uAuthor">
+						"A Practical Physiology" by <span>Albert F. Blaisdell</span>					</div>
+										<div class="usage">
+						Quick of perception, as thorough as her brother in whatsoever she set her hand to do, Stella was soon equal to the job.
+					</div>
+					<div class="uAuthor">
+						"Big Timber" by <span>Bertrand W. Sinclair</span>					</div>
+										<div class="usage">
+						There is an internal perception of love, and an external perception, which sometimes hides the internal, 49.
+					</div>
+					<div class="uAuthor">
+						"The Delights of Wisdom Pertaining to Conjugial Love" by <span>Emanuel Swedenborg</span>					</div>
+										<div class="usage">
+						Perception is the foundation of the intellect.
+					</div>
+					<div class="uAuthor">
+						"A Few Words About the Devil" by <span>Charles Bradlaugh</span>					</div>
+										<div class="usage">
+						But how will this help to bring perception and conception into closer union?
+					</div>
+					<div class="uAuthor">
+						"John Dewey's logical theory" by <span>Delton Thomas Howard</span>					</div>
+										<div class="usage">
+						Here we have the perception of moral truth for one requisite.
+					</div>
+					<div class="uAuthor">
+						"Household Education" by <span>Harriet Martineau</span>					</div>
+										<div class="usage">
+						His perceptions were quick and shrewd.
+					</div>
+					<div class="uAuthor">
+						"Letters of Lord Acton" by <span>Lord Acton</span>					</div>
+										<div class="usage">
+						All these events are intricately mixed, those that are given in self perception as well as those given in sense perception.
+					</div>
+					<div class="uAuthor">
+						"International Congress of Arts and Science, Volume I" by <span>Various</span>					</div>
+										<div class="usage">
+						If perception is definite, the first step has been taken toward insuring a good memory.
+					</div>
+					<div class="uAuthor">
+						"Memory" by <span>William Walker Atkinson</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							I am now in my bearded manhood,<br>
+And the finer perceptions then<br>
+Have roughen'd and dull'd in their feelings,<br>
+Since I stood with my shoulder to men.
+							<div class="poet">"The Worship of Sorrow" by <span>Alexander Anderson</span></div>
+						</div>
+											<div class="poemQuote">
+							Invitation, mere invitation to perceptivity<br>
+Gradually led him to the isolation<br>
+Which these presents place<br>
+Under a more tolerant, perhaps, examination.
+							<div class="poet">"'The Age Demanded'" by <span>Ezra Pound</span></div>
+						</div>
+											<div class="poemQuote">
+							Peace, this hid riot, Change,<br>
+This revel of quick-cued mumming,<br>
+This never truly being,<br>
+This evermore becoming,<br>
+This spinner's wheel onfleeing<br>
+Outside perception's range.
+							<div class="poet">""According to the Mighty Working"" by <span>Thomas Hardy</span></div>
+						</div>
+											<div class="poemQuote">
+							So, too, at times when melancholy rhymes<br>
+Or solemn speeches sober down a dinner,<br>
+I've seen it 's true, quite often,--have n't you?--<br>
+The best-fed guests perceptibly grow thinner.
+							<div class="poet">"How To Not Settle It" by <span>Oliver Wendell Holmes</span></div>
+						</div>
+											<div class="poemQuote">
+							The sign is reversing, the orb is enclosed,<br>
+The ring is circled, the journey is done;<br>
+The box-lid is but perceptibly open'd—nevertheless the perfume pours<br>
+copiously out of the whole box.
+							<div class="poet">"A Broadway Pageant" by <span>Walt Whitman</span></div>
+						</div>
+											<div class="poemQuote">
+							If e'er you believ'd I was blest with perception,<br>
+To distinguish a spark from the light of the sun,<br>
+O! how could you ever admit the conception,<br>
+Another could charm me where you had made one.
+							<div class="poet">"Alas! Forgive Me" by <span>Charlotte Dacre</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Featuring four 2-D, computer-created graphic designs on high-pressure laminate, these patterns give the perception of three dimensions through the use of new technologies and software.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.interiorsandsources.com/ArticleDetails/tabid/3339/ArticleID/14251/Default.aspx" target="_blank" rel="external nofollow">interiorsandsources.com</a>
+					</div>
+										<div class="usage">
+						But many voters who believe in the Bible will be troubled by the governor's unbiblical perception of God.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.summitdaily.com/article/20121014/LETTER/121019930/1078&amp;ParentProfile=1055" target="_blank" rel="external nofollow">summitdaily.com</a>
+					</div>
+										<div class="usage">
+						Impact of religious accommodation on employee perceptions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.shrm.org/Research/SurveyFindings/Articles/Pages/ReligionandCorporateCulture.aspx" target="_blank" rel="external nofollow">shrm.org</a>
+					</div>
+										<div class="usage">
+						Even self-perception and the sense of time were changed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.villagevoice.com/arts/0502,dayal,59938,12.html" target="_blank" rel="external nofollow">villagevoice.com</a>
+					</div>
+										<div class="usage">
+						Document all potential petfood safety hazards to m. How to overcome negative perceptions in the petfoo.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.petfoodindustry.com/Default.aspx?pageid=5361&amp;folderid=213&amp;id=46107" target="_blank" rel="external nofollow">petfoodindustry.com</a>
+					</div>
+										<div class="usage">
+						Presidential Debate #2: CNN's Annoying, Flawed "Perception Analyzer ".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/johnseigenthaler/2012/10/18/presidential-debate-2-cnns-annoying-flawed-perception-analyzer/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						CNN first debuted the "Perception Analyzer " during the debates back in 2008.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/johnseigenthaler/2012/10/18/presidential-debate-2-cnns-annoying-flawed-perception-analyzer/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Despite enthusiasm, the checks are unlikely to shift perceptions in a major way.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.govexec.com/defense/2012/09/us-plans-trial-distribution-anthrax-vaccine-early-2013/58165/?oref=river" target="_blank" rel="external nofollow">govexec.com</a>
+					</div>
+										<div class="usage">
+						The Red/Blue series: Each month YouGov BrandIndex investigates how consumer political affiliation relates to brand perception.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/brandindex/2012/08/17/partisan-attitude-to-fox-and-cnn-but-bloomberg-perception-apolitical/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Mark May's perception of Joe Paterno and Penn State has been forever impacted by the Jerry Sandusky scandal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/video/clip?id=8160289" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<div class="usage">
+						Gray disappointed in public perception.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/local/dc-politics/no-mayoral-aspirant-has-clear-advantage-dc-poll-finds/2012/07/19/gJQAZObnwW_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Barclays, the British banking behemoth, was caught undercutting (and sometimes overstating) LIBOR to boost profits and bolster perceptions of financial stability.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/billflax/2012/07/18/about-the-alleged-libor-scandal-back-away-from-the-cliff/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						"Technology has allowed us to overcome the boundaries of human perception".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.theatlantic.com/technology/archive/2012/06/the-scientific-aesthetic-images-that-cant-be-seen-with-the-naked-eye/259257/" target="_blank" rel="external nofollow">theatlantic.com</a>
+					</div>
+										<div class="usage">
+						The AP reports that, in a 2011 survey, 51% of non-Hispanic whites held negative perceptions of Hispanics.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.tucsonweekly.com/TheRange/archives/2012/10/30/todays-terrible-thing-about-america-ap-poll-finds-majority-of-americans-think-negatively-of-minorities" target="_blank" rel="external nofollow">tucsonweekly.com</a>
+					</div>
+										<div class="usage">
+						Public perception of Mitt Romney is still largely negative .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.globalpost.com/dispatch/news/politics/elections/120928/mitt-romney-less-popular-george-bush-bloomberg-poll" target="_blank" rel="external nofollow">globalpost.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Now suppose there is also a perceiver that has no direct perception of the time t but can only perceive the state i without knowing what t is, getting the corresponding perception pi . 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						For simplicity, assume that the perception of each distinct state is distinct, so pi = pj if and only if i = j . 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						But because the perceiver has no direct perception of t, for the perceiver only the perceptions pi and their time fractions fi are relevant. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						Although all of this is completely deterministic, for the perceiver it can be interpreted as if it has the perception pi with probability fi . 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						One might be interested not merely in the probabilities of the individual perceptions pi , but also in various sets of them, say S . 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						One can combine sets of perceptions by the AND (∧) and OR (∨) operations. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						Although i(t), and hence also R(t), which just encodes the information in i(t) in a different form, is not directly relevant to the perceiver, which has no access to the time t, the time-average of R(t), namely ρ, is relevant to the perceiver by giving the measure of the various perceptions that the perceiver has. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						Thus we have expressed the hypothetical probabilities (actually fractions of an unperceived time), for a set S of perceptions in this classical model, by Eq. (10), the trace of the product of a diagonal pro jection matrix and a diagonal density matrix. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						It is only when one hypothesizes a random sample of a set S of perceptions, here represented by the pro jection operator P (S ), that one gets by Eq. (10) the probability f (S ) = tr(P(S)ρ), the measure of the set S represented by P (S ). 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						If the quantum system and the perceptions of it are restricted by superselection rules for some conserved quantity, then in a basis of eigenstates of this quantity, the relevant density matrix ρ is restricted to have all off-diagonal terms zero that connect different values of the conserved quantity. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						Then f (S ) = tr(P(S)ρ) given by Eq. (10) would no longer directly be a probability but could be reinterpreted to be the measure for the set S of perceptions. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						Thus in this case one can say that a density matrix ρ for the quantum system induces, by the normalized form of Eq. (10), a probability distribution over the space of sets of perceptions. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						If f (M ) is not ﬁnite, one cannot deﬁne a normalized probability distribution over the full set M of perceptions, but one can still do it over some subset, say M ′ , if f (M ′ ) is ﬁnite. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						Page, “Sensible Quantum Mechanics: Are Only Perceptions Probabilistic?” quant-ph/9506010. 
+					</div>
+					<div class="uAuthor">
+						Quantum Mechanics as a Simple Generalization of Classical Mechanics
+					</div>
+										<div class="usage">
+						We have perception and knowledge with and without awareness. “Long-term memory enriches our lives incredibly, but you don’t need it to be aware. 
+					</div>
+					<div class="uAuthor">
+						A model of memory, learning and recognition
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a feeling of understanding"><a href="perceptivity.html">perceptivity</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="unperceptiveness.html">unperceptiveness</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="discrimination.html">discrimination</a>, <a href="perception.html">perception</a>, <a href="secernment.html">secernment</a>, <a href="sensibility.html">sensibility</a>, <a href="sensitiveness.html">sensitiveness</a>, <a href="sensitivity.html">sensitivity</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="connoisseurship.html">connoisseurship</a>, <a href="culture.html">culture</a>, <a href="delicacy.html">delicacy</a>, <a href="discretion.html">discretion</a>, <a href="style.html">style</a>, <a href="trend.html">trend</a>, <a href="vertu.html">vertu</a>, <a href="virtu.html">virtu</a>, <a href="vogue.html">vogue</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="discern.html">discern</a>, <a href="perceptive.html">perceptive</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="flair.html">flair</a>, <a href="inept.html">inept</a>, <a href="tactless.html">tactless</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					oerceptiveness, lerceptiveness, pwrceptiveness, psrceptiveness, pdrceptiveness, prrceptiveness, peeceptiveness, pedceptiveness, pefceptiveness, petceptiveness, perxeptiveness, perdeptiveness, perfeptiveness, perveptiveness, percwptiveness, percsptiveness, percdptiveness, percrptiveness, perceotiveness, perceltiveness, percepriveness, percepfiveness, percepgiveness, percepyiveness, perceptuveness, perceptjveness, perceptkveness, perceptoveness, percepticeness, perceptifeness, perceptigeness, perceptibeness, perceptivwness, perceptivsness, perceptivdness, perceptivrness, perceptivebess, perceptivehess, perceptivejess, perceptivemess, perceptivenwss, perceptivensss, perceptivendss, perceptivenrss, perceptiveneas, perceptivenews, perceptiveneds, perceptivenexs, perceptivenezs, perceptiveneas
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

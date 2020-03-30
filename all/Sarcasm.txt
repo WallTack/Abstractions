@@ -1,0 +1,421 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>sarcasm</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">sarcasm</span> <span class="exp">witty language used to convey insults or scorn</span> <span class="quot">"he used sarcasm to upset his opponent","irony is wasted on the stupid","Satire is a sort of glass, wherein beholders do generally discover everybody's face but their own"--Jonathan Swift"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Sarcasm</span> <span class="exp">A keen, reproachful expression; a satirical remark uttered with some degree of scorn or contempt; a taunt; a gibe; a cutting jest.</span> <span class="wuQuot">"The sarcasms of those critics who imagine our art to be a matter of inspiration."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">sarcasm</span> <span class="exp">A biting taunt or gibe, or the use of such a taunt; a bitter, cutting expression; a satirical remark or expression, uttered with scorn or contempt; in rhetoric, a form of irony; bitter irony.</span> </li><li><span class="tSpeech">n</span> <span class="term">sarcasm</span> <span class="exp">Synonyms Irony, etc. (see satire,) taunt, fling.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Sarcasm</span> <span class="exp"><span class="itl">sär′kazm</span> a bitter sneer: a satirical remark in scorn or contempt: irony: a gibe</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Samuel Butler</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Samuel%20Butler.jpg" alt="Samuel%20Butler">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Neither irony or sarcasm is argument.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">E. Wigglesworh</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="E. Wigglesworh">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Sarcasm spoils reproof.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marianne Moore</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marianne Moore">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“We are suffering from too much sarcasm.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Roland Barthes</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Roland%20Barthes.jpg" alt="Roland%20Barthes">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“What I claim is to live to the full the contradiction of my time, which may well make sarcasm the condition of truth.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas Carlyle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20Carlyle.jpg" alt="Thomas%20Carlyle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Sarcasm I now see to be, in general, the language of the devil; for which reason I have long since as good as renounced it.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Fyodor Dostoevsky</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Fyodor%20Dostoevsky.jpg" alt="Fyodor%20Dostoevsky">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Sarcasm: the last refuge of modest and chaste-souled people when the privacy of their soul is coarsely and intrusively invaded.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">sarcasme</span>, L. <span class="wUets">sarcasmus</span>, Gr. <span class="wUgrk">sarkasmo`s</span>, from <span class="wUgrk">sarka`zein</span> to tear flesh like dogs, to bite the lips in rage, to speak bitterly, to sneer, fr. <span class="wUgrk">sa`rx</span> <span class="wUgrk">sa`rkos</span>, flesh
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L. <i>sarcasmus</i>—Gr. <i>sarkasmos</i>—<i>sarkazein</i>, to tear flesh like dogs, to speak bitterly—<i>sarx</i>, <i>sarkos</i>, flesh.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						No dispassionate auditor could have failed to detect the nasty ring of sarcasm.
+					</div>
+					<div class="uAuthor">
+						"The Little Warrior" by <span>P. G. Wodehouse</span>					</div>
+										<div class="usage">
+						Thus, with sarcasm, do I smash the deceptive Gloverson.
+					</div>
+					<div class="uAuthor">
+						"The Complete Works of Artemus Ward" by <span>Charles Farrar Browne (AKA Artemus Ward)</span>					</div>
+										<div class="usage">
+						She did not seem to understand the meaning of sarcasm.
+					</div>
+					<div class="uAuthor">
+						"The Angel Adjutant of "Twice Born Men"" by <span>Minnie L. Carpenter</span>					</div>
+										<div class="usage">
+						So Arthur withheld the sarcasm that was rising to his lips, and contented himself by declining Mr. Morgan's kind proposal.
+					</div>
+					<div class="uAuthor">
+						"The History of Pendennis" by <span>William Makepeace Thackeray</span>					</div>
+										<div class="usage">
+						Mr. Wain's manner changed to a slow and stately sarcasm, in much the same way as a motor-car changes from the top speed to its first.
+					</div>
+					<div class="uAuthor">
+						"Mike" by <span>P. G. Wodehouse</span>					</div>
+										<div class="usage">
+						Waves of laughter, scyllas of sarcasm, melancholic whirlpools, Melting in the vast sea of bliss.
+					</div>
+					<div class="uAuthor">
+						"Autobiography of a YOGI" by <span>Paramhansa Yogananda</span>					</div>
+										<div class="usage">
+						The young women were frightened at her sarcasm.
+					</div>
+					<div class="uAuthor">
+						"The Newcomes" by <span>William Makepeace Thackeray</span>					</div>
+										<div class="usage">
+						And the papers told people with more or less inaccuracy, humour, or sarcasm.
+					</div>
+					<div class="uAuthor">
+						"The Fighting Chance" by <span>Robert W. Chambers</span>					</div>
+										<div class="usage">
+						I did this from a desire of avoiding compliments intended as sarcasms, and visits rather of curiosity than friendship.
+					</div>
+					<div class="uAuthor">
+						"Devereux, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						If she was stung, she could utter a sarcasm; but she could not frown or raise her voice.
+					</div>
+					<div class="uAuthor">
+						"Godolphin, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						The ladies rallied the recreants, but their playful sarcasms failed of their wonted effect.
+					</div>
+					<div class="uAuthor">
+						"The Voyage of Captain Popanilla" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						He was gifted with a great command of words, which took the form of endless exposition, varied by sarcasm and passages of ornate jargon.
+					</div>
+					<div class="uAuthor">
+						"Lothair" by <span>Benjamin Disraeli</span>					</div>
+										<div class="usage">
+						Their quality underwent the Prince's bitter sarcasm, expressed to Ramorny sometimes by direct words, oftener by bitter gibes.
+					</div>
+					<div class="uAuthor">
+						"The Fair Maid of Perth" by <span>Sir Walter Scott</span>					</div>
+										<div class="usage">
+						Sarcasm from the young to the old pained him: flippant behaviour towards himself hurt him.
+					</div>
+					<div class="uAuthor">
+						"The Virginians" by <span>William Makepeace Thackeray</span>					</div>
+										<div class="usage">
+						Ibsen's sarcasms are all at the ugliness and prosaic utilitarianism of the Germans; "Moltke," he says, "has killed the poetry of battles.
+					</div>
+					<div class="uAuthor">
+						"Henrik Ibsen" by <span>Edmund Gosse</span>					</div>
+										<div class="usage">
+						The girl looked quickly at him to see if there was any sarcasm in the question, but it was evident that the inquiry was made in earnest.
+					</div>
+					<div class="uAuthor">
+						"Colonel Thorndyke's Secret" by <span>G. A. Henty</span>					</div>
+										<div class="usage">
+						Cutting sarcasms and lampoons.
+					</div>
+					<div class="uAuthor">
+						"Gargantua and Pantagruel, Book V." by <span>Francois Rabelais</span>					</div>
+										<div class="usage">
+						She ignored the implied sarcasm altogether.
+					</div>
+					<div class="uAuthor">
+						"The Last Hope" by <span>Henry Seton Merriman</span>					</div>
+										<div class="usage">
+						Use sarcasm with caution, and beware of any seeming of triumph.
+					</div>
+					<div class="uAuthor">
+						"The Making of Arguments" by <span>J. H. Gardiner</span>					</div>
+										<div class="usage">
+						The patient sarcasm with which he speaks of certain Oxford youths of his acquaintance does not escape me.
+					</div>
+					<div class="uAuthor">
+						"Shandygaff" by <span>Christopher Morley</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							At the School of Arts, a broadsheet lies<br>
+Sprayed with the sarcasm of flies:<br>
+"The Great Golightly Family<br>
+Of Entertainers Here To-night"–<br>
+Dated a year and a half ago, But left there, less from carelessness<br>
+Than from a wish to seem polite.
+							<div class="poet">"Country Towns" by <span>Kenneth Slessor</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Schilling Wears His Sarcasm On His Shirt.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2004/02/21/sports/baseball-schilling-wears-his-sarcasm-on-his-shirt.html?src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Suns Sarcasm Sets Kitty to Snickering.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eweek.com/c/a/Application-Development/Suns-Sarcasm-Sets-Kitty-to-Snickering/" target="_blank" rel="external nofollow">eweek.com</a>
+					</div>
+										<div class="usage">
+						Sean's 'Parent Of The Week' – Please Note My Sarcasm .
+					</div>
+					<div class="uAuthor">
+						<a href="http://wgna.com/seans-parent-of-the-week/" target="_blank" rel="external nofollow">wgna.com</a>
+					</div>
+										<div class="usage">
+						Andrew Jackson Jihad's sincere sarcasm .
+					</div>
+					<div class="uAuthor">
+						<a href="http://thephoenix.com/Boston/music/128891-andrew-jackson-jihads-sincere-sarcasm/" target="_blank" rel="external nofollow">thephoenix.com</a>
+					</div>
+										<div class="usage">
+						But to my mind, what really makes the show special is how it embodies the rise of what I think of as sarcasm news.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cjr.org/essay/the_sarcastic_times.php" target="_blank" rel="external nofollow">cjr.org</a>
+					</div>
+										<div class="usage">
+						After failing to stop the debut of ABC's "The Glass House," CBS is trying another tactic against its competitor: sarcasm .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/jun/20/cbs-takes-sarcastic-jab-at-abcs-glass-house/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						CBS is trying another tactic against its competitor: sarcasm .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtontimes.com/news/2012/jun/20/cbs-takes-sarcastic-jab-at-abcs-glass-house/" target="_blank" rel="external nofollow">washingtontimes.com</a>
+					</div>
+										<div class="usage">
+						LOS ANGELES — After failing to stop the debut of ABC's "The Glass House," CBS is trying another tactic against its competitor: sarcasm .
+					</div>
+					<div class="uAuthor">
+						<a href="http://lubbockonline.com/filed-online/2012-06-20/cbs-takes-sarcastic-jab-abcs-glass-house" target="_blank" rel="external nofollow">lubbockonline.com</a>
+					</div>
+										<div class="usage">
+						The sarcasm may be thanks to a 2001 party trend from Vancouver, Canada.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/blogs/arts-post/post/ugly-holiday-sweater-parties-the-origin-of-the-seasons-sarcastic-trend/2011/11/29/gIQAzl3g9N_blog.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						But I suspect sarcasm was intended.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nashvillescene.com/bites/archives/2011/09/21/washington-post-blog-gets-sarcastic-about-nashville-restaurants" target="_blank" rel="external nofollow">nashvillescene.com</a>
+					</div>
+										<div class="usage">
+						Give the gift of sarcasm this Christmas: "Summary of My Discontent," the book, now available at Carmichael's Bookstore or lulu.com.
+					</div>
+					<div class="uAuthor">
+						<a href="http://leoweekly.com/summary-my-discontent/sit-back-relax-and-enjoy-your-flight" target="_blank" rel="external nofollow">leoweekly.com</a>
+					</div>
+										<div class="usage">
+						He ignored the sarcasm, and I told him what I thought of his clearly-rigged 'poll.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.telegram.com/apps/pbcs.dll/article?AID=/20120902/COLUMN19/109029998/-1/opinion_columns" target="_blank" rel="external nofollow">telegram.com</a>
+					</div>
+										<div class="usage">
+						Obama's Sarcasm "Inappropriate" and " Unpresidential ".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commentarymagazine.com/2012/10/23/mccain-obamas-sarcasm-inappropriate-and-unpresidential/" target="_blank" rel="external nofollow">commentarymagazine.com</a>
+					</div>
+										<div class="usage">
+						You get to hear the sarcasm in Batman 's voice when talking with Superman which is pretty funny.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.eastbayri.com/video-games/video-game-review/lego-batman-2-is-the-next-evolution-of-lego-video-games/" target="_blank" rel="external nofollow">eastbayri.com</a>
+					</div>
+										<div class="usage">
+						'The Comedy' takes sarcasm to the extreme .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.themorningsun.com/article/20121204/ENTERTAINMENT05/121209877/-the-comedy-takes-sarcasm-to-the-extreme" target="_blank" rel="external nofollow">themorningsun.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						After remarking that the dwarfnova outburst mechanism is not known, the authors say with some sarcasm: “[The] Hameury et al. (1999) conclusion that there are several kinds of such mechanisms is not likely to get anybody into serious trouble”. 
+					</div>
+					<div class="uAuthor">
+						The disc instability model of dwarf-novae and low-mass X-ray binary transients
+					</div>
+										<div class="usage">
+						This may sound like sarcasm, but Kempe’s work contained a very fruitful idea which led to the eventual resolution of the problem. 
+					</div>
+					<div class="uAuthor">
+						Higher dimensional analogues of the map colouring problem
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="witty language used to convey insults or scorn"><a href="irony.html">irony</a>, <a href="satire.html">satire</a>, <a href="caustic%20remark.html">caustic remark</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="humor.html">humor</a>, <a href="humour.html">humour</a>, <a href="wit.html">wit</a>, <a href="witticism.html">witticism</a>, <a href="wittiness.html">wittiness</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="sarcastic.html">sarcastic</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="acute.html">acute</a>, <a href="antiphrasis.html">antiphrasis</a>, <a href="banter.html">banter</a>, <a href="bitterness.html">bitterness</a>, <a href="blubber.html">blubber</a>, <a href="By-wipe.html">By-wipe</a>, <a href="Causticily.html">Causticily</a>, <a href="Causticity.html">Causticity</a>, <a href="Choke%20pear.html">Choke pear</a>, <a href="cut.html">cut</a>, <a href="cynical.html">cynical</a>, <a href="dig.html">dig</a>, <a href="dryly.html">dryly</a>, <a href="fling.html">fling</a>, <a href="gall.html">gall</a>, <a href="gird.html">gird</a>, <a href="hit.html">hit</a>, <a href="invective.html">invective</a>, <a href="ironical.html">ironical</a>, <a href="ironist.html">ironist</a>, <a href="irony.html">irony</a>, <a href="jerk.html">jerk</a>, <a href="keen.html">keen</a>, <a href="Lacrymose.html">Lacrymose</a>, <a href="lash.html">lash</a>, <a href="mock.html">mock</a>, <a href="nip.html">nip</a>, <a href="Nippingly.html">Nippingly</a>, <a href="Outfling.html">Outfling</a>, <a href="poignancy.html">poignancy</a>, <a href="Quib.html">Quib</a>, <a href="ridiculer.html">ridiculer</a>, <a href="rub.html">rub</a>, <a href="rubber.html">rubber</a>, <a href="salt.html">salt</a>, <a href="sarcastic.html">sarcastic</a>, <a href="Sarcastical.html">Sarcastical</a>, <a href="satire.html">satire</a>, <a href="satirist.html">satirist</a>, <a href="satirize.html">satirize</a>, <a href="scorch.html">scorch</a>, <a href="smile.html">smile</a>, <a href="Sneap.html">Sneap</a>, <a href="sneer.html">sneer</a>, <a href="snipe.html">snipe</a>, <a href="Socratic.html">Socratic</a>, <a href="sting.html">sting</a>, <a href="underlying.html">underlying</a>, <a href="waggery.html">waggery</a>, <a href="whip.html">whip</a>, <a href="wince.html">wince</a>, <a href="wipe.html">wipe</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					aarcasm, warcasm, darcasm, xarcasm, zarcasm, aarcasm, sqrcasm, swrcasm, ssrcasm, szrcasm, saecasm, sadcasm, safcasm, satcasm, sarxasm, sardasm, sarfasm, sarvasm, sarcqsm, sarcwsm, sarcssm, sarczsm, sarcaam, sarcawm, sarcadm, sarcaxm, sarcazm, sarcaam, sarcasn, sarcasj, sarcask
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

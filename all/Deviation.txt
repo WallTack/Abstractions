@@ -1,0 +1,463 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>deviation</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">a turning aside (of your course or attention or concern)</span> <span class="quot">"a diversion from the main highway","a digression into irrelevant details","a deflection from his goal"</span></li><li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">deviate behavior</span> </li><li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">the error of a compass due to local magnetic disturbances</span> </li><li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">the difference between an observed value and the expected value of a variable or function</span> </li><li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">a variation that deviates from the standard or norm</span> <span class="quot">"the deviation from the mean"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">deviation</span> <span class="exp">The act of deviating; a wandering from the way; variation from the common way, from an established rule, etc.; departure, as from the right course or the path of duty.</span> </li><li><span class="term">deviation</span> <span class="exp"><span class="wuFld">(Statistics, Physics)</span> the difference between an expected value of an observation or measurement and the actual value.</span> </li><li><span class="term">deviation</span> <span class="exp">The state or result of having deviated; a transgression; an act of sin; an error; an offense.</span> </li><li><span class="term">deviation</span> <span class="exp"><span class="wuFld">(Com)</span> The voluntary and unnecessary departure of a ship from, or delay in, the regular and usual course of the specific voyage insured, thus releasing the underwriters from their responsibility.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">The act of deviating; a turning aside from the way or course.</span> </li><li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">Departure from a certain standard or from a rule of conduct, an original plan, etc.; variation; specifically, obliquity of conduct.</span> </li><li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">In com., the voluntary departure of a ship without necessity, or without reasonable cause, from the regular and usual course of the specific voyage insured. In the law of insurance it includes unreasonable delay on the voyage, as well as beginning an entirely different voyage.</span> </li><li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">In astronomy, the oscillatory motion of a plane; especially, in the Ptolemaic system, the oscillation of the plane of the orbit of a planet, which was supposed to account for certain inequalities in the latitude.</span> </li><li><span class="tSpeech">n</span> <span class="term">deviation</span> <span class="exp">If the law of error be stated by the equation , more conveniently written , then is called by Pearson the standard deviation. The square root of the average of the squared departures from the mean in both directions is a measure of variability called the standard deviation.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Deviation</span> <span class="exp">a going out of the way: a turning aside; error</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Aristotle</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Aristotle.jpg" alt="Aristotle">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The least initial deviation from the truth is multiplied later a thousandfold.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					LL. <span class="wUets">deviatio</span>,: cf. F. <span class="wUets">déviation</span>, 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>deviāre</i>, <i>-ātum</i>—<i>de</i>, from, <i>via</i>, a way.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Some deviations from the usual course of development may be noted.
+					</div>
+					<div class="uAuthor">
+						"Encyclopaedia Britannica, 11th Edition, Volume 2, Part 1, Slice 1" by <span>Various</span>					</div>
+										<div class="usage">
+						The light which shines to show the path of right, shines to show our deviations from it.
+					</div>
+					<div class="uAuthor">
+						"Expositions of Holy Scripture: Romans Corinthians (To II Corinthians, Chap. V)" by <span>Alexander Maclaren</span>					</div>
+										<div class="usage">
+						A man's modesty is more rigid, with little tendency to deviate toward either extreme.
+					</div>
+					<div class="uAuthor">
+						"Studies in the Psychology of Sex, Volume 1 (of 6)" by <span>Havelock Ellis</span>					</div>
+										<div class="usage">
+						Landscape painting and poetry shew the same deviations from the straight line of development as in earlier times.
+					</div>
+					<div class="uAuthor">
+						"The Development of the Feeling for Nature in the Middle Ages and Modern Times" by <span>Alfred Biese</span>					</div>
+										<div class="usage">
+						But the time came when Wade deviated from his gentleness of speech and leisure of action.
+					</div>
+					<div class="uAuthor">
+						"The Mysterious Rider" by <span>Zane Grey</span>					</div>
+										<div class="usage">
+						But, the moment we deviate from the parallelism with the axis, double refraction sets in.
+					</div>
+					<div class="uAuthor">
+						"Six Lectures on Light" by <span>John Tyndall</span>					</div>
+										<div class="usage">
+						But when I wrote John Woodvil, I never proposed to myself any distinct deviation from common English.
+					</div>
+					<div class="uAuthor">
+						"The Works of Charles Lamb in Four Volumes, Volume 4" by <span>Charles Lamb</span>					</div>
+										<div class="usage">
+						In such cases, ships often deviate from their route, but generally by going to the bottom.
+					</div>
+					<div class="uAuthor">
+						"Willis the Pilot" by <span>Johanna Spyri</span>					</div>
+										<div class="usage">
+						It would seem, however, to be the aim of life to strive after balance, any violent deviation from which is accompanied by calamity.
+					</div>
+					<div class="uAuthor">
+						"The Practice and Science Of Drawing" by <span>Harold Speed</span>					</div>
+										<div class="usage">
+						I haven't deviated a hair's breadth.
+					</div>
+					<div class="uAuthor">
+						"The Radio Boys on the Mexican Border" by <span>Gerald Breckenridge</span>					</div>
+										<div class="usage">
+						Irregular; deviating from the ordinary standard.
+					</div>
+					<div class="uAuthor">
+						"The Ancient Life History of the Earth" by <span>Henry Alleyne Nicholson</span>					</div>
+										<div class="usage">
+						Year after year, long after the cause has disappeared, the feet of the villagers continue in that same deviating track.
+					</div>
+					<div class="uAuthor">
+						"New Ideas in India During the Nineteenth Century" by <span>John Morrison</span>					</div>
+										<div class="usage">
+						But, O Kavya, I tell thee that he hath deviated from the path of rectitude.
+					</div>
+					<div class="uAuthor">
+						"The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1"					</div>
+										<div class="usage">
+						How would they deviate from virtue that have Yudhishthira for their guide?
+					</div>
+					<div class="uAuthor">
+						"The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2"					</div>
+										<div class="usage">
+						A deviation from the correct attack produces a scratchy tone.
+					</div>
+					<div class="uAuthor">
+						"Violin Mastery" by <span>Frederick H. Martens</span>					</div>
+										<div class="usage">
+						Grotius, on examining the Dutch translation, found the translator often wilfully deviating from the true sense of the original.
+					</div>
+					<div class="uAuthor">
+						"The Life of the Truly Eminent and Learned Hugo Grotius" by <span>Jean Lévesque de Burigny</span>					</div>
+										<div class="usage">
+						I allow to so much enthusiasm some little deviation from prudence.
+					</div>
+					<div class="uAuthor">
+						"The Works of the Right Honourable Edmund Burke, Vol. III. (of 12)" by <span>Edmund Burke</span>					</div>
+										<div class="usage">
+						It is out of the question to permit the deviations resulting from individual initiative.
+					</div>
+					<div class="uAuthor">
+						"The Psychology of Management" by <span>L. M. Gilbreth</span>					</div>
+										<div class="usage">
+						There are a great many deviations from the above, which are marks of great honour.
+					</div>
+					<div class="uAuthor">
+						"The Manual of Heraldry; Fifth Edition" by <span>Anonymous</span>					</div>
+										<div class="usage">
+						To deviate from this, is to deviate from Nature it self.
+					</div>
+					<div class="uAuthor">
+						"A Critical Essay on Characteristic-Writings" by <span>Henry Gally</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							That goes against His intentions!<br>
+To avoid deviations,<br>
+God will entrust the production<br>
+Into Pain's hands, a deaf titan.
+							<div class="poet">"Theater" by <span>Nikolai Stepanovich Gumilev</span></div>
+						</div>
+											<div class="poemQuote">
+							For once, then, if untutored youth,<br>
+Youth unapproved by years,<br>
+May chance to deviate into truth,<br>
+When your experience errs;
+							<div class="poet">"Upon A Venerable Rival" by <span>William Cowper</span></div>
+						</div>
+											<div class="poemQuote">
+							Constrained to what abysmal pole<br>
+Shall severed armies close their flanks<br>
+To stand with deviated ranks,<br>
+Subserving to a final goal?
+							<div class="poet">"The Testimony of the Suns" by <span>George Sterling</span></div>
+						</div>
+											<div class="poemQuote">
+							So, doubtless, when beneath thy potence swerving,<br>
+'Tis that thou lead'st us by a path unknown,<br>
+Our seeming deviations all subserving<br>
+The perfect orbit round the central throne.
+							<div class="poet">"The Dark Companion" by <span>James Brunton Stephens</span></div>
+						</div>
+											<div class="poemQuote">
+							Some fickle creatures boast a soul<br>
+True as a needle to the pole,<br>
+Their humour yet so various—<br>
+They manifest their whole life through<br>
+The needle’s deviations too,<br>
+Their love is so precarious.
+							<div class="poet">"Friendship" by <span>William Cowper</span></div>
+						</div>
+											<div class="poemQuote">
+							I must tell you all about it! But I'll have to deviate<br>
+A little in beginnin', so's to set the matter straight<br>
+As to how it comes to happen that I never took a wife--<br>
+Kindo' "crawfish" from the Present to the Springtime of my life!
+							<div class="poet">"Farmer Whipple--Bachelor" by <span>James Whitcomb Riley</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						John Baer/Lionsgate Jason Statham stars in the meat-and-potatoes action movie â€œSafe,â€ though he does deviate a bit from action-movie convention by showing some tenderness.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/entertainment/movies/index.ssf/2012/04/safe_action_flick_sticks_to_basics_but_executes_them_reasonably_well.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Then in mid-August, the International Water Ski Federation denied the record, citing boat deviation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://waterskimag.com/features/2005/09/01/parrish-the-world-record-breaker-part-iii/" target="_blank" rel="external nofollow">waterskimag.com</a>
+					</div>
+										<div class="usage">
+						People who have a deviation often breathe through their mouth during sleep.
+					</div>
+					<div class="uAuthor">
+						<a href="http://lubbockonline.com/life-columnists/2012-07-18/donohue-deviated-septum-can-be-cause-snoring" target="_blank" rel="external nofollow">lubbockonline.com</a>
+					</div>
+										<div class="usage">
+						This paper discusses how Chirascan™-plus ACD can rapidly prepare many replicates and perform multiple measurements for clear determination of standard deviations.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.genengnews.com/application-notes/strategies-to-compare-far-uv-circular-dichroism-spectra-of-similar-proteins/24/?kwrd=Chirascan%E2%84%A2-plus%20ACD" target="_blank" rel="external nofollow">genengnews.com</a>
+					</div>
+										<div class="usage">
+						In North America, a persistent ridge of high pressure over the central and eastern US brought record temperatures and substantial deviations from normal wind speeds.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nawindpower.com/e107_plugins/content/content.php?content.10446" target="_blank" rel="external nofollow">nawindpower.com</a>
+					</div>
+										<div class="usage">
+						Apple store employees are loyal to the brand, so allegations that one store deviated from the playbook spread quickly this week.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.dallasnews.com/business/retail/20120822-dallas-apple-store-gone-wild-tech-blog-features-unflattering-portrayal.ece" target="_blank" rel="external nofollow">dallasnews.com</a>
+					</div>
+										<div class="usage">
+						However, when an actor deviates from the optimal path, a typical application of A* executes a new search from the deviation point to the goal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://aaai.org/Library/AAAI/2008/aaai08-140.php" target="_blank" rel="external nofollow">aaai.org</a>
+					</div>
+										<div class="usage">
+						After engineers measure the range of process parameters, they analyze the required operational changes necessary to narrow the range and standard deviation of specific values.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ceramicindustry.com/articles/91571-kiln-connection--understanding-variability?WT.rss_f=Kiln+Connection&amp;WT.rss_a=KILN+CONNECTION%3A+Understanding+Variability&amp;WT.rss_ev=a" target="_blank" rel="external nofollow">ceramicindustry.com</a>
+					</div>
+										<div class="usage">
+						Oklahoma State deviated from its normal procedure Friday when it failed to disclose whether injured starting freshman quarterback Wes Lunt would be available for Saturday's game against Texas.
+					</div>
+					<div class="uAuthor">
+						<a href="http://blog.mysanantonio.com/big12/2012/09/osu-skates-on-lunts-availability-for-saturdays-game/" target="_blank" rel="external nofollow">blog.mysanantonio.com</a>
+					</div>
+										<div class="usage">
+						What happens if you're drilling a well and you run into dips, folds and other deviations that are too small to be detected by your seismic data model, yet large enough to interfere with your drilling.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.aapg.org/explorer/1999/12dec/california.cfm" target="_blank" rel="external nofollow">aapg.org</a>
+					</div>
+										<div class="usage">
+						Because ours is a public institution, and, as I've since discovered, we hew to a very rigid set of questions during applicant interviews: no deviation allowed.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.commonwealmagazine.org/question-0" target="_blank" rel="external nofollow">commonwealmagazine.org</a>
+					</div>
+										<div class="usage">
+						The Lehigh County District Attorney charged Saleem Faulk, 43, of the 400 block of Washington Street with rape , involuntary deviate sexual intercourse, robbery of a motor vehicle and robbery among other things.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wfmz.com/news/news-regional-lehighvalley/Saleem-Faulk-accused-of-robbing-and-or-raping-10-women/-/132502/17453476/-/10v7bufz/-/index.html" target="_blank" rel="external nofollow">wfmz.com</a>
+					</div>
+										<div class="usage">
+						The Sheridan County Fair Board decided to deviate from the path outlined by the master reconstruction plan, by voting during their regular meeting Thursday night to approve a temporary road redesign.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sheridanmedia.com/news/fairboard-discusses-road-reconstruction-and-cat-experts10322" target="_blank" rel="external nofollow">sheridanmedia.com</a>
+					</div>
+										<div class="usage">
+						The Bor-It REI (Remote Elevation Indicator) is an accurate and inexpensive method of monitoring when your casing deviates from the boring grade.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ucononline.com/bor-it-rei" target="_blank" rel="external nofollow">ucononline.com</a>
+					</div>
+										<div class="usage">
+						Google Trends calculates the popularity of a search term in any given week and charts how much it deviates from its average.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.businessweek.com/articles/2012-02-23/searching-for-jeremy-lin" target="_blank" rel="external nofollow">businessweek.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The large deviation properties of the spectral measure of such a matrix was studied in but only a large deviation upper bound could be obtained so far. 
+					</div>
+					<div class="uAuthor">
+						Large deviations and stochastic calculus for large random matrices
+					</div>
+										<div class="usage">
+						At the level of deviations, it is very natural since we shall construct inﬁnitesimally the paths to follow to create a given deviation. 
+					</div>
+					<div class="uAuthor">
+						Large deviations and stochastic calculus for large random matrices
+					</div>
+										<div class="usage">
+						Similarly, we shall not detail here the proof that ˆµN # W ⊗N is exponentially tight which reduces the proof of the large deviation principle to the proof of a weak large deviation principle and thus to estimate the probability of deviations into small open balls (cf. 
+					</div>
+					<div class="uAuthor">
+						Large deviations and stochastic calculus for large random matrices
+					</div>
+										<div class="usage">
+						Hence, Riesz’s theorem asserts that there exists a function k verifying (4.2.12,4.2.13). • Large deviation lower bound The derivation of the large deviation upper bound was thus fairly easy. 
+					</div>
+					<div class="uAuthor">
+						Large deviations and stochastic calculus for large random matrices
+					</div>
+										<div class="usage">
+						The proof is rather classical (it uses Doob’s inequality but otherwise is closely related to the proof that SµD is a good rate function); we shall omit it here (see the ﬁrst section of for details). (c) Weak large deviation upper bound : We here summarize the main arguments giving the weak large deviation upper bound. 
+					</div>
+					<div class="uAuthor">
+						Large deviations and stochastic calculus for large random matrices
+					</div>
+										<div class="usage">
+						The errors in the derived magnitudes were calculated by combining in quadrature the standard deviation of the magnitudes found from each of the calibration stars, the PSF ﬁtting error and the standard deviation of the magnitudes of artiﬁcial stars placed around the SN position having the SN magnitude. 
+					</div>
+					<div class="uAuthor">
+						A Study of the Type II-P Supernova 2003gd in M74
+					</div>
+										<div class="usage">
+						We have calculated asymetric standard deviations (deviation δχ2 = 1 for a given parameter), marginalizing over the other parameters by minimisation. 
+					</div>
+					<div class="uAuthor">
+						On the determination of the deceleration parameter from Supernovae data
+					</div>
+										<div class="usage">
+						Assuming the use of the term “dispersion ” means standard deviation of the distribution without any relative uncertainty weighting, I observe a signi ﬁcantly higher standard deviation of 0.52 magnitudes for my sample of time baselines less than one year. 
+					</div>
+					<div class="uAuthor">
+						Rates and Progenitors of Type Ia Supernovae
+					</div>
+										<div class="usage">
+						The standard GCG case has been studied previously by Multamaki et al. , who showed that for parameters slightly deviating from the ΛCDM universe (As = 1), δ deviates grossly from the standard ΛCDM result, making this model hard to reconcile with the present observational data. 
+					</div>
+					<div class="uAuthor">
+						Generalizing the generalized Chaplygin gas
+					</div>
+										<div class="usage">
+						The correspondence between the WASEP and the TASEP process in the large deviation regime has been established at the macroscopic scale, i.e. for the large deviation functionals. 
+					</div>
+					<div class="uAuthor">
+						Current large deviations for Asymmetric Exclusion Processes with open boundaries
+					</div>
+										<div class="usage">
+						A strong connection was derived in [4, 23] between the hydrodynamic large deviation functional and the one associated to the stationary measure: a density deviation in the stationary measure can be interpreted as the optimal space/time cost to produce this deviation starting from the steady state. 
+					</div>
+					<div class="uAuthor">
+						Current large deviations for Asymmetric Exclusion Processes with open boundaries
+					</div>
+										<div class="usage">
+						Because different realizations are independent, the latter ensures that the average performance is distributed normally with a mean value equal to the expected performance and standard deviation given by σ/√K , where σ is the standard deviation for all realizations. 
+					</div>
+					<div class="uAuthor">
+						Dynamical control of qubit coherence: Random versus deterministic schemes
+					</div>
+										<div class="usage">
+						This extension can be handled in the same way as for regular variation: one can give a criterion for a large deviation principle in terms of large deviation principles for the ﬁnite-dimensional distributions of the sequence (Xn ) in combination with a relative compactness condition. 
+					</div>
+					<div class="uAuthor">
+						Functional large deviations for multivariate regularly varying random walks
+					</div>
+										<div class="usage">
+						Large deviations for a heavy-tailed random walk process. section we show a large deviation principle for a random walk with i.i.d. 
+					</div>
+					<div class="uAuthor">
+						Functional large deviations for multivariate regularly varying random walks
+					</div>
+										<div class="usage">
+						Since the union of the two disjoint orbits covers almost all possible ab values for (c, w), if deviations in one orbit are of the form qi = pi (1 + εi), then in the other orbit the corresponding deviations are approximately q ′ i = pi (1 − εi ). 
+					</div>
+					<div class="uAuthor">
+						Design Flaws in the Implementation of the Ziggurat and Monty Python methods (and some remarks on Matlab randn)
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="a turning aside (of your course or attention or concern)"><a href="digression.html">digression</a>, <a href="deflection.html">deflection</a>, <a href="deflexion.html">deflexion</a>, <a href="divagation.html">divagation</a>, </div><div class="synGroup" title="deviate behavior"><a href="deviance.html">deviance</a>, </div><div class="synGroup" title="a variation that deviates from the standard or norm"><a href="divergence.html">divergence</a>, <a href="departure.html">departure</a>, <a href="difference.html">difference</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="abnormality.html">abnormality</a>, <a href="erroneousness.html">erroneousness</a>, <a href="error.html">error</a>, <a href="fluctuation.html">fluctuation</a>, <a href="irregularity.html">irregularity</a>, <a href="statistic.html">statistic</a>, <a href="turn.html">turn</a>, <a href="turning.html">turning</a>, <a href="variation.html">variation</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="discrepancy.html">discrepancy</a>, <a href="driftage.html">driftage</a>, <a href="flection.html">flection</a>, <a href="flexion.html">flexion</a>, <a href="inflection.html">inflection</a>, <a href="mean%20deviation.html">mean deviation</a>, <a href="mean%20deviation%20from%20the%20mean.html">mean deviation from the mean</a>, <a href="outlier.html">outlier</a>, <a href="red%20herring.html">red herring</a>, <a href="variance.html">variance</a>, <a href="variant.html">variant</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="deviate.html">deviate</a>, <a href="diversionary.html">diversionary</a>, <a href="diversionist.html">diversionist</a>, <a href="divert.html">divert</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="aberrance.html">aberrance</a>, <a href="aberrancy.html">aberrancy</a>, <a href="Aberrancy%20of%20curvature.html">Aberrancy of curvature</a>, <a href="aberration.html">aberration</a>, <a href="abnormality.html">abnormality</a>, <a href="adhere.html">adhere</a>, <a href="allowance.html">allowance</a>, <a href="Anomalism.html">Anomalism</a>, <a href="anomalousness.html">anomalousness</a>, <a href="anomaly.html">anomaly</a>, <a href="Antichronism.html">Antichronism</a>, <a href="astigmatic.html">astigmatic</a>, <a href="Azimuthal%20error.html">Azimuthal error</a>, <a href="balance.html">balance</a>, <a href="barrator.html">barrator</a>, <a href="Beside.html">Beside</a>, <a href="binding.html">binding</a>, <a href="compass.html">compass</a>, <a href="correlation.html">correlation</a>, <a href="crookedness.html">crookedness</a>, <a href="Curviserial.html">Curviserial</a>, <a href="declension.html">declension</a>, <a href="declination.html">declination</a>, <a href="decline.html">decline</a>, <a href="declinometer.html">declinometer</a>, <a href="declivity.html">declivity</a>, <a href="deflection.html">deflection</a>, <a href="deflective.html">deflective</a>, <a href="deflexion.html">deflexion</a>, <a href="Deflexure.html">Deflexure</a>, <a href="deformity.html">deformity</a>, <a href="departure.html">departure</a>, <a href="derivation.html">derivation</a>, <a href="detour.html">detour</a>, <a href="Deviation%20of%20a%20falling%20body.html">Deviation of a falling body</a>, <a href="digression.html">digression</a>, <a href="direct.html">direct</a>, <a href="directly.html">directly</a>, <a href="disease.html">disease</a>, <a href="dishonesty.html">dishonesty</a>, <a href="dispersion.html">dispersion</a>, <a href="distortion.html">distortion</a>, <a href="disturbance.html">disturbance</a>, <a href="divagation.html">divagation</a>, <a href="divergence.html">divergence</a>, <a href="drift.html">drift</a>, <a href="driftage.html">driftage</a>, <a href="eccentric.html">eccentric</a>, <a href="eccentricity.html">eccentricity</a>, <a href="ellipticity.html">ellipticity</a>, <a href="erroneousness.html">erroneousness</a>, <a href="error.html">error</a>, <a href="Error%20of%20collimation.html">Error of collimation</a>, <a href="Error%20of%20the%20mean%20square.html">Error of the mean square</a>, <a href="evil.html">evil</a>, <a href="excursion.html">excursion</a>, <a href="exorbitance.html">exorbitance</a>, <a href="Exorbitancy.html">Exorbitancy</a>, <a href="expedient.html">expedient</a>, <a href="eye.html">eye</a>, <a href="fault.html">fault</a>, <a href="figure.html">figure</a>, <a href="flection.html">flection</a>, <a href="flexion.html">flexion</a>, <a href="grade.html">grade</a>, <a href="Hade.html">Hade</a>, <a href="Heeling%20error.html">Heeling error</a>, <a href="Heterochronism.html">Heterochronism</a>, <a href="Heterochrony.html">Heterochrony</a>, <a href="Heteromorphism.html">Heteromorphism</a>, <a href="Heterotopism.html">Heterotopism</a>, <a href="Heterotopy.html">Heterotopy</a>, <a href="Idiotism.html">Idiotism</a>, <a href="inclination.html">inclination</a>, <a href="indirectness.html">indirectness</a>, <a href="inequality.html">inequality</a>, <a href="Inerringly.html">Inerringly</a>, <a href="inflection.html">inflection</a>, <a href="inflexion.html">inflexion</a>, <a href="iniquity.html">iniquity</a>, <a href="Inordination.html">Inordination</a>, <a href="Inorthography.html">Inorthography</a>, <a href="irregularity.html">irregularity</a>, <a href="Isogonic%20lines.html">Isogonic lines</a>, <a href="just.html">just</a>, <a href="lapse.html">lapse</a>, <a href="latitude.html">latitude</a>, <a href="lean.html">lean</a>, <a href="leeway.html">leeway</a>, <a href="level.html">level</a>, <a href="license.html">license</a>, <a href="looseness.html">looseness</a>, <a href="malformation.html">malformation</a>, <a href="Mean-square%20error.html">Mean-square error</a>, <a href="Medius.html">Medius</a>, <a href="miracle.html">miracle</a>, <a href="misprint.html">misprint</a>, <a href="modernism.html">modernism</a>, <a href="monster.html">monster</a>, <a href="Northing.html">Northing</a>, <a href="Obliquation.html">Obliquation</a>, <a href="obliquity.html">obliquity</a>, <a href="offset.html">offset</a>, <a href="outlier.html">outlier</a>, <a href="pathology.html">pathology</a>, <a href="perturbation.html">perturbation</a>, <a href="pitch.html">pitch</a>, <a href="point-blank.html">point-blank</a>, <a href="prevarication.html">prevarication</a>, <a href="prism.html">prism</a>, <a href="Profilograph.html">Profilograph</a>, <a href="rake.html">rake</a>, <a href="refractometer.html">refractometer</a>, <a href="regression.html">regression</a>, <a href="remedy.html">remedy</a>, <a href="Remedy%20of%20the%20mint.html">Remedy of the mint</a>, <a href="reversal.html">reversal</a>, <a href="rigor.html">rigor</a>, <a href="rigorous.html">rigorous</a>, <a href="sally.html">sally</a>, <a href="scape.html">scape</a>, <a href="Scordatura.html">Scordatura</a>, <a href="self-consistent.html">self-consistent</a>, <a href="sequence.html">sequence</a>, <a href="shear.html">shear</a>, <a href="sheer.html">sheer</a>, <a href="skew.html">skew</a>, <a href="slant.html">slant</a>, <a href="solecism.html">solecism</a>, <a href="spectrometer.html">spectrometer</a>, <a href="square.html">square</a>, <a href="Stasimorphy.html">Stasimorphy</a>, <a href="stay.html">stay</a>, <a href="steadily.html">steadily</a>, <a href="straight.html">straight</a>, <a href="straightforward.html">straightforward</a>, <a href="strict.html">strict</a>, <a href="temperament.html">temperament</a>, <a href="Transcursion.html">Transcursion</a>, <a href="turning.html">turning</a>, <a href="variance.html">variance</a>, <a href="variation.html">variation</a>, <a href="Variation%20of%20the%20needle.html">Variation of the needle</a>, <a href="variety.html">variety</a>, <a href="vice.html">vice</a>, <a href="wandering.html">wandering</a>, <a href="yaw.html">yaw</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					seviation, eeviation, feviation, ceviation, xeviation, seviation, dwviation, dsviation, ddviation, drviation, deciation, defiation, degiation, debiation, devuation, devjation, devkation, devoation, deviqtion, deviwtion, devistion, deviztion, deviarion, deviafion, deviagion, deviayion, deviatuon, deviatjon, deviatkon, deviatoon, deviatiin, deviatikn, deviatiln, deviatipn, deviatiob, deviatioh, deviatioj, deviatiom
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

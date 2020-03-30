@@ -1,0 +1,564 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>harmony</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/159/39/10143.jpg" alt="A FORETASTE OF HOME RULE HARMONY">
+							<div class="caption">A FORETASTE OF HOME RULE HARMONY</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">compatibility in opinion and action</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">an agreeable sound property</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">the structure of music with respect to the composition and progression of chords</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">agreement of opinions</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">a harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Researchers in Denmark found that beer tastes best when drunk to the accompaniment of a certain musical tone. The optimal frequency is different for each beer, they reported. The correct harmonious tone for Carlsberg Lager, for example, is 510-520 cycles per second.									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Harmony</span> <span class="exp">A literary work which brings together or arranges systematically parallel passages of historians respecting the same events, and shows their agreement or consistency; as, a <span class="wUex">harmony</span> of the Gospels.</span> </li><li><span class="term">Harmony</span> <span class="exp"><span class="wuFld">(Mus)</span> A succession of chords according to the rules of progression and modulation.</span> </li><li><span class="term">Harmony</span> <span class="exp">Concord or agreement in facts, opinions, manners, interests, etc.; good correspondence; peace and friendship; as, good citizens live in <span class="wUex">harmony</span>
+            .</span> </li><li><span class="term">Harmony</span> <span class="exp"><span class="wuFld">(Anat)</span> See <span class="wUcref">Harmonic suture</span>, under <span class="wUer">Harmonic</span>.</span> </li><li><span class="term">Harmony</span> <span class="exp">The just adaptation of parts to each other, in any system or combination of things, or in things intended to form a connected whole; such an agreement between the different parts of a design or composition as to produce unity of effect; as, the <span class="wUex">harmony</span> of the universe.</span> </li><li><span class="term">Harmony</span> <span class="exp"><span class="wuFld">(Mus)</span> The science which treats of their construction and progression.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">A combination of tones that is pleasing to the ear; concord of sounds or tones.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">Especially, in music: Music in general, regarded as an agreeable combination of tones.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">Any simultaneous combination of consonant or related tones; a concord.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">Specifically, a common chord or triad. See triad. It is tonic when based directly on the tonic or key-note, dominant when based on the dominant or fifth tone of the key.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">The entire chordal structure of a piece, as distinguished from its melody or its rhythm. Harmony is two-part, three-part, four-part, etc., according to the number of the voice-parts employed. It is strict or false, according to its observance of established rules of chord-formation and voice-progression. It is simple when not more than one of the essential tones of the chords is doubled, compound when two or more of those tones are doubled; compound harmony requires more than four voice-parts. It is close when the voice-parts lie as close together as the structure of the chords will allow; dispersed, extended, open, or spread, when they are so separated that by transposition of an octave any one would fall between two others. It is plain when only essential tones are used and when derived chords are but sparingly introduced; figured, when suspensions, anticipations, passing-notes, etc., are used for melodic and rhythmic variety, or when foreign tones are frequently introduced. It is diatonic when only the tones of a given key are used, chromatic when other tones also appear. It is pure when performed in pure intonation, tempered when performed in tempered intonation.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">The science of the structure, relations, and practical combination of chords: the fundamental branch of the science of musical composition. It regards composition rather vertically than horizontally, noting especially the chords involved, and studying the voice-parts only so far as their nature or relations affect the value and interrelation of the successive chords. It treats of the following topics: intervals, consonant or dissonant, typical or derived, perfect, major, minor, diminished, or augmented; chords, both triads and seventh-chords, typical and derived (with their inversions), major, minor, diminished, and augmented, with their esthetic value both independently and comparatively; voice-progression, from chord to chord, direct, oblique or opposite, pure or false, including the preparation and resolution of discords; suspensions, anticipations, passing-notes, and all other melodic interferences with regular chords, including figuration; tonality or keyship, with special regard to the relations of the tonic and dominant chords, to the use of derived chords, and to the formation of cadences; modulation, or the alteration of tonality by the use of tones foreign to the original key, with the classification of key-relationships; thorough-bass, the science of indicating harmonic facts by figures and signs appended to the notes of a given bass. Harmony is now technically distinguished from counterpoint, and regarded as the more elementary branch of composition; but historically counterpoint preceded it by some centuries. Harmony in the modern sense did not become possible until between 1550 and 1600, when the esthetic value of chords as such was recognized for the first time in scientific music. Its development since that time has been steady and radically important to musical history. Its rules have been modified more or less so as to admit to usage, under certain conditions, many chord-formations and voice-progressions at first regarded as entirely impermissible. The growth of instrumental music, especially of that for the organ and pianoforte, has considerably influenced the conception of harmonic canons, leading them away from the simplicity originally derived from a purely vocal standard. Acoustical researches have also, from time to time, led to rearrangements of harmonic material. The great body of harmonic principles is now substantially accepted by all theorists, in nearly identical form, as the only sound basis for a thorough science of composition or a just method of criticism. Numerous efforts have been made by the profounder musical theorists to discover more comprehensive principles of composition from which the ordinary rules of harmony may be deduced, but with as yet but uncertain practical result.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">Any arrangement or combination of related parts or elements that is consistent or is esthetically pleasing; agreement of particulars according to some standard of consistency or of the esthetic judgment; an accordant, agreeable, or suitable conjunction or assemblage of details; concord; congruity. Harmony is to be distinguished from symmetry: thus, in a symmetrical building, two opposite wings are exactly identical, though usually with the architectural members in inverse order, while in a harmonious building the two wings need not be identical in a single detail, if they balance each other so as to form, taken together, a pleasing and consistent whole.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">Accord, as in action or feeling; agreement, as in sentiment or interests; concurrence; good understanding; peace and friendship.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">A collation of parallel passages from different works treating of the same subject, for the purpose of showing their agreement and of explaining their apparent discrepancies. Specifically — A consecutive account of all the facts of the life and ministry of Jesus Christ, presented in the language of the gospel narratives, so brought together as to present as nearly as possible the true chronological order, with the different accounts of the same transactions placed side by side to supplement one another.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">In anatomy, same as harmonia, 1.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">The tonic, dominant, and subdominant triads of a major key.</span> </li><li><span class="tSpeech">n</span> <span class="term">harmony</span> <span class="exp">Correspondence, consistency, congruity; amity.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Harmony</span> <span class="exp"><span class="itl">här′mo-ni</span> a fitting together of parts so as to form a connected whole, agreement in relation: in art, a normal state of completeness and order in the relations of things to each other:</span> </li><li><span class="tSpeech">n</span> <span class="term">Harmony</span> <span class="exp"><span class="itl">här′mo-ni</span> (<span class="itl">mus.</span>) a simultaneous combination of accordant sounds: the whole chordal structure of a piece, as distinguished from its melody or its rhythm: concord, music in general: a collation of parallel passages regarding the same event arranged to demonstrate the substantial unity—as of the Gospels</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Etty Hilsum</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Etty Hilsum">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“One must marry one's feelings to one's beliefs and ideas. That is probably the only way to achieve a measure of harmony in one's life.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Doug Floyd</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Doug Floyd">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“You don't get harmony when everybody sings the same note.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Benny Green</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Benny Green">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A jazz musician is a juggler who uses harmonies instead of oranges.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Charles Wright</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Charles Wright">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“It's linkage I'm talking about, and harmonies and structures, And all the various things that lock our wrists to the past.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James Allen</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/James%20Allen.jpg" alt="James%20Allen">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Harmony is one phase of the law whose spiritual expression is love.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">William Wordsworth</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/William%20Wordsworth.jpg" alt="William%20Wordsworth">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“With the eye made quiet by power of harmony, and the deep power of joy, We see into the life of things.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">harmonie</span>, L. <span class="wUets">harmonia</span>, Gr. <span class="wUgrk">"armoni`a</span> joint, proportion, concord, fr. <span class="wUgrk">"armo`s</span> a fitting or joining. See <span class="wUer">Article</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr.,—L.,—Gr. <i>harmonia</i>—<i>harmos</i>, a fitting—<i>arein</i>, to fit.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						And to-day there are no longer musical rules, forbidden harmonies, dissonances.
+					</div>
+					<div class="uAuthor">
+						"Musical Portraits" by <span>Paul Rosenfeld</span>					</div>
+										<div class="usage">
+						She was on her way to Consul Cinatti's house, and was walking, for the Portuguese Consulate was quite close to Harmony.
+					</div>
+					<div class="uAuthor">
+						"The Petticoat Commando" by <span>Johanna Brandt</span>					</div>
+										<div class="usage">
+						Music itself, the art of tone-sequence, they called harmony.
+					</div>
+					<div class="uAuthor">
+						"A Popular History of the Art of Music" by <span>W. S. B. Mathews</span>					</div>
+										<div class="usage">
+						Their characters and judgments have lacked harmony, and their lives have been marked by the same deficiencies.
+					</div>
+					<div class="uAuthor">
+						"Aims and Aids for Girls and Young Women" by <span>George Sumner Weaver</span>					</div>
+										<div class="usage">
+						With these objects all good governments must be in harmony.
+					</div>
+					<div class="uAuthor">
+						"Usury" by <span>Calvin Elliott</span>					</div>
+										<div class="usage">
+						It is the magical touch which reduces to harmony the quivering vibrations of many opposites.
+					</div>
+					<div class="uAuthor">
+						"The Complex Vision" by <span>John Cowper Powys</span>					</div>
+										<div class="usage">
+						Ere long, a period approached when the harmony which had hitherto prevailed was about to be broken.
+					</div>
+					<div class="uAuthor">
+						"The Lonely Island" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						He will feel a sense of harmony.
+					</div>
+					<div class="uAuthor">
+						"How to Add Ten Years to your Life and to Double Its Satisfactions" by <span>S. S. Curry</span>					</div>
+										<div class="usage">
+						It will make you kind and gentle and generous, if you have the wish to be in perfect harmony with it.
+					</div>
+					<div class="uAuthor">
+						"The Choice of Life" by <span>Georgette Leblanc</span>					</div>
+										<div class="usage">
+						Harmony usually follows a bitter convention quarrel.
+					</div>
+					<div class="uAuthor">
+						"A Political History of the State of New York, Volumes 1-3" by <span>DeAlva Stanwood Alexander</span>					</div>
+										<div class="usage">
+						All his causal dealing with the mind presupposes that he has selected a certain end in harmony with his purpose.
+					</div>
+					<div class="uAuthor">
+						"Psychotherapy" by <span>Hugo Münsterberg</span>					</div>
+										<div class="usage">
+						They affirm that truth consists, not in facts, but in harmony of facts.
+					</div>
+					<div class="uAuthor">
+						"Creative Unity" by <span>Rabindranath Tagore</span>					</div>
+										<div class="usage">
+						But this is not unison: it is harmony.
+					</div>
+					<div class="uAuthor">
+						"My Daily Meditation for the Circling Year" by <span>John Henry Jowett</span>					</div>
+										<div class="usage">
+						The world simply cannot tolerate the Gospel, and no unity or harmony is ever to be hoped for.
+					</div>
+					<div class="uAuthor">
+						"Epistle Sermons, Vol. III" by <span>Martin Luther</span>					</div>
+										<div class="usage">
+						The sentiment of his song was not altogether out of harmony with my own feelings.
+					</div>
+					<div class="uAuthor">
+						"My Brave and Gallant Gentleman" by <span>Robert Watson</span>					</div>
+										<div class="usage">
+						This harmony we call Life.
+					</div>
+					<div class="uAuthor">
+						"The Mechanism of Life" by <span>Stéphane Leduc</span>					</div>
+										<div class="usage">
+						Harmony in the brass.
+					</div>
+					<div class="uAuthor">
+						"Principles of Orchestration" by <span>Nikolay Rimsky-Korsakov</span>					</div>
+										<div class="usage">
+						To confer upon Congress all necessary power clearly defined, was considered the only safe policy to insure future harmony and safety.
+					</div>
+					<div class="uAuthor">
+						"Sages and Heroes of the American Revolution" by <span>L. Carroll Judson</span>					</div>
+										<div class="usage">
+						When man is happy he is in harmony with himself and his environment.
+					</div>
+					<div class="uAuthor">
+						"Miscellaneous Aphorisms; The Soul of Man" by <span>Oscar Wilde</span>					</div>
+										<div class="usage">
+						Note how harmoniously the art of Man Blends with the Beautiful of Nature!
+					</div>
+					<div class="uAuthor">
+						"The Poetical Works of Sir Edward Bulwer Lytton, Bart. M.P." by <span>Edward Bulwer Lytton</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							She walks within her wild harmonious maze,<br>
+Weaving her melodies from doubt and haze,<br>
+And leaves us freed from care<br>
+Like children standing there.
+							<div class="poet">"Andante -  Beethoven's Sixth Symphony" by <span>Annie Adams Fields</span></div>
+						</div>
+											<div class="poemQuote">
+							But long have I lingered, and watch'd in vain,<br>
+To see the light of the starry train<br>
+Sweep in beauty across the sky,<br>
+To tones of heavenly harmony.
+							<div class="poet">"The Indian Cupid" by <span>Louisa Stuart Costello</span></div>
+						</div>
+											<div class="poemQuote">
+							And thou, too curious ear, that fain<br>
+Wouldst thread the maze of Harmony,<br>
+Content thee with one simple strain,<br>
+The lowlier, sure, the worthier thee;
+							<div class="poet">"Fourth Sunday In Advent" by <span>John Keble</span></div>
+						</div>
+											<div class="poemQuote">
+							And sometimes dreamed our lisping songs<br>
+Of humanhood<br>
+Might voice his silent harmony<br>
+Of waste and wood,<br>
+And he, beholding his and ours,<br>
+Might find it good.
+							<div class="poet">"L'envoi" by <span>John Charles McNeill </span></div>
+						</div>
+											<div class="poemQuote">
+							Thus, lovely maid! on fluttering wings,<br>
+Thy pow'rs a thousand fears pursue,<br>
+Which, like thy own harmonious strings,<br>
+When press'd enchant, and tremble too!
+							<div class="poet">"Lines To An Accomplished Young Lady" by <span>Sir John Carr</span></div>
+						</div>
+											<div class="poemQuote">
+							Praise him ye loud harmonious Spheres,<br>
+Whose Sacred Stamp all Nature bears,<br>
+Who did all Forms from the rude Chaos draw,<br>
+And whose Command is th'universal Law:
+							<div class="poet">"A Paraphrase On The CXLVIIIth Psalm" by <span>Wentworth Dillon</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						I am sucker for harmony and these guys deliver like no others.
+					</div>
+					<div class="uAuthor">
+						<a href="http://k99.com/due-west-to-help-high-park-fire-victims-thursday/" target="_blank" rel="external nofollow">k99.com</a>
+					</div>
+										<div class="usage">
+						The group's harmony-laden recordings of politically minded songs by Bob Dylan and Pete Seeger ushered them to the top of the sales charts in the 1960s.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/news/la-me-mary-travers17-2009sep17,0,1224459.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Nov 17, at 7:30 pm, the Worcester Men of Song Chorus will perform "The Fabulous Forties ," a barbershop harmony concert, at Mechanics Hall, 321 Main St, Worcester.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.communityadvocate.com/2012/10/19/worcester-men-of-song-chorus-presents-the-fabulous-forties/" target="_blank" rel="external nofollow">communityadvocate.com</a>
+					</div>
+										<div class="usage">
+						Enjoy the harmonious voices of the Free Church of Tonga's Choir at the Baldwin Home lawn on Thursday, Dec 8, from 11 am to 12:30 p.m. Bring your lunch, mats, chairs, friends and family for this free treat.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.lahainanews.com/page/content.detail/id/507603/Hawaiian-Music-Series-to-feature-Free-Church-of-Tonga-Choir.html?nav=14" target="_blank" rel="external nofollow">lahainanews.com</a>
+					</div>
+										<div class="usage">
+						Soaring harmonies and heartbreaking lyrics shook a sold-out crowd at the Huntington Center today as the Rascal Flatts brought home a strong lineup of performances.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.toledoblade.com/A-E/2012/10/04/Rascal-Flatts-mix-past-successes-with-fresh-new-sounds-at-Huntington-Center.html" target="_blank" rel="external nofollow">toledoblade.com</a>
+					</div>
+										<div class="usage">
+						Donors, volunteers transforming old Camp Montvale into Harmony Family Center.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.knoxnews.com/photos/2012/jan/12/185693/" target="_blank" rel="external nofollow">knoxnews.com</a>
+					</div>
+										<div class="usage">
+						The 2nd Squadron, 16th Cavalry Regiment, 316th Cavalry Brigade, conducted its first Armor Basic Officer Leader Course tank gunnery range July 12 at Brooks Range on Harmony Church.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ledger-enquirer.com/2011/07/20/1664122/first-armor-school-gunnery-course.html" target="_blank" rel="external nofollow">ledger-enquirer.com</a>
+					</div>
+										<div class="usage">
+						Backup harmonies head to the front.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/la-et-recordrack24-2008jun24,0,779708.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Lovelace strikes the harmony and calls up the civility we seek today for ourselves and our kids.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.citypages.com/1999-07-01/feature/get-the-hammock-ready/" target="_blank" rel="external nofollow">citypages.com</a>
+					</div>
+										<div class="usage">
+						Serve up a harmonious Thanksgiving Day dinner.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.timesleader.com/stories/Serve-up-a-harmonious-Thanksgiving-Day-dinner,225019?category_id=461&amp;town_id=1&amp;sub_type=stories" target="_blank" rel="external nofollow">timesleader.com</a>
+					</div>
+										<div class="usage">
+						 Harmonious Commands $2.8 Million at Keeneland.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.bloodhorse.com/horse-racing/articles/74262/harmonious-commands-28-million-at-keeneland" target="_blank" rel="external nofollow">bloodhorse.com</a>
+					</div>
+										<div class="usage">
+						Certainly, many places here have more grace, more age, more harmony than the Palace of Topkapi and its mesh of pavilions and styles.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1993/08/22/travel/center-of-ottoman-power.html" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Singer-songwriter describes how his new album is nothing but imperfect harmonies.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.pbs.org/wnet/tavissmiley/interviews/singer-songwriter-serj-tankian-2/?show=4719" target="_blank" rel="external nofollow">pbs.org</a>
+					</div>
+										<div class="usage">
+						 Serj Tankian, "Imperfect Harmonies".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.billboard.com/new-releases/serj-tankian-imperfect-harmonies-1004116683.story" target="_blank" rel="external nofollow">billboard.com</a>
+					</div>
+										<div class="usage">
+						System of a Down's Serj Tankian Stays Busy With 'Harmonies'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.billboard.com/news/system-of-a-down-s-serj-tankian-stays-busy-1004110572.story" target="_blank" rel="external nofollow">billboard.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						It is worth noting that al l the results obtained above, are in great harmony with each other. 
+					</div>
+					<div class="uAuthor">
+						A General Variational Principle of Classical Field and Its Application to General relativity I
+					</div>
+										<div class="usage">
+						The conceptual framework of relativistic quantum ﬁeld theory—the music paper for the harmonies of the microscopic universe—is thus a most encompassing one producing, through the marriage of  and c, quite a uniﬁcation of concepts accounting for observational facts of the physical Universe. 
+					</div>
+					<div class="uAuthor">
+						A Pedestrian Introduction to the Mathematical Concepts of Quantum Physics
+					</div>
+										<div class="usage">
+						This ma jor conclusion from the model also resolves the HubbleSandage paradox on the scale of ∼ 10 Mpc, in harmony with our general approach to the old puzzle (Sec.1). 
+					</div>
+					<div class="uAuthor">
+						Dark energy domination in the Virgocentric flow
+					</div>
+										<div class="usage">
+						Verschelde, “A reﬁnement of the Gribov-Zwanziger approach in the Landau gauge: infrared propagators in harmony with the lattice results,” Phys. 
+					</div>
+					<div class="uAuthor">
+						The dynamical origin of the refinement of the Gribov-Zwanziger theory
+					</div>
+										<div class="usage">
+						Now the harmony of the mutual relationship in the theory is such that I no longer have the slightest doubt about its correctness. 
+					</div>
+					<div class="uAuthor">
+						Genesis of general relativity - Discovery of general relativity
+					</div>
+										<div class="usage">
+						Harmonious logic: Craig’s interpolation theorem and its descendants. 
+					</div>
+					<div class="uAuthor">
+						An Algebraic Preservation Theorem for Aleph-Zero Categorical Quantified Constraint Satisfaction
+					</div>
+										<div class="usage">
+						But in this sense, we have the emergence of a new kind of philosophy or perhaps a return to the original sense of the word, when physics and natural sciences in general, at that time called natural philosophy, were structured on the concepts of philosophy and both were in perfect harmony. 
+					</div>
+					<div class="uAuthor">
+						On the Nature of Reality
+					</div>
+										<div class="usage">
+						The presence of polymer adhesive stripes on the side walls that induce an increased dissipation, leads to a lowering of the respective impact frequencies, in harmony with the observed trends displayed in Fig. 3. 
+					</div>
+					<div class="uAuthor">
+						Granular gases in mechanical engineering: on the origin of heterogeneous ultrasonic shot peening
+					</div>
+										<div class="usage">
+						This is in fact favourable, since we do not know whether every tree is harmonious, and if there is one in our range, our algorithm should not be blocked. 
+					</div>
+					<div class="uAuthor">
+						New Computational Result on Harmonious Trees
+					</div>
+										<div class="usage">
+						When we try to label a node, we may have various choices, but some of them may violate the condition for harmonious labelling. 
+					</div>
+					<div class="uAuthor">
+						New Computational Result on Harmonious Trees
+					</div>
+										<div class="usage">
+						It is easy to see that, if we always assign valid labels in each step, we will obtain a harmonious labelling. 
+					</div>
+					<div class="uAuthor">
+						New Computational Result on Harmonious Trees
+					</div>
+										<div class="usage">
+						Finding harmonious labelling can be modelled as a combinatorial optimization problem. 
+					</div>
+					<div class="uAuthor">
+						New Computational Result on Harmonious Trees
+					</div>
+										<div class="usage">
+						We have E val(f ) = 0 exactly when the induced labelling g is an bijection, that is to say f is harmonious. 
+					</div>
+					<div class="uAuthor">
+						New Computational Result on Harmonious Trees
+					</div>
+										<div class="usage">
+						The replicated label does not matter, as for any harmonious labelling f , f + c with c ∈ Zn−1 is still a harmonious labelling. 
+					</div>
+					<div class="uAuthor">
+						New Computational Result on Harmonious Trees
+					</div>
+										<div class="usage">
+						Clearly this model expresses exactly the condition of harmonious labelling, modulo a constant. 
+					</div>
+					<div class="uAuthor">
+						New Computational Result on Harmonious Trees
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="compatibility in opinion and action"><a href="harmoniousness.html">harmoniousness</a>, </div><div class="synGroup" title="the structure of music with respect to the composition and progression of chords"><a href="musical%20harmony.html">musical harmony</a>, </div><div class="synGroup" title="agreement of opinions"><a href="concord.html">concord</a>, <a href="concordance.html">concordance</a>, </div><div class="synGroup" title="a harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole"><a href="concord.html">concord</a>, <a href="concordance.html">concordance</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="dissonance.html">dissonance</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="agreement.html">agreement</a>, <a href="compatibility.html">compatibility</a>, <a href="music.html">music</a>, <a href="order.html">order</a>, <a href="sound%20property.html">sound property</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="accord.html">accord</a>, <a href="agreement.html">agreement</a>, <a href="comity.html">comity</a>, <a href="congruence.html">congruence</a>, <a href="congruity.html">congruity</a>, <a href="congruousness.html">congruousness</a>, <a href="consonance.html">consonance</a>, <a href="four-part%20harmony.html">four-part harmony</a>, <a href="harmoniousness.html">harmoniousness</a>, <a href="harmonisation.html">harmonisation</a>, <a href="harmonization.html">harmonization</a>, <a href="peace.html">peace</a>, <a href="preparation.html">preparation</a>, <a href="resolution.html">resolution</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="harmonic.html">harmonic</a>, <a href="harmonical.html">harmonical</a>, <a href="harmonious.html">harmonious</a>, <a href="harmonise.html">harmonise</a>, <a href="harmonize.html">harmonize</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Ablude.html">Ablude</a>, <a href="absorption.html">absorption</a>, <a href="Accidental%20chords.html">Accidental chords</a>, <a href="accommodate.html">accommodate</a>, <a href="accommodative.html">accommodative</a>, <a href="accord.html">accord</a>, <a href="accordance.html">accordance</a>, <a href="accordant.html">accordant</a>, <a href="according.html">according</a>, <a href="adaptation.html">adaptation</a>, <a href="Adjunct%20notes.html">Adjunct notes</a>, <a href="adjustment.html">adjustment</a>, <a href="adorn.html">adorn</a>, <a href="agree.html">agree</a>, <a href="agreeableness.html">agreeableness</a>, <a href="agreement.html">agreement</a>, <a href="air.html">air</a>, <a href="ajar.html">ajar</a>, <a href="amicable.html">amicable</a>, <a href="amicably.html">amicably</a>, <a href="amity.html">amity</a>, <a href="appoggiatura.html">appoggiatura</a>, <a href="ariose.html">ariose</a>, <a href="assimilation.html">assimilation</a>, <a href="association.html">association</a>, <a href="assonance.html">assonance</a>, <a href="asynergy.html">asynergy</a>, <a href="attune.html">attune</a>, <a href="barbershop%20quartet.html">barbershop quartet</a>, <a href="bass.html">bass</a>, <a href="Battuta.html">Battuta</a>, <a href="boxer.html">boxer</a>, <a href="breadth.html">breadth</a>, <a href="cadence.html">cadence</a>, <a href="canon.html">canon</a>, <a href="catabiosis.html">catabiosis</a>, <a href="Catabiotic%20force.html">Catabiotic force</a>, <a href="catastrophe.html">catastrophe</a>, <a href="Catholic.html">Catholic</a>, <a href="change.html">change</a>, <a href="chant.html">chant</a>, <a href="Charles%20Fourier.html">Charles Fourier</a>, <a href="Chiffre.html">Chiffre</a>, <a href="chime.html">chime</a>, <a href="choral.html">choral</a>, <a href="chorally.html">chorally</a>, <a href="chord.html">chord</a>, <a href="chorus.html">chorus</a>, <a href="chromatic.html">chromatic</a>, <a href="classical%20style.html">classical style</a>, <a href="Close%20harmony.html">Close harmony</a>, <a href="color.html">color</a>, <a href="comity.html">comity</a>, <a href="compatible.html">compatible</a>, <a href="compose.html">compose</a>, <a href="Concent.html">Concent</a>, <a href="Concentual.html">Concentual</a>, <a href="concert.html">concert</a>, <a href="Concinnity.html">Concinnity</a>, <a href="concord.html">concord</a>, <a href="concordance.html">concordance</a>, <a href="conform.html">conform</a>, <a href="conformable.html">conformable</a>, <a href="conformably.html">conformably</a>, <a href="conformity.html">conformity</a>, <a href="congruity.html">congruity</a>, <a href="Consecution.html">Consecution</a>, <a href="consecutive.html">consecutive</a>, <a href="consent.html">consent</a>, <a href="consistence.html">consistence</a>, <a href="consistency.html">consistency</a>, <a href="consistent.html">consistent</a>, <a href="consonance.html">consonance</a>, <a href="Consonancy.html">Consonancy</a>, <a href="consonant.html">consonant</a>, <a href="consort.html">consort</a>, <a href="Continued%20bass.html">Continued bass</a>, <a href="correspondence.html">correspondence</a>, <a href="Correspondency.html">Correspondency</a>, <a href="cosmos.html">cosmos</a>, <a href="counterpoint.html">counterpoint</a>, <a href="covenant.html">covenant</a>, <a href="Decad.html">Decad</a>, <a href="delicate.html">delicate</a>, <a href="delight.html">delight</a>, <a href="diapason.html">diapason</a>, <a href="Diatessaron.html">Diatessaron</a>, <a href="disaccord.html">disaccord</a>, <a href="disagree.html">disagree</a>, <a href="Disattune.html">Disattune</a>, <a href="disconcert.html">disconcert</a>, <a href="discord.html">discord</a>, <a href="discordant.html">discordant</a>, <a href="disharmonious.html">disharmonious</a>, <a href="Disharmonise.html">Disharmonise</a>, <a href="disharmonize.html">disharmonize</a>, <a href="disharmony.html">disharmony</a>, <a href="Dispersed%20harmony.html">Dispersed harmony</a>, <a href="dissonance.html">dissonance</a>, <a href="dissonant.html">dissonant</a>, <a href="distance.html">distance</a>, <a href="disturber.html">disturber</a>, <a href="doo-wop.html">doo-wop</a>, <a href="double.html">double</a>, <a href="dry.html">dry</a>, <a href="duplication.html">duplication</a>, <a href="En%20rapport.html">En rapport</a>, <a href="ethically.html">ethically</a>, <a href="Euharmonic.html">Euharmonic</a>, <a href="euphony.html">euphony</a>, <a href="eurythmy.html">eurythmy</a>, <a href="False%20relation.html">False relation</a>, <a href="fifth.html">fifth</a>, <a href="Figurate.html">Figurate</a>, <a href="Figurate%20counterpoint.html">Figurate counterpoint</a>, <a href="Figurate%20descant.html">Figurate descant</a>, <a href="figure.html">figure</a>, <a href="fitting.html">fitting</a>, <a href="fossilize.html">fossilize</a>, <a href="four-part%20harmony.html">four-part harmony</a>, <a href="Fourier.html">Fourier</a>, <a href="Fourierism.html">Fourierism</a>, <a href="Francois%20Marie%20Charles%20Fourier.html">Francois Marie Charles Fourier</a>, <a href="friction.html">friction</a>, <a href="friendship.html">friendship</a>, <a href="generate.html">generate</a>, <a href="grace.html">grace</a>, <a href="Grace-note.html">Grace-note</a>, <a href="Grotian%20theory.html">Grotian theory</a>, <a href="handsome.html">handsome</a>, <a href="harmonic.html">harmonic</a>, <a href="Harmonic%20suture.html">Harmonic suture</a>, <a href="harmonical.html">harmonical</a>, <a href="harmonically.html">harmonically</a>, <a href="harmonics.html">harmonics</a>, <a href="harmonious.html">harmonious</a>, <a href="harmoniously.html">harmoniously</a>, <a href="harmonisation.html">harmonisation</a>, <a href="harmonise.html">harmonise</a>, <a href="harmonised.html">harmonised</a>, <a href="harmoniser.html">harmoniser</a>, <a href="Harmonist.html">Harmonist</a>, <a href="Harmonite.html">Harmonite</a>, <a href="harmonization.html">harmonization</a>, <a href="harmonize.html">harmonize</a>, <a href="harmonized.html">harmonized</a>, <a href="harmonizer.html">harmonizer</a>, <a href="Harmony%20of%20the%20spheres.html">Harmony of the spheres</a>, <a href="harp.html">harp</a>, <a href="harsh.html">harsh</a>, <a href="hit.html">hit</a>, <a href="hold.html">hold</a>, <a href="homophonic.html">homophonic</a>, <a href="homophonous.html">homophonous</a>, <a href="homophony.html">homophony</a>, <a href="honeymoon.html">honeymoon</a>, <a href="impracticable.html">impracticable</a>, <a href="In%20character.html">In character</a>, <a href="In%20consort.html">In consort</a>, <a href="incoherent.html">incoherent</a>, <a href="incompatible.html">incompatible</a>, <a href="incongruity.html">incongruity</a>, <a href="incongruous.html">incongruous</a>, <a href="Inconsonance.html">Inconsonance</a>, <a href="Inconsonancy.html">Inconsonancy</a>, <a href="inharmonic.html">inharmonic</a>, <a href="Inharmonical.html">Inharmonical</a>, <a href="inharmonious.html">inharmonious</a>, <a href="Inharmoniously.html">Inharmoniously</a>, <a href="inharmoniousness.html">inharmoniousness</a>, <a href="Inharmony.html">Inharmony</a>, <a href="interval.html">interval</a>, <a href="intonation.html">intonation</a>, <a href="invert.html">invert</a>, <a href="Irenics.html">Irenics</a>, <a href="Irreconciled.html">Irreconciled</a>, <a href="Jean-Philippe%20Rameau.html">Jean-Philippe Rameau</a>, <a href="jibe.html">jibe</a>, <a href="join.html">join</a>, <a href="keeping.html">keeping</a>, <a href="lead%20sheet.html">lead sheet</a>, <a href="Leibnitzian.html">Leibnitzian</a>, <a href="Leibnitzianism.html">Leibnitzianism</a>, <a href="major%20key.html">major key</a>, <a href="major%20mode.html">major mode</a>, <a href="melodic.html">melodic</a>, <a href="melody.html">melody</a>, <a href="Melpomene.html">Melpomene</a>, <a href="mesh.html">mesh</a>, <a href="Misadjustment.html">Misadjustment</a>, <a href="mixture.html">mixture</a>, <a href="mode.html">mode</a>, <a href="modern.html">modern</a>, <a href="monad.html">monad</a>, <a href="Monotessaron.html">Monotessaron</a>, <a href="monotone.html">monotone</a>, <a href="motet.html">motet</a>, <a href="Muse.html">Muse</a>, <a href="music.html">music</a>, <a href="music%20of%20the%20spheres.html">music of the spheres</a>, <a href="Musical%20progression.html">Musical progression</a>, <a href="natural.html">natural</a>, <a href="Natural%20Harmony.html">Natural Harmony</a>, <a href="nonconformity.html">nonconformity</a>, <a href="numerosity.html">numerosity</a>, <a href="octave.html">octave</a>, <a href="Onement.html">Onement</a>, <a href="open.html">open</a>, <a href="Open%20harmony.html">Open harmony</a>, <a href="opera.html">opera</a>, <a href="organ.html">organ</a>, <a href="Organ-point.html">Organ-point</a>, <a href="organic.html">organic</a>, <a href="Orthodox.html">Orthodox</a>, <a href="Out%20of%20time.html">Out of time</a>, <a href="part.html">part</a>, <a href="part-singing.html">part-singing</a>, <a href="passing%20tone.html">passing tone</a>, <a href="Passing-note.html">Passing-note</a>, <a href="peace.html">peace</a>, <a href="Perfect%20cadence.html">Perfect cadence</a>, <a href="pessimism.html">pessimism</a>, <a href="philharmonic.html">philharmonic</a>, <a href="pleasant.html">pleasant</a>, <a href="polyphony.html">polyphony</a>, <a href="pop.html">pop</a>, <a href="pop%20music.html">pop music</a>, <a href="prettiness.html">prettiness</a>, <a href="pretty.html">pretty</a>, <a href="prime.html">prime</a>, <a href="Primitive%20chord.html">Primitive chord</a>, <a href="progress.html">progress</a>, <a href="progression.html">progression</a>, <a href="proportion.html">proportion</a>, <a href="psychology.html">psychology</a>, <a href="pure.html">pure</a>, <a href="Pythagorean.html">Pythagorean</a>, <a href="Rameau.html">Rameau</a>, <a href="rapport.html">rapport</a>, <a href="Reconcilableness.html">Reconcilableness</a>, <a href="reconcile.html">reconcile</a>, <a href="reconciliation.html">reconciliation</a>, <a href="reconciling.html">reconciling</a>, <a href="reharmonisation.html">reharmonisation</a>, <a href="reharmonise.html">reharmonise</a>, <a href="reharmonization.html">reharmonization</a>, <a href="reharmonize.html">reharmonize</a>, <a href="reintegrate.html">reintegrate</a>, <a href="rent.html">rent</a>, <a href="repose.html">repose</a>, <a href="resolve.html">resolve</a>, <a href="restore.html">restore</a>, <a href="reunion.html">reunion</a>, <a href="rhyme.html">rhyme</a>, <a href="rhythm.html">rhythm</a>, <a href="right.html">right</a>, <a href="soprano.html">soprano</a>, <a href="spotty.html">spotty</a>, <a href="square.html">square</a>, <a href="strife.html">strife</a>, <a href="syllogize.html">syllogize</a>, <a href="symbolist.html">symbolist</a>, <a href="symmetry.html">symmetry</a>, <a href="sympathy.html">sympathy</a>, <a href="symphonic.html">symphonic</a>, <a href="symphonious.html">symphonious</a>, <a href="symphonise.html">symphonise</a>, <a href="symphonize.html">symphonize</a>, <a href="symphony.html">symphony</a>, <a href="Synesis.html">Synesis</a>, <a href="tenor.html">tenor</a>, <a href="thorough%20bass.html">thorough bass</a>, <a href="Thorough-bass.html">Thorough-bass</a>, <a href="time.html">time</a>, <a href="To.html">To</a>, <a href="tone.html">tone</a>, <a href="touch.html">touch</a>, <a href="treble.html">treble</a>, <a href="tune.html">tune</a>, <a href="tuneful.html">tuneful</a>, <a href="Unatonable.html">Unatonable</a>, <a href="understanding.html">understanding</a>, <a href="unharmonious.html">unharmonious</a>, <a href="union.html">union</a>, <a href="unison.html">unison</a>, <a href="Unisonous.html">Unisonous</a>, <a href="unit.html">unit</a>, <a href="unity.html">unity</a>, <a href="Unpractical.html">Unpractical</a>, <a href="untune.html">untune</a>, <a href="utmost.html">utmost</a>, <a href="variation.html">variation</a>, <a href="whole.html">whole</a>, <a href="willing.html">willing</a>, <a href="wind.html">wind</a>, <a href="wind%20up.html">wind up</a>, <a href="with.html">with</a>, <a href="world.html">world</a>, <a href="%E2%80%96Basso%20continuo.html">‖Basso continuo</a>, <a href="%E2%80%96En%20rapport%22.html">‖En rapport"</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					garmony, yarmony, jarmony, narmony, barmony, hqrmony, hwrmony, hsrmony, hzrmony, haemony, hadmony, hafmony, hatmony, harnony, harjony, harkony, harminy, harmkny, harmlny, harmpny, harmoby, harmohy, harmojy, harmomy, harmont, harmong, harmonh, harmonu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

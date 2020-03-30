@@ -1,0 +1,411 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>tenacity</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">tenacity</span> <span class="exp">persistent determination</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Tenacity</span> <span class="exp">That quality of bodies which keeps them from parting without considerable force; cohesiveness; the effect of attraction; -- as distinguished from <span class="wUex">brittleness</span>
+            <span class="wUex">fragility</span>
+            <span class="wUex">mobility</span>, etc.</span> </li><li><span class="term">Tenacity</span> <span class="exp">That quality of bodies which makes them adhere to other bodies; adhesiveness; viscosity.</span> </li><li><span class="term">Tenacity</span> <span class="exp"><span class="wuFld">(Physics)</span> The greatest longitudinal stress a substance can bear without tearing asunder, -- usually expressed with reference to a unit area of the cross section of the substance, as the number of pounds per square inch, or kilograms per square centimeter, necessary to produce rupture.</span> </li><li><span class="term">Tenacity</span> <span class="exp">The quality or state of being tenacious; as, <span class="wUex">tenacity</span>, or retentiveness, of memory; <span class="wUex">tenacity</span>, or persistency, of purpose.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">tenacity</span> <span class="exp">The property or character of being tenacious, in any sense. Specifically— Firmness of hold or of purpose; obstinacy.</span> </li><li><span class="tSpeech">n</span> <span class="term">tenacity</span> <span class="exp">Retentiveness, as of memory.</span> </li><li><span class="tSpeech">n</span> <span class="term">tenacity</span> <span class="exp">Adhesiveness; that property of matter by virtueof which things stick or adhere to others; glutinousness; stickiness.</span> </li><li><span class="tSpeech">n</span> <span class="term">tenacity</span> <span class="exp">That property of material bodies by which their parts resist an effort to force or pull them asunder; also, the measure of the resistance of bodies to tearing or crushing: opposed to brittleness or fragility. Tenacity results from the attraction of cohesion which exists between the particles of bodies, and the stronger this attraction is in any body the greater is the tenacity of the body. Tenacity is consequently different in different materials, and in the same material it varies with the state of the body in regard to temperature and other circumstances. The resistance offered to tearing is called absolute tenacity, that offered to crushing retroactive tenacity. The tenacity of wood is much greater in the direction of the length of its fibers than in the transverse direction. With regard to metals, the processes of forging and wire-drawing increase their tenacity in the longitudinal direction; and mixed metals have, in general, greater tenacity than those which are simple. See cohesion.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">ns</span> <span class="term">Tenacity</span> <span class="exp">quality of being tenacious: the quality of bodies which makes them stick to others</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">James V. Forrestal</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="James V. Forrestal">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Courage is the capacity to conduct oneself with restraint in times of prosperity and with courage and tenacity when things do not go well.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Louis Pasteur</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Louis%20Pasteur.jpg" alt="Louis%20Pasteur">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Let me tell you the secret that has led me to my goal, My strength lies solely in my tenacity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Elbert Hubbard</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Elbert%20Hubbard.jpg" alt="Elbert%20Hubbard">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Luck is tenacity of purpose.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Thomas H. Huxley</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Thomas%20H.%20Huxley.jpg" alt="Thomas%20H.%20Huxley">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Patience and tenacity of purpose are worth more than twice their weight of cleverness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ralph Waldo Emerson</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Ralph%20Waldo%20Emerson.jpg" alt="Ralph%20Waldo%20Emerson">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I know of no such unquestionable badge and ensign of a sovereign mind as that of tenacity of purpose...”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mahatma Gandhi</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mahatma%20Gandhi.jpg" alt="Mahatma%20Gandhi">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The history of the world is full of men who rose to leadership, by sheer force of self-confidence, bravery and tenacity.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					L. <span class="wUets">tenacitas</span>,: cf. F. <span class="wUets">ténacité</span>,. See <span class="wUer">Tenacious</span> 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					L. <i>tenax</i>—<i>tenēre</i>.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						They were marked by certain weaknesses, but as a rule inherited a slow tenacity from their Indian ancestors.
+					</div>
+					<div class="uAuthor">
+						"The Lure of the North" by <span>Harold Bindloss</span>					</div>
+										<div class="usage">
+						Benares is crowded with examples of the same unconscious tenacity.
+					</div>
+					<div class="uAuthor">
+						"New Ideas in India During the Nineteenth Century" by <span>John Morrison</span>					</div>
+										<div class="usage">
+						It is only a question of their tenacity.
+					</div>
+					<div class="uAuthor">
+						"Handbook of Home Rule (1887)" by <span>W. E. Gladstone et al.</span>					</div>
+										<div class="usage">
+						Holding on with desperate tenacity to the knife, both clinched with their left hands.
+					</div>
+					<div class="uAuthor">
+						"Lippincott's Magazine, August, 1885" by <span>Various</span>					</div>
+										<div class="usage">
+						Soluble glass both stiffens and weakens the stuff, depriving it both of elasticity and tenacity.
+					</div>
+					<div class="uAuthor">
+						"The Art of Travel" by <span>Francis Galton</span>					</div>
+										<div class="usage">
+						But the prevailing note was one of utter weariness coupled with dogged tenacity.
+					</div>
+					<div class="uAuthor">
+						"A Student in Arms" by <span>Donald Hankey</span>					</div>
+										<div class="usage">
+						The tenacity of life displayed by BULL is paralleled by a case quoted by LE VAILLANT.
+					</div>
+					<div class="uAuthor">
+						"Punch, or the London Charivari, Vol. 1, September 12, 1841" by <span>Various</span>					</div>
+										<div class="usage">
+						He was a man, with a man's trained tenacity of purpose and experienced quickness of resource.
+					</div>
+					<div class="uAuthor">
+						"The Brimming Cup" by <span>Dorothy Canfield Fisher</span>					</div>
+										<div class="usage">
+						The tenacity of the old superstition is extraordinary, and we can see it in the case of Canada.
+					</div>
+					<div class="uAuthor">
+						"The Framework of Home Rule" by <span>Erskine Childers</span>					</div>
+										<div class="usage">
+						And as regards the tenacity of those convictions, it is with them as it is in plant life.
+					</div>
+					<div class="uAuthor">
+						"Origin of the Anglo-Boer War Revealed (2nd ed.)" by <span>C. H. Thomas</span>					</div>
+										<div class="usage">
+						This is owing to the softness or tenacity of the rocks.
+					</div>
+					<div class="uAuthor">
+						"Journals of Travels in Assam, Burma, Bhootan, Afghanistan and TheNeighbouring Countries" by <span>William Griffith</span>					</div>
+										<div class="usage">
+						He clung to that idea with the tenacity of a fanatic.
+					</div>
+					<div class="uAuthor">
+						"The Plastic Age" by <span>Percy Marks</span>					</div>
+										<div class="usage">
+						He was aware of a tenacity of impressions and emotions and ideas, once they took hold of him.
+					</div>
+					<div class="uAuthor">
+						"Poor Man's Rock" by <span>Bertrand W. Sinclair</span>					</div>
+										<div class="usage">
+						To find a parallel for such tenacity in the pages of the history of any land would be difficult.
+					</div>
+					<div class="uAuthor">
+						"The Life Story of an Old Rebel" by <span>John Denvir</span>					</div>
+										<div class="usage">
+						Such conditions impose upon men's tenacity the additional test of surprise and discomfiture.
+					</div>
+					<div class="uAuthor">
+						"The Major Operations of the Navies in the War of American Independence" by <span>A. T. Mahan</span>					</div>
+										<div class="usage">
+						Absolutism was dying hard, clinging to its powers with remarkable tenacity.
+					</div>
+					<div class="uAuthor">
+						"Bolshevism" by <span>John Spargo</span>					</div>
+										<div class="usage">
+						So there can be no such thing as getting an education, in spite of the tenacity of the expression.
+					</div>
+					<div class="uAuthor">
+						"The Vitalized School" by <span>Francis B. Pearson</span>					</div>
+										<div class="usage">
+						His plans were carried out with an unswerving tenacity of purpose.
+					</div>
+					<div class="uAuthor">
+						"Romance" by <span>Joseph Conrad and F.M. Hueffer</span>					</div>
+										<div class="usage">
+						But old as he was, he still had some of the tenacity of youth.
+					</div>
+					<div class="uAuthor">
+						"The Mystery of the Hasty Arrow" by <span>Anna Katharine Green</span>					</div>
+										<div class="usage">
+						Indeed, his tenacity was probably equal to that of his critic.
+					</div>
+					<div class="uAuthor">
+						"Sir John French" by <span>Cecil Chisholm</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The Pulitzer Prize-winning columnist, who died Wednesday, set an example of fairness and tenacity.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Politics/The-Vote/2011/0309/David-Broder-Icon-of-journalistic-integrity-fairness-tenacity" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						 Crone has the tenacity to make it work, says Evans, who was Crone 's boss when both worked in the supply chain practice at Andersen Consulting in the mid-1990s.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.internetretailer.com/2000/12/26/mel-crone-wants-e-retailers-to-get-technical-and-he-s-bet-his" target="_blank" rel="external nofollow">internetretailer.com</a>
+					</div>
+										<div class="usage">
+						Savannah business leader chases success with tenacity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://savannahnow.com/exchange/2012-11-07/savannah-business-leader-chases-success-tenacity" target="_blank" rel="external nofollow">savannahnow.com</a>
+					</div>
+										<div class="usage">
+						US Sen Arlen Specter's roots inspired tolerance, tenacity , friends say at Pa.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/national/us-sen-arlen-specters-roots-inspired-tolerance-tenacity-friends-say-at-pa-funeral/2012/10/17/a8d641dc-1825-11e2-a346-f24efc680b8d_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						The tenacity of NASCAR's Jeff Gordon.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/sports/sportsnow/la-sp-sn-nascar-chase-gordon-20120909,0,7204484.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						Tony Scott's tenacity was on display with 'Unstoppable'.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-tony-scotts-tenacity-was-on-display-with-unstoppable-20120819,0,6184685.story" target="_blank" rel="external nofollow">latimes.com</a>
+					</div>
+										<div class="usage">
+						In Times Of Drought, Movies Show Tenacity Of Life.
+					</div>
+					<div class="uAuthor">
+						<a href="http://kvpr.org/post/times-drought-movies-show-tenacity-life" target="_blank" rel="external nofollow">kvpr.org</a>
+					</div>
+										<div class="usage">
+						A gold medalist's tenacity inside a youthful demeanor.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/sports/olympics/missy-franklin-a-gold-medalists-tenacity-inside-a-youthful-demeanor/2012/07/30/gJQAEx7KLX_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						Dedication, tenacity made recovery possible.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.union-bulletin.com/news/2012/jul/08/letters-to-the-editor-dedication-tenacity-made/" target="_blank" rel="external nofollow">union-bulletin.com</a>
+					</div>
+										<div class="usage">
+						Local lawmen's tenacity paid off.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.thepostsearchlight.com/2012/07/06/local-lawmens-tenacity-paid-off/" target="_blank" rel="external nofollow">thepostsearchlight.com</a>
+					</div>
+										<div class="usage">
+						Key to job hunt is tenacity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.chicagotribune.com/features/tribu/sns-201205311900--tms--interprnctnie-a20120610-20120610,0,6797710.column" target="_blank" rel="external nofollow">chicagotribune.com</a>
+					</div>
+										<div class="usage">
+						Knights' trademark tenacity fuels club's semifinal win.
+					</div>
+					<div class="uAuthor">
+						<a href="http://si.com/2007/writers/kelli_anderson/04/02/CL.rutgers/index.html" target="_blank" rel="external nofollow">si.com</a>
+					</div>
+										<div class="usage">
+						Trixia Apiado of Kettering lost her dream trip to Italy and Greece because of a visa snafu, but she learned an all-American lesson in tenacity .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.daytondailynews.com/news/news/filipino-student-loses-dream-trip-in-visa-snafu-ga/nPzQX/" target="_blank" rel="external nofollow">daytondailynews.com</a>
+					</div>
+										<div class="usage">
+						RG3, Redskins need newfound ' tenacity ' and 'attitude' to continue on Thanksgiving vs Cowboys.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.therepublic.com/view/story/1b06636afbdb447aa23ce8a471334982/FBN--Redskins-One-Down" target="_blank" rel="external nofollow">therepublic.com</a>
+					</div>
+										<div class="usage">
+						John Starks never stopped hustling on the basketball court, so it's not a surprise that he has brought that same tenacity to his life after playing.
+					</div>
+					<div class="uAuthor">
+						<a href="http://espn.go.com/blog/new-york/knicks/post/_/id/2673/john-starks-bowls-for-underprivileged-kids" target="_blank" rel="external nofollow">espn.go.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Likewise, Warren’s tenacity for getting dead argon lasers, circuits, ion traps, and graduate students running again demonstrates a deep reserve of patience and experience I only wish to inherit. 
+					</div>
+					<div class="uAuthor">
+						Single barium ion spectroscopy: light shifts, hyperfine structure, and progress on an optical frequency standard and atomic parity violation
+					</div>
+										<div class="usage">
+						As usual, I beneﬁtted a lot from the tenacity and wisdom of my collaborators David Broadhurst and Alain Connes. 
+					</div>
+					<div class="uAuthor">
+						Feynman diagrams and polylogarithms: shuffles and pentagons
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="persistent determination"><a href="tenaciousness.html">tenaciousness</a>, <a href="pertinacity.html">pertinacity</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="determination.html">determination</a>, <a href="purpose.html">purpose</a>
+				</div>
+																<h3>Related forms</h3>
+				<div class="related">
+					<a href="dogged.html">dogged</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="adhesiveness.html">adhesiveness</a>, <a href="bear.html">bear</a>, <a href="Beggar%27s%20ticks.html">Beggar's ticks</a>, <a href="Bejuco.html">Bejuco</a>, <a href="blind.html">blind</a>, <a href="brick.html">brick</a>, <a href="brittleness.html">brittleness</a>, <a href="bulldog.html">bulldog</a>, <a href="clamminess.html">clamminess</a>, <a href="cobalt.html">cobalt</a>, <a href="cohesion.html">cohesion</a>, <a href="constancy.html">constancy</a>, <a href="copper.html">copper</a>, <a href="cotton.html">cotton</a>, <a href="Damascus%20steel.html">Damascus steel</a>, <a href="Damask%20steel.html">Damask steel</a>, <a href="glutinousness.html">glutinousness</a>, <a href="gold.html">gold</a>, <a href="hibiscus.html">hibiscus</a>, <a href="inflexibility.html">inflexibility</a>, <a href="Jarrah.html">Jarrah</a>, <a href="jute.html">jute</a>, <a href="Langya.html">Langya</a>, <a href="lead.html">lead</a>, <a href="Lentor.html">Lentor</a>, <a href="lichen.html">lichen</a>, <a href="mineral.html">mineral</a>, <a href="nickel.html">nickel</a>, <a href="orpine.html">orpine</a>, <a href="Pease-meal.html">Pease-meal</a>, <a href="pewter.html">pewter</a>, <a href="phosphor%20bronze.html">phosphor bronze</a>, <a href="resolution.html">resolution</a>, <a href="rigidity.html">rigidity</a>, <a href="rosin.html">rosin</a>, <a href="Silicious%20bronze.html">Silicious bronze</a>, <a href="Silicium%20bronze.html">Silicium bronze</a>, <a href="silver.html">silver</a>, <a href="size.html">size</a>, <a href="steel.html">steel</a>, <a href="tenaciousness.html">tenaciousness</a>, <a href="tench.html">tench</a>, <a href="tin.html">tin</a>, <a href="tungsten%20steel.html">tungsten steel</a>, <a href="viscidity.html">viscidity</a>, <a href="vivacity.html">vivacity</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					renacity, fenacity, genacity, yenacity, twnacity, tsnacity, tdnacity, trnacity, tebacity, tehacity, tejacity, temacity, tenqcity, tenwcity, tenscity, tenzcity, tenaxity, tenadity, tenafity, tenavity, tenacuty, tenacjty, tenackty, tenacoty, tenaciry, tenacify, tenacigy, tenaciyy, tenacitt, tenacitg, tenacith, tenacitu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

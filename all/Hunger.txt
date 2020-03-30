@@ -1,0 +1,511 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>hunger</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/122/7/1914.jpg" alt="Hunger. Neapolitan">
+							<div class="caption">Hunger. Neapolitan</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">hunger</span> <span class="exp">be hungry; go without food</span> <span class="quot">"Let's eat--I'm starving!"</span></li><li><span class="tSpeech">v</span> <span class="term">hunger</span> <span class="exp">have a craving, appetite, or great desire for</span> </li><li><span class="tSpeech">v</span> <span class="term">hunger</span> <span class="exp">feel the need to eat</span> </li><li><span class="tSpeech">n</span> <span class="term">hunger</span> <span class="exp">strong desire for something (not food or drink)</span> <span class="quot">"a thirst for knowledge","hunger for affection"</span></li><li><span class="tSpeech">n</span> <span class="term">hunger</span> <span class="exp">a physiological need for food; the consequence of food deprivation</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+								<hr class="double">
+				<h3 id="illustrations">Additional illustrations &amp; photos:</h3>
+																							<div class="thumbContainer" title="&quot;AND HATEFUL HUNGER HAS COME IN.&quot;">
+						<a href="http://media.finedictionary.com/pictures/210/60/15570.jpg"> 
+						<img src="http://media.finedictionary.com/pictures/210/60/th_15570.jpg" alt="&quot;AND HATEFUL HUNGER HAS COME IN.&quot;">
+						</a>
+						"AND HATEFUL HUNGER HAS COME IN."
+					</div>
+																								
+				<hr class="double">
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										In a day 34,000 children die every day from causes that are related to poverty and hunger									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Hunger</span> <span class="exp">An uneasy sensation occasioned normally by the want of food; a craving or desire for food.</span> </li><li><span class="term">Hunger</span> <span class="exp">Any strong eager desire.</span> <span class="wuQuot">"O sacred hunger of ambitious minds!"</span><span class="wuQuot">"For hunger of my gold I die."</span></li><li><span class="term">Hunger</span> <span class="exp">To feel the craving or uneasiness occasioned by want of food; to be oppressed by hunger.</span> </li><li><span class="term">Hunger</span> <span class="exp">To have an eager desire; to long.</span> <span class="wuQuot">"Blessed are they which do hunger and thirst after righteouness."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										The colours yellow, red, and orange are used in fast food restaraunts because those are the colours that stimulate hunger
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">hunger</span> <span class="exp">An uneasy or painful sensation occasioned by the want of food; craving appetite.</span> </li><li><span class="tSpeech">n</span> <span class="term">hunger</span> <span class="exp">Hence Any strong or eager desire.</span> </li><li><span class="tSpeech">n</span> <span class="term">hunger</span> <span class="exp">A famine.</span> </li><li><span class="term">hunger</span> <span class="exp">To feel the uneasiness or longing which is occasioned by long abstinence from food; crave food.</span> </li><li><span class="term">hunger</span> <span class="exp">Hence To have an eager desire; long.</span> </li><li><span class="term">hunger</span> <span class="exp">To starve.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Hunger</span> <span class="exp"><span class="itl">hung′gėr</span> desire for food: strong desire for anything</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Hunger</span> <span class="exp">to crave food: to long for</span> </li><li><span class="tSpeech">adv</span> <span class="term">Hunger</span> <span class="exp">(<span class="itl">Shak.</span>) hungrily</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">French Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="French Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A good meal ought to begin with hunger.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Heraclitus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Heraclitus.jpg" alt="Heraclitus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“God is day and night, winter and summer, war and peace, surfeit and hunger.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Mother Teresa</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Mother%20Teresa.jpg" alt="Mother%20Teresa">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“There is hunger for ordinary bread, and there is hunger for love, for kindness, for thoughtfulness; and this is the great poverty that makes people suffer so much.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Italian Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Italian Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Hunger is the best sauce.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Eric Hoffer</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Eric%20Hoffer.jpg" alt="Eric%20Hoffer">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The self-styled intellectual who is impotent with pen and ink hungers to write history with sword and blood.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Rupert Brooke</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Rupert Brooke">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Infinite hungers leap no more I in the chance swaying of your dress; and love has changed to kindliness.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					AS. <span class="wUets">hungor</span>,; akin to OFries. <span class="wUets">hunger</span>, D. <span class="wUets">honger</span>, OS. &amp; OHG. <span class="wUets">hungar</span>, G. <span class="wUets">hunger</span>, Icel. <span class="wUets">hungr</span>, Sw. &amp; Dan. <span class="wUets">hunger</span>, Goth. <span class="wUets">hhrus</span>, hunger, <span class="wUets">huggrjan</span>, to hunger
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Feed a cauld, but hunger a colic.
+					</div>
+					<div class="uAuthor">
+						"The Proverbs of Scotland" by <span>Alexander Hislop</span>					</div>
+										<div class="usage">
+						He was hungry, but he sat there enjoying in a morbid way the pang of hunger.
+					</div>
+					<div class="uAuthor">
+						"A Spoil of Office" by <span>Hamlin Garland</span>					</div>
+										<div class="usage">
+						He did not allow this, however, to trouble him much, as he was now sure that he was not to die of hunger.
+					</div>
+					<div class="uAuthor">
+						"Eastern Tales by Many Story Tellers" by <span>Various</span>					</div>
+										<div class="usage">
+						This man treated me with all the hard usage imaginable, yea, with that of hunger, with which I thought I should have perished inevitably.
+					</div>
+					<div class="uAuthor">
+						"The Pirates of Panama" by <span>A. O. (Alexandre Olivier) Exquemelin</span>					</div>
+										<div class="usage">
+						I fear not that I shall be drowned, but that all the food will be destroyed and that I shall perish of hunger.
+					</div>
+					<div class="uAuthor">
+						"Jewish Fairy Tales and Legends" by <span>Gertrude Landa</span>					</div>
+										<div class="usage">
+						His fingers became crooked and a dull hunger for money filled his soul.
+					</div>
+					<div class="uAuthor">
+						"The Pools of Silence" by <span>H. de Vere Stacpoole</span>					</div>
+										<div class="usage">
+						At 1 P. M. I had keen hunger, even for dry bread; such hunger as I had not experienced for years.
+					</div>
+					<div class="uAuthor">
+						"The No Breakfast Plan and the Fasting-Cure" by <span>Edward Hooker Dewey</span>					</div>
+										<div class="usage">
+						Even my madness that I prided myself upon is a babbling witch astride a phallus, her lips bending over it with grewsome hungers.
+					</div>
+					<div class="uAuthor">
+						"Fantazius Mallare" by <span>Ben Hecht</span>					</div>
+										<div class="usage">
+						She felt the pangs of hunger now and she had only one sou left.
+					</div>
+					<div class="uAuthor">
+						"Nobody's Girl" by <span>Hector Malot</span>					</div>
+										<div class="usage">
+						The general and most distressing in the catalogue of our miseries was the almost unceasing torment of hunger.
+					</div>
+					<div class="uAuthor">
+						"A Journal of a Young Man of Massachusetts, 2nd ed." by <span>Benjamin Waterhouse</span>					</div>
+										<div class="usage">
+						It isn't a physical hunger, but again a worse one: an artistic hunger.
+					</div>
+					<div class="uAuthor">
+						"The Dominant Dollar" by <span>Will Lillibridge</span>					</div>
+										<div class="usage">
+						One is, that I am dying of hunger, and should like a roast rib of that antelope I shot in the morning.
+					</div>
+					<div class="uAuthor">
+						"The Giraffe Hunters" by <span>Mayne Reid</span>					</div>
+										<div class="usage">
+						There was neither despair upon his countenance nor hunger; instead a kind of enjoyment, and the expression of one who has been set free.
+					</div>
+					<div class="uAuthor">
+						"IT and Other Stories" by <span>Gouverneur Morris</span>					</div>
+										<div class="usage">
+						That it was best to bear hunger and pain in silence, lest worse befell.
+					</div>
+					<div class="uAuthor">
+						"The Dop Doctor" by <span>Clotilde Inez Mary Graves</span>					</div>
+										<div class="usage">
+						I will bring you every day enough food to prevent you dying of hunger, but you need never hope for freedom any more.
+					</div>
+					<div class="uAuthor">
+						"The Yellow Fairy Book" by <span>Leonora Blanche Alleyne Lang</span>					</div>
+										<div class="usage">
+						Who was to forbid him; who had the right to stand between him and his world hunger so irresistibly?
+					</div>
+					<div class="uAuthor">
+						"Aladdin of London" by <span>Sir Max Pemberton</span>					</div>
+										<div class="usage">
+						Thy fierce Profit-Hunger Hath rejoiced in the Hunger of Man.
+					</div>
+					<div class="uAuthor">
+						"British Socialism" by <span>J. Ellis Barker</span>					</div>
+										<div class="usage">
+						I can't even understand why we're equipped with such a hunger for it.
+					</div>
+					<div class="uAuthor">
+						"The Prairie Child" by <span>Arthur Stringer</span>					</div>
+										<div class="usage">
+						Even hunger would never make this Wolfhound trustful again.
+					</div>
+					<div class="uAuthor">
+						"Finn The Wolfhound" by <span>A. J. Dawson</span>					</div>
+										<div class="usage">
+						It should be said, however, that stimuli, such as that of hunger, may arise within the organism itself.
+					</div>
+					<div class="uAuthor">
+						"Psychology" by <span>Robert S. Woodworth</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							But first, by hunger keen<br>
+Impell'd, the murd'rous steel<br>
+They plunge into their fellow men;<br>
+Then share the loathsome meal.
+							<div class="poet">"Enigma XXVIII." by <span>Elizabeth Hitchener</span></div>
+						</div>
+											<div class="poemQuote">
+							In a bark of gentle motion<br>
+Sailing on the summer ocean?<br>
+There worst war the tempest wages<br>
+And the whirlpool’s hunger rages.
+							<div class="poet">"The Flight of Peace" by <span>Charles Harpur</span></div>
+						</div>
+											<div class="poemQuote">
+							For within there is light and plenty,<br>
+And odors fill the air;<br>
+But without there is cold and darkness,<br>
+And hunger and despair. 
+							<div class="poet">"The Challenge. (Birds Of Passage. Flight The Third)" by <span>Henry Wadsworth Longfellow</span></div>
+						</div>
+											<div class="poemQuote">
+							``And meagre though may be the meal<br>
+That decks the simple board you see,<br>
+At least, my son, we never feel<br>
+The hunger of satiety.
+							<div class="poet">"At The Gate Of The Convent" by <span>Alfred Austin</span></div>
+						</div>
+											<div class="poemQuote">
+							Faint, hunger-sick, old, blind, and ill,<br>
+The poor, or man or beast,<br>
+Can battle on with life uphill,<br>
+And bear its griefs at least;
+							<div class="poet">"Cruelty" by <span>Martin Farquhar Tupper </span></div>
+						</div>
+											<div class="poemQuote">
+							And is it Thou, indeed?<br>
+And dost Thou lay Thy glory all away<br>
+To visit us, and with Thy grace to feed<br>
+Our hungering hearts to-day?
+							<div class="poet">"Communion" by <span>Susan Coolidge</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The Hunger Games--get a sneak peek.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usmagazine.com/celebrity-news/news/meet-jennifer-lawrences-boyfriend-nicholas-hoult-2012223" target="_blank" rel="external nofollow">usmagazine.com</a>
+					</div>
+										<div class="usage">
+						The DC Central Kitchen Food Fight is for a good cause—to battle hunger.
+					</div>
+					<div class="uAuthor">
+						<a href="http://food-management.com/food-humor/things-chefs-do-money" target="_blank" rel="external nofollow">food-management.com</a>
+					</div>
+										<div class="usage">
+						Josh Hutcherson Says He Hungered for The Hunger Games.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/entertainment/music/Josh+Hutcherson+Says+Hungered+Hunger+Games/6115204/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						Fans sure love their "Hunger Games.".
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.amny.com/urbanite-1.812039/america-still-hungry-for-the-games-1.3636512" target="_blank" rel="external nofollow">amny.com</a>
+					</div>
+										<div class="usage">
+						Run to Feed the Hungry 's first winners still move with a hunger.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.sacbee.com/2012/11/22/5002868/run-to-feed-the-hungrys-first.html" target="_blank" rel="external nofollow">sacbee.com</a>
+					</div>
+										<div class="usage">
+						Former US Senator George McGovern committed most of his professional life to ending hunger around the world.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.keloland.com/newsdesk/storiestest/newsdetail11850.cfm/dvds-help-mcgovern-continue-to-feed-the-hungry/?id=140305" target="_blank" rel="external nofollow">keloland.com</a>
+					</div>
+										<div class="usage">
+						" Hymns For Hunger", a concert presented by Andrew Greer, is Sunday evening at Northminster Church in Monroe.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kedm.org/audio/concert-hymns-benefits-local-food-bank-10-2-12" target="_blank" rel="external nofollow">kedm.org</a>
+					</div>
+										<div class="usage">
+						The program shares inspiration and awareness of hunger across local communities and the nation.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kedm.org/audio/concert-hymns-benefits-local-food-bank-10-2-12" target="_blank" rel="external nofollow">kedm.org</a>
+					</div>
+										<div class="usage">
+						What, If Anything , Does The Hunger Games Series Teach Us About Strategy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/quora/2011/10/21/what-if-anything-does-the-hunger-games-series-teach-us-about-strategy/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Elizabeth Banks on her impractical 'Hunger Games' costume.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.abc2news.com/dpp/entertainment/elizabeth-banks-on-her-impractical-hunger-games-costume" target="_blank" rel="external nofollow">abc2news.com</a>
+					</div>
+										<div class="usage">
+						'Hunger Games' soundtrack is great in its own right .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/entertainment/music/index.ssf/2012/03/hunger_games_soundtrack_is_gre.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						So intense is the mania around "The Hunger Games" that its producers could have slapped together any kind of soundtrack and it would have sold.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nj.com/entertainment/music/index.ssf/2012/03/hunger_games_soundtrack_is_gre.html" target="_blank" rel="external nofollow">nj.com</a>
+					</div>
+										<div class="usage">
+						Wiggin and Dana lawyers, staff, family and friends participated in the 36th Annual Greater New Haven Walk Against Hunger on May 6, starting at East Rock Park in New Haven.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ctlawtribune.com/PubArticleCT.jsp?id=1202558128985&amp;Inadmissible__Its_The_Start_Of_Something_Big" target="_blank" rel="external nofollow">ctlawtribune.com</a>
+					</div>
+										<div class="usage">
+						Hunger for Obama' has been replaced by indigestion .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cherokeetribune.com/view/full_story/20386663/article-%E2%80%98Hunger-for-Obama%E2%80%99-has-been-replaced-by-indigestion?" target="_blank" rel="external nofollow">cherokeetribune.com</a>
+					</div>
+										<div class="usage">
+						You could look at the Industrial Revolution and argue it led to less hunger, more efficient transportation, better sanitation and steady jobs.
+					</div>
+					<div class="uAuthor">
+						<a href="http://timesleader.com/stories/You-could-look-at-the-Industrial-Revolution-and-argue-it-led-to-less-hunger-more-efficient-transportation-better-sanitation-and-" target="_blank" rel="external nofollow">timesleader.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						There are suggestions that nonsynaptic diffusion neurotransmission plays a fundamental role in certain sustained brain functions which include vigilance, hunger, mood, responses to certain sensory stimuli as well as abnormal functions like mood disorder, spinal shock, spasticity and drug addiction. 
+					</div>
+					<div class="uAuthor">
+						Reaction diffusion processes on random and scale-free networks
+					</div>
+										<div class="usage">
+						According to him, the dissonance is a psychological discomfort or an aversive drive state that people are motivated to reduce, just as they are motivated to reduce hunger. 
+					</div>
+					<div class="uAuthor">
+						When group level is different from the population level: an adaptive network with the Deffuant model
+					</div>
+										<div class="usage">
+						Among numerically oriented scientists of all disciplines the lattice people are known for their hunger for computer time. 
+					</div>
+					<div class="uAuthor">
+						Recent Progress in Lattice QCD
+					</div>
+										<div class="usage">
+						The CKM parameters are already measured quite well, although we all hunger for still more accuracy. 
+					</div>
+					<div class="uAuthor">
+						CP and B Physics: Progress and Prospects
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="be hungry; go without food"><a href="famish.html">famish</a>, </div><div class="synGroup" title="have a craving, appetite, or great desire for"><a href="thirst.html">thirst</a>, <a href="starve.html">starve</a>, <a href="lust.html">lust</a>, </div><div class="synGroup" title="strong desire for something (not food or drink)"><a href="hungriness.html">hungriness</a>, <a href="thirst.html">thirst</a>, <a href="thirstiness.html">thirstiness</a>, </div><div class="synGroup" title="a physiological need for food; the consequence of food deprivation"><a href="hungriness.html">hungriness</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="be%20full.html">be full</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="ache.html">ache</a>, <a href="desire.html">desire</a>, <a href="drive.html">drive</a>, <a href="hurt.html">hurt</a>, <a href="smart.html">smart</a>, <a href="suffer.html">suffer</a>, <a href="want.html">want</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bulimia.html">bulimia</a>, <a href="edacity.html">edacity</a>, <a href="emptiness.html">emptiness</a>, <a href="esurience.html">esurience</a>, <a href="famishment.html">famishment</a>, <a href="malnourishment.html">malnourishment</a>, <a href="ravenousness.html">ravenousness</a>, <a href="starvation.html">starvation</a>, <a href="undernourishment.html">undernourishment</a>, <a href="voraciousness.html">voraciousness</a>, <a href="voracity.html">voracity</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="craving.html">craving</a>, <a href="hungry.html">hungry</a>, <a href="starvation.html">starvation</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Affamish.html">Affamish</a>, <a href="Ahungered.html">Ahungered</a>, <a href="Apositic.html">Apositic</a>, <a href="appease.html">appease</a>, <a href="appetite.html">appetite</a>, <a href="Aswail.html">Aswail</a>, <a href="beet.html">beet</a>, <a href="Belly-pinched.html">Belly-pinched</a>, <a href="bony.html">bony</a>, <a href="bulimia.html">bulimia</a>, <a href="Bulimy.html">Bulimy</a>, <a href="cadaverous.html">cadaverous</a>, <a href="clam.html">clam</a>, <a href="Clem.html">Clem</a>, <a href="coca.html">coca</a>, <a href="condor.html">condor</a>, <a href="emaciated.html">emaciated</a>, <a href="Endurant.html">Endurant</a>, <a href="Entoperipheral.html">Entoperipheral</a>, <a href="esurience.html">esurience</a>, <a href="Esurine.html">Esurine</a>, <a href="faint.html">faint</a>, <a href="famine.html">famine</a>, <a href="famish.html">famish</a>, <a href="famishment.html">famishment</a>, <a href="gaunt.html">gaunt</a>, <a href="Haggard.html">Haggard</a>, <a href="harpy.html">harpy</a>, <a href="Hippocratic%20face.html">Hippocratic face</a>, <a href="hunger%20marcher.html">hunger marcher</a>, <a href="Hunger-bit.html">Hunger-bit</a>, <a href="Hunger-bitten.html">Hunger-bitten</a>, <a href="Hunger-starve.html">Hunger-starve</a>, <a href="Hungerful.html">Hungerful</a>, <a href="hungry.html">hungry</a>, <a href="incorruptible.html">incorruptible</a>, <a href="Keep%20the%20wolf%20from%20the%20door.html">Keep the wolf from the door</a>, <a href="Limosis.html">Limosis</a>, <a href="lion.html">lion</a>, <a href="meal.html">meal</a>, <a href="Nidder.html">Nidder</a>, <a href="pant.html">pant</a>, <a href="Pantophagy.html">Pantophagy</a>, <a href="pinched.html">pinched</a>, <a href="Poor%20man%27s%20sauce.html">Poor man's sauce</a>, <a href="press.html">press</a>, <a href="rapacious.html">rapacious</a>, <a href="Raphany.html">Raphany</a>, <a href="ravenous.html">ravenous</a>, <a href="Refect.html">Refect</a>, <a href="refection.html">refection</a>, <a href="satisfy.html">satisfy</a>, <a href="sense.html">sense</a>, <a href="sharp-set.html">sharp-set</a>, <a href="skeletal.html">skeletal</a>, <a href="slake.html">slake</a>, <a href="starvation.html">starvation</a>, <a href="starve.html">starve</a>, <a href="starveling.html">starveling</a>, <a href="Stay%20the%20stomach.html">Stay the stomach</a>, <a href="sting.html">sting</a>, <a href="stomach.html">stomach</a>, <a href="thirst.html">thirst</a>, <a href="To%20cry%20cupboard.html">To cry cupboard</a>, <a href="Unappeased.html">Unappeased</a>, <a href="use.html">use</a>, <a href="wasted.html">wasted</a>, <a href="with.html">with</a>, <a href="Wolf.html">Wolf</a>, <a href="yawn.html">yawn</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					gunger, yunger, junger, nunger, bunger, hynger, hhnger, hjnger, hinger, hubger, huhger, hujger, humger, hunfer, hunter, hunher, hunber, hunver, hungwr, hungsr, hungdr, hungrr, hungee, hunged, hungef, hunget
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

@@ -1,0 +1,571 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>delay</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="first">
+						<div class="illustration">
+							<img src="http://media.finedictionary.com/pictures/79/39/10063.jpg" alt="Delaying the harvest">
+							<div class="caption">Delaying the harvest</div>
+						</div>
+					</li>
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">v</span> <span class="term">delay</span> <span class="exp">slow the growth or development of</span> <span class="quot">"The brain damage will retard the child's language development"</span></li><li><span class="tSpeech">v</span> <span class="term">delay</span> <span class="exp">cause to be slowed down or delayed</span> <span class="quot">"Traffic was delayed by the bad weather","she delayed the work that she didn't want to perform"</span></li><li><span class="tSpeech">v</span> <span class="term">delay</span> <span class="exp">stop or halt</span> <span class="quot">"Please stay the bloodshed!"</span></li><li><span class="tSpeech">v</span> <span class="term">delay</span> <span class="exp">act later than planned, scheduled, or required</span> <span class="quot">"Don't delay your application to graduate school or else it won't be considered"</span></li><li><span class="tSpeech">n</span> <span class="term">delay</span> <span class="exp">the act of delaying; inactivity resulting in something being put off until a later time</span> </li><li><span class="tSpeech">n</span> <span class="term">delay</span> <span class="exp">time during which some action is awaited</span> <span class="quot">"instant replay caused too long a delay","he ordered a hold in the action"</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+										<li class="first">
+						<div class="lineContainer left">
+								<div class="lines">
+									<span class="fact">
+										<!-- Sound recorder start
+										<div id="recorder" class="hideOnSmall">
+
+										</div>
+										 Sound recorder end -->							
+										<span class="fHeader">Interesting fact:</span>
+										Armadillos breed in July, but get pregnant in November after delaying implantation. This allows the young to be born during the spring when there is an abundance of food									
+									</span>
+								</div>
+							</div>
+					</li>
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">Delay</span> <span class="exp">A putting off or deferring; procrastination; lingering inactivity; stop; detention; hindrance.</span> <span class="wuQuot">"Without any delay , on the morrow I sat on the judgment seat."</span><span class="wuQuot">"The government ought to be settled without the delay of a day."</span></li><li><span class="term">Delay</span> <span class="exp">To allay; to temper.</span> <span class="wuQuot">"The watery showers delay the raging wind."</span></li><li><span class="tSpeech">v. i</span> <span class="term">Delay</span> <span class="exp">To move slowly; to stop for a time; to linger; to tarry.</span> <span class="wuQuot">"There seem to be certain bounds to the quickness and slowness of the succession of those ideas, . . . beyond which they can neither delay nor hasten."</span></li><li><span class="term">Delay</span> <span class="exp">To put off; to defer; to procrastinate; to prolong the time of or before.</span> <span class="wuQuot">"My lord delayeth his coming."</span></li><li><span class="term">Delay</span> <span class="exp">To retard; to stop, detain, or hinder, for a time; to retard the motion, or time of arrival, of; as, the mail is <span class="wUex">delayed</span> by a heavy fall of snow.</span> <span class="wuQuot">"Thyrsis! whose artful strains have oft delayed The huddling brook to hear his madrigal."</span></li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="second">
+							<div class="lineContainer right">
+								<div class="lines">
+									<span class="fact">
+										<span class="fHeader">Interesting fact:</span>
+										In New Jersey it is illegal to delay or detain a homing pigeon.
+									</span>
+								</div>
+							</div>
+						</li>
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="term">delay</span> <span class="exp">To put off; defer; postpone; remit to a later time, as something to be done.</span> </li><li><span class="term">delay</span> <span class="exp">To retard; stop, detain, or hinder for a time; obstruct or impede the course or progress of: as, the mail is delayed by bad roads.</span> </li><li><span class="term">delay</span> <span class="exp">To linger; move slowly; stop for a time; loiter; be dilatory.</span> </li><li><span class="tSpeech">n</span> <span class="term">delay</span> <span class="exp">A putting off; a deferring; an extension of the time; postponement; procrastination: as, the delay of trial.</span> </li><li><span class="tSpeech">n</span> <span class="term">delay</span> <span class="exp">A lingering; loitering; stay; hindrance to progress.</span> </li><li><span class="term">delay</span> <span class="exp">To alloy; dilute; temper; soften; weaken.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">v.t</span> <span class="term">Delay</span> <span class="exp"><span class="itl">de-lā′</span> to put off to another time: to defer: to hinder or retard</span> </li><li><span class="tSpeech">v.i</span> <span class="term">Delay</span> <span class="exp">to pause, linger, or put off time</span> </li><li><span class="tSpeech">n</span> <span class="term">Delay</span> <span class="exp">a putting off or deferring: a lingering: hinderance:—<span class="itl">pr.p.</span> delay′ing; <span class="itl">pa.p.</span> delayed′</span> </li><li><span class="tSpeech">v.t</span> <span class="term">Delay</span> <span class="exp"><span class="itl">de-lā′</span> (<span class="itl">Spens.</span>) to temper, dilute, weaken.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Seneca</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Seneca.jpg" alt="Seneca">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The greatest remedy for anger is delay.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">George Canning</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="George Canning">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Indecision and delays are the parents of failure.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“A delay is better than disaster.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">David Lloyd George</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/David%20Lloyd%20George.jpg" alt="David%20Lloyd%20George">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The finest eloquence is that which gets things done; the worst is that which delays them.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Georges-Louis Leclerc Buffon</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Georges-Louis Leclerc Buffon">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Never think that God's delays are God's denials. Hold on; Hold fast; Hold out. Patience is genius.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Spanish Proverb</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Spanish Proverb">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Dios tarda pero no olvida -- God delays but doesn't forget.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					F. <span class="wUets">délai</span>, fr. OF. <span class="wUets">deleer</span>, to delay, or fr. L. <span class="wUets">dilatum</span>, which, though really from a different root, is used in Latin only as a p. p. neut. of <span class="wUets">differre</span>, to carry apart, defer, delay. See <span class="wUer">Tolerate</span>, and cf. <span class="wUer">Differ</span> <span class="wUer">Delay</span> (v.) 
+				</div>	
+								<div class="dName">Chambers's Twentieth Century Dictionary</div>
+				<div class="etymology">
+					Fr. <i>délayer</i>, dilute—L. <i>deliquāre</i>, clarify.
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						Great delay was experienced in getting the troops in position, as there seemed to be no harmony of action.
+					</div>
+					<div class="uAuthor">
+						"Three Years in the Sixth Corps" by <span>George T. Stevens</span>					</div>
+										<div class="usage">
+						The moment was delayed.
+					</div>
+					<div class="uAuthor">
+						"The Long Roll" by <span>Mary Johnston</span>					</div>
+										<div class="usage">
+						Dan's cry brought Mr. Radbury into the cabin without further delay, followed by Ralph and Poke Stover.
+					</div>
+					<div class="uAuthor">
+						"For the Liberty of Texas" by <span>Edward Stratemeyer</span>					</div>
+										<div class="usage">
+						Now, then, go in-doors, that you mayn't be causing delay when you are wanted.
+					</div>
+					<div class="uAuthor">
+						"The Comedies of Terence" by <span>Publius Terentius Afer, (AKA) Terence</span>					</div>
+										<div class="usage">
+						He felt lonely, but improved the time in writing several letters which had been delayed.
+					</div>
+					<div class="uAuthor">
+						"Oswald Langdon" by <span>Carson Jay Lee</span>					</div>
+										<div class="usage">
+						Delays are fatal, particularly in pursuing bandits and kidnapers.
+					</div>
+					<div class="uAuthor">
+						"Frank Merriwell Down South" by <span>Burt L. Standish</span>					</div>
+										<div class="usage">
+						He summoned the pardon-monger without delay, and suggested that he should mediate with Sture.
+					</div>
+					<div class="uAuthor">
+						"The Swedish Revolution Under Gustavus Vasa" by <span>Paul Barron Watson</span>					</div>
+										<div class="usage">
+						Delay while we get a new guide lets them get on ahead of the other platoons.
+					</div>
+					<div class="uAuthor">
+						"The History of the American Expedition Fighting the Bolsheviki" by <span>Joel R. Moore</span>					</div>
+										<div class="usage">
+						This could hardly be delayed for more than ten minutes longer.
+					</div>
+					<div class="uAuthor">
+						"As It Was in the Beginning" by <span>Philip Verrill Mighels</span>					</div>
+										<div class="usage">
+						The time came when the decision could no longer be delayed.
+					</div>
+					<div class="uAuthor">
+						"Janet's Love and Service" by <span>Margaret M Robertson</span>					</div>
+										<div class="usage">
+						He spoke with obvious impatience at the delay caused by having so much to tell.
+					</div>
+					<div class="uAuthor">
+						"The Buffalo Runners" by <span>R.M. Ballantyne</span>					</div>
+										<div class="usage">
+						According to rule they should instantly have hauled the diver up, but Baldwin bade them delay a moment.
+					</div>
+					<div class="uAuthor">
+						"Under the Waves" by <span>R M Ballantyne</span>					</div>
+										<div class="usage">
+						But even without that incumbrance, he dared not hazard the delay of climbing the palings.
+					</div>
+					<div class="uAuthor">
+						"Rookwood" by <span>William Harrison Ainsworth</span>					</div>
+										<div class="usage">
+						The horse rattled its bit, and pawed the ground impatient of delay.
+					</div>
+					<div class="uAuthor">
+						"The History of Sir Richard Calmady" by <span>Lucas Malet</span>					</div>
+										<div class="usage">
+						Without delay, the boys started back to the storehouse.
+					</div>
+					<div class="uAuthor">
+						"The Camp in the Snow" by <span>William Murray Graydon</span>					</div>
+										<div class="usage">
+						To anchor there will cause us a delay of six or eight days.
+					</div>
+					<div class="uAuthor">
+						"The Adventures of the Chevalier De La Salle and His Companions, in Their Explorations of the Prairies, Forests, Lakes, and Rivers, of the New World, and Their Interviews with the Savage Tribes, Two Hundred Years Ago" by <span>John S. C. Abbott</span>					</div>
+										<div class="usage">
+						The delay which the gentleman proposes is too long; the Constitution has provided a shorter way.
+					</div>
+					<div class="uAuthor">
+						"A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention" by <span>Lucius Eugene Chittenden</span>					</div>
+										<div class="usage">
+						I expected an expense of $1,000 and a delay of two weeks, but fortune or the devil favored us.
+					</div>
+					<div class="uAuthor">
+						"Bidwell's Travels, from Wall Street to London Prison" by <span>Austin Biron Bidwell</span>					</div>
+										<div class="usage">
+						There was one part of the force, however, which occasioned some trouble and delay.
+					</div>
+					<div class="uAuthor">
+						"Hannibal" by <span>Jacob Abbott</span>					</div>
+										<div class="usage">
+						One day she went to Charles and said, 'Gentle Dauphin, why do you delay to believe me?
+					</div>
+					<div class="uAuthor">
+						"The Red True Story Book" by <span>Various</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							If you can soothe his sorrow,<br>
+Don't delay;<br>
+Stay not "until to-morrow!"—<br>
+Haste—haste away!
+							<div class="poet">"Life’s Struggle" by <span>Benjamin Cutler Clark</span></div>
+						</div>
+											<div class="poemQuote">
+							I will not tremble nor delay,<br>
+Unworthy though I be:<br>
+He will not send my soul away<br>
+Who gave Himself for me.
+							<div class="poet">"Holy Communion" by <span>Samuel John Stone</span></div>
+						</div>
+											<div class="poemQuote">
+							Then why should I so long delay<br>
+What others learnt so soon?<br>
+I would not pass another day<br>
+Without this work begun.
+							<div class="poet">"Examples of Early Piety" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Do as thou wilt with mine and me,<br>
+Beloved, I only pray,<br>
+Follow the promptings of thy youth.<br>
+Let there be no delay!
+							<div class="poet">"Song Of Ramesram Temple Girl" by <span>Laurence Hope</span></div>
+						</div>
+											<div class="poemQuote">
+							Thou art my portion, O my God;<br>
+Soon as I know thy way,<br>
+My heart makes haste t' obey thy word,<br>
+And suffers no delay.
+							<div class="poet">"Psalm 119  part 3" by <span>Isaac Watts</span></div>
+						</div>
+											<div class="poemQuote">
+							Now Satan threatens to prevail,<br>
+And make my soul his prey;<br>
+Yet, Lord, thy mercies cannot fail,<br>
+O come without delay.
+							<div class="poet">"Oh That I Were As In Months Past!" by <span>John Newton</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Blame appeals caseload , not DA's office, for delays.
+					</div>
+					<div class="uAuthor">
+						<a href="http://masslawyersweekly.com/2012/11/15/blame-appeals-caseload-not-das-office-for-delays/" target="_blank" rel="external nofollow">masslawyersweekly.com</a>
+					</div>
+										<div class="usage">
+						Normally, we wait until spring for the first appearance of the robin redbreast, and a lot of us hold off at least until St Patrick's Day to start quaffing Irish whiskey, but this year neither should be delayed so long.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.cigaraficionado.com/webfeatures/show/id/16319" target="_blank" rel="external nofollow">cigaraficionado.com</a>
+					</div>
+										<div class="usage">
+						After months of delay and then the media blitz surrounding its excruciatingly slow journey, the Rock has at last arrived.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.kcrw.com/etc/programs/at/at120710what_would_catherine" target="_blank" rel="external nofollow">kcrw.com</a>
+					</div>
+										<div class="usage">
+						He dismisses any claim that Pfizer has delayed the study.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/2012/06/25/health/in-documents-on-pain-drug-celebrex-signs-of-doubt-and-deception.html?n=Top/News/Business/Companies/Pfizer%20Inc.?ref=pfizerinc" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						Action was delayed in the fall, after Mr Sikes received letters from two key Democrats questioning the procedure under which the Fleet Call decision was being made.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nytimes.com/1991/02/13/business/threat-to-cellular-phone-services.html?pagewanted=2&amp;src=pm" target="_blank" rel="external nofollow">nytimes.com</a>
+					</div>
+										<div class="usage">
+						HHS plans to delay Stage 2 meaningful use requirements until 2014.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ama-assn.org/ama/pub/amawire/2011-december-07/2011-december-07-general_news3.shtml" target="_blank" rel="external nofollow">ama-assn.org</a>
+					</div>
+										<div class="usage">
+						Charlestown considering delaying cesspool removal.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ricentral.com/content/charlestown-considering-delaying-cesspool-removal" target="_blank" rel="external nofollow">ricentral.com</a>
+					</div>
+										<div class="usage">
+						Jeff Horton has probably endured hundreds of flight delays during his decades as a football coach.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.startribune.com/sports/gophers/177992131.html" target="_blank" rel="external nofollow">startribune.com</a>
+					</div>
+										<div class="usage">
+						Judge delays ruling on Skeen's change of venue motion until after jury selection Monday.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.wacotrib.com/news/169870206.html" target="_blank" rel="external nofollow">wacotrib.com</a>
+					</div>
+										<div class="usage">
+						The Senate will have its first opportunity to undo – or at least delay – one of the most outrageous elements of the disastrous Dodd-Frank financial takeover legislation soon, perhaps as soon as this week.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.foxnews.com/opinion/2011/05/23/like-debit-card-free-checking-account-heres-important-vote-watch/print" target="_blank" rel="external nofollow">foxnews.com</a>
+					</div>
+										<div class="usage">
+						Production delayed indefinitely at LG Chem 's Holland plant.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.grbj.com/articles/74668-production-delayed-indefinitely-at-lg-chems-holland-plant" target="_blank" rel="external nofollow">grbj.com</a>
+					</div>
+										<div class="usage">
+						Singapore-based ocean carrier APL said it is struggling to connect exports via terminals in India's Port of Chennai because of severe port congestion and yard delays.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.joc.com/port-news/congestion-worsens-port-chennai_20110811.html" target="_blank" rel="external nofollow">joc.com</a>
+					</div>
+										<div class="usage">
+						Long-delayed plans to develop Chula Vista 's waterfront may soon become a reality.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.nbcsandiego.com/news/local/Bright-Future-Moves-Closer-For-Chula-Vistas-Bayfront-160900215.html" target="_blank" rel="external nofollow">nbcsandiego.com</a>
+					</div>
+										<div class="usage">
+						China Seen Delaying New Stimulus.
+					</div>
+					<div class="uAuthor">
+						<a href="http://online.wsj.com/article/SB10000872396390444900304577581441758812390.html" target="_blank" rel="external nofollow">online.wsj.com</a>
+					</div>
+										<div class="usage">
+						The emergency chute from a United Airlines jet was deployed at Sea-Tac International Airport Wednesday, NBC News reports, delaying the flight.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.king5.com/news/aerospace/Jets-emergency-chute-deployed-before-leaving-Sea-Tac--167087625.html" target="_blank" rel="external nofollow">king5.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The proposed method allows us to ﬁnd the tail of the delay time distribution function and delay time moments, providing thus an exact description of the long-time dynamics. 
+					</div>
+					<div class="uAuthor">
+						Instanton approach to the Langevin motion of a particle in a random potential
+					</div>
+										<div class="usage">
+						The six streams of Doppler data are obtained from the Ci (t) by combining them suitably with their time delayed copies, where the time delays are just the light travel times between the three spacecrafts. 
+					</div>
+					<div class="uAuthor">
+						Algebraic approach to time-delay data analysis for LISA
+					</div>
+										<div class="usage">
+						In contrast, all the complexity measures RR, DE T and L show a signiﬁcant result and decomposite the correlation in a positive one with no delay and in a negative one with a delay of about ﬁve months, what suggests a more complex interrelation between the ENSO phenomenon and local rainfall in NW Argentina. 
+					</div>
+					<div class="uAuthor">
+						Nonlinear analysis of bivariate data with cross recurrence plots
+					</div>
+										<div class="usage">
+						Some of the electors voted against delay τ1 and some others against delay τ2 . 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						Even when a particular pair is not numerically accounted for to compute the dispersion at τ1 , it can take part in forming the dispersion for another delay τ2 and thus can determine which of the delays will be the best estimate. 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						The Hits column counts random runs whose best delay differed from the true delay by no more that 0.1 years. 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						When the dispersion spectrum is computed for the full symmetric range of the time delays [−1.6, 1.6] (years) it is seen in Fig. 1 that the strongest minimum occurs at a positive delay around 0.7 years (A leading B). 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						Even if we look at another scenario where the acceptable time delay range is a priori restricted to be from −1.0 years to −0.65 years, we can only say that there is a vague hint in the data that the time delay can be somewhere in the range between −0.9 years and −0.7 years. 
+					</div>
+					<div class="uAuthor">
+						Bias and consistency in time delay estimation methods: case of the double quasar HE 1104-1805
+					</div>
+										<div class="usage">
+						Will goes further, evaluating the time delay for models in which cg 6= c, and concludes that there is an error in Kopeikin’s derivation of the time delay . 
+					</div>
+					<div class="uAuthor">
+						The speed of gravity has not been measured from time delays
+					</div>
+										<div class="usage">
+						The calculation of the time delay will allow for a direct test of Will and Kopeikin’s results, since both derive the same integral for the time delay, albeit with different prefactors, as we found in Eqs. 17 and 18. 
+					</div>
+					<div class="uAuthor">
+						The speed of gravity has not been measured from time delays
+					</div>
+										<div class="usage">
+						We ﬁnd in addition that Kopeikin’s equation for the time delay, which asymptotically approaches the time-delay for static bodies in the limit of an inﬁnite speed of gravity, is wrong. 
+					</div>
+					<div class="uAuthor">
+						The speed of gravity has not been measured from time delays
+					</div>
+										<div class="usage">
+						Deﬁnition 4.1 A delay condition (DC) or shortly a delay is a function i : S → P ∗ (S ) with the property that ∀u, i(u) ⊂ S olSC (u). 
+					</div>
+					<div class="uAuthor">
+						Defining the Delays of the Asynchronous Circuits
+					</div>
+										<div class="usage">
+						We call the process (X + Yt , t ≥ 0) a delayed subordinator, and call its closed range W a delayed regenerative set. 
+					</div>
+					<div class="uAuthor">
+						Self-similar and Markov composition structures
+					</div>
+										<div class="usage">
+						As shown in Fig. 3, the DLL is composed of 128 elementary delays, a phase detector, a charge pump and a level shifter. 1) Elementary delay cell This cell comprises 2 inverters whose propagation time is voltage controlled by Vcp and Vcn. 
+					</div>
+					<div class="uAuthor">
+						Development of a TDC to equip a Liquid Xenon PET prototype
+					</div>
+										<div class="usage">
+						This can be checked to be equivalent to the inﬁnite symmetrized delay matrix with d = 1, i.e., with the “nearest– neighbor” delay. A ﬁnite d compared to an inﬁnite T is just like d = 1. 
+					</div>
+					<div class="uAuthor">
+						Applying Free Random Variables to Random Matrix Analysis of Financial Data. Part I: A Gaussian Case
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="cause to be slowed down or delayed"><a href="detain.html">detain</a>, <a href="hold%20up.html">hold up</a>, </div><div class="synGroup" title="the act of delaying; inactivity resulting in something being put off until a later time"><a href="holdup.html">holdup</a>, </div><div class="synGroup" title="time during which some action is awaited"><a href="hold.html">hold</a>, <a href="time%20lag.html">time lag</a>, <a href="postponement.html">postponement</a>, <a href="wait.html">wait</a></div>
+				</div>
+												<h3>Antonyms</h3>
+				<div class="related">
+					<a href="rush.html">rush</a>
+				</div>
+												<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="alter.html">alter</a>, <a href="break.html">break</a>, <a href="change.html">change</a>, <a href="check.html">check</a>, <a href="decelerate.html">decelerate</a>, <a href="hold%20back.html">hold back</a>, <a href="hold%20off.html">hold off</a>, <a href="inactivity.html">inactivity</a>, <a href="intermission.html">intermission</a>, <a href="interruption.html">interruption</a>, <a href="modify.html">modify</a>, <a href="pause.html">pause</a>, <a href="retard.html">retard</a>, <a href="slow.html">slow</a>, <a href="slow%20down.html">slow down</a>, <a href="slow%20up.html">slow up</a>, <a href="suspension.html">suspension</a>, <a href="wait.html">wait</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="break.html">break</a>, <a href="buy%20time.html">buy time</a>, <a href="catch.html">catch</a>, <a href="cunctation.html">cunctation</a>, <a href="dalliance.html">dalliance</a>, <a href="dampen.html">dampen</a>, <a href="dawdling.html">dawdling</a>, <a href="defer.html">defer</a>, <a href="deferment.html">deferment</a>, <a href="deferral.html">deferral</a>, <a href="demurrage.html">demurrage</a>, <a href="detain.html">detain</a>, <a href="dilly-dally.html">dilly-dally</a>, <a href="dillydally.html">dillydally</a>, <a href="disruption.html">disruption</a>, <a href="drag%20one%27s%20feet.html">drag one's feet</a>, <a href="drag%20one%27s%20heels.html">drag one's heels</a>, <a href="extension.html">extension</a>, <a href="filibuster.html">filibuster</a>, <a href="forbearance.html">forbearance</a>, <a href="gap.html">gap</a>, <a href="hesitate.html">hesitate</a>, <a href="hold%20over.html">hold over</a>, <a href="interruption.html">interruption</a>, <a href="lag.html">lag</a>, <a href="lingering.html">lingering</a>, <a href="moratorium.html">moratorium</a>, <a href="pause.html">pause</a>, <a href="postpone.html">postpone</a>, <a href="postponement.html">postponement</a>, <a href="procrastinate.html">procrastinate</a>, <a href="procrastination.html">procrastination</a>, <a href="prorogue.html">prorogue</a>, <a href="put%20off.html">put off</a>, <a href="put%20over.html">put over</a>, <a href="remit.html">remit</a>, <a href="retardation.html">retardation</a>, <a href="set%20back.html">set back</a>, <a href="shelve.html">shelve</a>, <a href="shillyshally.html">shillyshally</a>, <a href="slowdown.html">slowdown</a>, <a href="stall.html">stall</a>, <a href="stay.html">stay</a>, <a href="stonewall.html">stonewall</a>, <a href="table.html">table</a>, <a href="tarriance.html">tarriance</a>, <a href="trifling.html">trifling</a>
+				</div>
+												<h3>Related forms</h3>
+				<div class="related">
+					<a href="stay.html">stay</a>
+				</div>
+												<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="abide.html">abide</a>, <a href="abode.html">abode</a>, <a href="acoustic%20delay%20line.html">acoustic delay line</a>, <a href="acoustic%20storage.html">acoustic storage</a>, <a href="Anan.html">Anan</a>, <a href="apologize.html">apologize</a>, <a href="arrest.html">arrest</a>, <a href="at%20last.html">at last</a>, <a href="at%20once.html">at once</a>, <a href="attend.html">attend</a>, <a href="augur.html">augur</a>, <a href="away.html">away</a>, <a href="backward.html">backward</a>, <a href="becalm.html">becalm</a>, <a href="bode.html">bode</a>, <a href="breathing.html">breathing</a>, <a href="buy%20time.html">buy time</a>, <a href="catch.html">catch</a>, <a href="catch%20up.html">catch up</a>, <a href="check.html">check</a>, <a href="chide.html">chide</a>, <a href="Circuity.html">Circuity</a>, <a href="clap.html">clap</a>, <a href="Comperendinate.html">Comperendinate</a>, <a href="coup.html">coup</a>, <a href="cunctation.html">cunctation</a>, <a href="Cunctatious.html">Cunctatious</a>, <a href="Cunctative.html">Cunctative</a>, <a href="Cunctatory.html">Cunctatory</a>, <a href="cytokinin.html">cytokinin</a>, <a href="dalliance.html">dalliance</a>, <a href="dally.html">dally</a>, <a href="dandle.html">dandle</a>, <a href="defer.html">defer</a>, <a href="Delation.html">Delation</a>, <a href="delay%20line.html">delay line</a>, <a href="delayer.html">delayer</a>, <a href="Delayingly.html">Delayingly</a>, <a href="Delayment.html">Delayment</a>, <a href="demur.html">demur</a>, <a href="demurrage.html">demurrage</a>, <a href="demurral.html">demurral</a>, <a href="detain.html">detain</a>, <a href="detention.html">detention</a>, <a href="deviation.html">deviation</a>, <a href="dilation.html">dilation</a>, <a href="Dilatorily.html">Dilatorily</a>, <a href="dilatoriness.html">dilatoriness</a>, <a href="dilatory.html">dilatory</a>, <a href="dilatory%20plea.html">dilatory plea</a>, <a href="dilly-dally.html">dilly-dally</a>, <a href="diminish.html">diminish</a>, <a href="directly.html">directly</a>, <a href="dispatch.html">dispatch</a>, <a href="downright.html">downright</a>, <a href="Drecche.html">Drecche</a>, <a href="Dretch.html">Dretch</a>, <a href="drift.html">drift</a>, <a href="due.html">due</a>, <a href="dwell.html">dwell</a>, <a href="dwell%20on.html">dwell on</a>, <a href="dwelling.html">dwelling</a>, <a href="earliest.html">earliest</a>, <a href="early.html">early</a>, <a href="eld.html">eld</a>, <a href="electromagnetic%20delay%20line.html">electromagnetic delay line</a>, <a href="endurance.html">endurance</a>, <a href="eventually.html">eventually</a>, <a href="excusable.html">excusable</a>, <a href="excuse.html">excuse</a>, <a href="expedient.html">expedient</a>, <a href="extension.html">extension</a>, <a href="Fabian.html">Fabian</a>, <a href="filibuster.html">filibuster</a>, <a href="filibusterer.html">filibusterer</a>, <a href="finally.html">finally</a>, <a href="fluid.html">fluid</a>, <a href="forbear.html">forbear</a>, <a href="forbearance.html">forbearance</a>, <a href="Foreslow.html">Foreslow</a>, <a href="Forslack.html">Forslack</a>, <a href="Forslow.html">Forslow</a>, <a href="forthwith.html">forthwith</a>, <a href="great.html">great</a>, <a href="halt.html">halt</a>, <a href="hang.html">hang</a>, <a href="headlong.html">headlong</a>, <a href="hesitate.html">hesitate</a>, <a href="hesitation.html">hesitation</a>, <a href="hinder.html">hinder</a>, <a href="hone.html">hone</a>, <a href="hotfoot.html">hotfoot</a>, <a href="immediate.html">immediate</a>, <a href="immediately.html">immediately</a>, <a href="Imparl.html">Imparl</a>, <a href="Imparlance.html">Imparlance</a>, <a href="impatience.html">impatience</a>, <a href="impatient.html">impatient</a>, <a href="impede.html">impede</a>, <a href="in%20a%20flash.html">in a flash</a>, <a href="In%20present.html">In present</a>, <a href="in%20short%20order.html">in short order</a>, <a href="incontinent.html">incontinent</a>, <a href="Incontinently.html">Incontinently</a>, <a href="instant.html">instant</a>, <a href="instantaneous.html">instantaneous</a>, <a href="instantaneously.html">instantaneously</a>, <a href="Instanter.html">Instanter</a>, <a href="instantly.html">instantly</a>, <a href="intermit.html">intermit</a>, <a href="just.html">just</a>, <a href="kinin.html">kinin</a>, <a href="Lache.html">Lache</a>, <a href="Laches.html">Laches</a>, <a href="lamp.html">lamp</a>, <a href="late.html">late</a>, <a href="Latered.html">Latered</a>, <a href="Lentor.html">Lentor</a>, <a href="LET.html">LET</a>, <a href="lickety%20cut.html">lickety cut</a>, <a href="lickety%20split.html">lickety split</a>, <a href="like%20a%20shot.html">like a shot</a>, <a href="limitation.html">limitation</a>, <a href="linger.html">linger</a>, <a href="linger%20over.html">linger over</a>, <a href="lingeringly.html">lingeringly</a>, <a href="loiter.html">loiter</a>, <a href="longanimity.html">longanimity</a>, <a href="mental%20quickness.html">mental quickness</a>, <a href="Mora.html">Mora</a>, <a href="Moration.html">Moration</a>, <a href="moratorium.html">moratorium</a>, <a href="Moratory.html">Moratory</a>, <a href="More.html">More</a>, <a href="must.html">must</a>, <a href="now.html">now</a>, <a href="obstruct.html">obstruct</a>, <a href="obstruction.html">obstruction</a>, <a href="obstructive.html">obstructive</a>, <a href="On%20the%20nail.html">On the nail</a>, <a href="on%20the%20spot.html">on the spot</a>, <a href="once.html">once</a>, <a href="one-time.html">one-time</a>, <a href="open.html">open</a>, <a href="out%20of%20hand.html">out of hand</a>, <a href="outright.html">outright</a>, <a href="overstay.html">overstay</a>, <a href="patience.html">patience</a>, <a href="pause.html">pause</a>, <a href="poise.html">poise</a>, <a href="postpone.html">postpone</a>, <a href="postponement.html">postponement</a>, <a href="presently.html">presently</a>, <a href="primary%20amenorrhea.html">primary amenorrhea</a>, <a href="procrastinate.html">procrastinate</a>, <a href="procrastination.html">procrastination</a>, <a href="Prolateness.html">Prolateness</a>, <a href="Prolation.html">Prolation</a>, <a href="Prolixious.html">Prolixious</a>, <a href="prolongation.html">prolongation</a>, <a href="prompt.html">prompt</a>, <a href="promptitude.html">promptitude</a>, <a href="promptly.html">promptly</a>, <a href="promptness.html">promptness</a>, <a href="prorogue.html">prorogue</a>, <a href="protract.html">protract</a>, <a href="protraction.html">protraction</a>, <a href="purloin.html">purloin</a>, <a href="put.html">put</a>, <a href="put%20back.html">put back</a>, <a href="put%20off.html">put off</a>, <a href="Put-off.html">Put-off</a>, <a href="putoff.html">putoff</a>, <a href="quick.html">quick</a>, <a href="quick-wittedness.html">quick-wittedness</a>, <a href="quickly.html">quickly</a>, <a href="quickness.html">quickness</a>, <a href="readily.html">readily</a>, <a href="ready.html">ready</a>, <a href="relay.html">relay</a>, <a href="relent.html">relent</a>, <a href="remora.html">remora</a>, <a href="Remorate.html">Remorate</a>, <a href="reprieve.html">reprieve</a>, <a href="respite.html">respite</a>, <a href="restive.html">restive</a>, <a href="restlessness.html">restlessness</a>, <a href="retard.html">retard</a>, <a href="retardant.html">retardant</a>, <a href="retardation.html">retardation</a>, <a href="Retardment.html">Retardment</a>, <a href="right%20away.html">right away</a>, <a href="shunt.html">shunt</a>, <a href="Sist.html">Sist</a>, <a href="slack.html">slack</a>, <a href="sloth.html">sloth</a>, <a href="slow.html">slow</a>, <a href="sojourn.html">sojourn</a>, <a href="sonic%20delay%20line.html">sonic delay line</a>, <a href="soon.html">soon</a>, <a href="soonest.html">soonest</a>, <a href="speedy.html">speedy</a>, <a href="stall.html">stall</a>, <a href="stalling.html">stalling</a>, <a href="statute.html">statute</a>, <a href="stave.html">stave</a>, <a href="stay.html">stay</a>, <a href="Stayless.html">Stayless</a>, <a href="Stereopticon.html">Stereopticon</a>, <a href="stop.html">stop</a>, <a href="straight%20off.html">straight off</a>, <a href="straightaway.html">straightaway</a>, <a href="straightway.html">straightway</a>, <a href="summarily.html">summarily</a>, <a href="summary.html">summary</a>, <a href="suspend.html">suspend</a>, <a href="suspension.html">suspension</a>, <a href="suspensive.html">suspensive</a>, <a href="suspensory.html">suspensory</a>, <a href="Taigle.html">Taigle</a>, <a href="tardy.html">tardy</a>, <a href="Targe.html">Targe</a>, <a href="tarriance.html">tarriance</a>, <a href="Tarrow.html">Tarrow</a>, <a href="tarry.html">tarry</a>, <a href="temporize.html">temporize</a>, <a href="Thereupon.html">Thereupon</a>, <a href="time.html">time</a>, <a href="To%20lie%20to.html">To lie to</a>, <a href="To%20post%20off.html">To post off</a>, <a href="To%20ride%20post.html">To ride post</a>, <a href="To%20shift%20off.html">To shift off</a>, <a href="track.html">track</a>, <a href="unhurried.html">unhurried</a>, <a href="unwise.html">unwise</a>, <a href="wait.html">wait</a>, <a href="waiting%20game.html">waiting game</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					selay, eelay, felay, celay, xelay, selay, dwlay, dslay, ddlay, drlay, dekay, deoay, depay, delqy, delwy, delsy, delzy, delat, delag, delah, delau
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>

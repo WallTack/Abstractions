@@ -1,0 +1,525 @@
+<div class="container">
+		<div class="bigSubContainer">
+			<!-- start ad -->
+			
+			<!-- end ad -->
+			<h1>privacy</h1>
+						<h2 id="_definitions" class="header">Definitions</h2>
+			<div id="definitions" class="subContainer">
+				<ul class="twoElements">
+										<li class="second">
+							<div class="dName">WordNet 3.6</div>
+							<ul class="meanings">
+								<li><span class="tSpeech">n</span> <span class="term">privacy</span> <span class="exp">the quality of being secluded from the presence or view of others</span> </li><li><span class="tSpeech">n</span> <span class="term">privacy</span> <span class="exp">the condition of being concealed or hidden</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<ul class="twoElements">
+									 	
+					<li class="second">
+							<ul class="meanings">
+								<li><span class="term">Privacy</span> <span class="exp">A place of seclusion from company or observation; retreat; solitude; retirement.</span> <span class="wuQuot">"Her sacred privacies all open lie."</span></li><li><span class="term">Privacy</span> <span class="exp">A private matter; a secret.</span> </li><li><span class="term">Privacy</span> <span class="exp">Concealment of what is said or done.</span> </li><li><span class="term">Privacy</span> <span class="exp">See <span class="wUer">Privity</span>, 2.</span> </li><li><span class="term">Privacy</span> <span class="exp">The state of being in retirement from the company or observation of others; seclusion.</span> </li>
+								<li class="separator">***</li>
+							</ul>
+					</li>
+				</ul>
+												<div class="dName">Century Dictionary and Cyclopedia</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">privacy</span> <span class="exp">A state of being private, or in retirement from the company or from the knowledge or observation of others; seclusion.</span> </li><li><span class="tSpeech">n</span> <span class="term">privacy</span> <span class="exp">A place of seclusion from company or observation; retreat; solitude; retirement.</span> </li><li><span class="tSpeech">n</span> <span class="term">privacy</span> <span class="exp">Joint knowledge; privity. See privity.</span> </li><li><span class="tSpeech">n</span> <span class="term">privacy</span> <span class="exp">Taciturnity.</span> </li><li><span class="tSpeech">n</span> <span class="term">privacy</span> <span class="exp">Secrecy; concealment of what is said or done.</span> </li><li><span class="tSpeech">n</span> <span class="term">privacy</span> <span class="exp">A private or personal matter, circumstance, or relation.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+												<div class="dName">Chambers's Twentieth Century Dictionary</div>
+					<ul class="twoElements">
+												<li class="first">
+								<ul class="meanings">
+									<li><span class="tSpeech">n</span> <span class="term">Privacy</span> <span class="exp"><span class="itl">prī′va-si or priv′-</span> state of being private or retired from company or observation: a place of seclusion: retreat: retirement: secrecy.</span> </li>
+									<li class="separator">***</li>
+								</ul>
+						</li>
+					</ul>
+										
+			</div>
+						<h2 id="_quotations" class="header">Quotations</h2>
+			<div id="quotations" class="subContainer">
+				<ul class="quotesUl">
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Ruth Bader Ginsberg</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Ruth Bader Ginsberg">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The emphasis must be not on the right to abortion but on the right to privacy and reproductive control.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Robert Browning</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Robert%20Browning.jpg" alt="Robert%20Browning">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“I give the fight up: let there be an end, a privacy, an obscure nook for me. I want to be forgotten even by God.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Publilius Syrus</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Publilius%20Syrus.jpg" alt="Publilius%20Syrus">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Count not him among your friends who will retail your privacies to the world.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Source Unknown</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Source Unknown">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“The pretentiously -- named ensuite bathroom is a major factor in divorce. Privacy is paramount in marriage.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marshall Mcluhan</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/Marshall%20Mcluhan.jpg" alt="Marshall%20Mcluhan">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Publication is a self-invasion of privacy.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+										<li>
+						<div class="quotContainer">
+							<div class="aInfo">	
+								<div class="authorContainer">
+									<span class="aName">Marlon Brando</span>
+								</div>
+																<img src="http://media.finedictionary.com/icons/noIcon.png" alt="Marlon Brando">
+															</div>
+							<div class="quoteContainer">
+								<div class="qSubContainer">
+									<div class="quote">“Privacy is not something that I'm merely entitled to, it's an absolute prerequisite.”</div>
+								</div>
+							</div>
+						</div>
+					</li>
+									
+				</ul>
+			</div>
+												<h2 id="_etymology" class="header">Etymology</h2>
+			<div id="etymology" class="subContainer">
+								<div class="dName">Webster's Revised Unabridged Dictionary</div>
+				<div class="etymology">
+					See <span class="wUer">Private</span> 
+				</div>	
+							</div>
+									<h2 id="_usage" class="header">Usage</h2>
+			<div id="usage" class="subContainer">
+								<h3>In literature:</h3>
+				<div class="usageContainer">
+										<div class="usage">
+						The nuns lived in great privacy, but in a luxury before unequalled in that part of the country.
+					</div>
+					<div class="uAuthor">
+						"Myths And Legends Of Our Own Land, Complete" by <span>Charles M. Skinner</span>					</div>
+										<div class="usage">
+						Was it impossible, then, in this horrible whispering gallery of London, to have any privacy of the soul?
+					</div>
+					<div class="uAuthor">
+						"December Love" by <span>Robert Hichens</span>					</div>
+										<div class="usage">
+						The rites to be performed require privacy; adieu, then, here must I pass the night alone.
+					</div>
+					<div class="uAuthor">
+						"The Adventures of Ferdinand Count Fathom, Complete" by <span>Tobias Smollett</span>					</div>
+										<div class="usage">
+						It was indeed a rash individual who trespassed upon the privacy of that consecration, and dared to rally the Adjutant on the subject of marriage.
+					</div>
+					<div class="uAuthor">
+						"The Angel Adjutant of "Twice Born Men"" by <span>Minnie L. Carpenter</span>					</div>
+										<div class="usage">
+						A lone disciple, occupying the ground floor, guarded his master's privacy.
+					</div>
+					<div class="uAuthor">
+						"Autobiography of a YOGI" by <span>Paramhansa Yogananda</span>					</div>
+										<div class="usage">
+						She had seen something, and what she had seen was enough to surprise any girl in the privacy of her bedroom.
+					</div>
+					<div class="uAuthor">
+						"The Adventures of Sally" by <span>P. G. Wodehouse</span>					</div>
+										<div class="usage">
+						I dare swear that was a wish often on the Swan's lips in the privacy of his domestic life!
+					</div>
+					<div class="uAuthor">
+						"The Caxtons, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						Your privacy will never be disturbed.
+					</div>
+					<div class="uAuthor">
+						"Eugene Aram, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						And Jasper Losely is not the man to intrude himself on the privacy of a sick chamber.
+					</div>
+					<div class="uAuthor">
+						"What Will He Do With It, Complete" by <span>Edward Bulwer-Lytton</span>					</div>
+										<div class="usage">
+						But, for that dealing, privacy was absolutely essential.
+					</div>
+					<div class="uAuthor">
+						"The Cathedral" by <span>Sir Hugh Walpole</span>					</div>
+										<div class="usage">
+						In the smoking-room, the door shut and privacy about them, Fender's attitude changed somewhat, and his manner became very grave.
+					</div>
+					<div class="uAuthor">
+						"Three John Silence Stories" by <span>Algernon Blackwood</span>					</div>
+										<div class="usage">
+						He came down from London by the midday train, and, disdaining the privacy of a cab, prepared to run the gauntlet of his fellow-townsmen.
+					</div>
+					<div class="uAuthor">
+						"At Sunwich Port, Complete" by <span>W.W. Jacobs</span>					</div>
+										<div class="usage">
+						There are three broad classes of the special things in which human wisdom does permit privacy.
+					</div>
+					<div class="uAuthor">
+						"All Things Considered" by <span>G. K. Chesterton</span>					</div>
+										<div class="usage">
+						This instinctive need of privacy is again a subject which would repay special and detailed study.
+					</div>
+					<div class="uAuthor">
+						"Human Nature In Politics" by <span>Graham Wallas</span>					</div>
+										<div class="usage">
+						At no time was there any privacy.
+					</div>
+					<div class="uAuthor">
+						"What eight million women want" by <span>Rheta Childe Dorr</span>					</div>
+										<div class="usage">
+						It was sufficient to exist untormented and to let his soul stretch itself in the privacy and peace of Baker's.
+					</div>
+					<div class="uAuthor">
+						"The Princess Priscilla's Fortnight" by <span>Elizabeth von Arnim</span>					</div>
+										<div class="usage">
+						Of course there is no pretense of sanitation, cleanliness or domestic privacy.
+					</div>
+					<div class="uAuthor">
+						"The Lake of the Sky" by <span>George Wharton James</span>					</div>
+										<div class="usage">
+						Drapery around the bed kept out cold drafts and provided privacy.
+					</div>
+					<div class="uAuthor">
+						"Our Legal Heritage, 5th Ed." by <span>S. A. Reilly</span>					</div>
+										<div class="usage">
+						They have absolutely no respect for anybody's privacy.
+					</div>
+					<div class="uAuthor">
+						"Time Crime" by <span>H. Beam Piper</span>					</div>
+										<div class="usage">
+						Meanwhile, in the privacy of the baggage room, the station-agent was whispering excitedly to his companion.
+					</div>
+					<div class="uAuthor">
+						"A Pagan of the Hills" by <span>Charles Neville Buck</span>					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+				
+								<h3>In poetry:</h3>
+				<div class="usageContainer">
+											<div class="poemQuote">
+							He has an angry wrenlike vigilance,<br>
+a greyhound's gentle tautness;<br>
+he seems to wince at pleasure,<br>
+and suffocate for privacy.
+							<div class="poet">"For the Union Dead" by <span>Robert Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							Thirsting for<br>
+the hierarchic privacy<br>
+of Queen Victoria's century<br>
+she buys up all<br>
+the eyesores facing her shore,<br>
+and lets them fall. 
+							<div class="poet">"Skunk Hour" by <span>Robert Lowell</span></div>
+						</div>
+											<div class="poemQuote">
+							and some, maybe, are heartless, but who is not<br>
+vulnerable, easy to scare,<br>
+and jealous of his privacy? (I am glad<br>
+the blackbird, for instance, cannot
+							<div class="poet">"Thanksgiving for a Habitat" by <span>W H Auden</span></div>
+						</div>
+											<div class="poemQuote">
+							Not all, indeed; for who but yearns<br>
+To call some kindred heart his own?<br>
+Some friend to whom he fondly turns,<br>
+And with whom he is still alone,<br>
+Since each, while absolutely free,<br>
+Respects the other's privacy.
+							<div class="poet">"My Bores" by <span>John Lawson Stoddard</span></div>
+						</div>
+											<div class="poemQuote">
+							Not one word or deed—not venereal sore, discoloration, privacy of<br>
+the onanist, putridity of gluttons or rum-drinkers, peculation,<br>
+cunning, betrayal, murder, seduction, prostitution, but has<br>
+results beyond death, as really as before death.
+							<div class="poet">"Manhattan Streets I Saunter'd, Pondering" by <span>Walt Whitman</span></div>
+						</div>
+									</div>
+								<br class="cBoth">
+								<h3>In news:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						Jeremiah Caleb Marg, 29, of Burnsville, pleaded guilty Nov 19, 2012 in Ramsey County District Court to intentional interference with privacy for audio-recording a couple in their hotel room having sex.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.twincities.com/localnews/ci_22026961/hotel-clerk-who-recorded-newlyweds-st-paul-gets?source=most_viewed" target="_blank" rel="external nofollow">twincities.com</a>
+					</div>
+										<div class="usage">
+						Why 'Privacy By Design' Is The New Corporate Hotness .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/kashmirhill/2011/07/28/why-privacy-by-design-is-the-new-corporate-hotness/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Ann Cavoukian, 'Privacy by Design' Diva.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.forbes.com/sites/kashmirhill/2011/07/28/why-privacy-by-design-is-the-new-corporate-hotness/" target="_blank" rel="external nofollow">forbes.com</a>
+					</div>
+										<div class="usage">
+						Linux provides privacy in a flash .
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.columbiatribune.com/news/2012/sep/25/linux-provides-privacy-in-a-flash/" target="_blank" rel="external nofollow">columbiatribune.com</a>
+					</div>
+										<div class="usage">
+						Think Google privacy policy isn't private enough.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/2012/0301/Think-Google-privacy-policy-isn-t-private-enough-How-to-stay-incognito" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						A new, streamlined privacy policy goes into effect Thursday on all Google websites.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/2012/0301/Think-Google-privacy-policy-isn-t-private-enough-How-to-stay-incognito" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<div class="usage">
+						"It already feels like I've lost a piece of privacy living in an apartment," says Iris Dias, a public-relations professional.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.vancouversun.com/news/whoarewe/Part+Three+Relationships+with+neighbours+polite+indifferent+survey+finds+with+video/6808446/story.html" target="_blank" rel="external nofollow">vancouversun.com</a>
+					</div>
+										<div class="usage">
+						Electronic Health Records: A Boon or Privacy Nightmare.
+					</div>
+					<div class="uAuthor">
+						<a href="http://nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/Columns/Informatics/Electronic-Health-Records-and-Privacy.html" target="_blank" rel="external nofollow">nursingworld.org</a>
+					</div>
+										<div class="usage">
+						Knowing who donated how much to what campaign, no matter the amount, is a violation of privacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.usnews.com/debate-club/should-there-be-less-disclosure-in-campaign-finance/campaign-finance-disclosure-rules-infringe-on-first-amendment-rights" target="_blank" rel="external nofollow">usnews.com</a>
+					</div>
+										<div class="usage">
+						Google's new, unified privacy policy goes into effect at 12:01 am March 1 - whatever your time zone.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.philly.com/philly/blogs/consumer?month=2&amp;year=2012" target="_blank" rel="external nofollow">philly.com</a>
+					</div>
+										<div class="usage">
+						European regulators say Facebook privacy policy conflicts with law.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.washingtonpost.com/business/technology/best-buy-tablet-insignia-flex-could-cost-around-250/2012/10/17/bdb346f4-184d-11e2-a55c-39408fbe6a4b_story.html" target="_blank" rel="external nofollow">washingtonpost.com</a>
+					</div>
+										<div class="usage">
+						As the Electronic Communications Privacy Act Turns 25, It Gets a Birthday Spanking.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.slate.com/blogs/future_tense/2011/10/20/dance_your_ph_d_winners_of_the_annual_interpretive_dance_contest.html" target="_blank" rel="external nofollow">slate.com</a>
+					</div>
+										<div class="usage">
+						Groundbreaking website features advanced capabilities—boosts privacy and provides ease of use.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.ababj.com/mortgage-solution-internet-based-service-/mortgage-shopping-website-introd.html" target="_blank" rel="external nofollow">ababj.com</a>
+					</div>
+										<div class="usage">
+						Biometrics in schools raises privacy questions.
+					</div>
+					<div class="uAuthor">
+						<a href="http://asumag.com/dailynews/carroll-county-maryland-school-lunch-hand-scanning-system-20121004/" target="_blank" rel="external nofollow">asumag.com</a>
+					</div>
+										<div class="usage">
+						The Supreme Court ruling sidesteps the issue of whether there is a right to informational privacy.
+					</div>
+					<div class="uAuthor">
+						<a href="http://www.csmonitor.com/USA/Justice/2011/0119/Supreme-Court-NASA-s-intrusive-background-checks-OK" target="_blank" rel="external nofollow">csmonitor.com</a>
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+				
+								<h3>In science:</h3>	
+				<div class="usageContainer">
+										<div class="usage">
+						The trend in the prior literature has been to propose speciﬁc perturbation techniques, which are then analyzed for their privacy and accuracy properties. 
+					</div>
+					<div class="uAuthor">
+						A Framework for High-Accuracy Privacy-Preserving Mining
+					</div>
+										<div class="usage">
+						However, our investigation shows that the tradeoff is very attractive in that the privacy increase is substantial whereas the accuracy reduction is only marginal. 
+					</div>
+					<div class="uAuthor">
+						A Framework for High-Accuracy Privacy-Preserving Mining
+					</div>
+										<div class="usage">
+						Hence minimum condition number for the symmetric perturbation matrices under privacy constraints represented by γ is γ+n−1 γ−1 . 
+					</div>
+					<div class="uAuthor">
+						A Framework for High-Accuracy Privacy-Preserving Mining
+					</div>
+										<div class="usage">
+						To choose K , we varied K from 0 to M , and for each K , ρ was chosen such that the matrix (Equation 12) satisﬁes the privacy constraints (Equation 2). 
+					</div>
+					<div class="uAuthor">
+						A Framework for High-Accuracy Privacy-Preserving Mining
+					</div>
+										<div class="usage">
+						In this paper we propose a strategy for administering a survey that is mindful of sensitive data and individual privacy. 
+					</div>
+					<div class="uAuthor">
+						Negative Surveys
+					</div>
+										<div class="usage">
+						In this paper, we propose Negative surveys as a technique for conducting surveys that is mindful of participant’s privacy. 
+					</div>
+					<div class="uAuthor">
+						Negative Surveys
+					</div>
+										<div class="usage">
+						Our ob jective is that, by providing transparent privacy guarantees, studies using our scheme will have greater participation and more accurate responses, and will, therefore, be more reliable. 
+					</div>
+					<div class="uAuthor">
+						Negative Surveys
+					</div>
+										<div class="usage">
+						In what follows, we review some of the work related to our own, specify the kind of survey under study and the negative survey technique, and discuss the privacy of our method by analyzing the amount of information gained by each questionnaire. 
+					</div>
+					<div class="uAuthor">
+						Negative Surveys
+					</div>
+										<div class="usage">
+						Other properties or representing data negatively are outlined in Esponda (2005); including the suggestion that this viewpoint may be useful, not only to protect stored data, but also, as a paradigm to enhance the privacy of data collection. 
+					</div>
+					<div class="uAuthor">
+						Negative Surveys
+					</div>
+										<div class="usage">
+						Privacy Preserved It is intuitively clear that the amount of information required by a negative questionnaire is inferior to what is asked for in its direct response version, at least when the query has more than two options. 
+					</div>
+					<div class="uAuthor">
+						Negative Surveys
+					</div>
+										<div class="usage">
+						To guarantee security the min-entropy has to be measured and ﬁltering has to be applied in a way that is analogous to the error correction and privacy ampliﬁcation routine used in quantum key distribution protocols. 
+					</div>
+					<div class="uAuthor">
+						Secure self-calibrating quantum random bit generator
+					</div>
+										<div class="usage">
+						Privacy ampliﬁcation protocols eliminate any fraction of information that may have eventually obtained by the attacker. 
+					</div>
+					<div class="uAuthor">
+						Secure sharing of random bits over the Internet
+					</div>
+										<div class="usage">
+						More speciﬁcally, two-universal hashing was ﬁrst applied to privacy ampliﬁcation in [BBR88, BBCM95]. 
+					</div>
+					<div class="uAuthor">
+						Sampling of min-entropy relative to quantum knowledge
+					</div>
+										<div class="usage">
+						While these extractors can be used for privacy ampliﬁcation, their parameters are not suitable for the bounded storage model. 
+					</div>
+					<div class="uAuthor">
+						Sampling of min-entropy relative to quantum knowledge
+					</div>
+										<div class="usage">
+						Subsequent to this sampling procedure, privacy ampliﬁcation may be used to extract a secret key from the substring Z ′ . 
+					</div>
+					<div class="uAuthor">
+						Sampling of min-entropy relative to quantum knowledge
+					</div>
+										<span class="separatorSmall">***</span>
+				</div>
+								
+								
+			</div>
+							
+			<h2 id="_related" class="header">Related words</h2>
+			<div id="related" class="subContainer relWords">	
+								<h3>Synonyms</h3>
+				<div class="related">
+					<div class="synGroup" title="the quality of being secluded from the presence or view of others"><a href="privateness.html">privateness</a>, <a href="seclusion.html">seclusion</a>, </div><div class="synGroup" title="the condition of being concealed or hidden"><a href="privateness.html">privateness</a>, <a href="secrecy.html">secrecy</a>, <a href="concealment.html">concealment</a></div>
+				</div>
+																<h3>Hypernyms <span class="remark" title="words that are more generic than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="isolation.html">isolation</a>, <a href="reclusiveness.html">reclusiveness</a>
+				</div>
+												<h3>Hyponyms <span class="remark" title="words that are more specific than a given word">(*)</span></h3>
+				<div class="related">
+					<a href="bosom.html">bosom</a>, <a href="confidentiality.html">confidentiality</a>, <a href="covertness.html">covertness</a>, <a href="hiddenness.html">hiddenness</a>, <a href="hiding.html">hiding</a>
+				</div>
+																<h3>Reverse dictionary <span class="remark" title="words that contain this word in their definition">(*)</span></h3>
+				<div class="related">
+					<a href="Big%20Brother.html">Big Brother</a>, <a href="cabinet.html">cabinet</a>, <a href="Clandestinity.html">Clandestinity</a>, <a href="cloistered.html">cloistered</a>, <a href="closet.html">closet</a>, <a href="Closet%20sin.html">Closet sin</a>, <a href="cocooning.html">cocooning</a>, <a href="concealment.html">concealment</a>, <a href="conclave.html">conclave</a>, <a href="convey.html">convey</a>, <a href="covered%20couch.html">covered couch</a>, <a href="covertness.html">covertness</a>, <a href="darkness.html">darkness</a>, <a href="Disprivacied.html">Disprivacied</a>, <a href="esoteric.html">esoteric</a>, <a href="fiction.html">fiction</a>, <a href="fish%20bowl.html">fish bowl</a>, <a href="fishbowl.html">fishbowl</a>, <a href="goldfish%20bowl.html">goldfish bowl</a>, <a href="harem.html">harem</a>, <a href="hugger-mugger.html">hugger-mugger</a>, <a href="in%20secret.html">in secret</a>, <a href="Inquisition.html">Inquisition</a>, <a href="interloper.html">interloper</a>, <a href="intrude.html">intrude</a>, <a href="intruder.html">intruder</a>, <a href="intrusive.html">intrusive</a>, <a href="invade.html">invade</a>, <a href="out.html">out</a>, <a href="penetralia.html">penetralia</a>, <a href="private.html">private</a>, <a href="privateness.html">privateness</a>, <a href="Privity.html">Privity</a>, <a href="publicly.html">publicly</a>, <a href="recess.html">recess</a>, <a href="reclusive.html">reclusive</a>, <a href="respect.html">respect</a>, <a href="retire.html">retire</a>, <a href="retirement.html">retirement</a>, <a href="retreat.html">retreat</a>, <a href="sanctum.html">sanctum</a>, <a href="sanctum%20sanctorum.html">sanctum sanctorum</a>, <a href="screen.html">screen</a>, <a href="secluded.html">secluded</a>, <a href="seclusion.html">seclusion</a>, <a href="Seclusive.html">Seclusive</a>, <a href="secrecy.html">secrecy</a>, <a href="Secreness.html">Secreness</a>, <a href="secret.html">secret</a>, <a href="Security%20Intelligence%20Review%20Committee.html">Security Intelligence Review Committee</a>, <a href="sequestered.html">sequestered</a>, <a href="shadow.html">shadow</a>, <a href="shelter.html">shelter</a>, <a href="SIRC.html">SIRC</a>, <a href="tete%20a%20tete.html">tete a tete</a>, <a href="trespass.html">trespass</a>, <a href="trespasser.html">trespasser</a>, <a href="Undisprivacied.html">Undisprivacied</a>, <a href="vent.html">vent</a>, <a href="window%20blind.html">window blind</a>
+				</div>
+								
+								<h3>Typos <span class="remark" title="typos are generated for QWERTY keyboard layout">(*)</span></h3>
+				<div class="related">
+					orivacy, lrivacy, peivacy, pdivacy, pfivacy, ptivacy, pruvacy, prjvacy, prkvacy, provacy, pricacy, prifacy, prigacy, pribacy, privqcy, privwcy, privscy, privzcy, privaxy, privady, privafy, privavy, privact, privacg, privach, privacu
+				</div>
+										
+			</div>
+						<hr class="footer">
+			<!-- start ad -->
+			
+			<!-- end ad -->		
+		</div>
+	</div>
